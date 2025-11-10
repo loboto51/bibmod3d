@@ -5,6 +5,7 @@ date: "2025-04-10T16:19:11Z"
 toc: true
 image: "thumbs_-_nail-polish-plate-early-version_-_Images_1.jpg"
 tags:
+- "Chocolatebutter"
 - "DIVERS"
 - "Matériel-de-Modélisme"
 - "DIVERS Matériel-de-Modélisme"
@@ -20,34 +21,28 @@ tags:
 - "DIVERS NONDL NONSUP"
 - "Matériel-de-Modélisme NONDL NONSUP"
 - "DIVERS Matériel-de-Modélisme NONDL NONSUP"
-- "GRATUIT"
-- "DIVERS GRATUIT"
-- "Matériel-de-Modélisme GRATUIT"
-- "DIVERS Matériel-de-Modélisme GRATUIT"
-- "NONDL GRATUIT"
-- "DIVERS NONDL GRATUIT"
-- "Matériel-de-Modélisme NONDL GRATUIT"
-- "DIVERS Matériel-de-Modélisme NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "DIVERS NONSUP GRATUIT"
-- "Matériel-de-Modélisme NONSUP GRATUIT"
-- "DIVERS Matériel-de-Modélisme NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "DIVERS NONDL NONSUP GRATUIT"
-- "Matériel-de-Modélisme NONDL NONSUP GRATUIT"
-- "DIVERS Matériel-de-Modélisme NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] Chocolatebutter > Nail_polish_plate__early_version [non dl]
 
 ![](<thumbs_-_nail-polish-plate-early-version_-_Images_1.jpg> "thumbs_-_nail-polish-plate-early-version_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/tool/nail-polish-plate-early-version"](<"https://cults3d.com/en/3d-model/tool/nail-polish-plate-early-version">)
+Source : [https://cults3d.com/en/3d-model/tool/nail-polish-plate-early-version](https://cults3d.com/en/3d-model/tool/nail-polish-plate-early-version)
+
+Id objet : nail-polish-plate-early-version
 
 Prix : 0.0 euros
+
+Collections :
+
+- DIVERS Matériel-de-Modélisme
+
+
+Collections pour tags :
+
+- DIVERS Matériel-de-Modélisme NONDL NONSUP
+
 
 Description :
 
@@ -58,11 +53,6 @@ You can resize X and Y, resizing the Z will of course affect the stencil depth.
 Print slow, tiny layers and slow print speed for good results. Flat to the plate makes it easier to wipe the polish off.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

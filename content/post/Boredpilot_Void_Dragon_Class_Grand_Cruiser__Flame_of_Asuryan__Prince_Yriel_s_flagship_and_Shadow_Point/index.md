@@ -5,6 +5,7 @@ date: "2021-11-25T08:54:54Z"
 toc: true
 image: "thumbs_-_void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point_-_Images_1.jpg"
 tags:
+- "Boredpilot"
 - "bfg"
 - "ELDARS"
 - "bfg ELDARS"
@@ -35,7 +36,6 @@ tags:
 - "VM Flotte NONDL"
 - "bfg VM Flotte NONDL"
 - "ELDARS VM Flotte NONDL"
-- "bfg ELDARS VM Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "ELDARS NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "VM Flotte NONSUP"
 - "bfg VM Flotte NONSUP"
 - "ELDARS VM Flotte NONSUP"
-- "bfg ELDARS VM Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "ELDARS NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "VM NONDL NONSUP"
 - "bfg VM NONDL NONSUP"
 - "ELDARS VM NONDL NONSUP"
-- "bfg ELDARS VM NONDL NONSUP"
 - "Flotte NONDL NONSUP"
 - "bfg Flotte NONDL NONSUP"
 - "ELDARS Flotte NONDL NONSUP"
-- "bfg ELDARS Flotte NONDL NONSUP"
 - "VM Flotte NONDL NONSUP"
-- "bfg VM Flotte NONDL NONSUP"
-- "ELDARS VM Flotte NONDL NONSUP"
 
 ---
-
-## [PAYANT] Boredpilot > Void_Dragon_Class_Grand_Cruiser__Flame_of_Asuryan__Prince_Yriel_s_flagship_and_Shadow_Point [non dl]
 
 ![](<thumbs_-_void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point_-_Images_1.jpg> "thumbs_-_void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point"](<"https://cults3d.com/en/3d-model/game/void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point">)
+Source : [https://cults3d.com/en/3d-model/game/void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point](https://cults3d.com/en/3d-model/game/void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point)
+
+Id objet : void-dragon-class-grand-cruiser-flame-of-asuryan-prince-yriel-s-flagship-andshadow-point
 
 Prix : 3 euros
+
+Collections :
+
+- bfg ELDARS VM Flotte
+
+
+Collections pour tags :
+
+- bfg ELDARS VM Flotte NONDL NONSUP
+
 
 Description :
 
@@ -97,11 +102,6 @@ Ive printed these in resin in a old resin printer (no 4k here and still they cam
 The wings when printing in resin as it is thin will try warping slightly, once you have cured the wings in light, heat the wings with a hair dry to allow you to bend back into shape, I used my table as the flat surface and held the wing there until it had cooled to be back straight again
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

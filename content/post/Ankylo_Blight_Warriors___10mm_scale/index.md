@@ -5,6 +5,7 @@ date: "2024-04-02T09:08:20Z"
 toc: true
 image: "thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg"
 tags:
+- "Ankylo"
 - "warmaster"
 - "CHAOS"
 - "warmaster CHAOS"
@@ -23,15 +24,25 @@ tags:
 
 ---
 
-## [PAYANT] Ankylo > Blight_Warriors___10mm_scale [non dl]
-
 ![](<thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg> "thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/blight-warriors-10mm-scale"](<"https://cults3d.com/en/3d-model/game/blight-warriors-10mm-scale">)
+Source : [https://cults3d.com/en/3d-model/game/blight-warriors-10mm-scale](https://cults3d.com/en/3d-model/game/blight-warriors-10mm-scale)
+
+Id objet : blight-warriors-10mm-scale
 
 Prix : 13 euros
+
+Collections :
+
+- warmaster CHAOS
+
+
+Collections pour tags :
+
+- warmaster CHAOS NONDL SUP
+
 
 Description :
 
@@ -66,11 +77,13 @@ The Miniatures are especially designed for easy 3d printing and durability on th
 All STLs come in two versions - unsupported + pre-supported.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-All STLs come in two versions - unsupported + pre-supported.
+    ~~~
+    All STLs come in two versions - unsupported + pre-supported.
+    
+    ~~~
 
-~~~
+  
 
 

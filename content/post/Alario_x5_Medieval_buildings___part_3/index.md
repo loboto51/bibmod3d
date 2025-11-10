@@ -5,6 +5,7 @@ date: "2024-11-04T01:19:53Z"
 toc: true
 image: "thumbs_-_x5-medival-buildings-part-3_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > x5_Medieval_buildings___part_3 [non dl]
 
 ![](<thumbs_-_x5-medival-buildings-part-3_-_Images_1.jpg> "thumbs_-_x5-medival-buildings-part-3_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/x5-medival-buildings-part-3"](<"https://cults3d.com/en/3d-model/game/x5-medival-buildings-part-3">)
+Source : [https://cults3d.com/en/3d-model/game/x5-medival-buildings-part-3](https://cults3d.com/en/3d-model/game/x5-medival-buildings-part-3)
+
+Id objet : x5-medival-buildings-part-3
 
 Prix : 5 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -63,11 +73,6 @@ Made by StlShop and being sold on Licence
 License
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

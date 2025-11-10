@@ -5,6 +5,7 @@ date: "2025-09-17T09:17:03Z"
 toc: true
 image: "thumbs_-_8mm-firstsons-cavalry-squadron-astra-guard-regiment_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-Cavalerie GI-VOSTROYENS"
 - "epic GI Humains-Cavalerie GI-VOSTROYENS"
 - "infanterie GI Humains-Cavalerie GI-VOSTROYENS"
-- "epic infanterie GI Humains-Cavalerie GI-VOSTROYENS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-Cavalerie NONDL"
 - "epic GI Humains-Cavalerie NONDL"
 - "infanterie GI Humains-Cavalerie NONDL"
-- "epic infanterie GI Humains-Cavalerie NONDL"
 - "GI-VOSTROYENS NONDL"
 - "epic GI-VOSTROYENS NONDL"
 - "infanterie GI-VOSTROYENS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-VOSTROYENS NONDL"
 - "epic GI GI-VOSTROYENS NONDL"
 - "infanterie GI GI-VOSTROYENS NONDL"
-- "epic infanterie GI GI-VOSTROYENS NONDL"
 - "Humains-Cavalerie GI-VOSTROYENS NONDL"
 - "epic Humains-Cavalerie GI-VOSTROYENS NONDL"
 - "infanterie Humains-Cavalerie GI-VOSTROYENS NONDL"
-- "epic infanterie Humains-Cavalerie GI-VOSTROYENS NONDL"
 - "GI Humains-Cavalerie GI-VOSTROYENS NONDL"
-- "epic GI Humains-Cavalerie GI-VOSTROYENS NONDL"
-- "infanterie GI Humains-Cavalerie GI-VOSTROYENS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-Cavalerie NONSUP"
 - "epic GI Humains-Cavalerie NONSUP"
 - "infanterie GI Humains-Cavalerie NONSUP"
-- "epic infanterie GI Humains-Cavalerie NONSUP"
 - "GI-VOSTROYENS NONSUP"
 - "epic GI-VOSTROYENS NONSUP"
 - "infanterie GI-VOSTROYENS NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-VOSTROYENS NONSUP"
 - "epic GI GI-VOSTROYENS NONSUP"
 - "infanterie GI GI-VOSTROYENS NONSUP"
-- "epic infanterie GI GI-VOSTROYENS NONSUP"
 - "Humains-Cavalerie GI-VOSTROYENS NONSUP"
 - "epic Humains-Cavalerie GI-VOSTROYENS NONSUP"
 - "infanterie Humains-Cavalerie GI-VOSTROYENS NONSUP"
-- "epic infanterie Humains-Cavalerie GI-VOSTROYENS NONSUP"
 - "GI Humains-Cavalerie GI-VOSTROYENS NONSUP"
-- "epic GI Humains-Cavalerie GI-VOSTROYENS NONSUP"
-- "infanterie GI Humains-Cavalerie GI-VOSTROYENS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-Cavalerie NONDL NONSUP"
 - "epic Humains-Cavalerie NONDL NONSUP"
 - "infanterie Humains-Cavalerie NONDL NONSUP"
-- "epic infanterie Humains-Cavalerie NONDL NONSUP"
 - "GI Humains-Cavalerie NONDL NONSUP"
-- "epic GI Humains-Cavalerie NONDL NONSUP"
-- "infanterie GI Humains-Cavalerie NONDL NONSUP"
 - "GI-VOSTROYENS NONDL NONSUP"
 - "epic GI-VOSTROYENS NONDL NONSUP"
 - "infanterie GI-VOSTROYENS NONDL NONSUP"
-- "epic infanterie GI-VOSTROYENS NONDL NONSUP"
 - "GI GI-VOSTROYENS NONDL NONSUP"
-- "epic GI GI-VOSTROYENS NONDL NONSUP"
-- "infanterie GI GI-VOSTROYENS NONDL NONSUP"
 - "Humains-Cavalerie GI-VOSTROYENS NONDL NONSUP"
-- "epic Humains-Cavalerie GI-VOSTROYENS NONDL NONSUP"
-- "infanterie Humains-Cavalerie GI-VOSTROYENS NONDL NONSUP"
-- "GI Humains-Cavalerie GI-VOSTROYENS NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_FIRSTSONS_CAVALRY_SQUADRON_Astra_Guard_REGIMENT [non dl]
 
 ![](<thumbs_-_8mm-firstsons-cavalry-squadron-astra-guard-regiment_-_Images_1.jpg> "thumbs_-_8mm-firstsons-cavalry-squadron-astra-guard-regiment_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-firstsons-cavalry-squadron-astra-guard-regiment"](<"https://cults3d.com/en/3d-model/game/8mm-firstsons-cavalry-squadron-astra-guard-regiment">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-firstsons-cavalry-squadron-astra-guard-regiment](https://cults3d.com/en/3d-model/game/8mm-firstsons-cavalry-squadron-astra-guard-regiment)
+
+Id objet : 8mm-firstsons-cavalry-squadron-astra-guard-regiment
 
 Prix : 6.82 euros
+
+Collections :
+
+- epic infanterie GI Humains-Cavalerie GI-VOSTROYENS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-Cavalerie GI-VOSTROYENS NONDL NONSUP
+
 
 Description :
 
@@ -145,11 +135,6 @@ Now the guys are adapted to 8mm scale, approximately 7mm at eye level.
 More than 100 combinations, which is relevant if you have good resin or you will be upscaling. Otherwise, focus on thicker or shorter pistols)
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

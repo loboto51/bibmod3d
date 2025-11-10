@@ -5,6 +5,7 @@ date: "2025-07-25T21:12:53Z"
 toc: true
 image: "thumbs_-_independant-trader-escorts_-_Images_1.jpg"
 tags:
+- "Bluesquat"
 - "bfg"
 - "IMP"
 - "bfg IMP"
@@ -35,19 +36,28 @@ tags:
 - "Flotte NONDL SUP"
 - "bfg Flotte NONDL SUP"
 - "IMP Flotte NONDL SUP"
-- "bfg IMP Flotte NONDL SUP"
 
 ---
-
-## [PAYANT] Bluesquat > Independant_Trader_Escorts [non dl]
 
 ![](<thumbs_-_independant-trader-escorts_-_Images_1.jpg> "thumbs_-_independant-trader-escorts_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/independant-trader-escorts"](<"https://cults3d.com/en/3d-model/game/independant-trader-escorts">)
+Source : [https://cults3d.com/en/3d-model/game/independant-trader-escorts](https://cults3d.com/en/3d-model/game/independant-trader-escorts)
+
+Id objet : independant-trader-escorts
 
 Prix : 2.0 euros
+
+Collections :
+
+- bfg IMP Flotte
+
+
+Collections pour tags :
+
+- bfg IMP Flotte NONDL SUP
+
 
 Description :
 
@@ -64,11 +74,13 @@ The escorts are between 35mm and 40mm long and can be used to proxy Rogue Trader
 _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-_ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
+    ~~~
+    _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
+    
+    ~~~
 
-~~~
+  
 
 

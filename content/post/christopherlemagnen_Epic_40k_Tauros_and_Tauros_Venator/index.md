@@ -5,6 +5,7 @@ date: "2020-08-15T11:13:35Z"
 toc: true
 image: "thumbs_-_epic-40k-tauros-and-tauros-venator_-_Images_1.jpg"
 tags:
+- "christopherlemagnen"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "GI Imp-vehicules-legers Imp-jeep-type-tauros"
 - "epic GI Imp-vehicules-legers Imp-jeep-type-tauros"
 - "vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros"
-- "epic vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Imp-vehicules-legers NONDL"
 - "epic GI Imp-vehicules-legers NONDL"
 - "vehicules GI Imp-vehicules-legers NONDL"
-- "epic vehicules GI Imp-vehicules-legers NONDL"
 - "Imp-jeep-type-tauros NONDL"
 - "epic Imp-jeep-type-tauros NONDL"
 - "vehicules Imp-jeep-type-tauros NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI Imp-jeep-type-tauros NONDL"
 - "epic GI Imp-jeep-type-tauros NONDL"
 - "vehicules GI Imp-jeep-type-tauros NONDL"
-- "epic vehicules GI Imp-jeep-type-tauros NONDL"
 - "Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
 - "epic Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
 - "vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
-- "epic vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
 - "GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
-- "epic GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
-- "vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Imp-vehicules-legers NONSUP"
 - "epic GI Imp-vehicules-legers NONSUP"
 - "vehicules GI Imp-vehicules-legers NONSUP"
-- "epic vehicules GI Imp-vehicules-legers NONSUP"
 - "Imp-jeep-type-tauros NONSUP"
 - "epic Imp-jeep-type-tauros NONSUP"
 - "vehicules Imp-jeep-type-tauros NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI Imp-jeep-type-tauros NONSUP"
 - "epic GI Imp-jeep-type-tauros NONSUP"
 - "vehicules GI Imp-jeep-type-tauros NONSUP"
-- "epic vehicules GI Imp-jeep-type-tauros NONSUP"
 - "Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
 - "epic Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
 - "vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
-- "epic vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
 - "GI Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
-- "epic GI Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
-- "vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -105,136 +95,37 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "vehicules GI NONDL NONSUP"
-- "epic vehicules GI NONDL NONSUP"
 - "Imp-vehicules-legers NONDL NONSUP"
 - "epic Imp-vehicules-legers NONDL NONSUP"
 - "vehicules Imp-vehicules-legers NONDL NONSUP"
-- "epic vehicules Imp-vehicules-legers NONDL NONSUP"
 - "GI Imp-vehicules-legers NONDL NONSUP"
-- "epic GI Imp-vehicules-legers NONDL NONSUP"
-- "vehicules GI Imp-vehicules-legers NONDL NONSUP"
 - "Imp-jeep-type-tauros NONDL NONSUP"
 - "epic Imp-jeep-type-tauros NONDL NONSUP"
 - "vehicules Imp-jeep-type-tauros NONDL NONSUP"
-- "epic vehicules Imp-jeep-type-tauros NONDL NONSUP"
 - "GI Imp-jeep-type-tauros NONDL NONSUP"
-- "epic GI Imp-jeep-type-tauros NONDL NONSUP"
-- "vehicules GI Imp-jeep-type-tauros NONDL NONSUP"
 - "Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP"
-- "epic Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP"
-- "vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP"
-- "GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "vehicules GRATUIT"
-- "epic vehicules GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "vehicules GI GRATUIT"
-- "epic vehicules GI GRATUIT"
-- "Imp-vehicules-legers GRATUIT"
-- "epic Imp-vehicules-legers GRATUIT"
-- "vehicules Imp-vehicules-legers GRATUIT"
-- "epic vehicules Imp-vehicules-legers GRATUIT"
-- "GI Imp-vehicules-legers GRATUIT"
-- "epic GI Imp-vehicules-legers GRATUIT"
-- "vehicules GI Imp-vehicules-legers GRATUIT"
-- "epic vehicules GI Imp-vehicules-legers GRATUIT"
-- "Imp-jeep-type-tauros GRATUIT"
-- "epic Imp-jeep-type-tauros GRATUIT"
-- "vehicules Imp-jeep-type-tauros GRATUIT"
-- "epic vehicules Imp-jeep-type-tauros GRATUIT"
-- "GI Imp-jeep-type-tauros GRATUIT"
-- "epic GI Imp-jeep-type-tauros GRATUIT"
-- "vehicules GI Imp-jeep-type-tauros GRATUIT"
-- "epic vehicules GI Imp-jeep-type-tauros GRATUIT"
-- "Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "epic Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "vehicules Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "epic vehicules Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "GI Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "epic GI Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "vehicules NONDL GRATUIT"
-- "epic vehicules NONDL GRATUIT"
-- "GI NONDL GRATUIT"
-- "epic GI NONDL GRATUIT"
-- "vehicules GI NONDL GRATUIT"
-- "epic vehicules GI NONDL GRATUIT"
-- "Imp-vehicules-legers NONDL GRATUIT"
-- "epic Imp-vehicules-legers NONDL GRATUIT"
-- "vehicules Imp-vehicules-legers NONDL GRATUIT"
-- "epic vehicules Imp-vehicules-legers NONDL GRATUIT"
-- "GI Imp-vehicules-legers NONDL GRATUIT"
-- "epic GI Imp-vehicules-legers NONDL GRATUIT"
-- "vehicules GI Imp-vehicules-legers NONDL GRATUIT"
-- "Imp-jeep-type-tauros NONDL GRATUIT"
-- "epic Imp-jeep-type-tauros NONDL GRATUIT"
-- "vehicules Imp-jeep-type-tauros NONDL GRATUIT"
-- "epic vehicules Imp-jeep-type-tauros NONDL GRATUIT"
-- "GI Imp-jeep-type-tauros NONDL GRATUIT"
-- "epic GI Imp-jeep-type-tauros NONDL GRATUIT"
-- "vehicules GI Imp-jeep-type-tauros NONDL GRATUIT"
-- "Imp-vehicules-legers Imp-jeep-type-tauros NONDL GRATUIT"
-- "epic Imp-vehicules-legers Imp-jeep-type-tauros NONDL GRATUIT"
-- "vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONDL GRATUIT"
-- "GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "vehicules NONSUP GRATUIT"
-- "epic vehicules NONSUP GRATUIT"
-- "GI NONSUP GRATUIT"
-- "epic GI NONSUP GRATUIT"
-- "vehicules GI NONSUP GRATUIT"
-- "epic vehicules GI NONSUP GRATUIT"
-- "Imp-vehicules-legers NONSUP GRATUIT"
-- "epic Imp-vehicules-legers NONSUP GRATUIT"
-- "vehicules Imp-vehicules-legers NONSUP GRATUIT"
-- "epic vehicules Imp-vehicules-legers NONSUP GRATUIT"
-- "GI Imp-vehicules-legers NONSUP GRATUIT"
-- "epic GI Imp-vehicules-legers NONSUP GRATUIT"
-- "vehicules GI Imp-vehicules-legers NONSUP GRATUIT"
-- "Imp-jeep-type-tauros NONSUP GRATUIT"
-- "epic Imp-jeep-type-tauros NONSUP GRATUIT"
-- "vehicules Imp-jeep-type-tauros NONSUP GRATUIT"
-- "epic vehicules Imp-jeep-type-tauros NONSUP GRATUIT"
-- "GI Imp-jeep-type-tauros NONSUP GRATUIT"
-- "epic GI Imp-jeep-type-tauros NONSUP GRATUIT"
-- "vehicules GI Imp-jeep-type-tauros NONSUP GRATUIT"
-- "Imp-vehicules-legers Imp-jeep-type-tauros NONSUP GRATUIT"
-- "epic Imp-vehicules-legers Imp-jeep-type-tauros NONSUP GRATUIT"
-- "vehicules Imp-vehicules-legers Imp-jeep-type-tauros NONSUP GRATUIT"
-- "GI Imp-vehicules-legers Imp-jeep-type-tauros NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "vehicules NONDL NONSUP GRATUIT"
-- "epic vehicules NONDL NONSUP GRATUIT"
-- "GI NONDL NONSUP GRATUIT"
-- "epic GI NONDL NONSUP GRATUIT"
-- "vehicules GI NONDL NONSUP GRATUIT"
-- "Imp-vehicules-legers NONDL NONSUP GRATUIT"
-- "epic Imp-vehicules-legers NONDL NONSUP GRATUIT"
-- "vehicules Imp-vehicules-legers NONDL NONSUP GRATUIT"
-- "GI Imp-vehicules-legers NONDL NONSUP GRATUIT"
-- "Imp-jeep-type-tauros NONDL NONSUP GRATUIT"
-- "epic Imp-jeep-type-tauros NONDL NONSUP GRATUIT"
-- "vehicules Imp-jeep-type-tauros NONDL NONSUP GRATUIT"
-- "GI Imp-jeep-type-tauros NONDL NONSUP GRATUIT"
-- "Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] christopherlemagnen > Epic_40k_Tauros_and_Tauros_Venator [non dl]
 
 ![](<thumbs_-_epic-40k-tauros-and-tauros-venator_-_Images_1.jpg> "thumbs_-_epic-40k-tauros-and-tauros-venator_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-40k-tauros-and-tauros-venator"](<"https://cults3d.com/en/3d-model/game/epic-40k-tauros-and-tauros-venator">)
+Source : [https://cults3d.com/en/3d-model/game/epic-40k-tauros-and-tauros-venator](https://cults3d.com/en/3d-model/game/epic-40k-tauros-and-tauros-venator)
+
+Id objet : epic-40k-tauros-and-tauros-venator
 
 Prix : 0.0 euros
+
+Collections :
+
+- epic vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros
+
+
+Collections pour tags :
+
+- epic vehicules GI Imp-vehicules-legers Imp-jeep-type-tauros NONDL NONSUP
+
 
 Description :
 
@@ -242,11 +133,6 @@ Description :
 Tauros Venator and Tauros vehicles modelled for use with Epic 40k. I couldn't find any anywhere else, so I modelled my own! Feel free to make alternative turrets for the venator. (not sure what's happened to the photos)
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

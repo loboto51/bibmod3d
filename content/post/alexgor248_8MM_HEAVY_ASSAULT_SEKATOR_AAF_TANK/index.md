@@ -5,6 +5,7 @@ date: "2025-02-10T08:52:31Z"
 toc: true
 image: "thumbs_-_8mm-heavy-assault-sekator-aaf-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "SMI Sicarans NONDL"
 - "epic SMI Sicarans NONDL"
 - "vehicules SMI Sicarans NONDL"
-- "epic vehicules SMI Sicarans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Sicarans NONSUP"
 - "epic SMI Sicarans NONSUP"
 - "vehicules SMI Sicarans NONSUP"
-- "epic vehicules SMI Sicarans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "vehicules SMI NONDL NONSUP"
-- "epic vehicules SMI NONDL NONSUP"
 - "Sicarans NONDL NONSUP"
 - "epic Sicarans NONDL NONSUP"
 - "vehicules Sicarans NONDL NONSUP"
-- "epic vehicules Sicarans NONDL NONSUP"
 - "SMI Sicarans NONDL NONSUP"
-- "epic SMI Sicarans NONDL NONSUP"
-- "vehicules SMI Sicarans NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_HEAVY_ASSAULT_SEKATOR_AAF_TANK [non dl]
 
 ![](<thumbs_-_8mm-heavy-assault-sekator-aaf-tank_-_Images_1.jpg> "thumbs_-_8mm-heavy-assault-sekator-aaf-tank_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-heavy-assault-sekator-aaf-tank"](<"https://cults3d.com/en/3d-model/game/8mm-heavy-assault-sekator-aaf-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-heavy-assault-sekator-aaf-tank](https://cults3d.com/en/3d-model/game/8mm-heavy-assault-sekator-aaf-tank)
+
+Id objet : 8mm-heavy-assault-sekator-aaf-tank
 
 Prix : 6 euros
+
+Collections :
+
+- epic vehicules SMI Sicarans
+
+
+Collections pour tags :
+
+- epic vehicules SMI Sicarans NONDL NONSUP
+
 
 Description :
 
@@ -98,11 +103,6 @@ check 8MM FREE KITS FOR LBT ASTRA AIRBORN FORCES TANK
 https://cults3d.com/en/3d-model/game/front-design
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

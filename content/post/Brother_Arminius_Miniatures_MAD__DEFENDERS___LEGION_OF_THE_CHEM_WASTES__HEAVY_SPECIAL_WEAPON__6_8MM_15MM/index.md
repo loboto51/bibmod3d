@@ -5,6 +5,7 @@ date: "2023-04-03T15:37:06Z"
 toc: true
 image: "thumbs_-_mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm_-_Images_1.jpg"
 tags:
+- "Brother_Arminius_Miniatures"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-tactiques GI-LEGACIER"
 - "epic GI Humains-tactiques GI-LEGACIER"
 - "infanterie GI Humains-tactiques GI-LEGACIER"
-- "epic infanterie GI Humains-tactiques GI-LEGACIER"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-LEGACIER NONDL"
 - "epic GI-LEGACIER NONDL"
 - "infanterie GI-LEGACIER NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-LEGACIER NONDL"
 - "epic GI GI-LEGACIER NONDL"
 - "infanterie GI GI-LEGACIER NONDL"
-- "epic infanterie GI GI-LEGACIER NONDL"
 - "Humains-tactiques GI-LEGACIER NONDL"
 - "epic Humains-tactiques GI-LEGACIER NONDL"
 - "infanterie Humains-tactiques GI-LEGACIER NONDL"
-- "epic infanterie Humains-tactiques GI-LEGACIER NONDL"
 - "GI Humains-tactiques GI-LEGACIER NONDL"
-- "epic GI Humains-tactiques GI-LEGACIER NONDL"
-- "infanterie GI Humains-tactiques GI-LEGACIER NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-tactiques NONSUP"
 - "epic GI Humains-tactiques NONSUP"
 - "infanterie GI Humains-tactiques NONSUP"
-- "epic infanterie GI Humains-tactiques NONSUP"
 - "GI-LEGACIER NONSUP"
 - "epic GI-LEGACIER NONSUP"
 - "infanterie GI-LEGACIER NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-LEGACIER NONSUP"
 - "epic GI GI-LEGACIER NONSUP"
 - "infanterie GI GI-LEGACIER NONSUP"
-- "epic infanterie GI GI-LEGACIER NONSUP"
 - "Humains-tactiques GI-LEGACIER NONSUP"
 - "epic Humains-tactiques GI-LEGACIER NONSUP"
 - "infanterie Humains-tactiques GI-LEGACIER NONSUP"
-- "epic infanterie Humains-tactiques GI-LEGACIER NONSUP"
 - "GI Humains-tactiques GI-LEGACIER NONSUP"
-- "epic GI Humains-tactiques GI-LEGACIER NONSUP"
-- "infanterie GI Humains-tactiques GI-LEGACIER NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -105,29 +95,17 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
 - "epic Humains-tactiques NONDL NONSUP"
 - "infanterie Humains-tactiques NONDL NONSUP"
-- "epic infanterie Humains-tactiques NONDL NONSUP"
 - "GI Humains-tactiques NONDL NONSUP"
-- "epic GI Humains-tactiques NONDL NONSUP"
-- "infanterie GI Humains-tactiques NONDL NONSUP"
 - "GI-LEGACIER NONDL NONSUP"
 - "epic GI-LEGACIER NONDL NONSUP"
 - "infanterie GI-LEGACIER NONDL NONSUP"
-- "epic infanterie GI-LEGACIER NONDL NONSUP"
 - "GI GI-LEGACIER NONDL NONSUP"
-- "epic GI GI-LEGACIER NONDL NONSUP"
-- "infanterie GI GI-LEGACIER NONDL NONSUP"
 - "Humains-tactiques GI-LEGACIER NONDL NONSUP"
-- "epic Humains-tactiques GI-LEGACIER NONDL NONSUP"
-- "infanterie Humains-tactiques GI-LEGACIER NONDL NONSUP"
-- "GI Humains-tactiques GI-LEGACIER NONDL NONSUP"
 
 ---
-
-## [PAYANT] Brother_Arminius_Miniatures > MAD__DEFENDERS___LEGION_OF_THE_CHEM_WASTES__HEAVY_SPECIAL_WEAPON__6_8MM_15MM [non dl]
 
 ![](<thumbs_-_mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm_-_Images_1.jpg> "thumbs_-_mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm_-_Images_1.jpg")
 
@@ -135,9 +113,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm"](<"https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm">)
+Source : [https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm](https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm)
+
+Id objet : mad-defenders-legion-of-the-chem-wastes-heavy-special-weapon-6-8mm-15mm
 
 Prix : 5 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques GI-LEGACIER
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques GI-LEGACIER NONDL NONSUP
+
 
 Description :
 
@@ -158,11 +148,6 @@ Special Weapons: [Plasma, Fusion, Grande Launcher, Flamer]
 All models come with and without base.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

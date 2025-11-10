@@ -5,6 +5,7 @@ date: "2024-11-20T08:36:17Z"
 toc: true
 image: "thumbs_-_fleetscale-shuttles_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "bfg"
 - "IMP"
 - "bfg IMP"
@@ -35,42 +36,8 @@ tags:
 - "Flotte NONDL NONSUP"
 - "bfg Flotte NONDL NONSUP"
 - "IMP Flotte NONDL NONSUP"
-- "bfg IMP Flotte NONDL NONSUP"
-- "BONMARCHE"
-- "bfg BONMARCHE"
-- "IMP BONMARCHE"
-- "bfg IMP BONMARCHE"
-- "Flotte BONMARCHE"
-- "bfg Flotte BONMARCHE"
-- "IMP Flotte BONMARCHE"
-- "bfg IMP Flotte BONMARCHE"
-- "NONDL BONMARCHE"
-- "bfg NONDL BONMARCHE"
-- "IMP NONDL BONMARCHE"
-- "bfg IMP NONDL BONMARCHE"
-- "Flotte NONDL BONMARCHE"
-- "bfg Flotte NONDL BONMARCHE"
-- "IMP Flotte NONDL BONMARCHE"
-- "bfg IMP Flotte NONDL BONMARCHE"
-- "NONSUP BONMARCHE"
-- "bfg NONSUP BONMARCHE"
-- "IMP NONSUP BONMARCHE"
-- "bfg IMP NONSUP BONMARCHE"
-- "Flotte NONSUP BONMARCHE"
-- "bfg Flotte NONSUP BONMARCHE"
-- "IMP Flotte NONSUP BONMARCHE"
-- "bfg IMP Flotte NONSUP BONMARCHE"
-- "NONDL NONSUP BONMARCHE"
-- "bfg NONDL NONSUP BONMARCHE"
-- "IMP NONDL NONSUP BONMARCHE"
-- "bfg IMP NONDL NONSUP BONMARCHE"
-- "Flotte NONDL NONSUP BONMARCHE"
-- "bfg Flotte NONDL NONSUP BONMARCHE"
-- "IMP Flotte NONDL NONSUP BONMARCHE"
 
 ---
-
-## [BON-MARCHE] BitsBlitzDesigns > Fleetscale_shuttles [non dl]
 
 ![](<thumbs_-_fleetscale-shuttles_-_Images_1.jpg> "thumbs_-_fleetscale-shuttles_-_Images_1.jpg")
 
@@ -78,9 +45,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/fleetscale-shuttles"](<"https://cults3d.com/en/3d-model/game/fleetscale-shuttles">)
+Source : [https://cults3d.com/en/3d-model/game/fleetscale-shuttles](https://cults3d.com/en/3d-model/game/fleetscale-shuttles)
+
+Id objet : fleetscale-shuttles
 
 Prix : 1.5 euros
+
+Collections :
+
+- bfg IMP Flotte
+
+
+Collections pour tags :
+
+- bfg IMP Flotte NONDL NONSUP
+
 
 Description :
 
@@ -99,11 +78,6 @@ If you need square bases to insert these in, I'd recommend getting [these from V
 Please do not share or sell these files without my written permission. This also applies to remixes of my designs.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

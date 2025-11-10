@@ -5,6 +5,7 @@ date: "2025-04-17T14:37:02Z"
 toc: true
 image: "thumbs_-_alternative-armour-dire-wolf-kit-traitor_-_Images_1.jpg"
 tags:
+- "argonaut"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Admech-titans-dire-wolfs NONDL"
 - "epic IMP Admech-titans-dire-wolfs NONDL"
 - "titans IMP Admech-titans-dire-wolfs NONDL"
-- "epic titans IMP Admech-titans-dire-wolfs NONDL"
 - "SUP"
 - "epic SUP"
 - "titans SUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Admech-titans-dire-wolfs SUP"
 - "epic IMP Admech-titans-dire-wolfs SUP"
 - "titans IMP Admech-titans-dire-wolfs SUP"
-- "epic titans IMP Admech-titans-dire-wolfs SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "titans NONDL SUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL SUP"
 - "epic IMP NONDL SUP"
 - "titans IMP NONDL SUP"
-- "epic titans IMP NONDL SUP"
 - "Admech-titans-dire-wolfs NONDL SUP"
 - "epic Admech-titans-dire-wolfs NONDL SUP"
 - "titans Admech-titans-dire-wolfs NONDL SUP"
-- "epic titans Admech-titans-dire-wolfs NONDL SUP"
 - "IMP Admech-titans-dire-wolfs NONDL SUP"
-- "epic IMP Admech-titans-dire-wolfs NONDL SUP"
-- "titans IMP Admech-titans-dire-wolfs NONDL SUP"
 
 ---
-
-## [PAYANT] argonaut > Alternative_Armour_Dire_Wolf_kit___Traitor [non dl]
 
 ![](<thumbs_-_alternative-armour-dire-wolf-kit-traitor_-_Images_1.jpg> "thumbs_-_alternative-armour-dire-wolf-kit-traitor_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/alternative-armour-dire-wolf-kit-traitor"](<"https://cults3d.com/en/3d-model/game/alternative-armour-dire-wolf-kit-traitor">)
+Source : [https://cults3d.com/en/3d-model/game/alternative-armour-dire-wolf-kit-traitor](https://cults3d.com/en/3d-model/game/alternative-armour-dire-wolf-kit-traitor)
+
+Id objet : alternative-armour-dire-wolf-kit-traitor
 
 Prix : 6.49 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-dire-wolfs
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-dire-wolfs NONDL SUP
+
 
 Description :
 
@@ -108,12 +113,14 @@ This is for the 8mm, AT2018/LI version only and is scaled appropriately for this
 STLs and supported STLs are for left side versions only of the engine cover, shoulder, shin and thigh plates. These should be copied and mirrored to produce the right side plates (Shin plate is symmetrical, so can just copied), when printing your full set - though the '...full set' Lychee scene included in the ZIP file has this already set up for you. This full set scene utilises the 3-part version of the carapace, so swap these out for the 'unsplit' carapace if you want to print the single piece version with the rest of the parts.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Files included: STL, pre-supported STL and Lychee scenes of each part (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
+    ~~~
+    Files included: STL, pre-supported STL and Lychee scenes of each part (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 STLs and supported STLs are for left side versions only of the engine cover, shoulder, shin and thigh plates. These should be copied and mirrored to produce the right side plates (Shin plate is symmetrical, so can just copied), when printing your full set - though the '...full set' Lychee scene included in the ZIP file has this already set up for you. This full set scene utilises the 3-part version of the carapace, so swap these out for the 'unsplit' carapace if you want to print the single piece version with the rest of the parts.
+    
+    ~~~
 
-~~~
+  
 
 

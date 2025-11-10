@@ -5,6 +5,7 @@ date: "2023-07-10T20:01:05Z"
 toc: true
 image: "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg"
 tags:
+- "Base_Department"
 - "epic"
 - "SOCLES"
 - "epic SOCLES"
@@ -35,38 +36,6 @@ tags:
 - "DIVERS NONDL NONSUP"
 - "epic DIVERS NONDL NONSUP"
 - "SOCLES DIVERS NONDL NONSUP"
-- "epic SOCLES DIVERS NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "SOCLES GRATUIT"
-- "epic SOCLES GRATUIT"
-- "DIVERS GRATUIT"
-- "epic DIVERS GRATUIT"
-- "SOCLES DIVERS GRATUIT"
-- "epic SOCLES DIVERS GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "SOCLES NONDL GRATUIT"
-- "epic SOCLES NONDL GRATUIT"
-- "DIVERS NONDL GRATUIT"
-- "epic DIVERS NONDL GRATUIT"
-- "SOCLES DIVERS NONDL GRATUIT"
-- "epic SOCLES DIVERS NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "SOCLES NONSUP GRATUIT"
-- "epic SOCLES NONSUP GRATUIT"
-- "DIVERS NONSUP GRATUIT"
-- "epic DIVERS NONSUP GRATUIT"
-- "SOCLES DIVERS NONSUP GRATUIT"
-- "epic SOCLES DIVERS NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "SOCLES NONDL NONSUP GRATUIT"
-- "epic SOCLES NONDL NONSUP GRATUIT"
-- "DIVERS NONDL NONSUP GRATUIT"
-- "epic DIVERS NONDL NONSUP GRATUIT"
-- "SOCLES DIVERS NONDL NONSUP GRATUIT"
 - "warmaster"
 - "SOCLES"
 - "warmaster SOCLES"
@@ -97,50 +66,30 @@ tags:
 - "DIVERS NONDL NONSUP"
 - "warmaster DIVERS NONDL NONSUP"
 - "SOCLES DIVERS NONDL NONSUP"
-- "warmaster SOCLES DIVERS NONDL NONSUP"
-- "GRATUIT"
-- "warmaster GRATUIT"
-- "SOCLES GRATUIT"
-- "warmaster SOCLES GRATUIT"
-- "DIVERS GRATUIT"
-- "warmaster DIVERS GRATUIT"
-- "SOCLES DIVERS GRATUIT"
-- "warmaster SOCLES DIVERS GRATUIT"
-- "NONDL GRATUIT"
-- "warmaster NONDL GRATUIT"
-- "SOCLES NONDL GRATUIT"
-- "warmaster SOCLES NONDL GRATUIT"
-- "DIVERS NONDL GRATUIT"
-- "warmaster DIVERS NONDL GRATUIT"
-- "SOCLES DIVERS NONDL GRATUIT"
-- "warmaster SOCLES DIVERS NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "warmaster NONSUP GRATUIT"
-- "SOCLES NONSUP GRATUIT"
-- "warmaster SOCLES NONSUP GRATUIT"
-- "DIVERS NONSUP GRATUIT"
-- "warmaster DIVERS NONSUP GRATUIT"
-- "SOCLES DIVERS NONSUP GRATUIT"
-- "warmaster SOCLES DIVERS NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "warmaster NONDL NONSUP GRATUIT"
-- "SOCLES NONDL NONSUP GRATUIT"
-- "warmaster SOCLES NONDL NONSUP GRATUIT"
-- "DIVERS NONDL NONSUP GRATUIT"
-- "warmaster DIVERS NONDL NONSUP GRATUIT"
-- "SOCLES DIVERS NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] Base_Department > Epic___Warmaster___6mm_wargame_____tub___bases [non dl]
 
 ![](<thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg> "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-warmaster-6mm-wargame-tub-bases"](<"https://cults3d.com/en/3d-model/game/epic-warmaster-6mm-wargame-tub-bases">)
+Source : [https://cults3d.com/en/3d-model/game/epic-warmaster-6mm-wargame-tub-bases](https://cults3d.com/en/3d-model/game/epic-warmaster-6mm-wargame-tub-bases)
+
+Id objet : epic-warmaster-6mm-wargame-tub-bases
 
 Prix : 0 euros
+
+Collections :
+
+- epic SOCLES DIVERS
+- warmaster SOCLES DIVERS
+
+
+Collections pour tags :
+
+- epic SOCLES DIVERS NONDL NONSUP
+- warmaster SOCLES DIVERS NONDL NONSUP
+
 
 Description :
 
@@ -161,11 +110,6 @@ I used pretty old dried up Green Stuff for the example picture, so please excuse
 If you want any other size just post a coment and I'll make it for you.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

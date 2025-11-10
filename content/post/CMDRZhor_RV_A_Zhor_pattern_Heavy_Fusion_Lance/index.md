@@ -5,6 +5,7 @@ date: "2022-04-21T14:32:42Z"
 toc: true
 image: "thumbs_-_rv-c-zhor-pattern-heavy-fusion-lance_-_Images_1.jpg"
 tags:
+- "CMDRZhor"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Admech-titans-reavers NONDL"
 - "epic IMP Admech-titans-reavers NONDL"
 - "titans IMP Admech-titans-reavers NONDL"
-- "epic titans IMP Admech-titans-reavers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Admech-titans-reavers NONSUP"
 - "epic IMP Admech-titans-reavers NONSUP"
 - "titans IMP Admech-titans-reavers NONSUP"
-- "epic titans IMP Admech-titans-reavers NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "titans IMP NONDL NONSUP"
-- "epic titans IMP NONDL NONSUP"
 - "Admech-titans-reavers NONDL NONSUP"
 - "epic Admech-titans-reavers NONDL NONSUP"
 - "titans Admech-titans-reavers NONDL NONSUP"
-- "epic titans Admech-titans-reavers NONDL NONSUP"
 - "IMP Admech-titans-reavers NONDL NONSUP"
-- "epic IMP Admech-titans-reavers NONDL NONSUP"
-- "titans IMP Admech-titans-reavers NONDL NONSUP"
 
 ---
-
-## [PAYANT] CMDRZhor > RV_A_Zhor_pattern_Heavy_Fusion_Lance [non dl]
 
 ![](<thumbs_-_rv-c-zhor-pattern-heavy-fusion-lance_-_Images_1.jpg> "thumbs_-_rv-c-zhor-pattern-heavy-fusion-lance_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/rv-c-zhor-pattern-heavy-fusion-lance"](<"https://cults3d.com/en/3d-model/game/rv-c-zhor-pattern-heavy-fusion-lance">)
+Source : [https://cults3d.com/en/3d-model/game/rv-c-zhor-pattern-heavy-fusion-lance](https://cults3d.com/en/3d-model/game/rv-c-zhor-pattern-heavy-fusion-lance)
+
+Id objet : rv-c-zhor-pattern-heavy-fusion-lance
 
 Prix : 5 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-reavers
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-reavers NONDL NONSUP
+
 
 Description :
 
@@ -88,11 +93,6 @@ This is an enormous short-range high-power energy weapon arm for huge battle rob
 The upper arm part used in the photograph is not included in this package, but may be downloaded for free from my collection.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

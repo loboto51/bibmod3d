@@ -5,6 +5,7 @@ date: "2020-09-21T08:06:54Z"
 toc: true
 image: "thumbs_-_tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix_-_Images_1.jpg"
 tags:
+- "Alario"
 - "epic"
 - "decors"
 - "epic decors"
@@ -35,50 +36,28 @@ tags:
 - "TYRANIDES NONDL NONSUP"
 - "epic TYRANIDES NONDL NONSUP"
 - "decors TYRANIDES NONDL NONSUP"
-- "epic decors TYRANIDES NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "decors GRATUIT"
-- "epic decors GRATUIT"
-- "TYRANIDES GRATUIT"
-- "epic TYRANIDES GRATUIT"
-- "decors TYRANIDES GRATUIT"
-- "epic decors TYRANIDES GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "decors NONDL GRATUIT"
-- "epic decors NONDL GRATUIT"
-- "TYRANIDES NONDL GRATUIT"
-- "epic TYRANIDES NONDL GRATUIT"
-- "decors TYRANIDES NONDL GRATUIT"
-- "epic decors TYRANIDES NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "decors NONSUP GRATUIT"
-- "epic decors NONSUP GRATUIT"
-- "TYRANIDES NONSUP GRATUIT"
-- "epic TYRANIDES NONSUP GRATUIT"
-- "decors TYRANIDES NONSUP GRATUIT"
-- "epic decors TYRANIDES NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "decors NONDL NONSUP GRATUIT"
-- "epic decors NONDL NONSUP GRATUIT"
-- "TYRANIDES NONDL NONSUP GRATUIT"
-- "epic TYRANIDES NONDL NONSUP GRATUIT"
-- "decors TYRANIDES NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] Alario > tyty_tyran_tyranid_40k_starship_trooper_objective_marker_x2_set_remix [non dl]
 
 ![](<thumbs_-_tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix_-_Images_1.jpg> "thumbs_-_tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix"](<"https://cults3d.com/en/3d-model/game/tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix">)
+Source : [https://cults3d.com/en/3d-model/game/tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix](https://cults3d.com/en/3d-model/game/tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix)
+
+Id objet : tyty-tyran-tyranid-40k-starship-trooper-objective-marker-x2-set-remix
 
 Prix : 0 euros
+
+Collections :
+
+- epic decors TYRANIDES
+
+
+Collections pour tags :
+
+- epic decors TYRANIDES NONDL NONSUP
+
 
 Description :
 
@@ -100,11 +79,6 @@ My current kickstarter
 https://www.kickstarter.com/projects/alario/damocles-part-1-modular-industrial-buildings-for-wargaming
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

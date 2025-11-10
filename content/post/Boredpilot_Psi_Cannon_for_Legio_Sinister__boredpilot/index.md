@@ -5,6 +5,7 @@ date: "2021-11-17T05:40:48Z"
 toc: true
 image: "thumbs_-_phi-cannon-for-legio-sinister_-_Images_1.jpg"
 tags:
+- "Boredpilot"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Bits NONDL"
 - "epic IMP Bits NONDL"
 - "titans IMP Bits NONDL"
-- "epic titans IMP Bits NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Bits NONSUP"
 - "epic IMP Bits NONSUP"
 - "titans IMP Bits NONSUP"
-- "epic titans IMP Bits NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "titans IMP NONDL NONSUP"
-- "epic titans IMP NONDL NONSUP"
 - "Bits NONDL NONSUP"
 - "epic Bits NONDL NONSUP"
 - "titans Bits NONDL NONSUP"
-- "epic titans Bits NONDL NONSUP"
 - "IMP Bits NONDL NONSUP"
-- "epic IMP Bits NONDL NONSUP"
-- "titans IMP Bits NONDL NONSUP"
 
 ---
-
-## [PAYANT] Boredpilot > Psi_Cannon_for_Legio_Sinister__boredpilot [non dl]
 
 ![](<thumbs_-_phi-cannon-for-legio-sinister_-_Images_1.jpg> "thumbs_-_phi-cannon-for-legio-sinister_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/phi-cannon-for-legio-sinister"](<"https://cults3d.com/en/3d-model/game/phi-cannon-for-legio-sinister">)
+Source : [https://cults3d.com/en/3d-model/game/phi-cannon-for-legio-sinister](https://cults3d.com/en/3d-model/game/phi-cannon-for-legio-sinister)
+
+Id objet : phi-cannon-for-legio-sinister
 
 Prix : 4.5 euros
+
+Collections :
+
+- epic titans IMP Bits
+
+
+Collections pour tags :
+
+- epic titans IMP Bits NONDL NONSUP
+
 
 Description :
 
@@ -96,11 +101,6 @@ Has been printed in both Resin and FDM
 boredpilot
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

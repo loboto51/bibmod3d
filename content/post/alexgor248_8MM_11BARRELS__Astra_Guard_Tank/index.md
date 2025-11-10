@@ -5,6 +5,7 @@ date: "2024-04-18T22:54:34Z"
 toc: true
 image: "thumbs_-_8mm-11barrels-astra-guard-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -35,7 +36,6 @@ tags:
 - "GI Baneblades NONDL"
 - "epic GI Baneblades NONDL"
 - "superlourds GI Baneblades NONDL"
-- "epic superlourds GI Baneblades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Baneblades NONSUP"
 - "epic GI Baneblades NONSUP"
 - "superlourds GI Baneblades NONSUP"
-- "epic superlourds GI Baneblades NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "superlourds GI NONDL NONSUP"
-- "epic superlourds GI NONDL NONSUP"
 - "Baneblades NONDL NONSUP"
 - "epic Baneblades NONDL NONSUP"
 - "superlourds Baneblades NONDL NONSUP"
-- "epic superlourds Baneblades NONDL NONSUP"
 - "GI Baneblades NONDL NONSUP"
-- "epic GI Baneblades NONDL NONSUP"
-- "superlourds GI Baneblades NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_11BARRELS__Astra_Guard_Tank [non dl]
 
 ![](<thumbs_-_8mm-11barrels-astra-guard-tank_-_Images_1.jpg> "thumbs_-_8mm-11barrels-astra-guard-tank_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-11barrels-astra-guard-tank"](<"https://cults3d.com/en/3d-model/game/8mm-11barrels-astra-guard-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-11barrels-astra-guard-tank](https://cults3d.com/en/3d-model/game/8mm-11barrels-astra-guard-tank)
+
+Id objet : 8mm-11barrels-astra-guard-tank
 
 Prix : 6 euros
+
+Collections :
+
+- epic superlourds GI Baneblades
+
+
+Collections pour tags :
+
+- epic superlourds GI Baneblades NONDL NONSUP
+
 
 Description :
 
@@ -109,11 +114,6 @@ Upd. 11.06.2024 added an option with holes for 2x3mm
 + 30% discount for TWOTOWERS. They are quite similar with  11BARRELS. And I would have immediately added a coupon, but I didn’t understand how the interface worked here.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2020-03-21T05:36:36Z"
 toc: true
 image: "thumbs_-_alien-ancient-statues-etc-x7-savage-planet_-_Images_1.jpg"
 tags:
+- "CharlieVet"
 - "epic"
 - "decors"
 - "epic decors"
@@ -35,7 +36,6 @@ tags:
 - "IMP Decors-ruines NONDL"
 - "epic IMP Decors-ruines NONDL"
 - "decors IMP Decors-ruines NONDL"
-- "epic decors IMP Decors-ruines NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Decors-ruines NONSUP"
 - "epic IMP Decors-ruines NONSUP"
 - "decors IMP Decors-ruines NONSUP"
-- "epic decors IMP Decors-ruines NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -59,71 +58,10 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "epic decors IMP NONDL NONSUP"
 - "Decors-ruines NONDL NONSUP"
 - "epic Decors-ruines NONDL NONSUP"
 - "decors Decors-ruines NONDL NONSUP"
-- "epic decors Decors-ruines NONDL NONSUP"
 - "IMP Decors-ruines NONDL NONSUP"
-- "epic IMP Decors-ruines NONDL NONSUP"
-- "decors IMP Decors-ruines NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "decors GRATUIT"
-- "epic decors GRATUIT"
-- "IMP GRATUIT"
-- "epic IMP GRATUIT"
-- "decors IMP GRATUIT"
-- "epic decors IMP GRATUIT"
-- "Decors-ruines GRATUIT"
-- "epic Decors-ruines GRATUIT"
-- "decors Decors-ruines GRATUIT"
-- "epic decors Decors-ruines GRATUIT"
-- "IMP Decors-ruines GRATUIT"
-- "epic IMP Decors-ruines GRATUIT"
-- "decors IMP Decors-ruines GRATUIT"
-- "epic decors IMP Decors-ruines GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "decors NONDL GRATUIT"
-- "epic decors NONDL GRATUIT"
-- "IMP NONDL GRATUIT"
-- "epic IMP NONDL GRATUIT"
-- "decors IMP NONDL GRATUIT"
-- "epic decors IMP NONDL GRATUIT"
-- "Decors-ruines NONDL GRATUIT"
-- "epic Decors-ruines NONDL GRATUIT"
-- "decors Decors-ruines NONDL GRATUIT"
-- "epic decors Decors-ruines NONDL GRATUIT"
-- "IMP Decors-ruines NONDL GRATUIT"
-- "epic IMP Decors-ruines NONDL GRATUIT"
-- "decors IMP Decors-ruines NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "decors NONSUP GRATUIT"
-- "epic decors NONSUP GRATUIT"
-- "IMP NONSUP GRATUIT"
-- "epic IMP NONSUP GRATUIT"
-- "decors IMP NONSUP GRATUIT"
-- "epic decors IMP NONSUP GRATUIT"
-- "Decors-ruines NONSUP GRATUIT"
-- "epic Decors-ruines NONSUP GRATUIT"
-- "decors Decors-ruines NONSUP GRATUIT"
-- "epic decors Decors-ruines NONSUP GRATUIT"
-- "IMP Decors-ruines NONSUP GRATUIT"
-- "epic IMP Decors-ruines NONSUP GRATUIT"
-- "decors IMP Decors-ruines NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "decors NONDL NONSUP GRATUIT"
-- "epic decors NONDL NONSUP GRATUIT"
-- "IMP NONDL NONSUP GRATUIT"
-- "epic IMP NONDL NONSUP GRATUIT"
-- "decors IMP NONDL NONSUP GRATUIT"
-- "Decors-ruines NONDL NONSUP GRATUIT"
-- "epic Decors-ruines NONDL NONSUP GRATUIT"
-- "decors Decors-ruines NONDL NONSUP GRATUIT"
-- "IMP Decors-ruines NONDL NONSUP GRATUIT"
 - "epic"
 - "decors"
 - "epic decors"
@@ -154,7 +92,6 @@ tags:
 - "IMP Décors-statues NONDL"
 - "epic IMP Décors-statues NONDL"
 - "decors IMP Décors-statues NONDL"
-- "epic decors IMP Décors-statues NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -170,7 +107,6 @@ tags:
 - "IMP Décors-statues NONSUP"
 - "epic IMP Décors-statues NONSUP"
 - "decors IMP Décors-statues NONSUP"
-- "epic decors IMP Décors-statues NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -178,83 +114,34 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "epic decors IMP NONDL NONSUP"
 - "Décors-statues NONDL NONSUP"
 - "epic Décors-statues NONDL NONSUP"
 - "decors Décors-statues NONDL NONSUP"
-- "epic decors Décors-statues NONDL NONSUP"
 - "IMP Décors-statues NONDL NONSUP"
-- "epic IMP Décors-statues NONDL NONSUP"
-- "decors IMP Décors-statues NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "decors GRATUIT"
-- "epic decors GRATUIT"
-- "IMP GRATUIT"
-- "epic IMP GRATUIT"
-- "decors IMP GRATUIT"
-- "epic decors IMP GRATUIT"
-- "Décors-statues GRATUIT"
-- "epic Décors-statues GRATUIT"
-- "decors Décors-statues GRATUIT"
-- "epic decors Décors-statues GRATUIT"
-- "IMP Décors-statues GRATUIT"
-- "epic IMP Décors-statues GRATUIT"
-- "decors IMP Décors-statues GRATUIT"
-- "epic decors IMP Décors-statues GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "decors NONDL GRATUIT"
-- "epic decors NONDL GRATUIT"
-- "IMP NONDL GRATUIT"
-- "epic IMP NONDL GRATUIT"
-- "decors IMP NONDL GRATUIT"
-- "epic decors IMP NONDL GRATUIT"
-- "Décors-statues NONDL GRATUIT"
-- "epic Décors-statues NONDL GRATUIT"
-- "decors Décors-statues NONDL GRATUIT"
-- "epic decors Décors-statues NONDL GRATUIT"
-- "IMP Décors-statues NONDL GRATUIT"
-- "epic IMP Décors-statues NONDL GRATUIT"
-- "decors IMP Décors-statues NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "decors NONSUP GRATUIT"
-- "epic decors NONSUP GRATUIT"
-- "IMP NONSUP GRATUIT"
-- "epic IMP NONSUP GRATUIT"
-- "decors IMP NONSUP GRATUIT"
-- "epic decors IMP NONSUP GRATUIT"
-- "Décors-statues NONSUP GRATUIT"
-- "epic Décors-statues NONSUP GRATUIT"
-- "decors Décors-statues NONSUP GRATUIT"
-- "epic decors Décors-statues NONSUP GRATUIT"
-- "IMP Décors-statues NONSUP GRATUIT"
-- "epic IMP Décors-statues NONSUP GRATUIT"
-- "decors IMP Décors-statues NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "decors NONDL NONSUP GRATUIT"
-- "epic decors NONDL NONSUP GRATUIT"
-- "IMP NONDL NONSUP GRATUIT"
-- "epic IMP NONDL NONSUP GRATUIT"
-- "decors IMP NONDL NONSUP GRATUIT"
-- "Décors-statues NONDL NONSUP GRATUIT"
-- "epic Décors-statues NONDL NONSUP GRATUIT"
-- "decors Décors-statues NONDL NONSUP GRATUIT"
-- "IMP Décors-statues NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] CharlieVet > Alien_Ancient_Statues_etc_x7_Savage_Planet [non dl]
 
 ![](<thumbs_-_alien-ancient-statues-etc-x7-savage-planet_-_Images_1.jpg> "thumbs_-_alien-ancient-statues-etc-x7-savage-planet_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/alien-ancient-statues-etc-x7-savage-planet"](<"https://cults3d.com/en/3d-model/game/alien-ancient-statues-etc-x7-savage-planet">)
+Source : [https://cults3d.com/en/3d-model/game/alien-ancient-statues-etc-x7-savage-planet](https://cults3d.com/en/3d-model/game/alien-ancient-statues-etc-x7-savage-planet)
+
+Id objet : alien-ancient-statues-etc-x7-savage-planet
 
 Prix : 0.0 euros
+
+Collections :
+
+- epic decors IMP Decors-ruines
+- epic decors IMP Décors-statues
+
+
+Collections pour tags :
+
+- epic decors IMP Decors-ruines NONDL NONSUP
+- epic decors IMP Décors-statues NONDL NONSUP
+
 
 Description :
 
@@ -262,11 +149,6 @@ Description :
 These models were extracted from the game Journey to the Savage Planet and prepared for printing including smoothing. The scale is at 10cm, which should make it easy for anyone to adjust to the size they need. I haven't printed it.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

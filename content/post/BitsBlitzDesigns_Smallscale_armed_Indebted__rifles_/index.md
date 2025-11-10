@@ -5,6 +5,7 @@ date: "2024-05-29T22:27:07Z"
 toc: true
 image: "thumbs_-_smallscale-rifle-armed-worker-gang_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -35,7 +36,6 @@ tags:
 - "HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -51,7 +51,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONDL"
 - "28mm HUMAINS Necromunda-gangs NONDL"
 - "IMP HUMAINS Necromunda-gangs NONDL"
-- "28mm IMP HUMAINS Necromunda-gangs NONDL"
 - "40k-gangs NONDL"
 - "28mm 40k-gangs NONDL"
 - "IMP 40k-gangs NONDL"
@@ -59,14 +58,10 @@ tags:
 - "HUMAINS 40k-gangs NONDL"
 - "28mm HUMAINS 40k-gangs NONDL"
 - "IMP HUMAINS 40k-gangs NONDL"
-- "28mm IMP HUMAINS 40k-gangs NONDL"
 - "Necromunda-gangs 40k-gangs NONDL"
 - "28mm Necromunda-gangs 40k-gangs NONDL"
 - "IMP Necromunda-gangs 40k-gangs NONDL"
-- "28mm IMP Necromunda-gangs 40k-gangs NONDL"
 - "HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONSUP"
 - "28mm HUMAINS Necromunda-gangs NONSUP"
 - "IMP HUMAINS Necromunda-gangs NONSUP"
-- "28mm IMP HUMAINS Necromunda-gangs NONSUP"
 - "40k-gangs NONSUP"
 - "28mm 40k-gangs NONSUP"
 - "IMP 40k-gangs NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "HUMAINS 40k-gangs NONSUP"
 - "28mm HUMAINS 40k-gangs NONSUP"
 - "IMP HUMAINS 40k-gangs NONSUP"
-- "28mm IMP HUMAINS 40k-gangs NONSUP"
 - "Necromunda-gangs 40k-gangs NONSUP"
 - "28mm Necromunda-gangs 40k-gangs NONSUP"
 - "IMP Necromunda-gangs 40k-gangs NONSUP"
-- "28mm IMP Necromunda-gangs 40k-gangs NONSUP"
 - "HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
@@ -105,25 +95,15 @@ tags:
 - "HUMAINS NONDL NONSUP"
 - "28mm HUMAINS NONDL NONSUP"
 - "IMP HUMAINS NONDL NONSUP"
-- "28mm IMP HUMAINS NONDL NONSUP"
 - "Necromunda-gangs NONDL NONSUP"
 - "28mm Necromunda-gangs NONDL NONSUP"
 - "IMP Necromunda-gangs NONDL NONSUP"
-- "28mm IMP Necromunda-gangs NONDL NONSUP"
 - "HUMAINS Necromunda-gangs NONDL NONSUP"
-- "28mm HUMAINS Necromunda-gangs NONDL NONSUP"
-- "IMP HUMAINS Necromunda-gangs NONDL NONSUP"
 - "40k-gangs NONDL NONSUP"
 - "28mm 40k-gangs NONDL NONSUP"
 - "IMP 40k-gangs NONDL NONSUP"
-- "28mm IMP 40k-gangs NONDL NONSUP"
 - "HUMAINS 40k-gangs NONDL NONSUP"
-- "28mm HUMAINS 40k-gangs NONDL NONSUP"
-- "IMP HUMAINS 40k-gangs NONDL NONSUP"
 - "Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "28mm Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "IMP Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,7 +134,6 @@ tags:
 - "AM Humains-tactiques NONDL"
 - "epic AM Humains-tactiques NONDL"
 - "infanterie AM Humains-tactiques NONDL"
-- "epic infanterie AM Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -170,7 +149,6 @@ tags:
 - "AM Humains-tactiques NONSUP"
 - "epic AM Humains-tactiques NONSUP"
 - "infanterie AM Humains-tactiques NONSUP"
-- "epic infanterie AM Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -178,14 +156,10 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "epic infanterie AM NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
 - "epic Humains-tactiques NONDL NONSUP"
 - "infanterie Humains-tactiques NONDL NONSUP"
-- "epic infanterie Humains-tactiques NONDL NONSUP"
 - "AM Humains-tactiques NONDL NONSUP"
-- "epic AM Humains-tactiques NONDL NONSUP"
-- "infanterie AM Humains-tactiques NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -216,7 +190,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -232,7 +205,6 @@ tags:
 - "GI Humains-tactiques NONSUP"
 - "epic GI Humains-tactiques NONSUP"
 - "infanterie GI Humains-tactiques NONSUP"
-- "epic infanterie GI Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -240,18 +212,12 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
 - "epic Humains-tactiques NONDL NONSUP"
 - "infanterie Humains-tactiques NONDL NONSUP"
-- "epic infanterie Humains-tactiques NONDL NONSUP"
 - "GI Humains-tactiques NONDL NONSUP"
-- "epic GI Humains-tactiques NONDL NONSUP"
-- "infanterie GI Humains-tactiques NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Smallscale_armed_Indebted__rifles_ [non dl]
 
 ![](<thumbs_-_smallscale-rifle-armed-worker-gang_-_Images_1.jpg> "thumbs_-_smallscale-rifle-armed-worker-gang_-_Images_1.jpg")
 
@@ -259,9 +225,25 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/smallscale-rifle-armed-worker-gang"](<"https://cults3d.com/en/3d-model/game/smallscale-rifle-armed-worker-gang">)
+Source : [https://cults3d.com/en/3d-model/game/smallscale-rifle-armed-worker-gang](https://cults3d.com/en/3d-model/game/smallscale-rifle-armed-worker-gang)
+
+Id objet : smallscale-rifle-armed-worker-gang
 
 Prix : 2.5 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+- epic infanterie AM Humains-tactiques
+- epic infanterie GI Humains-tactiques
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
+- epic infanterie AM Humains-tactiques NONDL NONSUP
+- epic infanterie GI Humains-tactiques NONDL NONSUP
+
 
 Description :
 
@@ -279,11 +261,6 @@ This kit contains the following miniatures:
 Please do not share or sell these files (including prints and remixes) without my written permission.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

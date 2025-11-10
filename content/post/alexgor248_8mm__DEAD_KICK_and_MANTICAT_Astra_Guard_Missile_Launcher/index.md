@@ -5,6 +5,7 @@ date: "2024-06-15T17:30:08Z"
 toc: true
 image: "thumbs_-_8mm-dead-kick-and-manticat-astra-guard-missile-launcher_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "GI Imp-chars-artillerie Chars-lanceurs-supermissiles"
 - "epic GI Imp-chars-artillerie Chars-lanceurs-supermissiles"
 - "vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles"
-- "epic vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Imp-chars-artillerie NONDL"
 - "epic GI Imp-chars-artillerie NONDL"
 - "vehicules GI Imp-chars-artillerie NONDL"
-- "epic vehicules GI Imp-chars-artillerie NONDL"
 - "Chars-lanceurs-supermissiles NONDL"
 - "epic Chars-lanceurs-supermissiles NONDL"
 - "vehicules Chars-lanceurs-supermissiles NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI Chars-lanceurs-supermissiles NONDL"
 - "epic GI Chars-lanceurs-supermissiles NONDL"
 - "vehicules GI Chars-lanceurs-supermissiles NONDL"
-- "epic vehicules GI Chars-lanceurs-supermissiles NONDL"
 - "Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
 - "epic Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
 - "vehicules Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
-- "epic vehicules Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
 - "GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
-- "epic GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
-- "vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Imp-chars-artillerie NONSUP"
 - "epic GI Imp-chars-artillerie NONSUP"
 - "vehicules GI Imp-chars-artillerie NONSUP"
-- "epic vehicules GI Imp-chars-artillerie NONSUP"
 - "Chars-lanceurs-supermissiles NONSUP"
 - "epic Chars-lanceurs-supermissiles NONSUP"
 - "vehicules Chars-lanceurs-supermissiles NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI Chars-lanceurs-supermissiles NONSUP"
 - "epic GI Chars-lanceurs-supermissiles NONSUP"
 - "vehicules GI Chars-lanceurs-supermissiles NONSUP"
-- "epic vehicules GI Chars-lanceurs-supermissiles NONSUP"
 - "Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
 - "epic Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
 - "vehicules Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
-- "epic vehicules Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
 - "GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
-- "epic GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
-- "vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "vehicules GI NONDL NONSUP"
-- "epic vehicules GI NONDL NONSUP"
 - "Imp-chars-artillerie NONDL NONSUP"
 - "epic Imp-chars-artillerie NONDL NONSUP"
 - "vehicules Imp-chars-artillerie NONDL NONSUP"
-- "epic vehicules Imp-chars-artillerie NONDL NONSUP"
 - "GI Imp-chars-artillerie NONDL NONSUP"
-- "epic GI Imp-chars-artillerie NONDL NONSUP"
-- "vehicules GI Imp-chars-artillerie NONDL NONSUP"
 - "Chars-lanceurs-supermissiles NONDL NONSUP"
 - "epic Chars-lanceurs-supermissiles NONDL NONSUP"
 - "vehicules Chars-lanceurs-supermissiles NONDL NONSUP"
-- "epic vehicules Chars-lanceurs-supermissiles NONDL NONSUP"
 - "GI Chars-lanceurs-supermissiles NONDL NONSUP"
-- "epic GI Chars-lanceurs-supermissiles NONDL NONSUP"
-- "vehicules GI Chars-lanceurs-supermissiles NONDL NONSUP"
 - "Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL NONSUP"
-- "epic Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL NONSUP"
-- "vehicules Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL NONSUP"
-- "GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8mm__DEAD_KICK_and_MANTICAT_Astra_Guard_Missile_Launcher [non dl]
 
 ![](<thumbs_-_8mm-dead-kick-and-manticat-astra-guard-missile-launcher_-_Images_1.jpg> "thumbs_-_8mm-dead-kick-and-manticat-astra-guard-missile-launcher_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-dead-kick-and-manticat-astra-guard-missile-launcher"](<"https://cults3d.com/en/3d-model/game/8mm-dead-kick-and-manticat-astra-guard-missile-launcher">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-dead-kick-and-manticat-astra-guard-missile-launcher](https://cults3d.com/en/3d-model/game/8mm-dead-kick-and-manticat-astra-guard-missile-launcher)
+
+Id objet : 8mm-dead-kick-and-manticat-astra-guard-missile-launcher
 
 Prix : 5 euros
+
+Collections :
+
+- epic vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles
+
+
+Collections pour tags :
+
+- epic vehicules GI Imp-chars-artillerie Chars-lanceurs-supermissiles NONDL NONSUP
+
 
 Description :
 
@@ -149,11 +139,6 @@ Sci fi vintage Missile Launcher for 8 mm. To a new /220 very epic scale.
 - MANTICAT missile module
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

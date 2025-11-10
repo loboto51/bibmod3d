@@ -5,6 +5,7 @@ date: "2019-08-26T12:57:35Z"
 toc: true
 image: "thumbs_-_ratty-kill-kill-general-special-edition_-_Images_1.jpg"
 tags:
+- "barnEbiss2"
 - "warmaster"
 - "SKAVENS"
 - "warmaster SKAVENS"
@@ -20,34 +21,28 @@ tags:
 - "warmaster NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
 - "warmaster SKAVENS NONDL NONSUP"
-- "GRATUIT"
-- "warmaster GRATUIT"
-- "SKAVENS GRATUIT"
-- "warmaster SKAVENS GRATUIT"
-- "NONDL GRATUIT"
-- "warmaster NONDL GRATUIT"
-- "SKAVENS NONDL GRATUIT"
-- "warmaster SKAVENS NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "warmaster NONSUP GRATUIT"
-- "SKAVENS NONSUP GRATUIT"
-- "warmaster SKAVENS NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "warmaster NONDL NONSUP GRATUIT"
-- "SKAVENS NONDL NONSUP GRATUIT"
-- "warmaster SKAVENS NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] barnEbiss2 > Ratty_Kill_Kill_General_Special_Edition [non dl]
 
 ![](<thumbs_-_ratty-kill-kill-general-special-edition_-_Images_1.jpg> "thumbs_-_ratty-kill-kill-general-special-edition_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/ratty-kill-kill-general-special-edition"](<"https://cults3d.com/en/3d-model/game/ratty-kill-kill-general-special-edition">)
+Source : [https://cults3d.com/en/3d-model/game/ratty-kill-kill-general-special-edition](https://cults3d.com/en/3d-model/game/ratty-kill-kill-general-special-edition)
+
+Id objet : ratty-kill-kill-general-special-edition
 
 Prix : 0 euros
+
+Collections :
+
+- warmaster SKAVENS
+
+
+Collections pour tags :
+
+- warmaster SKAVENS NONDL NONSUP
+
 
 Description :
 
@@ -61,11 +56,6 @@ Updated Ratty Kill Kill general for 10mm with following changes
 5. Rat general was scaled up.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

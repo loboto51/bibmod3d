@@ -5,6 +5,7 @@ date: "2025-05-26T14:24:44Z"
 toc: true
 image: "thumbs_-_denizens-8mm-pocket-wargame-large-building-no3-wargames_-_Images_1.jpg"
 tags:
+- "BigMrTong"
 - "epic"
 - "decors"
 - "epic decors"
@@ -35,7 +36,6 @@ tags:
 - "IMP Decors-ruines NONDL"
 - "epic IMP Decors-ruines NONDL"
 - "decors IMP Decors-ruines NONDL"
-- "epic decors IMP Decors-ruines NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Decors-ruines NONSUP"
 - "epic IMP Decors-ruines NONSUP"
 - "decors IMP Decors-ruines NONSUP"
-- "epic decors IMP Decors-ruines NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -59,83 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "epic decors IMP NONDL NONSUP"
 - "Decors-ruines NONDL NONSUP"
 - "epic Decors-ruines NONDL NONSUP"
 - "decors Decors-ruines NONDL NONSUP"
-- "epic decors Decors-ruines NONDL NONSUP"
 - "IMP Decors-ruines NONDL NONSUP"
-- "epic IMP Decors-ruines NONDL NONSUP"
-- "decors IMP Decors-ruines NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "decors GRATUIT"
-- "epic decors GRATUIT"
-- "IMP GRATUIT"
-- "epic IMP GRATUIT"
-- "decors IMP GRATUIT"
-- "epic decors IMP GRATUIT"
-- "Decors-ruines GRATUIT"
-- "epic Decors-ruines GRATUIT"
-- "decors Decors-ruines GRATUIT"
-- "epic decors Decors-ruines GRATUIT"
-- "IMP Decors-ruines GRATUIT"
-- "epic IMP Decors-ruines GRATUIT"
-- "decors IMP Decors-ruines GRATUIT"
-- "epic decors IMP Decors-ruines GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "decors NONDL GRATUIT"
-- "epic decors NONDL GRATUIT"
-- "IMP NONDL GRATUIT"
-- "epic IMP NONDL GRATUIT"
-- "decors IMP NONDL GRATUIT"
-- "epic decors IMP NONDL GRATUIT"
-- "Decors-ruines NONDL GRATUIT"
-- "epic Decors-ruines NONDL GRATUIT"
-- "decors Decors-ruines NONDL GRATUIT"
-- "epic decors Decors-ruines NONDL GRATUIT"
-- "IMP Decors-ruines NONDL GRATUIT"
-- "epic IMP Decors-ruines NONDL GRATUIT"
-- "decors IMP Decors-ruines NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "decors NONSUP GRATUIT"
-- "epic decors NONSUP GRATUIT"
-- "IMP NONSUP GRATUIT"
-- "epic IMP NONSUP GRATUIT"
-- "decors IMP NONSUP GRATUIT"
-- "epic decors IMP NONSUP GRATUIT"
-- "Decors-ruines NONSUP GRATUIT"
-- "epic Decors-ruines NONSUP GRATUIT"
-- "decors Decors-ruines NONSUP GRATUIT"
-- "epic decors Decors-ruines NONSUP GRATUIT"
-- "IMP Decors-ruines NONSUP GRATUIT"
-- "epic IMP Decors-ruines NONSUP GRATUIT"
-- "decors IMP Decors-ruines NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "decors NONDL NONSUP GRATUIT"
-- "epic decors NONDL NONSUP GRATUIT"
-- "IMP NONDL NONSUP GRATUIT"
-- "epic IMP NONDL NONSUP GRATUIT"
-- "decors IMP NONDL NONSUP GRATUIT"
-- "Decors-ruines NONDL NONSUP GRATUIT"
-- "epic Decors-ruines NONDL NONSUP GRATUIT"
-- "decors Decors-ruines NONDL NONSUP GRATUIT"
-- "IMP Decors-ruines NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] BigMrTong > Denizens_8mm_Pocket_Wargame_Large_Building_No3___Wargames [non dl]
 
 ![](<thumbs_-_denizens-8mm-pocket-wargame-large-building-no3-wargames_-_Images_1.jpg> "thumbs_-_denizens-8mm-pocket-wargame-large-building-no3-wargames_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/denizens-8mm-pocket-wargame-large-building-no3-wargames"](<"https://cults3d.com/en/3d-model/game/denizens-8mm-pocket-wargame-large-building-no3-wargames">)
+Source : [https://cults3d.com/en/3d-model/game/denizens-8mm-pocket-wargame-large-building-no3-wargames](https://cults3d.com/en/3d-model/game/denizens-8mm-pocket-wargame-large-building-no3-wargames)
+
+Id objet : denizens-8mm-pocket-wargame-large-building-no3-wargames
 
 Prix : 0 euros
+
+Collections :
+
+- epic decors IMP Decors-ruines
+
+
+Collections pour tags :
+
+- epic decors IMP Decors-ruines NONDL NONSUP
+
 
 Description :
 
@@ -145,11 +93,6 @@ Larger building to print at home and expand the game !
 Grab the full game here :  www.spacedenizens.com
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2022-11-02T22:58:34Z"
 toc: true
 image: "thumbs_-_epic-scale-tank-commander-and-open-hatch_-_Images_1.jpg"
 tags:
+- "AxelFendersson"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-qg NONDL"
 - "epic GI Humains-qg NONDL"
 - "infanterie GI Humains-qg NONDL"
-- "epic infanterie GI Humains-qg NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-qg NONSUP"
 - "epic GI Humains-qg NONSUP"
 - "infanterie GI Humains-qg NONSUP"
-- "epic infanterie GI Humains-qg NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,83 +58,32 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-qg NONDL NONSUP"
 - "epic Humains-qg NONDL NONSUP"
 - "infanterie Humains-qg NONDL NONSUP"
-- "epic infanterie Humains-qg NONDL NONSUP"
 - "GI Humains-qg NONDL NONSUP"
-- "epic GI Humains-qg NONDL NONSUP"
-- "infanterie GI Humains-qg NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "infanterie GI GRATUIT"
-- "epic infanterie GI GRATUIT"
-- "Humains-qg GRATUIT"
-- "epic Humains-qg GRATUIT"
-- "infanterie Humains-qg GRATUIT"
-- "epic infanterie Humains-qg GRATUIT"
-- "GI Humains-qg GRATUIT"
-- "epic GI Humains-qg GRATUIT"
-- "infanterie GI Humains-qg GRATUIT"
-- "epic infanterie GI Humains-qg GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "infanterie NONDL GRATUIT"
-- "epic infanterie NONDL GRATUIT"
-- "GI NONDL GRATUIT"
-- "epic GI NONDL GRATUIT"
-- "infanterie GI NONDL GRATUIT"
-- "epic infanterie GI NONDL GRATUIT"
-- "Humains-qg NONDL GRATUIT"
-- "epic Humains-qg NONDL GRATUIT"
-- "infanterie Humains-qg NONDL GRATUIT"
-- "epic infanterie Humains-qg NONDL GRATUIT"
-- "GI Humains-qg NONDL GRATUIT"
-- "epic GI Humains-qg NONDL GRATUIT"
-- "infanterie GI Humains-qg NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "infanterie NONSUP GRATUIT"
-- "epic infanterie NONSUP GRATUIT"
-- "GI NONSUP GRATUIT"
-- "epic GI NONSUP GRATUIT"
-- "infanterie GI NONSUP GRATUIT"
-- "epic infanterie GI NONSUP GRATUIT"
-- "Humains-qg NONSUP GRATUIT"
-- "epic Humains-qg NONSUP GRATUIT"
-- "infanterie Humains-qg NONSUP GRATUIT"
-- "epic infanterie Humains-qg NONSUP GRATUIT"
-- "GI Humains-qg NONSUP GRATUIT"
-- "epic GI Humains-qg NONSUP GRATUIT"
-- "infanterie GI Humains-qg NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "infanterie NONDL NONSUP GRATUIT"
-- "epic infanterie NONDL NONSUP GRATUIT"
-- "GI NONDL NONSUP GRATUIT"
-- "epic GI NONDL NONSUP GRATUIT"
-- "infanterie GI NONDL NONSUP GRATUIT"
-- "Humains-qg NONDL NONSUP GRATUIT"
-- "epic Humains-qg NONDL NONSUP GRATUIT"
-- "infanterie Humains-qg NONDL NONSUP GRATUIT"
-- "GI Humains-qg NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] AxelFendersson > Epic_scale_tank_commander_and_open_hatch [non dl]
 
 ![](<thumbs_-_epic-scale-tank-commander-and-open-hatch_-_Images_1.jpg> "thumbs_-_epic-scale-tank-commander-and-open-hatch_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-scale-tank-commander-and-open-hatch"](<"https://cults3d.com/en/3d-model/game/epic-scale-tank-commander-and-open-hatch">)
+Source : [https://cults3d.com/en/3d-model/game/epic-scale-tank-commander-and-open-hatch](https://cults3d.com/en/3d-model/game/epic-scale-tank-commander-and-open-hatch)
+
+Id objet : epic-scale-tank-commander-and-open-hatch
 
 Prix : 0 euros
+
+Collections :
+
+- epic infanterie GI Humains-qg
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-qg NONDL NONSUP
+
 
 Description :
 
@@ -154,11 +102,6 @@ https://www.thingiverse.com/thing:4351764
 I've scaled the hatch and officer up 125% to fit on the turret as Woddish's designs are scaled for AT/8mm rather than traditional Epic 6mm.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2021-03-13T10:54:15Z"
 toc: true
 image: "thumbs_-_majin-buu-kid_-_Images_1.jpg"
 tags:
+- "batmatt3Design"
 - "autres-echelles"
 - "Figurines-et-statuettes"
 - "autres-echelles Figurines-et-statuettes"
@@ -20,26 +21,8 @@ tags:
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
 - "autres-echelles Figurines-et-statuettes NONDL NONSUP"
-- "GRATUIT"
-- "autres-echelles GRATUIT"
-- "Figurines-et-statuettes GRATUIT"
-- "autres-echelles Figurines-et-statuettes GRATUIT"
-- "NONDL GRATUIT"
-- "autres-echelles NONDL GRATUIT"
-- "Figurines-et-statuettes NONDL GRATUIT"
-- "autres-echelles Figurines-et-statuettes NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "autres-echelles NONSUP GRATUIT"
-- "Figurines-et-statuettes NONSUP GRATUIT"
-- "autres-echelles Figurines-et-statuettes NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "autres-echelles NONDL NONSUP GRATUIT"
-- "Figurines-et-statuettes NONDL NONSUP GRATUIT"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] batmatt3Design > Majin_Buu_Kid [non dl]
 
 ![](<thumbs_-_majin-buu-kid_-_Images_1.jpg> "thumbs_-_majin-buu-kid_-_Images_1.jpg")
 
@@ -47,9 +30,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/art/majin-buu-kid"](<"https://cults3d.com/en/3d-model/art/majin-buu-kid">)
+Source : [https://cults3d.com/en/3d-model/art/majin-buu-kid](https://cults3d.com/en/3d-model/art/majin-buu-kid)
+
+Id objet : majin-buu-kid
 
 Prix : 0 euros
+
+Collections :
+
+- autres-echelles Figurines-et-statuettes
+
+
+Collections pour tags :
+
+- autres-echelles Figurines-et-statuettes NONDL NONSUP
+
 
 Description :
 
@@ -105,11 +100,6 @@ These files are to be used as NON-COMMERCIAL, they are for personal use only, pl
 I hope the fans will appreciate it :)
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

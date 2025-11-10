@@ -5,6 +5,7 @@ date: "2023-03-15T13:47:43Z"
 toc: true
 image: "thumbs_-_smallscale-saw-crew_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -35,7 +36,6 @@ tags:
 - "HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -51,7 +51,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONDL"
 - "28mm HUMAINS Necromunda-gangs NONDL"
 - "IMP HUMAINS Necromunda-gangs NONDL"
-- "28mm IMP HUMAINS Necromunda-gangs NONDL"
 - "40k-gangs NONDL"
 - "28mm 40k-gangs NONDL"
 - "IMP 40k-gangs NONDL"
@@ -59,14 +58,10 @@ tags:
 - "HUMAINS 40k-gangs NONDL"
 - "28mm HUMAINS 40k-gangs NONDL"
 - "IMP HUMAINS 40k-gangs NONDL"
-- "28mm IMP HUMAINS 40k-gangs NONDL"
 - "Necromunda-gangs 40k-gangs NONDL"
 - "28mm Necromunda-gangs 40k-gangs NONDL"
 - "IMP Necromunda-gangs 40k-gangs NONDL"
-- "28mm IMP Necromunda-gangs 40k-gangs NONDL"
 - "HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONSUP"
 - "28mm HUMAINS Necromunda-gangs NONSUP"
 - "IMP HUMAINS Necromunda-gangs NONSUP"
-- "28mm IMP HUMAINS Necromunda-gangs NONSUP"
 - "40k-gangs NONSUP"
 - "28mm 40k-gangs NONSUP"
 - "IMP 40k-gangs NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "HUMAINS 40k-gangs NONSUP"
 - "28mm HUMAINS 40k-gangs NONSUP"
 - "IMP HUMAINS 40k-gangs NONSUP"
-- "28mm IMP HUMAINS 40k-gangs NONSUP"
 - "Necromunda-gangs 40k-gangs NONSUP"
 - "28mm Necromunda-gangs 40k-gangs NONSUP"
 - "IMP Necromunda-gangs 40k-gangs NONSUP"
-- "28mm IMP Necromunda-gangs 40k-gangs NONSUP"
 - "HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
@@ -105,25 +95,15 @@ tags:
 - "HUMAINS NONDL NONSUP"
 - "28mm HUMAINS NONDL NONSUP"
 - "IMP HUMAINS NONDL NONSUP"
-- "28mm IMP HUMAINS NONDL NONSUP"
 - "Necromunda-gangs NONDL NONSUP"
 - "28mm Necromunda-gangs NONDL NONSUP"
 - "IMP Necromunda-gangs NONDL NONSUP"
-- "28mm IMP Necromunda-gangs NONDL NONSUP"
 - "HUMAINS Necromunda-gangs NONDL NONSUP"
-- "28mm HUMAINS Necromunda-gangs NONDL NONSUP"
-- "IMP HUMAINS Necromunda-gangs NONDL NONSUP"
 - "40k-gangs NONDL NONSUP"
 - "28mm 40k-gangs NONDL NONSUP"
 - "IMP 40k-gangs NONDL NONSUP"
-- "28mm IMP 40k-gangs NONDL NONSUP"
 - "HUMAINS 40k-gangs NONDL NONSUP"
-- "28mm HUMAINS 40k-gangs NONDL NONSUP"
-- "IMP HUMAINS 40k-gangs NONDL NONSUP"
 - "Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "28mm Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "IMP Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,7 +134,6 @@ tags:
 - "AM Humains-assaut NONDL"
 - "epic AM Humains-assaut NONDL"
 - "infanterie AM Humains-assaut NONDL"
-- "epic infanterie AM Humains-assaut NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -170,7 +149,6 @@ tags:
 - "AM Humains-assaut NONSUP"
 - "epic AM Humains-assaut NONSUP"
 - "infanterie AM Humains-assaut NONSUP"
-- "epic infanterie AM Humains-assaut NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -178,14 +156,10 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "epic infanterie AM NONDL NONSUP"
 - "Humains-assaut NONDL NONSUP"
 - "epic Humains-assaut NONDL NONSUP"
 - "infanterie Humains-assaut NONDL NONSUP"
-- "epic infanterie Humains-assaut NONDL NONSUP"
 - "AM Humains-assaut NONDL NONSUP"
-- "epic AM Humains-assaut NONDL NONSUP"
-- "infanterie AM Humains-assaut NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -216,7 +190,6 @@ tags:
 - "AM Serviteurs NONDL"
 - "epic AM Serviteurs NONDL"
 - "infanterie AM Serviteurs NONDL"
-- "epic infanterie AM Serviteurs NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -232,7 +205,6 @@ tags:
 - "AM Serviteurs NONSUP"
 - "epic AM Serviteurs NONSUP"
 - "infanterie AM Serviteurs NONSUP"
-- "epic infanterie AM Serviteurs NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -240,14 +212,10 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "epic infanterie AM NONDL NONSUP"
 - "Serviteurs NONDL NONSUP"
 - "epic Serviteurs NONDL NONSUP"
 - "infanterie Serviteurs NONDL NONSUP"
-- "epic infanterie Serviteurs NONDL NONSUP"
 - "AM Serviteurs NONDL NONSUP"
-- "epic AM Serviteurs NONDL NONSUP"
-- "infanterie AM Serviteurs NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -278,7 +246,6 @@ tags:
 - "GI Humains-assaut NONDL"
 - "epic GI Humains-assaut NONDL"
 - "infanterie GI Humains-assaut NONDL"
-- "epic infanterie GI Humains-assaut NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -294,7 +261,6 @@ tags:
 - "GI Humains-assaut NONSUP"
 - "epic GI Humains-assaut NONSUP"
 - "infanterie GI Humains-assaut NONSUP"
-- "epic infanterie GI Humains-assaut NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -302,18 +268,12 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-assaut NONDL NONSUP"
 - "epic Humains-assaut NONDL NONSUP"
 - "infanterie Humains-assaut NONDL NONSUP"
-- "epic infanterie Humains-assaut NONDL NONSUP"
 - "GI Humains-assaut NONDL NONSUP"
-- "epic GI Humains-assaut NONDL NONSUP"
-- "infanterie GI Humains-assaut NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Smallscale_Indebted_Saw_Crew [non dl]
 
 ![](<thumbs_-_smallscale-saw-crew_-_Images_1.jpg> "thumbs_-_smallscale-saw-crew_-_Images_1.jpg")
 
@@ -321,9 +281,27 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/smallscale-saw-crew"](<"https://cults3d.com/en/3d-model/game/smallscale-saw-crew">)
+Source : [https://cults3d.com/en/3d-model/game/smallscale-saw-crew](https://cults3d.com/en/3d-model/game/smallscale-saw-crew)
+
+Id objet : smallscale-saw-crew
 
 Prix : 3 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+- epic infanterie AM Humains-assaut
+- epic infanterie AM Serviteurs
+- epic infanterie GI Humains-assaut
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
+- epic infanterie AM Humains-assaut NONDL NONSUP
+- epic infanterie AM Serviteurs NONDL NONSUP
+- epic infanterie GI Humains-assaut NONDL NONSUP
+
 
 Description :
 
@@ -338,11 +316,6 @@ This kit contains the following miniatures:
 Please do no share or sell these files (including prints and remixes) without my written permission.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2025-01-27T00:22:45Z"
 toc: true
 image: "thumbs_-_epic-space-troops_-_Images_1.jpg"
 tags:
+- "ATheOK"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,42 +36,8 @@ tags:
 - "GI Humains-tactiques NONSUP"
 - "epic GI Humains-tactiques NONSUP"
 - "infanterie GI Humains-tactiques NONSUP"
-- "epic infanterie GI Humains-tactiques NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "infanterie GI GRATUIT"
-- "epic infanterie GI GRATUIT"
-- "Humains-tactiques GRATUIT"
-- "epic Humains-tactiques GRATUIT"
-- "infanterie Humains-tactiques GRATUIT"
-- "epic infanterie Humains-tactiques GRATUIT"
-- "GI Humains-tactiques GRATUIT"
-- "epic GI Humains-tactiques GRATUIT"
-- "infanterie GI Humains-tactiques GRATUIT"
-- "epic infanterie GI Humains-tactiques GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "infanterie NONSUP GRATUIT"
-- "epic infanterie NONSUP GRATUIT"
-- "GI NONSUP GRATUIT"
-- "epic GI NONSUP GRATUIT"
-- "infanterie GI NONSUP GRATUIT"
-- "epic infanterie GI NONSUP GRATUIT"
-- "Humains-tactiques NONSUP GRATUIT"
-- "epic Humains-tactiques NONSUP GRATUIT"
-- "infanterie Humains-tactiques NONSUP GRATUIT"
-- "epic infanterie Humains-tactiques NONSUP GRATUIT"
-- "GI Humains-tactiques NONSUP GRATUIT"
-- "epic GI Humains-tactiques NONSUP GRATUIT"
-- "infanterie GI Humains-tactiques NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] ATheOK > Epic_Space_Troops [dl]
 
 ![](<thumbs_-_epic-space-troops_-_Images_1.jpg> "thumbs_-_epic-space-troops_-_Images_1.jpg")
 
@@ -78,9 +45,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-space-troops"](<"https://cults3d.com/en/3d-model/game/epic-space-troops">)
+Source : [https://cults3d.com/en/3d-model/game/epic-space-troops](https://cults3d.com/en/3d-model/game/epic-space-troops)
+
+Id objet : epic-space-troops
 
 Prix : 0 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques  NONSUP
+
 
 Description :
 
@@ -88,11 +67,6 @@ Description :
 Scaled for 6mm. Remix of a remix to give a chunkier 6mm look on the table - special thanks to Skeaze and JIMMYZIMMS.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

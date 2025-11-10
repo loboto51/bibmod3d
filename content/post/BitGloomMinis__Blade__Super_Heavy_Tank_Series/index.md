@@ -5,6 +5,7 @@ date: "2024-04-01T00:06:01Z"
 toc: true
 image: "thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg"
 tags:
+- "BitGloomMinis"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -35,38 +36,6 @@ tags:
 - "GI Baneblades-canon-court-arrière SUP"
 - "epic GI Baneblades-canon-court-arrière SUP"
 - "superlourds GI Baneblades-canon-court-arrière SUP"
-- "epic superlourds GI Baneblades-canon-court-arrière SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "superlourds GRATUIT"
-- "epic superlourds GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "superlourds GI GRATUIT"
-- "epic superlourds GI GRATUIT"
-- "Baneblades-canon-court-arrière GRATUIT"
-- "epic Baneblades-canon-court-arrière GRATUIT"
-- "superlourds Baneblades-canon-court-arrière GRATUIT"
-- "epic superlourds Baneblades-canon-court-arrière GRATUIT"
-- "GI Baneblades-canon-court-arrière GRATUIT"
-- "epic GI Baneblades-canon-court-arrière GRATUIT"
-- "superlourds GI Baneblades-canon-court-arrière GRATUIT"
-- "epic superlourds GI Baneblades-canon-court-arrière GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "superlourds SUP GRATUIT"
-- "epic superlourds SUP GRATUIT"
-- "GI SUP GRATUIT"
-- "epic GI SUP GRATUIT"
-- "superlourds GI SUP GRATUIT"
-- "epic superlourds GI SUP GRATUIT"
-- "Baneblades-canon-court-arrière SUP GRATUIT"
-- "epic Baneblades-canon-court-arrière SUP GRATUIT"
-- "superlourds Baneblades-canon-court-arrière SUP GRATUIT"
-- "epic superlourds Baneblades-canon-court-arrière SUP GRATUIT"
-- "GI Baneblades-canon-court-arrière SUP GRATUIT"
-- "epic GI Baneblades-canon-court-arrière SUP GRATUIT"
-- "superlourds GI Baneblades-canon-court-arrière SUP GRATUIT"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -97,38 +66,6 @@ tags:
 - "GI Baneblades-canon-long SUP"
 - "epic GI Baneblades-canon-long SUP"
 - "superlourds GI Baneblades-canon-long SUP"
-- "epic superlourds GI Baneblades-canon-long SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "superlourds GRATUIT"
-- "epic superlourds GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "superlourds GI GRATUIT"
-- "epic superlourds GI GRATUIT"
-- "Baneblades-canon-long GRATUIT"
-- "epic Baneblades-canon-long GRATUIT"
-- "superlourds Baneblades-canon-long GRATUIT"
-- "epic superlourds Baneblades-canon-long GRATUIT"
-- "GI Baneblades-canon-long GRATUIT"
-- "epic GI Baneblades-canon-long GRATUIT"
-- "superlourds GI Baneblades-canon-long GRATUIT"
-- "epic superlourds GI Baneblades-canon-long GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "superlourds SUP GRATUIT"
-- "epic superlourds SUP GRATUIT"
-- "GI SUP GRATUIT"
-- "epic GI SUP GRATUIT"
-- "superlourds GI SUP GRATUIT"
-- "epic superlourds GI SUP GRATUIT"
-- "Baneblades-canon-long SUP GRATUIT"
-- "epic Baneblades-canon-long SUP GRATUIT"
-- "superlourds Baneblades-canon-long SUP GRATUIT"
-- "epic superlourds Baneblades-canon-long SUP GRATUIT"
-- "GI Baneblades-canon-long SUP GRATUIT"
-- "epic GI Baneblades-canon-long SUP GRATUIT"
-- "superlourds GI Baneblades-canon-long SUP GRATUIT"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -159,42 +96,8 @@ tags:
 - "GI Baneblades SUP"
 - "epic GI Baneblades SUP"
 - "superlourds GI Baneblades SUP"
-- "epic superlourds GI Baneblades SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "superlourds GRATUIT"
-- "epic superlourds GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "superlourds GI GRATUIT"
-- "epic superlourds GI GRATUIT"
-- "Baneblades GRATUIT"
-- "epic Baneblades GRATUIT"
-- "superlourds Baneblades GRATUIT"
-- "epic superlourds Baneblades GRATUIT"
-- "GI Baneblades GRATUIT"
-- "epic GI Baneblades GRATUIT"
-- "superlourds GI Baneblades GRATUIT"
-- "epic superlourds GI Baneblades GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "superlourds SUP GRATUIT"
-- "epic superlourds SUP GRATUIT"
-- "GI SUP GRATUIT"
-- "epic GI SUP GRATUIT"
-- "superlourds GI SUP GRATUIT"
-- "epic superlourds GI SUP GRATUIT"
-- "Baneblades SUP GRATUIT"
-- "epic Baneblades SUP GRATUIT"
-- "superlourds Baneblades SUP GRATUIT"
-- "epic superlourds Baneblades SUP GRATUIT"
-- "GI Baneblades SUP GRATUIT"
-- "epic GI Baneblades SUP GRATUIT"
-- "superlourds GI Baneblades SUP GRATUIT"
 
 ---
-
-## [GRATUIT] BitGloomMinis > _Blade__Super_Heavy_Tank_Series [dl]
 
 ![](<thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg> "thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg")
 
@@ -202,9 +105,25 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/blade-super-heavy-tank-series"](<"https://cults3d.com/en/3d-model/game/blade-super-heavy-tank-series">)
+Source : [https://cults3d.com/en/3d-model/game/blade-super-heavy-tank-series](https://cults3d.com/en/3d-model/game/blade-super-heavy-tank-series)
+
+Id objet : blade-super-heavy-tank-series
 
 Prix : 0 euros
+
+Collections :
+
+- epic superlourds GI Baneblades-canon-court-arrière
+- epic superlourds GI Baneblades-canon-long
+- epic superlourds GI Baneblades
+
+
+Collections pour tags :
+
+- epic superlourds GI Baneblades-canon-court-arrière  SUP
+- epic superlourds GI Baneblades-canon-long  SUP
+- epic superlourds GI Baneblades  SUP
+
 
 Description :
 
@@ -228,11 +147,11 @@ You also get a hatch part that can be installed if you don't want a turret there
 Anyway, enjoy, thanks for reading :)
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Armour_Piece_6mm_stl_.jpg
+    ~~~
+    
+    ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Armour_Piece_6mm_stl_.jpg
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Deathblade_Hull_6mm_stl_.jpg
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Left_Sponson_6mm_stl_.jpg
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Quakeblade_Hull_6mm_stl_.jpg
@@ -255,6 +174,8 @@ ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Spo
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Turret_Machineguns_6mm_stl_.jpg
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Underslung_Turret_Flamethrower_6mm_stl_.jpg
 ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Underslung_Turret_Machinegun_6mm_stl_.jpg
-~~~
+    ~~~
+
+  
 
 

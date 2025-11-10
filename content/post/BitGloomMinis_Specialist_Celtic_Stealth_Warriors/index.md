@@ -5,6 +5,7 @@ date: "2023-05-26T23:01:31Z"
 toc: true
 image: "thumbs_-_specialist-celtic-stealth-warriors_-_Images_1.jpg"
 tags:
+- "BitGloomMinis"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-tactiques GI-GGHOSTS"
 - "epic GI Humains-tactiques GI-GGHOSTS"
 - "infanterie GI Humains-tactiques GI-GGHOSTS"
-- "epic infanterie GI Humains-tactiques GI-GGHOSTS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-GGHOSTS NONDL"
 - "epic GI-GGHOSTS NONDL"
 - "infanterie GI-GGHOSTS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-GGHOSTS NONDL"
 - "epic GI GI-GGHOSTS NONDL"
 - "infanterie GI GI-GGHOSTS NONDL"
-- "epic infanterie GI GI-GGHOSTS NONDL"
 - "Humains-tactiques GI-GGHOSTS NONDL"
 - "epic Humains-tactiques GI-GGHOSTS NONDL"
 - "infanterie Humains-tactiques GI-GGHOSTS NONDL"
-- "epic infanterie Humains-tactiques GI-GGHOSTS NONDL"
 - "GI Humains-tactiques GI-GGHOSTS NONDL"
-- "epic GI Humains-tactiques GI-GGHOSTS NONDL"
-- "infanterie GI Humains-tactiques GI-GGHOSTS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "epic infanterie GI Humains-tactiques SUP"
 - "GI-GGHOSTS SUP"
 - "epic GI-GGHOSTS SUP"
 - "infanterie GI-GGHOSTS SUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-GGHOSTS SUP"
 - "epic GI GI-GGHOSTS SUP"
 - "infanterie GI GI-GGHOSTS SUP"
-- "epic infanterie GI GI-GGHOSTS SUP"
 - "Humains-tactiques GI-GGHOSTS SUP"
 - "epic Humains-tactiques GI-GGHOSTS SUP"
 - "infanterie Humains-tactiques GI-GGHOSTS SUP"
-- "epic infanterie Humains-tactiques GI-GGHOSTS SUP"
 - "GI Humains-tactiques GI-GGHOSTS SUP"
-- "epic GI Humains-tactiques GI-GGHOSTS SUP"
-- "infanterie GI Humains-tactiques GI-GGHOSTS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
 - "epic Humains-tactiques NONDL SUP"
 - "infanterie Humains-tactiques NONDL SUP"
-- "epic infanterie Humains-tactiques NONDL SUP"
 - "GI Humains-tactiques NONDL SUP"
-- "epic GI Humains-tactiques NONDL SUP"
-- "infanterie GI Humains-tactiques NONDL SUP"
 - "GI-GGHOSTS NONDL SUP"
 - "epic GI-GGHOSTS NONDL SUP"
 - "infanterie GI-GGHOSTS NONDL SUP"
-- "epic infanterie GI-GGHOSTS NONDL SUP"
 - "GI GI-GGHOSTS NONDL SUP"
-- "epic GI GI-GGHOSTS NONDL SUP"
-- "infanterie GI GI-GGHOSTS NONDL SUP"
 - "Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "epic Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "infanterie Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "GI Humains-tactiques GI-GGHOSTS NONDL SUP"
 
 ---
-
-## [PAYANT] BitGloomMinis > Specialist_Celtic_Stealth_Warriors [non dl]
 
 ![](<thumbs_-_specialist-celtic-stealth-warriors_-_Images_1.jpg> "thumbs_-_specialist-celtic-stealth-warriors_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/specialist-celtic-stealth-warriors"](<"https://cults3d.com/en/3d-model/game/specialist-celtic-stealth-warriors">)
+Source : [https://cults3d.com/en/3d-model/game/specialist-celtic-stealth-warriors](https://cults3d.com/en/3d-model/game/specialist-celtic-stealth-warriors)
+
+Id objet : specialist-celtic-stealth-warriors
 
 Prix : 6 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques GI-GGHOSTS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques GI-GGHOSTS NONDL SUP
+
 
 Description :
 
@@ -156,11 +146,13 @@ This set is included in the full Celtic Stealth Army set available here - https:
 Grouped pre-supported versions are in the download.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Grouped pre-supported versions are in the download.
+    ~~~
+    Grouped pre-supported versions are in the download.
+    
+    ~~~
 
-~~~
+  
 
 

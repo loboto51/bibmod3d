@@ -5,6 +5,7 @@ date: "2025-07-27T16:09:27Z"
 toc: true
 image: "thumbs_-_mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures_-_Images_1.jpg"
 tags:
+- "Brother_Arminius_Miniatures"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-qg GI-DKOK"
 - "epic GI Humains-qg GI-DKOK"
 - "infanterie GI Humains-qg GI-DKOK"
-- "epic infanterie GI Humains-qg GI-DKOK"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-qg NONDL"
 - "epic GI Humains-qg NONDL"
 - "infanterie GI Humains-qg NONDL"
-- "epic infanterie GI Humains-qg NONDL"
 - "GI-DKOK NONDL"
 - "epic GI-DKOK NONDL"
 - "infanterie GI-DKOK NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-DKOK NONDL"
 - "epic GI GI-DKOK NONDL"
 - "infanterie GI GI-DKOK NONDL"
-- "epic infanterie GI GI-DKOK NONDL"
 - "Humains-qg GI-DKOK NONDL"
 - "epic Humains-qg GI-DKOK NONDL"
 - "infanterie Humains-qg GI-DKOK NONDL"
-- "epic infanterie Humains-qg GI-DKOK NONDL"
 - "GI Humains-qg GI-DKOK NONDL"
-- "epic GI Humains-qg GI-DKOK NONDL"
-- "infanterie GI Humains-qg GI-DKOK NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-qg NONSUP"
 - "epic GI Humains-qg NONSUP"
 - "infanterie GI Humains-qg NONSUP"
-- "epic infanterie GI Humains-qg NONSUP"
 - "GI-DKOK NONSUP"
 - "epic GI-DKOK NONSUP"
 - "infanterie GI-DKOK NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-DKOK NONSUP"
 - "epic GI GI-DKOK NONSUP"
 - "infanterie GI GI-DKOK NONSUP"
-- "epic infanterie GI GI-DKOK NONSUP"
 - "Humains-qg GI-DKOK NONSUP"
 - "epic Humains-qg GI-DKOK NONSUP"
 - "infanterie Humains-qg GI-DKOK NONSUP"
-- "epic infanterie Humains-qg GI-DKOK NONSUP"
 - "GI Humains-qg GI-DKOK NONSUP"
-- "epic GI Humains-qg GI-DKOK NONSUP"
-- "infanterie GI Humains-qg GI-DKOK NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-qg NONDL NONSUP"
 - "epic Humains-qg NONDL NONSUP"
 - "infanterie Humains-qg NONDL NONSUP"
-- "epic infanterie Humains-qg NONDL NONSUP"
 - "GI Humains-qg NONDL NONSUP"
-- "epic GI Humains-qg NONDL NONSUP"
-- "infanterie GI Humains-qg NONDL NONSUP"
 - "GI-DKOK NONDL NONSUP"
 - "epic GI-DKOK NONDL NONSUP"
 - "infanterie GI-DKOK NONDL NONSUP"
-- "epic infanterie GI-DKOK NONDL NONSUP"
 - "GI GI-DKOK NONDL NONSUP"
-- "epic GI GI-DKOK NONDL NONSUP"
-- "infanterie GI GI-DKOK NONDL NONSUP"
 - "Humains-qg GI-DKOK NONDL NONSUP"
-- "epic Humains-qg GI-DKOK NONDL NONSUP"
-- "infanterie Humains-qg GI-DKOK NONDL NONSUP"
-- "GI Humains-qg GI-DKOK NONDL NONSUP"
 
 ---
-
-## [PAYANT] Brother_Arminius_Miniatures > MAD__DEFENDERS___LEGION_OF_THE_CHEM_WASTES__HQ_ [non dl]
 
 ![](<thumbs_-_mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures_-_Images_1.jpg> "thumbs_-_mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures"](<"https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures">)
+Source : [https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures](https://cults3d.com/en/3d-model/game/mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures)
+
+Id objet : mad-defenders-legion-of-the-chem-wastes-hq-brother_arminius_miniatures
 
 Prix : 5.0 euros
+
+Collections :
+
+- epic infanterie GI Humains-qg GI-DKOK
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-qg GI-DKOK NONDL NONSUP
+
 
 Description :
 
@@ -155,11 +145,6 @@ This set includes the following poses:
  This set includes 25 different Poses.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

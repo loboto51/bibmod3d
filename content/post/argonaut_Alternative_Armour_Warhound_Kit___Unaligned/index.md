@@ -5,6 +5,7 @@ date: "2024-10-17T20:19:17Z"
 toc: true
 image: "thumbs_-_alternative-armour-warhound-kit-unaligned_-_Images_1.jpg"
 tags:
+- "argonaut"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Admech-titans-warhounds NONDL"
 - "epic IMP Admech-titans-warhounds NONDL"
 - "titans IMP Admech-titans-warhounds NONDL"
-- "epic titans IMP Admech-titans-warhounds NONDL"
 - "SUP"
 - "epic SUP"
 - "titans SUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Admech-titans-warhounds SUP"
 - "epic IMP Admech-titans-warhounds SUP"
 - "titans IMP Admech-titans-warhounds SUP"
-- "epic titans IMP Admech-titans-warhounds SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "titans NONDL SUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL SUP"
 - "epic IMP NONDL SUP"
 - "titans IMP NONDL SUP"
-- "epic titans IMP NONDL SUP"
 - "Admech-titans-warhounds NONDL SUP"
 - "epic Admech-titans-warhounds NONDL SUP"
 - "titans Admech-titans-warhounds NONDL SUP"
-- "epic titans Admech-titans-warhounds NONDL SUP"
 - "IMP Admech-titans-warhounds NONDL SUP"
-- "epic IMP Admech-titans-warhounds NONDL SUP"
-- "titans IMP Admech-titans-warhounds NONDL SUP"
 
 ---
-
-## [PAYANT] argonaut > Alternative_Armour_Warhound_Kit___Unaligned [non dl]
 
 ![](<thumbs_-_alternative-armour-warhound-kit-unaligned_-_Images_1.jpg> "thumbs_-_alternative-armour-warhound-kit-unaligned_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/alternative-armour-warhound-kit-unaligned"](<"https://cults3d.com/en/3d-model/game/alternative-armour-warhound-kit-unaligned">)
+Source : [https://cults3d.com/en/3d-model/game/alternative-armour-warhound-kit-unaligned](https://cults3d.com/en/3d-model/game/alternative-armour-warhound-kit-unaligned)
+
+Id objet : alternative-armour-warhound-kit-unaligned
 
 Prix : 5.31 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-warhounds
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-warhounds NONDL SUP
+
 
 Description :
 
@@ -103,12 +108,14 @@ STLs and supported STLs are for left side versions only of the shoulder and thig
 Also included in the ZIP is a Lychee file that has all the plates, as well as the appropriate duplicated/mirrored parts, within the scene too - this is the file appended ‘...Full Scene’)
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Files included: STL, pre-supported STL and Lychee scenes (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
+    ~~~
+    Files included: STL, pre-supported STL and Lychee scenes (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 STLs and supported STLs are for left side versions only of the shoulder and thigh plates. Shin plate is symmetrical, and so can be mirrored or just copied. These should be copied and/or mirrored to produce the right side plates, when printing your full set.
+    
+    ~~~
 
-~~~
+  
 
 

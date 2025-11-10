@@ -5,6 +5,7 @@ date: "2021-10-16T11:49:28Z"
 toc: true
 image: "thumbs_-_rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor_-_Images_1.jpg"
 tags:
+- "CMDRZhor"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Admech-titans-reavers NONDL"
 - "epic IMP Admech-titans-reavers NONDL"
 - "titans IMP Admech-titans-reavers NONDL"
-- "epic titans IMP Admech-titans-reavers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Admech-titans-reavers NONSUP"
 - "epic IMP Admech-titans-reavers NONSUP"
 - "titans IMP Admech-titans-reavers NONSUP"
-- "epic titans IMP Admech-titans-reavers NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "titans IMP NONDL NONSUP"
-- "epic titans IMP NONDL NONSUP"
 - "Admech-titans-reavers NONDL NONSUP"
 - "epic Admech-titans-reavers NONDL NONSUP"
 - "titans Admech-titans-reavers NONDL NONSUP"
-- "epic titans Admech-titans-reavers NONDL NONSUP"
 - "IMP Admech-titans-reavers NONDL NONSUP"
-- "epic IMP Admech-titans-reavers NONDL NONSUP"
-- "titans IMP Admech-titans-reavers NONDL NONSUP"
 
 ---
-
-## [PAYANT] CMDRZhor > RV_A_Zhor_pattern_Huge_Robot_Heavy_Turbo_Cannon_Arm [non dl]
 
 ![](<thumbs_-_rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor_-_Images_1.jpg> "thumbs_-_rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor"](<"https://cults3d.com/en/3d-model/game/rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor">)
+Source : [https://cults3d.com/en/3d-model/game/rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor](https://cults3d.com/en/3d-model/game/rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor)
+
+Id objet : rv-a-zhor-pattern-huge-robot-heavy-turbo-cannon-arm-cmdrzhor
 
 Prix : 5 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-reavers
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-reavers NONDL NONSUP
+
 
 Description :
 
@@ -92,11 +97,6 @@ I also went and smoothed out the geometry on the original one while I was at it 
 Fixed a geometry error with the trim on the model, uploaded as the 'Fix' versions. Sorry for the inconvenience.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

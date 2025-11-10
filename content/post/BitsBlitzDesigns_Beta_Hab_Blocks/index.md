@@ -5,6 +5,7 @@ date: "2023-07-29T10:11:50Z"
 toc: true
 image: "thumbs_-_beta-hab-blocks_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "epic"
 - "decors"
 - "epic decors"
@@ -35,7 +36,6 @@ tags:
 - "IMP Batiments NONDL"
 - "epic IMP Batiments NONDL"
 - "decors IMP Batiments NONDL"
-- "epic decors IMP Batiments NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Batiments NONSUP"
 - "epic IMP Batiments NONSUP"
 - "decors IMP Batiments NONSUP"
-- "epic decors IMP Batiments NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "epic decors IMP NONDL NONSUP"
 - "Batiments NONDL NONSUP"
 - "epic Batiments NONDL NONSUP"
 - "decors Batiments NONDL NONSUP"
-- "epic decors Batiments NONDL NONSUP"
 - "IMP Batiments NONDL NONSUP"
-- "epic IMP Batiments NONDL NONSUP"
-- "decors IMP Batiments NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Beta_Hab_Blocks [non dl]
 
 ![](<thumbs_-_beta-hab-blocks_-_Images_1.jpg> "thumbs_-_beta-hab-blocks_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/beta-hab-blocks"](<"https://cults3d.com/en/3d-model/game/beta-hab-blocks">)
+Source : [https://cults3d.com/en/3d-model/game/beta-hab-blocks](https://cults3d.com/en/3d-model/game/beta-hab-blocks)
+
+Id objet : beta-hab-blocks
 
 Prix : 5 euros
+
+Collections :
+
+- epic decors IMP Batiments
+
+
+Collections pour tags :
+
+- epic decors IMP Batiments NONDL NONSUP
+
 
 Description :
 
@@ -99,11 +104,6 @@ The dimensions:
 Please do no share or sell these files (including prints and remixes) without my written permission.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

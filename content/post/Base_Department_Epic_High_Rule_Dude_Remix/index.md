@@ -5,6 +5,7 @@ date: "2023-07-10T20:00:28Z"
 toc: true
 image: "thumbs_-_epic-high-rule-dude-remix_-_Images_1.jpg"
 tags:
+- "Base_Department"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,42 +36,8 @@ tags:
 - "TYRANIDES Tyranides-hierodules SUP"
 - "epic TYRANIDES Tyranides-hierodules SUP"
 - "titans TYRANIDES Tyranides-hierodules SUP"
-- "epic titans TYRANIDES Tyranides-hierodules SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "titans GRATUIT"
-- "epic titans GRATUIT"
-- "TYRANIDES GRATUIT"
-- "epic TYRANIDES GRATUIT"
-- "titans TYRANIDES GRATUIT"
-- "epic titans TYRANIDES GRATUIT"
-- "Tyranides-hierodules GRATUIT"
-- "epic Tyranides-hierodules GRATUIT"
-- "titans Tyranides-hierodules GRATUIT"
-- "epic titans Tyranides-hierodules GRATUIT"
-- "TYRANIDES Tyranides-hierodules GRATUIT"
-- "epic TYRANIDES Tyranides-hierodules GRATUIT"
-- "titans TYRANIDES Tyranides-hierodules GRATUIT"
-- "epic titans TYRANIDES Tyranides-hierodules GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "titans SUP GRATUIT"
-- "epic titans SUP GRATUIT"
-- "TYRANIDES SUP GRATUIT"
-- "epic TYRANIDES SUP GRATUIT"
-- "titans TYRANIDES SUP GRATUIT"
-- "epic titans TYRANIDES SUP GRATUIT"
-- "Tyranides-hierodules SUP GRATUIT"
-- "epic Tyranides-hierodules SUP GRATUIT"
-- "titans Tyranides-hierodules SUP GRATUIT"
-- "epic titans Tyranides-hierodules SUP GRATUIT"
-- "TYRANIDES Tyranides-hierodules SUP GRATUIT"
-- "epic TYRANIDES Tyranides-hierodules SUP GRATUIT"
-- "titans TYRANIDES Tyranides-hierodules SUP GRATUIT"
 
 ---
-
-## [GRATUIT] Base_Department > Epic_High_Rule_Dude_Remix [dl]
 
 ![](<thumbs_-_epic-high-rule-dude-remix_-_Images_1.jpg> "thumbs_-_epic-high-rule-dude-remix_-_Images_1.jpg")
 
@@ -78,9 +45,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix"](<"https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix">)
+Source : [https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix](https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix)
+
+Id objet : epic-high-rule-dude-remix
 
 Prix : 0 euros
+
+Collections :
+
+- epic titans TYRANIDES Tyranides-hierodules
+
+
+Collections pour tags :
+
+- epic titans TYRANIDES Tyranides-hierodules  SUP
+
 
 Description :
 
@@ -91,11 +70,13 @@ File is fully supported and scaled with all parts, just drag and drop.
 Fits perfectly on a 25x40mm tank base, I might add one to the files later.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-File is fully supported and scaled with all parts, just drag and drop. 
-ImagesSTL_-_high_rule_dude_supports_complete_zip_unpack_high_rule_dude_supports_complete_stl_.jpg
-~~~
+    ~~~
+    File is fully supported and scaled with all parts, just drag and drop. 
+    ImagesSTL_-_high_rule_dude_supports_complete_zip_unpack_high_rule_dude_supports_complete_stl_.jpg
+    ~~~
+
+  
 
 

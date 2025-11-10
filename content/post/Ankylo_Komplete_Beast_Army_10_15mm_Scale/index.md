@@ -5,6 +5,7 @@ date: "2023-08-19T09:09:46Z"
 toc: true
 image: "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg"
 tags:
+- "Ankylo"
 - "warmaster"
 - "HOMMES-BETES"
 - "warmaster HOMMES-BETES"
@@ -23,15 +24,25 @@ tags:
 
 ---
 
-## [PAYANT] Ankylo > Komplete_Beast_Army_10_15mm_Scale [non dl]
-
 ![](<thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg> "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/komplete-beast-army-10-15mm-scale"](<"https://cults3d.com/en/3d-model/game/komplete-beast-army-10-15mm-scale">)
+Source : [https://cults3d.com/en/3d-model/game/komplete-beast-army-10-15mm-scale](https://cults3d.com/en/3d-model/game/komplete-beast-army-10-15mm-scale)
+
+Id objet : komplete-beast-army-10-15mm-scale
 
 Prix : 59 euros
+
+Collections :
+
+- warmaster HOMMES-BETES
+
+
+Collections pour tags :
+
+- warmaster HOMMES-BETES NONDL SUP
+
 
 Description :
 
@@ -135,16 +146,18 @@ Thank you for your support and kind regards
 Ankylo Miniatures
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-All strips in two versions: unsupported + pre-supported.
+    ~~~
+    All strips in two versions: unsupported + pre-supported.
 Additionally you get the stls for the single miniatures (also unsupported + pre-supported) plus three different chariots with crew.
 The complete base package consists of over 40 stls (not counting the supported versions).
 All stls unsupported + pre-supported.
 All stls in unsupported + pre-supported versions.
 - Three different abominations (unsupported and pre-supported) + two casualty markers.
+    
+    ~~~
 
-~~~
+  
 
 

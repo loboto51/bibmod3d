@@ -5,6 +5,7 @@ date: "2024-07-16T10:38:42Z"
 toc: true
 image: "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg"
 tags:
+- "Brother_Arminius_Miniatures"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Ogryns NONDL"
 - "epic GI Ogryns NONDL"
 - "infanterie GI Ogryns NONDL"
-- "epic infanterie GI Ogryns NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Ogryns NONSUP"
 - "epic GI Ogryns NONSUP"
 - "infanterie GI Ogryns NONSUP"
-- "epic infanterie GI Ogryns NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Ogryns NONDL NONSUP"
 - "epic Ogryns NONDL NONSUP"
 - "infanterie Ogryns NONDL NONSUP"
-- "epic infanterie Ogryns NONDL NONSUP"
 - "GI Ogryns NONDL NONSUP"
-- "epic GI Ogryns NONDL NONSUP"
-- "infanterie GI Ogryns NONDL NONSUP"
 
 ---
-
-## [PAYANT] Brother_Arminius_Miniatures > Ogre_Marines_6_8MM_15MM [non dl]
 
 ![](<thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg> "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/ogre-marines-6-8mm-15mm"](<"https://cults3d.com/en/3d-model/game/ogre-marines-6-8mm-15mm">)
+Source : [https://cults3d.com/en/3d-model/game/ogre-marines-6-8mm-15mm](https://cults3d.com/en/3d-model/game/ogre-marines-6-8mm-15mm)
+
+Id objet : ogre-marines-6-8mm-15mm
 
 Prix : 5 euros
+
+Collections :
+
+- epic infanterie GI Ogryns
+
+
+Collections pour tags :
+
+- epic infanterie GI Ogryns NONDL NONSUP
+
 
 Description :
 
@@ -100,11 +105,6 @@ Motivator in greatcoat
 This set includes 28 different Poses.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

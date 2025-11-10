@@ -5,6 +5,7 @@ date: "2024-06-15T17:34:15Z"
 toc: true
 image: "thumbs_-_8mm-stg-astra-airborn-forces-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "SMI Rhinos-canon-lourd NONDL"
 - "epic SMI Rhinos-canon-lourd NONDL"
 - "vehicules SMI Rhinos-canon-lourd NONDL"
-- "epic vehicules SMI Rhinos-canon-lourd NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Rhinos-canon-lourd NONSUP"
 - "epic SMI Rhinos-canon-lourd NONSUP"
 - "vehicules SMI Rhinos-canon-lourd NONSUP"
-- "epic vehicules SMI Rhinos-canon-lourd NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "vehicules SMI NONDL NONSUP"
-- "epic vehicules SMI NONDL NONSUP"
 - "Rhinos-canon-lourd NONDL NONSUP"
 - "epic Rhinos-canon-lourd NONDL NONSUP"
 - "vehicules Rhinos-canon-lourd NONDL NONSUP"
-- "epic vehicules Rhinos-canon-lourd NONDL NONSUP"
 - "SMI Rhinos-canon-lourd NONDL NONSUP"
-- "epic SMI Rhinos-canon-lourd NONDL NONSUP"
-- "vehicules SMI Rhinos-canon-lourd NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_FORWARD_ASTRA_AIRBORN_FORCES_STG_TANK [non dl]
 
 ![](<thumbs_-_8mm-stg-astra-airborn-forces-tank_-_Images_1.jpg> "thumbs_-_8mm-stg-astra-airborn-forces-tank_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-stg-astra-airborn-forces-tank"](<"https://cults3d.com/en/3d-model/game/8mm-stg-astra-airborn-forces-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-stg-astra-airborn-forces-tank](https://cults3d.com/en/3d-model/game/8mm-stg-astra-airborn-forces-tank)
+
+Id objet : 8mm-stg-astra-airborn-forces-tank
 
 Prix : 5 euros
+
+Collections :
+
+- epic vehicules SMI Rhinos-canon-lourd
+
+
+Collections pour tags :
+
+- epic vehicules SMI Rhinos-canon-lourd NONDL NONSUP
+
 
 Description :
 
@@ -98,11 +103,6 @@ Hull for the STG  tank - 2 options:
 upd. 27.06.2024 Thanks to the help of enthusiasts, we now have an option with presupports!
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

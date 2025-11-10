@@ -5,6 +5,7 @@ date: "2024-01-17T18:31:58Z"
 toc: true
 image: "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg"
 tags:
+- "Bishok"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "epic infanterie GI Humains-tactiques SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -59,26 +58,32 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
 - "epic Humains-tactiques NONDL SUP"
 - "infanterie Humains-tactiques NONDL SUP"
-- "epic infanterie Humains-tactiques NONDL SUP"
 - "GI Humains-tactiques NONDL SUP"
-- "epic GI Humains-tactiques NONDL SUP"
-- "infanterie GI Humains-tactiques NONDL SUP"
 
 ---
-
-## [PAYANT] Bishok > Tactical_squad_10mm [non dl]
 
 ![](<thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg> "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/tactical-squad-10mm-bishok-2"](<"https://cults3d.com/en/3d-model/game/tactical-squad-10mm-bishok-2">)
+Source : [https://cults3d.com/en/3d-model/game/tactical-squad-10mm-bishok-2](https://cults3d.com/en/3d-model/game/tactical-squad-10mm-bishok-2)
+
+Id objet : tactical-squad-10mm-bishok-2
 
 Prix : 5 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques NONDL SUP
+
 
 Description :
 
@@ -98,11 +103,13 @@ Native scale 10mm
 Supported
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Supported
+    ~~~
+    Supported
+    
+    ~~~
 
-~~~
+  
 
 

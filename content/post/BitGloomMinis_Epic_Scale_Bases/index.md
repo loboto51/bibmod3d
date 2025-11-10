@@ -5,6 +5,7 @@ date: "2023-06-04T20:40:04Z"
 toc: true
 image: "thumbs_-_epic-scale-bases_-_Images_1.jpg"
 tags:
+- "BitGloomMinis"
 - "epic"
 - "SOCLES"
 - "epic SOCLES"
@@ -35,50 +36,28 @@ tags:
 - "DIVERS NONDL SUP"
 - "epic DIVERS NONDL SUP"
 - "SOCLES DIVERS NONDL SUP"
-- "epic SOCLES DIVERS NONDL SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "SOCLES GRATUIT"
-- "epic SOCLES GRATUIT"
-- "DIVERS GRATUIT"
-- "epic DIVERS GRATUIT"
-- "SOCLES DIVERS GRATUIT"
-- "epic SOCLES DIVERS GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "SOCLES NONDL GRATUIT"
-- "epic SOCLES NONDL GRATUIT"
-- "DIVERS NONDL GRATUIT"
-- "epic DIVERS NONDL GRATUIT"
-- "SOCLES DIVERS NONDL GRATUIT"
-- "epic SOCLES DIVERS NONDL GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "SOCLES SUP GRATUIT"
-- "epic SOCLES SUP GRATUIT"
-- "DIVERS SUP GRATUIT"
-- "epic DIVERS SUP GRATUIT"
-- "SOCLES DIVERS SUP GRATUIT"
-- "epic SOCLES DIVERS SUP GRATUIT"
-- "NONDL SUP GRATUIT"
-- "epic NONDL SUP GRATUIT"
-- "SOCLES NONDL SUP GRATUIT"
-- "epic SOCLES NONDL SUP GRATUIT"
-- "DIVERS NONDL SUP GRATUIT"
-- "epic DIVERS NONDL SUP GRATUIT"
-- "SOCLES DIVERS NONDL SUP GRATUIT"
 
 ---
-
-## [GRATUIT] BitGloomMinis > Epic_Scale_Bases [non dl]
 
 ![](<thumbs_-_epic-scale-bases_-_Images_1.jpg> "thumbs_-_epic-scale-bases_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-scale-bases"](<"https://cults3d.com/en/3d-model/game/epic-scale-bases">)
+Source : [https://cults3d.com/en/3d-model/game/epic-scale-bases](https://cults3d.com/en/3d-model/game/epic-scale-bases)
+
+Id objet : epic-scale-bases
 
 Prix : 0 euros
+
+Collections :
+
+- epic SOCLES DIVERS
+
+
+Collections pour tags :
+
+- epic SOCLES DIVERS NONDL SUP
+
 
 Description :
 
@@ -90,11 +69,13 @@ There are Square, Circle and Rounded bases, both scaled for 6mm and for 8mm.
 Not pre-supported.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Not pre-supported.
+    ~~~
+    Not pre-supported.
+    
+    ~~~
 
-~~~
+  
 
 

@@ -5,6 +5,7 @@ date: "2024-04-14T16:37:47Z"
 toc: true
 image: "thumbs_-_8mm-mbt-astra-guard-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "GI Imp-chars Imp-leman-russ"
 - "epic GI Imp-chars Imp-leman-russ"
 - "vehicules GI Imp-chars Imp-leman-russ"
-- "epic vehicules GI Imp-chars Imp-leman-russ"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Imp-chars NONDL"
 - "epic GI Imp-chars NONDL"
 - "vehicules GI Imp-chars NONDL"
-- "epic vehicules GI Imp-chars NONDL"
 - "Imp-leman-russ NONDL"
 - "epic Imp-leman-russ NONDL"
 - "vehicules Imp-leman-russ NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI Imp-leman-russ NONDL"
 - "epic GI Imp-leman-russ NONDL"
 - "vehicules GI Imp-leman-russ NONDL"
-- "epic vehicules GI Imp-leman-russ NONDL"
 - "Imp-chars Imp-leman-russ NONDL"
 - "epic Imp-chars Imp-leman-russ NONDL"
 - "vehicules Imp-chars Imp-leman-russ NONDL"
-- "epic vehicules Imp-chars Imp-leman-russ NONDL"
 - "GI Imp-chars Imp-leman-russ NONDL"
-- "epic GI Imp-chars Imp-leman-russ NONDL"
-- "vehicules GI Imp-chars Imp-leman-russ NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Imp-chars NONSUP"
 - "epic GI Imp-chars NONSUP"
 - "vehicules GI Imp-chars NONSUP"
-- "epic vehicules GI Imp-chars NONSUP"
 - "Imp-leman-russ NONSUP"
 - "epic Imp-leman-russ NONSUP"
 - "vehicules Imp-leman-russ NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI Imp-leman-russ NONSUP"
 - "epic GI Imp-leman-russ NONSUP"
 - "vehicules GI Imp-leman-russ NONSUP"
-- "epic vehicules GI Imp-leman-russ NONSUP"
 - "Imp-chars Imp-leman-russ NONSUP"
 - "epic Imp-chars Imp-leman-russ NONSUP"
 - "vehicules Imp-chars Imp-leman-russ NONSUP"
-- "epic vehicules Imp-chars Imp-leman-russ NONSUP"
 - "GI Imp-chars Imp-leman-russ NONSUP"
-- "epic GI Imp-chars Imp-leman-russ NONSUP"
-- "vehicules GI Imp-chars Imp-leman-russ NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -105,29 +95,17 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "vehicules GI NONDL NONSUP"
-- "epic vehicules GI NONDL NONSUP"
 - "Imp-chars NONDL NONSUP"
 - "epic Imp-chars NONDL NONSUP"
 - "vehicules Imp-chars NONDL NONSUP"
-- "epic vehicules Imp-chars NONDL NONSUP"
 - "GI Imp-chars NONDL NONSUP"
-- "epic GI Imp-chars NONDL NONSUP"
-- "vehicules GI Imp-chars NONDL NONSUP"
 - "Imp-leman-russ NONDL NONSUP"
 - "epic Imp-leman-russ NONDL NONSUP"
 - "vehicules Imp-leman-russ NONDL NONSUP"
-- "epic vehicules Imp-leman-russ NONDL NONSUP"
 - "GI Imp-leman-russ NONDL NONSUP"
-- "epic GI Imp-leman-russ NONDL NONSUP"
-- "vehicules GI Imp-leman-russ NONDL NONSUP"
 - "Imp-chars Imp-leman-russ NONDL NONSUP"
-- "epic Imp-chars Imp-leman-russ NONDL NONSUP"
-- "vehicules Imp-chars Imp-leman-russ NONDL NONSUP"
-- "GI Imp-chars Imp-leman-russ NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8mm_MBT_Astra_Guard_Tank [non dl]
 
 ![](<thumbs_-_8mm-mbt-astra-guard-tank_-_Images_1.jpg> "thumbs_-_8mm-mbt-astra-guard-tank_-_Images_1.jpg")
 
@@ -135,9 +113,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-mbt-astra-guard-tank"](<"https://cults3d.com/en/3d-model/game/8mm-mbt-astra-guard-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-mbt-astra-guard-tank](https://cults3d.com/en/3d-model/game/8mm-mbt-astra-guard-tank)
+
+Id objet : 8mm-mbt-astra-guard-tank
 
 Prix : 5 euros
+
+Collections :
+
+- epic vehicules GI Imp-chars Imp-leman-russ
+
+
+Collections pour tags :
+
+- epic vehicules GI Imp-chars Imp-leman-russ NONDL NONSUP
+
 
 Description :
 
@@ -173,11 +163,6 @@ upd 25.09.2024
 This kit is perfect as a training tank for painting the Leman Russ in the Dark Future games.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

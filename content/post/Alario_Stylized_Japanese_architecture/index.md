@@ -5,6 +5,7 @@ date: "2024-09-28T16:57:58Z"
 toc: true
 image: "thumbs_-_stylized-japanese-architecture_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > Stylized_Japanese_architecture [non dl]
 
 ![](<thumbs_-_stylized-japanese-architecture_-_Images_1.jpg> "thumbs_-_stylized-japanese-architecture_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/stylized-japanese-architecture"](<"https://cults3d.com/en/3d-model/game/stylized-japanese-architecture">)
+Source : [https://cults3d.com/en/3d-model/game/stylized-japanese-architecture](https://cults3d.com/en/3d-model/game/stylized-japanese-architecture)
+
+Id objet : stylized-japanese-architecture
 
 Prix : 5 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -59,11 +69,6 @@ STL files for 3D printing, landscape for board games, role-playing games, wargam
 Made by InfinitePrint 3D and being sold on Licence
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

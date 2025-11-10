@@ -5,6 +5,7 @@ date: "2025-04-15T18:23:08Z"
 toc: true
 image: "thumbs_-_renegade-angry-pit-lords_-_Images_1.jpg"
 tags:
+- "caddyh11"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "CHAOS Chaos-princes-demons KHORNE"
 - "epic CHAOS Chaos-princes-demons KHORNE"
 - "infanterie CHAOS Chaos-princes-demons KHORNE"
-- "epic infanterie CHAOS Chaos-princes-demons KHORNE"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "CHAOS Chaos-princes-demons NONDL"
 - "epic CHAOS Chaos-princes-demons NONDL"
 - "infanterie CHAOS Chaos-princes-demons NONDL"
-- "epic infanterie CHAOS Chaos-princes-demons NONDL"
 - "KHORNE NONDL"
 - "epic KHORNE NONDL"
 - "infanterie KHORNE NONDL"
@@ -59,14 +58,10 @@ tags:
 - "CHAOS KHORNE NONDL"
 - "epic CHAOS KHORNE NONDL"
 - "infanterie CHAOS KHORNE NONDL"
-- "epic infanterie CHAOS KHORNE NONDL"
 - "Chaos-princes-demons KHORNE NONDL"
 - "epic Chaos-princes-demons KHORNE NONDL"
 - "infanterie Chaos-princes-demons KHORNE NONDL"
-- "epic infanterie Chaos-princes-demons KHORNE NONDL"
 - "CHAOS Chaos-princes-demons KHORNE NONDL"
-- "epic CHAOS Chaos-princes-demons KHORNE NONDL"
-- "infanterie CHAOS Chaos-princes-demons KHORNE NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "CHAOS Chaos-princes-demons NONSUP"
 - "epic CHAOS Chaos-princes-demons NONSUP"
 - "infanterie CHAOS Chaos-princes-demons NONSUP"
-- "epic infanterie CHAOS Chaos-princes-demons NONSUP"
 - "KHORNE NONSUP"
 - "epic KHORNE NONSUP"
 - "infanterie KHORNE NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "CHAOS KHORNE NONSUP"
 - "epic CHAOS KHORNE NONSUP"
 - "infanterie CHAOS KHORNE NONSUP"
-- "epic infanterie CHAOS KHORNE NONSUP"
 - "Chaos-princes-demons KHORNE NONSUP"
 - "epic Chaos-princes-demons KHORNE NONSUP"
 - "infanterie Chaos-princes-demons KHORNE NONSUP"
-- "epic infanterie Chaos-princes-demons KHORNE NONSUP"
 - "CHAOS Chaos-princes-demons KHORNE NONSUP"
-- "epic CHAOS Chaos-princes-demons KHORNE NONSUP"
-- "infanterie CHAOS Chaos-princes-demons KHORNE NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -105,136 +95,37 @@ tags:
 - "CHAOS NONDL NONSUP"
 - "epic CHAOS NONDL NONSUP"
 - "infanterie CHAOS NONDL NONSUP"
-- "epic infanterie CHAOS NONDL NONSUP"
 - "Chaos-princes-demons NONDL NONSUP"
 - "epic Chaos-princes-demons NONDL NONSUP"
 - "infanterie Chaos-princes-demons NONDL NONSUP"
-- "epic infanterie Chaos-princes-demons NONDL NONSUP"
 - "CHAOS Chaos-princes-demons NONDL NONSUP"
-- "epic CHAOS Chaos-princes-demons NONDL NONSUP"
-- "infanterie CHAOS Chaos-princes-demons NONDL NONSUP"
 - "KHORNE NONDL NONSUP"
 - "epic KHORNE NONDL NONSUP"
 - "infanterie KHORNE NONDL NONSUP"
-- "epic infanterie KHORNE NONDL NONSUP"
 - "CHAOS KHORNE NONDL NONSUP"
-- "epic CHAOS KHORNE NONDL NONSUP"
-- "infanterie CHAOS KHORNE NONDL NONSUP"
 - "Chaos-princes-demons KHORNE NONDL NONSUP"
-- "epic Chaos-princes-demons KHORNE NONDL NONSUP"
-- "infanterie Chaos-princes-demons KHORNE NONDL NONSUP"
-- "CHAOS Chaos-princes-demons KHORNE NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "CHAOS GRATUIT"
-- "epic CHAOS GRATUIT"
-- "infanterie CHAOS GRATUIT"
-- "epic infanterie CHAOS GRATUIT"
-- "Chaos-princes-demons GRATUIT"
-- "epic Chaos-princes-demons GRATUIT"
-- "infanterie Chaos-princes-demons GRATUIT"
-- "epic infanterie Chaos-princes-demons GRATUIT"
-- "CHAOS Chaos-princes-demons GRATUIT"
-- "epic CHAOS Chaos-princes-demons GRATUIT"
-- "infanterie CHAOS Chaos-princes-demons GRATUIT"
-- "epic infanterie CHAOS Chaos-princes-demons GRATUIT"
-- "KHORNE GRATUIT"
-- "epic KHORNE GRATUIT"
-- "infanterie KHORNE GRATUIT"
-- "epic infanterie KHORNE GRATUIT"
-- "CHAOS KHORNE GRATUIT"
-- "epic CHAOS KHORNE GRATUIT"
-- "infanterie CHAOS KHORNE GRATUIT"
-- "epic infanterie CHAOS KHORNE GRATUIT"
-- "Chaos-princes-demons KHORNE GRATUIT"
-- "epic Chaos-princes-demons KHORNE GRATUIT"
-- "infanterie Chaos-princes-demons KHORNE GRATUIT"
-- "epic infanterie Chaos-princes-demons KHORNE GRATUIT"
-- "CHAOS Chaos-princes-demons KHORNE GRATUIT"
-- "epic CHAOS Chaos-princes-demons KHORNE GRATUIT"
-- "infanterie CHAOS Chaos-princes-demons KHORNE GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "infanterie NONDL GRATUIT"
-- "epic infanterie NONDL GRATUIT"
-- "CHAOS NONDL GRATUIT"
-- "epic CHAOS NONDL GRATUIT"
-- "infanterie CHAOS NONDL GRATUIT"
-- "epic infanterie CHAOS NONDL GRATUIT"
-- "Chaos-princes-demons NONDL GRATUIT"
-- "epic Chaos-princes-demons NONDL GRATUIT"
-- "infanterie Chaos-princes-demons NONDL GRATUIT"
-- "epic infanterie Chaos-princes-demons NONDL GRATUIT"
-- "CHAOS Chaos-princes-demons NONDL GRATUIT"
-- "epic CHAOS Chaos-princes-demons NONDL GRATUIT"
-- "infanterie CHAOS Chaos-princes-demons NONDL GRATUIT"
-- "KHORNE NONDL GRATUIT"
-- "epic KHORNE NONDL GRATUIT"
-- "infanterie KHORNE NONDL GRATUIT"
-- "epic infanterie KHORNE NONDL GRATUIT"
-- "CHAOS KHORNE NONDL GRATUIT"
-- "epic CHAOS KHORNE NONDL GRATUIT"
-- "infanterie CHAOS KHORNE NONDL GRATUIT"
-- "Chaos-princes-demons KHORNE NONDL GRATUIT"
-- "epic Chaos-princes-demons KHORNE NONDL GRATUIT"
-- "infanterie Chaos-princes-demons KHORNE NONDL GRATUIT"
-- "CHAOS Chaos-princes-demons KHORNE NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "infanterie NONSUP GRATUIT"
-- "epic infanterie NONSUP GRATUIT"
-- "CHAOS NONSUP GRATUIT"
-- "epic CHAOS NONSUP GRATUIT"
-- "infanterie CHAOS NONSUP GRATUIT"
-- "epic infanterie CHAOS NONSUP GRATUIT"
-- "Chaos-princes-demons NONSUP GRATUIT"
-- "epic Chaos-princes-demons NONSUP GRATUIT"
-- "infanterie Chaos-princes-demons NONSUP GRATUIT"
-- "epic infanterie Chaos-princes-demons NONSUP GRATUIT"
-- "CHAOS Chaos-princes-demons NONSUP GRATUIT"
-- "epic CHAOS Chaos-princes-demons NONSUP GRATUIT"
-- "infanterie CHAOS Chaos-princes-demons NONSUP GRATUIT"
-- "KHORNE NONSUP GRATUIT"
-- "epic KHORNE NONSUP GRATUIT"
-- "infanterie KHORNE NONSUP GRATUIT"
-- "epic infanterie KHORNE NONSUP GRATUIT"
-- "CHAOS KHORNE NONSUP GRATUIT"
-- "epic CHAOS KHORNE NONSUP GRATUIT"
-- "infanterie CHAOS KHORNE NONSUP GRATUIT"
-- "Chaos-princes-demons KHORNE NONSUP GRATUIT"
-- "epic Chaos-princes-demons KHORNE NONSUP GRATUIT"
-- "infanterie Chaos-princes-demons KHORNE NONSUP GRATUIT"
-- "CHAOS Chaos-princes-demons KHORNE NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "infanterie NONDL NONSUP GRATUIT"
-- "epic infanterie NONDL NONSUP GRATUIT"
-- "CHAOS NONDL NONSUP GRATUIT"
-- "epic CHAOS NONDL NONSUP GRATUIT"
-- "infanterie CHAOS NONDL NONSUP GRATUIT"
-- "Chaos-princes-demons NONDL NONSUP GRATUIT"
-- "epic Chaos-princes-demons NONDL NONSUP GRATUIT"
-- "infanterie Chaos-princes-demons NONDL NONSUP GRATUIT"
-- "CHAOS Chaos-princes-demons NONDL NONSUP GRATUIT"
-- "KHORNE NONDL NONSUP GRATUIT"
-- "epic KHORNE NONDL NONSUP GRATUIT"
-- "infanterie KHORNE NONDL NONSUP GRATUIT"
-- "CHAOS KHORNE NONDL NONSUP GRATUIT"
-- "Chaos-princes-demons KHORNE NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] caddyh11 > Renegade_Angry_Pit_Lords [non dl]
 
 ![](<thumbs_-_renegade-angry-pit-lords_-_Images_1.jpg> "thumbs_-_renegade-angry-pit-lords_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/renegade-angry-pit-lords"](<"https://cults3d.com/en/3d-model/game/renegade-angry-pit-lords">)
+Source : [https://cults3d.com/en/3d-model/game/renegade-angry-pit-lords](https://cults3d.com/en/3d-model/game/renegade-angry-pit-lords)
+
+Id objet : renegade-angry-pit-lords
 
 Prix : 0 euros
+
+Collections :
+
+- epic infanterie CHAOS Chaos-princes-demons KHORNE
+
+
+Collections pour tags :
+
+- epic infanterie CHAOS Chaos-princes-demons KHORNE NONDL NONSUP
+
 
 Description :
 
@@ -242,11 +133,6 @@ Description :
 Through some arcane wizardry I've conjured up a couple of big demons. They'd make an awesome addition to your army! Comes in 2 poses, both without wings or with separate wings so it should hopefully fit on your printer. I scaled them approximately to some of the bigger demons out there but nothing crazy, you might want them bigger. They just have 1 big axe each - if you're wanting more you can merge or glue something on easily since they both have an empty fist.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2024-12-31T13:27:22Z"
 toc: true
 image: "thumbs_-_smallscale-robotic-amaroks_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "epic"
 - "marcheurs"
 - "epic marcheurs"
@@ -35,7 +36,6 @@ tags:
 - "AM Robots NONDL"
 - "epic AM Robots NONDL"
 - "marcheurs AM Robots NONDL"
-- "epic marcheurs AM Robots NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "AM Robots NONSUP"
 - "epic AM Robots NONSUP"
 - "marcheurs AM Robots NONSUP"
-- "epic marcheurs AM Robots NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "marcheurs NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "marcheurs AM NONDL NONSUP"
-- "epic marcheurs AM NONDL NONSUP"
 - "Robots NONDL NONSUP"
 - "epic Robots NONDL NONSUP"
 - "marcheurs Robots NONDL NONSUP"
-- "epic marcheurs Robots NONDL NONSUP"
 - "AM Robots NONDL NONSUP"
-- "epic AM Robots NONDL NONSUP"
-- "marcheurs AM Robots NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Smallscale_robotic_Amaroks [non dl]
 
 ![](<thumbs_-_smallscale-robotic-amaroks_-_Images_1.jpg> "thumbs_-_smallscale-robotic-amaroks_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/smallscale-robotic-amaroks"](<"https://cults3d.com/en/3d-model/game/smallscale-robotic-amaroks">)
+Source : [https://cults3d.com/en/3d-model/game/smallscale-robotic-amaroks](https://cults3d.com/en/3d-model/game/smallscale-robotic-amaroks)
+
+Id objet : smallscale-robotic-amaroks
 
 Prix : 2 euros
+
+Collections :
+
+- epic marcheurs AM Robots
+
+
+Collections pour tags :
+
+- epic marcheurs AM Robots NONDL NONSUP
+
 
 Description :
 
@@ -90,11 +95,6 @@ This kit includes 4 smallscale robotic Amaroks. Note that one of the Amaroks com
 Please do not share of sell these files without my written permission!
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

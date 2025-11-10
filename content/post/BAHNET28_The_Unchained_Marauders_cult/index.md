@@ -5,6 +5,7 @@ date: "2023-11-22T15:14:20Z"
 toc: true
 image: "thumbs_-_the-unchained-marauders-cult_-_Images_1.jpg"
 tags:
+- "BAHNET28"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -35,7 +36,6 @@ tags:
 - "HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -51,7 +51,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONDL"
 - "28mm HUMAINS Necromunda-gangs NONDL"
 - "IMP HUMAINS Necromunda-gangs NONDL"
-- "28mm IMP HUMAINS Necromunda-gangs NONDL"
 - "40k-gangs NONDL"
 - "28mm 40k-gangs NONDL"
 - "IMP 40k-gangs NONDL"
@@ -59,14 +58,10 @@ tags:
 - "HUMAINS 40k-gangs NONDL"
 - "28mm HUMAINS 40k-gangs NONDL"
 - "IMP HUMAINS 40k-gangs NONDL"
-- "28mm IMP HUMAINS 40k-gangs NONDL"
 - "Necromunda-gangs 40k-gangs NONDL"
 - "28mm Necromunda-gangs 40k-gangs NONDL"
 - "IMP Necromunda-gangs 40k-gangs NONDL"
-- "28mm IMP Necromunda-gangs 40k-gangs NONDL"
 - "HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONSUP"
 - "28mm HUMAINS Necromunda-gangs NONSUP"
 - "IMP HUMAINS Necromunda-gangs NONSUP"
-- "28mm IMP HUMAINS Necromunda-gangs NONSUP"
 - "40k-gangs NONSUP"
 - "28mm 40k-gangs NONSUP"
 - "IMP 40k-gangs NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "HUMAINS 40k-gangs NONSUP"
 - "28mm HUMAINS 40k-gangs NONSUP"
 - "IMP HUMAINS 40k-gangs NONSUP"
-- "28mm IMP HUMAINS 40k-gangs NONSUP"
 - "Necromunda-gangs 40k-gangs NONSUP"
 - "28mm Necromunda-gangs 40k-gangs NONSUP"
 - "IMP Necromunda-gangs 40k-gangs NONSUP"
-- "28mm IMP Necromunda-gangs 40k-gangs NONSUP"
 - "HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
@@ -105,37 +95,37 @@ tags:
 - "HUMAINS NONDL NONSUP"
 - "28mm HUMAINS NONDL NONSUP"
 - "IMP HUMAINS NONDL NONSUP"
-- "28mm IMP HUMAINS NONDL NONSUP"
 - "Necromunda-gangs NONDL NONSUP"
 - "28mm Necromunda-gangs NONDL NONSUP"
 - "IMP Necromunda-gangs NONDL NONSUP"
-- "28mm IMP Necromunda-gangs NONDL NONSUP"
 - "HUMAINS Necromunda-gangs NONDL NONSUP"
-- "28mm HUMAINS Necromunda-gangs NONDL NONSUP"
-- "IMP HUMAINS Necromunda-gangs NONDL NONSUP"
 - "40k-gangs NONDL NONSUP"
 - "28mm 40k-gangs NONDL NONSUP"
 - "IMP 40k-gangs NONDL NONSUP"
-- "28mm IMP 40k-gangs NONDL NONSUP"
 - "HUMAINS 40k-gangs NONDL NONSUP"
-- "28mm HUMAINS 40k-gangs NONDL NONSUP"
-- "IMP HUMAINS 40k-gangs NONDL NONSUP"
 - "Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "28mm Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "IMP Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP"
 
 ---
-
-## [PAYANT] BAHNET28 > The_Unchained_Marauders_cult [non dl]
 
 ![](<thumbs_-_the-unchained-marauders-cult_-_Images_1.jpg> "thumbs_-_the-unchained-marauders-cult_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/the-unchained-marauders-cult"](<"https://cults3d.com/en/3d-model/game/the-unchained-marauders-cult">)
+Source : [https://cults3d.com/en/3d-model/game/the-unchained-marauders-cult](https://cults3d.com/en/3d-model/game/the-unchained-marauders-cult)
+
+Id objet : the-unchained-marauders-cult
 
 Prix : 6.93 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
+
 
 Description :
 
@@ -147,11 +137,6 @@ With pipes and repurposed industrial equipment they'll bring chaos, cultist ferv
 Disclaimer: Any photos or images featuring third party miniatures are provided as examples only and should not be considered instructions or an indication that the helmets are designed for use with miniatures of any specific company The helmets created by BAHNET28 are designed for general miniature gaming purposes and are not specifically intended for use with any particular game
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2024-05-07T10:01:27Z"
 toc: true
 image: "thumbs_-_8mm-apc-astra-airborn-forces-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "SMI Rhinos NONDL"
 - "epic SMI Rhinos NONDL"
 - "vehicules SMI Rhinos NONDL"
-- "epic vehicules SMI Rhinos NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Rhinos NONSUP"
 - "epic SMI Rhinos NONSUP"
 - "vehicules SMI Rhinos NONSUP"
-- "epic vehicules SMI Rhinos NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "vehicules SMI NONDL NONSUP"
-- "epic vehicules SMI NONDL NONSUP"
 - "Rhinos NONDL NONSUP"
 - "epic Rhinos NONDL NONSUP"
 - "vehicules Rhinos NONDL NONSUP"
-- "epic vehicules Rhinos NONDL NONSUP"
 - "SMI Rhinos NONDL NONSUP"
-- "epic SMI Rhinos NONDL NONSUP"
-- "vehicules SMI Rhinos NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_APC_ASTRA_AIRBORN_FORCES_TANK [non dl]
 
 ![](<thumbs_-_8mm-apc-astra-airborn-forces-tank_-_Images_1.jpg> "thumbs_-_8mm-apc-astra-airborn-forces-tank_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-apc-astra-airborn-forces-tank"](<"https://cults3d.com/en/3d-model/game/8mm-apc-astra-airborn-forces-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-apc-astra-airborn-forces-tank](https://cults3d.com/en/3d-model/game/8mm-apc-astra-airborn-forces-tank)
+
+Id objet : 8mm-apc-astra-airborn-forces-tank
 
 Prix : 5 euros
+
+Collections :
+
+- epic vehicules SMI Rhinos
+
+
+Collections pour tags :
+
+- epic vehicules SMI Rhinos NONDL NONSUP
+
 
 Description :
 
@@ -96,11 +101,6 @@ Dimensions rounded to 0.5mm
 30% discount for LBT ASTRA AIRBORN FORCES (AAF) TANK They are quite similar with APC AAF.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

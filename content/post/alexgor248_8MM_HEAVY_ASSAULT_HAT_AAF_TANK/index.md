@@ -5,6 +5,7 @@ date: "2025-02-15T17:44:15Z"
 toc: true
 image: "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "SMI Kratos NONDL"
 - "epic SMI Kratos NONDL"
 - "vehicules SMI Kratos NONDL"
-- "epic vehicules SMI Kratos NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Kratos NONSUP"
 - "epic SMI Kratos NONSUP"
 - "vehicules SMI Kratos NONSUP"
-- "epic vehicules SMI Kratos NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "vehicules SMI NONDL NONSUP"
-- "epic vehicules SMI NONDL NONSUP"
 - "Kratos NONDL NONSUP"
 - "epic Kratos NONDL NONSUP"
 - "vehicules Kratos NONDL NONSUP"
-- "epic vehicules Kratos NONDL NONSUP"
 - "SMI Kratos NONDL NONSUP"
-- "epic SMI Kratos NONDL NONSUP"
-- "vehicules SMI Kratos NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_HEAVY_ASSAULT_HAT_AAF_TANK [non dl]
 
 ![](<thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg> "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-heavy-assault-hat-aaf-tank"](<"https://cults3d.com/en/3d-model/game/8mm-heavy-assault-hat-aaf-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-heavy-assault-hat-aaf-tank](https://cults3d.com/en/3d-model/game/8mm-heavy-assault-hat-aaf-tank)
+
+Id objet : 8mm-heavy-assault-hat-aaf-tank
 
 Prix : 6 euros
+
+Collections :
+
+- epic vehicules SMI Kratos
+
+
+Collections pour tags :
+
+- epic vehicules SMI Kratos NONDL NONSUP
+
 
 Description :
 
@@ -97,11 +102,6 @@ check 8MM FREE KITS FOR LBT ASTRA AIRBORN FORCES TANK
 https://cults3d.com/en/3d-model/game/front-design
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

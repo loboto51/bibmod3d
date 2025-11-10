@@ -5,6 +5,7 @@ date: "2024-09-19T12:09:03Z"
 toc: true
 image: "thumbs_-_8mm-wilwind-astra-airborn-forces-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -35,7 +36,6 @@ tags:
 - "SMI Rhinos-artillerie NONDL"
 - "epic SMI Rhinos-artillerie NONDL"
 - "vehicules SMI Rhinos-artillerie NONDL"
-- "epic vehicules SMI Rhinos-artillerie NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Rhinos-artillerie NONSUP"
 - "epic SMI Rhinos-artillerie NONSUP"
 - "vehicules SMI Rhinos-artillerie NONSUP"
-- "epic vehicules SMI Rhinos-artillerie NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "vehicules SMI NONDL NONSUP"
-- "epic vehicules SMI NONDL NONSUP"
 - "Rhinos-artillerie NONDL NONSUP"
 - "epic Rhinos-artillerie NONDL NONSUP"
 - "vehicules Rhinos-artillerie NONDL NONSUP"
-- "epic vehicules Rhinos-artillerie NONDL NONSUP"
 - "SMI Rhinos-artillerie NONDL NONSUP"
-- "epic SMI Rhinos-artillerie NONDL NONSUP"
-- "vehicules SMI Rhinos-artillerie NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_WILWIND_ASTRA_AIRBORN_FORCES_TANK [non dl]
 
 ![](<thumbs_-_8mm-wilwind-astra-airborn-forces-tank_-_Images_1.jpg> "thumbs_-_8mm-wilwind-astra-airborn-forces-tank_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank"](<"https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank](https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank)
+
+Id objet : 8mm-wilwind-astra-airborn-forces-tank
 
 Prix : 5 euros
+
+Collections :
+
+- epic vehicules SMI Rhinos-artillerie
+
+
+Collections pour tags :
+
+- epic vehicules SMI Rhinos-artillerie NONDL NONSUP
+
 
 Description :
 
@@ -91,11 +96,6 @@ check 8MM FREE KITS FOR LBT ASTRA AIRBORN FORCES TANK
 https://cults3d.com/en/3d-model/game/front-design
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

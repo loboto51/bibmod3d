@@ -5,6 +5,7 @@ date: "2022-11-02T22:58:25Z"
 toc: true
 image: "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg"
 tags:
+- "AxelFendersson"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,42 +36,8 @@ tags:
 - "IMP Admech-titans-warlords NONSUP"
 - "epic IMP Admech-titans-warlords NONSUP"
 - "titans IMP Admech-titans-warlords NONSUP"
-- "epic titans IMP Admech-titans-warlords NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "titans GRATUIT"
-- "epic titans GRATUIT"
-- "IMP GRATUIT"
-- "epic IMP GRATUIT"
-- "titans IMP GRATUIT"
-- "epic titans IMP GRATUIT"
-- "Admech-titans-warlords GRATUIT"
-- "epic Admech-titans-warlords GRATUIT"
-- "titans Admech-titans-warlords GRATUIT"
-- "epic titans Admech-titans-warlords GRATUIT"
-- "IMP Admech-titans-warlords GRATUIT"
-- "epic IMP Admech-titans-warlords GRATUIT"
-- "titans IMP Admech-titans-warlords GRATUIT"
-- "epic titans IMP Admech-titans-warlords GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "titans NONSUP GRATUIT"
-- "epic titans NONSUP GRATUIT"
-- "IMP NONSUP GRATUIT"
-- "epic IMP NONSUP GRATUIT"
-- "titans IMP NONSUP GRATUIT"
-- "epic titans IMP NONSUP GRATUIT"
-- "Admech-titans-warlords NONSUP GRATUIT"
-- "epic Admech-titans-warlords NONSUP GRATUIT"
-- "titans Admech-titans-warlords NONSUP GRATUIT"
-- "epic titans Admech-titans-warlords NONSUP GRATUIT"
-- "IMP Admech-titans-warlords NONSUP GRATUIT"
-- "epic IMP Admech-titans-warlords NONSUP GRATUIT"
-- "titans IMP Admech-titans-warlords NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] AxelFendersson > Epic_Warlord___Battleduke_Carapace_Turbolaser [dl]
 
 ![](<thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg> "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg")
 
@@ -78,9 +45,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-warlord-battleduke-carapace-turbolaser"](<"https://cults3d.com/en/3d-model/game/epic-warlord-battleduke-carapace-turbolaser">)
+Source : [https://cults3d.com/en/3d-model/game/epic-warlord-battleduke-carapace-turbolaser](https://cults3d.com/en/3d-model/game/epic-warlord-battleduke-carapace-turbolaser)
+
+Id objet : epic-warlord-battleduke-carapace-turbolaser
 
 Prix : 0 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-warlords
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-warlords  NONSUP
+
 
 Description :
 
@@ -101,11 +80,6 @@ It should fit exactly onto the Battleduke model if you print them both at the sa
 The model is slightly asymmetrical. I think it works better on the right shoulder; mirror it for the left.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

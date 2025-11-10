@@ -5,6 +5,7 @@ date: "2025-03-21T22:09:05Z"
 toc: true
 image: "thumbs_-_battlefleet-gothic-tyranid-escort-drone-minion_-_Images_1.jpg"
 tags:
+- "Baukloetzchen"
 - "bfg"
 - "TYRANIDES"
 - "bfg TYRANIDES"
@@ -35,50 +36,28 @@ tags:
 - "Flotte NONDL NONSUP"
 - "bfg Flotte NONDL NONSUP"
 - "TYRANIDES Flotte NONDL NONSUP"
-- "bfg TYRANIDES Flotte NONDL NONSUP"
-- "GRATUIT"
-- "bfg GRATUIT"
-- "TYRANIDES GRATUIT"
-- "bfg TYRANIDES GRATUIT"
-- "Flotte GRATUIT"
-- "bfg Flotte GRATUIT"
-- "TYRANIDES Flotte GRATUIT"
-- "bfg TYRANIDES Flotte GRATUIT"
-- "NONDL GRATUIT"
-- "bfg NONDL GRATUIT"
-- "TYRANIDES NONDL GRATUIT"
-- "bfg TYRANIDES NONDL GRATUIT"
-- "Flotte NONDL GRATUIT"
-- "bfg Flotte NONDL GRATUIT"
-- "TYRANIDES Flotte NONDL GRATUIT"
-- "bfg TYRANIDES Flotte NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "bfg NONSUP GRATUIT"
-- "TYRANIDES NONSUP GRATUIT"
-- "bfg TYRANIDES NONSUP GRATUIT"
-- "Flotte NONSUP GRATUIT"
-- "bfg Flotte NONSUP GRATUIT"
-- "TYRANIDES Flotte NONSUP GRATUIT"
-- "bfg TYRANIDES Flotte NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "bfg NONDL NONSUP GRATUIT"
-- "TYRANIDES NONDL NONSUP GRATUIT"
-- "bfg TYRANIDES NONDL NONSUP GRATUIT"
-- "Flotte NONDL NONSUP GRATUIT"
-- "bfg Flotte NONDL NONSUP GRATUIT"
-- "TYRANIDES Flotte NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] Baukloetzchen > Battlefleet_Gothic_Tyranid_Escort_Drone__Minion_ [non dl]
 
 ![](<thumbs_-_battlefleet-gothic-tyranid-escort-drone-minion_-_Images_1.jpg> "thumbs_-_battlefleet-gothic-tyranid-escort-drone-minion_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/battlefleet-gothic-tyranid-escort-drone-minion"](<"https://cults3d.com/en/3d-model/game/battlefleet-gothic-tyranid-escort-drone-minion">)
+Source : [https://cults3d.com/en/3d-model/game/battlefleet-gothic-tyranid-escort-drone-minion](https://cults3d.com/en/3d-model/game/battlefleet-gothic-tyranid-escort-drone-minion)
+
+Id objet : battlefleet-gothic-tyranid-escort-drone-minion
 
 Prix : 0.63 euros
+
+Collections :
+
+- bfg TYRANIDES Flotte
+
+
+Collections pour tags :
+
+- bfg TYRANIDES Flotte NONDL NONSUP
+
 
 Description :
 
@@ -125,11 +104,6 @@ They are a bit smaller than my "vanguard drones" to fit into a "small and cheap"
 Best wishes, Baukloetzchen
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

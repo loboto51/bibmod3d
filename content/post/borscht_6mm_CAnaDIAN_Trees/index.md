@@ -5,6 +5,7 @@ date: "2023-11-01T08:01:10Z"
 toc: true
 image: "thumbs_-_6mm-canadian-trees_-_Images_1.jpg"
 tags:
+- "borscht"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-tactiques GI-CADIENS"
 - "epic GI Humains-tactiques GI-CADIENS"
 - "infanterie GI Humains-tactiques GI-CADIENS"
-- "epic infanterie GI Humains-tactiques GI-CADIENS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-CADIENS NONDL"
 - "epic GI-CADIENS NONDL"
 - "infanterie GI-CADIENS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-CADIENS NONDL"
 - "epic GI GI-CADIENS NONDL"
 - "infanterie GI GI-CADIENS NONDL"
-- "epic infanterie GI GI-CADIENS NONDL"
 - "Humains-tactiques GI-CADIENS NONDL"
 - "epic Humains-tactiques GI-CADIENS NONDL"
 - "infanterie Humains-tactiques GI-CADIENS NONDL"
-- "epic infanterie Humains-tactiques GI-CADIENS NONDL"
 - "GI Humains-tactiques GI-CADIENS NONDL"
-- "epic GI Humains-tactiques GI-CADIENS NONDL"
-- "infanterie GI Humains-tactiques GI-CADIENS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "epic infanterie GI Humains-tactiques SUP"
 - "GI-CADIENS SUP"
 - "epic GI-CADIENS SUP"
 - "infanterie GI-CADIENS SUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-CADIENS SUP"
 - "epic GI GI-CADIENS SUP"
 - "infanterie GI GI-CADIENS SUP"
-- "epic infanterie GI GI-CADIENS SUP"
 - "Humains-tactiques GI-CADIENS SUP"
 - "epic Humains-tactiques GI-CADIENS SUP"
 - "infanterie Humains-tactiques GI-CADIENS SUP"
-- "epic infanterie Humains-tactiques GI-CADIENS SUP"
 - "GI Humains-tactiques GI-CADIENS SUP"
-- "epic GI Humains-tactiques GI-CADIENS SUP"
-- "infanterie GI Humains-tactiques GI-CADIENS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -105,136 +95,37 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
 - "epic Humains-tactiques NONDL SUP"
 - "infanterie Humains-tactiques NONDL SUP"
-- "epic infanterie Humains-tactiques NONDL SUP"
 - "GI Humains-tactiques NONDL SUP"
-- "epic GI Humains-tactiques NONDL SUP"
-- "infanterie GI Humains-tactiques NONDL SUP"
 - "GI-CADIENS NONDL SUP"
 - "epic GI-CADIENS NONDL SUP"
 - "infanterie GI-CADIENS NONDL SUP"
-- "epic infanterie GI-CADIENS NONDL SUP"
 - "GI GI-CADIENS NONDL SUP"
-- "epic GI GI-CADIENS NONDL SUP"
-- "infanterie GI GI-CADIENS NONDL SUP"
 - "Humains-tactiques GI-CADIENS NONDL SUP"
-- "epic Humains-tactiques GI-CADIENS NONDL SUP"
-- "infanterie Humains-tactiques GI-CADIENS NONDL SUP"
-- "GI Humains-tactiques GI-CADIENS NONDL SUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "GI GRATUIT"
-- "epic GI GRATUIT"
-- "infanterie GI GRATUIT"
-- "epic infanterie GI GRATUIT"
-- "Humains-tactiques GRATUIT"
-- "epic Humains-tactiques GRATUIT"
-- "infanterie Humains-tactiques GRATUIT"
-- "epic infanterie Humains-tactiques GRATUIT"
-- "GI Humains-tactiques GRATUIT"
-- "epic GI Humains-tactiques GRATUIT"
-- "infanterie GI Humains-tactiques GRATUIT"
-- "epic infanterie GI Humains-tactiques GRATUIT"
-- "GI-CADIENS GRATUIT"
-- "epic GI-CADIENS GRATUIT"
-- "infanterie GI-CADIENS GRATUIT"
-- "epic infanterie GI-CADIENS GRATUIT"
-- "GI GI-CADIENS GRATUIT"
-- "epic GI GI-CADIENS GRATUIT"
-- "infanterie GI GI-CADIENS GRATUIT"
-- "epic infanterie GI GI-CADIENS GRATUIT"
-- "Humains-tactiques GI-CADIENS GRATUIT"
-- "epic Humains-tactiques GI-CADIENS GRATUIT"
-- "infanterie Humains-tactiques GI-CADIENS GRATUIT"
-- "epic infanterie Humains-tactiques GI-CADIENS GRATUIT"
-- "GI Humains-tactiques GI-CADIENS GRATUIT"
-- "epic GI Humains-tactiques GI-CADIENS GRATUIT"
-- "infanterie GI Humains-tactiques GI-CADIENS GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "infanterie NONDL GRATUIT"
-- "epic infanterie NONDL GRATUIT"
-- "GI NONDL GRATUIT"
-- "epic GI NONDL GRATUIT"
-- "infanterie GI NONDL GRATUIT"
-- "epic infanterie GI NONDL GRATUIT"
-- "Humains-tactiques NONDL GRATUIT"
-- "epic Humains-tactiques NONDL GRATUIT"
-- "infanterie Humains-tactiques NONDL GRATUIT"
-- "epic infanterie Humains-tactiques NONDL GRATUIT"
-- "GI Humains-tactiques NONDL GRATUIT"
-- "epic GI Humains-tactiques NONDL GRATUIT"
-- "infanterie GI Humains-tactiques NONDL GRATUIT"
-- "GI-CADIENS NONDL GRATUIT"
-- "epic GI-CADIENS NONDL GRATUIT"
-- "infanterie GI-CADIENS NONDL GRATUIT"
-- "epic infanterie GI-CADIENS NONDL GRATUIT"
-- "GI GI-CADIENS NONDL GRATUIT"
-- "epic GI GI-CADIENS NONDL GRATUIT"
-- "infanterie GI GI-CADIENS NONDL GRATUIT"
-- "Humains-tactiques GI-CADIENS NONDL GRATUIT"
-- "epic Humains-tactiques GI-CADIENS NONDL GRATUIT"
-- "infanterie Humains-tactiques GI-CADIENS NONDL GRATUIT"
-- "GI Humains-tactiques GI-CADIENS NONDL GRATUIT"
-- "SUP GRATUIT"
-- "epic SUP GRATUIT"
-- "infanterie SUP GRATUIT"
-- "epic infanterie SUP GRATUIT"
-- "GI SUP GRATUIT"
-- "epic GI SUP GRATUIT"
-- "infanterie GI SUP GRATUIT"
-- "epic infanterie GI SUP GRATUIT"
-- "Humains-tactiques SUP GRATUIT"
-- "epic Humains-tactiques SUP GRATUIT"
-- "infanterie Humains-tactiques SUP GRATUIT"
-- "epic infanterie Humains-tactiques SUP GRATUIT"
-- "GI Humains-tactiques SUP GRATUIT"
-- "epic GI Humains-tactiques SUP GRATUIT"
-- "infanterie GI Humains-tactiques SUP GRATUIT"
-- "GI-CADIENS SUP GRATUIT"
-- "epic GI-CADIENS SUP GRATUIT"
-- "infanterie GI-CADIENS SUP GRATUIT"
-- "epic infanterie GI-CADIENS SUP GRATUIT"
-- "GI GI-CADIENS SUP GRATUIT"
-- "epic GI GI-CADIENS SUP GRATUIT"
-- "infanterie GI GI-CADIENS SUP GRATUIT"
-- "Humains-tactiques GI-CADIENS SUP GRATUIT"
-- "epic Humains-tactiques GI-CADIENS SUP GRATUIT"
-- "infanterie Humains-tactiques GI-CADIENS SUP GRATUIT"
-- "GI Humains-tactiques GI-CADIENS SUP GRATUIT"
-- "NONDL SUP GRATUIT"
-- "epic NONDL SUP GRATUIT"
-- "infanterie NONDL SUP GRATUIT"
-- "epic infanterie NONDL SUP GRATUIT"
-- "GI NONDL SUP GRATUIT"
-- "epic GI NONDL SUP GRATUIT"
-- "infanterie GI NONDL SUP GRATUIT"
-- "Humains-tactiques NONDL SUP GRATUIT"
-- "epic Humains-tactiques NONDL SUP GRATUIT"
-- "infanterie Humains-tactiques NONDL SUP GRATUIT"
-- "GI Humains-tactiques NONDL SUP GRATUIT"
-- "GI-CADIENS NONDL SUP GRATUIT"
-- "epic GI-CADIENS NONDL SUP GRATUIT"
-- "infanterie GI-CADIENS NONDL SUP GRATUIT"
-- "GI GI-CADIENS NONDL SUP GRATUIT"
-- "Humains-tactiques GI-CADIENS NONDL SUP GRATUIT"
 
 ---
-
-## [GRATUIT] borscht > 6mm_CAnaDIAN_Trees [non dl]
 
 ![](<thumbs_-_6mm-canadian-trees_-_Images_1.jpg> "thumbs_-_6mm-canadian-trees_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/6mm-canadian-trees"](<"https://cults3d.com/en/3d-model/game/6mm-canadian-trees">)
+Source : [https://cults3d.com/en/3d-model/game/6mm-canadian-trees](https://cults3d.com/en/3d-model/game/6mm-canadian-trees)
+
+Id objet : 6mm-canadian-trees
 
 Prix : 0.0 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques GI-CADIENS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques GI-CADIENS NONDL SUP
+
 
 Description :
 
@@ -247,11 +138,13 @@ https://cults3d.com/en/3d-model/game/6mm-empire-star-army-acadian-infantry
 https://cults3d.com/en/3d-model/game/epic-scale-special-forces
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-As supported, a single print on an Elegoo Mars can yield up to 80 5-man units for your wargaming in the distant future!
+    ~~~
+    As supported, a single print on an Elegoo Mars can yield up to 80 5-man units for your wargaming in the distant future!
+    
+    ~~~
 
-~~~
+  
 
 

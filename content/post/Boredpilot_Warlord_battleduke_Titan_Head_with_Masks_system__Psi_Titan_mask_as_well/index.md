@@ -5,6 +5,7 @@ date: "2021-11-17T07:44:50Z"
 toc: true
 image: "thumbs_-_titan-head-with-masks-system-psi-titan-mask-as-well_-_Images_1.jpg"
 tags:
+- "Boredpilot"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Bits NONDL"
 - "epic IMP Bits NONDL"
 - "titans IMP Bits NONDL"
-- "epic titans IMP Bits NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Bits NONSUP"
 - "epic IMP Bits NONSUP"
 - "titans IMP Bits NONSUP"
-- "epic titans IMP Bits NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "titans IMP NONDL NONSUP"
-- "epic titans IMP NONDL NONSUP"
 - "Bits NONDL NONSUP"
 - "epic Bits NONDL NONSUP"
 - "titans Bits NONDL NONSUP"
-- "epic titans Bits NONDL NONSUP"
 - "IMP Bits NONDL NONSUP"
-- "epic IMP Bits NONDL NONSUP"
-- "titans IMP Bits NONDL NONSUP"
 
 ---
-
-## [PAYANT] Boredpilot > Warlord_battleduke_Titan_Head_with_Masks_system__Psi_Titan_mask_as_well [non dl]
 
 ![](<thumbs_-_titan-head-with-masks-system-psi-titan-mask-as-well_-_Images_1.jpg> "thumbs_-_titan-head-with-masks-system-psi-titan-mask-as-well_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/titan-head-with-masks-system-psi-titan-mask-as-well"](<"https://cults3d.com/en/3d-model/game/titan-head-with-masks-system-psi-titan-mask-as-well">)
+Source : [https://cults3d.com/en/3d-model/game/titan-head-with-masks-system-psi-titan-mask-as-well](https://cults3d.com/en/3d-model/game/titan-head-with-masks-system-psi-titan-mask-as-well)
+
+Id objet : titan-head-with-masks-system-psi-titan-mask-as-well
 
 Prix : 7.5 euros
+
+Collections :
+
+- epic titans IMP Bits
+
+
+Collections pour tags :
+
+- epic titans IMP Bits NONDL NONSUP
+
 
 Description :
 
@@ -94,11 +99,6 @@ Fits the battle duke, so if you scaled down the battle duke you will need to sca
 Any issues please message me, This has been printed both in FDM and resin, but for best results go resin
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

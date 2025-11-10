@@ -5,6 +5,7 @@ date: "2025-02-28T08:10:22Z"
 toc: true
 image: "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > The_Village_of_the_Knights___x6_Houses [non dl]
 
 ![](<thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg> "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/the-village-of-the-knights-x6-houses"](<"https://cults3d.com/en/3d-model/game/the-village-of-the-knights-x6-houses">)
+Source : [https://cults3d.com/en/3d-model/game/the-village-of-the-knights-x6-houses](https://cults3d.com/en/3d-model/game/the-village-of-the-knights-x6-houses)
+
+Id objet : the-village-of-the-knights-x6-houses
 
 Prix : 9 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -69,11 +79,6 @@ Tested: All models were printed and tested for compatibility with different type
 These houses are not just decorations, but a real immersion in the Medieval era. Support our project and make your collection unique!
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

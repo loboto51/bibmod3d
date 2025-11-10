@@ -5,6 +5,7 @@ date: "2025-03-06T01:31:48Z"
 toc: true
 image: "thumbs_-_the-twilight-tract-taverns-x3-houses_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > The_Twilight_Tract_Taverns___x3_Houses [non dl]
 
 ![](<thumbs_-_the-twilight-tract-taverns-x3-houses_-_Images_1.jpg> "thumbs_-_the-twilight-tract-taverns-x3-houses_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/the-twilight-tract-taverns-x3-houses"](<"https://cults3d.com/en/3d-model/game/the-twilight-tract-taverns-x3-houses">)
+Source : [https://cults3d.com/en/3d-model/game/the-twilight-tract-taverns-x3-houses](https://cults3d.com/en/3d-model/game/the-twilight-tract-taverns-x3-houses)
+
+Id objet : the-twilight-tract-taverns-x3-houses
 
 Prix : 3 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -69,11 +79,6 @@ Create your own miniature village for board games, dioramas or collections!
 I put my soul into every tile, board and stone so that you can not just print models, but be transported into a fairy tale.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

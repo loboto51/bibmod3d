@@ -5,6 +5,7 @@ date: "2023-05-28T15:18:31Z"
 toc: true
 image: "thumbs_-_celtic-stealth-warriors-epic-scale-bitgloomminis_-_Images_1.jpg"
 tags:
+- "BitGloomMinis"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-qg GI-GGHOSTS"
 - "epic GI Humains-qg GI-GGHOSTS"
 - "infanterie GI Humains-qg GI-GGHOSTS"
-- "epic infanterie GI Humains-qg GI-GGHOSTS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-qg NONDL"
 - "epic GI Humains-qg NONDL"
 - "infanterie GI Humains-qg NONDL"
-- "epic infanterie GI Humains-qg NONDL"
 - "GI-GGHOSTS NONDL"
 - "epic GI-GGHOSTS NONDL"
 - "infanterie GI-GGHOSTS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-GGHOSTS NONDL"
 - "epic GI GI-GGHOSTS NONDL"
 - "infanterie GI GI-GGHOSTS NONDL"
-- "epic infanterie GI GI-GGHOSTS NONDL"
 - "Humains-qg GI-GGHOSTS NONDL"
 - "epic Humains-qg GI-GGHOSTS NONDL"
 - "infanterie Humains-qg GI-GGHOSTS NONDL"
-- "epic infanterie Humains-qg GI-GGHOSTS NONDL"
 - "GI Humains-qg GI-GGHOSTS NONDL"
-- "epic GI Humains-qg GI-GGHOSTS NONDL"
-- "infanterie GI Humains-qg GI-GGHOSTS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-qg SUP"
 - "epic GI Humains-qg SUP"
 - "infanterie GI Humains-qg SUP"
-- "epic infanterie GI Humains-qg SUP"
 - "GI-GGHOSTS SUP"
 - "epic GI-GGHOSTS SUP"
 - "infanterie GI-GGHOSTS SUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-GGHOSTS SUP"
 - "epic GI GI-GGHOSTS SUP"
 - "infanterie GI GI-GGHOSTS SUP"
-- "epic infanterie GI GI-GGHOSTS SUP"
 - "Humains-qg GI-GGHOSTS SUP"
 - "epic Humains-qg GI-GGHOSTS SUP"
 - "infanterie Humains-qg GI-GGHOSTS SUP"
-- "epic infanterie Humains-qg GI-GGHOSTS SUP"
 - "GI Humains-qg GI-GGHOSTS SUP"
-- "epic GI Humains-qg GI-GGHOSTS SUP"
-- "infanterie GI Humains-qg GI-GGHOSTS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -105,25 +95,15 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-qg NONDL SUP"
 - "epic Humains-qg NONDL SUP"
 - "infanterie Humains-qg NONDL SUP"
-- "epic infanterie Humains-qg NONDL SUP"
 - "GI Humains-qg NONDL SUP"
-- "epic GI Humains-qg NONDL SUP"
-- "infanterie GI Humains-qg NONDL SUP"
 - "GI-GGHOSTS NONDL SUP"
 - "epic GI-GGHOSTS NONDL SUP"
 - "infanterie GI-GGHOSTS NONDL SUP"
-- "epic infanterie GI-GGHOSTS NONDL SUP"
 - "GI GI-GGHOSTS NONDL SUP"
-- "epic GI GI-GGHOSTS NONDL SUP"
-- "infanterie GI GI-GGHOSTS NONDL SUP"
 - "Humains-qg GI-GGHOSTS NONDL SUP"
-- "epic Humains-qg GI-GGHOSTS NONDL SUP"
-- "infanterie Humains-qg GI-GGHOSTS NONDL SUP"
-- "GI Humains-qg GI-GGHOSTS NONDL SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,7 +134,6 @@ tags:
 - "GI Humains-snipers GI-GGHOSTS"
 - "epic GI Humains-snipers GI-GGHOSTS"
 - "infanterie GI Humains-snipers GI-GGHOSTS"
-- "epic infanterie GI Humains-snipers GI-GGHOSTS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -170,7 +149,6 @@ tags:
 - "GI Humains-snipers NONDL"
 - "epic GI Humains-snipers NONDL"
 - "infanterie GI Humains-snipers NONDL"
-- "epic infanterie GI Humains-snipers NONDL"
 - "GI-GGHOSTS NONDL"
 - "epic GI-GGHOSTS NONDL"
 - "infanterie GI-GGHOSTS NONDL"
@@ -178,14 +156,10 @@ tags:
 - "GI GI-GGHOSTS NONDL"
 - "epic GI GI-GGHOSTS NONDL"
 - "infanterie GI GI-GGHOSTS NONDL"
-- "epic infanterie GI GI-GGHOSTS NONDL"
 - "Humains-snipers GI-GGHOSTS NONDL"
 - "epic Humains-snipers GI-GGHOSTS NONDL"
 - "infanterie Humains-snipers GI-GGHOSTS NONDL"
-- "epic infanterie Humains-snipers GI-GGHOSTS NONDL"
 - "GI Humains-snipers GI-GGHOSTS NONDL"
-- "epic GI Humains-snipers GI-GGHOSTS NONDL"
-- "infanterie GI Humains-snipers GI-GGHOSTS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -201,7 +175,6 @@ tags:
 - "GI Humains-snipers SUP"
 - "epic GI Humains-snipers SUP"
 - "infanterie GI Humains-snipers SUP"
-- "epic infanterie GI Humains-snipers SUP"
 - "GI-GGHOSTS SUP"
 - "epic GI-GGHOSTS SUP"
 - "infanterie GI-GGHOSTS SUP"
@@ -209,14 +182,10 @@ tags:
 - "GI GI-GGHOSTS SUP"
 - "epic GI GI-GGHOSTS SUP"
 - "infanterie GI GI-GGHOSTS SUP"
-- "epic infanterie GI GI-GGHOSTS SUP"
 - "Humains-snipers GI-GGHOSTS SUP"
 - "epic Humains-snipers GI-GGHOSTS SUP"
 - "infanterie Humains-snipers GI-GGHOSTS SUP"
-- "epic infanterie Humains-snipers GI-GGHOSTS SUP"
 - "GI Humains-snipers GI-GGHOSTS SUP"
-- "epic GI Humains-snipers GI-GGHOSTS SUP"
-- "infanterie GI Humains-snipers GI-GGHOSTS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -224,25 +193,15 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-snipers NONDL SUP"
 - "epic Humains-snipers NONDL SUP"
 - "infanterie Humains-snipers NONDL SUP"
-- "epic infanterie Humains-snipers NONDL SUP"
 - "GI Humains-snipers NONDL SUP"
-- "epic GI Humains-snipers NONDL SUP"
-- "infanterie GI Humains-snipers NONDL SUP"
 - "GI-GGHOSTS NONDL SUP"
 - "epic GI-GGHOSTS NONDL SUP"
 - "infanterie GI-GGHOSTS NONDL SUP"
-- "epic infanterie GI-GGHOSTS NONDL SUP"
 - "GI GI-GGHOSTS NONDL SUP"
-- "epic GI GI-GGHOSTS NONDL SUP"
-- "infanterie GI GI-GGHOSTS NONDL SUP"
 - "Humains-snipers GI-GGHOSTS NONDL SUP"
-- "epic Humains-snipers GI-GGHOSTS NONDL SUP"
-- "infanterie Humains-snipers GI-GGHOSTS NONDL SUP"
-- "GI Humains-snipers GI-GGHOSTS NONDL SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -273,7 +232,6 @@ tags:
 - "GI Humains-tactiques GI-GGHOSTS"
 - "epic GI Humains-tactiques GI-GGHOSTS"
 - "infanterie GI Humains-tactiques GI-GGHOSTS"
-- "epic infanterie GI Humains-tactiques GI-GGHOSTS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -289,7 +247,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-GGHOSTS NONDL"
 - "epic GI-GGHOSTS NONDL"
 - "infanterie GI-GGHOSTS NONDL"
@@ -297,14 +254,10 @@ tags:
 - "GI GI-GGHOSTS NONDL"
 - "epic GI GI-GGHOSTS NONDL"
 - "infanterie GI GI-GGHOSTS NONDL"
-- "epic infanterie GI GI-GGHOSTS NONDL"
 - "Humains-tactiques GI-GGHOSTS NONDL"
 - "epic Humains-tactiques GI-GGHOSTS NONDL"
 - "infanterie Humains-tactiques GI-GGHOSTS NONDL"
-- "epic infanterie Humains-tactiques GI-GGHOSTS NONDL"
 - "GI Humains-tactiques GI-GGHOSTS NONDL"
-- "epic GI Humains-tactiques GI-GGHOSTS NONDL"
-- "infanterie GI Humains-tactiques GI-GGHOSTS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -320,7 +273,6 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "epic infanterie GI Humains-tactiques SUP"
 - "GI-GGHOSTS SUP"
 - "epic GI-GGHOSTS SUP"
 - "infanterie GI-GGHOSTS SUP"
@@ -328,14 +280,10 @@ tags:
 - "GI GI-GGHOSTS SUP"
 - "epic GI GI-GGHOSTS SUP"
 - "infanterie GI GI-GGHOSTS SUP"
-- "epic infanterie GI GI-GGHOSTS SUP"
 - "Humains-tactiques GI-GGHOSTS SUP"
 - "epic Humains-tactiques GI-GGHOSTS SUP"
 - "infanterie Humains-tactiques GI-GGHOSTS SUP"
-- "epic infanterie Humains-tactiques GI-GGHOSTS SUP"
 - "GI Humains-tactiques GI-GGHOSTS SUP"
-- "epic GI Humains-tactiques GI-GGHOSTS SUP"
-- "infanterie GI Humains-tactiques GI-GGHOSTS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -343,29 +291,17 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
 - "epic Humains-tactiques NONDL SUP"
 - "infanterie Humains-tactiques NONDL SUP"
-- "epic infanterie Humains-tactiques NONDL SUP"
 - "GI Humains-tactiques NONDL SUP"
-- "epic GI Humains-tactiques NONDL SUP"
-- "infanterie GI Humains-tactiques NONDL SUP"
 - "GI-GGHOSTS NONDL SUP"
 - "epic GI-GGHOSTS NONDL SUP"
 - "infanterie GI-GGHOSTS NONDL SUP"
-- "epic infanterie GI-GGHOSTS NONDL SUP"
 - "GI GI-GGHOSTS NONDL SUP"
-- "epic GI GI-GGHOSTS NONDL SUP"
-- "infanterie GI GI-GGHOSTS NONDL SUP"
 - "Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "epic Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "infanterie Humains-tactiques GI-GGHOSTS NONDL SUP"
-- "GI Humains-tactiques GI-GGHOSTS NONDL SUP"
 
 ---
-
-## [PAYANT] BitGloomMinis > Celtic_Stealth_Warriors_Epic_Scale [non dl]
 
 ![](<thumbs_-_celtic-stealth-warriors-epic-scale-bitgloomminis_-_Images_1.jpg> "thumbs_-_celtic-stealth-warriors-epic-scale-bitgloomminis_-_Images_1.jpg")
 
@@ -373,9 +309,25 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/celtic-stealth-warriors-epic-scale-bitgloomminis"](<"https://cults3d.com/en/3d-model/game/celtic-stealth-warriors-epic-scale-bitgloomminis">)
+Source : [https://cults3d.com/en/3d-model/game/celtic-stealth-warriors-epic-scale-bitgloomminis](https://cults3d.com/en/3d-model/game/celtic-stealth-warriors-epic-scale-bitgloomminis)
+
+Id objet : celtic-stealth-warriors-epic-scale-bitgloomminis
 
 Prix : 15 euros
+
+Collections :
+
+- epic infanterie GI Humains-qg GI-GGHOSTS
+- epic infanterie GI Humains-snipers GI-GGHOSTS
+- epic infanterie GI Humains-tactiques GI-GGHOSTS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-qg GI-GGHOSTS NONDL SUP
+- epic infanterie GI Humains-snipers GI-GGHOSTS NONDL SUP
+- epic infanterie GI Humains-tactiques GI-GGHOSTS NONDL SUP
+
 
 Description :
 
@@ -396,11 +348,13 @@ This set is included in the full Celtic Stealth Army set available here - https:
 Update 1 - 5 man pre-supported models are inside the pack now, under the folder supported. Haven't supported individual models because... Does anyone print people in this scale individually?
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Update 1 - 5 man pre-supported models are inside the pack now, under the folder supported. Haven't supported individual models because... Does anyone print people in this scale individually?
+    ~~~
+    Update 1 - 5 man pre-supported models are inside the pack now, under the folder supported. Haven't supported individual models because... Does anyone print people in this scale individually?
+    
+    ~~~
 
-~~~
+  
 
 

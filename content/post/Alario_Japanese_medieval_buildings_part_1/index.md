@@ -5,6 +5,7 @@ date: "2025-03-24T15:34:07Z"
 toc: true
 image: "thumbs_-_japanese-medieval-buildings-part-1_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > Japanese_medieval_buildings_part_1 [non dl]
 
 ![](<thumbs_-_japanese-medieval-buildings-part-1_-_Images_1.jpg> "thumbs_-_japanese-medieval-buildings-part-1_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/japanese-medieval-buildings-part-1"](<"https://cults3d.com/en/3d-model/game/japanese-medieval-buildings-part-1">)
+Source : [https://cults3d.com/en/3d-model/game/japanese-medieval-buildings-part-1](https://cults3d.com/en/3d-model/game/japanese-medieval-buildings-part-1)
+
+Id objet : japanese-medieval-buildings-part-1
 
 Prix : 6 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -69,11 +79,6 @@ Tested: All models were printed and tested for compatibility with different type
 These houses are not just decorations, but a real immersion in the Japanese Medieval era. Support our project and make your collection unique!
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

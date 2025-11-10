@@ -5,6 +5,7 @@ date: "2024-04-21T22:58:02Z"
 toc: true
 image: "thumbs_-_8mm-firstsons-astra-guard-regiment_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-qg GI-VOSTROYENS"
 - "epic GI Humains-qg GI-VOSTROYENS"
 - "infanterie GI Humains-qg GI-VOSTROYENS"
-- "epic infanterie GI Humains-qg GI-VOSTROYENS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-qg NONDL"
 - "epic GI Humains-qg NONDL"
 - "infanterie GI Humains-qg NONDL"
-- "epic infanterie GI Humains-qg NONDL"
 - "GI-VOSTROYENS NONDL"
 - "epic GI-VOSTROYENS NONDL"
 - "infanterie GI-VOSTROYENS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-VOSTROYENS NONDL"
 - "epic GI GI-VOSTROYENS NONDL"
 - "infanterie GI GI-VOSTROYENS NONDL"
-- "epic infanterie GI GI-VOSTROYENS NONDL"
 - "Humains-qg GI-VOSTROYENS NONDL"
 - "epic Humains-qg GI-VOSTROYENS NONDL"
 - "infanterie Humains-qg GI-VOSTROYENS NONDL"
-- "epic infanterie Humains-qg GI-VOSTROYENS NONDL"
 - "GI Humains-qg GI-VOSTROYENS NONDL"
-- "epic GI Humains-qg GI-VOSTROYENS NONDL"
-- "infanterie GI Humains-qg GI-VOSTROYENS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-qg NONSUP"
 - "epic GI Humains-qg NONSUP"
 - "infanterie GI Humains-qg NONSUP"
-- "epic infanterie GI Humains-qg NONSUP"
 - "GI-VOSTROYENS NONSUP"
 - "epic GI-VOSTROYENS NONSUP"
 - "infanterie GI-VOSTROYENS NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-VOSTROYENS NONSUP"
 - "epic GI GI-VOSTROYENS NONSUP"
 - "infanterie GI GI-VOSTROYENS NONSUP"
-- "epic infanterie GI GI-VOSTROYENS NONSUP"
 - "Humains-qg GI-VOSTROYENS NONSUP"
 - "epic Humains-qg GI-VOSTROYENS NONSUP"
 - "infanterie Humains-qg GI-VOSTROYENS NONSUP"
-- "epic infanterie Humains-qg GI-VOSTROYENS NONSUP"
 - "GI Humains-qg GI-VOSTROYENS NONSUP"
-- "epic GI Humains-qg GI-VOSTROYENS NONSUP"
-- "infanterie GI Humains-qg GI-VOSTROYENS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -105,25 +95,15 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-qg NONDL NONSUP"
 - "epic Humains-qg NONDL NONSUP"
 - "infanterie Humains-qg NONDL NONSUP"
-- "epic infanterie Humains-qg NONDL NONSUP"
 - "GI Humains-qg NONDL NONSUP"
-- "epic GI Humains-qg NONDL NONSUP"
-- "infanterie GI Humains-qg NONDL NONSUP"
 - "GI-VOSTROYENS NONDL NONSUP"
 - "epic GI-VOSTROYENS NONDL NONSUP"
 - "infanterie GI-VOSTROYENS NONDL NONSUP"
-- "epic infanterie GI-VOSTROYENS NONDL NONSUP"
 - "GI GI-VOSTROYENS NONDL NONSUP"
-- "epic GI GI-VOSTROYENS NONDL NONSUP"
-- "infanterie GI GI-VOSTROYENS NONDL NONSUP"
 - "Humains-qg GI-VOSTROYENS NONDL NONSUP"
-- "epic Humains-qg GI-VOSTROYENS NONDL NONSUP"
-- "infanterie Humains-qg GI-VOSTROYENS NONDL NONSUP"
-- "GI Humains-qg GI-VOSTROYENS NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,7 +134,6 @@ tags:
 - "GI Humains-tactiques GI-VOSTROYENS"
 - "epic GI Humains-tactiques GI-VOSTROYENS"
 - "infanterie GI Humains-tactiques GI-VOSTROYENS"
-- "epic infanterie GI Humains-tactiques GI-VOSTROYENS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -170,7 +149,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-VOSTROYENS NONDL"
 - "epic GI-VOSTROYENS NONDL"
 - "infanterie GI-VOSTROYENS NONDL"
@@ -178,14 +156,10 @@ tags:
 - "GI GI-VOSTROYENS NONDL"
 - "epic GI GI-VOSTROYENS NONDL"
 - "infanterie GI GI-VOSTROYENS NONDL"
-- "epic infanterie GI GI-VOSTROYENS NONDL"
 - "Humains-tactiques GI-VOSTROYENS NONDL"
 - "epic Humains-tactiques GI-VOSTROYENS NONDL"
 - "infanterie Humains-tactiques GI-VOSTROYENS NONDL"
-- "epic infanterie Humains-tactiques GI-VOSTROYENS NONDL"
 - "GI Humains-tactiques GI-VOSTROYENS NONDL"
-- "epic GI Humains-tactiques GI-VOSTROYENS NONDL"
-- "infanterie GI Humains-tactiques GI-VOSTROYENS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -201,7 +175,6 @@ tags:
 - "GI Humains-tactiques NONSUP"
 - "epic GI Humains-tactiques NONSUP"
 - "infanterie GI Humains-tactiques NONSUP"
-- "epic infanterie GI Humains-tactiques NONSUP"
 - "GI-VOSTROYENS NONSUP"
 - "epic GI-VOSTROYENS NONSUP"
 - "infanterie GI-VOSTROYENS NONSUP"
@@ -209,14 +182,10 @@ tags:
 - "GI GI-VOSTROYENS NONSUP"
 - "epic GI GI-VOSTROYENS NONSUP"
 - "infanterie GI GI-VOSTROYENS NONSUP"
-- "epic infanterie GI GI-VOSTROYENS NONSUP"
 - "Humains-tactiques GI-VOSTROYENS NONSUP"
 - "epic Humains-tactiques GI-VOSTROYENS NONSUP"
 - "infanterie Humains-tactiques GI-VOSTROYENS NONSUP"
-- "epic infanterie Humains-tactiques GI-VOSTROYENS NONSUP"
 - "GI Humains-tactiques GI-VOSTROYENS NONSUP"
-- "epic GI Humains-tactiques GI-VOSTROYENS NONSUP"
-- "infanterie GI Humains-tactiques GI-VOSTROYENS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -224,37 +193,39 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "infanterie GI NONDL NONSUP"
-- "epic infanterie GI NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
 - "epic Humains-tactiques NONDL NONSUP"
 - "infanterie Humains-tactiques NONDL NONSUP"
-- "epic infanterie Humains-tactiques NONDL NONSUP"
 - "GI Humains-tactiques NONDL NONSUP"
-- "epic GI Humains-tactiques NONDL NONSUP"
-- "infanterie GI Humains-tactiques NONDL NONSUP"
 - "GI-VOSTROYENS NONDL NONSUP"
 - "epic GI-VOSTROYENS NONDL NONSUP"
 - "infanterie GI-VOSTROYENS NONDL NONSUP"
-- "epic infanterie GI-VOSTROYENS NONDL NONSUP"
 - "GI GI-VOSTROYENS NONDL NONSUP"
-- "epic GI GI-VOSTROYENS NONDL NONSUP"
-- "infanterie GI GI-VOSTROYENS NONDL NONSUP"
 - "Humains-tactiques GI-VOSTROYENS NONDL NONSUP"
-- "epic Humains-tactiques GI-VOSTROYENS NONDL NONSUP"
-- "infanterie Humains-tactiques GI-VOSTROYENS NONDL NONSUP"
-- "GI Humains-tactiques GI-VOSTROYENS NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_FIRSTSONS_Astra_Guard_REGIMENT [non dl]
 
 ![](<thumbs_-_8mm-firstsons-astra-guard-regiment_-_Images_1.jpg> "thumbs_-_8mm-firstsons-astra-guard-regiment_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-firstsons-astra-guard-regiment"](<"https://cults3d.com/en/3d-model/game/8mm-firstsons-astra-guard-regiment">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-firstsons-astra-guard-regiment](https://cults3d.com/en/3d-model/game/8mm-firstsons-astra-guard-regiment)
+
+Id objet : 8mm-firstsons-astra-guard-regiment
 
 Prix : 6 euros
+
+Collections :
+
+- epic infanterie GI Humains-qg GI-VOSTROYENS
+- epic infanterie GI Humains-tactiques GI-VOSTROYENS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-qg GI-VOSTROYENS NONDL NONSUP
+- epic infanterie GI Humains-tactiques GI-VOSTROYENS NONDL NONSUP
+
 
 Description :
 
@@ -270,11 +241,6 @@ Important clarification. The models have been ready for a month now, but the pri
 In the stl there is an option with placed on dies - this is a rough workpiece and more support is definitely needed there.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

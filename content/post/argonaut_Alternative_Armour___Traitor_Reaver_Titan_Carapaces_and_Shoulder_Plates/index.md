@@ -5,6 +5,7 @@ date: "2023-06-30T17:59:46Z"
 toc: true
 image: "thumbs_-_alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates_-_Images_1.jpg"
 tags:
+- "argonaut"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "IMP Admech-titans-reavers NONDL"
 - "epic IMP Admech-titans-reavers NONDL"
 - "titans IMP Admech-titans-reavers NONDL"
-- "epic titans IMP Admech-titans-reavers NONDL"
 - "SUP"
 - "epic SUP"
 - "titans SUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Admech-titans-reavers SUP"
 - "epic IMP Admech-titans-reavers SUP"
 - "titans IMP Admech-titans-reavers SUP"
-- "epic titans IMP Admech-titans-reavers SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "titans NONDL SUP"
@@ -59,26 +58,32 @@ tags:
 - "IMP NONDL SUP"
 - "epic IMP NONDL SUP"
 - "titans IMP NONDL SUP"
-- "epic titans IMP NONDL SUP"
 - "Admech-titans-reavers NONDL SUP"
 - "epic Admech-titans-reavers NONDL SUP"
 - "titans Admech-titans-reavers NONDL SUP"
-- "epic titans Admech-titans-reavers NONDL SUP"
 - "IMP Admech-titans-reavers NONDL SUP"
-- "epic IMP Admech-titans-reavers NONDL SUP"
-- "titans IMP Admech-titans-reavers NONDL SUP"
 
 ---
-
-## [PAYANT] argonaut > Alternative_Armour___Traitor_Reaver_Titan_Carapaces_and_Shoulder_Plates [non dl]
 
 ![](<thumbs_-_alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates_-_Images_1.jpg> "thumbs_-_alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates"](<"https://cults3d.com/en/3d-model/game/alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates">)
+Source : [https://cults3d.com/en/3d-model/game/alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates](https://cults3d.com/en/3d-model/game/alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates)
+
+Id objet : alternative-armour-traitor-reaver-titan-carapaces-and-shoulder-plates
 
 Prix : 4.13 euros
+
+Collections :
+
+- epic titans IMP Admech-titans-reavers
+
+
+Collections pour tags :
+
+- epic titans IMP Admech-titans-reavers NONDL SUP
+
 
 Description :
 
@@ -94,11 +99,13 @@ This is for the 8mm, AT2018 version.
 The Shoulder Plates are the same for both and symmetrical, print twice for both shoulders and four times for both sets.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Files included: STL, pre-supported STL & Lychee scene (as a ZIP file -should you want to tweak the supports).
+    ~~~
+    Files included: STL, pre-supported STL & Lychee scene (as a ZIP file -should you want to tweak the supports).
+    
+    ~~~
 
-~~~
+  
 
 

@@ -5,6 +5,7 @@ date: "2024-08-27T17:43:11Z"
 toc: true
 image: "thumbs_-_celtic-stealth-warrior-heavy-weapons_-_Images_1.jpg"
 tags:
+- "BitGloomMinis"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Canons GI-GGHOSTS"
 - "epic GI Canons GI-GGHOSTS"
 - "infanterie GI Canons GI-GGHOSTS"
-- "epic infanterie GI Canons GI-GGHOSTS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Canons NONDL"
 - "epic GI Canons NONDL"
 - "infanterie GI Canons NONDL"
-- "epic infanterie GI Canons NONDL"
 - "GI-GGHOSTS NONDL"
 - "epic GI-GGHOSTS NONDL"
 - "infanterie GI-GGHOSTS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-GGHOSTS NONDL"
 - "epic GI GI-GGHOSTS NONDL"
 - "infanterie GI GI-GGHOSTS NONDL"
-- "epic infanterie GI GI-GGHOSTS NONDL"
 - "Canons GI-GGHOSTS NONDL"
 - "epic Canons GI-GGHOSTS NONDL"
 - "infanterie Canons GI-GGHOSTS NONDL"
-- "epic infanterie Canons GI-GGHOSTS NONDL"
 - "GI Canons GI-GGHOSTS NONDL"
-- "epic GI Canons GI-GGHOSTS NONDL"
-- "infanterie GI Canons GI-GGHOSTS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Canons SUP"
 - "epic GI Canons SUP"
 - "infanterie GI Canons SUP"
-- "epic infanterie GI Canons SUP"
 - "GI-GGHOSTS SUP"
 - "epic GI-GGHOSTS SUP"
 - "infanterie GI-GGHOSTS SUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-GGHOSTS SUP"
 - "epic GI GI-GGHOSTS SUP"
 - "infanterie GI GI-GGHOSTS SUP"
-- "epic infanterie GI GI-GGHOSTS SUP"
 - "Canons GI-GGHOSTS SUP"
 - "epic Canons GI-GGHOSTS SUP"
 - "infanterie Canons GI-GGHOSTS SUP"
-- "epic infanterie Canons GI-GGHOSTS SUP"
 - "GI Canons GI-GGHOSTS SUP"
-- "epic GI Canons GI-GGHOSTS SUP"
-- "infanterie GI Canons GI-GGHOSTS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Canons NONDL SUP"
 - "epic Canons NONDL SUP"
 - "infanterie Canons NONDL SUP"
-- "epic infanterie Canons NONDL SUP"
 - "GI Canons NONDL SUP"
-- "epic GI Canons NONDL SUP"
-- "infanterie GI Canons NONDL SUP"
 - "GI-GGHOSTS NONDL SUP"
 - "epic GI-GGHOSTS NONDL SUP"
 - "infanterie GI-GGHOSTS NONDL SUP"
-- "epic infanterie GI-GGHOSTS NONDL SUP"
 - "GI GI-GGHOSTS NONDL SUP"
-- "epic GI GI-GGHOSTS NONDL SUP"
-- "infanterie GI GI-GGHOSTS NONDL SUP"
 - "Canons GI-GGHOSTS NONDL SUP"
-- "epic Canons GI-GGHOSTS NONDL SUP"
-- "infanterie Canons GI-GGHOSTS NONDL SUP"
-- "GI Canons GI-GGHOSTS NONDL SUP"
 
 ---
-
-## [PAYANT] BitGloomMinis > Celtic_Stealth_Warrior_Heavy_Weapons [non dl]
 
 ![](<thumbs_-_celtic-stealth-warrior-heavy-weapons_-_Images_1.jpg> "thumbs_-_celtic-stealth-warrior-heavy-weapons_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons"](<"https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons">)
+Source : [https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons](https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons)
+
+Id objet : celtic-stealth-warrior-heavy-weapons
 
 Prix : 13.93 euros
+
+Collections :
+
+- epic infanterie GI Canons GI-GGHOSTS
+
+
+Collections pour tags :
+
+- epic infanterie GI Canons GI-GGHOSTS NONDL SUP
+
 
 Description :
 
@@ -161,11 +151,13 @@ Some extra bits like ammo crates.
 Supported files are included, completed test prints and painted up elements to follow.
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Supported files are included, completed test prints and painted up elements to follow.
+    ~~~
+    Supported files are included, completed test prints and painted up elements to follow.
+    
+    ~~~
 
-~~~
+  
 
 

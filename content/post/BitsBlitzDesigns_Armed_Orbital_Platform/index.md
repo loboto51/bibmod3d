@@ -5,6 +5,7 @@ date: "2025-09-01T17:43:57Z"
 toc: true
 image: "thumbs_-_armed-orbital-platform_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "bfg"
 - "decors"
 - "bfg decors"
@@ -35,19 +36,28 @@ tags:
 - "Planètes-et-stations-spatiales NONDL NONSUP"
 - "bfg Planètes-et-stations-spatiales NONDL NONSUP"
 - "decors Planètes-et-stations-spatiales NONDL NONSUP"
-- "bfg decors Planètes-et-stations-spatiales NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Armed_Orbital_Platform [non dl]
 
 ![](<thumbs_-_armed-orbital-platform_-_Images_1.jpg> "thumbs_-_armed-orbital-platform_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/armed-orbital-platform"](<"https://cults3d.com/en/3d-model/game/armed-orbital-platform">)
+Source : [https://cults3d.com/en/3d-model/game/armed-orbital-platform](https://cults3d.com/en/3d-model/game/armed-orbital-platform)
+
+Id objet : armed-orbital-platform
 
 Prix : 2.0 euros
+
+Collections :
+
+- bfg decors Planètes-et-stations-spatiales
+
+
+Collections pour tags :
+
+- bfg decors Planètes-et-stations-spatiales NONDL NONSUP
+
 
 Description :
 
@@ -59,11 +69,6 @@ It's a single-piece design with the following dimensions: 33.66 mm tall, 27.48mm
 Please do not share or sell these files without my written permission. This also applies to remixes of my designs.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

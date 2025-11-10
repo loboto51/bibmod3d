@@ -5,6 +5,7 @@ date: "2024-12-09T13:40:55Z"
 toc: true
 image: "thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "AM Thallax NONDL"
 - "epic AM Thallax NONDL"
 - "infanterie AM Thallax NONDL"
-- "epic infanterie AM Thallax NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "AM Thallax NONSUP"
 - "epic AM Thallax NONSUP"
 - "infanterie AM Thallax NONSUP"
-- "epic infanterie AM Thallax NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "epic infanterie AM NONDL NONSUP"
 - "Thallax NONDL NONSUP"
 - "epic Thallax NONDL NONSUP"
 - "infanterie Thallax NONDL NONSUP"
-- "epic infanterie Thallax NONDL NONSUP"
 - "AM Thallax NONDL NONSUP"
-- "epic AM Thallax NONDL NONSUP"
-- "infanterie AM Thallax NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Smallscale_Wardens__close_combat_ [non dl]
 
 ![](<thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg> "thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/smallscale-wardens-close-combat"](<"https://cults3d.com/en/3d-model/game/smallscale-wardens-close-combat">)
+Source : [https://cults3d.com/en/3d-model/game/smallscale-wardens-close-combat](https://cults3d.com/en/3d-model/game/smallscale-wardens-close-combat)
+
+Id objet : smallscale-wardens-close-combat
 
 Prix : 3 euros
+
+Collections :
+
+- epic infanterie AM Thallax
+
+
+Collections pour tags :
+
+- epic infanterie AM Thallax NONDL NONSUP
+
 
 Description :
 
@@ -99,11 +104,6 @@ This kit contains the following miniatures:
 Please do no share or sell these files (including prints and remixes) without my written permission.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

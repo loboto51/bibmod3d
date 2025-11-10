@@ -5,6 +5,7 @@ date: "2025-08-15T11:11:36Z"
 toc: true
 image: "thumbs_-_8mm-orgz-tanks_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -35,7 +36,6 @@ tags:
 - "ORKS Orks-forteresses NONDL"
 - "epic ORKS Orks-forteresses NONDL"
 - "superlourds ORKS Orks-forteresses NONDL"
-- "epic superlourds ORKS Orks-forteresses NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "ORKS Orks-forteresses NONSUP"
 - "epic ORKS Orks-forteresses NONSUP"
 - "superlourds ORKS Orks-forteresses NONSUP"
-- "epic superlourds ORKS Orks-forteresses NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -59,14 +58,10 @@ tags:
 - "ORKS NONDL NONSUP"
 - "epic ORKS NONDL NONSUP"
 - "superlourds ORKS NONDL NONSUP"
-- "epic superlourds ORKS NONDL NONSUP"
 - "Orks-forteresses NONDL NONSUP"
 - "epic Orks-forteresses NONDL NONSUP"
 - "superlourds Orks-forteresses NONDL NONSUP"
-- "epic superlourds Orks-forteresses NONDL NONSUP"
 - "ORKS Orks-forteresses NONDL NONSUP"
-- "epic ORKS Orks-forteresses NONDL NONSUP"
-- "superlourds ORKS Orks-forteresses NONDL NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -97,7 +92,6 @@ tags:
 - "ORKS Orks-tanks NONDL"
 - "epic ORKS Orks-tanks NONDL"
 - "vehicules ORKS Orks-tanks NONDL"
-- "epic vehicules ORKS Orks-tanks NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -113,7 +107,6 @@ tags:
 - "ORKS Orks-tanks NONSUP"
 - "epic ORKS Orks-tanks NONSUP"
 - "vehicules ORKS Orks-tanks NONSUP"
-- "epic vehicules ORKS Orks-tanks NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
@@ -121,18 +114,12 @@ tags:
 - "ORKS NONDL NONSUP"
 - "epic ORKS NONDL NONSUP"
 - "vehicules ORKS NONDL NONSUP"
-- "epic vehicules ORKS NONDL NONSUP"
 - "Orks-tanks NONDL NONSUP"
 - "epic Orks-tanks NONDL NONSUP"
 - "vehicules Orks-tanks NONDL NONSUP"
-- "epic vehicules Orks-tanks NONDL NONSUP"
 - "ORKS Orks-tanks NONDL NONSUP"
-- "epic ORKS Orks-tanks NONDL NONSUP"
-- "vehicules ORKS Orks-tanks NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_ORGZ_TANKS [non dl]
 
 ![](<thumbs_-_8mm-orgz-tanks_-_Images_1.jpg> "thumbs_-_8mm-orgz-tanks_-_Images_1.jpg")
 
@@ -140,9 +127,23 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-orgz-tanks"](<"https://cults3d.com/en/3d-model/game/8mm-orgz-tanks">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-orgz-tanks](https://cults3d.com/en/3d-model/game/8mm-orgz-tanks)
+
+Id objet : 8mm-orgz-tanks
 
 Prix : 7.0 euros
+
+Collections :
+
+- epic superlourds ORKS Orks-forteresses
+- epic vehicules ORKS Orks-tanks
+
+
+Collections pour tags :
+
+- epic superlourds ORKS Orks-forteresses NONDL NONSUP
+- epic vehicules ORKS Orks-tanks NONDL NONSUP
+
 
 Description :
 
@@ -154,11 +155,6 @@ Different tank turrets.
 there are options for magnets 3x2 mm
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

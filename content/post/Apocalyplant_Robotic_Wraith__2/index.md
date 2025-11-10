@@ -5,6 +5,7 @@ date: "2022-09-03T15:42:30Z"
 toc: true
 image: "thumbs_-_robotic-wraith-2_-_Images_1.jpg"
 tags:
+- "Apocalyplant"
 - "epic"
 - "titans"
 - "epic titans"
@@ -35,7 +36,6 @@ tags:
 - "NEC Necrons-titans NONDL"
 - "epic NEC Necrons-titans NONDL"
 - "titans NEC Necrons-titans NONDL"
-- "epic titans NEC Necrons-titans NONDL"
 - "SUP"
 - "epic SUP"
 - "titans SUP"
@@ -51,7 +51,6 @@ tags:
 - "NEC Necrons-titans SUP"
 - "epic NEC Necrons-titans SUP"
 - "titans NEC Necrons-titans SUP"
-- "epic titans NEC Necrons-titans SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "titans NONDL SUP"
@@ -59,75 +58,12 @@ tags:
 - "NEC NONDL SUP"
 - "epic NEC NONDL SUP"
 - "titans NEC NONDL SUP"
-- "epic titans NEC NONDL SUP"
 - "Necrons-titans NONDL SUP"
 - "epic Necrons-titans NONDL SUP"
 - "titans Necrons-titans NONDL SUP"
-- "epic titans Necrons-titans NONDL SUP"
 - "NEC Necrons-titans NONDL SUP"
-- "epic NEC Necrons-titans NONDL SUP"
-- "titans NEC Necrons-titans NONDL SUP"
-- "BONMARCHE"
-- "epic BONMARCHE"
-- "titans BONMARCHE"
-- "epic titans BONMARCHE"
-- "NEC BONMARCHE"
-- "epic NEC BONMARCHE"
-- "titans NEC BONMARCHE"
-- "epic titans NEC BONMARCHE"
-- "Necrons-titans BONMARCHE"
-- "epic Necrons-titans BONMARCHE"
-- "titans Necrons-titans BONMARCHE"
-- "epic titans Necrons-titans BONMARCHE"
-- "NEC Necrons-titans BONMARCHE"
-- "epic NEC Necrons-titans BONMARCHE"
-- "titans NEC Necrons-titans BONMARCHE"
-- "epic titans NEC Necrons-titans BONMARCHE"
-- "NONDL BONMARCHE"
-- "epic NONDL BONMARCHE"
-- "titans NONDL BONMARCHE"
-- "epic titans NONDL BONMARCHE"
-- "NEC NONDL BONMARCHE"
-- "epic NEC NONDL BONMARCHE"
-- "titans NEC NONDL BONMARCHE"
-- "epic titans NEC NONDL BONMARCHE"
-- "Necrons-titans NONDL BONMARCHE"
-- "epic Necrons-titans NONDL BONMARCHE"
-- "titans Necrons-titans NONDL BONMARCHE"
-- "epic titans Necrons-titans NONDL BONMARCHE"
-- "NEC Necrons-titans NONDL BONMARCHE"
-- "epic NEC Necrons-titans NONDL BONMARCHE"
-- "titans NEC Necrons-titans NONDL BONMARCHE"
-- "SUP BONMARCHE"
-- "epic SUP BONMARCHE"
-- "titans SUP BONMARCHE"
-- "epic titans SUP BONMARCHE"
-- "NEC SUP BONMARCHE"
-- "epic NEC SUP BONMARCHE"
-- "titans NEC SUP BONMARCHE"
-- "epic titans NEC SUP BONMARCHE"
-- "Necrons-titans SUP BONMARCHE"
-- "epic Necrons-titans SUP BONMARCHE"
-- "titans Necrons-titans SUP BONMARCHE"
-- "epic titans Necrons-titans SUP BONMARCHE"
-- "NEC Necrons-titans SUP BONMARCHE"
-- "epic NEC Necrons-titans SUP BONMARCHE"
-- "titans NEC Necrons-titans SUP BONMARCHE"
-- "NONDL SUP BONMARCHE"
-- "epic NONDL SUP BONMARCHE"
-- "titans NONDL SUP BONMARCHE"
-- "epic titans NONDL SUP BONMARCHE"
-- "NEC NONDL SUP BONMARCHE"
-- "epic NEC NONDL SUP BONMARCHE"
-- "titans NEC NONDL SUP BONMARCHE"
-- "Necrons-titans NONDL SUP BONMARCHE"
-- "epic Necrons-titans NONDL SUP BONMARCHE"
-- "titans Necrons-titans NONDL SUP BONMARCHE"
-- "NEC Necrons-titans NONDL SUP BONMARCHE"
 
 ---
-
-## [BON-MARCHE] Apocalyplant > Robotic_Wraith__2 [non dl]
 
 ![](<thumbs_-_robotic-wraith-2_-_Images_1.jpg> "thumbs_-_robotic-wraith-2_-_Images_1.jpg")
 
@@ -135,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/robotic-wraith-2"](<"https://cults3d.com/en/3d-model/game/robotic-wraith-2">)
+Source : [https://cults3d.com/en/3d-model/game/robotic-wraith-2](https://cults3d.com/en/3d-model/game/robotic-wraith-2)
+
+Id objet : robotic-wraith-2
 
 Prix : 1.27 euros
+
+Collections :
+
+- epic titans NEC Necrons-titans
+
+
+Collections pour tags :
+
+- epic titans NEC Necrons-titans NONDL SUP
+
 
 Description :
 
@@ -152,11 +100,13 @@ Update: this model has been free for a long time and I have gotten some great fe
 I’ve switched it to Open Price to help support more creations like this. If you’ve enjoyed using it, feel free to leave a small tip (suggested: $1), or more if you feel generous!
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-It comes with the body, base, and 14 claws as separate objects along with the same parts pre-supported by me.
+    ~~~
+    It comes with the body, base, and 14 claws as separate objects along with the same parts pre-supported by me.
+    
+    ~~~
 
-~~~
+  
 
 

@@ -5,6 +5,7 @@ date: "2024-04-21T11:16:15Z"
 toc: true
 image: "thumbs_-_8mm-twotowers-astra-guard-tank_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -35,7 +36,6 @@ tags:
 - "GI Baneblades-doubles-tourelles NONDL"
 - "epic GI Baneblades-doubles-tourelles NONDL"
 - "superlourds GI Baneblades-doubles-tourelles NONDL"
-- "epic superlourds GI Baneblades-doubles-tourelles NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Baneblades-doubles-tourelles NONSUP"
 - "epic GI Baneblades-doubles-tourelles NONSUP"
 - "superlourds GI Baneblades-doubles-tourelles NONSUP"
-- "epic superlourds GI Baneblades-doubles-tourelles NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -59,18 +58,12 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "superlourds GI NONDL NONSUP"
-- "epic superlourds GI NONDL NONSUP"
 - "Baneblades-doubles-tourelles NONDL NONSUP"
 - "epic Baneblades-doubles-tourelles NONDL NONSUP"
 - "superlourds Baneblades-doubles-tourelles NONDL NONSUP"
-- "epic superlourds Baneblades-doubles-tourelles NONDL NONSUP"
 - "GI Baneblades-doubles-tourelles NONDL NONSUP"
-- "epic GI Baneblades-doubles-tourelles NONDL NONSUP"
-- "superlourds GI Baneblades-doubles-tourelles NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_TWOTOWERS_ASTRA_GUARD__TANK [non dl]
 
 ![](<thumbs_-_8mm-twotowers-astra-guard-tank_-_Images_1.jpg> "thumbs_-_8mm-twotowers-astra-guard-tank_-_Images_1.jpg")
 
@@ -78,9 +71,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-twotowers-astra-guard-tank"](<"https://cults3d.com/en/3d-model/game/8mm-twotowers-astra-guard-tank">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-twotowers-astra-guard-tank](https://cults3d.com/en/3d-model/game/8mm-twotowers-astra-guard-tank)
+
+Id objet : 8mm-twotowers-astra-guard-tank
 
 Prix : 6 euros
+
+Collections :
+
+- epic superlourds GI Baneblades-doubles-tourelles
+
+
+Collections pour tags :
+
+- epic superlourds GI Baneblades-doubles-tourelles NONDL NONSUP
+
 
 Description :
 
@@ -106,11 +111,6 @@ Dimensions rounded to 0.5mm
 30% discount for  ARL31K. I think the turret from ARL31K will look cool on TwoTurrets or 11Barrels
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

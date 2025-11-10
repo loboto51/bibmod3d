@@ -5,6 +5,7 @@ date: "2025-09-26T14:54:49Z"
 toc: true
 image: "thumbs_-_sector-al-ix-free-character_-_Images_1.jpg"
 tags:
+- "Bishok"
 - "autres-echelles"
 - "Figurines-et-statuettes"
 - "autres-echelles Figurines-et-statuettes"
@@ -20,34 +21,28 @@ tags:
 - "autres-echelles NONDL SUP"
 - "Figurines-et-statuettes NONDL SUP"
 - "autres-echelles Figurines-et-statuettes NONDL SUP"
-- "GRATUIT"
-- "autres-echelles GRATUIT"
-- "Figurines-et-statuettes GRATUIT"
-- "autres-echelles Figurines-et-statuettes GRATUIT"
-- "NONDL GRATUIT"
-- "autres-echelles NONDL GRATUIT"
-- "Figurines-et-statuettes NONDL GRATUIT"
-- "autres-echelles Figurines-et-statuettes NONDL GRATUIT"
-- "SUP GRATUIT"
-- "autres-echelles SUP GRATUIT"
-- "Figurines-et-statuettes SUP GRATUIT"
-- "autres-echelles Figurines-et-statuettes SUP GRATUIT"
-- "NONDL SUP GRATUIT"
-- "autres-echelles NONDL SUP GRATUIT"
-- "Figurines-et-statuettes NONDL SUP GRATUIT"
-- "autres-echelles Figurines-et-statuettes NONDL SUP GRATUIT"
 
 ---
-
-## [GRATUIT] Bishok > Sector_AL_IX_Free_character [non dl]
 
 ![](<thumbs_-_sector-al-ix-free-character_-_Images_1.jpg> "thumbs_-_sector-al-ix-free-character_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/sector-al-ix-free-character"](<"https://cults3d.com/en/3d-model/game/sector-al-ix-free-character">)
+Source : [https://cults3d.com/en/3d-model/game/sector-al-ix-free-character](https://cults3d.com/en/3d-model/game/sector-al-ix-free-character)
+
+Id objet : sector-al-ix-free-character
 
 Prix : 0.0 euros
+
+Collections :
+
+- autres-echelles Figurines-et-statuettes
+
+
+Collections pour tags :
+
+- autres-echelles Figurines-et-statuettes NONDL SUP
+
 
 Description :
 
@@ -69,11 +64,13 @@ Youtube : https://www.youtube.com/@BishokDesign
 Myminifactory : https://www.myminifactory.com/users/Bishok
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Include 2 character - SLA print supported
+    ~~~
+    Include 2 character - SLA print supported
+    
+    ~~~
 
-~~~
+  
 
 

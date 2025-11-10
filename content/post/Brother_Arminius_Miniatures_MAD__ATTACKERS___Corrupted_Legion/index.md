@@ -5,6 +5,7 @@ date: "2023-08-17T13:31:52Z"
 toc: true
 image: "thumbs_-_mad-attackers-corrupted-legion_-_Images_1.jpg"
 tags:
+- "Brother_Arminius_Miniatures"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "CCH Humains-qg NONDL"
 - "epic CCH Humains-qg NONDL"
 - "infanterie CCH Humains-qg NONDL"
-- "epic infanterie CCH Humains-qg NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "CCH Humains-qg NONSUP"
 - "epic CCH Humains-qg NONSUP"
 - "infanterie CCH Humains-qg NONSUP"
-- "epic infanterie CCH Humains-qg NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,14 +58,10 @@ tags:
 - "CCH NONDL NONSUP"
 - "epic CCH NONDL NONSUP"
 - "infanterie CCH NONDL NONSUP"
-- "epic infanterie CCH NONDL NONSUP"
 - "Humains-qg NONDL NONSUP"
 - "epic Humains-qg NONDL NONSUP"
 - "infanterie Humains-qg NONDL NONSUP"
-- "epic infanterie Humains-qg NONDL NONSUP"
 - "CCH Humains-qg NONDL NONSUP"
-- "epic CCH Humains-qg NONDL NONSUP"
-- "infanterie CCH Humains-qg NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -97,7 +92,6 @@ tags:
 - "CCH Humains-tactiques NONDL"
 - "epic CCH Humains-tactiques NONDL"
 - "infanterie CCH Humains-tactiques NONDL"
-- "epic infanterie CCH Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -113,7 +107,6 @@ tags:
 - "CCH Humains-tactiques NONSUP"
 - "epic CCH Humains-tactiques NONSUP"
 - "infanterie CCH Humains-tactiques NONSUP"
-- "epic infanterie CCH Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -121,18 +114,12 @@ tags:
 - "CCH NONDL NONSUP"
 - "epic CCH NONDL NONSUP"
 - "infanterie CCH NONDL NONSUP"
-- "epic infanterie CCH NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
 - "epic Humains-tactiques NONDL NONSUP"
 - "infanterie Humains-tactiques NONDL NONSUP"
-- "epic infanterie Humains-tactiques NONDL NONSUP"
 - "CCH Humains-tactiques NONDL NONSUP"
-- "epic CCH Humains-tactiques NONDL NONSUP"
-- "infanterie CCH Humains-tactiques NONDL NONSUP"
 
 ---
-
-## [PAYANT] Brother_Arminius_Miniatures > MAD__ATTACKERS___Corrupted_Legion [non dl]
 
 ![](<thumbs_-_mad-attackers-corrupted-legion_-_Images_1.jpg> "thumbs_-_mad-attackers-corrupted-legion_-_Images_1.jpg")
 
@@ -140,9 +127,23 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/mad-attackers-corrupted-legion"](<"https://cults3d.com/en/3d-model/game/mad-attackers-corrupted-legion">)
+Source : [https://cults3d.com/en/3d-model/game/mad-attackers-corrupted-legion](https://cults3d.com/en/3d-model/game/mad-attackers-corrupted-legion)
+
+Id objet : mad-attackers-corrupted-legion
 
 Prix : 5 euros
+
+Collections :
+
+- epic infanterie CCH Humains-qg
+- epic infanterie CCH Humains-tactiques
+
+
+Collections pour tags :
+
+- epic infanterie CCH Humains-qg NONDL NONSUP
+- epic infanterie CCH Humains-tactiques NONDL NONSUP
+
 
 Description :
 
@@ -174,11 +175,6 @@ This set includes the following poses:
 20 different poses in total.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

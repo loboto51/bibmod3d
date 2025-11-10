@@ -5,6 +5,7 @@ date: "2022-02-21T12:58:59Z"
 toc: true
 image: "thumbs_-_epic-scale-human-praetorian-soldiers-6mm_-_Images_1.jpg"
 tags:
+- "1stForge"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "GI Humains-tactiques GI-PRETORIENS"
 - "epic GI Humains-tactiques GI-PRETORIENS"
 - "infanterie GI Humains-tactiques GI-PRETORIENS"
-- "epic infanterie GI Humains-tactiques GI-PRETORIENS"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -51,7 +51,6 @@ tags:
 - "GI Humains-tactiques NONDL"
 - "epic GI Humains-tactiques NONDL"
 - "infanterie GI Humains-tactiques NONDL"
-- "epic infanterie GI Humains-tactiques NONDL"
 - "GI-PRETORIENS NONDL"
 - "epic GI-PRETORIENS NONDL"
 - "infanterie GI-PRETORIENS NONDL"
@@ -59,14 +58,10 @@ tags:
 - "GI GI-PRETORIENS NONDL"
 - "epic GI GI-PRETORIENS NONDL"
 - "infanterie GI GI-PRETORIENS NONDL"
-- "epic infanterie GI GI-PRETORIENS NONDL"
 - "Humains-tactiques GI-PRETORIENS NONDL"
 - "epic Humains-tactiques GI-PRETORIENS NONDL"
 - "infanterie Humains-tactiques GI-PRETORIENS NONDL"
-- "epic infanterie Humains-tactiques GI-PRETORIENS NONDL"
 - "GI Humains-tactiques GI-PRETORIENS NONDL"
-- "epic GI Humains-tactiques GI-PRETORIENS NONDL"
-- "infanterie GI Humains-tactiques GI-PRETORIENS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -82,7 +77,6 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "epic infanterie GI Humains-tactiques SUP"
 - "GI-PRETORIENS SUP"
 - "epic GI-PRETORIENS SUP"
 - "infanterie GI-PRETORIENS SUP"
@@ -90,14 +84,10 @@ tags:
 - "GI GI-PRETORIENS SUP"
 - "epic GI GI-PRETORIENS SUP"
 - "infanterie GI GI-PRETORIENS SUP"
-- "epic infanterie GI GI-PRETORIENS SUP"
 - "Humains-tactiques GI-PRETORIENS SUP"
 - "epic Humains-tactiques GI-PRETORIENS SUP"
 - "infanterie Humains-tactiques GI-PRETORIENS SUP"
-- "epic infanterie Humains-tactiques GI-PRETORIENS SUP"
 - "GI Humains-tactiques GI-PRETORIENS SUP"
-- "epic GI Humains-tactiques GI-PRETORIENS SUP"
-- "infanterie GI Humains-tactiques GI-PRETORIENS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
@@ -105,37 +95,37 @@ tags:
 - "GI NONDL SUP"
 - "epic GI NONDL SUP"
 - "infanterie GI NONDL SUP"
-- "epic infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
 - "epic Humains-tactiques NONDL SUP"
 - "infanterie Humains-tactiques NONDL SUP"
-- "epic infanterie Humains-tactiques NONDL SUP"
 - "GI Humains-tactiques NONDL SUP"
-- "epic GI Humains-tactiques NONDL SUP"
-- "infanterie GI Humains-tactiques NONDL SUP"
 - "GI-PRETORIENS NONDL SUP"
 - "epic GI-PRETORIENS NONDL SUP"
 - "infanterie GI-PRETORIENS NONDL SUP"
-- "epic infanterie GI-PRETORIENS NONDL SUP"
 - "GI GI-PRETORIENS NONDL SUP"
-- "epic GI GI-PRETORIENS NONDL SUP"
-- "infanterie GI GI-PRETORIENS NONDL SUP"
 - "Humains-tactiques GI-PRETORIENS NONDL SUP"
-- "epic Humains-tactiques GI-PRETORIENS NONDL SUP"
-- "infanterie Humains-tactiques GI-PRETORIENS NONDL SUP"
-- "GI Humains-tactiques GI-PRETORIENS NONDL SUP"
 
 ---
-
-## [PAYANT] 1stForge > Epic_scale_human_praetorian_soldiers_6mm [non dl]
 
 ![](<thumbs_-_epic-scale-human-praetorian-soldiers-6mm_-_Images_1.jpg> "thumbs_-_epic-scale-human-praetorian-soldiers-6mm_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/epic-scale-human-praetorian-soldiers-6mm"](<"https://cults3d.com/en/3d-model/game/epic-scale-human-praetorian-soldiers-6mm">)
+Source : [https://cults3d.com/en/3d-model/game/epic-scale-human-praetorian-soldiers-6mm](https://cults3d.com/en/3d-model/game/epic-scale-human-praetorian-soldiers-6mm)
+
+Id objet : epic-scale-human-praetorian-soldiers-6mm
 
 Prix : 3.12 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques GI-PRETORIENS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques GI-PRETORIENS NONDL SUP
+
 
 Description :
 
@@ -164,11 +154,13 @@ You also agree not to sell physical copies.
 You may alter the files for personal use but you are not permitted to share those derivatives in any way
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-Here are a select bunch of models Pre-supported and ready to print.
+    ~~~
+    Here are a select bunch of models Pre-supported and ready to print.
+    
+    ~~~
 
-~~~
+  
 
 

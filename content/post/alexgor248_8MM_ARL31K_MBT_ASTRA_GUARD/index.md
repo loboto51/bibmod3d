@@ -5,6 +5,7 @@ date: "2024-05-05T16:04:57Z"
 toc: true
 image: "thumbs_-_8mm-arl31k-mbt-astra-guard_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -35,7 +36,6 @@ tags:
 - "GI Macharius NONDL"
 - "epic GI Macharius NONDL"
 - "superlourds GI Macharius NONDL"
-- "epic superlourds GI Macharius NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "GI Macharius NONSUP"
 - "epic GI Macharius NONSUP"
 - "superlourds GI Macharius NONSUP"
-- "epic superlourds GI Macharius NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "superlourds GI NONDL NONSUP"
-- "epic superlourds GI NONDL NONSUP"
 - "Macharius NONDL NONSUP"
 - "epic Macharius NONDL NONSUP"
 - "superlourds Macharius NONDL NONSUP"
-- "epic superlourds Macharius NONDL NONSUP"
 - "GI Macharius NONDL NONSUP"
-- "epic GI Macharius NONDL NONSUP"
-- "superlourds GI Macharius NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 8MM_ARL31K_MBT_ASTRA_GUARD [non dl]
 
 ![](<thumbs_-_8mm-arl31k-mbt-astra-guard_-_Images_1.jpg> "thumbs_-_8mm-arl31k-mbt-astra-guard_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/8mm-arl31k-mbt-astra-guard"](<"https://cults3d.com/en/3d-model/game/8mm-arl31k-mbt-astra-guard">)
+Source : [https://cults3d.com/en/3d-model/game/8mm-arl31k-mbt-astra-guard](https://cults3d.com/en/3d-model/game/8mm-arl31k-mbt-astra-guard)
+
+Id objet : 8mm-arl31k-mbt-astra-guard
 
 Prix : 6 euros
+
+Collections :
+
+- epic superlourds GI Macharius
+
+
+Collections pour tags :
+
+- epic superlourds GI Macharius NONDL NONSUP
+
 
 Description :
 
@@ -96,11 +101,6 @@ Sci fi heavy tank for 8 mm. To a new /220 very epic scale.
 Dimensions rounded to 0.5mm
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

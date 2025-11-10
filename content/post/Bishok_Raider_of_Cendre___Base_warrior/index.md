@@ -5,6 +5,7 @@ date: "2024-04-07T20:09:35Z"
 toc: true
 image: "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg"
 tags:
+- "Bishok"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "ORKS Orks-boyz NONDL"
 - "epic ORKS Orks-boyz NONDL"
 - "infanterie ORKS Orks-boyz NONDL"
-- "epic infanterie ORKS Orks-boyz NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "ORKS Orks-boyz NONSUP"
 - "epic ORKS Orks-boyz NONSUP"
 - "infanterie ORKS Orks-boyz NONSUP"
-- "epic infanterie ORKS Orks-boyz NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "ORKS NONDL NONSUP"
 - "epic ORKS NONDL NONSUP"
 - "infanterie ORKS NONDL NONSUP"
-- "epic infanterie ORKS NONDL NONSUP"
 - "Orks-boyz NONDL NONSUP"
 - "epic Orks-boyz NONDL NONSUP"
 - "infanterie Orks-boyz NONDL NONSUP"
-- "epic infanterie Orks-boyz NONDL NONSUP"
 - "ORKS Orks-boyz NONDL NONSUP"
-- "epic ORKS Orks-boyz NONDL NONSUP"
-- "infanterie ORKS Orks-boyz NONDL NONSUP"
 
 ---
-
-## [PAYANT] Bishok > Raider_of_Cendre___Base_warrior [non dl]
 
 ![](<thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg> "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/raider-of-cendre-base-warrior"](<"https://cults3d.com/en/3d-model/game/raider-of-cendre-base-warrior">)
+Source : [https://cults3d.com/en/3d-model/game/raider-of-cendre-base-warrior](https://cults3d.com/en/3d-model/game/raider-of-cendre-base-warrior)
+
+Id objet : raider-of-cendre-base-warrior
 
 Prix : 5 euros
+
+Collections :
+
+- epic infanterie ORKS Orks-boyz
+
+
+Collections pour tags :
+
+- epic infanterie ORKS Orks-boyz NONDL NONSUP
+
 
 Description :
 
@@ -110,11 +115,6 @@ find the entire collection on Myminifactory
 https://www.myminifactory.com/users/Bishok/collection/raider-of-cendre
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2020-03-09T22:46:47Z"
 toc: true
 image: "thumbs_-_structured-wargaming-obelisk_-_Images_1.jpg"
 tags:
+- "alphaflight83"
 - "epic"
 - "decors"
 - "epic decors"
@@ -35,7 +36,6 @@ tags:
 - "IMP Batiments NONDL"
 - "epic IMP Batiments NONDL"
 - "decors IMP Batiments NONDL"
-- "epic decors IMP Batiments NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "IMP Batiments NONSUP"
 - "epic IMP Batiments NONSUP"
 - "decors IMP Batiments NONSUP"
-- "epic decors IMP Batiments NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -59,83 +58,32 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "epic decors IMP NONDL NONSUP"
 - "Batiments NONDL NONSUP"
 - "epic Batiments NONDL NONSUP"
 - "decors Batiments NONDL NONSUP"
-- "epic decors Batiments NONDL NONSUP"
 - "IMP Batiments NONDL NONSUP"
-- "epic IMP Batiments NONDL NONSUP"
-- "decors IMP Batiments NONDL NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "decors GRATUIT"
-- "epic decors GRATUIT"
-- "IMP GRATUIT"
-- "epic IMP GRATUIT"
-- "decors IMP GRATUIT"
-- "epic decors IMP GRATUIT"
-- "Batiments GRATUIT"
-- "epic Batiments GRATUIT"
-- "decors Batiments GRATUIT"
-- "epic decors Batiments GRATUIT"
-- "IMP Batiments GRATUIT"
-- "epic IMP Batiments GRATUIT"
-- "decors IMP Batiments GRATUIT"
-- "epic decors IMP Batiments GRATUIT"
-- "NONDL GRATUIT"
-- "epic NONDL GRATUIT"
-- "decors NONDL GRATUIT"
-- "epic decors NONDL GRATUIT"
-- "IMP NONDL GRATUIT"
-- "epic IMP NONDL GRATUIT"
-- "decors IMP NONDL GRATUIT"
-- "epic decors IMP NONDL GRATUIT"
-- "Batiments NONDL GRATUIT"
-- "epic Batiments NONDL GRATUIT"
-- "decors Batiments NONDL GRATUIT"
-- "epic decors Batiments NONDL GRATUIT"
-- "IMP Batiments NONDL GRATUIT"
-- "epic IMP Batiments NONDL GRATUIT"
-- "decors IMP Batiments NONDL GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "decors NONSUP GRATUIT"
-- "epic decors NONSUP GRATUIT"
-- "IMP NONSUP GRATUIT"
-- "epic IMP NONSUP GRATUIT"
-- "decors IMP NONSUP GRATUIT"
-- "epic decors IMP NONSUP GRATUIT"
-- "Batiments NONSUP GRATUIT"
-- "epic Batiments NONSUP GRATUIT"
-- "decors Batiments NONSUP GRATUIT"
-- "epic decors Batiments NONSUP GRATUIT"
-- "IMP Batiments NONSUP GRATUIT"
-- "epic IMP Batiments NONSUP GRATUIT"
-- "decors IMP Batiments NONSUP GRATUIT"
-- "NONDL NONSUP GRATUIT"
-- "epic NONDL NONSUP GRATUIT"
-- "decors NONDL NONSUP GRATUIT"
-- "epic decors NONDL NONSUP GRATUIT"
-- "IMP NONDL NONSUP GRATUIT"
-- "epic IMP NONDL NONSUP GRATUIT"
-- "decors IMP NONDL NONSUP GRATUIT"
-- "Batiments NONDL NONSUP GRATUIT"
-- "epic Batiments NONDL NONSUP GRATUIT"
-- "decors Batiments NONDL NONSUP GRATUIT"
-- "IMP Batiments NONDL NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] alphaflight83 > Structured_wargaming_obelisk [non dl]
 
 ![](<thumbs_-_structured-wargaming-obelisk_-_Images_1.jpg> "thumbs_-_structured-wargaming-obelisk_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/structured-wargaming-obelisk"](<"https://cults3d.com/en/3d-model/game/structured-wargaming-obelisk">)
+Source : [https://cults3d.com/en/3d-model/game/structured-wargaming-obelisk](https://cults3d.com/en/3d-model/game/structured-wargaming-obelisk)
+
+Id objet : structured-wargaming-obelisk
 
 Prix : 0.0 euros
+
+Collections :
+
+- epic decors IMP Batiments
+
+
+Collections pour tags :
+
+- epic decors IMP Batiments NONDL NONSUP
+
 
 Description :
 
@@ -145,11 +93,6 @@ An obelisk for 28mm wargaming.
 Edit: Added hollow versions
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

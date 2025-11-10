@@ -5,6 +5,7 @@ date: "2024-11-02T11:14:34Z"
 toc: true
 image: "thumbs_-_medival-buildings-part-1_-_Images_1.jpg"
 tags:
+- "Alario"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -35,19 +36,28 @@ tags:
 - "Décors-village-mediéval NONDL NONSUP"
 - "warmaster Décors-village-mediéval NONDL NONSUP"
 - "decors Décors-village-mediéval NONDL NONSUP"
-- "warmaster decors Décors-village-mediéval NONDL NONSUP"
 
 ---
-
-## [PAYANT] Alario > x3_Medieval_buildings___part_1 [non dl]
 
 ![](<thumbs_-_medival-buildings-part-1_-_Images_1.jpg> "thumbs_-_medival-buildings-part-1_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/medival-buildings-part-1"](<"https://cults3d.com/en/3d-model/game/medival-buildings-part-1">)
+Source : [https://cults3d.com/en/3d-model/game/medival-buildings-part-1](https://cults3d.com/en/3d-model/game/medival-buildings-part-1)
+
+Id objet : medival-buildings-part-1
 
 Prix : 3 euros
+
+Collections :
+
+- warmaster decors Décors-village-mediéval
+
+
+Collections pour tags :
+
+- warmaster decors Décors-village-mediéval NONDL NONSUP
+
 
 Description :
 
@@ -61,11 +71,6 @@ Rescale at 150% for 28/32mm miniatures.
 Made by StlShop and being sold on Licence
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

@@ -5,6 +5,7 @@ date: "2023-09-06T10:03:04Z"
 toc: true
 image: "thumbs_-_smallscale-grimdark-civilians-in-environmental-suits_-_Images_1.jpg"
 tags:
+- "BitsBlitzDesigns"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -35,7 +36,6 @@ tags:
 - "HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -51,7 +51,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONDL"
 - "28mm HUMAINS Necromunda-gangs NONDL"
 - "IMP HUMAINS Necromunda-gangs NONDL"
-- "28mm IMP HUMAINS Necromunda-gangs NONDL"
 - "40k-gangs NONDL"
 - "28mm 40k-gangs NONDL"
 - "IMP 40k-gangs NONDL"
@@ -59,14 +58,10 @@ tags:
 - "HUMAINS 40k-gangs NONDL"
 - "28mm HUMAINS 40k-gangs NONDL"
 - "IMP HUMAINS 40k-gangs NONDL"
-- "28mm IMP HUMAINS 40k-gangs NONDL"
 - "Necromunda-gangs 40k-gangs NONDL"
 - "28mm Necromunda-gangs 40k-gangs NONDL"
 - "IMP Necromunda-gangs 40k-gangs NONDL"
-- "28mm IMP Necromunda-gangs 40k-gangs NONDL"
 - "HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -82,7 +77,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONSUP"
 - "28mm HUMAINS Necromunda-gangs NONSUP"
 - "IMP HUMAINS Necromunda-gangs NONSUP"
-- "28mm IMP HUMAINS Necromunda-gangs NONSUP"
 - "40k-gangs NONSUP"
 - "28mm 40k-gangs NONSUP"
 - "IMP 40k-gangs NONSUP"
@@ -90,14 +84,10 @@ tags:
 - "HUMAINS 40k-gangs NONSUP"
 - "28mm HUMAINS 40k-gangs NONSUP"
 - "IMP HUMAINS 40k-gangs NONSUP"
-- "28mm IMP HUMAINS 40k-gangs NONSUP"
 - "Necromunda-gangs 40k-gangs NONSUP"
 - "28mm Necromunda-gangs 40k-gangs NONSUP"
 - "IMP Necromunda-gangs 40k-gangs NONSUP"
-- "28mm IMP Necromunda-gangs 40k-gangs NONSUP"
 - "HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
@@ -105,25 +95,15 @@ tags:
 - "HUMAINS NONDL NONSUP"
 - "28mm HUMAINS NONDL NONSUP"
 - "IMP HUMAINS NONDL NONSUP"
-- "28mm IMP HUMAINS NONDL NONSUP"
 - "Necromunda-gangs NONDL NONSUP"
 - "28mm Necromunda-gangs NONDL NONSUP"
 - "IMP Necromunda-gangs NONDL NONSUP"
-- "28mm IMP Necromunda-gangs NONDL NONSUP"
 - "HUMAINS Necromunda-gangs NONDL NONSUP"
-- "28mm HUMAINS Necromunda-gangs NONDL NONSUP"
-- "IMP HUMAINS Necromunda-gangs NONDL NONSUP"
 - "40k-gangs NONDL NONSUP"
 - "28mm 40k-gangs NONDL NONSUP"
 - "IMP 40k-gangs NONDL NONSUP"
-- "28mm IMP 40k-gangs NONDL NONSUP"
 - "HUMAINS 40k-gangs NONDL NONSUP"
-- "28mm HUMAINS 40k-gangs NONDL NONSUP"
-- "IMP HUMAINS 40k-gangs NONDL NONSUP"
 - "Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "28mm Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "IMP Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,7 +134,6 @@ tags:
 - "AM Thallax NONDL"
 - "epic AM Thallax NONDL"
 - "infanterie AM Thallax NONDL"
-- "epic infanterie AM Thallax NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -170,7 +149,6 @@ tags:
 - "AM Thallax NONSUP"
 - "epic AM Thallax NONSUP"
 - "infanterie AM Thallax NONSUP"
-- "epic infanterie AM Thallax NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -178,26 +156,34 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "epic infanterie AM NONDL NONSUP"
 - "Thallax NONDL NONSUP"
 - "epic Thallax NONDL NONSUP"
 - "infanterie Thallax NONDL NONSUP"
-- "epic infanterie Thallax NONDL NONSUP"
 - "AM Thallax NONDL NONSUP"
-- "epic AM Thallax NONDL NONSUP"
-- "infanterie AM Thallax NONDL NONSUP"
 
 ---
-
-## [PAYANT] BitsBlitzDesigns > Smallscale_Indebted_in_environmental_suits [non dl]
 
 ![](<thumbs_-_smallscale-grimdark-civilians-in-environmental-suits_-_Images_1.jpg> "thumbs_-_smallscale-grimdark-civilians-in-environmental-suits_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/smallscale-grimdark-civilians-in-environmental-suits"](<"https://cults3d.com/en/3d-model/game/smallscale-grimdark-civilians-in-environmental-suits">)
+Source : [https://cults3d.com/en/3d-model/game/smallscale-grimdark-civilians-in-environmental-suits](https://cults3d.com/en/3d-model/game/smallscale-grimdark-civilians-in-environmental-suits)
+
+Id objet : smallscale-grimdark-civilians-in-environmental-suits
 
 Prix : 2 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+- epic infanterie AM Thallax
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
+- epic infanterie AM Thallax NONDL NONSUP
+
 
 Description :
 
@@ -213,11 +199,6 @@ This kit contains the following miniatures:
 Please do no share or sell these files (including prints and remixes) without my written permission.
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

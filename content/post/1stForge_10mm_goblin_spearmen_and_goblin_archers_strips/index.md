@@ -5,6 +5,7 @@ date: "2021-05-18T08:06:34Z"
 toc: true
 image: "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg"
 tags:
+- "1stForge"
 - "warmaster"
 - "GOBELINS"
 - "warmaster GOBELINS"
@@ -23,15 +24,25 @@ tags:
 
 ---
 
-## [PAYANT] 1stForge > 10mm_goblin_spearmen_and_goblin_archers_strips [non dl]
-
 ![](<thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg> "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/10mm-goblin-spearmen-and-goblin-archers-strips"](<"https://cults3d.com/en/3d-model/game/10mm-goblin-spearmen-and-goblin-archers-strips">)
+Source : [https://cults3d.com/en/3d-model/game/10mm-goblin-spearmen-and-goblin-archers-strips](https://cults3d.com/en/3d-model/game/10mm-goblin-spearmen-and-goblin-archers-strips)
+
+Id objet : 10mm-goblin-spearmen-and-goblin-archers-strips
 
 Prix : 7 euros
+
+Collections :
+
+- warmaster GOBELINS
+
+
+Collections pour tags :
+
+- warmaster GOBELINS NONDL NONSUP
+
 
 Description :
 
@@ -63,11 +74,6 @@ You may alter the files for personal use but you are not permitted to share thos
 total filesize aprox 707mb
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

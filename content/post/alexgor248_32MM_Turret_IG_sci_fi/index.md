@@ -5,6 +5,7 @@ date: "2022-06-24T08:05:45Z"
 toc: true
 image: "thumbs_-_turret-ig-sci-fi_-_Images_1.jpg"
 tags:
+- "alexgor248"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "SMI Tarentules NONDL"
 - "epic SMI Tarentules NONDL"
 - "infanterie SMI Tarentules NONDL"
-- "epic infanterie SMI Tarentules NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "SMI Tarentules NONSUP"
 - "epic SMI Tarentules NONSUP"
 - "infanterie SMI Tarentules NONSUP"
-- "epic infanterie SMI Tarentules NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -59,26 +58,32 @@ tags:
 - "SMI NONDL NONSUP"
 - "epic SMI NONDL NONSUP"
 - "infanterie SMI NONDL NONSUP"
-- "epic infanterie SMI NONDL NONSUP"
 - "Tarentules NONDL NONSUP"
 - "epic Tarentules NONDL NONSUP"
 - "infanterie Tarentules NONDL NONSUP"
-- "epic infanterie Tarentules NONDL NONSUP"
 - "SMI Tarentules NONDL NONSUP"
-- "epic SMI Tarentules NONDL NONSUP"
-- "infanterie SMI Tarentules NONDL NONSUP"
 
 ---
-
-## [PAYANT] alexgor248 > 32MM_Turret_IG_sci_fi [non dl]
 
 ![](<thumbs_-_turret-ig-sci-fi_-_Images_1.jpg> "thumbs_-_turret-ig-sci-fi_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/turret-ig-sci-fi"](<"https://cults3d.com/en/3d-model/game/turret-ig-sci-fi">)
+Source : [https://cults3d.com/en/3d-model/game/turret-ig-sci-fi](https://cults3d.com/en/3d-model/game/turret-ig-sci-fi)
+
+Id objet : turret-ig-sci-fi
 
 Prix : 3.53 euros
+
+Collections :
+
+- epic infanterie SMI Tarentules
+
+
+Collections pour tags :
+
+- epic infanterie SMI Tarentules NONDL NONSUP
+
 
 Description :
 
@@ -86,11 +91,6 @@ Description :
 Terrain for honest guys with lasguns
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 

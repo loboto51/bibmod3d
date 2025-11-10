@@ -5,6 +5,7 @@ date: "2023-02-08T08:15:41Z"
 toc: true
 image: "thumbs_-_privateer-ketch_-_Images_1.jpg"
 tags:
+- "Bluesquat"
 - "bfg"
 - "IMP"
 - "bfg IMP"
@@ -35,42 +36,8 @@ tags:
 - "Flotte NONDL SUP"
 - "bfg Flotte NONDL SUP"
 - "IMP Flotte NONDL SUP"
-- "bfg IMP Flotte NONDL SUP"
-- "BONMARCHE"
-- "bfg BONMARCHE"
-- "IMP BONMARCHE"
-- "bfg IMP BONMARCHE"
-- "Flotte BONMARCHE"
-- "bfg Flotte BONMARCHE"
-- "IMP Flotte BONMARCHE"
-- "bfg IMP Flotte BONMARCHE"
-- "NONDL BONMARCHE"
-- "bfg NONDL BONMARCHE"
-- "IMP NONDL BONMARCHE"
-- "bfg IMP NONDL BONMARCHE"
-- "Flotte NONDL BONMARCHE"
-- "bfg Flotte NONDL BONMARCHE"
-- "IMP Flotte NONDL BONMARCHE"
-- "bfg IMP Flotte NONDL BONMARCHE"
-- "SUP BONMARCHE"
-- "bfg SUP BONMARCHE"
-- "IMP SUP BONMARCHE"
-- "bfg IMP SUP BONMARCHE"
-- "Flotte SUP BONMARCHE"
-- "bfg Flotte SUP BONMARCHE"
-- "IMP Flotte SUP BONMARCHE"
-- "bfg IMP Flotte SUP BONMARCHE"
-- "NONDL SUP BONMARCHE"
-- "bfg NONDL SUP BONMARCHE"
-- "IMP NONDL SUP BONMARCHE"
-- "bfg IMP NONDL SUP BONMARCHE"
-- "Flotte NONDL SUP BONMARCHE"
-- "bfg Flotte NONDL SUP BONMARCHE"
-- "IMP Flotte NONDL SUP BONMARCHE"
 
 ---
-
-## [BON-MARCHE] Bluesquat > Privateer_Ketch [non dl]
 
 ![](<thumbs_-_privateer-ketch_-_Images_1.jpg> "thumbs_-_privateer-ketch_-_Images_1.jpg")
 
@@ -78,9 +45,21 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/privateer-ketch"](<"https://cults3d.com/en/3d-model/game/privateer-ketch">)
+Source : [https://cults3d.com/en/3d-model/game/privateer-ketch](https://cults3d.com/en/3d-model/game/privateer-ketch)
+
+Id objet : privateer-ketch
 
 Prix : 1.8 euros
+
+Collections :
+
+- bfg IMP Flotte
+
+
+Collections pour tags :
+
+- bfg IMP Flotte NONDL SUP
+
 
 Description :
 
@@ -98,11 +77,13 @@ _ The bases I like to use are free and can be found here :
 https://www.myminifactory.com/object/3d-print-soul-forge-studio-ship-bases-165370
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-_ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
+    ~~~
+    _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
+    
+    ~~~
 
-~~~
+  
 
 

@@ -5,6 +5,7 @@ date: "2021-06-01T23:09:22Z"
 toc: true
 image: "thumbs_-_delaque-weaponary-2-0_-_Images_1.jpg"
 tags:
+- "andersklahr"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -35,7 +36,6 @@ tags:
 - "HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -51,7 +51,6 @@ tags:
 - "HUMAINS Necromunda-gangs NONDL"
 - "28mm HUMAINS Necromunda-gangs NONDL"
 - "IMP HUMAINS Necromunda-gangs NONDL"
-- "28mm IMP HUMAINS Necromunda-gangs NONDL"
 - "40k-gangs NONDL"
 - "28mm 40k-gangs NONDL"
 - "IMP 40k-gangs NONDL"
@@ -59,14 +58,10 @@ tags:
 - "HUMAINS 40k-gangs NONDL"
 - "28mm HUMAINS 40k-gangs NONDL"
 - "IMP HUMAINS 40k-gangs NONDL"
-- "28mm IMP HUMAINS 40k-gangs NONDL"
 - "Necromunda-gangs 40k-gangs NONDL"
 - "28mm Necromunda-gangs 40k-gangs NONDL"
 - "IMP Necromunda-gangs 40k-gangs NONDL"
-- "28mm IMP Necromunda-gangs 40k-gangs NONDL"
 - "HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -82,7 +77,6 @@ tags:
 - "HUMAINS Necromunda-gangs SUP"
 - "28mm HUMAINS Necromunda-gangs SUP"
 - "IMP HUMAINS Necromunda-gangs SUP"
-- "28mm IMP HUMAINS Necromunda-gangs SUP"
 - "40k-gangs SUP"
 - "28mm 40k-gangs SUP"
 - "IMP 40k-gangs SUP"
@@ -90,14 +84,10 @@ tags:
 - "HUMAINS 40k-gangs SUP"
 - "28mm HUMAINS 40k-gangs SUP"
 - "IMP HUMAINS 40k-gangs SUP"
-- "28mm IMP HUMAINS 40k-gangs SUP"
 - "Necromunda-gangs 40k-gangs SUP"
 - "28mm Necromunda-gangs 40k-gangs SUP"
 - "IMP Necromunda-gangs 40k-gangs SUP"
-- "28mm IMP Necromunda-gangs 40k-gangs SUP"
 - "HUMAINS Necromunda-gangs 40k-gangs SUP"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs SUP"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "IMP NONDL SUP"
@@ -105,136 +95,37 @@ tags:
 - "HUMAINS NONDL SUP"
 - "28mm HUMAINS NONDL SUP"
 - "IMP HUMAINS NONDL SUP"
-- "28mm IMP HUMAINS NONDL SUP"
 - "Necromunda-gangs NONDL SUP"
 - "28mm Necromunda-gangs NONDL SUP"
 - "IMP Necromunda-gangs NONDL SUP"
-- "28mm IMP Necromunda-gangs NONDL SUP"
 - "HUMAINS Necromunda-gangs NONDL SUP"
-- "28mm HUMAINS Necromunda-gangs NONDL SUP"
-- "IMP HUMAINS Necromunda-gangs NONDL SUP"
 - "40k-gangs NONDL SUP"
 - "28mm 40k-gangs NONDL SUP"
 - "IMP 40k-gangs NONDL SUP"
-- "28mm IMP 40k-gangs NONDL SUP"
 - "HUMAINS 40k-gangs NONDL SUP"
-- "28mm HUMAINS 40k-gangs NONDL SUP"
-- "IMP HUMAINS 40k-gangs NONDL SUP"
 - "Necromunda-gangs 40k-gangs NONDL SUP"
-- "28mm Necromunda-gangs 40k-gangs NONDL SUP"
-- "IMP Necromunda-gangs 40k-gangs NONDL SUP"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL SUP"
-- "GRATUIT"
-- "28mm GRATUIT"
-- "IMP GRATUIT"
-- "28mm IMP GRATUIT"
-- "HUMAINS GRATUIT"
-- "28mm HUMAINS GRATUIT"
-- "IMP HUMAINS GRATUIT"
-- "28mm IMP HUMAINS GRATUIT"
-- "Necromunda-gangs GRATUIT"
-- "28mm Necromunda-gangs GRATUIT"
-- "IMP Necromunda-gangs GRATUIT"
-- "28mm IMP Necromunda-gangs GRATUIT"
-- "HUMAINS Necromunda-gangs GRATUIT"
-- "28mm HUMAINS Necromunda-gangs GRATUIT"
-- "IMP HUMAINS Necromunda-gangs GRATUIT"
-- "28mm IMP HUMAINS Necromunda-gangs GRATUIT"
-- "40k-gangs GRATUIT"
-- "28mm 40k-gangs GRATUIT"
-- "IMP 40k-gangs GRATUIT"
-- "28mm IMP 40k-gangs GRATUIT"
-- "HUMAINS 40k-gangs GRATUIT"
-- "28mm HUMAINS 40k-gangs GRATUIT"
-- "IMP HUMAINS 40k-gangs GRATUIT"
-- "28mm IMP HUMAINS 40k-gangs GRATUIT"
-- "Necromunda-gangs 40k-gangs GRATUIT"
-- "28mm Necromunda-gangs 40k-gangs GRATUIT"
-- "IMP Necromunda-gangs 40k-gangs GRATUIT"
-- "28mm IMP Necromunda-gangs 40k-gangs GRATUIT"
-- "HUMAINS Necromunda-gangs 40k-gangs GRATUIT"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs GRATUIT"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs GRATUIT"
-- "NONDL GRATUIT"
-- "28mm NONDL GRATUIT"
-- "IMP NONDL GRATUIT"
-- "28mm IMP NONDL GRATUIT"
-- "HUMAINS NONDL GRATUIT"
-- "28mm HUMAINS NONDL GRATUIT"
-- "IMP HUMAINS NONDL GRATUIT"
-- "28mm IMP HUMAINS NONDL GRATUIT"
-- "Necromunda-gangs NONDL GRATUIT"
-- "28mm Necromunda-gangs NONDL GRATUIT"
-- "IMP Necromunda-gangs NONDL GRATUIT"
-- "28mm IMP Necromunda-gangs NONDL GRATUIT"
-- "HUMAINS Necromunda-gangs NONDL GRATUIT"
-- "28mm HUMAINS Necromunda-gangs NONDL GRATUIT"
-- "IMP HUMAINS Necromunda-gangs NONDL GRATUIT"
-- "40k-gangs NONDL GRATUIT"
-- "28mm 40k-gangs NONDL GRATUIT"
-- "IMP 40k-gangs NONDL GRATUIT"
-- "28mm IMP 40k-gangs NONDL GRATUIT"
-- "HUMAINS 40k-gangs NONDL GRATUIT"
-- "28mm HUMAINS 40k-gangs NONDL GRATUIT"
-- "IMP HUMAINS 40k-gangs NONDL GRATUIT"
-- "Necromunda-gangs 40k-gangs NONDL GRATUIT"
-- "28mm Necromunda-gangs 40k-gangs NONDL GRATUIT"
-- "IMP Necromunda-gangs 40k-gangs NONDL GRATUIT"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL GRATUIT"
-- "SUP GRATUIT"
-- "28mm SUP GRATUIT"
-- "IMP SUP GRATUIT"
-- "28mm IMP SUP GRATUIT"
-- "HUMAINS SUP GRATUIT"
-- "28mm HUMAINS SUP GRATUIT"
-- "IMP HUMAINS SUP GRATUIT"
-- "28mm IMP HUMAINS SUP GRATUIT"
-- "Necromunda-gangs SUP GRATUIT"
-- "28mm Necromunda-gangs SUP GRATUIT"
-- "IMP Necromunda-gangs SUP GRATUIT"
-- "28mm IMP Necromunda-gangs SUP GRATUIT"
-- "HUMAINS Necromunda-gangs SUP GRATUIT"
-- "28mm HUMAINS Necromunda-gangs SUP GRATUIT"
-- "IMP HUMAINS Necromunda-gangs SUP GRATUIT"
-- "40k-gangs SUP GRATUIT"
-- "28mm 40k-gangs SUP GRATUIT"
-- "IMP 40k-gangs SUP GRATUIT"
-- "28mm IMP 40k-gangs SUP GRATUIT"
-- "HUMAINS 40k-gangs SUP GRATUIT"
-- "28mm HUMAINS 40k-gangs SUP GRATUIT"
-- "IMP HUMAINS 40k-gangs SUP GRATUIT"
-- "Necromunda-gangs 40k-gangs SUP GRATUIT"
-- "28mm Necromunda-gangs 40k-gangs SUP GRATUIT"
-- "IMP Necromunda-gangs 40k-gangs SUP GRATUIT"
-- "HUMAINS Necromunda-gangs 40k-gangs SUP GRATUIT"
-- "NONDL SUP GRATUIT"
-- "28mm NONDL SUP GRATUIT"
-- "IMP NONDL SUP GRATUIT"
-- "28mm IMP NONDL SUP GRATUIT"
-- "HUMAINS NONDL SUP GRATUIT"
-- "28mm HUMAINS NONDL SUP GRATUIT"
-- "IMP HUMAINS NONDL SUP GRATUIT"
-- "Necromunda-gangs NONDL SUP GRATUIT"
-- "28mm Necromunda-gangs NONDL SUP GRATUIT"
-- "IMP Necromunda-gangs NONDL SUP GRATUIT"
-- "HUMAINS Necromunda-gangs NONDL SUP GRATUIT"
-- "40k-gangs NONDL SUP GRATUIT"
-- "28mm 40k-gangs NONDL SUP GRATUIT"
-- "IMP 40k-gangs NONDL SUP GRATUIT"
-- "HUMAINS 40k-gangs NONDL SUP GRATUIT"
-- "Necromunda-gangs 40k-gangs NONDL SUP GRATUIT"
 
 ---
-
-## [GRATUIT] andersklahr > Delaque_weaponary_2_0 [non dl]
 
 ![](<thumbs_-_delaque-weaponary-2-0_-_Images_1.jpg> "thumbs_-_delaque-weaponary-2-0_-_Images_1.jpg")
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/delaque-weaponary-2-0"](<"https://cults3d.com/en/3d-model/game/delaque-weaponary-2-0">)
+Source : [https://cults3d.com/en/3d-model/game/delaque-weaponary-2-0](https://cults3d.com/en/3d-model/game/delaque-weaponary-2-0)
+
+Id objet : delaque-weaponary-2-0
 
 Prix : 0.0 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL SUP
+
 
 Description :
 
@@ -250,11 +141,13 @@ I also used this awesome gun:
 "GSC webber gun" by Mafei: https://www.thingiverse.com/thing:4336575
 ~~~
 
-Supports ?
+Justification du tag SUP :
 
-~~~
-3 diffrent swords supported (not sure where I got the originals from)
+    ~~~
+    3 diffrent swords supported (not sure where I got the originals from)
+    
+    ~~~
 
-~~~
+  
 
 

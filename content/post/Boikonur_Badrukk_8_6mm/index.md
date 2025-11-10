@@ -5,6 +5,7 @@ date: "2025-06-05T10:19:13Z"
 toc: true
 image: "thumbs_-_badrukk-8-6mm_-_Images_1.jpg"
 tags:
+- "Boikonur"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +36,6 @@ tags:
 - "ORKS Orks-boyz Flibuztiers"
 - "epic ORKS Orks-boyz Flibuztiers"
 - "infanterie ORKS Orks-boyz Flibuztiers"
-- "epic infanterie ORKS Orks-boyz Flibuztiers"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,7 +51,6 @@ tags:
 - "ORKS Orks-boyz NONSUP"
 - "epic ORKS Orks-boyz NONSUP"
 - "infanterie ORKS Orks-boyz NONSUP"
-- "epic infanterie ORKS Orks-boyz NONSUP"
 - "Flibuztiers NONSUP"
 - "epic Flibuztiers NONSUP"
 - "infanterie Flibuztiers NONSUP"
@@ -59,71 +58,10 @@ tags:
 - "ORKS Flibuztiers NONSUP"
 - "epic ORKS Flibuztiers NONSUP"
 - "infanterie ORKS Flibuztiers NONSUP"
-- "epic infanterie ORKS Flibuztiers NONSUP"
 - "Orks-boyz Flibuztiers NONSUP"
 - "epic Orks-boyz Flibuztiers NONSUP"
 - "infanterie Orks-boyz Flibuztiers NONSUP"
-- "epic infanterie Orks-boyz Flibuztiers NONSUP"
 - "ORKS Orks-boyz Flibuztiers NONSUP"
-- "epic ORKS Orks-boyz Flibuztiers NONSUP"
-- "infanterie ORKS Orks-boyz Flibuztiers NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "ORKS GRATUIT"
-- "epic ORKS GRATUIT"
-- "infanterie ORKS GRATUIT"
-- "epic infanterie ORKS GRATUIT"
-- "Orks-boyz GRATUIT"
-- "epic Orks-boyz GRATUIT"
-- "infanterie Orks-boyz GRATUIT"
-- "epic infanterie Orks-boyz GRATUIT"
-- "ORKS Orks-boyz GRATUIT"
-- "epic ORKS Orks-boyz GRATUIT"
-- "infanterie ORKS Orks-boyz GRATUIT"
-- "epic infanterie ORKS Orks-boyz GRATUIT"
-- "Flibuztiers GRATUIT"
-- "epic Flibuztiers GRATUIT"
-- "infanterie Flibuztiers GRATUIT"
-- "epic infanterie Flibuztiers GRATUIT"
-- "ORKS Flibuztiers GRATUIT"
-- "epic ORKS Flibuztiers GRATUIT"
-- "infanterie ORKS Flibuztiers GRATUIT"
-- "epic infanterie ORKS Flibuztiers GRATUIT"
-- "Orks-boyz Flibuztiers GRATUIT"
-- "epic Orks-boyz Flibuztiers GRATUIT"
-- "infanterie Orks-boyz Flibuztiers GRATUIT"
-- "epic infanterie Orks-boyz Flibuztiers GRATUIT"
-- "ORKS Orks-boyz Flibuztiers GRATUIT"
-- "epic ORKS Orks-boyz Flibuztiers GRATUIT"
-- "infanterie ORKS Orks-boyz Flibuztiers GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "infanterie NONSUP GRATUIT"
-- "epic infanterie NONSUP GRATUIT"
-- "ORKS NONSUP GRATUIT"
-- "epic ORKS NONSUP GRATUIT"
-- "infanterie ORKS NONSUP GRATUIT"
-- "epic infanterie ORKS NONSUP GRATUIT"
-- "Orks-boyz NONSUP GRATUIT"
-- "epic Orks-boyz NONSUP GRATUIT"
-- "infanterie Orks-boyz NONSUP GRATUIT"
-- "epic infanterie Orks-boyz NONSUP GRATUIT"
-- "ORKS Orks-boyz NONSUP GRATUIT"
-- "epic ORKS Orks-boyz NONSUP GRATUIT"
-- "infanterie ORKS Orks-boyz NONSUP GRATUIT"
-- "Flibuztiers NONSUP GRATUIT"
-- "epic Flibuztiers NONSUP GRATUIT"
-- "infanterie Flibuztiers NONSUP GRATUIT"
-- "epic infanterie Flibuztiers NONSUP GRATUIT"
-- "ORKS Flibuztiers NONSUP GRATUIT"
-- "epic ORKS Flibuztiers NONSUP GRATUIT"
-- "infanterie ORKS Flibuztiers NONSUP GRATUIT"
-- "Orks-boyz Flibuztiers NONSUP GRATUIT"
-- "epic Orks-boyz Flibuztiers NONSUP GRATUIT"
-- "infanterie Orks-boyz Flibuztiers NONSUP GRATUIT"
-- "ORKS Orks-boyz Flibuztiers NONSUP GRATUIT"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -154,42 +92,8 @@ tags:
 - "ORKS Orks-qg NONSUP"
 - "epic ORKS Orks-qg NONSUP"
 - "infanterie ORKS Orks-qg NONSUP"
-- "epic infanterie ORKS Orks-qg NONSUP"
-- "GRATUIT"
-- "epic GRATUIT"
-- "infanterie GRATUIT"
-- "epic infanterie GRATUIT"
-- "ORKS GRATUIT"
-- "epic ORKS GRATUIT"
-- "infanterie ORKS GRATUIT"
-- "epic infanterie ORKS GRATUIT"
-- "Orks-qg GRATUIT"
-- "epic Orks-qg GRATUIT"
-- "infanterie Orks-qg GRATUIT"
-- "epic infanterie Orks-qg GRATUIT"
-- "ORKS Orks-qg GRATUIT"
-- "epic ORKS Orks-qg GRATUIT"
-- "infanterie ORKS Orks-qg GRATUIT"
-- "epic infanterie ORKS Orks-qg GRATUIT"
-- "NONSUP GRATUIT"
-- "epic NONSUP GRATUIT"
-- "infanterie NONSUP GRATUIT"
-- "epic infanterie NONSUP GRATUIT"
-- "ORKS NONSUP GRATUIT"
-- "epic ORKS NONSUP GRATUIT"
-- "infanterie ORKS NONSUP GRATUIT"
-- "epic infanterie ORKS NONSUP GRATUIT"
-- "Orks-qg NONSUP GRATUIT"
-- "epic Orks-qg NONSUP GRATUIT"
-- "infanterie Orks-qg NONSUP GRATUIT"
-- "epic infanterie Orks-qg NONSUP GRATUIT"
-- "ORKS Orks-qg NONSUP GRATUIT"
-- "epic ORKS Orks-qg NONSUP GRATUIT"
-- "infanterie ORKS Orks-qg NONSUP GRATUIT"
 
 ---
-
-## [GRATUIT] Boikonur > Badrukk_8_6mm [dl]
 
 ![](<thumbs_-_badrukk-8-6mm_-_Images_1.jpg> "thumbs_-_badrukk-8-6mm_-_Images_1.jpg")
 
@@ -197,9 +101,23 @@ tags:
 
   
 
-Source : ["https://cults3d.com/en/3d-model/game/badrukk-8-6mm"](<"https://cults3d.com/en/3d-model/game/badrukk-8-6mm">)
+Source : [https://cults3d.com/en/3d-model/game/badrukk-8-6mm](https://cults3d.com/en/3d-model/game/badrukk-8-6mm)
+
+Id objet : badrukk-8-6mm
 
 Prix : 0 euros
+
+Collections :
+
+- epic infanterie ORKS Orks-boyz Flibuztiers
+- epic infanterie ORKS Orks-qg
+
+
+Collections pour tags :
+
+- epic infanterie ORKS Orks-boyz Flibuztiers  NONSUP
+- epic infanterie ORKS Orks-qg  NONSUP
+
 
 Description :
 
@@ -207,11 +125,6 @@ Description :
 Badrukk 8/6mm
 ~~~
 
-Supports ?
 
-~~~
-
-
-~~~
 
 
