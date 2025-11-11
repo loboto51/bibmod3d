@@ -1,0 +1,243 @@
+
+---
+title: "[GRATUIT] Thingiverse > bonewolf24 > Imperial_Contractors_Free_Sample [non dl]"
+date: "2024-09-18T20:22:04+00:00"
+toc: true
+image: "thumbs_-_6771335_-_Images_1.jpg"
+tags:
+- "bonewolf24"
+- "15mm"
+- "Sf-generiques"
+- "15mm Sf-generiques"
+- "Humains-civils-et-militaires"
+- "15mm Humains-civils-et-militaires"
+- "Sf-generiques Humains-civils-et-militaires"
+- "15mm Sf-generiques Humains-civils-et-militaires"
+- "NONDL"
+- "15mm NONDL"
+- "Sf-generiques NONDL"
+- "15mm Sf-generiques NONDL"
+- "Humains-civils-et-militaires NONDL"
+- "15mm Humains-civils-et-militaires NONDL"
+- "Sf-generiques Humains-civils-et-militaires NONDL"
+- "15mm Sf-generiques Humains-civils-et-militaires NONDL"
+- "SUP"
+- "15mm SUP"
+- "Sf-generiques SUP"
+- "15mm Sf-generiques SUP"
+- "Humains-civils-et-militaires SUP"
+- "15mm Humains-civils-et-militaires SUP"
+- "Sf-generiques Humains-civils-et-militaires SUP"
+- "15mm Sf-generiques Humains-civils-et-militaires SUP"
+- "NONDL SUP"
+- "15mm NONDL SUP"
+- "Sf-generiques NONDL SUP"
+- "15mm Sf-generiques NONDL SUP"
+- "Humains-civils-et-militaires NONDL SUP"
+- "15mm Humains-civils-et-militaires NONDL SUP"
+- "Sf-generiques Humains-civils-et-militaires NONDL SUP"
+- "28mm"
+- "SFDIV"
+- "28mm SFDIV"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "SFDIV HUMAINS"
+- "28mm SFDIV HUMAINS"
+- "Sf-tous-types-humains"
+- "28mm Sf-tous-types-humains"
+- "SFDIV Sf-tous-types-humains"
+- "28mm SFDIV Sf-tous-types-humains"
+- "HUMAINS Sf-tous-types-humains"
+- "28mm HUMAINS Sf-tous-types-humains"
+- "SFDIV HUMAINS Sf-tous-types-humains"
+- "28mm SFDIV HUMAINS Sf-tous-types-humains"
+- "Bits"
+- "28mm Bits"
+- "SFDIV Bits"
+- "28mm SFDIV Bits"
+- "HUMAINS Bits"
+- "28mm HUMAINS Bits"
+- "SFDIV HUMAINS Bits"
+- "28mm SFDIV HUMAINS Bits"
+- "Sf-tous-types-humains Bits"
+- "28mm Sf-tous-types-humains Bits"
+- "SFDIV Sf-tous-types-humains Bits"
+- "28mm SFDIV Sf-tous-types-humains Bits"
+- "HUMAINS Sf-tous-types-humains Bits"
+- "28mm HUMAINS Sf-tous-types-humains Bits"
+- "SFDIV HUMAINS Sf-tous-types-humains Bits"
+- "Builders"
+- "28mm Builders"
+- "SFDIV Builders"
+- "28mm SFDIV Builders"
+- "HUMAINS Builders"
+- "28mm HUMAINS Builders"
+- "SFDIV HUMAINS Builders"
+- "28mm SFDIV HUMAINS Builders"
+- "Sf-tous-types-humains Builders"
+- "28mm Sf-tous-types-humains Builders"
+- "SFDIV Sf-tous-types-humains Builders"
+- "28mm SFDIV Sf-tous-types-humains Builders"
+- "HUMAINS Sf-tous-types-humains Builders"
+- "28mm HUMAINS Sf-tous-types-humains Builders"
+- "SFDIV HUMAINS Sf-tous-types-humains Builders"
+- "Bits Builders"
+- "28mm Bits Builders"
+- "SFDIV Bits Builders"
+- "28mm SFDIV Bits Builders"
+- "HUMAINS Bits Builders"
+- "28mm HUMAINS Bits Builders"
+- "SFDIV HUMAINS Bits Builders"
+- "Sf-tous-types-humains Bits Builders"
+- "28mm Sf-tous-types-humains Bits Builders"
+- "SFDIV Sf-tous-types-humains Bits Builders"
+- "HUMAINS Sf-tous-types-humains Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "SFDIV NONDL"
+- "28mm SFDIV NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "SFDIV HUMAINS NONDL"
+- "28mm SFDIV HUMAINS NONDL"
+- "Sf-tous-types-humains NONDL"
+- "28mm Sf-tous-types-humains NONDL"
+- "SFDIV Sf-tous-types-humains NONDL"
+- "28mm SFDIV Sf-tous-types-humains NONDL"
+- "HUMAINS Sf-tous-types-humains NONDL"
+- "28mm HUMAINS Sf-tous-types-humains NONDL"
+- "SFDIV HUMAINS Sf-tous-types-humains NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "SFDIV Bits NONDL"
+- "28mm SFDIV Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "SFDIV HUMAINS Bits NONDL"
+- "Sf-tous-types-humains Bits NONDL"
+- "28mm Sf-tous-types-humains Bits NONDL"
+- "SFDIV Sf-tous-types-humains Bits NONDL"
+- "HUMAINS Sf-tous-types-humains Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "SFDIV Builders NONDL"
+- "28mm SFDIV Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "SFDIV HUMAINS Builders NONDL"
+- "Sf-tous-types-humains Builders NONDL"
+- "28mm Sf-tous-types-humains Builders NONDL"
+- "SFDIV Sf-tous-types-humains Builders NONDL"
+- "HUMAINS Sf-tous-types-humains Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "SFDIV Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "Sf-tous-types-humains Bits Builders NONDL"
+- "SUP"
+- "28mm SUP"
+- "SFDIV SUP"
+- "28mm SFDIV SUP"
+- "HUMAINS SUP"
+- "28mm HUMAINS SUP"
+- "SFDIV HUMAINS SUP"
+- "28mm SFDIV HUMAINS SUP"
+- "Sf-tous-types-humains SUP"
+- "28mm Sf-tous-types-humains SUP"
+- "SFDIV Sf-tous-types-humains SUP"
+- "28mm SFDIV Sf-tous-types-humains SUP"
+- "HUMAINS Sf-tous-types-humains SUP"
+- "28mm HUMAINS Sf-tous-types-humains SUP"
+- "SFDIV HUMAINS Sf-tous-types-humains SUP"
+- "Bits SUP"
+- "28mm Bits SUP"
+- "SFDIV Bits SUP"
+- "28mm SFDIV Bits SUP"
+- "HUMAINS Bits SUP"
+- "28mm HUMAINS Bits SUP"
+- "SFDIV HUMAINS Bits SUP"
+- "Sf-tous-types-humains Bits SUP"
+- "28mm Sf-tous-types-humains Bits SUP"
+- "SFDIV Sf-tous-types-humains Bits SUP"
+- "HUMAINS Sf-tous-types-humains Bits SUP"
+- "Builders SUP"
+- "28mm Builders SUP"
+- "SFDIV Builders SUP"
+- "28mm SFDIV Builders SUP"
+- "HUMAINS Builders SUP"
+- "28mm HUMAINS Builders SUP"
+- "SFDIV HUMAINS Builders SUP"
+- "Sf-tous-types-humains Builders SUP"
+- "28mm Sf-tous-types-humains Builders SUP"
+- "SFDIV Sf-tous-types-humains Builders SUP"
+- "HUMAINS Sf-tous-types-humains Builders SUP"
+- "Bits Builders SUP"
+- "28mm Bits Builders SUP"
+- "SFDIV Bits Builders SUP"
+- "HUMAINS Bits Builders SUP"
+- "Sf-tous-types-humains Bits Builders SUP"
+- "NONDL SUP"
+- "28mm NONDL SUP"
+- "SFDIV NONDL SUP"
+- "28mm SFDIV NONDL SUP"
+- "HUMAINS NONDL SUP"
+- "28mm HUMAINS NONDL SUP"
+- "SFDIV HUMAINS NONDL SUP"
+- "Sf-tous-types-humains NONDL SUP"
+- "28mm Sf-tous-types-humains NONDL SUP"
+- "SFDIV Sf-tous-types-humains NONDL SUP"
+- "HUMAINS Sf-tous-types-humains NONDL SUP"
+- "Bits NONDL SUP"
+- "28mm Bits NONDL SUP"
+- "SFDIV Bits NONDL SUP"
+- "HUMAINS Bits NONDL SUP"
+- "Sf-tous-types-humains Bits NONDL SUP"
+- "Builders NONDL SUP"
+- "28mm Builders NONDL SUP"
+- "SFDIV Builders NONDL SUP"
+- "HUMAINS Builders NONDL SUP"
+- "Sf-tous-types-humains Builders NONDL SUP"
+- "Bits Builders NONDL SUP"
+
+---
+
+![](<thumbs_-_6771335_-_Images_1.jpg> "thumbs_-_6771335_-_Images_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:6771335](https://www.thingiverse.com/thing:6771335)
+
+Id objet : 6771335
+
+Prix : 0 euros
+
+Collections :
+
+- 15mm Sf-generiques Humains-civils-et-militaires
+- 28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders
+
+
+Collections pour tags :
+
+- 15mm Sf-generiques Humains-civils-et-militaires NONDL SUP
+- 28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL SUP
+
+
+Description :
+
+~~~
+This is a free sample of my Imperial Contractors - Modular Wargaming Miniatures Kickstarter project. The parts are sculpted in 28mm heroic scale. Includes a selection of heads, bodies, legs, weapon arms, and accessories from the main Kickstarter. 
+
+These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures
+~~~
+
+Justification du tag SUP :
+
+    ~~~
+    These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures
+    
+    ~~~
+
+  
+
+

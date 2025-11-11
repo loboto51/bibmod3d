@@ -1,0 +1,203 @@
+
+---
+title: "[GRATUIT] Thingiverse > JanZizka > Epic_scale_Infantry_Company [dl]"
+date: "2020-10-21T14:50:46+00:00"
+toc: true
+image: "thumbs_-_4630079_-_Images_1.jpg"
+tags:
+- "JanZizka"
+- "epic"
+- "infanterie"
+- "epic infanterie"
+- "GI"
+- "epic GI"
+- "infanterie GI"
+- "epic infanterie GI"
+- "Humains-tactiques"
+- "epic Humains-tactiques"
+- "infanterie Humains-tactiques"
+- "epic infanterie Humains-tactiques"
+- "GI Humains-tactiques"
+- "epic GI Humains-tactiques"
+- "infanterie GI Humains-tactiques"
+- "epic infanterie GI Humains-tactiques"
+- "GI-CADIENS"
+- "epic GI-CADIENS"
+- "infanterie GI-CADIENS"
+- "epic infanterie GI-CADIENS"
+- "GI GI-CADIENS"
+- "epic GI GI-CADIENS"
+- "infanterie GI GI-CADIENS"
+- "epic infanterie GI GI-CADIENS"
+- "Humains-tactiques GI-CADIENS"
+- "epic Humains-tactiques GI-CADIENS"
+- "infanterie Humains-tactiques GI-CADIENS"
+- "epic infanterie Humains-tactiques GI-CADIENS"
+- "GI Humains-tactiques GI-CADIENS"
+- "epic GI Humains-tactiques GI-CADIENS"
+- "infanterie GI Humains-tactiques GI-CADIENS"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "GI SUP"
+- "epic GI SUP"
+- "infanterie GI SUP"
+- "epic infanterie GI SUP"
+- "Humains-tactiques SUP"
+- "epic Humains-tactiques SUP"
+- "infanterie Humains-tactiques SUP"
+- "epic infanterie Humains-tactiques SUP"
+- "GI Humains-tactiques SUP"
+- "epic GI Humains-tactiques SUP"
+- "infanterie GI Humains-tactiques SUP"
+- "GI-CADIENS SUP"
+- "epic GI-CADIENS SUP"
+- "infanterie GI-CADIENS SUP"
+- "epic infanterie GI-CADIENS SUP"
+- "GI GI-CADIENS SUP"
+- "epic GI GI-CADIENS SUP"
+- "infanterie GI GI-CADIENS SUP"
+- "Humains-tactiques GI-CADIENS SUP"
+- "epic Humains-tactiques GI-CADIENS SUP"
+- "infanterie Humains-tactiques GI-CADIENS SUP"
+- "GI Humains-tactiques GI-CADIENS SUP"
+
+---
+
+![](<thumbs_-_4630079_-_Images_1.jpg> "thumbs_-_4630079_-_Images_1.jpg")
+
+  ![](<thumbs_-_4630079_-_ImagesSTL_1.jpg> "thumbs_-_4630079_-_ImagesSTL_1.jpg")
+
+  ![](<thumbs_-_4630079_-_Makes_1.jpg> "thumbs_-_4630079_-_Makes_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4630079](https://www.thingiverse.com/thing:4630079)
+
+Id objet : 4630079
+
+Prix : 0 euros
+
+Collections :
+
+- epic infanterie GI Humains-tactiques GI-CADIENS
+
+
+Collections pour tags :
+
+- epic infanterie GI Humains-tactiques GI-CADIENS  SUP
+
+
+Description :
+
+~~~
+A full infatry company for Epic games.
+
+70 models, not a single repeated pose (although several are very similar xD).
+It includes 6 infantry squads (1 with commissar), a company commander squad and a suppreme commander squad.
+I used missile launchers instead of autocannons because I find them more dinamic for infantry on the move, I will use autocannons for the heavy weapon teams in the near future.
+
+I have included the chitubox files in case you want to find the unsupported versions of the models.
+
+This is a remix, but Thingiverse keeps failing to allow me link them properly, so here they are:
+
+Infantry models: https://www.thingiverse.com/thing:3746245
+Missile launcher: https://www.thingiverse.com/thing:3782889
+Missile launcher and commissar insignia: https://www.thingiverse.com/thing:399182
+Chainswords, swords and boltpistols: https://www.thingiverse.com/thing:4277183
+Commissar body: I do not remember where I downloaded it from. If you are the author, please ping me to give you credit.
+
+
+UPDATE 2020/10/26: Test printed. Everything went perfectly.
+
+UPDATE 2021/01/19: Files replaced for newer versions (Comissar moved to its own thing and 1 pose repeated to replace him, sorry for that!). Same poses but some reduction on support material and HUGE reduction in file size. Added a rar file with all the separate poses both supported and unsupported.
+~~~
+
+Justification du tag SUP :
+
+    ~~~
+    I have included the chitubox files in case you want to find the unsupported versions of the models.
+UPDATE 2021/01/19: Files replaced for newer versions (Comissar moved to its own thing and 1 pose repeated to replace him, sorry for that!). Same poses but some reduction on support material and HUGE reduction in file size. Added a rar file with all the separate poses both supported and unsupported.
+    ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Company_commander_Bodyguard_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Company_commander_Company_Commander_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Company_commander_Missile_launcher_1_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Company_commander_StandardBearer_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Company_commander_VoxCaster_2_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_1_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_1_H_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_1K_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_2_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_2_E_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_2_F_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Guardsman_3_E_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Missile_launcher_1_D_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_Sargeant_1_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_1_VoxCaster_2_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_1_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_1_F_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_2_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_2K_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_3_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_3_H_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Guardsman_3K_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Missile_launcher_2_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_Sargeant_1_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_2_VoxCaster_1K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_1_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_2_D_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_2_E_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_2_K_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_3_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_3_F_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Guardsman_3K_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Missile_launcher_1K_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_Sargeant_1_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_3_VoxCaster_1_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_1_D_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_1_I_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_1K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_2_J_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_2K_C_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_3_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Guardsman_3_I_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Missile_launcher_1_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_Sargeant_2_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_4_VoxCaster_3_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_1_G_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_2_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_2_G_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_2K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_2_L_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_3_D_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Guardsman_3K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Missile_launcher_1K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_Sargeant_3_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_5_VoxCaster_0K_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Being_shot_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_1_E_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_1K_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_2_H_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_2_I_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_2K_D_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Guardsman_3_G_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Missile_launcher_2_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_Sargeant_3_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Squad_6_VoxCaster_1_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander__Missile_launcher_1_B_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander_Missile_launcher_1_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander__Spotter_A_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander_Spotter_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack__Suppreme_Commander_squad_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander__StandardBearer_B_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander_StandardBearer_B_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander__Suppreme_Commander_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander_Suppreme_Commander_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander__VoxCaster_0_A_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files_Infantry_company_rar_unpack_Suppreme_commander_VoxCaster_0_A_unsupported_stl_.jpg
+ImagesSTL_-_Epic_scale_Infantry_Company_-_4630079_zip_unpack_files__Suppreme_Commander_squad_stl_.jpg
+    ~~~
+
+  
+
+
