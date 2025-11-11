@@ -1,0 +1,331 @@
+
+---
+title: "[GRATUIT] Cults3d > Scavvon > Killian_Teamaker_Presents__Chaos_Cultist__Close_Combat_Weapons [non dl]"
+date: "2023-06-05T23:32:21Z"
+toc: true
+image: "thumbs_-_killian-teamaker-presents-chaos-cultist-close-combat-weapons_-_Images_1.jpg"
+tags:
+- "Scavvon"
+- "28mm"
+- "IMP"
+- "28mm IMP"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "IMP HUMAINS"
+- "28mm IMP HUMAINS"
+- "ORKS"
+- "28mm ORKS"
+- "IMP ORKS"
+- "28mm IMP ORKS"
+- "HUMAINS ORKS"
+- "28mm HUMAINS ORKS"
+- "IMP HUMAINS ORKS"
+- "28mm IMP HUMAINS ORKS"
+- "40k-armes-diverses"
+- "28mm 40k-armes-diverses"
+- "IMP 40k-armes-diverses"
+- "28mm IMP 40k-armes-diverses"
+- "HUMAINS 40k-armes-diverses"
+- "28mm HUMAINS 40k-armes-diverses"
+- "IMP HUMAINS 40k-armes-diverses"
+- "28mm IMP HUMAINS 40k-armes-diverses"
+- "ORKS 40k-armes-diverses"
+- "28mm ORKS 40k-armes-diverses"
+- "IMP ORKS 40k-armes-diverses"
+- "28mm IMP ORKS 40k-armes-diverses"
+- "HUMAINS ORKS 40k-armes-diverses"
+- "28mm HUMAINS ORKS 40k-armes-diverses"
+- "IMP HUMAINS ORKS 40k-armes-diverses"
+- "Bits"
+- "28mm Bits"
+- "IMP Bits"
+- "28mm IMP Bits"
+- "HUMAINS Bits"
+- "28mm HUMAINS Bits"
+- "IMP HUMAINS Bits"
+- "28mm IMP HUMAINS Bits"
+- "ORKS Bits"
+- "28mm ORKS Bits"
+- "IMP ORKS Bits"
+- "28mm IMP ORKS Bits"
+- "HUMAINS ORKS Bits"
+- "28mm HUMAINS ORKS Bits"
+- "IMP HUMAINS ORKS Bits"
+- "40k-armes-diverses Bits"
+- "28mm 40k-armes-diverses Bits"
+- "IMP 40k-armes-diverses Bits"
+- "28mm IMP 40k-armes-diverses Bits"
+- "HUMAINS 40k-armes-diverses Bits"
+- "28mm HUMAINS 40k-armes-diverses Bits"
+- "IMP HUMAINS 40k-armes-diverses Bits"
+- "ORKS 40k-armes-diverses Bits"
+- "28mm ORKS 40k-armes-diverses Bits"
+- "IMP ORKS 40k-armes-diverses Bits"
+- "HUMAINS ORKS 40k-armes-diverses Bits"
+- "Builders"
+- "28mm Builders"
+- "IMP Builders"
+- "28mm IMP Builders"
+- "HUMAINS Builders"
+- "28mm HUMAINS Builders"
+- "IMP HUMAINS Builders"
+- "28mm IMP HUMAINS Builders"
+- "ORKS Builders"
+- "28mm ORKS Builders"
+- "IMP ORKS Builders"
+- "28mm IMP ORKS Builders"
+- "HUMAINS ORKS Builders"
+- "28mm HUMAINS ORKS Builders"
+- "IMP HUMAINS ORKS Builders"
+- "40k-armes-diverses Builders"
+- "28mm 40k-armes-diverses Builders"
+- "IMP 40k-armes-diverses Builders"
+- "28mm IMP 40k-armes-diverses Builders"
+- "HUMAINS 40k-armes-diverses Builders"
+- "28mm HUMAINS 40k-armes-diverses Builders"
+- "IMP HUMAINS 40k-armes-diverses Builders"
+- "ORKS 40k-armes-diverses Builders"
+- "28mm ORKS 40k-armes-diverses Builders"
+- "IMP ORKS 40k-armes-diverses Builders"
+- "HUMAINS ORKS 40k-armes-diverses Builders"
+- "Bits Builders"
+- "28mm Bits Builders"
+- "IMP Bits Builders"
+- "28mm IMP Bits Builders"
+- "HUMAINS Bits Builders"
+- "28mm HUMAINS Bits Builders"
+- "IMP HUMAINS Bits Builders"
+- "ORKS Bits Builders"
+- "28mm ORKS Bits Builders"
+- "IMP ORKS Bits Builders"
+- "HUMAINS ORKS Bits Builders"
+- "40k-armes-diverses Bits Builders"
+- "28mm 40k-armes-diverses Bits Builders"
+- "IMP 40k-armes-diverses Bits Builders"
+- "HUMAINS 40k-armes-diverses Bits Builders"
+- "ORKS 40k-armes-diverses Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "IMP NONDL"
+- "28mm IMP NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "28mm IMP HUMAINS NONDL"
+- "ORKS NONDL"
+- "28mm ORKS NONDL"
+- "IMP ORKS NONDL"
+- "28mm IMP ORKS NONDL"
+- "HUMAINS ORKS NONDL"
+- "28mm HUMAINS ORKS NONDL"
+- "IMP HUMAINS ORKS NONDL"
+- "40k-armes-diverses NONDL"
+- "28mm 40k-armes-diverses NONDL"
+- "IMP 40k-armes-diverses NONDL"
+- "28mm IMP 40k-armes-diverses NONDL"
+- "HUMAINS 40k-armes-diverses NONDL"
+- "28mm HUMAINS 40k-armes-diverses NONDL"
+- "IMP HUMAINS 40k-armes-diverses NONDL"
+- "ORKS 40k-armes-diverses NONDL"
+- "28mm ORKS 40k-armes-diverses NONDL"
+- "IMP ORKS 40k-armes-diverses NONDL"
+- "HUMAINS ORKS 40k-armes-diverses NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "IMP Bits NONDL"
+- "28mm IMP Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "IMP HUMAINS Bits NONDL"
+- "ORKS Bits NONDL"
+- "28mm ORKS Bits NONDL"
+- "IMP ORKS Bits NONDL"
+- "HUMAINS ORKS Bits NONDL"
+- "40k-armes-diverses Bits NONDL"
+- "28mm 40k-armes-diverses Bits NONDL"
+- "IMP 40k-armes-diverses Bits NONDL"
+- "HUMAINS 40k-armes-diverses Bits NONDL"
+- "ORKS 40k-armes-diverses Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "IMP Builders NONDL"
+- "28mm IMP Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "IMP HUMAINS Builders NONDL"
+- "ORKS Builders NONDL"
+- "28mm ORKS Builders NONDL"
+- "IMP ORKS Builders NONDL"
+- "HUMAINS ORKS Builders NONDL"
+- "40k-armes-diverses Builders NONDL"
+- "28mm 40k-armes-diverses Builders NONDL"
+- "IMP 40k-armes-diverses Builders NONDL"
+- "HUMAINS 40k-armes-diverses Builders NONDL"
+- "ORKS 40k-armes-diverses Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "IMP Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "ORKS Bits Builders NONDL"
+- "40k-armes-diverses Bits Builders NONDL"
+- "NONSUP"
+- "28mm NONSUP"
+- "IMP NONSUP"
+- "28mm IMP NONSUP"
+- "HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "28mm IMP HUMAINS NONSUP"
+- "ORKS NONSUP"
+- "28mm ORKS NONSUP"
+- "IMP ORKS NONSUP"
+- "28mm IMP ORKS NONSUP"
+- "HUMAINS ORKS NONSUP"
+- "28mm HUMAINS ORKS NONSUP"
+- "IMP HUMAINS ORKS NONSUP"
+- "40k-armes-diverses NONSUP"
+- "28mm 40k-armes-diverses NONSUP"
+- "IMP 40k-armes-diverses NONSUP"
+- "28mm IMP 40k-armes-diverses NONSUP"
+- "HUMAINS 40k-armes-diverses NONSUP"
+- "28mm HUMAINS 40k-armes-diverses NONSUP"
+- "IMP HUMAINS 40k-armes-diverses NONSUP"
+- "ORKS 40k-armes-diverses NONSUP"
+- "28mm ORKS 40k-armes-diverses NONSUP"
+- "IMP ORKS 40k-armes-diverses NONSUP"
+- "HUMAINS ORKS 40k-armes-diverses NONSUP"
+- "Bits NONSUP"
+- "28mm Bits NONSUP"
+- "IMP Bits NONSUP"
+- "28mm IMP Bits NONSUP"
+- "HUMAINS Bits NONSUP"
+- "28mm HUMAINS Bits NONSUP"
+- "IMP HUMAINS Bits NONSUP"
+- "ORKS Bits NONSUP"
+- "28mm ORKS Bits NONSUP"
+- "IMP ORKS Bits NONSUP"
+- "HUMAINS ORKS Bits NONSUP"
+- "40k-armes-diverses Bits NONSUP"
+- "28mm 40k-armes-diverses Bits NONSUP"
+- "IMP 40k-armes-diverses Bits NONSUP"
+- "HUMAINS 40k-armes-diverses Bits NONSUP"
+- "ORKS 40k-armes-diverses Bits NONSUP"
+- "Builders NONSUP"
+- "28mm Builders NONSUP"
+- "IMP Builders NONSUP"
+- "28mm IMP Builders NONSUP"
+- "HUMAINS Builders NONSUP"
+- "28mm HUMAINS Builders NONSUP"
+- "IMP HUMAINS Builders NONSUP"
+- "ORKS Builders NONSUP"
+- "28mm ORKS Builders NONSUP"
+- "IMP ORKS Builders NONSUP"
+- "HUMAINS ORKS Builders NONSUP"
+- "40k-armes-diverses Builders NONSUP"
+- "28mm 40k-armes-diverses Builders NONSUP"
+- "IMP 40k-armes-diverses Builders NONSUP"
+- "HUMAINS 40k-armes-diverses Builders NONSUP"
+- "ORKS 40k-armes-diverses Builders NONSUP"
+- "Bits Builders NONSUP"
+- "28mm Bits Builders NONSUP"
+- "IMP Bits Builders NONSUP"
+- "HUMAINS Bits Builders NONSUP"
+- "ORKS Bits Builders NONSUP"
+- "40k-armes-diverses Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "28mm IMP NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "IMP HUMAINS NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "28mm ORKS NONDL NONSUP"
+- "IMP ORKS NONDL NONSUP"
+- "HUMAINS ORKS NONDL NONSUP"
+- "40k-armes-diverses NONDL NONSUP"
+- "28mm 40k-armes-diverses NONDL NONSUP"
+- "IMP 40k-armes-diverses NONDL NONSUP"
+- "HUMAINS 40k-armes-diverses NONDL NONSUP"
+- "ORKS 40k-armes-diverses NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "IMP Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "ORKS Bits NONDL NONSUP"
+- "40k-armes-diverses Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "IMP Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "ORKS Builders NONDL NONSUP"
+- "40k-armes-diverses Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
+
+---
+
+![](<thumbs_-_killian-teamaker-presents-chaos-cultist-close-combat-weapons_-_Images_1.jpg> "thumbs_-_killian-teamaker-presents-chaos-cultist-close-combat-weapons_-_Images_1.jpg")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/game/killian-teamaker-presents-chaos-cultist-close-combat-weapons](https://cults3d.com/en/3d-model/game/killian-teamaker-presents-chaos-cultist-close-combat-weapons)
+
+Id objet : killian-teamaker-presents-chaos-cultist-close-combat-weapons
+
+Prix : 0.0 euros
+
+Collections :
+
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
+
+
+Description :
+
+~~~
+Here are twelve, perhaps crude, though definitely brutal close combat hand-to-hand melee assault weapons.  They are intended to allow give you some extra options and conversion bits for your Chaos Cultists. You do love Chaos Cultists don't you??  Though I think they are generic enough to work for most human sized miniatures in any grim and dark dystopian future setting from undercity gangs, to wasteland scavengers, rebels, organized criminal thugs, and pretty much any kind of poorly equipped ne'er-do-wells up to no good.
+
+Here are the 12 unique weapons:
+
+-- Axe
+-- Club
+-- Hammer1
+-- Hammer2
+-- Knife1
+-- Knife2
+-- Mace
+-- Pick
+-- Pipe
+-- Scimitar
+-- Sword1
+-- Sword2
+
+Each weapon comes in three STL variants:
+1) weapon by itself
+2) weapon held in a right hand
+3) weapon held in a right hand (hand has a nub to socket into wrists)
+
+Knife1 and Knife2 have four variants each, two with the blade held normally and two with the blade held ready to stab.  You can mirror the weapons with hands on them to create left-handed versions. All total that comes to 68 different options. You can use these files for physical or digital conversions as you see fit.  They are also Creative Common Licensed so that you can modify them as you please and then share your own innovations.
+
+Enjoy, and may the Dark Gods favor you.
+
+--------------------------------------
+
+This model wouldn't have been possible without the talent and generosity of these creators:
+
+HAND
+PC Power Button -by- Baugusto
+https://cults3d.com/en/3d-model/gadget/pc-power-button
+
+SKULL
+Space Soldiers Icon Dump -by- Udos3DWorld
+https://cults3d.com/en/3d-model/game/space-soldiers-icon-dump
+~~~
+
+
+
+
