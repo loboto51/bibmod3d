@@ -106,11 +106,9 @@ Happy printing! :D
 
 Justification du tag SUP :
 
-    ~~~
-    - Highway Smasher includes Pre-Supported version
-    
-    ~~~
+- Highway Smasher includes Pre-Supported version
 
-  
+
+
 
 

@@ -100,11 +100,9 @@ original (?!) model https://cults3d.com/en/3d-model/game/starports-dread-pred-8r
 
 Justification du tag SUP :
 
-    ~~~
-    original (?!) model https://cults3d.com/en/3d-model/game/starports-dread-pred-8r-light-tank-supported
-    
-    ~~~
+original (?!) model https://cults3d.com/en/3d-model/game/starports-dread-pred-8r-light-tank-supported
 
-  
+
+
 
 

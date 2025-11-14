@@ -128,11 +128,9 @@ Update: Added a few files for a split hull for smaller printers.
 
 Justification du tag SUP :
 
-    ~~~
-    I recommend paying extra attention to where you place your supports and ensure that the lights are properly supported.
-    
-    ~~~
+I recommend paying extra attention to where you place your supports and ensure that the lights are properly supported.
 
-  
+
+
 
 

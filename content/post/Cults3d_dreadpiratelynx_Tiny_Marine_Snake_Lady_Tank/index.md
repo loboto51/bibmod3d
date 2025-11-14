@@ -101,22 +101,14 @@ Medusa Siege Gun: [Epic Scaled Self-Propelled Artillery] (https://cults3d.com/en
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa1A_chitubox_.jpg
+
+ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa1A_chitubox_.jpg
 ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa1B_chitubox_.jpg
 ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa2A_chitubox_.jpg
 ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa2B_chitubox_.jpg
 ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa3A_chitubox_.jpg
 ImagesSTL_-_epiclegionmedusa_zip_unpack_Supported__epiclegionmedusa3B_chitubox_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa1A_stl_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa1B_stl_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa2A_stl_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa2B_stl_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa3A_stl_.jpg
-ImagesSTL_-_epiclegionmedusa_zip_unpack_Unsupported_epiclegionmedusa3B_stl_.jpg
-    ~~~
 
-  
+
 
 

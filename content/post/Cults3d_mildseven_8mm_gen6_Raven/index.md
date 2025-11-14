@@ -69,9 +69,8 @@ Free sample, 8 models, merged, unmerged, and pre-supported.
 
 Justification du tag SUP :
 
-    ~~~
-    Free sample, 8 models, merged, unmerged, and pre-supported.
-    ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__1b_stl_.jpg
+Free sample, 8 models, merged, unmerged, and pre-supported.
+ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__1b_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__2b_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__3b_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__4b_stl_.jpg
@@ -79,8 +78,7 @@ ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__5b_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__6hb_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__7rpg_stl_.jpg
 ImagesSTL_-_mk6_corvus_zip_unpack_mk6_corvus_sup__8sgt_stl_.jpg
-    ~~~
 
-  
+
 
 

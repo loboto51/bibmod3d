@@ -115,12 +115,10 @@ Added the unsupported Shoulder Platelate for 8mm as a customer let me know I had
 
 Justification du tag SUP :
 
-    ~~~
-    Added Supported Versions of the 8mm Scale Parts suitable for printing on Photon/Mars Sized Printers (Superfine Supports). Includes Hull Beamer Type A, Armour and Main Beamer Body.
+Added Supported Versions of the 8mm Scale Parts suitable for printing on Photon/Mars Sized Printers (Superfine Supports). Includes Hull Beamer Type A, Armour and Main Beamer Body.
 Added the unsupported Shoulder Platelate for 8mm as a customer let me know I had forgotten to include it.
-    
-    ~~~
 
-  
+
+
 
 

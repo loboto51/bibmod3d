@@ -143,11 +143,9 @@ Successfully printed and pre supported
 
 Justification du tag SUP :
 
-    ~~~
-    Successfully printed and pre supported
-    
-    ~~~
+Successfully printed and pre supported
 
-  
+
+
 
 

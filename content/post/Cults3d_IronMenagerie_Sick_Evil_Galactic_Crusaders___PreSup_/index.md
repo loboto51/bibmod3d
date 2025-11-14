@@ -154,12 +154,9 @@ Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you ca
 
 Justification du tag SUP :
 
-    ~~~
-    Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you call them, they are small.
-    ImagesSTL_-_sick-evil-galactic-crusaders-presup20251025-1-y0llm4_zip_unpack_IronMenagerie_sick-evil-galactic-crusaders-presup_PreSupFreeStyle_Actually_Fixed__stl_.jpg
-ImagesSTL_-_sick-evil-galactic-crusaders-presup20251025-1-y0llm4_zip_unpack_IronMenagerie_sick-evil-galactic-crusaders-presup_PreSupTestExact_stl_.jpg
-    ~~~
+Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you call them, they are small.
 
-  
+
+
 
 

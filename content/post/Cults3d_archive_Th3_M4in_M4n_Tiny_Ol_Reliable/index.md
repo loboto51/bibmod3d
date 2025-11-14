@@ -48,11 +48,9 @@ Im also preparing some rules to use all these variants in game, but first i will
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_OlReliable_zip_unpack_OlReliable_sup_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_OlReliable_zip_unpack_OlReliable_sup_stl_.jpg
+
+
 
 

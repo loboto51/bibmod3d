@@ -100,11 +100,9 @@ hope you enjoy and let me know what you think
 
 Justification du tag SUP :
 
-    ~~~
-    It comes with the base with the body and each leg as separate parts. Added the unsupported rar file if you so wish to support the models.
-    
-    ~~~
+It comes with the base with the body and each leg as separate parts. Added the unsupported rar file if you so wish to support the models.
 
-  
+
+
 
 

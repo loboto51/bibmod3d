@@ -99,11 +99,9 @@ Included both supported and unsupported parts.
 
 Justification du tag SUP :
 
-    ~~~
-    Included both supported and unsupported parts.
-    
-    ~~~
+Included both supported and unsupported parts.
 
-  
+
+
 
 

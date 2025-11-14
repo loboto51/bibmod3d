@@ -98,11 +98,9 @@ Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you ca
 
 Justification du tag SUP :
 
-    ~~~
-    Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you call them, they are small.
-    
-    ~~~
+Presupported and tested, unmerged and fragile. 1/4 or 8mm scale, whatever you call them, they are small.
 
-  
+
+
 
 

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ankylo > TinyEvilCommander_1 [non dl]"
+title: "[BON-MARCHE] Cults3d > Ankylo > TinyEvilCommander_1 [non dl]"
 date: "2024-05-03T08:31:58Z"
 toc: true
 image: "thumbs_-_tinyevilcommander-1_-_Images_1.jpg"
@@ -304,11 +304,9 @@ Thank you for your support.
 
 Justification du tag SUP :
 
-    ~~~
-    The file contains the TinyEvilCommander in two versions (unsupported + pre-supported).
-    
-    ~~~
+The file contains the TinyEvilCommander in two versions (unsupported + pre-supported).
 
-  
+
+
 
 

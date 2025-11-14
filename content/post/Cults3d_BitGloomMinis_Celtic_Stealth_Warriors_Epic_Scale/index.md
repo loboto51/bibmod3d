@@ -350,11 +350,9 @@ Update 1 - 5 man pre-supported models are inside the pack now, under the folder 
 
 Justification du tag SUP :
 
-    ~~~
-    Update 1 - 5 man pre-supported models are inside the pack now, under the folder supported. Haven't supported individual models because... Does anyone print people in this scale individually?
-    
-    ~~~
+Update 1 - 5 man pre-supported models are inside the pack now, under the folder supported. Haven't supported individual models because... Does anyone print people in this scale individually?
 
-  
+
+
 
 

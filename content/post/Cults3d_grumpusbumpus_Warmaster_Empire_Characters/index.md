@@ -58,11 +58,9 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_warmaster-empire-characters20210212-31403-6dbxku_zip_unpack_grumpusbumpus_warmaster-empire-characters_leaders-supported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_warmaster-empire-characters20210212-31403-6dbxku_zip_unpack_grumpusbumpus_warmaster-empire-characters_leaders-supported_stl_.jpg
+
+
 
 

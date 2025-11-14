@@ -93,11 +93,9 @@ This set contains a single pose of each of the 3 special weapon options, and the
 
 Justification du tag SUP :
 
-    ~~~
-    This set contains a single pose of each of the 3 special weapon options, and they are unsupported. If you want ALL of the poses, and PRE-SUPPORTED files you can get them for a very small price here: https://cults3d.com/en/3d-model/game/archaic-void-troopers-special-weapons-15mm
-    
-    ~~~
+This set contains a single pose of each of the 3 special weapon options, and they are unsupported. If you want ALL of the poses, and PRE-SUPPORTED files you can get them for a very small price here: https://cults3d.com/en/3d-model/game/archaic-void-troopers-special-weapons-15mm
 
-  
+
+
 
 

@@ -21,21 +21,21 @@ tags:
 - "epic SMC SM-tactiques"
 - "infanterie SMC SM-tactiques"
 - "epic infanterie SMC SM-tactiques"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMC SUP"
-- "epic SMC SUP"
-- "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
-- "SM-tactiques SUP"
-- "epic SM-tactiques SUP"
-- "infanterie SM-tactiques SUP"
-- "epic infanterie SM-tactiques SUP"
-- "SMC SM-tactiques SUP"
-- "epic SMC SM-tactiques SUP"
-- "infanterie SMC SM-tactiques SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMC NONSUP"
+- "epic SMC NONSUP"
+- "infanterie SMC NONSUP"
+- "epic infanterie SMC NONSUP"
+- "SM-tactiques NONSUP"
+- "epic SM-tactiques NONSUP"
+- "infanterie SM-tactiques NONSUP"
+- "epic infanterie SM-tactiques NONSUP"
+- "SMC SM-tactiques NONSUP"
+- "epic SMC SM-tactiques NONSUP"
+- "infanterie SMC SM-tactiques NONSUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMC SM-tactiques  SUP
+- epic infanterie SMC SM-tactiques  NONSUP
 
 
 Description :
@@ -77,13 +77,6 @@ LoggyK for the shoulder pads
 LoggyK, BlueArrow, BREXIT, KarnageKing and James-McCloud for the Helmets
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_evil-marines-galactic-crusaders-plate-armour-remix20210224-19961-2nhxq4_zip_unpack_EpicRich_evil-marines-galactic-crusaders-plate-armour-remix_Chaos_Space_Marines_Troops_Supp_stl_.jpg
-    ~~~
-
-  
 
 

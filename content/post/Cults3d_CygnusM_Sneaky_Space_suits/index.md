@@ -106,11 +106,9 @@ Suitable for 6-8 mm gaming
 
 Justification du tag SUP :
 
-    ~~~
-    I have included unsupported files as well as supported files should you prefer to support all 16 poses yourself.
-    
-    ~~~
+I have included unsupported files as well as supported files should you prefer to support all 16 poses yourself.
 
-  
+
+
 
 

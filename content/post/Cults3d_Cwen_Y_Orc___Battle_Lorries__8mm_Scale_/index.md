@@ -147,9 +147,8 @@ https://cults3d.com/en/users/deaallen/3d-models
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Big_cannon_ammo_stl_.jpg
+
+ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Big_cannon_ammo_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Big_cannon_platform_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Big_cannon_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Big_gun_turret_stl_.jpg
@@ -174,8 +173,7 @@ ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Rear_gunner_2_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Roof_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Roof_-_Turret_mount_stl_.jpg
 ImagesSTL_-_Battle_Lorry_zip_unpack_Supported_Small_gun_turret_stl_.jpg
-    ~~~
 
-  
+
 
 

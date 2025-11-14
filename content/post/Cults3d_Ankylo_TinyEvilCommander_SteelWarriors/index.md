@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ankylo > TinyEvilCommander_SteelWarriors [non dl]"
+title: "[BON-MARCHE] Cults3d > Ankylo > TinyEvilCommander_SteelWarriors [non dl]"
 date: "2025-03-10T18:00:39Z"
 toc: true
 image: "thumbs_-_tinyevilcommander-steelwarriors_-_Images_1.jpg"
@@ -296,11 +296,9 @@ Thank you for your support and Happy printing!!
 
 Justification du tag SUP :
 
-    ~~~
-    This file contains two TinyEvilCommander-STLs. One is un-supported, the other pre-supported.
-    
-    ~~~
+This file contains two TinyEvilCommander-STLs. One is un-supported, the other pre-supported.
 
-  
+
+
 
 

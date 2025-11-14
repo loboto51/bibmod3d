@@ -101,11 +101,9 @@ suitable for 6 mm games
 
 Justification du tag SUP :
 
-    ~~~
-    a bit, should you find the original a bit too big. Supported and none supported
-    
-    ~~~
+a bit, should you find the original a bit too big. Supported and none supported
 
-  
+
+
 
 

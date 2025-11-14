@@ -137,11 +137,9 @@ Unsupported and Pre-Supported  (wip ... may need extra depending on your setting
 
 Justification du tag SUP :
 
-    ~~~
-    Unsupported and Pre-Supported  (wip ... may need extra depending on your settings, printer, and resin!)
-    
-    ~~~
+Unsupported and Pre-Supported  (wip ... may need extra depending on your settings, printer, and resin!)
 
-  
+
+
 
 

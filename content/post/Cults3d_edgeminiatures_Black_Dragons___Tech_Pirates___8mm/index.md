@@ -313,11 +313,9 @@ Happy raiding!
 
 Justification du tag SUP :
 
-    ~~~
-    Supported, unsupported and Chitubox Files Included.
-    
-    ~~~
+Supported, unsupported and Chitubox Files Included.
 
-  
+
+
 
 

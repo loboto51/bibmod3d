@@ -276,11 +276,9 @@ Stay Safe and happy printing
 
 Justification du tag SUP :
 
-    ~~~
-    Comes fully supported, and hollow in both large printers and small printers. This has been test printed many many times to ensure perfect prints consistently.
-    
-    ~~~
+Comes fully supported, and hollow in both large printers and small printers. This has been test printed many many times to ensure perfect prints consistently.
 
-  
+
+
 
 

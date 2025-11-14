@@ -159,13 +159,11 @@ I may revisit at a later date to add a few more weapon options, but its not high
 
 Justification du tag SUP :
 
-    ~~~
-    All files come supported and have been test printed successfully.
-    ImagesSTL_-_iron-warriors-dominators-tyrants-6-8mm20211105-30440-1knig47_zip_unpack_Exploding_Pineapple_iron-warriors-dominators-tyrants-6-8mm_SUP_Dominators_stl_.jpg
+All files come supported and have been test printed successfully.
+ImagesSTL_-_iron-warriors-dominators-tyrants-6-8mm20211105-30440-1knig47_zip_unpack_Exploding_Pineapple_iron-warriors-dominators-tyrants-6-8mm_SUP_Dominators_stl_.jpg
 ImagesSTL_-_iron-warriors-dominators-tyrants-6-8mm20211105-30440-1knig47_zip_unpack_Exploding_Pineapple_iron-warriors-dominators-tyrants-6-8mm_SUP_TyrantsPW_stl_.jpg
 ImagesSTL_-_iron-warriors-dominators-tyrants-6-8mm20211105-30440-1knig47_zip_unpack_Exploding_Pineapple_iron-warriors-dominators-tyrants-6-8mm_SUP_Tyrants_stl_.jpg
-    ~~~
 
-  
+
 
 

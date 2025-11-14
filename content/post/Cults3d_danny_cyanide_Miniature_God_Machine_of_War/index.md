@@ -21,21 +21,21 @@ tags:
 - "epic IMP Admech-titans-warlords"
 - "titans IMP Admech-titans-warlords"
 - "epic titans IMP Admech-titans-warlords"
-- "SUP"
-- "epic SUP"
-- "titans SUP"
-- "epic titans SUP"
-- "IMP SUP"
-- "epic IMP SUP"
-- "titans IMP SUP"
-- "epic titans IMP SUP"
-- "Admech-titans-warlords SUP"
-- "epic Admech-titans-warlords SUP"
-- "titans Admech-titans-warlords SUP"
-- "epic titans Admech-titans-warlords SUP"
-- "IMP Admech-titans-warlords SUP"
-- "epic IMP Admech-titans-warlords SUP"
-- "titans IMP Admech-titans-warlords SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "titans NONSUP"
+- "epic titans NONSUP"
+- "IMP NONSUP"
+- "epic IMP NONSUP"
+- "titans IMP NONSUP"
+- "epic titans IMP NONSUP"
+- "Admech-titans-warlords NONSUP"
+- "epic Admech-titans-warlords NONSUP"
+- "titans Admech-titans-warlords NONSUP"
+- "epic titans Admech-titans-warlords NONSUP"
+- "IMP Admech-titans-warlords NONSUP"
+- "epic IMP Admech-titans-warlords NONSUP"
+- "titans IMP Admech-titans-warlords NONSUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans IMP Admech-titans-warlords  SUP
+- epic titans IMP Admech-titans-warlords  NONSUP
 
 
 Description :
@@ -85,14 +85,6 @@ The Power fist was designed by jimsbeanz:
 https://www.thingiverse.com/thing:4083565
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_miniature-god-machine-of-war20200328-8111-x0ufpd_zip_unpack_danny_cyanide_miniature-god-machine-of-war_40k_Ankle_Support_x8_stl_.jpg
-ImagesSTL_-_miniature-god-machine-of-war20200328-8111-x0ufpd_zip_unpack_danny_cyanide_miniature-god-machine-of-war_Tiny_God_Machine_rar_unpack_40k_Ankle_Support_x8_stl_.jpg
-    ~~~
-
-  
 
 

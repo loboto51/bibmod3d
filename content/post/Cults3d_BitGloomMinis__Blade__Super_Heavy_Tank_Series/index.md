@@ -21,21 +21,21 @@ tags:
 - "epic GI Baneblades-canon-court-arrière"
 - "superlourds GI Baneblades-canon-court-arrière"
 - "epic superlourds GI Baneblades-canon-court-arrière"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades-canon-court-arrière SUP"
-- "epic Baneblades-canon-court-arrière SUP"
-- "superlourds Baneblades-canon-court-arrière SUP"
-- "epic superlourds Baneblades-canon-court-arrière SUP"
-- "GI Baneblades-canon-court-arrière SUP"
-- "epic GI Baneblades-canon-court-arrière SUP"
-- "superlourds GI Baneblades-canon-court-arrière SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades-canon-court-arrière NONSUP"
+- "epic Baneblades-canon-court-arrière NONSUP"
+- "superlourds Baneblades-canon-court-arrière NONSUP"
+- "epic superlourds Baneblades-canon-court-arrière NONSUP"
+- "GI Baneblades-canon-court-arrière NONSUP"
+- "epic GI Baneblades-canon-court-arrière NONSUP"
+- "superlourds GI Baneblades-canon-court-arrière NONSUP"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -51,21 +51,21 @@ tags:
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
 - "epic superlourds GI Baneblades-canon-long"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades-canon-long SUP"
-- "epic Baneblades-canon-long SUP"
-- "superlourds Baneblades-canon-long SUP"
-- "epic superlourds Baneblades-canon-long SUP"
-- "GI Baneblades-canon-long SUP"
-- "epic GI Baneblades-canon-long SUP"
-- "superlourds GI Baneblades-canon-long SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades-canon-long NONSUP"
+- "epic Baneblades-canon-long NONSUP"
+- "superlourds Baneblades-canon-long NONSUP"
+- "epic superlourds Baneblades-canon-long NONSUP"
+- "GI Baneblades-canon-long NONSUP"
+- "epic GI Baneblades-canon-long NONSUP"
+- "superlourds GI Baneblades-canon-long NONSUP"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -81,21 +81,21 @@ tags:
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
 - "epic superlourds GI Baneblades"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades SUP"
-- "epic Baneblades SUP"
-- "superlourds Baneblades SUP"
-- "epic superlourds Baneblades SUP"
-- "GI Baneblades SUP"
-- "epic GI Baneblades SUP"
-- "superlourds GI Baneblades SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades NONSUP"
+- "epic Baneblades NONSUP"
+- "superlourds Baneblades NONSUP"
+- "epic superlourds Baneblades NONSUP"
+- "GI Baneblades NONSUP"
+- "epic GI Baneblades NONSUP"
+- "superlourds GI Baneblades NONSUP"
 
 ---
 
@@ -120,9 +120,9 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-court-arrière  SUP
-- epic superlourds GI Baneblades-canon-long  SUP
-- epic superlourds GI Baneblades  SUP
+- epic superlourds GI Baneblades-canon-court-arrière  NONSUP
+- epic superlourds GI Baneblades-canon-long  NONSUP
+- epic superlourds GI Baneblades  NONSUP
 
 
 Description :
@@ -147,35 +147,6 @@ You also get a hatch part that can be installed if you don't want a turret there
 Anyway, enjoy, thanks for reading :)
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Armour_Piece_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Deathblade_Hull_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Left_Sponson_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Quakeblade_Hull_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Right_Sponson_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Shadowblade_Hull_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Sponson_Hatch_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Sponson_Turret_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Thunderblade_Hull_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Turret_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Turret_Turret_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Underslung_Turret_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Death_Cannon_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Hell_Cannon_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Cannon_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Flamethrowers_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Laser_Cannon_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Machine_Guns_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Turret_Cannon_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Turret_Laser_Cannon_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Sponson_Turret_Machineguns_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Underslung_Turret_Flamethrower_6mm_stl_.jpg
-ImagesSTL_-_Blade_Super_Heavy_Tank_zip_unpack_Blade_Super_Heavy_Tank_Weapons_Underslung_Turret_Machinegun_6mm_stl_.jpg
-    ~~~
-
-  
 
 

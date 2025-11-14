@@ -67,11 +67,9 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    25mm base for epic scale Galactic Crusaders! 2mm thick. Supported and unsupported versions.
-    
-    ~~~
+25mm base for epic scale Galactic Crusaders! 2mm thick. Supported and unsupported versions.
 
-  
+
+
 
 

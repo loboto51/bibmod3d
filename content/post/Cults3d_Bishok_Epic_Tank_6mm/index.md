@@ -21,21 +21,21 @@ tags:
 - "epic ORKS Orks-tanks"
 - "vehicules ORKS Orks-tanks"
 - "epic vehicules ORKS Orks-tanks"
-- "SUP"
-- "epic SUP"
-- "vehicules SUP"
-- "epic vehicules SUP"
-- "ORKS SUP"
-- "epic ORKS SUP"
-- "vehicules ORKS SUP"
-- "epic vehicules ORKS SUP"
-- "Orks-tanks SUP"
-- "epic Orks-tanks SUP"
-- "vehicules Orks-tanks SUP"
-- "epic vehicules Orks-tanks SUP"
-- "ORKS Orks-tanks SUP"
-- "epic ORKS Orks-tanks SUP"
-- "vehicules ORKS Orks-tanks SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "vehicules NONSUP"
+- "epic vehicules NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "vehicules ORKS NONSUP"
+- "epic vehicules ORKS NONSUP"
+- "Orks-tanks NONSUP"
+- "epic Orks-tanks NONSUP"
+- "vehicules Orks-tanks NONSUP"
+- "epic vehicules Orks-tanks NONSUP"
+- "ORKS Orks-tanks NONSUP"
+- "epic ORKS Orks-tanks NONSUP"
+- "vehicules ORKS Orks-tanks NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules ORKS Orks-tanks  SUP
+- epic vehicules ORKS Orks-tanks  NONSUP
 
 
 Description :
@@ -76,14 +76,6 @@ Find the whole collection here
 https://www.myminifactory.com/frontier/raider-of-cendre-6mm-army-1587
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Raider_of_Cendre-_promotionnal-tank_zip_unpack_STL-Support__Hull_stl_.jpg
-ImagesSTL_-_Raider_of_Cendre-_promotionnal-tank_zip_unpack_STL-Support__Turret_stl_.jpg
-    ~~~
-
-  
 
 

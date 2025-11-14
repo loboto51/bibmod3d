@@ -140,11 +140,9 @@ cornivius for the braziers
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Evil Marines biker command. Includes Sorcerer, Lord, Dark Apostle and Icon Bearer. Pre supported
-    
-    ~~~
+Epic scale Evil Marines biker command. Includes Sorcerer, Lord, Dark Apostle and Icon Bearer. Pre supported
 
-  
+
+
 
 

@@ -69,11 +69,9 @@ Suitable for a carapace weapon for your beaver warmachine.  Also has supported o
 
 Justification du tag SUP :
 
-    ~~~
-    Suitable for a carapace weapon for your beaver warmachine.  Also has supported option.
-    ImagesSTL_-_epic-chaotic-warp-rocket-rack-reever-variant20230327-68276-l831rk_zip_unpack_Darkartminiatures_epic-chaotic-warp-rocket-rack-reever-variant_reeverwarprockets-supported_stl_.jpg
-    ~~~
+Suitable for a carapace weapon for your beaver warmachine.  Also has supported option.
+ImagesSTL_-_epic-chaotic-warp-rocket-rack-reever-variant20230327-68276-l831rk_zip_unpack_Darkartminiatures_epic-chaotic-warp-rocket-rack-reever-variant_reeverwarprockets-supported_stl_.jpg
 
-  
+
 
 

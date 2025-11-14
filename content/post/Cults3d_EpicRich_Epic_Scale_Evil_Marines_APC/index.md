@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > EpicRich > Epic_Scale_Evil_Marines_APC [non dl]"
+title: "[GRATUIT] Cults3d > EpicRich > Epic_Scale_Evil_Marines_APC [dl]"
 date: "2021-08-24T23:04:44Z"
 toc: true
 image: "thumbs_-_epic-scale-evil-marines-apc_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic SMC Rhinos"
 - "vehicules SMC Rhinos"
 - "epic vehicules SMC Rhinos"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "vehicules SMC NONDL"
-- "epic vehicules SMC NONDL"
-- "Rhinos NONDL"
-- "epic Rhinos NONDL"
-- "vehicules Rhinos NONDL"
-- "epic vehicules Rhinos NONDL"
-- "SMC Rhinos NONDL"
-- "epic SMC Rhinos NONDL"
-- "vehicules SMC Rhinos NONDL"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -51,17 +36,6 @@ tags:
 - "SMC Rhinos SUP"
 - "epic SMC Rhinos SUP"
 - "vehicules SMC Rhinos SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "vehicules NONDL SUP"
-- "epic vehicules NONDL SUP"
-- "SMC NONDL SUP"
-- "epic SMC NONDL SUP"
-- "vehicules SMC NONDL SUP"
-- "Rhinos NONDL SUP"
-- "epic Rhinos NONDL SUP"
-- "vehicules Rhinos NONDL SUP"
-- "SMC Rhinos NONDL SUP"
 
 ---
 
@@ -82,7 +56,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules SMC Rhinos NONDL SUP
+- epic vehicules SMC Rhinos  SUP
 
 
 Description :
@@ -99,11 +73,9 @@ https://www.thingiverse.com/thing:4277183
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Evil Marines APC. Includes 2 version with different front spikes and both supported and unsupported. Added extra details like gun, smoke launchers, and spikes.
-    
-    ~~~
+Epic scale Evil Marines APC. Includes 2 version with different front spikes and both supported and unsupported. Added extra details like gun, smoke launchers, and spikes.
 
-  
+
+
 
 

@@ -46,11 +46,9 @@ Wraiths for a 10mm scale fantasy army.  These should be printed on a resin print
 
 Justification du tag SUP :
 
-    ~~~
-    Wraiths for a 10mm scale fantasy army.  These should be printed on a resin printer with 0.02mm layer height and supports.  I have included both supported and unsupported miniature strips.
-    
-    ~~~
+Wraiths for a 10mm scale fantasy army.  These should be printed on a resin printer with 0.02mm layer height and supports.  I have included both supported and unsupported miniature strips.
 
-  
+
+
 
 

@@ -156,11 +156,9 @@ You may alter the files for personal use but you are not permitted to share thos
 
 Justification du tag SUP :
 
-    ~~~
-    Here are a select bunch of models Pre-supported and ready to print.
-    
-    ~~~
+Here are a select bunch of models Pre-supported and ready to print.
 
-  
+
+
 
 

@@ -21,21 +21,21 @@ tags:
 - "epic IMP Admech-titans-warhounds"
 - "titans IMP Admech-titans-warhounds"
 - "epic titans IMP Admech-titans-warhounds"
-- "SUP"
-- "epic SUP"
-- "titans SUP"
-- "epic titans SUP"
-- "IMP SUP"
-- "epic IMP SUP"
-- "titans IMP SUP"
-- "epic titans IMP SUP"
-- "Admech-titans-warhounds SUP"
-- "epic Admech-titans-warhounds SUP"
-- "titans Admech-titans-warhounds SUP"
-- "epic titans Admech-titans-warhounds SUP"
-- "IMP Admech-titans-warhounds SUP"
-- "epic IMP Admech-titans-warhounds SUP"
-- "titans IMP Admech-titans-warhounds SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "titans NONSUP"
+- "epic titans NONSUP"
+- "IMP NONSUP"
+- "epic IMP NONSUP"
+- "titans IMP NONSUP"
+- "epic titans IMP NONSUP"
+- "Admech-titans-warhounds NONSUP"
+- "epic Admech-titans-warhounds NONSUP"
+- "titans Admech-titans-warhounds NONSUP"
+- "epic titans Admech-titans-warhounds NONSUP"
+- "IMP Admech-titans-warhounds NONSUP"
+- "epic IMP Admech-titans-warhounds NONSUP"
+- "titans IMP Admech-titans-warhounds NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans IMP Admech-titans-warhounds  SUP
+- epic titans IMP Admech-titans-warhounds  NONSUP
 
 
 Description :
@@ -71,14 +71,6 @@ Credits go to Jimsbeanz and Strog (from memory) whose free files were used to re
 Pre Scaled to fit the plastic kit (as pictured) and the Luc Remix
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_smol-boi-thermal-lance20230704-20543-woowkq_zip_unpack_da_sub00_smol-boi-thermal-lance__Body_Supped_stl_.jpg
-ImagesSTL_-_smol-boi-thermal-lance20230704-20543-woowkq_zip_unpack_da_sub00_smol-boi-thermal-lance__Cowel_Supped_stl_.jpg
-    ~~~
-
-  
 
 

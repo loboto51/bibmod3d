@@ -268,11 +268,9 @@ Thanks to Sebtheis, DaPhysicist, and Jojoba for parts used.
 
 Justification du tag SUP :
 
-    ~~~
-    Provided presupported.
-    
-    ~~~
+Provided presupported.
 
-  
+
+
 
 

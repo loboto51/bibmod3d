@@ -95,12 +95,10 @@ The full version containing 2 more radios, 1 more standard bearer, and the medic
 
 Justification du tag SUP :
 
-    ~~~
-    This set contains 1 radio operator, and 1 standard bearer. (15mm scale, unsupported). 
+This set contains 1 radio operator, and 1 standard bearer. (15mm scale, unsupported). 
 The full version containing 2 more radios, 1 more standard bearer, and the medic (all PRE-SUPPORTED) can be purchased for some pocket change here: https://cults3d.com/en/3d-model/game/archaic-void-troopers-hq-15mm
-    
-    ~~~
 
-  
+
+
 
 

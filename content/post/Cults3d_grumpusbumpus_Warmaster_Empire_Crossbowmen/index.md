@@ -54,12 +54,10 @@ I remixed a pile of different crossbowmen from Thingiverse, scaling them, decima
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_warmaster-empire-crossbowmen20210212-31403-1gttr47_zip_unpack_grumpusbumpus_warmaster-empire-crossbowmen_cbows-thick-supported_stl_.jpg
-ImagesSTL_-_warmaster-empire-crossbowmen20210212-31403-1gttr47_zip_unpack_grumpusbumpus_warmaster-empire-crossbowmen_cbow-strips-supported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_warmaster-empire-crossbowmen20210212-31403-1gttr47_zip_unpack_grumpusbumpus_warmaster-empire-crossbowmen_cbows-thick-supported_stl_.jpg
+ImagesSTL_-_warmaster-empire-crossbowmen20210212-31403-1gttr47_zip_unpack_grumpusbumpus_warmaster-empire-crossbowmen_cbow-strips-supported_stl_.jpg
+
+
 
 

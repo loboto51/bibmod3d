@@ -99,11 +99,9 @@ Files are pre-supported for Resin printer and print-in-place for FDM printer
 
 Justification du tag SUP :
 
-    ~~~
-    Files are pre-supported for Resin printer and print-in-place for FDM printer
-    
-    ~~~
+Files are pre-supported for Resin printer and print-in-place for FDM printer
 
-  
+
+
 
 

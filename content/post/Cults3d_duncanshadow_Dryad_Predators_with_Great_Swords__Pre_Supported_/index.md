@@ -107,12 +107,10 @@ Minds minds.com/Duncan1666
 
 Justification du tag SUP :
 
-    ~~~
-    Dryad Predators with Great Swords (Pre Supported)
+Dryad Predators with Great Swords (Pre Supported)
 Comes with Pre Supported options, Lychee files as well as stl
-    
-    ~~~
 
-  
+
+
 
 

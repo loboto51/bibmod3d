@@ -101,11 +101,9 @@ The Shoulder Plates are the same for both and symmetrical, print twice for both 
 
 Justification du tag SUP :
 
-    ~~~
-    Files included: STL, pre-supported STL & Lychee scene (as a ZIP file -should you want to tweak the supports).
-    
-    ~~~
+Files included: STL, pre-supported STL & Lychee scene (as a ZIP file -should you want to tweak the supports).
 
-  
+
+
 
 

@@ -148,16 +148,14 @@ Ankylo Miniatures
 
 Justification du tag SUP :
 
-    ~~~
-    All strips in two versions: unsupported + pre-supported.
+All strips in two versions: unsupported + pre-supported.
 Additionally you get the stls for the single miniatures (also unsupported + pre-supported) plus three different chariots with crew.
 The complete base package consists of over 40 stls (not counting the supported versions).
 All stls unsupported + pre-supported.
 All stls in unsupported + pre-supported versions.
 - Three different abominations (unsupported and pre-supported) + two casualty markers.
-    
-    ~~~
 
-  
+
+
 
 

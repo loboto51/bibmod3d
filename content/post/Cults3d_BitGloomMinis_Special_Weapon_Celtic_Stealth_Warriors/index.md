@@ -147,11 +147,9 @@ All supported files included.
 
 Justification du tag SUP :
 
-    ~~~
-    All supported files included.
-    
-    ~~~
+All supported files included.
 
-  
+
+
 
 

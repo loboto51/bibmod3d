@@ -99,11 +99,9 @@ Fits most standard flight stands (4mm socket)
 
 Justification du tag SUP :
 
-    ~~~
-    Files are provided unsupported. 
-    
-    ~~~
+Files are provided unsupported. 
 
-  
+
+
 
 

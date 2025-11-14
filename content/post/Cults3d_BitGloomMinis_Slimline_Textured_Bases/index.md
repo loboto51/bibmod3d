@@ -69,11 +69,9 @@ Comes with pre-supported stls too :)
 
 Justification du tag SUP :
 
-    ~~~
-    Comes with pre-supported stls too :)
-    
-    ~~~
+Comes with pre-supported stls too :)
 
-  
+
+
 
 

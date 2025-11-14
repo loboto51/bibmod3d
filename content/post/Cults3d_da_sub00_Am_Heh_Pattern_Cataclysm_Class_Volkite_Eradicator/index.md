@@ -95,11 +95,9 @@ Included are the files to print the main gun assembly plus an Elbow, Upper Arm A
 
 Justification du tag SUP :
 
-    ~~~
-    Included are the files to print the main gun assembly plus an Elbow, Upper Arm Armour, Heraldry Shield, and Upper Arm with 6mmx2mm magnet wells making arm swaps onto your Titanicus Warmaster Titan a breeze. Also includes Pre-supported Versions of the Files (including a plug part for the hollowed Rear Assembly).
-    
-    ~~~
+Included are the files to print the main gun assembly plus an Elbow, Upper Arm Armour, Heraldry Shield, and Upper Arm with 6mmx2mm magnet wells making arm swaps onto your Titanicus Warmaster Titan a breeze. Also includes Pre-supported Versions of the Files (including a plug part for the hollowed Rear Assembly).
 
-  
+
+
 
 

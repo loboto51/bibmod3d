@@ -102,12 +102,10 @@ These are my first full models modeled completely on my own, so if you find any 
 
 Justification du tag SUP :
 
-    ~~~
-    This pack contains 10 unsupported troopers with laser rifles. It also contains 3 pre-supported* samples: 1 plain laser rifle, 1 laser rifle with an attached power cable connected to a fancy backpack, & 1 with submachinegun-ish gun.
+This pack contains 10 unsupported troopers with laser rifles. It also contains 3 pre-supported* samples: 1 plain laser rifle, 1 laser rifle with an attached power cable connected to a fancy backpack, & 1 with submachinegun-ish gun.
 The full set containing unsupported and Pre-Supported versions of all 10 poses of all 3 weapon variants are available here for a small price: https://cults3d.com/en/3d-model/game/archaic-void-troopers-basic-troops-full-set-15mm
-    
-    ~~~
 
-  
+
+
 
 

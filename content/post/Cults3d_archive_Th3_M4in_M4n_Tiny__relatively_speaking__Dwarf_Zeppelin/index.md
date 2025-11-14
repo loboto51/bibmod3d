@@ -9,10 +9,10 @@ tags:
 - "warmaster"
 - "NAINS"
 - "warmaster NAINS"
-- "SUP"
-- "warmaster SUP"
-- "NAINS SUP"
-- "warmaster NAINS SUP"
+- "NONSUP"
+- "warmaster NONSUP"
+- "NAINS NONSUP"
+- "warmaster NAINS NONSUP"
 
 ---
 
@@ -35,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS  SUP
+- warmaster NAINS  NONSUP
 
 
 Description :
@@ -60,17 +60,6 @@ Additionally, the anchors are fragile and may break or not print correctly, as h
 Third, the base: If you are going to print it in PLA, I strongly recommend that you print the rod horizontally, that way you will give it much more resistance than if you print it vertically. I designed it to be inserted into the base from below. On the other hand, if you want to print the base and the rod in resin, I can't do anything other than wish you good luck xD
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_tiny-relatively-speaking-dwarf-zeppelin-juantastic20250630-1-hiejid_zip_unpack_Th3_M4in_M4n_tiny-relatively-speaking-dwarf-zeppelin-juantastic_Pressuported_parts_zip_unpack___Guns_stl_.jpg
-ImagesSTL_-_tiny-relatively-speaking-dwarf-zeppelin-juantastic20250630-1-hiejid_zip_unpack_Th3_M4in_M4n_tiny-relatively-speaking-dwarf-zeppelin-juantastic_Pressuported_parts_zip_unpack___Nose_stl_.jpg
-ImagesSTL_-_tiny-relatively-speaking-dwarf-zeppelin-juantastic20250630-1-hiejid_zip_unpack_Th3_M4in_M4n_tiny-relatively-speaking-dwarf-zeppelin-juantastic_Pressuported_parts_zip_unpack__RudderAndFlaps_stl_.jpg
-ImagesSTL_-_tiny-relatively-speaking-dwarf-zeppelin-juantastic20250630-1-hiejid_zip_unpack_Th3_M4in_M4n_tiny-relatively-speaking-dwarf-zeppelin-juantastic_Pressuported_parts_zip_unpack___Shields_stl_.jpg
-ImagesSTL_-_tiny-relatively-speaking-dwarf-zeppelin-juantastic20250630-1-hiejid_zip_unpack_Th3_M4in_M4n_tiny-relatively-speaking-dwarf-zeppelin-juantastic_Pressuported_parts_zip_unpack__TailPropeller_stl_.jpg
-    ~~~
-
-  
 
 

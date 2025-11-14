@@ -97,11 +97,9 @@ No link for this one anymore but check out Woddish here or on Thingiverse.
 
 Justification du tag SUP :
 
-    ~~~
-    Epic Scale Evil Marines Raiding Tank. Include both supported and unsupported files.
-    
-    ~~~
+Epic Scale Evil Marines Raiding Tank. Include both supported and unsupported files.
 
-  
+
+
 
 

@@ -99,11 +99,9 @@ Despite how it looks, the threading on the barrel and the accelerator coils both
 
 Justification du tag SUP :
 
-    ~~~
-    Despite how it looks, the threading on the barrel and the accelerator coils both are actually designed to print in one piece and be self-supporting when elevated to about 30 degrees or so. Just make sure the rails, piston rods and the actual body of the gun are suitably supported to prevent warping and you should be good to go.
-    
-    ~~~
+Despite how it looks, the threading on the barrel and the accelerator coils both are actually designed to print in one piece and be self-supporting when elevated to about 30 degrees or so. Just make sure the rails, piston rods and the actual body of the gun are suitably supported to prevent warping and you should be good to go.
 
-  
+
+
 
 

@@ -165,11 +165,9 @@ Be sure to follow us on Instagram @dakkadakka.store to not miss any updates!
 
 Justification du tag SUP :
 
-    ~~~
-    2 versions of files are included: pre-supported and unsupported. 
-    
-    ~~~
+2 versions of files are included: pre-supported and unsupported. 
 
-  
+
+
 
 

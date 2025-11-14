@@ -58,11 +58,9 @@ I flattened portions of the figure's tail for gluing to a base, and have include
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_warmaster-empire-emperor-on-dragon20210212-24309-qr1ac0_zip_unpack_grumpusbumpus_warmaster-empire-emperor-on-dragon_karl-franz-supported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_warmaster-empire-emperor-on-dragon20210212-24309-qr1ac0_zip_unpack_grumpusbumpus_warmaster-empire-emperor-on-dragon_karl-franz-supported_stl_.jpg
+
+
 
 

@@ -21,21 +21,21 @@ tags:
 - "epic SMC Sm-Terminators"
 - "infanterie SMC Sm-Terminators"
 - "epic infanterie SMC Sm-Terminators"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
-- "Sm-Terminators NONSUP"
-- "epic Sm-Terminators NONSUP"
-- "infanterie Sm-Terminators NONSUP"
-- "epic infanterie Sm-Terminators NONSUP"
-- "SMC Sm-Terminators NONSUP"
-- "epic SMC Sm-Terminators NONSUP"
-- "infanterie SMC Sm-Terminators NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "infanterie SMC SUP"
+- "epic infanterie SMC SUP"
+- "Sm-Terminators SUP"
+- "epic Sm-Terminators SUP"
+- "infanterie Sm-Terminators SUP"
+- "epic infanterie Sm-Terminators SUP"
+- "SMC Sm-Terminators SUP"
+- "epic SMC Sm-Terminators SUP"
+- "infanterie SMC Sm-Terminators SUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMC Sm-Terminators  NONSUP
+- epic infanterie SMC Sm-Terminators  SUP
 
 
 Description :
@@ -68,6 +68,11 @@ Description :
 ~~~
 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_CSM_TDA__Remix_of_Daffmakes_models__zip_unpack_CSM_TDA_V3_1_chitubox_.jpg
 
 
 

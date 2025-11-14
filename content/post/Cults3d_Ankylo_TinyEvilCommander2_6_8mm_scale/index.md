@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ankylo > TinyEvilCommander2_6_8mm_scale [non dl]"
+title: "[BON-MARCHE] Cults3d > Ankylo > TinyEvilCommander2_6_8mm_scale [non dl]"
 date: "2025-03-17T16:07:37Z"
 toc: true
 image: "thumbs_-_tinyevilcommander2-6-8mm-scale-ankylo_-_Images_1.jpg"
@@ -399,11 +399,9 @@ Thank you for your support and happy printing.
 
 Justification du tag SUP :
 
-    ~~~
-    Unsupported and pre-supported.
-    
-    ~~~
+Unsupported and pre-supported.
 
-  
+
+
 
 

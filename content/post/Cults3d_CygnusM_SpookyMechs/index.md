@@ -103,11 +103,9 @@ Thanks to Draconian mini painting for the awesome white Suit!
 
 Justification du tag SUP :
 
-    ~~~
-    Unsupported as well as pre-supported files are included.
-    
-    ~~~
+Unsupported as well as pre-supported files are included.
 
-  
+
+
 
 

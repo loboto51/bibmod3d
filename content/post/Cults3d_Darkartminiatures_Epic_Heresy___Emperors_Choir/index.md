@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Darkartminiatures > Epic_Heresy___Emperors_Choir [non dl]"
+title: "[BON-MARCHE] Cults3d > Darkartminiatures > Epic_Heresy___Emperors_Choir [non dl]"
 date: "2022-10-27T15:49:43Z"
 toc: true
 image: "thumbs_-_epic-heresy-emperors-choir_-_Images_1.jpg"
@@ -161,11 +161,9 @@ Note: these files are for personal use ONLY and not to be used for commercial us
 
 Justification du tag SUP :
 
-    ~~~
-    This STL pack comes with unsupported, pre-supported and Lychee files.
-    
-    ~~~
+This STL pack comes with unsupported, pre-supported and Lychee files.
 
-  
+
+
 
 

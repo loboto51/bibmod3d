@@ -103,11 +103,9 @@ Updated - Added Pre-supported files. As a word of caution I used the same suppor
 
 Justification du tag SUP :
 
-    ~~~
-    Updated - Added Pre-supported files. As a word of caution I used the same supports I printed in on my finely tweaked Photon and Saturn. You may need to lower your lift speeds to avoid ripping the parts off the supports.
-    
-    ~~~
+Updated - Added Pre-supported files. As a word of caution I used the same supports I printed in on my finely tweaked Photon and Saturn. You may need to lower your lift speeds to avoid ripping the parts off the supports.
 
-  
+
+
 
 

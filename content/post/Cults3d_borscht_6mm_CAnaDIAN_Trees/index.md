@@ -140,11 +140,9 @@ https://cults3d.com/en/3d-model/game/epic-scale-special-forces
 
 Justification du tag SUP :
 
-    ~~~
-    As supported, a single print on an Elegoo Mars can yield up to 80 5-man units for your wargaming in the distant future!
-    
-    ~~~
+As supported, a single print on an Elegoo Mars can yield up to 80 5-man units for your wargaming in the distant future!
 
-  
+
+
 
 

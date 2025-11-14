@@ -222,11 +222,9 @@ All digital files are property of Ankylo Miniatures.
 
 Justification du tag SUP :
 
-    ~~~
-    One unsupported and one pre-supported version.
-    ImagesSTL_-_EvilWarmaster_zip_unpack_EvilWarmaster_supported_stl_.jpg
-    ~~~
+One unsupported and one pre-supported version.
+ImagesSTL_-_EvilWarmaster_zip_unpack_EvilWarmaster_supported_stl_.jpg
 
-  
+
 
 

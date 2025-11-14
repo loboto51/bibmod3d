@@ -148,11 +148,9 @@ Grouped pre-supported versions are in the download.
 
 Justification du tag SUP :
 
-    ~~~
-    Grouped pre-supported versions are in the download.
-    
-    ~~~
+Grouped pre-supported versions are in the download.
 
-  
+
+
 
 

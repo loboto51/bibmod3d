@@ -101,11 +101,9 @@ There are both unsupported, and pre-supported* versions of each, including Lyche
 
 Justification du tag SUP :
 
-    ~~~
-    There are both unsupported, and pre-supported* versions of each, including Lychee files.
-    
-    ~~~
+There are both unsupported, and pre-supported* versions of each, including Lychee files.
 
-  
+
+
 
 

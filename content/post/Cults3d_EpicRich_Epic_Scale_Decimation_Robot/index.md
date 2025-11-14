@@ -97,11 +97,9 @@ https://cults3d.com/en/3d-model/game/chaos-decimator-daemon-engine-tzeentchian
 
 Justification du tag SUP :
 
-    ~~~
-    Epic Scale Decimation Robot. Rescaled and reworked this model to be better for printing at smaller scale. Includes various poses for legs and body and both supported and unsupported files.
-    
-    ~~~
+Epic Scale Decimation Robot. Rescaled and reworked this model to be better for printing at smaller scale. Includes various poses for legs and body and both supported and unsupported files.
 
-  
+
+
 
 

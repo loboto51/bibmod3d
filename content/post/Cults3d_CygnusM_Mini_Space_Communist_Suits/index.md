@@ -160,11 +160,9 @@ https://instagram.com/fragorn_irik?igshid=YmMyMTA2M2Y=
 
 Justification du tag SUP :
 
-    ~~~
-    Added a folder with supported files, Now includes both as it should be.
-    
-    ~~~
+Added a folder with supported files, Now includes both as it should be.
 
-  
+
+
 
 

@@ -98,11 +98,9 @@ Supported and test printed successfully.
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and test printed successfully.
-    
-    ~~~
+Supported and test printed successfully.
 
-  
+
+
 
 

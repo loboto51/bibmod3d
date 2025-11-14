@@ -153,11 +153,9 @@ Supported files are included, completed test prints and painted up elements to f
 
 Justification du tag SUP :
 
-    ~~~
-    Supported files are included, completed test prints and painted up elements to follow.
-    
-    ~~~
+Supported files are included, completed test prints and painted up elements to follow.
 
-  
+
+
 
 

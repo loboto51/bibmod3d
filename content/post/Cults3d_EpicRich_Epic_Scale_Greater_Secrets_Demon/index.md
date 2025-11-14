@@ -139,11 +139,9 @@ https://www.thingiverse.com/thing:4126441
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Greater Secrets Demon pre supported.
-    
-    ~~~
+Epic scale Greater Secrets Demon pre supported.
 
-  
+
+
 
 

@@ -107,11 +107,9 @@ Myminifactory : https://www.myminifactory.com/users/Bishok
 
 Justification du tag SUP :
 
-    ~~~
-    Include 2 character - SLA print supported
-    
-    ~~~
+Include 2 character - SLA print supported
 
-  
+
+
 
 

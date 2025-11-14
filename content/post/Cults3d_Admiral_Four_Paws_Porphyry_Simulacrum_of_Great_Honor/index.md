@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Admiral_Four_Paws > Porphyry_Simulacrum_of_Great_Honor [non dl]"
+title: "[GRATUIT] Cults3d > Admiral_Four_Paws > Porphyry_Simulacrum_of_Great_Honor [dl]"
 date: "2025-11-08T22:07:11Z"
 toc: true
 image: "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
 - "epic chevaliers IMP Admech-chevaliers"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "chevaliers IMP NONDL"
-- "epic chevaliers IMP NONDL"
-- "Admech-chevaliers NONDL"
-- "epic Admech-chevaliers NONDL"
-- "chevaliers Admech-chevaliers NONDL"
-- "epic chevaliers Admech-chevaliers NONDL"
-- "IMP Admech-chevaliers NONDL"
-- "epic IMP Admech-chevaliers NONDL"
-- "chevaliers IMP Admech-chevaliers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "IMP Admech-chevaliers NONSUP"
 - "epic IMP Admech-chevaliers NONSUP"
 - "chevaliers IMP Admech-chevaliers NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "epic chevaliers NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "chevaliers IMP NONDL NONSUP"
-- "Admech-chevaliers NONDL NONSUP"
-- "epic Admech-chevaliers NONDL NONSUP"
-- "chevaliers Admech-chevaliers NONDL NONSUP"
-- "IMP Admech-chevaliers NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg> "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg")
+
+  ![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.jpg> "thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-chevaliers NONDL NONSUP
+- epic chevaliers IMP Admech-chevaliers  NONSUP
 
 
 Description :

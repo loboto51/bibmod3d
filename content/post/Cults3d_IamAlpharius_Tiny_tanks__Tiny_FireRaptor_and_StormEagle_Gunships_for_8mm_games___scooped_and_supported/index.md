@@ -101,11 +101,9 @@ These models are not hollowed in the traditional sense - no resin can be capture
 
 Justification du tag SUP :
 
-    ~~~
-    OK, just a scooped, supported and magnet ready version of Wolfkeeper's GRIMDARK MINUTE FLYING ARMED TRANSPORT and nitramthx's burning little dino for galactic crusaders.  They are great little free files and will work well at 8mm.  I sized them to have  roughly a 70mm wingspan, but size however you like, just be cognicent that resizing circles can make ovals.
-    
-    ~~~
+OK, just a scooped, supported and magnet ready version of Wolfkeeper's GRIMDARK MINUTE FLYING ARMED TRANSPORT and nitramthx's burning little dino for galactic crusaders.  They are great little free files and will work well at 8mm.  I sized them to have  roughly a 70mm wingspan, but size however you like, just be cognicent that resizing circles can make ovals.
 
-  
+
+
 
 

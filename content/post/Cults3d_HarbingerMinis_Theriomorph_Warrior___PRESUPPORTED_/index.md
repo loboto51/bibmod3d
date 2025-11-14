@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > HarbingerMinis > Theriomorph_Warrior___PRESUPPORTED_ [non dl]"
+title: "[GRATUIT] Cults3d > HarbingerMinis > Theriomorph_Warrior___PRESUPPORTED_ [dl]"
 date: "2025-01-22T20:16:28Z"
 toc: true
 image: "thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic GI Hommes-betes"
 - "infanterie GI Hommes-betes"
 - "epic infanterie GI Hommes-betes"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
-- "Hommes-betes NONDL"
-- "epic Hommes-betes NONDL"
-- "infanterie Hommes-betes NONDL"
-- "epic infanterie Hommes-betes NONDL"
-- "GI Hommes-betes NONDL"
-- "epic GI Hommes-betes NONDL"
-- "infanterie GI Hommes-betes NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,32 +36,13 @@ tags:
 - "GI Hommes-betes NONSUP"
 - "epic GI Hommes-betes NONSUP"
 - "infanterie GI Hommes-betes NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "infanterie GI NONDL NONSUP"
-- "Hommes-betes NONDL NONSUP"
-- "epic Hommes-betes NONDL NONSUP"
-- "infanterie Hommes-betes NONDL NONSUP"
-- "GI Hommes-betes NONDL NONSUP"
 - "warmaster"
 - "HOMMES-BETES"
 - "warmaster HOMMES-BETES"
-- "NONDL"
-- "warmaster NONDL"
-- "HOMMES-BETES NONDL"
-- "warmaster HOMMES-BETES NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HOMMES-BETES NONSUP"
 - "warmaster HOMMES-BETES NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HOMMES-BETES NONDL NONSUP"
-- "warmaster HOMMES-BETES NONDL NONSUP"
 
 ---
 
@@ -100,8 +66,8 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Hommes-betes NONDL NONSUP
-- warmaster HOMMES-BETES NONDL NONSUP
+- epic infanterie GI Hommes-betes  NONSUP
+- warmaster HOMMES-BETES  NONSUP
 
 
 Description :

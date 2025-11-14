@@ -153,11 +153,9 @@ Suitable for 6-8mm games
 
 Justification du tag SUP :
 
-    ~~~
-    All Files are Pre-Supported and testprinted.
-    
-    ~~~
+All Files are Pre-Supported and testprinted.
 
-  
+
+
 
 

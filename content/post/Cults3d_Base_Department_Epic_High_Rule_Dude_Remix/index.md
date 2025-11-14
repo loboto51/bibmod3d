@@ -72,11 +72,9 @@ Fits perfectly on a 25x40mm tank base, I might add one to the files later.
 
 Justification du tag SUP :
 
-    ~~~
-    File is fully supported and scaled with all parts, just drag and drop. 
-    ImagesSTL_-_high_rule_dude_supports_complete_zip_unpack_high_rule_dude_supports_complete_stl_.jpg
-    ~~~
+File is fully supported and scaled with all parts, just drag and drop. 
 
-  
+
+
 
 

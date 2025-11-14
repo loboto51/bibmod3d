@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > sneakygitz > 10mm_Chaos_Dwarf_Hellcannon [non dl]"
+title: "[BON-MARCHE] Cults3d > sneakygitz > 10mm_Chaos_Dwarf_Hellcannon [non dl]"
 date: "2022-01-31T17:00:40Z"
 toc: true
 image: "thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.jpg"
@@ -52,11 +52,9 @@ Unsupported and presupported 10mm Hell cannon (no crew) for 100mm Wargames with 
 
 Justification du tag SUP :
 
-    ~~~
-    Unsupported and presupported 10mm Hell cannon (no crew) for 100mm Wargames with chaos armies. Take extra special care when removing the supports from features like chains, levers and guages. I've included pictures of the printed Cannon alongside some WM undead to give you a sense of the scale.
-    
-    ~~~
+Unsupported and presupported 10mm Hell cannon (no crew) for 100mm Wargames with chaos armies. Take extra special care when removing the supports from features like chains, levers and guages. I've included pictures of the printed Cannon alongside some WM undead to give you a sense of the scale.
 
-  
+
+
 
 

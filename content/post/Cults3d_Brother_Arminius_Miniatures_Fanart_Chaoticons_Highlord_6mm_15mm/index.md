@@ -78,12 +78,9 @@ Enjoy this free fanart featuring one terrifying Chaoticon Highlord in 6mm scale 
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_fanart-chaoticons-highlord-6mm-15mm20240803-1-j5amsz_zip_unpack_Brother_Arminius_Miniatures_fanart-chaoticons-highlord-6mm-15mm_lord_15mm_zip_unpack_lord_15mm_supported_lord_stl_.jpg
-ImagesSTL_-_fanart-chaoticons-highlord-6mm-15mm20240803-1-j5amsz_zip_unpack_Brother_Arminius_Miniatures_fanart-chaoticons-highlord-6mm-15mm_supported_lord_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_fanart-chaoticons-highlord-6mm-15mm20240803-1-j5amsz_zip_unpack_Brother_Arminius_Miniatures_fanart-chaoticons-highlord-6mm-15mm_lord_15mm_zip_unpack_lord_15mm_lord_lys_.jpg
+
+
 
 

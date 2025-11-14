@@ -98,11 +98,9 @@ I didn't do a supported version maybe later.
 
 Justification du tag SUP :
 
-    ~~~
-    I didn't do a supported version maybe later.
-    
-    ~~~
+I didn't do a supported version maybe later.
 
-  
+
+
 
 

@@ -139,11 +139,9 @@ All models come supported and have been tested on a Mars2 at 0.02 layer height.
 
 Justification du tag SUP :
 
-    ~~~
-    All models come supported and have been tested on a Mars2 at 0.02 layer height.
-    
-    ~~~
+All models come supported and have been tested on a Mars2 at 0.02 layer height.
 
-  
+
+
 
 

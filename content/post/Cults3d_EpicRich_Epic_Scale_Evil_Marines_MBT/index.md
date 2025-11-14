@@ -97,11 +97,9 @@ https://cults3d.com/en/3d-model/game/tiny-tank-fancy-mbt-infantry-support
 
 Justification du tag SUP :
 
-    ~~~
-    Epic Scale Evil Marines MBT. Includes versions with different front spikes and both supported and unsupported.
-    
-    ~~~
+Epic Scale Evil Marines MBT. Includes versions with different front spikes and both supported and unsupported.
 
-  
+
+
 
 

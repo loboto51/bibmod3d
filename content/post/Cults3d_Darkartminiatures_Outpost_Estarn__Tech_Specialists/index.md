@@ -105,11 +105,9 @@ Klaus
 
 Justification du tag SUP :
 
-    ~~~
-    All files have STL, Supported and Lychee versions
-    
-    ~~~
+All files have STL, Supported and Lychee versions
 
-  
+
+
 
 

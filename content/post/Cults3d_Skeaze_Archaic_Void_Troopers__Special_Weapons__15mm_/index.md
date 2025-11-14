@@ -102,11 +102,9 @@ However, I wanted to make them look more strange and ancient, like they are from
 
 Justification du tag SUP :
 
-    ~~~
-    There are both unsupported, and pre-supported* versions of each, including Lychee files.
-    
-    ~~~
+There are both unsupported, and pre-supported* versions of each, including Lychee files.
 
-  
+
+
 
 

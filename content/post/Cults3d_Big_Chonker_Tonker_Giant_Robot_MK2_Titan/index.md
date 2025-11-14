@@ -77,11 +77,9 @@ Let me know if there are any options or different pieces (Like heads and armor) 
 
 Justification du tag SUP :
 
-    ~~~
-    - Pre supported
-    ImagesSTL_-_Giant_Robot_zip_unpack_Giant_Robot_Giant_Robot_PreSupported_chitubox_.jpg
-    ~~~
+- Pre supported
+ImagesSTL_-_Giant_Robot_zip_unpack_Giant_Robot_Giant_Robot_PreSupported_chitubox_.jpg
 
-  
+
 
 

@@ -97,11 +97,9 @@ Both unsupported and pre-supported files are included! (including a Lychee file)
 
 Justification du tag SUP :
 
-    ~~~
-    Both unsupported and pre-supported files are included! (including a Lychee file)
-    
-    ~~~
+Both unsupported and pre-supported files are included! (including a Lychee file)
 
-  
+
+
 
 

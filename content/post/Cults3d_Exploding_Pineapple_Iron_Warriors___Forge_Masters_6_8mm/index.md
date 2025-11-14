@@ -157,14 +157,12 @@ All models have Supports added and were test printed successfully.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_iron-warriors-forge-masters-6-8mm20211106-13355-laqdkk_zip_unpack_Exploding_Pineapple_iron-warriors-forge-masters-6-8mm_SUP_ForgefatherHammerII_stl_.jpg
+
+ImagesSTL_-_iron-warriors-forge-masters-6-8mm20211106-13355-laqdkk_zip_unpack_Exploding_Pineapple_iron-warriors-forge-masters-6-8mm_SUP_ForgefatherHammerII_stl_.jpg
 ImagesSTL_-_iron-warriors-forge-masters-6-8mm20211106-13355-laqdkk_zip_unpack_Exploding_Pineapple_iron-warriors-forge-masters-6-8mm_SUP_ForgefatherHammerI_stl_.jpg
 ImagesSTL_-_iron-warriors-forge-masters-6-8mm20211106-13355-laqdkk_zip_unpack_Exploding_Pineapple_iron-warriors-forge-masters-6-8mm_SUP_ForgefatherII_stl_.jpg
 ImagesSTL_-_iron-warriors-forge-masters-6-8mm20211106-13355-laqdkk_zip_unpack_Exploding_Pineapple_iron-warriors-forge-masters-6-8mm_SUP_Forgefather_stl_.jpg
-    ~~~
 
-  
+
 
 

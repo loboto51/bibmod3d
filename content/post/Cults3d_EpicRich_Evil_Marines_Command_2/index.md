@@ -216,11 +216,9 @@ https://www.thingiverse.com/thing:2740021
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Evil Marines characters pre supported.
-    
-    ~~~
+Epic scale Evil Marines characters pre supported.
 
-  
+
+
 
 

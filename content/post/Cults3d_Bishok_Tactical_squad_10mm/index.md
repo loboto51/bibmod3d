@@ -105,11 +105,9 @@ Supported
 
 Justification du tag SUP :
 
-    ~~~
-    Supported
-    
-    ~~~
+Supported
 
-  
+
+
 
 

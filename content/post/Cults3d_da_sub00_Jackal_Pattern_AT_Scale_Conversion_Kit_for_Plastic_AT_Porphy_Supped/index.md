@@ -97,12 +97,10 @@ Prints fine on smaller DLP such as Photon and Mars.
 
 Justification du tag SUP :
 
-    ~~~
-    Presupported and Prescaled Titanicus Conversion kit to equip Jackal Pattern Beamers, Mortars and Hull Volkites on the Plastic AT Porhyrion Chassis.
+Presupported and Prescaled Titanicus Conversion kit to equip Jackal Pattern Beamers, Mortars and Hull Volkites on the Plastic AT Porhyrion Chassis.
 28/09/2024 - Unsupported files added for the couple of crazy cats who want to try printing this on FDM
-    
-    ~~~
 
-  
+
+
 
 

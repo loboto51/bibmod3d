@@ -21,21 +21,21 @@ tags:
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
 - "epic infanterie SMI Sm-assaut"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "Sm-assaut SUP"
-- "epic Sm-assaut SUP"
-- "infanterie Sm-assaut SUP"
-- "epic infanterie Sm-assaut SUP"
-- "SMI Sm-assaut SUP"
-- "epic SMI Sm-assaut SUP"
-- "infanterie SMI Sm-assaut SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "Sm-assaut NONSUP"
+- "epic Sm-assaut NONSUP"
+- "infanterie Sm-assaut NONSUP"
+- "epic infanterie Sm-assaut NONSUP"
+- "SMI Sm-assaut NONSUP"
+- "epic SMI Sm-assaut NONSUP"
+- "infanterie SMI Sm-assaut NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -51,21 +51,21 @@ tags:
 - "epic SMI Sm-motos"
 - "infanterie SMI Sm-motos"
 - "epic infanterie SMI Sm-motos"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "Sm-motos SUP"
-- "epic Sm-motos SUP"
-- "infanterie Sm-motos SUP"
-- "epic infanterie Sm-motos SUP"
-- "SMI Sm-motos SUP"
-- "epic SMI Sm-motos SUP"
-- "infanterie SMI Sm-motos SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "Sm-motos NONSUP"
+- "epic Sm-motos NONSUP"
+- "infanterie Sm-motos NONSUP"
+- "epic infanterie Sm-motos NONSUP"
+- "SMI Sm-motos NONSUP"
+- "epic SMI Sm-motos NONSUP"
+- "infanterie SMI Sm-motos NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -81,21 +81,21 @@ tags:
 - "epic SMI Sm-qg"
 - "infanterie SMI Sm-qg"
 - "epic infanterie SMI Sm-qg"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "Sm-qg SUP"
-- "epic Sm-qg SUP"
-- "infanterie Sm-qg SUP"
-- "epic infanterie Sm-qg SUP"
-- "SMI Sm-qg SUP"
-- "epic SMI Sm-qg SUP"
-- "infanterie SMI Sm-qg SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "Sm-qg NONSUP"
+- "epic Sm-qg NONSUP"
+- "infanterie Sm-qg NONSUP"
+- "epic infanterie Sm-qg NONSUP"
+- "SMI Sm-qg NONSUP"
+- "epic SMI Sm-qg NONSUP"
+- "infanterie SMI Sm-qg NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -111,21 +111,21 @@ tags:
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
 - "epic infanterie SMI Sm-tactiques"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "Sm-tactiques SUP"
-- "epic Sm-tactiques SUP"
-- "infanterie Sm-tactiques SUP"
-- "epic infanterie Sm-tactiques SUP"
-- "SMI Sm-tactiques SUP"
-- "epic SMI Sm-tactiques SUP"
-- "infanterie SMI Sm-tactiques SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "Sm-tactiques NONSUP"
+- "epic Sm-tactiques NONSUP"
+- "infanterie Sm-tactiques NONSUP"
+- "epic infanterie Sm-tactiques NONSUP"
+- "SMI Sm-tactiques NONSUP"
+- "epic SMI Sm-tactiques NONSUP"
+- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
@@ -151,10 +151,10 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI Sm-assaut  SUP
-- epic infanterie SMI Sm-motos  SUP
-- epic infanterie SMI Sm-qg  SUP
-- epic infanterie SMI Sm-tactiques  SUP
+- epic infanterie SMI Sm-assaut  NONSUP
+- epic infanterie SMI Sm-motos  NONSUP
+- epic infanterie SMI Sm-qg  NONSUP
+- epic infanterie SMI Sm-tactiques  NONSUP
 
 
 Description :
@@ -166,13 +166,6 @@ If you like what I did and want to leave a tip it would be appreciated.
 https://paypal.me/jimmyzimms
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_beaky-army-combined-package-6-8mm-galactic-crusader20231227-45741-3rqlwq_zip_unpack_jimmyzimms_beaky-army-combined-package-6-8mm-galactic-crusader-remix_Beaky_ArmourBreachersSupport_stl_.jpg
-    ~~~
-
-  
 
 

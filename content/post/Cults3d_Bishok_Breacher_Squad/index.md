@@ -120,12 +120,10 @@ https://www.myminifactory.com/users/Bishok
 
 Justification du tag SUP :
 
-    ~~~
-    Non base model include and supported
+Non base model include and supported
 Supported
-    
-    ~~~
 
-  
+
+
 
 

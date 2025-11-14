@@ -140,11 +140,9 @@ SUP files come supported and have been tested on a Mars2 at 0.02 layer height.
 
 Justification du tag SUP :
 
-    ~~~
-    SUP files come supported and have been tested on a Mars2 at 0.02 layer height.
-    
-    ~~~
+SUP files come supported and have been tested on a Mars2 at 0.02 layer height.
 
-  
+
+
 
 

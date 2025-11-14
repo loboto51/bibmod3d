@@ -219,11 +219,9 @@ suitable for 6-8mm gaming
 
 Justification du tag SUP :
 
-    ~~~
-    As usual all files come pre-supported as well as unsupported. 
-    
-    ~~~
+As usual all files come pre-supported as well as unsupported. 
 
-  
+
+
 
 

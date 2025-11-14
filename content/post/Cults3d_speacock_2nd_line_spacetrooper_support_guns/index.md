@@ -36,32 +36,32 @@ tags:
 - "GI Canons GI-SOLARAUX"
 - "epic GI Canons GI-SOLARAUX"
 - "infanterie GI Canons GI-SOLARAUX"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "infanterie GI SUP"
-- "epic infanterie GI SUP"
-- "Canons SUP"
-- "epic Canons SUP"
-- "infanterie Canons SUP"
-- "epic infanterie Canons SUP"
-- "GI Canons SUP"
-- "epic GI Canons SUP"
-- "infanterie GI Canons SUP"
-- "GI-SOLARAUX SUP"
-- "epic GI-SOLARAUX SUP"
-- "infanterie GI-SOLARAUX SUP"
-- "epic infanterie GI-SOLARAUX SUP"
-- "GI GI-SOLARAUX SUP"
-- "epic GI GI-SOLARAUX SUP"
-- "infanterie GI GI-SOLARAUX SUP"
-- "Canons GI-SOLARAUX SUP"
-- "epic Canons GI-SOLARAUX SUP"
-- "infanterie Canons GI-SOLARAUX SUP"
-- "GI Canons GI-SOLARAUX SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "infanterie GI NONSUP"
+- "epic infanterie GI NONSUP"
+- "Canons NONSUP"
+- "epic Canons NONSUP"
+- "infanterie Canons NONSUP"
+- "epic infanterie Canons NONSUP"
+- "GI Canons NONSUP"
+- "epic GI Canons NONSUP"
+- "infanterie GI Canons NONSUP"
+- "GI-SOLARAUX NONSUP"
+- "epic GI-SOLARAUX NONSUP"
+- "infanterie GI-SOLARAUX NONSUP"
+- "epic infanterie GI-SOLARAUX NONSUP"
+- "GI GI-SOLARAUX NONSUP"
+- "epic GI GI-SOLARAUX NONSUP"
+- "infanterie GI GI-SOLARAUX NONSUP"
+- "Canons GI-SOLARAUX NONSUP"
+- "epic Canons GI-SOLARAUX NONSUP"
+- "infanterie Canons GI-SOLARAUX NONSUP"
+- "GI Canons GI-SOLARAUX NONSUP"
 
 ---
 
@@ -84,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Canons GI-SOLARAUX  SUP
+- epic infanterie GI Canons GI-SOLARAUX  NONSUP
 
 
 Description :
@@ -99,13 +99,6 @@ gun platform  by moon jammy
 troops   by mrorangejumper
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_solarauxsupportweapons_zip_unpack_solarauxsupportweapons_stl_.jpg
-    ~~~
-
-  
 
 

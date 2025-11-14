@@ -210,11 +210,9 @@ Pariah
 
 Justification du tag SUP :
 
-    ~~~
-    A word of warning though that due to time constraints and other projects the pre-supported versions might not be perfect and it might be a couple weeks before I can upload the final versions (sorry for the delay)
-    
-    ~~~
+A word of warning though that due to time constraints and other projects the pre-supported versions might not be perfect and it might be a couple weeks before I can upload the final versions (sorry for the delay)
 
-  
+
+
 
 

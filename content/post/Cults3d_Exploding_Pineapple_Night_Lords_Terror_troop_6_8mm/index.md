@@ -139,11 +139,9 @@ both files come supported and have been tested succesfully on a Mars2 at 0.02 la
 
 Justification du tag SUP :
 
-    ~~~
-    both files come supported and have been tested succesfully on a Mars2 at 0.02 layer.
-    
-    ~~~
+both files come supported and have been tested succesfully on a Mars2 at 0.02 layer.
 
-  
+
+
 
 

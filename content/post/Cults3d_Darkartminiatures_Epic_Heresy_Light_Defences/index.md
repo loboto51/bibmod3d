@@ -113,11 +113,9 @@ Note: these files are for personal use ONLY and not to be used for commercial us
 
 Justification du tag SUP :
 
-    ~~~
-    This STL pack comes with unsupported, pre-supported and Lychee files.
-    
-    ~~~
+This STL pack comes with unsupported, pre-supported and Lychee files.
 
-  
+
+
 
 

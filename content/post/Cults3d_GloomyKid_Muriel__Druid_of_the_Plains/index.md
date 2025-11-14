@@ -100,11 +100,9 @@ https://www.myminifactory.com/users/GloomyKid
 
 Justification du tag SUP :
 
-    ~~~
-    Meet Muriel and her possum companion Cheesecake! Includes presupported files for resin printing.
-    
-    ~~~
+Meet Muriel and her possum companion Cheesecake! Includes presupported files for resin printing.
 
-  
+
+
 
 

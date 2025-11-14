@@ -90,11 +90,9 @@ The battleship arms can be pointed forwards or backwards
 
 Justification du tag SUP :
 
-    ~~~
-    Ships are supplied supported or not supported.
-    
-    ~~~
+Ships are supplied supported or not supported.
 
-  
+
+
 
 

@@ -69,11 +69,9 @@ I added an example of what some look like when used on some prints from Reptilia
 
 Justification du tag SUP :
 
-    ~~~
-    These aren't pre-supported, because they are meant to be clipped into objects in blender/your slicing software. Also, they are very simple haha some are better than others and that's ok (some made in blender, some in tinkerCAD). Hopefully it inspires you to make your own with simple shapes!
-    
-    ~~~
+These aren't pre-supported, because they are meant to be clipped into objects in blender/your slicing software. Also, they are very simple haha some are better than others and that's ok (some made in blender, some in tinkerCAD). Hopefully it inspires you to make your own with simple shapes!
 
-  
+
+
 
 

@@ -120,11 +120,9 @@ Suitable for 6mm gaming
 
 Justification du tag SUP :
 
-    ~~~
-    I have included pre-supported as well as unsupported files for all models. 
-    
-    ~~~
+I have included pre-supported as well as unsupported files for all models. 
 
-  
+
+
 
 

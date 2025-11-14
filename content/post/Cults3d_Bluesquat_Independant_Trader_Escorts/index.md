@@ -76,11 +76,9 @@ _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
 
 Justification du tag SUP :
 
-    ~~~
-    _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
-    
-    ~~~
+_ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
 
-  
+
+
 
 

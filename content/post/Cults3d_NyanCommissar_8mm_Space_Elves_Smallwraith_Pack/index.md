@@ -85,11 +85,9 @@ MKhand_Industries for supporting and suggesting ideas (https://cults3d.com/en/us
 
 Justification du tag SUP :
 
-    ~~~
-    - the models are not tested yet, there’re no supported stls required for safe printing, so the prints are required for experienced hobbyists;
-    
-    ~~~
+- the models are not tested yet, there’re no supported stls required for safe printing, so the prints are required for experienced hobbyists;
 
-  
+
+
 
 

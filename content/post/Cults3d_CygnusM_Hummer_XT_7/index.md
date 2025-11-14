@@ -106,11 +106,9 @@ Suitablr for 6-8mm
 
 Justification du tag SUP :
 
-    ~~~
-    Also all files come with a pre-supported option.
-    
-    ~~~
+Also all files come with a pre-supported option.
 
-  
+
+
 
 

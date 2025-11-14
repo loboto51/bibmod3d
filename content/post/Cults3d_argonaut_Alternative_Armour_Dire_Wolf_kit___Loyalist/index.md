@@ -115,12 +115,10 @@ STLs and supported STLs are for left side versions only of the engine cover, sho
 
 Justification du tag SUP :
 
-    ~~~
-    Files included: STL, pre-supported STL and Lychee scenes of each part (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
+Files included: STL, pre-supported STL and Lychee scenes of each part (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 STLs and supported STLs are for left side versions only of the engine cover, shoulder, shin and thigh plates. These should be copied and mirrored to produce the right side plates (Shin plate is symmetrical, so can just copied), when printing your full set - though the '...full set' Lychee scene included in the ZIP file has this already set up for you. This full set scene utilises the 3-part version of the carapace, so swap these out for the 'unsplit' carapace if you want to print the single piece version with the rest of the parts.
-    
-    ~~~
 
-  
+
+
 
 

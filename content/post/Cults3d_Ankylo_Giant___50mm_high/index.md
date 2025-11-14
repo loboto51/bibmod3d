@@ -64,11 +64,9 @@ Happy printing and thank you for your support.
 
 Justification du tag SUP :
 
-    ~~~
-    The file contains a Giant in two versions - unsupported + pre-supported.
-    
-    ~~~
+The file contains a Giant in two versions - unsupported + pre-supported.
 
-  
+
+
 
 

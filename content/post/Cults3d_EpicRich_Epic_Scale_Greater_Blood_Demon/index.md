@@ -143,11 +143,9 @@ https://www.thingiverse.com/thing:2740021
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Greater Blood Demon pre supported.
-    
-    ~~~
+Epic scale Greater Blood Demon pre supported.
 
-  
+
+
 
 

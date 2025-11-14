@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > codewalrus > Supported_Castle_Pattern_Robots [non dl]"
+title: "[GRATUIT] Cults3d > codewalrus > Supported_Castle_Pattern_Robots [dl]"
 date: "2021-06-06T20:11:00Z"
 toc: true
 image: "thumbs_-_supported-castle-pattern-robots_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic AM Robots"
 - "marcheurs AM Robots"
 - "epic marcheurs AM Robots"
-- "NONDL"
-- "epic NONDL"
-- "marcheurs NONDL"
-- "epic marcheurs NONDL"
-- "AM NONDL"
-- "epic AM NONDL"
-- "marcheurs AM NONDL"
-- "epic marcheurs AM NONDL"
-- "Robots NONDL"
-- "epic Robots NONDL"
-- "marcheurs Robots NONDL"
-- "epic marcheurs Robots NONDL"
-- "AM Robots NONDL"
-- "epic AM Robots NONDL"
-- "marcheurs AM Robots NONDL"
 - "SUP"
 - "epic SUP"
 - "marcheurs SUP"
@@ -51,17 +36,6 @@ tags:
 - "AM Robots SUP"
 - "epic AM Robots SUP"
 - "marcheurs AM Robots SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "marcheurs NONDL SUP"
-- "epic marcheurs NONDL SUP"
-- "AM NONDL SUP"
-- "epic AM NONDL SUP"
-- "marcheurs AM NONDL SUP"
-- "Robots NONDL SUP"
-- "epic Robots NONDL SUP"
-- "marcheurs Robots NONDL SUP"
-- "AM Robots NONDL SUP"
 
 ---
 
@@ -84,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic marcheurs AM Robots NONDL SUP
+- epic marcheurs AM Robots  SUP
 
 
 Description :
@@ -109,11 +83,9 @@ Thanks to DaPhysist, d10c4n399, Exerptus, and Blobby234 for the models.
 
 Justification du tag SUP :
 
-    ~~~
-    Supported individual files and the .lys file are included.
-    
-    ~~~
+Supported individual files and the .lys file are included.
 
-  
+
+
 
 

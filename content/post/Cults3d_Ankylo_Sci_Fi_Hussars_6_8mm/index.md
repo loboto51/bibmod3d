@@ -618,11 +618,9 @@ Ankylo Miniatures
 
 Justification du tag SUP :
 
-    ~~~
-    All STLs come in two versions: un-supported + pre-supported.
-    
-    ~~~
+All STLs come in two versions: un-supported + pre-supported.
 
-  
+
+
 
 

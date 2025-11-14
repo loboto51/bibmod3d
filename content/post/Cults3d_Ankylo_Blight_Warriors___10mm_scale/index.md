@@ -79,11 +79,9 @@ All STLs come in two versions - unsupported + pre-supported.
 
 Justification du tag SUP :
 
-    ~~~
-    All STLs come in two versions - unsupported + pre-supported.
-    
-    ~~~
+All STLs come in two versions - unsupported + pre-supported.
 
-  
+
+
 
 

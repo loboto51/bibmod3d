@@ -56,11 +56,9 @@ These should be rotated, supported, and printed at 0.025mm layer height on a res
 
 Justification du tag SUP :
 
-    ~~~
-    These should be rotated, supported, and printed at 0.025mm layer height on a resin printer.
-    ImagesSTL_-_warmaster-empire-knights20210212-21397-1m4c6ho_zip_unpack_grumpusbumpus_warmaster-empire-knights_knights-supported_stl_.jpg
-    ~~~
+These should be rotated, supported, and printed at 0.025mm layer height on a resin printer.
+ImagesSTL_-_warmaster-empire-knights20210212-21397-1m4c6ho_zip_unpack_grumpusbumpus_warmaster-empire-knights_knights-supported_stl_.jpg
 
-  
+
 
 

@@ -48,11 +48,9 @@ I would like to share the original source files that I remixed these from, but t
 
 Justification du tag SUP :
 
-    ~~~
-    10mm scale skeletons, mounted in strips of six.  There are supported and unsupported versions.  I recommend printing with a resin printer at 0.02mm layer height.
-    
-    ~~~
+10mm scale skeletons, mounted in strips of six.  There are supported and unsupported versions.  I recommend printing with a resin printer at 0.02mm layer height.
 
-  
+
+
 
 

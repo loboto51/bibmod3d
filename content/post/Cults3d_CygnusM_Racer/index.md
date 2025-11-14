@@ -95,11 +95,9 @@ Suitablr for 6-8 mm gaming
 
 Justification du tag SUP :
 
-    ~~~
-    Includes presupported as well as an unsupported version.
-    
-    ~~~
+Includes presupported as well as an unsupported version.
 
-  
+
+
 
 

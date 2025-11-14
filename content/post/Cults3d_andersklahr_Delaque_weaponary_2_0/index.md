@@ -143,11 +143,9 @@ I also used this awesome gun:
 
 Justification du tag SUP :
 
-    ~~~
-    3 diffrent swords supported (not sure where I got the originals from)
-    
-    ~~~
+3 diffrent swords supported (not sure where I got the originals from)
 
-  
+
+
 
 

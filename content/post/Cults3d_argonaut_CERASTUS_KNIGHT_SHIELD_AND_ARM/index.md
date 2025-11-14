@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > argonaut > CERASTUS_KNIGHT_SHIELD_AND_ARM [non dl]"
+title: "[BON-MARCHE] Cults3d > argonaut > CERASTUS_KNIGHT_SHIELD_AND_ARM [non dl]"
 date: "2023-10-12T15:28:15Z"
 toc: true
 image: "thumbs_-_cerastus-knight-shield-and-arm_-_Images_1.jpg"
@@ -106,11 +106,9 @@ As with the Cerastus Trident Lance, the upper arm comes with a moulded pin so th
 
 Justification du tag SUP :
 
-    ~~~
-    Files included: STL, pre-supported STL and full Lychee scene of all parts (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
-    
-    ~~~
+Files included: STL, pre-supported STL and full Lychee scene of all parts (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 
-  
+
+
 
 

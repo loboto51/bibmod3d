@@ -56,11 +56,9 @@ But use it however you want n.n (presupported version included)
 
 Justification du tag SUP :
 
-    ~~~
-    But use it however you want n.n (presupported version included)
-    
-    ~~~
+But use it however you want n.n (presupported version included)
 
-  
+
+
 
 

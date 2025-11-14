@@ -76,11 +76,9 @@ Post a pic of your make would love to see how they came out also give it a like!
 
 Justification du tag SUP :
 
-    ~~~
-    Added Pre-supported Version!
-    
-    ~~~
+Added Pre-supported Version!
 
-  
+
+
 
 

@@ -100,11 +100,9 @@ You can get some other freebies [HERE](https://www.myminifactory.com/object/3d-p
 
 Justification du tag SUP :
 
-    ~~~
-    This freebie is a mini -- a horrific critter made of mutated humans all melded together. It's great to creep folks out! Also included pre-supported of course, for dead-simple printing.
-    
-    ~~~
+This freebie is a mini -- a horrific critter made of mutated humans all melded together. It's great to creep folks out! Also included pre-supported of course, for dead-simple printing.
 
-  
+
+
 
 

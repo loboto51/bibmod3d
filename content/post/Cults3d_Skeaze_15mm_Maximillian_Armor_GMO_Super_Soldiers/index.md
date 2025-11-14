@@ -9,10 +9,10 @@ tags:
 - "15mm"
 - "SMI"
 - "15mm SMI"
-- "SUP"
-- "15mm SUP"
-- "SMI SUP"
-- "15mm SMI SUP"
+- "NONSUP"
+- "15mm NONSUP"
+- "SMI NONSUP"
+- "15mm SMI NONSUP"
 
 ---
 
@@ -35,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm SMI  SUP
+- 15mm SMI  NONSUP
 
 
 Description :
@@ -53,22 +53,6 @@ Credits:
 If you really like what I do, you can throw a dollar or two at me here: https://ko-fi.com/skeaze
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK401_base_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK401_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK402_base_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK402_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK403_base_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK403_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK404_base_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK404_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK405_base_stl_.jpg
-ImagesSTL_-_15mm-maximillian-armor-gmo-super-soldiers20231126-113496-26zl6a_zip_unpack_Skeaze_15mm-maximillian-armor-gmo-super-soldiers_MK405_stl_.jpg
-    ~~~
-
-  
 
 

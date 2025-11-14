@@ -21,21 +21,21 @@ tags:
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
 - "epic superlourds GI Baneblades-canon-long"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades-canon-long SUP"
-- "epic Baneblades-canon-long SUP"
-- "superlourds Baneblades-canon-long SUP"
-- "epic superlourds Baneblades-canon-long SUP"
-- "GI Baneblades-canon-long SUP"
-- "epic GI Baneblades-canon-long SUP"
-- "superlourds GI Baneblades-canon-long SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades-canon-long NONSUP"
+- "epic Baneblades-canon-long NONSUP"
+- "superlourds Baneblades-canon-long NONSUP"
+- "epic superlourds Baneblades-canon-long NONSUP"
+- "GI Baneblades-canon-long NONSUP"
+- "epic GI Baneblades-canon-long NONSUP"
+- "superlourds GI Baneblades-canon-long NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-long  SUP
+- epic superlourds GI Baneblades-canon-long  NONSUP
 
 
 Description :
@@ -71,14 +71,6 @@ Remixed by grafting LG89's Wardog Blastgun assembly + Tightbored's Lascannon sid
 Kindof rough and ready around the plasma connection to the body but still looks fine at this scale.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_8mm-and-6mm-big-strong-plasma-tanks20240318-131847-v7v53b_zip_unpack_da_sub00_8mm-and-6mm-big-strong-plasma-tanks_6mm_Stormblade__Merged_Unsupped_stl_.jpg
-ImagesSTL_-_8mm-and-6mm-big-strong-plasma-tanks20240318-131847-v7v53b_zip_unpack_da_sub00_8mm-and-6mm-big-strong-plasma-tanks_8mm_Stormblade_Unsupped_stl_.jpg
-    ~~~
-
-  
 
 

@@ -286,11 +286,9 @@ Exerptus (toxin cannon)
 
 Justification du tag SUP :
 
-    ~~~
-    All the weapons are pre-supported and complete ready to print.
-    
-    ~~~
+All the weapons are pre-supported and complete ready to print.
 
-  
+
+
 
 

@@ -109,11 +109,9 @@ Twitter twitter.com/DuncanShadow
 
 Justification du tag SUP :
 
-    ~~~
-    Comes with Pre Supported files, Lychee and STL
-    
-    ~~~
+Comes with Pre Supported files, Lychee and STL
 
-  
+
+
 
 

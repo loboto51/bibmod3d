@@ -137,11 +137,9 @@ Haven't tested the supported version yet, if they don't work out I'll take that 
 
 Justification du tag SUP :
 
-    ~~~
-    Haven't tested the supported version yet, if they don't work out I'll take that part down.
-    
-    ~~~
+Haven't tested the supported version yet, if they don't work out I'll take that part down.
 
-  
+
+
 
 

@@ -145,11 +145,9 @@ Pre-supported individually because I'm crazy I guess.
 
 Justification du tag SUP :
 
-    ~~~
-    Pre-supported individually because I'm crazy I guess.
-    
-    ~~~
+Pre-supported individually because I'm crazy I guess.
 
-  
+
+
 
 

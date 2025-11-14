@@ -21,21 +21,21 @@ tags:
 - "epic SMC Chaos-defilers"
 - "vehicules SMC Chaos-defilers"
 - "epic vehicules SMC Chaos-defilers"
-- "NONSUP"
-- "epic NONSUP"
-- "vehicules NONSUP"
-- "epic vehicules NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "vehicules SMC NONSUP"
-- "epic vehicules SMC NONSUP"
-- "Chaos-defilers NONSUP"
-- "epic Chaos-defilers NONSUP"
-- "vehicules Chaos-defilers NONSUP"
-- "epic vehicules Chaos-defilers NONSUP"
-- "SMC Chaos-defilers NONSUP"
-- "epic SMC Chaos-defilers NONSUP"
-- "vehicules SMC Chaos-defilers NONSUP"
+- "SUP"
+- "epic SUP"
+- "vehicules SUP"
+- "epic vehicules SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "vehicules SMC SUP"
+- "epic vehicules SMC SUP"
+- "Chaos-defilers SUP"
+- "epic Chaos-defilers SUP"
+- "vehicules Chaos-defilers SUP"
+- "epic vehicules Chaos-defilers SUP"
+- "SMC Chaos-defilers SUP"
+- "epic SMC Chaos-defilers SUP"
+- "vehicules SMC Chaos-defilers SUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules SMC Chaos-defilers  NONSUP
+- epic vehicules SMC Chaos-defilers  SUP
 
 
 Description :
@@ -66,6 +66,11 @@ Description :
 ~~~
 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Defiler__Remix_of_Evil_marines_Crab_Walker_by_EpicRich__zip_unpack_Defiler__Remix_of_Evil_marines_Crab_Walker_by_EpicRich__chitubox_.jpg
 
 
 

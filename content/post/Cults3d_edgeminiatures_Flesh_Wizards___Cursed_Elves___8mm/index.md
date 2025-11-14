@@ -104,12 +104,10 @@ Happy raiding!
 
 Justification du tag SUP :
 
-    ~~~
-    Professionally Sculpted and Supported with 8mm scale in mind.
+Professionally Sculpted and Supported with 8mm scale in mind.
 Supported, unsupported and Chitubox Files Included.
-    
-    ~~~
 
-  
+
+
 
 

@@ -82,11 +82,9 @@ Includes both an unsupported single piece and a pre-supported single piece weapo
 
 Justification du tag SUP :
 
-    ~~~
-    Includes both an unsupported single piece and a pre-supported single piece weapon with magnet holes to suit 5mmx1mm rare earth magnets. Note the Supported version prints fine on my Photon at 0.03mm layers but it is likely the thin supports used may not work on larger printers like a Saturn.
-    ImagesSTL_-_tiny-titans-reaver-back-plasma20210628-31298-274k1v_zip_unpack_da_sub00_tiny-titans-reaver-back-plasma__AT_RVR_Carapace_Plasma_Supped_stl_.jpg
-    ~~~
+Includes both an unsupported single piece and a pre-supported single piece weapon with magnet holes to suit 5mmx1mm rare earth magnets. Note the Supported version prints fine on my Photon at 0.03mm layers but it is likely the thin supports used may not work on larger printers like a Saturn.
 
-  
+
+
 
 

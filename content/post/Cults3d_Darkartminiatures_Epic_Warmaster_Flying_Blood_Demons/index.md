@@ -111,11 +111,9 @@ Suitable for Warmaster and Epic.   Supplied fully supported.
 
 Justification du tag SUP :
 
-    ~~~
-    Suitable for Warmaster and Epic.   Supplied fully supported.
-    
-    ~~~
+Suitable for Warmaster and Epic.   Supplied fully supported.
 
-  
+
+
 
 

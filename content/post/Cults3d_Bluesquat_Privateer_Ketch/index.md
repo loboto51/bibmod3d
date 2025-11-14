@@ -79,11 +79,9 @@ https://www.myminifactory.com/object/3d-print-soul-forge-studio-ship-bases-16537
 
 Justification du tag SUP :
 
-    ~~~
-    _ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
-    
-    ~~~
+_ The files are unsupported and come with a slot for 3mm or 1/8 inch stem.
 
-  
+
+
 
 

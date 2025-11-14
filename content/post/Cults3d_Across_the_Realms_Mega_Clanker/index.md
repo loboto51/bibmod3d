@@ -98,11 +98,9 @@ This model is designed to fit on a 100mm round base.
 
 Justification du tag SUP :
 
-    ~~~
-    The models come in supported and unsupported versions. Base not included.  
-    
-    ~~~
+The models come in supported and unsupported versions. Base not included.  
 
-  
+
+
 
 

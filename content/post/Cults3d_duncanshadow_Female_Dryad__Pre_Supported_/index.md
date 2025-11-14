@@ -107,12 +107,10 @@ Minds minds.com/Duncan1666
 
 Justification du tag SUP :
 
-    ~~~
-    Female Dryad (Pre Supported)
+Female Dryad (Pre Supported)
 Comes with Pre Supported options, Lychee files as well as stl
-    
-    ~~~
 
-  
+
+
 
 

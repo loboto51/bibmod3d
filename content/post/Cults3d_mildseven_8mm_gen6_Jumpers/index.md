@@ -69,13 +69,11 @@ Free sample, 3 models, merged, unmerged, and pre-supported.
 
 Justification du tag SUP :
 
-    ~~~
-    Free sample, 3 models, merged, unmerged, and pre-supported.
-    ImagesSTL_-_mk6_zip_unpack_mk6_sup__1as_stl_.jpg
+Free sample, 3 models, merged, unmerged, and pre-supported.
+ImagesSTL_-_mk6_zip_unpack_mk6_sup__1as_stl_.jpg
 ImagesSTL_-_mk6_zip_unpack_mk6_sup__2as_stl_.jpg
 ImagesSTL_-_mk6_zip_unpack_mk6_sup__3as_stl_.jpg
-    ~~~
 
-  
+
 
 

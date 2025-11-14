@@ -101,11 +101,9 @@ This is for the 8mm, AT2018, Cerastus knights
 
 Justification du tag SUP :
 
-    ~~~
-    Files included: STL, pre-supported STL and Lychee scene of same (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
-    
-    ~~~
+Files included: STL, pre-supported STL and Lychee scene of same (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 
-  
+
+
 
 

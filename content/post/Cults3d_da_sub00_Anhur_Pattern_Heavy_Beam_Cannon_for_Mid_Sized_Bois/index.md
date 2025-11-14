@@ -105,12 +105,10 @@ If you want to pre-assemble the Muzzle Rails Assembly I have included a handy bl
 
 Justification du tag SUP :
 
-    ~~~
-    Both Unsupported and Supported parts included.
+Both Unsupported and Supported parts included.
 28mm Scale Unsupported Parts added.
-    
-    ~~~
 
-  
+
+
 
 

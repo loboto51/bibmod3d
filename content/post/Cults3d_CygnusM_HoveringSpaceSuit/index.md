@@ -100,11 +100,9 @@ suitable for 6 mm games
 
 Justification du tag SUP :
 
-    ~~~
-    added an old a folder with supported files
-    
-    ~~~
+added an old a folder with supported files
 
-  
+
+
 
 

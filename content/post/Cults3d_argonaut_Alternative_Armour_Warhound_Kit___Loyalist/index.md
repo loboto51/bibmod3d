@@ -110,12 +110,10 @@ Also included in the ZIP is a Lychee file that has all the plates, as well as th
 
 Justification du tag SUP :
 
-    ~~~
-    Files included: STL, pre-supported STL and Lychee scenes (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
+Files included: STL, pre-supported STL and Lychee scenes (in the ZIP file) - should you want/need to tweak the supports for your particular printer.
 STLs and supported STLs are for left side versions only of the shoulder and thigh plates. Shin plate is symmetrical, and so can be mirrored or just copied. These should be copied and/or mirrored to produce the right side plates, when printing your full set.
-    
-    ~~~
 
-  
+
+
 
 

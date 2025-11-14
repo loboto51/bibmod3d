@@ -105,12 +105,10 @@ These are my first full models modeled completely on my own, so if you find any 
 
 Justification du tag SUP :
 
-    ~~~
-    There are both unsupported, and pre-supported* versions of each, including Lychee files.
+There are both unsupported, and pre-supported* versions of each, including Lychee files.
 <<The SMG variants are not yet fully pre-supported. I ran out of resin before I could finish test printing them. They WILL be updated soon!>>
-    
-    ~~~
 
-  
+
+
 
 

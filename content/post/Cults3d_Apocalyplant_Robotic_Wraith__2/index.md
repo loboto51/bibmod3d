@@ -102,11 +102,9 @@ I’ve switched it to Open Price to help support more creations like this. If yo
 
 Justification du tag SUP :
 
-    ~~~
-    It comes with the body, base, and 14 claws as separate objects along with the same parts pre-supported by me.
-    
-    ~~~
+It comes with the body, base, and 14 claws as separate objects along with the same parts pre-supported by me.
 
-  
+
+
 
 
