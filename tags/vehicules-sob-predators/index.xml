@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vehicules SOB Predators on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/vehicules-sob-predators/</link><description>Recent content in Vehicules SOB Predators on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 09 Oct 2021 12:08:26 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/vehicules-sob-predators/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Space_Nuns_Combined_Collection [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-space_nuns_combined_collection-dl/</link><pubDate>Sat, 09 Oct 2021 12:08:26 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-space_nuns_combined_collection-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-space_nuns_combined_collection-dl/thumbs_-_space-nuns-combined-collection_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Space_Nuns_Combined_Collection [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-space_nuns_combined_collection-dl/thumbs_-_space-nuns-combined-collection_-_Images_1.jpg"
+width="2576"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1288"
+data-flex-basis="3091px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-space_nuns_combined_collection-dl/thumbs_-_space-nuns-combined-collection_-_ImagesSTL_1.jpg"
+width="3854"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="642"
+data-flex-basis="1541px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-nuns-combined-collection" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-nuns-combined-collection&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-nuns-combined-collection&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SOB Repentias&lt;/li&gt;
+&lt;li&gt;epic infanterie SOB Sob-assaut-volant-seraphims&lt;/li&gt;
+&lt;li&gt;epic infanterie SOB Sob-qg&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Predators&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Rhinos-artillerie&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Rhinos&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Sob-motos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SOB Repentias NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SOB Sob-assaut-volant-seraphims NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SOB Sob-qg NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Predators NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Rhinos-artillerie NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Rhinos NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SOB Sob-motos NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;package&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;largely&lt;/span&gt; &lt;span class="n"&gt;superseded&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Redux&lt;/span&gt; &lt;span class="n"&gt;Collection&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;galactic&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;crusader&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;space&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;nuns&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;redux&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;collection&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Combined&lt;/span&gt; &lt;span class="n"&gt;package&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Space&lt;/span&gt; &lt;span class="n"&gt;Nun&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve previously uploaded to Thingiverse plus occasional updates.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;edit&lt;/span&gt; &lt;span class="mi"&gt;20230703&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Since&lt;/span&gt; &lt;span class="n"&gt;Moonjam&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s excellent nun-artillery tank keeps getting 404&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve uploaded a copy here for convenience.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

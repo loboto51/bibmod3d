@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>TYRANIDES SUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/tyranides-sup/</link><description>Recent content in TYRANIDES SUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Fri, 22 Nov 2024 23:40:29 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/tyranides-sup/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; Nedius &gt; Crushing_Claw [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nedius-crushing_claw-non-dl/</link><pubDate>Fri, 22 Nov 2024 23:40:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nedius-crushing_claw-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nedius-crushing_claw-non-dl/thumbs_-_crushing-claw_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Nedius &gt; Crushing_Claw [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nedius-crushing_claw-non-dl/thumbs_-_crushing-claw_-_Images_1.jpg"
+width="520"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="260"
+data-flex-basis="624px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/crushing-claw" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/crushing-claw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : crushing-claw&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie chevaliers titans vehicules volants TYRANIDES Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie chevaliers titans vehicules volants TYRANIDES Bits NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;sample&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m working on for a giant crushing bug monster. Inspired by a piece of cover art.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;single&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;comes&lt;/span&gt; &lt;span class="n"&gt;unsupported&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;There&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;future&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;kit&lt;/span&gt; &lt;span class="n"&gt;form&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Please&lt;/span&gt; &lt;span class="n"&gt;see&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;designs&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;retro&lt;/span&gt; &lt;span class="n"&gt;xenos&lt;/span&gt; &lt;span class="n"&gt;designs&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;sci&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;fi&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;fantasy&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;am&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;amateur&lt;/span&gt; &lt;span class="n"&gt;enthusiast&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="n"&gt;designer&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;appreciate&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;constructive&lt;/span&gt; &lt;span class="n"&gt;feedback&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Please&lt;/span&gt; &lt;span class="n"&gt;check&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;designs&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="n"&gt;consider&lt;/span&gt; &lt;span class="n"&gt;following&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;post&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;enjoy&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;comment&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;donation&lt;/span&gt; &lt;span class="n"&gt;via&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;profile&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Thanks&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This model is a single model and comes unsupported. There will be a future version in kit form with supported parts.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Base_Department &gt; Epic_High_Rule_Dude_Remix [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-base_department-epic_high_rule_dude_remix-dl/</link><pubDate>Mon, 10 Jul 2023 20:00:28 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-base_department-epic_high_rule_dude_remix-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-base_department-epic_high_rule_dude_remix-dl/thumbs_-_epic-high-rule-dude-remix_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Base_Department &gt; Epic_High_Rule_Dude_Remix [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-base_department-epic_high_rule_dude_remix-dl/thumbs_-_epic-high-rule-dude-remix_-_Images_1.jpg"
+width="376"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-base_department-epic_high_rule_dude_remix-dl/thumbs_-_epic-high-rule-dude-remix_-_ImagesSTL_1.jpg"
+width="184"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="92"
+data-flex-basis="220px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-high-rule-dude-remix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-high-rule-dude-remix&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierodules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierodules SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The model by jimsbeanz is great, but I wanted a more distinct look for Epic because everyone assumes it&amp;#39;s a Carnibug when printed at that scale, so I spent a bit of time remixing it to look more like the original.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I did not add eyeballs on purpose, the holes for eyes are more crisp and it&amp;#39;s hard to tell anyways.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;File is fully supported and scaled with all parts, just drag and drop.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fits perfectly on a 25x40mm tank base, I might add one to the files later.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;File is fully supported and scaled with all parts, just drag and drop.&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; MagosCastiaTheta9 &gt; Space_Bugs_Empath_Pups_Free_Sample [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-magoscastiatheta9-space_bugs_empath_pups_free_sample-dl/</link><pubDate>Tue, 02 May 2023 18:35:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-magoscastiatheta9-space_bugs_empath_pups_free_sample-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-magoscastiatheta9-space_bugs_empath_pups_free_sample-dl/thumbs_-_space-bugs-empath-pups-free-sample_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; MagosCastiaTheta9 &gt; Space_Bugs_Empath_Pups_Free_Sample [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-magoscastiatheta9-space_bugs_empath_pups_free_sample-dl/thumbs_-_space-bugs-empath-pups-free-sample_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-magoscastiatheta9-space_bugs_empath_pups_free_sample-dl/thumbs_-_space-bugs-empath-pups-free-sample_-_ImagesSTL_1.jpg"
+width="744"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="372"
+data-flex-basis="892px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-bugs-empath-pups-free-sample" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-bugs-empath-pups-free-sample&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-bugs-empath-pups-free-sample&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie TYRANIDES Tyranides-zoanthropes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie TYRANIDES Tyranides-zoanthropes SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Free sample of the complete Empath Dam Pack: https://cults3d.com/en/3d-model/game/xeno-specimen-tyr-10nt-fb098666c0ec449c1116
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Contains:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-1 Empath Pup (Rock vs No rock)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-1 Pre-supported .stl and .lys files
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for 25mm base
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print at 100%, and enjoy :)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+-1 Pre-supported .stl and .lys files
+ImagesSTL_-_Magos_Empath_Pup_zip_unpack_Pre-supported_Empath_Pup_1__Rock__stl_.jpg
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; TheZomby &gt; Insectes_Spatial [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-insectes_spatial-dl/</link><pubDate>Tue, 01 Feb 2022 18:03:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-insectes_spatial-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-insectes_spatial-dl/thumbs_-_insectes-spatial_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; TheZomby &gt; Insectes_Spatial [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-insectes_spatial-dl/thumbs_-_insectes-spatial_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-insectes_spatial-dl/thumbs_-_insectes-spatial_-_ImagesSTL_1.jpg"
+width="3510"
+height="1200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="292"
+data-flex-basis="702px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/insectes-spatial" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/insectes-spatial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : insectes-spatial&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierodules&lt;/li&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierophants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierodules SUP&lt;/li&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-hierophants SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Some hungry critters for 6mm gaming.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_Insecte_Spatial_zip_unpack_Insecte_Spatial_Space_Bug_Flying_Swarm-support_stl_.jpg
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; 15mm_Warhammer &gt; 15mm_rescale_of_BroodLord__by_Tdoesepic_____pre_supported [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-15mm_warhammer-15mm_rescale_of_broodlord__by_tdoesepic_____pre_supported-dl/</link><pubDate>Sun, 11 Jul 2021 12:49:34 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-15mm_warhammer-15mm_rescale_of_broodlord__by_tdoesepic_____pre_supported-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-15mm_warhammer-15mm_rescale_of_broodlord__by_tdoesepic_____pre_supported-dl/thumbs_-_4905879_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; 15mm_Warhammer &gt; 15mm_rescale_of_BroodLord__by_Tdoesepic_____pre_supported [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-15mm_warhammer-15mm_rescale_of_broodlord__by_tdoesepic_____pre_supported-dl/thumbs_-_4905879_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-15mm_warhammer-15mm_rescale_of_broodlord__by_tdoesepic_____pre_supported-dl/thumbs_-_4905879_-_ImagesSTL_1.jpg"
+width="280"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="140"
+data-flex-basis="336px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4905879" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4905879&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4905879&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm TYRANIDES&lt;/li&gt;
+&lt;li&gt;15mm TYRANIDS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm TYRANIDES SUP&lt;/li&gt;
+&lt;li&gt;15mm TYRANIDS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is pre supported 15mm rescale of Epic scale Tyranid Broodlord made by talented Tdoesepic https://www.thingiverse.com/thing:4601250
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This is pre supported 15mm rescale of Epic scale Tyranid Broodlord made by talented Tdoesepic https://www.thingiverse.com/thing:4601250
+ImagesSTL_-_15mm_rescale_of_BroodLord__by_Tdoesepic___-_pre_supported_-_4905879_zip_unpack_files__lord_of_the_brood_15mm_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;15mm_rescale_of_BroodLord__by_Tdoesepic&lt;/em&gt;__-&lt;em&gt;pre_supported&lt;/em&gt;-&lt;em&gt;4905879_zip_unpack_files__lord_of_the_brood_15mm_Sup_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BaseDepartment &gt; Epic_High_Rule_Dude_Remix [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-basedepartment-epic_high_rule_dude_remix-non-dl/</link><pubDate>Tue, 18 Aug 2020 10:37:15 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-basedepartment-epic_high_rule_dude_remix-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-basedepartment-epic_high_rule_dude_remix-non-dl/thumbs_-_4573164_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BaseDepartment &gt; Epic_High_Rule_Dude_Remix [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-basedepartment-epic_high_rule_dude_remix-non-dl/thumbs_-_4573164_-_Images_1.jpg"
+width="376"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-basedepartment-epic_high_rule_dude_remix-non-dl/thumbs_-_4573164_-_Makes_1.jpg"
+width="336"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="168"
+data-flex-basis="403px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4573164" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4573164&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4573164&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-titans-hierodules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans TYRANIDES Tyranides-titans-hierodules NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The model by jimsbeanz is great, but I wanted a more distinct look for Epic because everyone assumes it&amp;#39;s a Carnibug when printed at that scale, so I spent a bit of time remixing it to look more like the original.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I did not add eyeballs on purpose, the holes for eyes are more crisp and it&amp;#39;s hard to tell anyways.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;File is fully supported and scaled with all parts, just drag and drop.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fits perfectly on a 25x40mm tank base, I might add one to the files later.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+File is fully supported and scaled with all parts, just drag and drop.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; afterimagedan &gt; BFG_Tyranid_Hive_Ship [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-bfg_tyranid_hive_ship-non-dl/</link><pubDate>Sun, 15 Mar 2020 14:35:45 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-bfg_tyranid_hive_ship-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-bfg_tyranid_hive_ship-non-dl/thumbs_-_4223674_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; afterimagedan &gt; BFG_Tyranid_Hive_Ship [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-bfg_tyranid_hive_ship-non-dl/thumbs_-_4223674_-_Images_1.jpg"
+width="896"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="448"
+data-flex-basis="1075px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4223674" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4223674&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4223674&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg TYRANIDES Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg TYRANIDES Flotte NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Tyranid&lt;/span&gt; &lt;span class="n"&gt;Hive&lt;/span&gt; &lt;span class="n"&gt;Ship&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Charybdis&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;BFG&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;XR&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;edited&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;printable&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Pyro&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Acid&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;mouth&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;uploaded&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;It&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;very&lt;/span&gt; &lt;span class="n"&gt;hollow&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;structural&lt;/span&gt; &lt;span class="n"&gt;supports&lt;/span&gt; &lt;span class="n"&gt;inside&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;stl&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve printed it once and it is huge and scary. You have to be very careful when removing the supports from the spines and tendrils.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This is a Tyranid Hive Ship (Charybdis in BFG:XR) and I have edited it to be printable, it has my version of Pyro-Acid in its mouth, and I also uploaded a supported version. It is very hollow but has structural supports inside the supported stl. I've printed it once and it is huge and scary. You have to be very careful when removing the supports from the spines and tendrils.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; afterimagedan &gt; Tyranid_BFG_Carnivore_Cruiser [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-tyranid_bfg_carnivore_cruiser-non-dl/</link><pubDate>Sun, 16 Feb 2020 04:42:35 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-tyranid_bfg_carnivore_cruiser-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-tyranid_bfg_carnivore_cruiser-non-dl/thumbs_-_4165624_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; afterimagedan &gt; Tyranid_BFG_Carnivore_Cruiser [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-afterimagedan-tyranid_bfg_carnivore_cruiser-non-dl/thumbs_-_4165624_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4165624" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4165624&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4165624&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg TYRANIDES Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg TYRANIDES Flotte NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is an edited Tyranid Carnivore Cruiser by Festera521 for Battlefleet Gothic. I mainly just filled in the arm holes. I recommend printing it at 45 degrees with the mouth up and the tail very well supported. The length of the model should be 84.72mm. I&amp;#39;ve printed two of them and they are well sized for a light cruiser.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This is an edited Tyranid Carnivore Cruiser by Festera521 for Battlefleet Gothic. I mainly just filled in the arm holes. I recommend printing it at 45 degrees with the mouth up and the tail very well supported. The length of the model should be 84.72mm. I've printed two of them and they are well sized for a light cruiser.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

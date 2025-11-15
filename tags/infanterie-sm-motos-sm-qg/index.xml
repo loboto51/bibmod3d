@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infanterie Sm-Motos Sm-Qg on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/infanterie-sm-motos-sm-qg/</link><description>Recent content in Infanterie Sm-Motos Sm-Qg on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 06 Dec 2022 03:42:13 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/infanterie-sm-motos-sm-qg/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; mirobucceri &gt; Galactic_Crusade_Bikes_MKVII_Remix_6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-mirobucceri-galactic_crusade_bikes_mkvii_remix_6_8mm-dl/</link><pubDate>Tue, 06 Dec 2022 03:42:13 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-mirobucceri-galactic_crusade_bikes_mkvii_remix_6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-mirobucceri-galactic_crusade_bikes_mkvii_remix_6_8mm-dl/thumbs_-_galactic-crusade-bikes-mkvii-remix-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; mirobucceri &gt; Galactic_Crusade_Bikes_MKVII_Remix_6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-mirobucceri-galactic_crusade_bikes_mkvii_remix_6_8mm-dl/thumbs_-_galactic-crusade-bikes-mkvii-remix-6-8mm_-_Images_1.jpg"
+width="2263"
+height="392"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="577"
+data-flex-basis="1385px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-mirobucceri-galactic_crusade_bikes_mkvii_remix_6_8mm-dl/thumbs_-_galactic-crusade-bikes-mkvii-remix-6-8mm_-_ImagesSTL_1.jpg"
+width="1424"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="712"
+data-flex-basis="1708px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusade-bikes-mkvii-remix-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusade-bikes-mkvii-remix-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusade-bikes-mkvii-remix-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;kitbash&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;using&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;wonderful&lt;/span&gt; &lt;span class="n"&gt;works&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;DangItBlobby&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;KillMeForPrizes&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;TheZomby&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="n"&gt;Moonjam&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Jimmyzimms&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;In&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;Remix&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;find&lt;/span&gt; &lt;span class="n"&gt;MKVII&lt;/span&gt; &lt;span class="n"&gt;armored&lt;/span&gt; &lt;span class="n"&gt;troops&lt;/span&gt; &lt;span class="n"&gt;mounted&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;bikes&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="n"&gt;K&lt;/span&gt; &lt;span class="n"&gt;universe&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;archive&lt;/span&gt; &lt;span class="n"&gt;contains&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;biker&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;sergeant&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;chaplain&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;librarian&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;captain&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;bearer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;assault&lt;/span&gt; &lt;span class="n"&gt;bike&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;found&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;useful&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;buy&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;beer&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;appreciate&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;paypalme&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;orcsworkshop&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Full_Ball_Bearing_Galactic_Crusaders_6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/</link><pubDate>Sat, 30 Oct 2021 13:58:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Full_Ball_Bearing_Galactic_Crusaders_6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_Images_1.jpg"
+width="456"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="228"
+data-flex-basis="547px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_ImagesSTL_1.jpg"
+width="2632"
+height="1000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="263"
+data-flex-basis="631px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5059449" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5059449&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5059449&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut-volant SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-qg SM30K&lt;/li&gt;
+&lt;li&gt;epic volants SMI Land-Speeders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut-volant SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-qg SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic volants SMI Land-Speeders SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Full set of epic scale &amp;#34;Ball Bearing&amp;#34; marines.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;SOURCES:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam&amp;#39;s amazing Galatic Crusaders - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Ball Bearing Marines by DangItBlobby - https://www.thingiverse.com/thing:4776617
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_Full_Ball_Bearing_Galactic_Crusaders_6-8mm_-_5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Assault_MK5_Breachers_Support_6mm_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_Autocannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyBolter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyFlamer_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyVulkite_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_Lascannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_MissileLauncher_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_MultiMelta_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_PlasmaCannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Flamer_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Melta_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Plasma_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Rotor_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Vulkite_6mm_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tc63 &gt; Galactic_Crusaders_Bike_Comms [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tc63-galactic_crusaders_bike_comms-dl/</link><pubDate>Wed, 01 Sep 2021 10:55:01 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tc63-galactic_crusaders_bike_comms-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tc63-galactic_crusaders_bike_comms-dl/thumbs_-_4946861_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tc63 &gt; Galactic_Crusaders_Bike_Comms [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tc63-galactic_crusaders_bike_comms-dl/thumbs_-_4946861_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tc63-galactic_crusaders_bike_comms-dl/thumbs_-_4946861_-_ImagesSTL_1.jpg"
+width="144"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="72"
+data-flex-basis="172px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4946861" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4946861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4946861&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Bike for command bases
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; EpicRich &gt; Evil_Marines_Biker_Command__Galactic_Marines___Bike_Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/</link><pubDate>Wed, 24 Feb 2021 21:50:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/thumbs_-_evil-marines-biker-command-galactic-marines-bike-remix_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; EpicRich &gt; Evil_Marines_Biker_Command__Galactic_Marines___Bike_Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/thumbs_-_evil-marines-biker-command-galactic-marines-bike-remix_-_Images_1.jpg"
+width="304"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="152"
+data-flex-basis="364px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/thumbs_-_evil-marines-biker-command-galactic-marines-bike-remix_-_ImagesSTL_1.jpg"
+width="584"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="292"
+data-flex-basis="700px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-epicrich-evil_marines_biker_command__galactic_marines___bike_remix_-dl/thumbs_-_evil-marines-biker-command-galactic-marines-bike-remix_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/evil-marines-biker-command-galactic-marines-bike-remix" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/evil-marines-biker-command-galactic-marines-bike-remix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : evil-marines-biker-command-galactic-marines-bike-remix&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-motos&lt;/li&gt;
+&lt;li&gt;epic infanterie SMC Sm-motos Sm-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-motos SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMC Sm-motos Sm-qg SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic scale Evil Marines biker command. Includes Sorcerer, Lord, Dark Apostle and Icon Bearer. Pre supported
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Credit to
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;MoonJam for the riders, weapons and core of the bikes
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fede3DWorkshop for the bike armour
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;slavikk for the low poly skull
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;LoggyK for the shoulder pads
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;FalvaFlavius for the backpack
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;LoggyK, Sumbu, BlueArrow for the helmets
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;mcallaghan95 for the Dark Apostle&amp;#39;s head
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;cornivius for the braziers
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;Epic scale Evil Marines biker command. Includes Sorcerer, Lord, Dark Apostle and Icon Bearer. Pre supported&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Bike_Command___6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___bike_command___6_8mm-dl/</link><pubDate>Thu, 05 Nov 2020 18:08:18 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___bike_command___6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___bike_command___6_8mm-dl/thumbs_-_galactic-crusaders-bike-command-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Bike_Command___6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___bike_command___6_8mm-dl/thumbs_-_galactic-crusaders-bike-command-6-8mm_-_Images_1.jpg"
+width="2670"
+height="368"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="725"
+data-flex-basis="1741px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___bike_command___6_8mm-dl/thumbs_-_galactic-crusaders-bike-command-6-8mm_-_ImagesSTL_1.jpg"
+width="1336"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="334"
+data-flex-basis="801px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/galactic-crusaders-bike-command-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/galactic-crusaders-bike-command-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-bike-command-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print ready for resin printers. Just import, make sure the base is on the print bed, slice then print. 2xAA and 0.02mm layer height reccommended.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These files are not intended for FDM slicers or printers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Please bear in mind that these miniatures have extremely fragile parts despite my best efforts to make everything as solid as possible. Handle with care.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards
+ImagesSTL_-_galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_B_P_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_C_P_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_M_P_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_P_P_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_T_P_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusaders-bike-command-6-8mm20201105-9276-ew2vsw_zip_unpack_MoonJammy_galactic-crusaders-bike-command-6-8mm_NoSup_B_W_P_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item></channel></rss>

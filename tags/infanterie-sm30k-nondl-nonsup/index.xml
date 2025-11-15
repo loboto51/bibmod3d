@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infanterie SM30K NONDL NONSUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/infanterie-sm30k-nondl-nonsup/</link><description>Recent content in Infanterie SM30K NONDL NONSUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 17 Jun 2025 22:22:48 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/infanterie-sm30k-nondl-nonsup/index.xml" rel="self" type="application/rss+xml"/><item><title>[PAYANT] Cults3d &gt; DaffMakes &gt; 8mm_Exterminators___Multipack [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-daffmakes-8mm_exterminators___multipack-non-dl/</link><pubDate>Tue, 17 Jun 2025 22:22:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-daffmakes-8mm_exterminators___multipack-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-daffmakes-8mm_exterminators___multipack-non-dl/thumbs_-_8mm-exterminators-multipack_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; DaffMakes &gt; 8mm_Exterminators___Multipack [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-daffmakes-8mm_exterminators___multipack-non-dl/thumbs_-_8mm-exterminators-multipack_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-daffmakes-8mm_exterminators___multipack-non-dl/thumbs_-_8mm-exterminators-multipack_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/8mm-exterminators-multipack" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/8mm-exterminators-multipack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 8mm-exterminators-multipack&lt;/p&gt;
+&lt;p&gt;Prix : 8.82 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;Made&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;collaboration&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;Sedivalle&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;](&lt;/span&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;users&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Sedivalle&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Thumbnail&lt;/span&gt; &lt;span class="n"&gt;painted&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;excellent&lt;/span&gt; &lt;span class="n"&gt;Draconian&lt;/span&gt; &lt;span class="n"&gt;Minipainting&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;pack&lt;/span&gt; &lt;span class="n"&gt;contains&lt;/span&gt; &lt;span class="n"&gt;Regular&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Weapons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Command&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Sedivalle&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s Exterminators, resculpted and adjusted for printing at 8mm scale for all of your mass wargames, or scaled up as you see fit!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Options&lt;/span&gt; &lt;span class="n"&gt;include&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;***&lt;/span&gt;&lt;span class="n"&gt;Small&lt;/span&gt; &lt;span class="n"&gt;Arms&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;***&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Fist&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Claw&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Dual&lt;/span&gt; &lt;span class="n"&gt;Claws&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Poses&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;***&lt;/span&gt;&lt;span class="n"&gt;Command&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;***&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Champion&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Banner&lt;/span&gt; &lt;span class="n"&gt;Bearer&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;Fist&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;Bolter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Captain&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;choice&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;large&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;crest&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;***&lt;/span&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Weapons&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;***&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Bolters&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Plasma&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Heat&lt;/span&gt; &lt;span class="n"&gt;Rays&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;Disintegrator&lt;/span&gt; &lt;span class="n"&gt;cannons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Poses&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Mirroring&lt;/span&gt; &lt;span class="n"&gt;suggested&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;additional&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d like to keep up with my current projects, and support the modelling work I do, please check out my patreon at: www.patreon.com/Daffmakes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Also&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;check&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;discord&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;chat&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;enjoyers&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;post&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;stuff&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;discord&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;gg&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;JuJBmc6mQs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; alexgor248 &gt; 8MM_FREE_KITS_FOR_LBT_ASTRA_AIRBORN_FORCES_TANK [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-alexgor248-8mm_free_kits_for_lbt_astra_airborn_forces_tank-non-dl/</link><pubDate>Fri, 29 Mar 2024 11:05:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-alexgor248-8mm_free_kits_for_lbt_astra_airborn_forces_tank-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-alexgor248-8mm_free_kits_for_lbt_astra_airborn_forces_tank-non-dl/thumbs_-_front-design_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; alexgor248 &gt; 8MM_FREE_KITS_FOR_LBT_ASTRA_AIRBORN_FORCES_TANK [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-alexgor248-8mm_free_kits_for_lbt_astra_airborn_forces_tank-non-dl/thumbs_-_front-design_-_Images_1.jpg"
+width="960"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="480"
+data-flex-basis="1152px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/front-design" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/front-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : front-design&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;for tanks
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;tank commanders are based on EPIC NU-BEAKY COMMAND SQUAD by DAFFMAKES
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/epic-nu-beaky-command-squad
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__two_bolt_pistols_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__two_bolt_pistols_-non-dl/</link><pubDate>Sat, 06 Jan 2024 01:22:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__two_bolt_pistols_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__two_bolt_pistols_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__two_bolt_pistols_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__two_bolt_pistols_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.jpg"
+width="1512"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="756"
+data-flex-basis="1814px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_lascutters_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lascutters_-non-dl/</link><pubDate>Fri, 05 Jan 2024 12:57:39 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lascutters_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lascutters_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-lasc_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_lascutters_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lascutters_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-lasc_-_Images_1.jpg"
+width="1800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="900"
+data-flex-basis="2160px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-lasc" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-lasc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-lasc&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_gravguns__ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_gravguns__-non-dl/</link><pubDate>Fri, 05 Jan 2024 12:32:45 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_gravguns__-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_gravguns__-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-grav_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_gravguns__ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_gravguns__-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-grav_-_Images_1.jpg"
+width="1976"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="988"
+data-flex-basis="2371px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-grav" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-grav&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-grav&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_lightning_chargers_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lightning_chargers_-non-dl/</link><pubDate>Fri, 05 Jan 2024 12:20:33 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lightning_chargers_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lightning_chargers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-ligh_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_lightning_chargers_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_lightning_chargers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-ligh_-_Images_1.jpg"
+width="1960"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="980"
+data-flex-basis="2352px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-ligh" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-ligh&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-ligh&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_flamers_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_flamers_-non-dl/</link><pubDate>Fri, 05 Jan 2024 08:48:01 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_flamers_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_flamers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-flam_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_flamers_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_flamers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-flam_-_Images_1.jpg"
+width="1736"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="868"
+data-flex-basis="2083px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-flam" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-flam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-flam&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_meltaguns_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_meltaguns_-non-dl/</link><pubDate>Thu, 04 Jan 2024 10:44:27 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_meltaguns_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_meltaguns_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-melt_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_with_meltaguns_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_with_meltaguns_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-melt_-_Images_1.jpg"
+width="1696"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="848"
+data-flex-basis="2035px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-melt" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-melt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields-with-melt&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_-non-dl/</link><pubDate>Thu, 04 Jan 2024 10:09:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered__boarding_shields_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered__boarding_shields_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-boarding-shields_-_Images_1.jpg"
+width="504"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="252"
+data-flex-basis="604px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-boarding-shields&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-boarding-shields&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-assaut SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_Volkite_Culverin_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_volkite_culverin_-non-dl/</link><pubDate>Tue, 02 Jan 2024 05:09:36 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_volkite_culverin_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_volkite_culverin_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_Volkite_Culverin_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_volkite_culverin_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_Images_1.jpg"
+width="1864"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="932"
+data-flex-basis="2236px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_lightningrifle_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningrifle_-non-dl/</link><pubDate>Sun, 31 Dec 2023 04:25:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningrifle_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningrifle_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-lightningrifle_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_lightningrifle_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningrifle_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-lightningrifle_-_Images_1.jpg"
+width="1248"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="624"
+data-flex-basis="1497px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-lightningrifle" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-lightningrifle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-lightningrifle&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_lightningchargers_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningchargers_-non-dl/</link><pubDate>Sun, 31 Dec 2023 04:18:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningchargers_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningchargers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-lightningchargers_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; galactic_crusaders_Boarding_Armour_Troops_remastered_lightningchargers_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-galactic_crusaders_boarding_armour_troops_remastered_lightningchargers_-non-dl/thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-lightningchargers_-_Images_1.jpg"
+width="1136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="568"
+data-flex-basis="1363px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-lightningchargers" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-boarding-armour-troops-remastered-lightningchargers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-boarding-armour-troops-remastered-lightningchargers&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;my update on the great Boarding Armour Troops by moonjammy using parts i found on cults, as soon as i find the names i&amp;#39;ll list them here
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; dk123456147852 &gt; GALACTIC_CRUSADERS___VEXILLA_BOARDING_ARMOUR_TROOPS___6_8MM [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dk123456147852-galactic_crusaders___vexilla_boarding_armour_troops___6_8mm-non-dl/</link><pubDate>Tue, 12 Jan 2021 20:19:09 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dk123456147852-galactic_crusaders___vexilla_boarding_armour_troops___6_8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dk123456147852-galactic_crusaders___vexilla_boarding_armour_troops___6_8mm-non-dl/thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; dk123456147852 &gt; GALACTIC_CRUSADERS___VEXILLA_BOARDING_ARMOUR_TROOPS___6_8MM [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dk123456147852-galactic_crusaders___vexilla_boarding_armour_troops___6_8mm-non-dl/thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusaders-vexilla-boarding-armour-troops-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusaders-vexilla-boarding-armour-troops-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-vexilla-boarding-armour-troops-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Added a legion vexilla with some adjustments to MoonJammy&amp;#39;s amazing galactic crusaders
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I was able to successfully print them on my Mono X. Becareful because the vexilla is fragile.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Vexilla ClassyGameJoe on thingiverse
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.thingiverse.com/thing:4070319
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Galactic Crusaders from MoonJammy
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/art/galactic-crusaders-boarding-armour-troops-6-8mm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Special_Weapons___6_8mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___special_weapons___6_8mm-non-dl/</link><pubDate>Thu, 05 Nov 2020 17:20:01 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___special_weapons___6_8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___special_weapons___6_8mm-non-dl/thumbs_-_galactic-crusaders-special-weapons-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Special_Weapons___6_8mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___special_weapons___6_8mm-non-dl/thumbs_-_galactic-crusaders-special-weapons-6-8mm_-_Images_1.jpg"
+width="2670"
+height="352"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="758"
+data-flex-basis="1820px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___special_weapons___6_8mm-non-dl/thumbs_-_galactic-crusaders-special-weapons-6-8mm_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/galactic-crusaders-special-weapons-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/galactic-crusaders-special-weapons-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-special-weapons-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print ready for resin printers. Just import, make sure the base is on the print bed, slice then print. 2xAA and 0.02mm layer height reccommended.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These files are not intended for FDM slicers or printers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Details like this are often irrelevant in mass battle games, but I figured they&amp;#39;d be a cool option.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Please bear in mind that some of these miniatures have extremely fragile parts despite my best efforts to make everything as solid as possible. Handle with care.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

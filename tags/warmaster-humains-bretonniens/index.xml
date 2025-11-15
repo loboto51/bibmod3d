@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Warmaster HUMAINS BRETONNIENS on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/warmaster-humains-bretonniens/</link><description>Recent content in Warmaster HUMAINS BRETONNIENS on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Fri, 25 Jul 2025 21:23:33 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/warmaster-humains-bretonniens/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Wagon_Train [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_wagon_train-dl/</link><pubDate>Fri, 25 Jul 2025 21:23:33 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_wagon_train-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_wagon_train-dl/thumbs_-_7101038_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Wagon_Train [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_wagon_train-dl/thumbs_-_7101038_-_Images_1.jpg"
+width="2670"
+height="568"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="470"
+data-flex-basis="1128px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_wagon_train-dl/thumbs_-_7101038_-_ImagesSTL_1.jpg"
+width="2132"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="533"
+data-flex-basis="1279px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:7101038" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:7101038&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 7101038&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;peasant&lt;/span&gt; &lt;span class="n"&gt;wagons&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Warmaster&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Three&lt;/span&gt; &lt;span class="n"&gt;wagon&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;three&lt;/span&gt; &lt;span class="n"&gt;drivers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;four&lt;/span&gt; &lt;span class="n"&gt;horse&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;cargo&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;carts&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;couple&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;fitting&lt;/span&gt; &lt;span class="n"&gt;ones&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Other&lt;/span&gt; &lt;span class="n"&gt;sources&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;myminifactory&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;object&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;mounted&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;yeomen&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;miniatures&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;modular&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;200824&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;myminifactory&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;object&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;medieval&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;infantry&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;miniatures&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;modular&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;225000&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;printables&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;969645&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;lego&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;compatible&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;88704&lt;/span&gt;&lt;span class="n"&gt;dat&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;minifig&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;whip&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;bent&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;files&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;makerworld&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1317170&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;the&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;lady&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;of&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;elche&lt;/span&gt;&lt;span class="c1"&gt;#profileId-1352546&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Green_Knight [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_green_knight-non-dl/</link><pubDate>Thu, 30 Jan 2025 21:24:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_green_knight-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_green_knight-non-dl/thumbs_-_6931766_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Green_Knight [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_green_knight-non-dl/thumbs_-_6931766_-_Images_1.jpg"
+width="1496"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="748"
+data-flex-basis="1795px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_green_knight-non-dl/thumbs_-_6931766_-_Makes_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6931766" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6931766&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6931766&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A 10mm rendition of the famous Bretonnian special character for Warmaster. The Green Knight holds a special place in my heart — I received my Warhammer miniature as a gift from my wife years ago, and it’s been a cherished piece ever since.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is just a minor edit of the fantastic model of Ilhadiel: https://www.myminifactory.com/object/3d-print-green-knight-miniature-32mm-modular-262486
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;There are two versions, with or without pennant. I have not printed him yet, hope the detail survives.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Bowmen_of_Bergerac [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen_of_bergerac-non-dl/</link><pubDate>Fri, 24 Jan 2025 20:00:59 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen_of_bergerac-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen_of_bergerac-non-dl/thumbs_-_6924609_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Bowmen_of_Bergerac [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen_of_bergerac-non-dl/thumbs_-_6924609_-_Images_1.jpg"
+width="2296"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1148"
+data-flex-basis="2755px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen_of_bergerac-non-dl/thumbs_-_6924609_-_Makes_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6924609" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6924609&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6924609&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Jules is still my favourite Warhammer character, but Bertrand and his merry band is close second (I am a huge Robin Hood fan). Thus I had to convert them to 10mm. This single stand should complement my Bowmen stands nicely.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The poor rabbit Hugo caught is converted from https://cults3d.com/en/3d-model/game/friendly-rabbitfolk-32mm-scale
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Enchantress_on_Pegasus [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress_on_pegasus-non-dl/</link><pubDate>Sun, 06 Oct 2024 22:06:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress_on_pegasus-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress_on_pegasus-non-dl/thumbs_-_6789748_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Enchantress_on_Pegasus [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress_on_pegasus-non-dl/thumbs_-_6789748_-_Images_1.jpg"
+width="1496"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="748"
+data-flex-basis="1795px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress_on_pegasus-non-dl/thumbs_-_6789748_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6789748" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6789748&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6789748&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A bretonnian enchantress on pegasus for Warmaster. With this I covered all bretonnian army list entries for Warmaster and Warmaster Revolution.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The damsel was created in TitanCraft., the rest remixed.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Any similarities with Scarlett Johansson are completely unintentional.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Grail_Reliquae_and_Pilgrims [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_reliquae_and_pilgrims-non-dl/</link><pubDate>Sat, 05 Oct 2024 15:47:37 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_reliquae_and_pilgrims-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_reliquae_and_pilgrims-non-dl/thumbs_-_6788293_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Grail_Reliquae_and_Pilgrims [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_reliquae_and_pilgrims-non-dl/thumbs_-_6788293_-_Images_1.jpg"
+width="2825"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1412"
+data-flex-basis="3390px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_reliquae_and_pilgrims-non-dl/thumbs_-_6788293_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6788293" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6788293&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6788293&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Grail reliquae with guards (1 stand) and pilgrims (2 strips) for Warmaster. Assembled from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.myminifactory.com/object/3d-print-warrior-priests-with-relic-miniatures-32mm-modular-287302
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.myminifactory.com/object/3d-print-medieval-warrior-priest-miniatures-32mm-modular-279995
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Tristan_le_Troubadour_and_Jules_le_Jongleur [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_tristan_le_troubadour_and_jules_le_jongleur-non-dl/</link><pubDate>Tue, 01 Oct 2024 21:33:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_tristan_le_troubadour_and_jules_le_jongleur-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_tristan_le_troubadour_and_jules_le_jongleur-non-dl/thumbs_-_6784682_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Tristan_le_Troubadour_and_Jules_le_Jongleur [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_tristan_le_troubadour_and_jules_le_jongleur-non-dl/thumbs_-_6784682_-_Images_1.jpg"
+width="1760"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="880"
+data-flex-basis="2112px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_tristan_le_troubadour_and_jules_le_jongleur-non-dl/thumbs_-_6784682_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6784682" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6784682&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6784682&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Tristan&lt;/span&gt; &lt;span class="n"&gt;le&lt;/span&gt; &lt;span class="n"&gt;Troubadour&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Jules&lt;/span&gt; &lt;span class="n"&gt;le&lt;/span&gt; &lt;span class="n"&gt;Jester&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Warmaster&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;Gergely&lt;/span&gt; &lt;span class="n"&gt;Juhász&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39; 28 mm miniatures. but used a cuple of others to construct the final result.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;horse&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;various&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;periods&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;horses&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;&lt;span class="n"&gt;srsltid&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;AfmBOor8OiiSviYz3bfuDqdAoZOzV7H2nAICBW5uDkwNdDQg&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;XOC4Cz&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;staff&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;mage&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;with&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;owl&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;staff&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;support&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;free&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;mini&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;toy&lt;/span&gt; &lt;span class="n"&gt;horse&lt;/span&gt; &lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;printables&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;557985&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;horse&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;statue&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scan&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pegasus&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;&lt;span class="n"&gt;lang&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Grail_Knights [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_knights-non-dl/</link><pubDate>Sun, 08 Sep 2024 23:17:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_knights-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_knights-non-dl/thumbs_-_6759957_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Grail_Knights [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_knights-non-dl/thumbs_-_6759957_-_Images_1.jpg"
+width="2296"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1148"
+data-flex-basis="2755px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_grail_knights-non-dl/thumbs_-_6759957_-_Makes_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6759957" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6759957&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6759957&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Four strips of grail knights for Warmaster. Converted mostly from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;capes: https://cults3d.com/en/3d-model/game/tabards-for-heavy-destroyers
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;helms: https://cults3d.com/en/3d-model/game/heraldry-knight-grail-helmet
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;lances and banner: https://www.thingiverse.com/thing:4558069
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;2024.09.10 fixed the command strip, I noticed while preparing for printing that the lance had some inwards normals.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Pegasus_Knights [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_pegasus_knights-non-dl/</link><pubDate>Tue, 03 Sep 2024 23:02:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_pegasus_knights-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_pegasus_knights-non-dl/thumbs_-_6754043_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Pegasus_Knights [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_pegasus_knights-non-dl/thumbs_-_6754043_-_Images_1.jpg"
+width="2328"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1164"
+data-flex-basis="2793px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_pegasus_knights-non-dl/thumbs_-_6754043_-_Makes_1.jpg"
+width="904"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="452"
+data-flex-basis="1084px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6754043" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6754043&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6754043&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Three pegusus knights for Warmaster. Converted mostly from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Repanse_de_Lyonesse [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_repanse_de_lyonesse-non-dl/</link><pubDate>Sat, 31 Aug 2024 19:49:36 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_repanse_de_lyonesse-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_repanse_de_lyonesse-non-dl/thumbs_-_6750157_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Repanse_de_Lyonesse [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_repanse_de_lyonesse-non-dl/thumbs_-_6750157_-_Images_1.jpg"
+width="2064"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1032"
+data-flex-basis="2476px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_repanse_de_lyonesse-non-dl/thumbs_-_6750157_-_Makes_1.jpg"
+width="904"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="452"
+data-flex-basis="1084px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6750157" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6750157&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6750157&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Repanse&lt;/span&gt; &lt;span class="n"&gt;de&lt;/span&gt; &lt;span class="n"&gt;Lyonesse&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;favourite&lt;/span&gt; &lt;span class="n"&gt;Warhammer&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Warmaster&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;Gergely&lt;/span&gt; &lt;span class="n"&gt;Juhász&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39; 28 mm miniatures. but used a cuple of others to construct the final result.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;standard&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;solider&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;standard&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;age&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;of&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;souls&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;conversion&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;kit&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;chainmail&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3735718&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;feathers&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3907666&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3898126&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;shield&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;barding&lt;/span&gt; &lt;span class="n"&gt;decoration&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;4983268&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;head&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;dom&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;minions&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;with&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;stormy&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;shooters&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_General_on_Hippogriff [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/</link><pubDate>Wed, 14 Aug 2024 23:05:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/thumbs_-_6731003_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_General_on_Hippogriff [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/thumbs_-_6731003_-_Images_1.jpg"
+width="1584"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="792"
+data-flex-basis="1900px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/thumbs_-_6731003_-_ImagesSTL_1.jpg"
+width="126"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="63"
+data-flex-basis="151px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general_on_hippogriff-dl/thumbs_-_6731003_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6731003" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6731003&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6731003&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A single model of a Bretonnian General on Hippogriff for Warmaster.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Trebuchet [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/</link><pubDate>Sat, 10 Aug 2024 00:04:21 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/thumbs_-_6725184_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Trebuchet [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/thumbs_-_6725184_-_Images_1.jpg"
+width="2836"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="709"
+data-flex-basis="1701px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/thumbs_-_6725184_-_ImagesSTL_1.jpg"
+width="1712"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="856"
+data-flex-basis="2054px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_trebuchet-dl/thumbs_-_6725184_-_Makes_1.jpg"
+width="904"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="452"
+data-flex-basis="1084px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6725184" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6725184&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6725184&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A trebuchet and five strips of crew for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Bowmen [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/</link><pubDate>Wed, 07 Aug 2024 22:26:26 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/thumbs_-_6723196_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Bowmen [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/thumbs_-_6723196_-_Images_1.jpg"
+width="2836"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="709"
+data-flex-basis="1701px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/thumbs_-_6723196_-_ImagesSTL_1.jpg"
+width="1440"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="720"
+data-flex-basis="1728px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_bowmen-dl/thumbs_-_6723196_-_Makes_1.jpg"
+width="1504"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="752"
+data-flex-basis="1804px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723196" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723196&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723196&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Six strips of bowmen for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Enchantress [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/</link><pubDate>Wed, 07 Aug 2024 22:07:47 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/thumbs_-_6723187_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Enchantress [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/thumbs_-_6723187_-_Images_1.jpg"
+width="2935"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="733"
+data-flex-basis="1761px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/thumbs_-_6723187_-_ImagesSTL_1.jpg"
+width="568"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="284"
+data-flex-basis="681px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_enchantress-dl/thumbs_-_6723187_-_Makes_1.jpg"
+width="1504"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="752"
+data-flex-basis="1804px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723187" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723187&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723187&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A bretonnian enchantress for Warmaster on horse and on unicorn. Converted mostly from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;2024.08.10 during my first test print I noticed that the unicorn has its normals flipped. It is now fixed
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_General [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/</link><pubDate>Wed, 07 Aug 2024 22:00:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/thumbs_-_6723181_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_General [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/thumbs_-_6723181_-_Images_1.jpg"
+width="2024"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1012"
+data-flex-basis="2428px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/thumbs_-_6723181_-_ImagesSTL_1.jpg"
+width="624"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="312"
+data-flex-basis="748px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_general-dl/thumbs_-_6723181_-_Makes_1.jpg"
+width="904"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="452"
+data-flex-basis="1084px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723181" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723181&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723181&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A Bretonnian general and his retinue for Warmaster. Converted mostly from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Men_at_Arms [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/</link><pubDate>Wed, 07 Aug 2024 21:41:53 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/thumbs_-_6723167_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Men_at_Arms [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/thumbs_-_6723167_-_Images_1.jpg"
+width="2592"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1296"
+data-flex-basis="3110px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/thumbs_-_6723167_-_ImagesSTL_1.jpg"
+width="1392"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="696"
+data-flex-basis="1670px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_men_at_arms-dl/thumbs_-_6723167_-_Makes_1.jpg"
+width="904"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="452"
+data-flex-basis="1084px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723167" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723167&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723167&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Four strips of men at arms for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Peasants [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/</link><pubDate>Wed, 07 Aug 2024 21:36:30 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/thumbs_-_6723163_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Peasants [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/thumbs_-_6723163_-_Images_1.jpg"
+width="2296"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1148"
+data-flex-basis="2755px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/thumbs_-_6723163_-_ImagesSTL_1.jpg"
+width="1648"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="824"
+data-flex-basis="1977px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_peasants-dl/thumbs_-_6723163_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723163" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723163&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723163&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Four strips of peasants for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Mounted_Squires [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/</link><pubDate>Wed, 07 Aug 2024 21:25:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/thumbs_-_6723153_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Mounted_Squires [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/thumbs_-_6723153_-_Images_1.jpg"
+width="2825"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1412"
+data-flex-basis="3390px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/thumbs_-_6723153_-_ImagesSTL_1.jpg"
+width="1832"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="916"
+data-flex-basis="2198px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_mounted_squires-dl/thumbs_-_6723153_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6723153" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6723153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6723153&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Six strips of mounted squires for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Knights [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/</link><pubDate>Wed, 07 Aug 2024 21:09:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/thumbs_-_6722187_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Bretonnian_Knights [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/thumbs_-_6722187_-_Images_1.jpg"
+width="2825"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1412"
+data-flex-basis="3390px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/thumbs_-_6722187_-_ImagesSTL_1.jpg"
+width="1752"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="876"
+data-flex-basis="2102px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_bretonnian_knights-dl/thumbs_-_6722187_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6722187" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6722187&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6722187&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster BRETONNIENS NONSUP&lt;/li&gt;
+&lt;li&gt;warmaster HUMAINS BRETONNIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Six strips of knights for Warmaster. Converted from Gergely Juhász&amp;#39; 28 mm miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

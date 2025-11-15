@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technoprêtres on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/technopr%C3%AAtres/</link><description>Recent content in Technoprêtres on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Mon, 02 Jun 2025 00:21:13 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/technopr%C3%AAtres/index.xml" rel="self" type="application/rss+xml"/><item><title>[BON-MARCHE] Cults3d &gt; johnbearross &gt; 28_15_6mm_SpiderDrone_Robot_Infantry [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-johnbearross-28_15_6mm_spiderdrone_robot_infantry-non-dl/</link><pubDate>Mon, 02 Jun 2025 00:21:13 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-johnbearross-28_15_6mm_spiderdrone_robot_infantry-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-johnbearross-28_15_6mm_spiderdrone_robot_infantry-non-dl/thumbs_-_28-15-6mm-spiderdrone-robot-infantry_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; johnbearross &gt; 28_15_6mm_SpiderDrone_Robot_Infantry [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-johnbearross-28_15_6mm_spiderdrone_robot_infantry-non-dl/thumbs_-_28-15-6mm-spiderdrone-robot-infantry_-_Images_1.jpg"
+width="2454"
+height="1000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="245"
+data-flex-basis="588px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/28-15-6mm-spiderdrone-robot-infantry" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/28-15-6mm-spiderdrone-robot-infantry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 28-15-6mm-spiderdrone-robot-infantry&lt;/p&gt;
+&lt;p&gt;Prix : 1.74 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;li&gt;epic marcheurs AM Robots&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic marcheurs AM Robots NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;These&lt;/span&gt; &lt;span class="n"&gt;menacing&lt;/span&gt; &lt;span class="n"&gt;multi&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;legged&lt;/span&gt; &lt;span class="n"&gt;minions&lt;/span&gt; &lt;span class="n"&gt;come&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;scales&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;originally&lt;/span&gt; &lt;span class="n"&gt;sculpted&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;universal&lt;/span&gt; &lt;span class="n"&gt;nature&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;lack&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;cues&lt;/span&gt; &lt;span class="n"&gt;enables&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;massed&lt;/span&gt; &lt;span class="n"&gt;armies&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;nearly&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="n"&gt;setting&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;exchanged&lt;/span&gt; &lt;span class="n"&gt;easily&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;settings&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;spiderdrone&lt;/span&gt; &lt;span class="n"&gt;looks&lt;/span&gt; &lt;span class="n"&gt;impressive&lt;/span&gt; &lt;span class="n"&gt;next&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;human&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;spiderbots&lt;/span&gt; &lt;span class="n"&gt;look&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;crawl&lt;/span&gt; &lt;span class="n"&gt;over&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;pull&lt;/span&gt; &lt;span class="n"&gt;down&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;figure&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;multi&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;part&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;crafted&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;separate&lt;/span&gt; &lt;span class="n"&gt;legs&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;blasters&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;multiple&lt;/span&gt; &lt;span class="n"&gt;angles&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;fused&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;fill&lt;/span&gt; &lt;span class="n"&gt;entire&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;beds&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;little&lt;/span&gt; &lt;span class="n"&gt;creepy&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;crawlers&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Originally&lt;/span&gt; &lt;span class="n"&gt;created&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;escort&lt;/span&gt; &lt;span class="n"&gt;bots&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;onboard&lt;/span&gt; &lt;span class="n"&gt;infantry&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;ScorpionMech&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;offer&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;little&lt;/span&gt; &lt;span class="n"&gt;bots&lt;/span&gt; &lt;span class="n"&gt;come&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;deployed&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;stowed&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;full&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;empty&lt;/span&gt; &lt;span class="n"&gt;carrier&lt;/span&gt; &lt;span class="n"&gt;racks&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;adapted&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;builds&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;ScorpionMechs&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;figures&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;shown&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;reference&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;sold&lt;/span&gt; &lt;span class="n"&gt;separately&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Enjoy&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Best&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;JBR&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_MECHA_SERVO_LECTORS [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_servo_lectors-non-dl/</link><pubDate>Wed, 16 Apr 2025 14:39:59 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_servo_lectors-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_servo_lectors-non-dl/thumbs_-_epically-small-mecha-servo-lectors_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_MECHA_SERVO_LECTORS [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_servo_lectors-non-dl/thumbs_-_epically-small-mecha-servo-lectors_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epically-small-mecha-servo-lectors" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epically-small-mecha-servo-lectors&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epically-small-mecha-servo-lectors&lt;/p&gt;
+&lt;p&gt;Prix : 1.68 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres-assaut&lt;/li&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres-assaut NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sacred emissaries of the Machine-Faith clad in rites and circuitry, SERVO LECTORS interpret and shape the will of the Great Mecha!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;3 unique poses, each depicting a Servo-Lector mid-ritual.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for 8mm war games.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_MECHA_TYRANTS [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_tyrants-non-dl/</link><pubDate>Fri, 04 Apr 2025 03:00:20 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_tyrants-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_tyrants-non-dl/thumbs_-_epically-small-mecha-tyrants_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_MECHA_TYRANTS [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_mecha_tyrants-non-dl/thumbs_-_epically-small-mecha-tyrants_-_Images_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epically-small-mecha-tyrants" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epically-small-mecha-tyrants&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epically-small-mecha-tyrants&lt;/p&gt;
+&lt;p&gt;Prix : 1.67 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres-assaut&lt;/li&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres-assaut NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Charge into the heart of battle with MECHA-TYRANTS — ironclad machinations built to cleave and scorch!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Includes 6 furious poses of each swinging brutal Forge Axes and firing volatile Combine-Blasters for a total of 12 unique miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for 8mm war games.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Opportunitysoap &gt; Corrupted_Destroyers___8mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-opportunitysoap-corrupted_destroyers___8mm-non-dl/</link><pubDate>Fri, 25 Oct 2024 23:35:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-opportunitysoap-corrupted_destroyers___8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-opportunitysoap-corrupted_destroyers___8mm-non-dl/thumbs_-_dark-destroyers-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Opportunitysoap &gt; Corrupted_Destroyers___8mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-opportunitysoap-corrupted_destroyers___8mm-non-dl/thumbs_-_dark-destroyers-8mm_-_Images_1.jpg"
+width="471"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="235"
+data-flex-basis="565px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/dark-destroyers-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/dark-destroyers-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : dark-destroyers-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Two pairs of destroyers for a dark mechanical army.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Priest__Mr_Legs___6_8mm__FREE [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/</link><pubDate>Sat, 03 Dec 2022 18:05:47 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/thumbs_-_martian-cyborg-priest-mr-legs-6-8mm-free_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Priest__Mr_Legs___6_8mm__FREE [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/thumbs_-_martian-cyborg-priest-mr-legs-6-8mm-free_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/martian-cyborg-priest-mr-legs-6-8mm-free" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/martian-cyborg-priest-mr-legs-6-8mm-free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : martian-cyborg-priest-mr-legs-6-8mm-free&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A free Martian Cyborg Priest for 6-8mm epic scale.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;More models like this can be found here https://www.patreon.com/kmfpdesigns or here
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; www.myminifactory.com/users/KMFP_Designs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

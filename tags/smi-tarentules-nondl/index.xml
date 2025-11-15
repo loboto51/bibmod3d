@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SMI Tarentules NONDL on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/smi-tarentules-nondl/</link><description>Recent content in SMI Tarentules NONDL on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 04 Feb 2024 03:49:26 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/smi-tarentules-nondl/index.xml" rel="self" type="application/rss+xml"/><item><title>[BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_AIR_DEFENCE___AUTOGUN___PLASMA [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_air_defence___autogun___plasma-non-dl/</link><pubDate>Sun, 04 Feb 2024 03:49:26 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_air_defence___autogun___plasma-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_air_defence___autogun___plasma-non-dl/thumbs_-_epically-small-air-defence-autogun-plasma_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_AIR_DEFENCE___AUTOGUN___PLASMA [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-renderbenj-epically_small_air_defence___autogun___plasma-non-dl/thumbs_-_epically-small-air-defence-autogun-plasma_-_Images_1.jpg"
+width="1400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="700"
+data-flex-basis="1680px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epically-small-air-defence-autogun-plasma" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epically-small-air-defence-autogun-plasma&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epically-small-air-defence-autogun-plasma&lt;/p&gt;
+&lt;p&gt;Prix : 1.66 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Is&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;airspace&lt;/span&gt; &lt;span class="n"&gt;STILL&lt;/span&gt; &lt;span class="n"&gt;too&lt;/span&gt; &lt;span class="n"&gt;crowded&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Laser&lt;/span&gt; &lt;span class="n"&gt;Cannons&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;doing&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;job&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Look&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt; &lt;span class="n"&gt;further&lt;/span&gt; &lt;span class="n"&gt;than&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;EPICALLY&lt;/span&gt; &lt;span class="n"&gt;SMALL&lt;/span&gt; &lt;span class="n"&gt;AIR&lt;/span&gt; &lt;span class="n"&gt;DEFENCE&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;AUTOGUN&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;PLASMA&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;type&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;firing&lt;/span&gt; &lt;span class="n"&gt;style&lt;/span&gt; &lt;span class="n"&gt;effects&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;variation&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;wargames&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;down&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;around&lt;/span&gt; &lt;span class="mi"&gt;25&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Comes&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;25&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_AIR_DEFENCE___MISSILES___CANNONS [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-renderbenj-epically_small_air_defence___missiles___cannons-non-dl/</link><pubDate>Tue, 19 Dec 2023 10:42:44 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-renderbenj-epically_small_air_defence___missiles___cannons-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-renderbenj-epically_small_air_defence___missiles___cannons-non-dl/thumbs_-_epically-small-air-defence-missiles-cannons_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; RENDERBENJ &gt; EPICALLY_SMALL_AIR_DEFENCE___MISSILES___CANNONS [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-renderbenj-epically_small_air_defence___missiles___cannons-non-dl/thumbs_-_epically-small-air-defence-missiles-cannons_-_Images_1.jpg"
+width="1400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="700"
+data-flex-basis="1680px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epically-small-air-defence-missiles-cannons" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epically-small-air-defence-missiles-cannons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epically-small-air-defence-missiles-cannons&lt;/p&gt;
+&lt;p&gt;Prix : 2.77 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Is your airspace a bit crowded? Too many unauthorised flying enemies near your DZ?
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Look no further than the EPICALLY SMALL AIR DEFENCE - MISSILES &amp;amp; CANNONS !
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Each turret type has 4 options for firing styles, from static to menacingly over-the-top.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for 8mm wargames - scale down by around 25% for 6mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Comes with a 25mm base.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;____
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;15/01/24 - Presupported files now added and the turret ankles have been thickened due to a weak spot.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+15/01/24 - Presupported files now added and the turret ankles have been thickened due to a weak spot.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Pyrowalker &gt; Old_Spider_Mini_Turret [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-pyrowalker-old_spider_mini_turret-non-dl/</link><pubDate>Mon, 04 Sep 2023 11:40:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-pyrowalker-old_spider_mini_turret-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-pyrowalker-old_spider_mini_turret-non-dl/thumbs_-_old-spider-mini-turret_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Pyrowalker &gt; Old_Spider_Mini_Turret [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-pyrowalker-old_spider_mini_turret-non-dl/thumbs_-_old-spider-mini-turret_-_Images_1.jpg"
+width="2656"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1328"
+data-flex-basis="3187px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/old-spider-mini-turret" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/old-spider-mini-turret&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : old-spider-mini-turret&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Edited version of SciFi Sentry Turret from mrmcangry! https://cults3d.com/:104819
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;2 simple pieces each turret: weapon systems and base.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;For 8mm-6mm wargaming. Ave Dominus Nox!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; alexgor248 &gt; 32MM_Turret_IG_sci_fi [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-32mm_turret_ig_sci_fi-non-dl/</link><pubDate>Fri, 24 Jun 2022 08:05:45 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-32mm_turret_ig_sci_fi-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-32mm_turret_ig_sci_fi-non-dl/thumbs_-_turret-ig-sci-fi_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; alexgor248 &gt; 32MM_Turret_IG_sci_fi [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-32mm_turret_ig_sci_fi-non-dl/thumbs_-_turret-ig-sci-fi_-_Images_1.jpg"
+width="2136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1068"
+data-flex-basis="2563px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/turret-ig-sci-fi" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/turret-ig-sci-fi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : turret-ig-sci-fi&lt;/p&gt;
+&lt;p&gt;Prix : 3.53 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Tarentules NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Terrain for honest guys with lasguns
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>15mm Aliens-Divers SUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/15mm-aliens-divers-sup/</link><description>Recent content in 15mm Aliens-Divers SUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 01 Nov 2025 00:01:46 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/15mm-aliens-divers-sup/index.xml" rel="self" type="application/rss+xml"/><item><title>[BON-MARCHE] Cults3d &gt; Skeaze &gt; Fungal_Alien_Scrappers [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-skeaze-fungal_alien_scrappers-non-dl/</link><pubDate>Sat, 01 Nov 2025 00:01:46 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-skeaze-fungal_alien_scrappers-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-skeaze-fungal_alien_scrappers-non-dl/thumbs_-_fungal-alien-scrappers_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; Skeaze &gt; Fungal_Alien_Scrappers [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-skeaze-fungal_alien_scrappers-non-dl/thumbs_-_fungal-alien-scrappers_-_Images_1.jpg"
+width="2000"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="500"
+data-flex-basis="1200px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/fungal-alien-scrappers" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/fungal-alien-scrappers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : fungal-alien-scrappers&lt;/p&gt;
+&lt;p&gt;Prix : 1.72 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;motley&lt;/span&gt; &lt;span class="n"&gt;gang&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;fungal&lt;/span&gt; &lt;span class="n"&gt;aliens&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;equipped&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;My&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="n"&gt;document&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;ideas&lt;/span&gt; &lt;span class="n"&gt;behind&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;guys&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;wrote&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Orktober&lt;/span&gt; &lt;span class="mi"&gt;2024&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;release&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;link&lt;/span&gt; &lt;span class="n"&gt;below&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;finally&lt;/span&gt; &lt;span class="n"&gt;expanded&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;fungal&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;aliens&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Number&lt;/span&gt; &lt;span class="mi"&gt;01&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;slightly&lt;/span&gt; &lt;span class="n"&gt;tweaked&lt;/span&gt; &lt;span class="n"&gt;had&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;non&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;manifold&lt;/span&gt; &lt;span class="n"&gt;geometry&lt;/span&gt; &lt;span class="n"&gt;fixed&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;pre&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="mi"&gt;02&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;wasn&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t in the original).&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;They&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;default&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Pre&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m experimenting with FDM friendly pre-supported versions, but those aren&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;t&lt;/span&gt; &lt;span class="n"&gt;done&lt;/span&gt; &lt;span class="n"&gt;yet&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;32&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d suggest somewhere between 165-170%.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Number 01 has been slightly tweaked had some non-manifold geometry fixed. A pre-supported version of 02 is also included (which wasn't in the original).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;They are 15mm scale by default. Pre-supported versions in 15mm are included! I&amp;rsquo;m experimenting with FDM friendly pre-supported versions, but those aren&amp;rsquo;t done yet.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; dutchmogul &gt; New_Dominion__Mytho_Resistance_Cell [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_cell-non-dl/</link><pubDate>Sun, 01 Dec 2024 19:54:57 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_cell-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_cell-non-dl/thumbs_-_6853466_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; dutchmogul &gt; New_Dominion__Mytho_Resistance_Cell [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_cell-non-dl/thumbs_-_6853466_-_Images_1.jpg"
+width="2256"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="564"
+data-flex-basis="1353px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6853466" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6853466&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6853466&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers&lt;/li&gt;
+&lt;li&gt;15mm Sf-generiques Aliens-divers&lt;/li&gt;
+&lt;li&gt;28mm 15mm 40K IMP Necromunda Gangs-et-divers&lt;/li&gt;
+&lt;li&gt;28mm 40K IMP Gangs-et-divers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;15mm Sf-generiques Aliens-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;28mm 15mm 40K IMP Necromunda Gangs-et-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;28mm 40K IMP Gangs-et-divers NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is a collection of a few of my old designs, and creates a full 500 point starting Mytho-Resistance warband for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I&amp;#39;ll update here with some stats PDFs and links to the finished game once that&amp;#39;s released, but in the meantime, print and paint away. Each of these need supports but I&amp;#39;ve included pre-supported versions as well.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;For those of you who want to support what I do, please consider joining my [Ill Gotten Game Patreon](https://www.patreon.com/c/illgottengames). It really helps my little company to keep making stuff, and you&amp;#39;ll get a bunch of our commercially released products as well. There are licensed seller options for those who want to sell 3d prints of our designs. Even the $1/month pledge level helps, and we have a humongous (and growing) collection of 300+ support free STLs to which you&amp;#39;ll gain access to as soon as you pledge. Hope to see you there!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This is a collection of a few of my old designs, and creates a full 500 point starting Mytho-Resistance warband for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I'll update here with some stats PDFs and links to the finished game once that's released, but in the meantime, print and paint away. Each of these need supports but I've included pre-supported versions as well.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; dutchmogul &gt; New_Dominion__Mytho_Resistance_Elf_Arcanist [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_elf_arcanist-non-dl/</link><pubDate>Sat, 30 Nov 2024 20:42:10 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_elf_arcanist-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_elf_arcanist-non-dl/thumbs_-_6852173_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; dutchmogul &gt; New_Dominion__Mytho_Resistance_Elf_Arcanist [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-dutchmogul-new_dominion__mytho_resistance_elf_arcanist-non-dl/thumbs_-_6852173_-_Images_1.jpg"
+width="928"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="464"
+data-flex-basis="1113px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6852173" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6852173&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6852173&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers&lt;/li&gt;
+&lt;li&gt;15mm Sf-generiques Aliens-divers&lt;/li&gt;
+&lt;li&gt;28mm 15mm 40K IMP Necromunda Gangs-et-divers&lt;/li&gt;
+&lt;li&gt;28mm 40K IMP Gangs-et-divers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;15mm SFDIV Aliens-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;15mm Sf-generiques Aliens-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;28mm 15mm 40K IMP Necromunda Gangs-et-divers NONDL SUP&lt;/li&gt;
+&lt;li&gt;28mm 40K IMP Gangs-et-divers NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. This one got a bit more detail added, plus some subtle re-posing. Requires support when printing, but I included a pre-supported version too.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. This one got a bit more detail added, plus some subtle re-posing. Requires support when printing, but I included a pre-supported version too.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item></channel></rss>

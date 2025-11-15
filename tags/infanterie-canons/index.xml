@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Infanterie Canons on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/infanterie-canons/</link><description>Recent content in Infanterie Canons on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 27 Aug 2024 17:43:11 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/infanterie-canons/index.xml" rel="self" type="application/rss+xml"/><item><title>[PAYANT] Cults3d &gt; BitGloomMinis &gt; Celtic_Stealth_Warrior_Heavy_Weapons [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitgloomminis-celtic_stealth_warrior_heavy_weapons-non-dl/</link><pubDate>Tue, 27 Aug 2024 17:43:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitgloomminis-celtic_stealth_warrior_heavy_weapons-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitgloomminis-celtic_stealth_warrior_heavy_weapons-non-dl/thumbs_-_celtic-stealth-warrior-heavy-weapons_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; BitGloomMinis &gt; Celtic_Stealth_Warrior_Heavy_Weapons [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitgloomminis-celtic_stealth_warrior_heavy_weapons-non-dl/thumbs_-_celtic-stealth-warrior-heavy-weapons_-_Images_1.jpg"
+width="3192"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1596"
+data-flex-basis="3830px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/celtic-stealth-warrior-heavy-weapons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : celtic-stealth-warrior-heavy-weapons&lt;/p&gt;
+&lt;p&gt;Prix : 13.93 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-GGHOSTS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-GGHOSTS NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Celtic&lt;/span&gt; &lt;span class="n"&gt;Stealth&lt;/span&gt; &lt;span class="n"&gt;Warriors&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;back&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;And&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;re bringing the big guns.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;full&lt;/span&gt; &lt;span class="n"&gt;pack&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;complement&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;full&lt;/span&gt; &lt;span class="n"&gt;Celtic&lt;/span&gt; &lt;span class="n"&gt;Stealth&lt;/span&gt; &lt;span class="n"&gt;Army&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;Scale&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Included&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;pack&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;walkers&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;5&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;following&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="ne"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="ne"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Laser&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Laser&lt;/span&gt; &lt;span class="n"&gt;Destroyer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;AA&lt;/span&gt; &lt;span class="n"&gt;missiles&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Dronicide&lt;/span&gt; &lt;span class="n"&gt;Bomb&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Empty&lt;/span&gt; &lt;span class="n"&gt;walker&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;add&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Walker&lt;/span&gt; &lt;span class="n"&gt;Operators&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;AR&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;controllers&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Gun&lt;/span&gt; &lt;span class="n"&gt;Carriages&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;complete&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;Operator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fitted&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="ne"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;Laser&lt;/span&gt; &lt;span class="n"&gt;Destroyer&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="ne"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt; &lt;span class="n"&gt;Loader&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;5&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="n"&gt;Mortar&lt;/span&gt; &lt;span class="n"&gt;teams&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Some&lt;/span&gt; &lt;span class="n"&gt;extra&lt;/span&gt; &lt;span class="n"&gt;bits&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;ammo&lt;/span&gt; &lt;span class="n"&gt;crates&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Supported&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;completed&lt;/span&gt; &lt;span class="n"&gt;test&lt;/span&gt; &lt;span class="nb"&gt;prints&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;painted&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;elements&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;follow&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;Supported files are included, completed test prints and painted up elements to follow.&lt;/p&gt;</description></item><item><title>[PAYANT] Cults3d &gt; Darkartminiatures &gt; Outpost_Estarn___Weapons_Platforms [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-darkartminiatures-outpost_estarn___weapons_platforms-non-dl/</link><pubDate>Mon, 29 Jul 2024 14:53:27 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-darkartminiatures-outpost_estarn___weapons_platforms-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-darkartminiatures-outpost_estarn___weapons_platforms-non-dl/thumbs_-_outpost-estarn-weapons-platforms_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; Darkartminiatures &gt; Outpost_Estarn___Weapons_Platforms [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-darkartminiatures-outpost_estarn___weapons_platforms-non-dl/thumbs_-_outpost-estarn-weapons-platforms_-_Images_1.jpg"
+width="480"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="240"
+data-flex-basis="576px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/outpost-estarn-weapons-platforms" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/outpost-estarn-weapons-platforms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : outpost-estarn-weapons-platforms&lt;/p&gt;
+&lt;p&gt;Prix : 3.54 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Canons&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Canons NONDL SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Canons NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;STL&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Supported&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Lychee&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;includes&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Outpost&lt;/span&gt; &lt;span class="n"&gt;Estarn&lt;/span&gt; &lt;span class="n"&gt;Weapons&lt;/span&gt; &lt;span class="n"&gt;Platforms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="n"&gt;note&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;supplied&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Simply&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;mirror&amp;#39;&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;slicer&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;double&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Many&lt;/span&gt; &lt;span class="n"&gt;thanks&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;interest&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Regards&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Klaus&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;All files have STL, Supported and Lychee versions&lt;/p&gt;</description></item><item><title>[PAYANT] Cults3d &gt; alexgor248 &gt; 8mm_SUPPORT_RIEPER_Astra_Guard_SPG [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_support_rieper_astra_guard_spg-non-dl/</link><pubDate>Mon, 01 Jul 2024 11:10:28 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_support_rieper_astra_guard_spg-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_support_rieper_astra_guard_spg-non-dl/thumbs_-_8mm-support-rieper-astra-guard-spg_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; alexgor248 &gt; 8mm_SUPPORT_RIEPER_Astra_Guard_SPG [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_support_rieper_astra_guard_spg-non-dl/thumbs_-_8mm-support-rieper-astra-guard-spg_-_Images_1.jpg"
+width="1808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="904"
+data-flex-basis="2169px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/8mm-support-rieper-astra-guard-spg" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/8mm-support-rieper-astra-guard-spg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 8mm-support-rieper-astra-guard-spg&lt;/p&gt;
+&lt;p&gt;Prix : 6 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-VOSTROYENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-VOSTROYENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sci fi SP-Cannons for 8 mm. To a new /220 very epic scale.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- autocannons
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- laser cannons
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- mortars
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- underground mortars
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Galactic_Crusader_Fencing_Support_Gun_Platform [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/</link><pubDate>Mon, 24 Jun 2024 17:54:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Galactic_Crusader_Fencing_Support_Gun_Platform [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_Images_1.jpg"
+width="2344"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1172"
+data-flex-basis="2812px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_ImagesSTL_1.jpg"
+width="1712"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="285"
+data-flex-basis="684px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusader-fencing-support-gun-platform" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusader-fencing-support-gun-platform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusader-fencing-support-gun-platform&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Contains&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;collection&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;myself&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Chris&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Moonjammy&lt;/span&gt; &lt;span class="n"&gt;originally&lt;/span&gt; &lt;span class="n"&gt;posted&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;taken&lt;/span&gt; &lt;span class="n"&gt;down&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Grandma&lt;/span&gt; &lt;span class="n"&gt;Wendy&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve uploaded them here to give a single spot to download for folks again.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Provides&lt;/span&gt; &lt;span class="n"&gt;spotters&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;drivers&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Segmented&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Boarding&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Plate&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Ballbearing&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Beaky&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Gun&lt;/span&gt; &lt;span class="n"&gt;platforms&lt;/span&gt; &lt;span class="n"&gt;containing&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;machine&lt;/span&gt; &lt;span class="n"&gt;guns&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;gravity&lt;/span&gt; &lt;span class="n"&gt;cannons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;mortars&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Contains&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Dangitblobby&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;jimmyzims&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Chris&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Moonjammy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;Name&lt;/span&gt; &lt;span class="n"&gt;redacted&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;protect&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;party&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Grandma&lt;/span&gt; &lt;span class="n"&gt;Wendy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Bolter_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk2_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk2_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_rifle_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_rifle_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Graviton_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk6_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_Rapiers_nogunner-1_zip_unpack_Rapiers_nogunner_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_Rapiers_nogunner_zip_unpack_Rapiers_nogunner_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Tryvoriousmaximous &gt; rapier_battery [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/</link><pubDate>Wed, 03 Jan 2024 22:08:44 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Tryvoriousmaximous &gt; rapier_battery [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_Images_1.jpg"
+width="2670"
+height="360"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="741"
+data-flex-basis="1780px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_ImagesSTL_1.jpg"
+width="2535"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="422"
+data-flex-basis="1014px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6415417" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6415417&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6415417&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Someone said we needed some of these. So, I put in some effort.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; wycho12 &gt; Space_Dwarf_Army_6mm_Epic_Scale__presupported_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-wycho12-space_dwarf_army_6mm_epic_scale__presupported_-non-dl/</link><pubDate>Tue, 22 Aug 2023 19:54:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-wycho12-space_dwarf_army_6mm_epic_scale__presupported_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-wycho12-space_dwarf_army_6mm_epic_scale__presupported_-non-dl/thumbs_-_space-dwarf-army-6mm-epic-scale_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; wycho12 &gt; Space_Dwarf_Army_6mm_Epic_Scale__presupported_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-wycho12-space_dwarf_army_6mm_epic_scale__presupported_-non-dl/thumbs_-_space-dwarf-army-6mm-epic-scale_-_Images_1.jpg"
+width="2906"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="484"
+data-flex-basis="1162px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-dwarf-army-6mm-epic-scale" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-dwarf-army-6mm-epic-scale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-dwarf-army-6mm-epic-scale&lt;/p&gt;
+&lt;p&gt;Prix : 12.5 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SQUATS Canons&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-motos&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-qg&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-tactiques&lt;/li&gt;
+&lt;li&gt;epic superlourds SMI Fellblades-canon-lourd-falchions&lt;/li&gt;
+&lt;li&gt;epic superlourds SQUATS Squats-cyclope&lt;/li&gt;
+&lt;li&gt;epic superlourds SQUATS Squats-mjolnirs&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Fouisseurs-termites-et-taupes&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Rhinos&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Squats-artillerie-lourde&lt;/li&gt;
+&lt;li&gt;epic volants SQUATS Squats-gyrocoptères&lt;/li&gt;
+&lt;li&gt;epic volants SQUATS Squats-zeppelins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SQUATS Canons NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-motos NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-qg NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-tactiques NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic superlourds SMI Fellblades-canon-lourd-falchions NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic superlourds SQUATS Squats-cyclope NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic superlourds SQUATS Squats-mjolnirs NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Fouisseurs-termites-et-taupes NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Rhinos NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Squats-artillerie-lourde NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic volants SQUATS Squats-gyrocoptères NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic volants SQUATS Squats-zeppelins NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Space Dwarf Army 6mm Epic Scale
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This army is work in progress, some things may be change and i have plan for add more models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Update:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;06.09.23. Berserkers and Eagle
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;16.10.23 Landtrain
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;26.11.23 Goliath
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;21.01.24 Ancestor
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;12.02.24 add Bike, Trike, GuildMaster
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;16.03.24 Colossus
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;24.06.24 Cyclops, Mole and Termite appdate
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Models list:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Warriors, Leader, Heavyweapon, Specjalweapon, Missilelauncher, Berserkers, Ancestor, Bike, Trike, GuildMaster
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Exoarmor unit with Leader
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Heavysupport: Rapier, Light Artyllery, Mortar, Robots, Tarantula, Thunderfire, Landtrain, Golith, Colossus, Cyclops
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Transports: Rhino, Leviathan, Termites
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Air: Eagle
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; NyanCommissar &gt; 8mm_Imperial_Red_Militia_Infantry_Pack [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-8mm_imperial_red_militia_infantry_pack-non-dl/</link><pubDate>Sat, 05 Aug 2023 09:52:27 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-8mm_imperial_red_militia_infantry_pack-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-8mm_imperial_red_militia_infantry_pack-non-dl/thumbs_-_8mm-imperial-red-militia-infantry-pack_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; NyanCommissar &gt; 8mm_Imperial_Red_Militia_Infantry_Pack [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-8mm_imperial_red_militia_infantry_pack-non-dl/thumbs_-_8mm-imperial-red-militia-infantry-pack_-_Images_1.jpg"
+width="3069"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1534"
+data-flex-basis="3682px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/8mm-imperial-red-militia-infantry-pack" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/8mm-imperial-red-militia-infantry-pack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 8mm-imperial-red-militia-infantry-pack&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-VALHALLA&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-qg GI-VALHALLA&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-VALHALLA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-VALHALLA NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-qg GI-VALHALLA NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-VALHALLA NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;span class="lnt"&gt;22
+&lt;/span&gt;&lt;span class="lnt"&gt;23
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Empire&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Sentient&lt;/span&gt; &lt;span class="n"&gt;Man&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;diverse&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt; &lt;span class="n"&gt;taking&lt;/span&gt; &lt;span class="n"&gt;part&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;permament&lt;/span&gt; &lt;span class="n"&gt;war&lt;/span&gt; &lt;span class="n"&gt;against&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;foul&lt;/span&gt; &lt;span class="n"&gt;traitors&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;treacherous&lt;/span&gt; &lt;span class="n"&gt;aliens&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Mostly&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;represented&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;ill&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;equipped&lt;/span&gt; &lt;span class="n"&gt;militia&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;ballistic&lt;/span&gt; &lt;span class="n"&gt;armour&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;including&lt;/span&gt; &lt;span class="n"&gt;coats&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;wielding&lt;/span&gt; &lt;span class="n"&gt;only&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;rifles&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Red&lt;/span&gt; &lt;span class="n"&gt;Militia&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;such&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tragic&lt;/span&gt; &lt;span class="n"&gt;fate&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;While&lt;/span&gt; &lt;span class="n"&gt;being&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;defenders&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;land&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;reach&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;planets&lt;/span&gt; &lt;span class="n"&gt;too&lt;/span&gt; &lt;span class="n"&gt;far&lt;/span&gt; &lt;span class="n"&gt;beyond&lt;/span&gt; &lt;span class="n"&gt;comprehension&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;test&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;mud&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;boots&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;treads&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;hope&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;beat&lt;/span&gt; &lt;span class="n"&gt;unfamiliar&lt;/span&gt; &lt;span class="n"&gt;threats&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Red&lt;/span&gt; &lt;span class="n"&gt;Militia&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;faces&lt;/span&gt; &lt;span class="n"&gt;diminished&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;shared&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;permission&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;NotANiceGuy&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;users&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;NotANiceGuy&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;pack&lt;/span&gt; &lt;span class="n"&gt;contains&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt; &lt;span class="n"&gt;squad&lt;/span&gt; &lt;span class="n"&gt;including&lt;/span&gt; &lt;span class="n"&gt;lieutenant&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;communication&lt;/span&gt; &lt;span class="n"&gt;officer&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;bearer&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;sergeant&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;line&lt;/span&gt; &lt;span class="n"&gt;infantry&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;teams&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;machine&lt;/span&gt; &lt;span class="n"&gt;gun&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;automatic&lt;/span&gt; &lt;span class="n"&gt;gun&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;missile&lt;/span&gt; &lt;span class="n"&gt;launcher&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;random&lt;/span&gt; &lt;span class="n"&gt;loaders&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;mortar&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;plus&lt;/span&gt; &lt;span class="n"&gt;non&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Red&lt;/span&gt; &lt;span class="n"&gt;Militia&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;commissars&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;psykers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;UPDATE&lt;/span&gt; &lt;span class="mf"&gt;2023.08&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;separate&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;improved&lt;/span&gt; &lt;span class="n"&gt;missile&lt;/span&gt; &lt;span class="n"&gt;launcher&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;mortars&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;UPDATE&lt;/span&gt; &lt;span class="mf"&gt;2023.12&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;14&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Master&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Discipline&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Red&lt;/span&gt; &lt;span class="n"&gt;Militia&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;downscaled&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;fit&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;carriages&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;downscaled&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;Missile&lt;/span&gt; &lt;span class="n"&gt;Launcher&lt;/span&gt; &lt;span class="n"&gt;team&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;nostalgic&lt;/span&gt; &lt;span class="n"&gt;feels&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Pictures&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;resin&lt;/span&gt; &lt;span class="nb"&gt;prints&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;pre&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;release&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Red&lt;/span&gt; &lt;span class="n"&gt;Militia&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;current&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;sturdier&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;bearer&lt;/span&gt; &lt;span class="n"&gt;got&lt;/span&gt; &lt;span class="n"&gt;thicker&lt;/span&gt; &lt;span class="n"&gt;banner&lt;/span&gt; &lt;span class="n"&gt;pole&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; 2nd_line_spacetrooper_support_guns [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-2nd_line_spacetrooper_support_guns-dl/</link><pubDate>Tue, 25 Jul 2023 08:40:49 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-2nd_line_spacetrooper_support_guns-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-2nd_line_spacetrooper_support_guns-dl/thumbs_-_2nd-line-spacetrooper-support-guns_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; 2nd_line_spacetrooper_support_guns [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-2nd_line_spacetrooper_support_guns-dl/thumbs_-_2nd-line-spacetrooper-support-guns_-_Images_1.jpg"
+width="1704"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="852"
+data-flex-basis="2044px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-2nd_line_spacetrooper_support_guns-dl/thumbs_-_2nd-line-spacetrooper-support-guns_-_ImagesSTL_1.jpg"
+width="640"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="320"
+data-flex-basis="768px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/2nd-line-spacetrooper-support-guns" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/2nd-line-spacetrooper-support-guns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2nd-line-spacetrooper-support-guns&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-SOLARAUX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-SOLARAUX NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;some support weapons for the troops
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;remixed parts from
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;gun platform by moon jammy
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;troops by mrorangejumper
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; speacock &gt; sci_fi_trench_troops_support_weapons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/</link><pubDate>Sun, 09 Jul 2023 09:07:05 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/thumbs_-_sci-fi-trench-troops-support-weapons_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; speacock &gt; sci_fi_trench_troops_support_weapons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/thumbs_-_sci-fi-trench-troops-support-weapons_-_Images_1.jpg"
+width="512"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="256"
+data-flex-basis="614px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/thumbs_-_sci-fi-trench-troops-support-weapons_-_ImagesSTL_1.jpg"
+width="234"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="117"
+data-flex-basis="280px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-speacock-sci_fi_trench_troops_support_weapons-dl/thumbs_-_sci-fi-trench-troops-support-weapons_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/sci-fi-trench-troops-support-weapons" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/sci-fi-trench-troops-support-weapons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : sci-fi-trench-troops-support-weapons&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="n"&gt;guns&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;trench&lt;/span&gt; &lt;span class="n"&gt;troops&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;remixed&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_DKOKSUPPORTGUNS_zip_unpack_DKOKSUPPORTGUNS_stl_.jpg
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Kruger_NZ &gt; 6mm_Solar_Laser_Carrier_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kruger_nz-6mm_solar_laser_carrier_-non-dl/</link><pubDate>Tue, 05 Apr 2022 10:23:42 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kruger_nz-6mm_solar_laser_carrier_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kruger_nz-6mm_solar_laser_carrier_-non-dl/thumbs_-_5341725_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Kruger_NZ &gt; 6mm_Solar_Laser_Carrier_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kruger_nz-6mm_solar_laser_carrier_-non-dl/thumbs_-_5341725_-_Images_1.jpg"
+width="784"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="392"
+data-flex-basis="940px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5341725" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5341725&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5341725&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-SOLARAUX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-SOLARAUX NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;6mm Solar Laser Carrier for when your Solar Troopers need some bigger pew pew!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I upscale these by 120% to get to 8mm scale (ish)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I used parts from;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;MrOrangeJumpers excellent Solar Tank Crew for the gunner: https://www.thingiverse.com/thing:3789259
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;KillMeForPrizes (remix of MoonJams awesome Galactic Crusaders) Rapiers:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.thingiverse.com/thing:4940414
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Myminifactory &gt; Mkhand_Industries &gt; 3d_print_epic_scale_field_artillery_200563 [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-mkhand_industries-3d_print_epic_scale_field_artillery_200563-dl/</link><pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-mkhand_industries-3d_print_epic_scale_field_artillery_200563-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-mkhand_industries-3d_print_epic_scale_field_artillery_200563-dl/thumbs_-_3d_print_epic_scale_field_artillery_200563_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Myminifactory &gt; Mkhand_Industries &gt; 3d_print_epic_scale_field_artillery_200563 [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-mkhand_industries-3d_print_epic_scale_field_artillery_200563-dl/thumbs_-_3d_print_epic_scale_field_artillery_200563_-_Images_1.jpg"
+width="1152"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="576"
+data-flex-basis="1382px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-mkhand_industries-3d_print_epic_scale_field_artillery_200563-dl/thumbs_-_3d_print_epic_scale_field_artillery_200563_-_ImagesSTL_1.jpg"
+width="3871"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="967"
+data-flex-basis="2322px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.myminifactory.com/object/3d-print-epic-scale-field-artillery-200563" target="_blank" rel="noopener"
+&gt;https://www.myminifactory.com/object/3d-print-epic-scale-field-artillery-200563&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3d_print_epic_scale_field_artillery_200563&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="bp"&gt;true&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;M&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;khand Pattern Field Artillery. Some details have been removed and others altered to make them more viable at this scale.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Perfect&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;playing&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;editions&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="n"&gt;toppers&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Adeptus&lt;/span&gt; &lt;span class="n"&gt;Titanicus&lt;/span&gt; &lt;span class="mf"&gt;2018.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_heavy_weapon_teams [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_heavy_weapon_teams-dl/</link><pubDate>Wed, 31 Mar 2021 01:08:26 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_heavy_weapon_teams-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_epic-scale-heavy-weapon-teams_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_heavy_weapon_teams [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_epic-scale-heavy-weapon-teams_-_Images_1.jpg"
+width="2899"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="724"
+data-flex-basis="1739px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_epic-scale-heavy-weapon-teams_-_ImagesSTL_1.jpg"
+width="1984"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="992"
+data-flex-basis="2380px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-heavy-weapon-teams" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-heavy-weapon-teams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-heavy-weapon-teams&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-CADIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-CADIENS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Add&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;firepower&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;infantry&lt;/span&gt; &lt;span class="n"&gt;companies&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Included&lt;/span&gt; &lt;span class="n"&gt;many&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;firing&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;reloading&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;carring&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;ammo&lt;/span&gt; &lt;span class="n"&gt;boxes&lt;/span&gt; &lt;span class="n"&gt;too&lt;/span&gt;&lt;span class="o"&gt;!!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Weapon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;bolter&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;autocannon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;lascannon&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;unsupported&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;elements&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;respective&lt;/span&gt; &lt;span class="n"&gt;chitubox&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Bases&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;ready&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;flat&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.04&lt;/span&gt; &lt;span class="n"&gt;layer&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;bottom&lt;/span&gt; &lt;span class="n"&gt;layers&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;optimal&lt;/span&gt; &lt;span class="n"&gt;results&lt;/span&gt; &lt;span class="n"&gt;given&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;raiser&lt;/span&gt; &lt;span class="n"&gt;height&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;UPDATE&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Included&lt;/span&gt; &lt;span class="n"&gt;squad&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;easier&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Reuploaded&lt;/span&gt; &lt;span class="n"&gt;given&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;inability&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;index&lt;/span&gt; &lt;span class="n"&gt;properly&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Sources&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Empire&lt;/span&gt; &lt;span class="n"&gt;Star&lt;/span&gt; &lt;span class="n"&gt;Army&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Acadian&lt;/span&gt; &lt;span class="n"&gt;Infantry&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Miffles_Makes&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3746245&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Lascannon&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="n"&gt;team&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Solutionlesn&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3776215&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Autocannon&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;team&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Solutionlesn&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3781341&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Updated&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Test&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;resulted&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;errors&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;slicing&lt;/span&gt; &lt;span class="n"&gt;software&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Photon&lt;/span&gt; &lt;span class="n"&gt;Workshop&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;adding&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;column&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;material&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;open&lt;/span&gt; &lt;span class="n"&gt;poligon&lt;/span&gt; &lt;span class="n"&gt;mesh&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;software&lt;/span&gt; &lt;span class="n"&gt;sliced&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;perfecly&lt;/span&gt; &lt;span class="n"&gt;though&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Reuploaded&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;stls&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;fix&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;ZIP&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;elements&lt;/span&gt; &lt;span class="n"&gt;just&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="k"&gt;case&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;redirect&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Download&lt;/span&gt; &lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;button&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;404&lt;/span&gt; &lt;span class="n"&gt;error&lt;/span&gt; &lt;span class="n"&gt;again&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+All unsupported and supported elements are included in their respective chitubox files.
+ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Bases_squad_1___2_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;crew_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_autocannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_heavy_bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_lascannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;crew_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_autocannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_heavy_bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_lascannons_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; JanZizka &gt; Epic_scale_heavy_weapon_teams [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-janzizka-epic_scale_heavy_weapon_teams-dl/</link><pubDate>Sat, 05 Dec 2020 10:24:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-janzizka-epic_scale_heavy_weapon_teams-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-janzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_4675400_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; JanZizka &gt; Epic_scale_heavy_weapon_teams [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-janzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_4675400_-_Images_1.jpg"
+width="2899"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="724"
+data-flex-basis="1739px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-janzizka-epic_scale_heavy_weapon_teams-dl/thumbs_-_4675400_-_ImagesSTL_1.jpg"
+width="2197"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="549"
+data-flex-basis="1318px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4675400" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4675400&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4675400&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Add&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;firepower&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;infantry&lt;/span&gt; &lt;span class="n"&gt;companies&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Included&lt;/span&gt; &lt;span class="n"&gt;many&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;firing&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;reloading&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;carring&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;ammo&lt;/span&gt; &lt;span class="n"&gt;boxes&lt;/span&gt; &lt;span class="n"&gt;too&lt;/span&gt;&lt;span class="o"&gt;!!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Weapon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;bolter&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;autocannon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;lascannon&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;unsupported&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;elements&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;respective&lt;/span&gt; &lt;span class="n"&gt;chitubox&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Bases&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;ready&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;flat&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mf"&gt;0.04&lt;/span&gt; &lt;span class="n"&gt;layer&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;bottom&lt;/span&gt; &lt;span class="n"&gt;layers&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;optimal&lt;/span&gt; &lt;span class="n"&gt;results&lt;/span&gt; &lt;span class="n"&gt;given&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;raiser&lt;/span&gt; &lt;span class="n"&gt;height&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;UPDATE&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Included&lt;/span&gt; &lt;span class="n"&gt;squad&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;easier&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Reuploaded&lt;/span&gt; &lt;span class="n"&gt;given&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;inability&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;index&lt;/span&gt; &lt;span class="n"&gt;properly&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Sources&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Empire&lt;/span&gt; &lt;span class="n"&gt;Star&lt;/span&gt; &lt;span class="n"&gt;Army&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Acadian&lt;/span&gt; &lt;span class="n"&gt;Infantry&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Miffles_Makes&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3746245&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Lascannon&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="n"&gt;team&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Solutionlesn&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3776215&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Autocannon&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;team&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Solutionlesn&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3781341&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Updated&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Test&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;resulted&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;errors&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;slicing&lt;/span&gt; &lt;span class="n"&gt;software&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Photon&lt;/span&gt; &lt;span class="n"&gt;Workshop&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;adding&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;column&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;material&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;open&lt;/span&gt; &lt;span class="n"&gt;poligon&lt;/span&gt; &lt;span class="n"&gt;mesh&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;software&lt;/span&gt; &lt;span class="n"&gt;sliced&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;perfecly&lt;/span&gt; &lt;span class="n"&gt;though&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Reuploaded&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;stls&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;fix&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;ZIP&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;elements&lt;/span&gt; &lt;span class="n"&gt;just&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="k"&gt;case&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;redirect&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Download&lt;/span&gt; &lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;button&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;404&lt;/span&gt; &lt;span class="n"&gt;error&lt;/span&gt; &lt;span class="n"&gt;again&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+All unsupported and supported elements are included in their respective chitubox files.
+ImagesSTL_-_Epic_scale_heavy_weapon_teams_-_4675400_zip_unpack_files___All_elements_supported_chitubox_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files___All_elements_unsupported_chitubox&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Bases_squad_1___2_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;crew_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_autocannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_heavy_bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1&lt;/em&gt;-&lt;em&gt;guns_lascannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;crew_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_autocannons_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_heavy_bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Epic_scale_heavy_weapon_teams&lt;/em&gt;-&lt;em&gt;4675400_zip_unpack_files_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2&lt;/em&gt;-&lt;em&gt;guns_lascannons_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Gun_Platform__6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/</link><pubDate>Thu, 05 Nov 2020 17:52:16 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Gun_Platform__6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_ImagesSTL_1.jpg"
+width="440"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="220"
+data-flex-basis="528px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/galactic-crusaders-gun-platform-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/galactic-crusaders-gun-platform-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-gun-platform-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print ready for resin printers. Just import, make sure the base is on the print bed, slice then print. 2xAA and 0.02mm layer height reccommended.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These files are not intended for FDM slicers or printers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Please bear in mind that these miniatures have extremely fragile parts despite my best efforts to make everything as solid as possible. Handle with care.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; EpicRich &gt; Autocannon_Remix_for_Empire_Star_Army__Acadian_Infantry [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-epicrich-autocannon_remix_for_empire_star_army__acadian_infantry-non-dl/</link><pubDate>Sat, 13 Jun 2020 19:43:17 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-epicrich-autocannon_remix_for_empire_star_army__acadian_infantry-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-epicrich-autocannon_remix_for_empire_star_army__acadian_infantry-non-dl/thumbs_-_4457980_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; EpicRich &gt; Autocannon_Remix_for_Empire_Star_Army__Acadian_Infantry [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-epicrich-autocannon_remix_for_empire_star_army__acadian_infantry-non-dl/thumbs_-_4457980_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4457980" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4457980&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4457980&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A remix of an autocannon for epic.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; spener89 &gt; Acadian_Guard_Autocannon [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-spener89-acadian_guard_autocannon-non-dl/</link><pubDate>Thu, 05 Sep 2019 19:12:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-spener89-acadian_guard_autocannon-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-spener89-acadian_guard_autocannon-non-dl/thumbs_-_3846988_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; spener89 &gt; Acadian_Guard_Autocannon [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-spener89-acadian_guard_autocannon-non-dl/thumbs_-_3846988_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3846988" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3846988&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3846988&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-CADIENS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remix to give an autocannon for heavy weapon squads etc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Kalrath &gt; Epic_DKoK_Heavy_Weapons [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kalrath-epic_dkok_heavy_weapons-non-dl/</link><pubDate>Mon, 18 Jun 2018 21:59:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kalrath-epic_dkok_heavy_weapons-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kalrath-epic_dkok_heavy_weapons-non-dl/thumbs_-_2967447_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Kalrath &gt; Epic_DKoK_Heavy_Weapons [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kalrath-epic_dkok_heavy_weapons-non-dl/thumbs_-_2967447_-_Images_1.jpg"
+width="1608"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="804"
+data-flex-basis="1929px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-kalrath-epic_dkok_heavy_weapons-non-dl/thumbs_-_2967447_-_Makes_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2967447" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2967447&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2967447&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-DKOK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Canons GI-DKOK NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Heavy Machine Gun and Autocannon + Loader for Epic DKoK.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;ve included the models with the supports ready for resin printing. These have been tested.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SMC Sm-Terminators TZEENTCH on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/smc-sm-terminators-tzeentch/</link><description>Recent content in SMC Sm-Terminators TZEENTCH on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 02 Mar 2025 01:54:31 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/smc-sm-terminators-tzeentch/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; DaffMakes &gt; Many_Sons_Occult_Terminus_Galactic_Crusaders [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/</link><pubDate>Sun, 02 Mar 2025 01:54:31 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; DaffMakes &gt; Many_Sons_Occult_Terminus_Galactic_Crusaders [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_1.jpg"
+width="1632"
+height="4000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="40"
+data-flex-basis="97px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-many_sons_occult_terminus_galactic_crusaders-dl/thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_2.jpg"
+width="1576"
+height="3200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="49"
+data-flex-basis="118px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Hollow&lt;/span&gt; &lt;span class="n"&gt;men&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;cursed&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;turned&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;ashes&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;led&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Psychic&lt;/span&gt; &lt;span class="n"&gt;Sorcerers&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Terminus&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;10&lt;/span&gt; &lt;span class="n"&gt;Poses&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Bolters&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Flamers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Cannons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Choice&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;three&lt;/span&gt; &lt;span class="n"&gt;headdresses&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Option&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Missile&lt;/span&gt; &lt;span class="n"&gt;Launcher&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Check&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;_standoffs&amp;#34;&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39; feet are offset from the plug, allowing you to use the plug as a stand when painting, and then slice or snip off the small cylinders to allow you to glue the feet directly onto the base, for a seamless finish.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Thanks&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Moonjammy&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Jimmyzimms&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;KMFP&lt;/span&gt; &lt;span class="n"&gt;who&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;Terminuses&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;BIG&lt;/span&gt; &lt;span class="n"&gt;thanks&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;LSTAR&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;who&lt;/span&gt; &lt;span class="n"&gt;helped&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="k"&gt;export&lt;/span&gt; &lt;span class="n"&gt;script&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;guys&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;wouldn&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t be able to put out the variety I have without it!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d like to commision a custom character or kit, please contact me on Discord under &amp;#34;Dafydd&amp;#34;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d like to keep up with my current projects, and support the modelling work I do, please check out my patreon at: www.patreon.com/Daffmakes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m doing, please donate to my ko-fi!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ko&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;fi&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;daffmakes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d_archive &gt; KarnageKing &gt; epic_6mm_scale_1000_sons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d_archive-karnageking-epic_6mm_scale_1000_sons-dl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d_archive-karnageking-epic_6mm_scale_1000_sons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d_archive-karnageking-epic_6mm_scale_1000_sons-dl/thumbs_-_epic-6mm-scale-1000-sons_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d_archive &gt; KarnageKing &gt; epic_6mm_scale_1000_sons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d_archive-karnageking-epic_6mm_scale_1000_sons-dl/thumbs_-_epic-6mm-scale-1000-sons_-_Images_1.jpg"
+width="656"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="328"
+data-flex-basis="787px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d_archive-karnageking-epic_6mm_scale_1000_sons-dl/thumbs_-_epic-6mm-scale-1000-sons_-_ImagesSTL_1.jpg"
+width="1384"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="346"
+data-flex-basis="830px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-6mm-scale-1000-sons" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-6mm-scale-1000-sons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-6mm-scale-1000-sons&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Sekhmet_Terminator_Cabal_6mm__Galactic_Crusader_Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Sekhmet_Terminator_Cabal_6mm__Galactic_Crusader_Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_ImagesSTL_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4855237" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4855237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4855237&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Volants IMP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/volants-imp/</link><description>Recent content in Volants IMP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 24 Apr 2024 16:53:19 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/volants-imp/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_Quadthruster [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/</link><pubDate>Wed, 24 Apr 2024 16:53:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/thumbs_-_6593694_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_Quadthruster [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/thumbs_-_6593694_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6593694" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6593694&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6593694&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;presents&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;man&lt;/span&gt; &lt;span class="n"&gt;scout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;worrying&lt;/span&gt; &lt;span class="n"&gt;about&lt;/span&gt; &lt;span class="n"&gt;rotor&lt;/span&gt; &lt;span class="n"&gt;strikes&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;power&lt;/span&gt; &lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;atmospheric&lt;/span&gt; &lt;span class="n"&gt;vessel&lt;/span&gt; &lt;span class="n"&gt;using&lt;/span&gt; &lt;span class="n"&gt;four&lt;/span&gt; &lt;span class="n"&gt;balanced&lt;/span&gt; &lt;span class="n"&gt;lifting&lt;/span&gt; &lt;span class="n"&gt;thrusters&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;single&lt;/span&gt; &lt;span class="n"&gt;forward&lt;/span&gt; &lt;span class="n"&gt;thruster&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;achieving&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;speeds&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;flight&lt;/span&gt;&lt;span class="o"&gt;.*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;operation&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;qaudthruster&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;altitudes&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;non&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Earthlike&lt;/span&gt; &lt;span class="n"&gt;atmospheres&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;arming&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;attempting&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;operator&lt;/span&gt; &lt;span class="n"&gt;inverted&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;extreme&lt;/span&gt; &lt;span class="n"&gt;speeds&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;User&lt;/span&gt; &lt;span class="n"&gt;safety&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s responsibility. Your mileage may vary. Caveat Emptor.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Modeled&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_VTOL [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/</link><pubDate>Wed, 24 Apr 2024 14:45:05 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/thumbs_-_6593502_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_VTOL [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/thumbs_-_6593502_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6593502" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6593502&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6593502&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A single seat scout VTOL.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Modeled in 6mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;(The rotor for a helicopter this small is very thin and may not be printable (or recoverable from supports if printed). Normally I make my rotors from styrene as it&amp;#39;s less hassle, so one of the files is just the hull of the VTOL for ease of printing.)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; alexgor248 &gt; 8MM_FIGHTER_AIRCRAFT_ASTRA_GUARD [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_fighter_aircraft_astra_guard-non-dl/</link><pubDate>Mon, 15 Apr 2024 22:28:33 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_fighter_aircraft_astra_guard-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_fighter_aircraft_astra_guard-non-dl/thumbs_-_8mm-fighter-aircraft-astra-guard_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; alexgor248 &gt; 8MM_FIGHTER_AIRCRAFT_ASTRA_GUARD [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_fighter_aircraft_astra_guard-non-dl/thumbs_-_8mm-fighter-aircraft-astra-guard_-_Images_1.jpg"
+width="712"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="356"
+data-flex-basis="854px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_fighter_aircraft_astra_guard-non-dl/thumbs_-_8mm-fighter-aircraft-astra-guard_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/8mm-fighter-aircraft-astra-guard" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/8mm-fighter-aircraft-astra-guard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 8mm-fighter-aircraft-astra-guard&lt;/p&gt;
+&lt;p&gt;Prix : 5 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Thunderbolts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Thunderbolts NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sci fi Fighter aircraft for 8 mm. To a new /220 very epic scale.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Fighter aircraft fusulage
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Leg
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Base with ornament
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;PreSupp. but not in the most optimal way, maybe you can do better
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; IamAlpharius &gt; TINY_TANKS__TINY_ARVUS_ARVIS_LIGHTER_FOR_8MM_GAMES___SCOOPED [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-iamalpharius-tiny_tanks__tiny_arvus_arvis_lighter_for_8mm_games___scooped-dl/</link><pubDate>Sat, 23 Dec 2023 02:19:42 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-iamalpharius-tiny_tanks__tiny_arvus_arvis_lighter_for_8mm_games___scooped-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-iamalpharius-tiny_tanks__tiny_arvus_arvis_lighter_for_8mm_games___scooped-dl/thumbs_-_tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; IamAlpharius &gt; TINY_TANKS__TINY_ARVUS_ARVIS_LIGHTER_FOR_8MM_GAMES___SCOOPED [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-iamalpharius-tiny_tanks__tiny_arvus_arvis_lighter_for_8mm_games___scooped-dl/thumbs_-_tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped_-_Images_1.jpg"
+width="376"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="188"
+data-flex-basis="451px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-iamalpharius-tiny_tanks__tiny_arvus_arvis_lighter_for_8mm_games___scooped-dl/thumbs_-_tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped_-_ImagesSTL_1.jpg"
+width="352"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="176"
+data-flex-basis="422px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-tanks-tiny-arvus-arvis-lighter-for-8mm-games-scooped&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I do not recall where I grabbed this Arvus Lighter model from. I think it was an unattributed free source (jimmyjimjim reposted it). It came from somewhere and when I find out where, I&amp;#39;ll add attribution.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Some idiot STL Stasi type will undoubtedly have an issue with that. Shut up. Either help me or go take a giant leap at a rolling donut.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Now - to the important stuff. I&amp;#39;ve not test printed this one but it is a very simple model in very good shape with no hollows to trap resin and the walls are pretty thick. The magnet slot (5mm) is inside on the roof and set at about a 3-5 degree angle down (can&amp;#39;t remember) so the Arvus Lighter have a nose down look to it like a modern helo at cruising speed.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I hollowed and opened up the internals so that it can be properly UV light cured and left the door open in case someone wants to put a gunner back there :)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The wingspan is about 40mm, so I think it looks about right compared to what I have seen for the AI/LImp one. Resize as needed but be prepared to use a smaller magnet
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Thunderstrike_Heavy_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-thunderstrike_heavy_fighter-non-dl/</link><pubDate>Tue, 28 Nov 2023 19:32:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-thunderstrike_heavy_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-thunderstrike_heavy_fighter-non-dl/thumbs_-_thunderstrike-heavy-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Thunderstrike_Heavy_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-thunderstrike_heavy_fighter-non-dl/thumbs_-_thunderstrike-heavy-fighter_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/thunderstrike-heavy-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/thunderstrike-heavy-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : thunderstrike-heavy-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;An early attempt at a Thunderbolt proxy based on the F-4 Phantom. Supplied as is, I&amp;#39;m no longer able to modify this file.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Intended for 8mm use.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Harmattan_Heavy_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-harmattan_heavy_fighter-non-dl/</link><pubDate>Tue, 31 Oct 2023 17:55:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-harmattan_heavy_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-harmattan_heavy_fighter-non-dl/thumbs_-_harmattan-heavy-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Harmattan_Heavy_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-harmattan_heavy_fighter-non-dl/thumbs_-_harmattan-heavy-fighter_-_Images_1.jpg"
+width="872"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="436"
+data-flex-basis="1046px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/harmattan-heavy-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/harmattan-heavy-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : harmattan-heavy-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;locally&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;produced&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;fighter&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;distantly&lt;/span&gt; &lt;span class="n"&gt;related&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;commonly&lt;/span&gt; &lt;span class="n"&gt;encountered&lt;/span&gt; &lt;span class="n"&gt;Thunderbolt&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;featured&lt;/span&gt; &lt;span class="n"&gt;heavily&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;closing&lt;/span&gt; &lt;span class="n"&gt;days&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;imperial&lt;/span&gt; &lt;span class="n"&gt;civil&lt;/span&gt; &lt;span class="n"&gt;war&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;With&lt;/span&gt; &lt;span class="n"&gt;poor&lt;/span&gt; &lt;span class="n"&gt;maneuverability&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;low&lt;/span&gt; &lt;span class="n"&gt;altitudes&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;dangerously&lt;/span&gt; &lt;span class="n"&gt;exposed&lt;/span&gt; &lt;span class="n"&gt;propulsion&lt;/span&gt; &lt;span class="n"&gt;system&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;poorly&lt;/span&gt; &lt;span class="n"&gt;suited&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;However&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;speed&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;performance&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;altitudes&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;combined&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;pair&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;lethally&lt;/span&gt; &lt;span class="n"&gt;accurate&lt;/span&gt; &lt;span class="n"&gt;long&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;barreled&lt;/span&gt; &lt;span class="n"&gt;autocannons&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;fighter&lt;/span&gt; &lt;span class="n"&gt;especially&lt;/span&gt; &lt;span class="n"&gt;dangerous&lt;/span&gt; &lt;span class="n"&gt;when&lt;/span&gt; &lt;span class="n"&gt;either&lt;/span&gt; &lt;span class="n"&gt;escorting&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;intercepting&lt;/span&gt; &lt;span class="n"&gt;bombers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;reconnaissance&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fighting&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;both&lt;/span&gt; &lt;span class="n"&gt;sides&lt;/span&gt; &lt;span class="n"&gt;during&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;conflict&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;ultimately&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;shortage&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;pilots&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;combat&lt;/span&gt; &lt;span class="n"&gt;experience&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;led&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;horrific&lt;/span&gt; &lt;span class="n"&gt;casualty&lt;/span&gt; &lt;span class="n"&gt;rates&lt;/span&gt; &lt;span class="n"&gt;among&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;pilots&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fits&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;flight&lt;/span&gt; &lt;span class="n"&gt;stands&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Comes&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Painted&lt;/span&gt; &lt;span class="n"&gt;miniature&lt;/span&gt; &lt;span class="n"&gt;courtesy&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;VarianceHammer&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Red_Auxiliaries_Storm_Strike_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-red_auxiliaries_storm_strike_fighter-non-dl/</link><pubDate>Sun, 29 Oct 2023 16:56:25 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-red_auxiliaries_storm_strike_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-red_auxiliaries_storm_strike_fighter-non-dl/thumbs_-_storm-strike-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Red_Auxiliaries_Storm_Strike_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-red_auxiliaries_storm_strike_fighter-non-dl/thumbs_-_storm-strike-fighter_-_Images_1.jpg"
+width="624"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="312"
+data-flex-basis="748px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/storm-strike-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/storm-strike-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : storm-strike-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Storm&lt;/span&gt; &lt;span class="n"&gt;Strike&lt;/span&gt; &lt;span class="n"&gt;Fighter&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;advanced&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;heavily&lt;/span&gt; &lt;span class="n"&gt;armored&lt;/span&gt; &lt;span class="n"&gt;strike&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;close&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;troops&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Using&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;large&lt;/span&gt; &lt;span class="n"&gt;caliber&lt;/span&gt; &lt;span class="n"&gt;rotary&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Storm&lt;/span&gt; &lt;span class="n"&gt;proved&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;significant&lt;/span&gt; &lt;span class="n"&gt;improvement&lt;/span&gt; &lt;span class="n"&gt;over&lt;/span&gt; &lt;span class="n"&gt;earlier&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;earlier&lt;/span&gt; &lt;span class="n"&gt;Vengeance&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fits&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;flight&lt;/span&gt; &lt;span class="n"&gt;stands&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;V2&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Reconfigured&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;updated&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt; &lt;span class="n"&gt;packs&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;AA&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;AG&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;AGM&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;empty&lt;/span&gt; &lt;span class="n"&gt;configurations&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Lightning_Escort_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-lightning_escort_fighter-non-dl/</link><pubDate>Sun, 29 Oct 2023 16:51:15 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-lightning_escort_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-lightning_escort_fighter-non-dl/thumbs_-_lightning-escort-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Lightning_Escort_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-lightning_escort_fighter-non-dl/thumbs_-_lightning-escort-fighter_-_Images_1.jpg"
+width="888"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="444"
+data-flex-basis="1065px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/lightning-escort-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/lightning-escort-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : lightning-escort-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;Escort&lt;/span&gt; &lt;span class="n"&gt;Fighter&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;initial&lt;/span&gt; &lt;span class="n"&gt;attempt&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;provide&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;longer&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt; &lt;span class="n"&gt;escort&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;strategic&lt;/span&gt; &lt;span class="n"&gt;bombing&lt;/span&gt; &lt;span class="n"&gt;raids&lt;/span&gt; &lt;span class="n"&gt;after&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;short&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Razorback&lt;/span&gt; &lt;span class="n"&gt;Variant&lt;/span&gt; &lt;span class="n"&gt;Thunderbolt&lt;/span&gt; &lt;span class="n"&gt;proved&lt;/span&gt; &lt;span class="n"&gt;inadequate&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;double&lt;/span&gt; &lt;span class="n"&gt;boom&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;employ&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;wide&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;guided&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;unguided&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Ground&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fits&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;flight&lt;/span&gt; &lt;span class="n"&gt;stands&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Painted&lt;/span&gt; &lt;span class="n"&gt;mini&lt;/span&gt; &lt;span class="n"&gt;credit&lt;/span&gt; &lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;very&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;good&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;painter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Razorback_Variant_Thunderbolt_Heavy_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-razorback_variant_thunderbolt_heavy_fighter-non-dl/</link><pubDate>Fri, 13 Oct 2023 20:57:35 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-razorback_variant_thunderbolt_heavy_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-razorback_variant_thunderbolt_heavy_fighter-non-dl/thumbs_-_razorback-variant-thunderbolt-heavy-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Razorback_Variant_Thunderbolt_Heavy_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-razorback_variant_thunderbolt_heavy_fighter-non-dl/thumbs_-_razorback-variant-thunderbolt-heavy-fighter_-_Images_1.jpg"
+width="1119"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="559"
+data-flex-basis="1342px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/razorback-variant-thunderbolt-heavy-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/razorback-variant-thunderbolt-heavy-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : razorback-variant-thunderbolt-heavy-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;early&lt;/span&gt; &lt;span class="n"&gt;Razorback&lt;/span&gt; &lt;span class="n"&gt;pattern&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;classic&lt;/span&gt; &lt;span class="n"&gt;Thunderbolt&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Fighter&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;prioritize&lt;/span&gt; &lt;span class="n"&gt;toughness&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;ease&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;maintenance&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;sheer&lt;/span&gt; &lt;span class="n"&gt;firepower&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;cost&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;maneuverability&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;overall&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Lasers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;interchangable&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;employed&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;forces&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ensuring&lt;/span&gt; &lt;span class="n"&gt;combat&lt;/span&gt; &lt;span class="n"&gt;availability&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;worst&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;field&lt;/span&gt; &lt;span class="n"&gt;conditions&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt; &lt;span class="n"&gt;setting&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fits&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;flightstands&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Options&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Painted&lt;/span&gt; &lt;span class="n"&gt;miniature&lt;/span&gt; &lt;span class="n"&gt;courtesy&lt;/span&gt; &lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;nfteefpainting&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; edible &gt; Vengeance_Strike_Fighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-vengeance_strike_fighter-non-dl/</link><pubDate>Fri, 13 Oct 2023 20:52:15 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-vengeance_strike_fighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-vengeance_strike_fighter-non-dl/thumbs_-_vengeance-strike-fighter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; edible &gt; Vengeance_Strike_Fighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-edible-vengeance_strike_fighter-non-dl/thumbs_-_vengeance-strike-fighter_-_Images_1.jpg"
+width="1015"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="507"
+data-flex-basis="1218px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/vengeance-strike-fighter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/vengeance-strike-fighter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : vengeance-strike-fighter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Avengers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Avengers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Vengeance&lt;/span&gt; &lt;span class="n"&gt;Strike&lt;/span&gt; &lt;span class="n"&gt;Fighter&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="n"&gt;around&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;rotary&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;close&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;units&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;could&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;employ&lt;/span&gt; &lt;span class="n"&gt;guided&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;unguided&lt;/span&gt; &lt;span class="n"&gt;ordnance&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;wargame&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Ground&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Fits&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;flightstands&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Marauder_AWACS [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-marauder_awacs-non-dl/</link><pubDate>Sun, 21 May 2023 00:43:51 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-marauder_awacs-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-marauder_awacs-non-dl/thumbs_-_marauder-awacs_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Marauder_AWACS [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-marauder_awacs-non-dl/thumbs_-_marauder-awacs_-_Images_1.jpg"
+width="664"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="332"
+data-flex-basis="796px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/marauder-awacs" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/marauder-awacs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : marauder-awacs&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A tweaked version of STROGANOFF&amp;#39;s marauder-vigilant to have an AWACS style look.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/epic-scale-marauder-vigilant
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is rescaled to fit at modern AI&amp;#39;s 1/4th scale
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Edit 20230607: Updated to have version sliced into parts as well for easier printing. Small updetails added to the bolters
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;If you like what I did and want to leave a tip it would be appreciated.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://paypal.me/jimmyzimms
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; SARDAUKAR &gt; Lightning_tank_hunter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sardaukar-lightning_tank_hunter-non-dl/</link><pubDate>Fri, 14 Jan 2022 10:45:05 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sardaukar-lightning_tank_hunter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sardaukar-lightning_tank_hunter-non-dl/thumbs_-_lightning-tank-hunter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; SARDAUKAR &gt; Lightning_tank_hunter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sardaukar-lightning_tank_hunter-non-dl/thumbs_-_lightning-tank-hunter_-_Images_1.jpg"
+width="1600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="800"
+data-flex-basis="1920px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sardaukar-lightning_tank_hunter-non-dl/thumbs_-_lightning-tank-hunter_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/lightning-tank-hunter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/lightning-tank-hunter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : lightning-tank-hunter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Lightnings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Lightnings NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;It may lack the big brrrrrt from his older cousin but this guy packs a serious punch with six anti-tank missiles and a twin-linked lascannon.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The hull is either full or sliced in two parts to accomodate smaller printers.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_shieldMaiden_and_carrionBird [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/</link><pubDate>Mon, 20 Dec 2021 00:04:22 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/thumbs_-_epic-scale-shieldmaiden-and-carrionbird_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_shieldMaiden_and_carrionBird [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/thumbs_-_epic-scale-shieldmaiden-and-carrionbird_-_Images_1.jpg"
+width="2818"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="469"
+data-flex-basis="1127px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/thumbs_-_epic-scale-shieldmaiden-and-carrionbird_-_ImagesSTL_1.jpg"
+width="2341"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="585"
+data-flex-basis="1404px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_shieldmaiden_and_carrionbird-dl/thumbs_-_epic-scale-shieldmaiden-and-carrionbird_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-shieldmaiden-and-carrionbird" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-shieldmaiden-and-carrionbird&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-shieldmaiden-and-carrionbird&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny aerial transports for your tiny foot sloggers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Included the missile pods separately so you can choose to print them or the lascannons also included.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I changed the front icon for one easier to print (the carrionBird is included for this reason).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Hope you enjoy!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources ShieldMaiden:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Genderbent Einherjer by InsaneKane https://cults3d.com/en/3d-model/game/genderbent-einherjer
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Skull Insignia by Peachpunk https://www.thingiverse.com/thing:399182
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources CarrionBird:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;1/4&amp;#34; VTOL GUNSHIP FOR HUMAN ARMIES by STROGANOFF https://cults3d.com/en/3d-model/game/epic-scale-vulture-gunship
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ALBATROSS GUNSHIP 28MM SCALE by JDTEIXEIRA https://cults3d.com/en/3d-model/game/albatross-gunship-28mm-scale
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gypaetus Barbatus by ANDYRJONES1980 https://cults3d.com/es/modelo-3d/juegos/gypaetus-barbatus
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Skull Insignia by Peachpunk https://www.thingiverse.com/thing:399182
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Imperial Aquila - Two headed eagle by vsaari http://www.thingiverse.com/thing:1363920
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Lascannon (Heavy weapon team) by Solutionlesn https://www.thingiverse.com/thing:3776215
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Autocannon (Heavy weapons team) by Solutionlesn https://www.thingiverse.com/thing:3781341
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Autocannon_unsupported_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Helltrike_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Lascannon_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Missile_pod_single_1_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Missile_pod_single_2_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Missile_pod_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Valkyrie_unsupported_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;epic-scale-shieldmaiden-and-carrionbird20211220-748-2tbggx_zip_unpack_JahnZizka_epic-scale-shieldmaiden-and-carrionbird_Vulture_v3_unsupported_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; tpf_ &gt; Epic_Aquila_Lander [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-tpf_-epic_aquila_lander-dl/</link><pubDate>Wed, 21 Apr 2021 23:02:41 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-tpf_-epic_aquila_lander-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-tpf_-epic_aquila_lander-dl/thumbs_-_epic-aquila-lander_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; tpf_ &gt; Epic_Aquila_Lander [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-tpf_-epic_aquila_lander-dl/thumbs_-_epic-aquila-lander_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-tpf_-epic_aquila_lander-dl/thumbs_-_epic-aquila-lander_-_ImagesSTL_1.jpg"
+width="368"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="184"
+data-flex-basis="441px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-aquila-lander" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-aquila-lander&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-aquila-lander&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fixed version to print the model as game piece for 6mm wargaming scale
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; totenpf &gt; Epic_Aquila_Lander [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-totenpf-epic_aquila_lander-non-dl/</link><pubDate>Wed, 21 Apr 2021 14:41:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-totenpf-epic_aquila_lander-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-totenpf-epic_aquila_lander-non-dl/thumbs_-_4835215_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; totenpf &gt; Epic_Aquila_Lander [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-totenpf-epic_aquila_lander-non-dl/thumbs_-_4835215_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4835215" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4835215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4835215&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fixed version to print the model as game piece for 6mm wargaming scale
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_human_attack_VTOL [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_human_attack_vtol-non-dl/</link><pubDate>Mon, 12 Apr 2021 00:58:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_human_attack_vtol-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_human_attack_vtol-non-dl/thumbs_-_epic-scale-human-attack-vtol_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_human_attack_VTOL [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_human_attack_vtol-non-dl/thumbs_-_epic-scale-human-attack-vtol_-_Images_1.jpg"
+width="1696"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="848"
+data-flex-basis="2035px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-human-attack-vtol" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-human-attack-vtol&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-human-attack-vtol&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Aerial (skimmer) support for your ground troops.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Yes, I know I got a bit carried away with the supports, I may try to do an easier to support version in the near future.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Provided with and without imperial insignias and supports, pick your preferred version xD
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;1/4&amp;#34; VTOL GUNSHIP FOR HUMAN ARMIES by STROGANOFF https://cults3d.com/en/3d-model/game/epic-scale-vulture-gunship
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ALBATROSS GUNSHIP 28MM SCALE by JDTEIXEIRA https://cults3d.com/en/3d-model/game/albatross-gunship-28mm-scale
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gypaetus Barbatus by ANDYRJONES1980 https://cults3d.com/es/modelo-3d/juegos/gypaetus-barbatus
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Skull Insignia by Peachpunk https://www.thingiverse.com/thing:399182
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Imperial Aquila - Two headed eagle by vsaari http://www.thingiverse.com/thing:1363920
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;NOTE: Not yet test printed, if you find any issues please message me, if not, please post your makes. Have fun!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BiancaW &gt; Hydraphur_Pattern_Lightning_Fighter [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-hydraphur_pattern_lightning_fighter-dl/</link><pubDate>Sat, 24 Oct 2020 22:58:59 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-hydraphur_pattern_lightning_fighter-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-hydraphur_pattern_lightning_fighter-dl/thumbs_-_4633170_-_ImagesSTL_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BiancaW &gt; Hydraphur_Pattern_Lightning_Fighter [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-hydraphur_pattern_lightning_fighter-dl/thumbs_-_4633170_-_ImagesSTL_1.jpg"
+width="648"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="324"
+data-flex-basis="777px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4633170" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4633170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4633170&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Lightnings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Lightnings NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;fighter&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;mainly&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Imperial&lt;/span&gt; &lt;span class="n"&gt;Navy&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;establishing&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;superiority&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;increased&lt;/span&gt; &lt;span class="n"&gt;maneuverability&lt;/span&gt; &lt;span class="n"&gt;over&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Thunderbolt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;It&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;often&lt;/span&gt; &lt;span class="n"&gt;seen&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;heard&lt;/span&gt; &lt;span class="n"&gt;plummeting&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;orbit&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;being&lt;/span&gt; &lt;span class="n"&gt;scrambled&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;naval&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;main&lt;/span&gt; &lt;span class="n"&gt;role&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;engage&lt;/span&gt; &lt;span class="n"&gt;enemy&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;establish&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;superiority&lt;/span&gt; &lt;span class="n"&gt;over&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;battlefield&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;secondary&lt;/span&gt; &lt;span class="n"&gt;mission&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;providing&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;escort&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Marauder&lt;/span&gt; &lt;span class="n"&gt;Bombers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;For&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;reason&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;often&lt;/span&gt; &lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;orbiting&lt;/span&gt; &lt;span class="n"&gt;ships&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;forward&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;where&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;rocket&lt;/span&gt; &lt;span class="n"&gt;booster&lt;/span&gt; &lt;span class="n"&gt;allows&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;quickly&lt;/span&gt; &lt;span class="n"&gt;take&lt;/span&gt; &lt;span class="n"&gt;off&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;engage&lt;/span&gt; &lt;span class="n"&gt;enemy&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;forces&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Ground&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;Lightnings&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;benefit&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;hydraulic&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;fast-launch&amp;#34;&lt;/span&gt; &lt;span class="n"&gt;ramps&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;combination&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;rocket&lt;/span&gt; &lt;span class="n"&gt;booster&lt;/span&gt; &lt;span class="n"&gt;engine&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;provides&lt;/span&gt; &lt;span class="n"&gt;better&lt;/span&gt; &lt;span class="n"&gt;acceleration&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;faster&lt;/span&gt; &lt;span class="n"&gt;take&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;off&lt;/span&gt; &lt;span class="n"&gt;time&lt;/span&gt; &lt;span class="n"&gt;than&lt;/span&gt; &lt;span class="n"&gt;conventional&lt;/span&gt; &lt;span class="n"&gt;VTOL&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Standard&lt;/span&gt; &lt;span class="n"&gt;practice&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;three&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;four&lt;/span&gt; &lt;span class="n"&gt;Lightnings&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;poised&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;constant&lt;/span&gt; &lt;span class="n"&gt;state&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;readiness&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Although&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;primary&lt;/span&gt; &lt;span class="n"&gt;function&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Lightnings&lt;/span&gt; &lt;span class="n"&gt;may&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;act&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;ground&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;license&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;targets&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;opportunity&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;role&lt;/span&gt; &lt;span class="n"&gt;however&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;better&lt;/span&gt; &lt;span class="n"&gt;suited&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;Strike&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Standard&lt;/span&gt; &lt;span class="n"&gt;armament&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;long&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;barrelled&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ventral&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;mounted&lt;/span&gt; &lt;span class="n"&gt;Autocannon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;twin&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linked&lt;/span&gt; &lt;span class="n"&gt;Lascannons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Four&lt;/span&gt; &lt;span class="n"&gt;wing&lt;/span&gt; &lt;span class="n"&gt;hardpoints&lt;/span&gt; &lt;span class="n"&gt;allows&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;carry&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;four&lt;/span&gt; &lt;span class="n"&gt;Hellstrike&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Hellfury&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Bombs&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;six&lt;/span&gt; &lt;span class="n"&gt;Skystrike&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Other&lt;/span&gt; &lt;span class="n"&gt;standard&lt;/span&gt; &lt;span class="n"&gt;systems&lt;/span&gt; &lt;span class="n"&gt;includes&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;pair&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Parallax&lt;/span&gt; &lt;span class="n"&gt;tracking&lt;/span&gt; &lt;span class="n"&gt;augers&lt;/span&gt; &lt;span class="n"&gt;located&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;nose&lt;/span&gt; &lt;span class="n"&gt;section&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;while&lt;/span&gt; &lt;span class="n"&gt;many&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;mount&lt;/span&gt; &lt;span class="n"&gt;additional&lt;/span&gt; &lt;span class="n"&gt;equipment&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Strike&amp;#39;&lt;/span&gt; &lt;span class="n"&gt;variant&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;fighter&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;bomber&lt;/span&gt; &lt;span class="n"&gt;role&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;It&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;normally&lt;/span&gt; &lt;span class="n"&gt;equipped&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;potent&lt;/span&gt; &lt;span class="n"&gt;armament&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;twin&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;linked&lt;/span&gt; &lt;span class="n"&gt;Lascannons&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;six&lt;/span&gt; &lt;span class="n"&gt;Hellstrike&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;Rad&lt;/span&gt; &lt;span class="n"&gt;Missiles&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;STC&lt;/span&gt; &lt;span class="n"&gt;Data&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Hydraphur&lt;/span&gt; &lt;span class="n"&gt;Pattern&lt;/span&gt; &lt;span class="n"&gt;Lightning&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;recovered&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Segmentum&lt;/span&gt; &lt;span class="n"&gt;Pacificus&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;delivered&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;forge&lt;/span&gt; &lt;span class="n"&gt;world&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;analysis&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Emperor&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s Tarot reading by the Arch Magos of the fleet base there. Forge World Hydraphur now produces limited numbers of the Lightning for fleets operating in the segmentum when the more common pattern of the fighter is unavailable. It is perhaps due to the long-standing rivalries of the Magos among the Mechanicum that the design information is jealously guarded by the Hydraphur forge.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;These&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;scaled&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;games&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Aeronautica&lt;/span&gt; &lt;span class="n"&gt;Imperialis&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;For&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="n"&gt;K&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="n"&gt;visit&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;hydraphur&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pattern&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;lightning&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;fighter&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;***&lt;/span&gt;&lt;span class="n"&gt;SUPPORT&lt;/span&gt; &lt;span class="n"&gt;ME&lt;/span&gt;&lt;span class="o"&gt;***&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;These&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;don&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t just happen at the stroke of a button. Rather, it takes a long time of learning skills and practicing to make a detailed, printable model. I often spend entire days in front of my computer manipulating individual edges, points, and polygons to create the renderings I&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;m&lt;/span&gt; &lt;span class="n"&gt;publishing&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;page&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;don&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t like to beg, but let&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;honest&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m a disabled and unemployed veteran living in an RV. In order for me to continue producing these models for you to print and use, I have to keep the power coming to my computer. That means bills for fuel, campground fees, insurance, child support, etc. If you enjoy my models, please consider a tip.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; Sci_fi_VTOL_Tank_Transporter [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-sci_fi_vtol_tank_transporter-dl/</link><pubDate>Sun, 05 Apr 2020 05:59:27 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-sci_fi_vtol_tank_transporter-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-sci_fi_vtol_tank_transporter-dl/thumbs_-_sci-fi-vtol-tank-transporter_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; Sci_fi_VTOL_Tank_Transporter [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-sci_fi_vtol_tank_transporter-dl/thumbs_-_sci-fi-vtol-tank-transporter_-_Images_1.jpg"
+width="864"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="432"
+data-flex-basis="1036px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-sci_fi_vtol_tank_transporter-dl/thumbs_-_sci-fi-vtol-tank-transporter_-_ImagesSTL_1.jpg"
+width="2592"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1296"
+data-flex-basis="3110px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/sci-fi-vtol-tank-transporter" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/sci-fi-vtol-tank-transporter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : sci-fi-vtol-tank-transporter&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;You&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;re an infantry grunt fighting a battle in the distant future. Your platoon has gotten the upper hand over your enemy, and systematically wiping out all resistance. You hear the growl of turbo-jet engines on the horizon, and see a squadron of enemy VTOL transport jets quickly approaching. &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="s2"&gt;&amp;#34;Great,&amp;#34;&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;think&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;ready&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;rifle&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;we&amp;#39;ll take out the incoming troops as they disembark.&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;As&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;come&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;land&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;realize&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;re not troop transports, but instead each jet is dropping a light battle tank right in front of your lines! Your asshole clenches so hard that your cheeks cramp up, and your nuts retract so fast you feel them bruise your kidneys. All of a sudden you&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;re&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;feeling&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;great&lt;/span&gt; &lt;span class="n"&gt;about&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;chances&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scaled&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;previous&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;extra&lt;/span&gt; &lt;span class="n"&gt;detail&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;suitable&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;popular&lt;/span&gt; &lt;span class="n"&gt;air&lt;/span&gt; &lt;span class="n"&gt;combat&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;tabletop&lt;/span&gt; &lt;span class="n"&gt;wargames&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Measurements&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="mi"&gt;84&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;long&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;28&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;tall&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;65&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;wingspan&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Up&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scaling&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;components&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;factor&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;suit&lt;/span&gt; &lt;span class="n"&gt;larger&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;popular&lt;/span&gt; &lt;span class="n"&gt;sci&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;fi&lt;/span&gt; &lt;span class="n"&gt;wargames&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; Stroganoff &gt; Sci_fi_Lancaster_Bomber [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-stroganoff-sci_fi_lancaster_bomber-non-dl/</link><pubDate>Sat, 21 Mar 2020 08:19:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-stroganoff-sci_fi_lancaster_bomber-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-stroganoff-sci_fi_lancaster_bomber-non-dl/thumbs_-_sci-fi-lancaster-bomber_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; Stroganoff &gt; Sci_fi_Lancaster_Bomber [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-stroganoff-sci_fi_lancaster_bomber-non-dl/thumbs_-_sci-fi-lancaster-bomber_-_Images_1.jpg"
+width="672"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="336"
+data-flex-basis="806px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/sci-fi-lancaster-bomber" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/sci-fi-lancaster-bomber&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : sci-fi-lancaster-bomber&lt;/p&gt;
+&lt;p&gt;Prix : 3 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The classic historical bomber has been reinvented for warfare in the distant future! Who needs aerodynamics when you have four afterburner turbojet engines to brute-force your way passed atmospheric drag??
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Currently scaled at approximately 1:300, with a 100mm wingspan and 100mm nose to tail. Includes landing gear to model a military airfield diorama, or closed landing gear to model in-flight.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Stroganoff &gt; 32_Hellstrike_Missile_Tree_for_Aeronautica_Imperialis [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-32_hellstrike_missile_tree_for_aeronautica_imperialis-non-dl/</link><pubDate>Sun, 05 Jan 2020 12:53:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-32_hellstrike_missile_tree_for_aeronautica_imperialis-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-32_hellstrike_missile_tree_for_aeronautica_imperialis-non-dl/thumbs_-_4085865_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Stroganoff &gt; 32_Hellstrike_Missile_Tree_for_Aeronautica_Imperialis [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-32_hellstrike_missile_tree_for_aeronautica_imperialis-non-dl/thumbs_-_4085865_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4085865" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4085865&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4085865&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;32 Hellstrike missiles arrayed around a tree for optimal printing.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;It printed perfectly on my Elegoo Mars, can&amp;#39;t guarantee it&amp;#39;ll work on FDM.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;If anyone has an official AI Hellstrike missile, please let me know how close this is in scale so that I can adjust it.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_VTOL_Personnel_Carrier_for_Human_Armies [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_personnel_carrier_for_human_armies-dl/</link><pubDate>Fri, 27 Dec 2019 14:29:07 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_personnel_carrier_for_human_armies-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_personnel_carrier_for_human_armies-dl/thumbs_-_epic-scale-valkyrie-vendetta_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_VTOL_Personnel_Carrier_for_Human_Armies [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_personnel_carrier_for_human_armies-dl/thumbs_-_epic-scale-valkyrie-vendetta_-_Images_1.jpg"
+width="2670"
+height="360"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="741"
+data-flex-basis="1780px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_personnel_carrier_for_human_armies-dl/thumbs_-_epic-scale-valkyrie-vendetta_-_ImagesSTL_1.jpg"
+width="3673"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="918"
+data-flex-basis="2203px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-valkyrie-vendetta" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-valkyrie-vendetta&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-valkyrie-vendetta&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Modelled at true-scale 1:300 so it is larger than the official GW models; It may match the FW models since they care about scale!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_VTOL_Tank_Carrier_for_Human_Armies [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/</link><pubDate>Fri, 27 Dec 2019 14:22:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/thumbs_-_epic-scale-sky-talon_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_VTOL_Tank_Carrier_for_Human_Armies [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/thumbs_-_epic-scale-sky-talon_-_Images_1.jpg"
+width="2670"
+height="168"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1589"
+data-flex-basis="3814px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.jpg"
+width="3450"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1725"
+data-flex-basis="4140px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_vtol_tank_carrier_for_human_armies-dl/thumbs_-_epic-scale-sky-talon_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-sky-talon" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-sky-talon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-sky-talon&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Modelled at true-scale 1:300 so it is larger than the official GW models; It may match the FW models since they care about scale!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__VTOL_Gunship_for_Human_Armies [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__vtol_gunship_for_human_armies-non-dl/</link><pubDate>Fri, 27 Dec 2019 14:17:49 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__vtol_gunship_for_human_armies-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__vtol_gunship_for_human_armies-non-dl/thumbs_-_epic-scale-vulture-gunship_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__VTOL_Gunship_for_Human_Armies [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__vtol_gunship_for_human_armies-non-dl/thumbs_-_epic-scale-vulture-gunship_-_Images_1.jpg"
+width="2136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1068"
+data-flex-basis="2563px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__vtol_gunship_for_human_armies-non-dl/thumbs_-_epic-scale-vulture-gunship_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-vulture-gunship" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-vulture-gunship&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-vulture-gunship&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Modelled at true-scale 1:300 so it is larger than the official GW models; It may match the FW models since they care about scale!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Sky_Fortress_for_Human_Armies [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/</link><pubDate>Fri, 27 Dec 2019 14:13:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/thumbs_-_epic-scale-marauder-destroyer_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Sky_Fortress_for_Human_Armies [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/thumbs_-_epic-scale-marauder-destroyer_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/thumbs_-_epic-scale-marauder-destroyer_-_ImagesSTL_1.jpg"
+width="3866"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="966"
+data-flex-basis="2319px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__sky_fortress_for_human_armies-dl/thumbs_-_epic-scale-marauder-destroyer_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-marauder-destroyer" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-marauder-destroyer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-marauder-destroyer&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scaled to match the FW model, so it is considerably larger than the official GW models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Bomber_for_Human_Air_Forces [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/</link><pubDate>Fri, 27 Dec 2019 14:04:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/thumbs_-_epic-scale-marauder_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Bomber_for_Human_Air_Forces [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/thumbs_-_epic-scale-marauder_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/thumbs_-_epic-scale-marauder_-_ImagesSTL_1.jpg"
+width="3772"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="943"
+data-flex-basis="2263px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__bomber_for_human_air_forces-dl/thumbs_-_epic-scale-marauder_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-marauder" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-marauder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-marauder&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scaled to match the FW model, so it is considerably larger than the official GW models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_High_Altitude_Reconnaissance_for_Human_Air_Forces [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_high_altitude_reconnaissance_for_human_air_forces-dl/</link><pubDate>Fri, 27 Dec 2019 13:46:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_high_altitude_reconnaissance_for_human_air_forces-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_high_altitude_reconnaissance_for_human_air_forces-dl/thumbs_-_epic-scale-marauder-vigilant_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Stroganoff &gt; 1_4__Scale_High_Altitude_Reconnaissance_for_Human_Air_Forces [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_high_altitude_reconnaissance_for_human_air_forces-dl/thumbs_-_epic-scale-marauder-vigilant_-_Images_1.jpg"
+width="280"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="140"
+data-flex-basis="336px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-stroganoff-1_4__scale_high_altitude_reconnaissance_for_human_air_forces-dl/thumbs_-_epic-scale-marauder-vigilant_-_ImagesSTL_1.jpg"
+width="3360"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1680"
+data-flex-basis="4032px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-marauder-vigilant" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-marauder-vigilant&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-marauder-vigilant&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scaled to match the FW model, so it is considerably larger than the official GW models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; fAsenman &gt; _Avenger__Armored_Container_Transport [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fasenman-_avenger__armored_container_transport-non-dl/</link><pubDate>Thu, 28 Nov 2019 12:09:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fasenman-_avenger__armored_container_transport-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fasenman-_avenger__armored_container_transport-non-dl/thumbs_-_4006985_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; fAsenman &gt; _Avenger__Armored_Container_Transport [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fasenman-_avenger__armored_container_transport-non-dl/thumbs_-_4006985_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4006985" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4006985&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4006985&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I wanted to populate my 40k Hangar and always liked the WC Avenger, so ...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; BREXIT &gt; SCI_FI_STUKA_BOMBER [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-brexit-sci_fi_stuka_bomber-non-dl/</link><pubDate>Wed, 21 Nov 2018 15:45:46 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-brexit-sci_fi_stuka_bomber-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-brexit-sci_fi_stuka_bomber-non-dl/thumbs_-_sci-fi-stuka-bomber_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; BREXIT &gt; SCI_FI_STUKA_BOMBER [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-brexit-sci_fi_stuka_bomber-non-dl/thumbs_-_sci-fi-stuka-bomber_-_Images_1.jpg"
+width="4000"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1000"
+data-flex-basis="2400px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-brexit-sci_fi_stuka_bomber-non-dl/thumbs_-_sci-fi-stuka-bomber_-_Makes_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/sci-fi-stuka-bomber" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/sci-fi-stuka-bomber&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : sci-fi-stuka-bomber&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Avengers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-chasseurs-bombardiers Avengers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;SCI&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;FI&lt;/span&gt; &lt;span class="n"&gt;STUKA&lt;/span&gt; &lt;span class="n"&gt;BOMBER&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;tried&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;split&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;convenient&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;best&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="n"&gt;could&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;there&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;non&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;split&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;special case&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;split&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;yourself&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;welcome&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;stand&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;replacement&lt;/span&gt; &lt;span class="n"&gt;undercarriage&lt;/span&gt; &lt;span class="n"&gt;coming&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;next&lt;/span&gt; &lt;span class="n"&gt;upload&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Stroganoff &gt; Epic_Scale_Marauder_Vigilant [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_vigilant-dl/</link><pubDate>Sat, 24 Feb 2018 05:05:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_vigilant-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_vigilant-dl/thumbs_-_2804838_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Stroganoff &gt; Epic_Scale_Marauder_Vigilant [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_vigilant-dl/thumbs_-_2804838_-_Images_1.jpg"
+width="2681"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1340"
+data-flex-basis="3217px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_vigilant-dl/thumbs_-_2804838_-_ImagesSTL_1.jpg"
+width="3360"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1680"
+data-flex-basis="4032px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2804838" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2804838&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2804838&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scaled to match the FW model, so it is considerably larger than the official GW models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Stroganoff &gt; Epic_Scale_Marauder_Destroyer [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/</link><pubDate>Thu, 15 Feb 2018 05:01:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/thumbs_-_2794814_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Stroganoff &gt; Epic_Scale_Marauder_Destroyer [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/thumbs_-_2794814_-_Images_1.jpg"
+width="2802"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="700"
+data-flex-basis="1681px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/thumbs_-_2794814_-_ImagesSTL_1.jpg"
+width="3866"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="966"
+data-flex-basis="2319px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-stroganoff-epic_scale_marauder_destroyer-dl/thumbs_-_2794814_-_Makes_1.jpg"
+width="2399"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="599"
+data-flex-basis="1439px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2794814" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2794814&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2794814&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-bombardiers Maraudeurs NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scaled to match the FW model, so it is considerably larger than the official GW models.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BiancaW &gt; Sparrow_Pattern_Arvus_Lighter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-sparrow_pattern_arvus_lighter-non-dl/</link><pubDate>Fri, 03 Mar 2017 04:43:35 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-sparrow_pattern_arvus_lighter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-sparrow_pattern_arvus_lighter-non-dl/thumbs_-_2149701_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BiancaW &gt; Sparrow_Pattern_Arvus_Lighter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-biancaw-sparrow_pattern_arvus_lighter-non-dl/thumbs_-_2149701_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2149701" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2149701&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2149701&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-transporteurs-volants-arvus-aquilas-etc NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;My take on the Arvus Lighter
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

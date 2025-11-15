@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ORCS on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/orcs/</link><description>Recent content in ORCS on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 02 Nov 2024 00:49:16 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/orcs/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Trolls [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/</link><pubDate>Sat, 02 Nov 2024 00:49:16 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/thumbs_-_6816774_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; tilinger &gt; Warmaster_Trolls [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/thumbs_-_6816774_-_Images_1.jpg"
+width="2769"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="692"
+data-flex-basis="1661px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/thumbs_-_6816774_-_ImagesSTL_1.jpg"
+width="1567"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="391"
+data-flex-basis="940px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tilinger-warmaster_trolls-dl/thumbs_-_6816774_-_Makes_1.jpg"
+width="1968"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="984"
+data-flex-basis="2361px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6816774" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6816774&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6816774&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster GOBELINS ORCS Trolls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster GOBELINS ORCS Trolls NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Nine&lt;/span&gt; &lt;span class="n"&gt;individual&lt;/span&gt; &lt;span class="n"&gt;troll&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;converted&lt;/span&gt; &lt;span class="n"&gt;mainly&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;trolls&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;rockgnome&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;rudimentary&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;trolls&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;by&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;emang&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mf"&gt;2024.11&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;02&lt;/span&gt; &lt;span class="n"&gt;edit&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;reuploaded&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;trolls&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;normals&lt;/span&gt; &lt;span class="n"&gt;ot&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="n"&gt;were&lt;/span&gt; &lt;span class="n"&gt;flipped&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mf"&gt;2025.01&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="mi"&gt;12&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;zip&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;baseless&lt;/span&gt; &lt;span class="n"&gt;minis&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Scribonius243 &gt; Warmaster_Orc_Hero [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_hero-non-dl/</link><pubDate>Thu, 09 May 2024 01:45:47 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_hero-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_hero-non-dl/thumbs_-_6614425_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Scribonius243 &gt; Warmaster_Orc_Hero [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_hero-non-dl/thumbs_-_6614425_-_Images_1.jpg"
+width="1296"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="648"
+data-flex-basis="1555px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6614425" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6614425&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6614425&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A 10mm Orc hero for Warmaster, both supported and unsupported.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This has been designed for resin printing and the supported &amp;amp; based version should print as is. I have test printed it successfully (with the bellow settings).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Thank you to RenatoT for the base model, and theartbadger for the base.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+A 10mm Orc hero for Warmaster, both supported and unsupported.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This has been designed for resin printing and the supported &amp;amp; based version should print as is. I have test printed it successfully (with the bellow settings).&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Scribonius243 &gt; Warmaster_Orc_Spearmen [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_spearmen-dl/</link><pubDate>Sat, 10 Feb 2024 06:43:39 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_spearmen-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_spearmen-dl/thumbs_-_6477628_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Scribonius243 &gt; Warmaster_Orc_Spearmen [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_spearmen-dl/thumbs_-_6477628_-_Images_1.jpg"
+width="1960"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="980"
+data-flex-basis="2352px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scribonius243-warmaster_orc_spearmen-dl/thumbs_-_6477628_-_ImagesSTL_1.jpg"
+width="1547"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="386"
+data-flex-basis="928px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6477628" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6477628&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6477628&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;10mm Orc spearmen for warmaster, both a strips of 5 and the single 10mm models. I have included 5 different rank and file strips, 1 command strip, and the 12 unsupported models used to make them (in the zip file).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I have fully supported the strips, and successfully test printed them to ensure they were sufficient.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Thank you to Mayapia for the base orc models, as well as Hyfryd, 3D_Print_Cleric , and jimjimjimmyjim for parts used for the command strip.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+10mm Orc spearmen for warmaster, both a strips of 5 and the single 10mm models. I have included 5 different rank and file strips, 1 command strip, and the 12 unsupported models used to make them (in the zip file).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I have fully supported the strips, and successfully test printed them to ensure they were sufficient.
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Com_Strip_1_Sup_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Strip_1_Sup_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Strip_2_Sup_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Strip_3_Sup_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Strip_4_Sup_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Warmaster_Orc_Spearmen&lt;/em&gt;-&lt;em&gt;6477628_zip_unpack_files_Orc_Spear_Strip_5_Sup_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; onmioji &gt; Ork_shaman_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-onmioji-ork_shaman_-non-dl/</link><pubDate>Sat, 12 Nov 2022 14:05:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-onmioji-ork_shaman_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-onmioji-ork_shaman_-non-dl/thumbs_-_5624731_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; onmioji &gt; Ork_shaman_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-onmioji-ork_shaman_-non-dl/thumbs_-_5624731_-_Images_1.jpg"
+width="736"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="368"
+data-flex-basis="883px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5624731" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5624731&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5624731&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Ork shaman
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Myminifactory &gt; Wakes_Emporium &gt; 3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742 [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742-dl/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742-dl/thumbs_-_3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Myminifactory &gt; Wakes_Emporium &gt; 3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742 [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742-dl/thumbs_-_3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742-dl/thumbs_-_3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742_-_ImagesSTL_1.jpg"
+width="853"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="426"
+data-flex-basis="1023px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.myminifactory.com/object/3d-print-warmaster-orc-boar-chariots-10mm-warmaster-244742" target="_blank" rel="noopener"
+&gt;https://www.myminifactory.com/object/3d-print-warmaster-orc-boar-chariots-10mm-warmaster-244742&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3d_print_warmaster_orc_boar_chariots_10mm_warmaster_244742&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Orc Boar Chariots specifically designed for 10mm (Warmaster), can be reasonably scaled from 6mm to 15mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A resin printer is highly recommended on these miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Upon purchase the End-User agrees to print these files for personal use and not for any commercial printing endeavors.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Do not Share the contents of this product after purchase.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Do not resell the contents product after purchase.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-1_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-2_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-3_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-4_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Myminifactory &gt; Wakes_Emporium &gt; 3d_print_warmaster_orc_champion_10mm_warmaster_244733 [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_champion_10mm_warmaster_244733-dl/</link><pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_champion_10mm_warmaster_244733-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_champion_10mm_warmaster_244733-dl/thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Myminifactory &gt; Wakes_Emporium &gt; 3d_print_warmaster_orc_champion_10mm_warmaster_244733 [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_champion_10mm_warmaster_244733-dl/thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-wakes_emporium-3d_print_warmaster_orc_champion_10mm_warmaster_244733-dl/thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_ImagesSTL_1.jpg"
+width="392"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="196"
+data-flex-basis="470px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.myminifactory.com/object/3d-print-warmaster-orc-champion-10mm-warmaster-244733" target="_blank" rel="noopener"
+&gt;https://www.myminifactory.com/object/3d-print-warmaster-orc-champion-10mm-warmaster-244733&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3d_print_warmaster_orc_champion_10mm_warmaster_244733&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Orc Champion specifically designed for 10mm (Warmaster), can be reasonably scaled from 6mm to 15mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A resin printer is highly recommended on these miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Upon purchase the End-User agrees to print these files for personal use and not for any commercial printing endeavors.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Do not Share the contents of this product after purchase.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;-Do not resell the contents product after purchase.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_631ffc41502e5_warmaster-orc-champion-10mm-warmaster_zip_unpack_wakes-emporium-warmaster-orc-champion-wakes-emporium-orc-champion-supported_stl_.jpg
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; TangoC &gt; Brute_Scrapper_Rifleman_B [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tangoc-brute_scrapper_rifleman_b-non-dl/</link><pubDate>Mon, 21 Mar 2022 09:58:28 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tangoc-brute_scrapper_rifleman_b-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tangoc-brute_scrapper_rifleman_b-non-dl/thumbs_-_5325216_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; TangoC &gt; Brute_Scrapper_Rifleman_B [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tangoc-brute_scrapper_rifleman_b-non-dl/thumbs_-_5325216_-_Images_1.jpg"
+width="480"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="240"
+data-flex-basis="576px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5325216" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5325216&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5325216&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders&lt;/li&gt;
+&lt;li&gt;28mm ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;28mm ORCS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A post apocalyptic brute battling in a junk filled wasteland over choice scraps.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is a remix of the linked files. Credit to them for their works.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I simply kitbashed and sculpted upon these files.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This Brute Scrapper stands about 32mm tall.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; enfenix &gt; HeroQuest___Orc_BlackrockBrute_remix [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-enfenix-heroquest___orc_blackrockbrute_remix-non-dl/</link><pubDate>Wed, 29 Jan 2020 23:28:38 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-enfenix-heroquest___orc_blackrockbrute_remix-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-enfenix-heroquest___orc_blackrockbrute_remix-non-dl/thumbs_-_4133602_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; enfenix &gt; HeroQuest___Orc_BlackrockBrute_remix [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-enfenix-heroquest___orc_blackrockbrute_remix-non-dl/thumbs_-_4133602_-_Images_1.jpg"
+width="2662"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1331"
+data-flex-basis="3194px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-enfenix-heroquest___orc_blackrockbrute_remix-non-dl/thumbs_-_4133602_-_Makes_1.jpg"
+width="2648"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="441"
+data-flex-basis="1059px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4133602" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4133602&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4133602&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ORCS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Here is a new WoW-Heroquest Crossmix.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I actually want to try to split the orc so that I can do better poses in Sculptris.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;There are some minimal self intersecting surfaces i couldn&amp;#39;t fix yet. Cura can handle it pretty well. But i have no experience with other slicers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;General information
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;My miniatures are designed to work out of the box with original 28mm Heroquest miniatures.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I always add a version with Heroquest base and one without a base. The weapons and the base are only combined (if possible).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Personally, I now prefer 32mm miniatures. I usually scale them to 112% -115% directly in the slicer.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I am happy about every shared make, especially the painted ones.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;By the way i love espresso, so don&amp;#39;t hesitate to leave a tip if you like =D
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;If you are inexperienced with slicer setting, I recommend this one for Ender Printer: http://www.fatdragongames.com/fdgfiles/?p=4934
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Piratey_Orks_for_the_Green_Tide___Epic_Enemies_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-piratey_orks_for_the_green_tide___epic_enemies_-non-dl/</link><pubDate>Sun, 08 Sep 2019 14:12:59 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-piratey_orks_for_the_green_tide___epic_enemies_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-piratey_orks_for_the_green_tide___epic_enemies_-non-dl/thumbs_-_3851037_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Piratey_Orks_for_the_Green_Tide___Epic_Enemies_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-piratey_orks_for_the_green_tide___epic_enemies_-non-dl/thumbs_-_3851037_-_Images_1.jpg"
+width="312"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="156"
+data-flex-basis="374px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3851037" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3851037&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3851037&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Bring the Green Tide to the Real Tide!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This set adds fifteen pieces to the Green Tide: Orc Horde set, allowing you to make pirate versions of your favorite greenskins! The Green Tide can be found at https://gumroad.com/l/pVpGX
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This set was created in honor of reaching the first stretch goal in my current Kickstarter, Epic Enemies! As the orc Pirate King Rumhad Skulleater ravages the coast, he surely needs a crew to man his looted warships!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic Enemies can be found here: https://www.kickstarter.com/projects/epicenemies/epic-enemies
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Artillery_Loader_Orc [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-artillery_loader_orc-non-dl/</link><pubDate>Wed, 29 May 2019 11:58:52 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-artillery_loader_orc-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-artillery_loader_orc-non-dl/thumbs_-_3660390_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Artillery_Loader_Orc [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-artillery_loader_orc-non-dl/thumbs_-_3660390_-_Images_1.jpg"
+width="688"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="344"
+data-flex-basis="825px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-artillery_loader_orc-non-dl/thumbs_-_3660390_-_Makes_1.jpg"
+width="2553"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="638"
+data-flex-basis="1531px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3660390" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3660390&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3660390&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;In&lt;/span&gt; &lt;span class="n"&gt;honor&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Green&lt;/span&gt; &lt;span class="n"&gt;Tide&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;now&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;Gumroad&lt;/span&gt; &lt;span class="n"&gt;page&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;gumroad&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;valandar&lt;/span&gt; &lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s a member of the artillery crew - the rock loader!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Warlock [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_warlock-non-dl/</link><pubDate>Wed, 20 Feb 2019 04:05:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_warlock-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_warlock-non-dl/thumbs_-_3439943_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Warlock [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_warlock-non-dl/thumbs_-_3439943_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_warlock-non-dl/thumbs_-_3439943_-_Makes_1.jpg"
+width="2729"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="454"
+data-flex-basis="1091px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3439943" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3439943&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3439943&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Calling on the power of his dark gods, the Orc Warlock prepares to support his tribe as they enter battle!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Bashy_Troll [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-bashy_troll-non-dl/</link><pubDate>Wed, 25 Jul 2018 03:19:10 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-bashy_troll-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-bashy_troll-non-dl/thumbs_-_3018963_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Bashy_Troll [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-bashy_troll-non-dl/thumbs_-_3018963_-_Images_1.jpg"
+width="776"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="388"
+data-flex-basis="931px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-bashy_troll-non-dl/thumbs_-_3018963_-_Makes_1.jpg"
+width="2454"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="613"
+data-flex-basis="1472px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3018963" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3018963&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3018963&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster GOBELINS ORCS Trolls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster GOBELINS ORCS Trolls NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Bashy the Troll loves to bash things - just make sure your heroes don&amp;#39;t get bashed!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I should note right here that he&amp;#39;s slightly under-scaled. I&amp;#39;d scale him up between 10 and 50 percent to really get that fearsome trollish &amp;#39;feel&amp;#39; off of him. :D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; The_Orc_Horde [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-the_orc_horde-non-dl/</link><pubDate>Fri, 06 Jul 2018 03:07:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-the_orc_horde-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-the_orc_horde-non-dl/thumbs_-_2991826_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; The_Orc_Horde [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-the_orc_horde-non-dl/thumbs_-_2991826_-_Images_1.jpg"
+width="2803"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="467"
+data-flex-basis="1121px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-the_orc_horde-non-dl/thumbs_-_2991826_-_Makes_1.jpg"
+width="2738"
+height="1400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="195"
+data-flex-basis="469px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2991826" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2991826&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2991826&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders&lt;/li&gt;
+&lt;li&gt;28mm ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;28mm ORCS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;( This item sponsored by my Kickstarter, [Titans of Legend](https://www.kickstarter.com/projects/1426243056/titans-of-legend) )
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;WAAAAAAAAAAGGGGGGGHHHHHHH!!!!!!!!!!!!!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The horde is coming! Archers, swordsmen, spearmen, unit commanders, a shaman, and even the Big Boss, all charging towards your printer so they can get to grips with an enemy and commence knocking steel and shields!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;BTW, the picture is a render, not finished models.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Spear_Sergeant [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spear_sergeant-non-dl/</link><pubDate>Fri, 06 Jul 2018 03:04:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spear_sergeant-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spear_sergeant-non-dl/thumbs_-_2991824_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Spear_Sergeant [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spear_sergeant-non-dl/thumbs_-_2991824_-_Images_1.jpg"
+width="688"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="344"
+data-flex-basis="825px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spear_sergeant-non-dl/thumbs_-_2991824_-_Makes_1.jpg"
+width="2436"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="609"
+data-flex-basis="1461px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2991824" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2991824&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2991824&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Commanding the long pointy bits, this poor orc has seen his share of battle, with a missing eye and a peg leg!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Shaman [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_shaman-non-dl/</link><pubDate>Thu, 05 Jul 2018 03:06:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_shaman-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_shaman-non-dl/thumbs_-_2990466_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Shaman [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_shaman-non-dl/thumbs_-_2990466_-_Images_1.jpg"
+width="688"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="344"
+data-flex-basis="825px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_shaman-non-dl/thumbs_-_2990466_-_Makes_1.jpg"
+width="1968"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="328"
+data-flex-basis="787px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2990466" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2990466&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2990466&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Second only to the mighty warboss, the Shaman is the spiritual guide of an Orc tribe - and a fearsome foe in wartime, with spells that can frighten armies!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Spearmen [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spearmen-non-dl/</link><pubDate>Mon, 02 Jul 2018 02:31:37 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spearmen-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spearmen-non-dl/thumbs_-_2986161_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Spearmen [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spearmen-non-dl/thumbs_-_2986161_-_Images_1.jpg"
+width="1520"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="760"
+data-flex-basis="1824px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_spearmen-non-dl/thumbs_-_2986161_-_Makes_1.jpg"
+width="2449"
+height="1000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="244"
+data-flex-basis="587px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2986161" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2986161&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2986161&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Further filling out the orc assault force, these two orcs wear medium but flexible armor, and carry both shield and spear!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Crossbow_Sergeant [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_crossbow_sergeant-non-dl/</link><pubDate>Mon, 02 Jul 2018 02:29:46 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_crossbow_sergeant-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_crossbow_sergeant-non-dl/thumbs_-_2986159_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Crossbow_Sergeant [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_crossbow_sergeant-non-dl/thumbs_-_2986159_-_Images_1.jpg"
+width="736"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="368"
+data-flex-basis="883px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_crossbow_sergeant-non-dl/thumbs_-_2986159_-_Makes_1.jpg"
+width="2399"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="599"
+data-flex-basis="1439px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2986159" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2986159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2986159&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders&lt;/li&gt;
+&lt;li&gt;28mm ORCS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic ORKS Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;28mm ORCS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Taking command of the orc archers, the crossbow sergeant prepares to blacken the skies!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Archers [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_archers-non-dl/</link><pubDate>Fri, 29 Jun 2018 03:44:30 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_archers-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_archers-non-dl/thumbs_-_2982340_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Archers [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_archers-non-dl/thumbs_-_2982340_-_Images_1.jpg"
+width="1328"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="664"
+data-flex-basis="1593px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_archers-non-dl/thumbs_-_2982340_-_Makes_1.jpg"
+width="2173"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="543"
+data-flex-basis="1303px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2982340" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2982340&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2982340&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Further filling out the orky ranks, here&amp;#39;s a pair of orcs with crude bows, to take the fight to enemies too far away to swing a choppa at!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Big_Orc_Boss [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-big_orc_boss-non-dl/</link><pubDate>Fri, 25 May 2018 04:34:49 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-big_orc_boss-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-big_orc_boss-non-dl/thumbs_-_2929718_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Big_Orc_Boss [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-big_orc_boss-non-dl/thumbs_-_2929718_-_Images_1.jpg"
+width="1200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="600"
+data-flex-basis="1440px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-big_orc_boss-non-dl/thumbs_-_2929718_-_Makes_1.jpg"
+width="2435"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="405"
+data-flex-basis="974px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2929718" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2929718&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2929718&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The biggest, strongest, and toughest orc of them all, often with more than a little ogre or even troll blood, the Big Orc Boss leads the tribes, or even nations, to WAAAARRRR!!!!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Troopers [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_troopers-non-dl/</link><pubDate>Mon, 21 May 2018 04:36:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_troopers-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_troopers-non-dl/thumbs_-_2922451_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Troopers [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_troopers-non-dl/thumbs_-_2922451_-_Images_1.jpg"
+width="1016"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="508"
+data-flex-basis="1219px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_troopers-non-dl/thumbs_-_2922451_-_Makes_1.jpg"
+width="2000"
+height="1200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="166"
+data-flex-basis="400px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2922451" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2922451&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2922451&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The armies of the Orc Horde are on the march, and these two troopers stand in the middle of the front lines! Print out enough, and you can have a full legion ready to scare the pants off your low level starting players!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Sergeant [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_sergeant-non-dl/</link><pubDate>Sat, 19 May 2018 05:23:09 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_sergeant-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_sergeant-non-dl/thumbs_-_2919530_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Valandar &gt; Orc_Sergeant [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_sergeant-non-dl/thumbs_-_2919530_-_Images_1.jpg"
+width="488"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="244"
+data-flex-basis="585px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-valandar-orc_sergeant-non-dl/thumbs_-_2919530_-_Makes_1.jpg"
+width="2216"
+height="800"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="277"
+data-flex-basis="664px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2919530" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2919530&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2919530&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster ORCS Bits Orcs-divers-28mm-compatibles-warmaster NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;WAAAAGH! This maille clad orc is ready to smash faces with his saw-toothed hacka! Maybe if you print him, he can unleash havok on your heroes, too!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

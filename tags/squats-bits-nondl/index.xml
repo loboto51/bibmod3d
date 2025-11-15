@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SQUATS Bits NONDL on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/squats-bits-nondl/</link><description>Recent content in SQUATS Bits NONDL on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 03 Dec 2023 23:59:42 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/squats-bits-nondl/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; Th3_M4in_M4n &gt; Space_Dwarfs_Miners_Heavy_Weapons_Guy [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-th3_m4in_m4n-space_dwarfs_miners_heavy_weapons_guy-non-dl/</link><pubDate>Sun, 03 Dec 2023 23:59:42 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-th3_m4in_m4n-space_dwarfs_miners_heavy_weapons_guy-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-th3_m4in_m4n-space_dwarfs_miners_heavy_weapons_guy-non-dl/thumbs_-_6351236_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Th3_M4in_M4n &gt; Space_Dwarfs_Miners_Heavy_Weapons_Guy [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-th3_m4in_m4n-space_dwarfs_miners_heavy_weapons_guy-non-dl/thumbs_-_6351236_-_Images_1.jpg"
+width="1040"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="520"
+data-flex-basis="1248px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6351236" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6351236&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6351236&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Finally&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;share&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;little&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;slow&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="n"&gt;steady&lt;/span&gt; &lt;span class="n"&gt;progress&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;squat&lt;/span&gt; &lt;span class="n"&gt;miners&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; &lt;span class="n"&gt;On&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;occasion&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;miner&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;carry&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;gang&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s heavy weapons, which in this example is a Heavy Stubber.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;stubber&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;double&lt;/span&gt; &lt;span class="n"&gt;barrels&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;emulating&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Ironhead&lt;/span&gt; &lt;span class="n"&gt;Prostpectors&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;classic&lt;/span&gt; &lt;span class="n"&gt;single&lt;/span&gt; &lt;span class="n"&gt;barrel&lt;/span&gt; &lt;span class="n"&gt;look&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;because&lt;/span&gt; &lt;span class="n"&gt;why&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;stubber&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;differs&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;little&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;see&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;images&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;because&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;didn&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t really like how it looked printed and I decided to lengthen the barrels.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;special&lt;/span&gt; &lt;span class="n"&gt;powerpack&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;include&lt;/span&gt; &lt;span class="k"&gt;tool&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;holders&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;because&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;exclusive&lt;/span&gt; &lt;span class="n"&gt;equipment&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;gang&lt;/span&gt; &lt;span class="n"&gt;leaders&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;ordinary&lt;/span&gt; &lt;span class="n"&gt;miners&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; MetaRicK &gt; Space_Dwarf_Land_Train [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-metarick-space_dwarf_land_train-non-dl/</link><pubDate>Tue, 02 May 2023 15:23:27 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-metarick-space_dwarf_land_train-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-metarick-space_dwarf_land_train-non-dl/thumbs_-_6003472_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; MetaRicK &gt; Space_Dwarf_Land_Train [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-metarick-space_dwarf_land_train-non-dl/thumbs_-_6003472_-_Images_1.jpg"
+width="2670"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="445"
+data-flex-basis="1068px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6003472" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6003472&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6003472&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Inspired by the new Votann (return of the squats ;-) i had a reason to finally paint my classic squats in combination with new Votann as one big army.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Being an Epic player with a big Squat army, i also wanted to have a land train for both my squats in 40k and for Necromunda, for that is where squats live.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The Space Dwarf Land Train from taaz was a good basis and from there i made a Land Train 2.0 that i tried to give a post-squat and pre-votann vibe.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I upgraded the train-cars with printable tracks and more details (doors, windows, exhaust pipes, new towbars). Then i added runes to get several different looking train-cars.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Furthermore i made new train-car tops because i wanted a different (lower) height and a more detailed weapon design.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Finally and most importantly i completely redesigned the train engine.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;It now also is a playable piece of terrain and has details that fit a model this size in 40k.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The sides are based on the sides from the original from taaz, also as a tribute/thanks, but the rest is redesigned from the ground up.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;All STL are tested/printed in 40k scale (0.2mm 15% infill) and printable, most of them supportless.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[BON-MARCHE] Cults3d &gt; Ceispherus &gt; Megaton_Ground_Castle [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-megaton_ground_castle-non-dl/</link><pubDate>Wed, 21 Sep 2022 20:07:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-megaton_ground_castle-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-megaton_ground_castle-non-dl/thumbs_-_megaton-ground-castle_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; Ceispherus &gt; Megaton_Ground_Castle [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-megaton_ground_castle-non-dl/thumbs_-_megaton-ground-castle_-_Images_1.jpg"
+width="1480"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="740"
+data-flex-basis="1776px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-megaton_ground_castle-non-dl/thumbs_-_megaton-ground-castle_-_Makes_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/megaton-ground-castle" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/megaton-ground-castle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : megaton-ground-castle&lt;/p&gt;
+&lt;p&gt;Prix : 1.79 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Bits NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Main-line battle tanks of the Leagues and also serve as transports for its forces, capable of holding 12 warriors.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This Model is Fairly Large, at least twice the size of the Squataur.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I recommend paying extra attention to where you place your supports and ensure that the lights are properly supported.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I was able to print the entire model on one plate on my Saturn S.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Includes:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Magma Rail Cannon
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Special Beamer
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Auto cannon
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Model for reference.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Update: Added a few files for a split hull for smaller printers.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;I recommend paying extra attention to where you place your supports and ensure that the lights are properly supported.&lt;/p&gt;</description></item><item><title>[BON-MARCHE] Cults3d &gt; Ceispherus &gt; Squataur [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-squataur-non-dl/</link><pubDate>Fri, 16 Sep 2022 21:35:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-squataur-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-squataur-non-dl/thumbs_-_squataur_-_Images_1.jpg" alt="Featured image of post [BON-MARCHE] Cults3d &gt; Ceispherus &gt; Squataur [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-squataur-non-dl/thumbs_-_squataur_-_Images_1.jpg"
+width="1824"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="912"
+data-flex-basis="2188px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/bon-marche-cults3d-ceispherus-squataur-non-dl/thumbs_-_squataur_-_Makes_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/squataur" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/squataur&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : squataur&lt;/p&gt;
+&lt;p&gt;Prix : 1.79 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Redoubtable rapid-response vehicles of the Leagues of Votann, that are designed for surveying inhospitable alien terrain and can carry a full squad of infantry.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Includes 3 Seperate Weapon Options
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Update: Added a updated Autocannon
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; space_dwarf_exo_armor_test_models [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarf_exo_armor_test_models-non-dl/</link><pubDate>Fri, 31 May 2019 04:34:24 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarf_exo_armor_test_models-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarf_exo_armor_test_models-non-dl/thumbs_-_3664035_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; space_dwarf_exo_armor_test_models [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarf_exo_armor_test_models-non-dl/thumbs_-_3664035_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3664035" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3664035&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3664035&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Some reworked models of space dwarfs in exo-armor. The changes made are smaller arms, more hoses and larger shoulder pads.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; Space_Dwarfs_in_Exo_armor_2 [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor_2-non-dl/</link><pubDate>Tue, 01 Jan 2019 19:30:36 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor_2-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor_2-non-dl/thumbs_-_3326083_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; Space_Dwarfs_in_Exo_armor_2 [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor_2-non-dl/thumbs_-_3326083_-_Images_1.jpg"
+width="2813"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="703"
+data-flex-basis="1687px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor_2-non-dl/thumbs_-_3326083_-_Makes_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3326083" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3326083&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3326083&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;More space dwarfs in Exo-armor, this time with close combat weapons.These figures have the same vent issues as the other Exo-armor space dwarfs.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The claws are a bit thin but they printed good for me and didn&amp;#39;t break.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; Space_Dwarfs_in_exo_armor [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor-non-dl/</link><pubDate>Thu, 27 Dec 2018 20:07:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor-non-dl/thumbs_-_3317072_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; MrOrangeJumper &gt; Space_Dwarfs_in_exo_armor [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor-non-dl/thumbs_-_3317072_-_Images_1.jpg"
+width="2759"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="689"
+data-flex-basis="1655px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mrorangejumper-space_dwarfs_in_exo_armor-non-dl/thumbs_-_3317072_-_Makes_1.jpg"
+width="2408"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1204"
+data-flex-basis="2889px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3317072" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3317072&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3317072&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SQUATS NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic SQUATS Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Space Dwarfs equipped for work in extreme harsh environments. The arms may need to be sanded or drilled slightly to fit well on the pegs. I included a body that you can add a head to, and an arm that can have different mining equipment or weapons added. Mirror the empty right arm to get a left arm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Note: the vents on the back of the exo-armor do not print very well. I think I joined the parts incorrectly, I will update these files when I have fixed the problem.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

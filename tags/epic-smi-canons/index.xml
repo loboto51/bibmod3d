@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic SMI Canons on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-smi-canons/</link><description>Recent content in Epic SMI Canons on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Mon, 24 Jun 2024 17:54:29 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-smi-canons/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Galactic_Crusader_Fencing_Support_Gun_Platform [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/</link><pubDate>Mon, 24 Jun 2024 17:54:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Galactic_Crusader_Fencing_Support_Gun_Platform [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_Images_1.jpg"
+width="2344"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1172"
+data-flex-basis="2812px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-galactic_crusader_fencing_support_gun_platform-dl/thumbs_-_galactic-crusader-fencing-support-gun-platform_-_ImagesSTL_1.jpg"
+width="1712"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="285"
+data-flex-basis="684px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/galactic-crusader-fencing-support-gun-platform" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/galactic-crusader-fencing-support-gun-platform&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusader-fencing-support-gun-platform&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Contains&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;collection&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;myself&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Chris&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Moonjammy&lt;/span&gt; &lt;span class="n"&gt;originally&lt;/span&gt; &lt;span class="n"&gt;posted&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;taken&lt;/span&gt; &lt;span class="n"&gt;down&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Grandma&lt;/span&gt; &lt;span class="n"&gt;Wendy&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve uploaded them here to give a single spot to download for folks again.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Provides&lt;/span&gt; &lt;span class="n"&gt;spotters&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;drivers&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Segmented&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Boarding&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Plate&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Ballbearing&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Beaky&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Gun&lt;/span&gt; &lt;span class="n"&gt;platforms&lt;/span&gt; &lt;span class="n"&gt;containing&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;machine&lt;/span&gt; &lt;span class="n"&gt;guns&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;gravity&lt;/span&gt; &lt;span class="n"&gt;cannons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;mortars&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Contains&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Dangitblobby&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;jimmyzims&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Chris&lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Moonjammy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;Name&lt;/span&gt; &lt;span class="n"&gt;redacted&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;protect&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;party&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Grandma&lt;/span&gt; &lt;span class="n"&gt;Wendy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Bolter_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk2_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK2_Rapier_Mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk2_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_rapier_rifle_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk3_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK4_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_Rapier_Grav_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_rapier_rifle_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk5_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Graviton_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_MK6_Rapier_Mortar_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_mk6_spotter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_Rapiers_nogunner-1_zip_unpack_Rapiers_nogunner_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;galactic-crusader-fencing-support-gun-platform20240624-1-z9qdr9_zip_unpack_jimmyzimms_galactic-crusader-fencing-support-gun-platform_Rapiers_nogunner_zip_unpack_Rapiers_nogunner_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Tryvoriousmaximous &gt; rapier_battery [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/</link><pubDate>Wed, 03 Jan 2024 22:08:44 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Tryvoriousmaximous &gt; rapier_battery [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_Images_1.jpg"
+width="2670"
+height="360"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="741"
+data-flex-basis="1780px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tryvoriousmaximous-rapier_battery-dl/thumbs_-_6415417_-_ImagesSTL_1.jpg"
+width="2535"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="422"
+data-flex-basis="1014px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6415417" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6415417&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6415417&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Someone said we needed some of these. So, I put in some effort.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Gun_Platform__6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/</link><pubDate>Thu, 05 Nov 2020 17:52:16 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; MoonJammy &gt; Galactic_Crusaders___Gun_Platform__6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_ImagesSTL_1.jpg"
+width="440"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="220"
+data-flex-basis="528px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-moonjammy-galactic_crusaders___gun_platform__6_8mm-dl/thumbs_-_galactic-crusaders-gun-platform-6-8mm_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/galactic-crusaders-gun-platform-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/galactic-crusaders-gun-platform-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : galactic-crusaders-gun-platform-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Canons NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print ready for resin printers. Just import, make sure the base is on the print bed, slice then print. 2xAA and 0.02mm layer height reccommended.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These files are not intended for FDM slicers or printers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Please bear in mind that these miniatures have extremely fragile parts despite my best efforts to make everything as solid as possible. Handle with care.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

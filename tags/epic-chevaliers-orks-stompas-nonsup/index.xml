@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic Chevaliers Orks-Stompas NONSUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-chevaliers-orks-stompas-nonsup/</link><description>Recent content in Epic Chevaliers Orks-Stompas NONSUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 24 Sep 2024 00:50:34 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-chevaliers-orks-stompas-nonsup/index.xml" rel="self" type="application/rss+xml"/><item><title>[PAYANT] Cults3d &gt; ModGames &gt; Stomp_Knight_set_1____18_Hull_Variants__ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-modgames-stomp_knight_set_1____18_hull_variants__-non-dl/</link><pubDate>Tue, 24 Sep 2024 00:50:34 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-modgames-stomp_knight_set_1____18_hull_variants__-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-modgames-stomp_knight_set_1____18_hull_variants__-non-dl/thumbs_-_stomp-knight-set-1-18-hull-variants_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; ModGames &gt; Stomp_Knight_set_1____18_Hull_Variants__ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-modgames-stomp_knight_set_1____18_hull_variants__-non-dl/thumbs_-_stomp-knight-set-1-18-hull-variants_-_Images_1.jpg"
+width="447"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="223"
+data-flex-basis="536px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/stomp-knight-set-1-18-hull-variants" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/stomp-knight-set-1-18-hull-variants&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : stomp-knight-set-1-18-hull-variants&lt;/p&gt;
+&lt;p&gt;Prix : 4.99 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;span class="lnt"&gt;22
+&lt;/span&gt;&lt;span class="lnt"&gt;23
+&lt;/span&gt;&lt;span class="lnt"&gt;24
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Stomp&lt;/span&gt; &lt;span class="n"&gt;Knights&lt;/span&gt; &lt;span class="n"&gt;comes&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;18&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;hull&lt;/span&gt; &lt;span class="n"&gt;variations&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="n"&gt;include&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;12&lt;/span&gt; &lt;span class="n"&gt;Tracked&lt;/span&gt; &lt;span class="n"&gt;Stomp&lt;/span&gt; &lt;span class="n"&gt;Knights&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;6&lt;/span&gt; &lt;span class="n"&gt;Stomp&lt;/span&gt; &lt;span class="n"&gt;Knight&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;feet&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Weapon&lt;/span&gt; &lt;span class="n"&gt;hard&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="n"&gt;include&lt;/span&gt; &lt;span class="n"&gt;tower&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;hardpoints&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;arm&lt;/span&gt; &lt;span class="n"&gt;mount&lt;/span&gt; &lt;span class="n"&gt;hardpoints&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;single&lt;/span&gt; &lt;span class="n"&gt;close&lt;/span&gt; &lt;span class="n"&gt;combat&lt;/span&gt; &lt;span class="n"&gt;varients&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;well&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;dual&lt;/span&gt; &lt;span class="n"&gt;ranged&lt;/span&gt; &lt;span class="n"&gt;combat&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;mount&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;either&lt;/span&gt; &lt;span class="n"&gt;Tower&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;arm&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;accept&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;following&lt;/span&gt; &lt;span class="n"&gt;turrets&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Mega&lt;/span&gt; &lt;span class="n"&gt;battle&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Dual&lt;/span&gt; &lt;span class="n"&gt;Battle&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Rotary&lt;/span&gt; &lt;span class="n"&gt;Shoota&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Rockit&lt;/span&gt; &lt;span class="n"&gt;launcher&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Some&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;defense&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;hard&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;hard&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;accept&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="ne"&gt;Quad&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt; &lt;span class="n"&gt;Turret&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Quadt&lt;/span&gt; &lt;span class="n"&gt;Rotary&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Dual&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt; &lt;span class="n"&gt;Turret&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Dual&lt;/span&gt; &lt;span class="n"&gt;Rotary&lt;/span&gt; &lt;span class="n"&gt;Cannon&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Additionally&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;comes&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;head&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;You&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;create&lt;/span&gt; &lt;span class="n"&gt;hundreds&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;unique&lt;/span&gt; &lt;span class="n"&gt;Stomp&lt;/span&gt; &lt;span class="n"&gt;Knights&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;combining&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;hulls&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;heads&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; fantasiaerrante &gt; Epic_scale_Ork_Stompa [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-fantasiaerrante-epic_scale_ork_stompa-dl/</link><pubDate>Sun, 29 Oct 2023 15:31:20 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-fantasiaerrante-epic_scale_ork_stompa-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-fantasiaerrante-epic_scale_ork_stompa-dl/thumbs_-_epic-scale-ork-stompa_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; fantasiaerrante &gt; Epic_scale_Ork_Stompa [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-fantasiaerrante-epic_scale_ork_stompa-dl/thumbs_-_epic-scale-ork-stompa_-_Images_1.jpg"
+width="288"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="144"
+data-flex-basis="345px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-fantasiaerrante-epic_scale_ork_stompa-dl/thumbs_-_epic-scale-ork-stompa_-_ImagesSTL_1.jpg"
+width="680"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="340"
+data-flex-basis="816px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-ork-stompa" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-ork-stompa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-ork-stompa&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A proxy Epic scale Stompa.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; There are two bodies (with different heads), two melee weapons and two battle cannons.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; for the most part I modeled it by myself but I used also some details taken from free models found online.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; TheZomby &gt; Hommes_Champignon [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-hommes_champignon-dl/</link><pubDate>Mon, 15 Aug 2022 00:20:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-hommes_champignon-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-hommes_champignon-dl/thumbs_-_hommes-champignon_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; TheZomby &gt; Hommes_Champignon [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-hommes_champignon-dl/thumbs_-_hommes-champignon_-_Images_1.jpg"
+width="280"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="140"
+data-flex-basis="336px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thezomby-hommes_champignon-dl/thumbs_-_hommes-champignon_-_ImagesSTL_1.jpg"
+width="3558"
+height="800"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="444"
+data-flex-basis="1067px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/hommes-champignon" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/hommes-champignon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : hommes-champignon&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-gretchins&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-motos Orks-qg&lt;/li&gt;
+&lt;li&gt;epic marcheurs ORKS Orks-dreadnoughts&lt;/li&gt;
+&lt;li&gt;epic superlourds ORKS Orks-forteresses&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-kopters&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Leva-lacha&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Magneto-kanons&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-dragsters-mekanos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-gretchins NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-motos Orks-qg NONSUP&lt;/li&gt;
+&lt;li&gt;epic marcheurs ORKS Orks-dreadnoughts NONSUP&lt;/li&gt;
+&lt;li&gt;epic superlourds ORKS Orks-forteresses NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-kopters NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Leva-lacha NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Magneto-kanons NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-dragsters-mekanos NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Principalement des véhicules pour des hommes champigon à l&amp;#39;échelle 6-8mm, possiblement jusqu&amp;#39;à 15mm aussi.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; jazzmantis &gt; Space_Orcs_in_snazzy_armour [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-jazzmantis-space_orcs_in_snazzy_armour-non-dl/</link><pubDate>Fri, 14 Aug 2020 20:18:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-jazzmantis-space_orcs_in_snazzy_armour-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-jazzmantis-space_orcs_in_snazzy_armour-non-dl/thumbs_-_4569764_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; jazzmantis &gt; Space_Orcs_in_snazzy_armour [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-jazzmantis-space_orcs_in_snazzy_armour-non-dl/thumbs_-_4569764_-_Images_1.jpg"
+width="775"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="387"
+data-flex-basis="930px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-jazzmantis-space_orcs_in_snazzy_armour-non-dl/thumbs_-_4569764_-_Makes_1.jpg"
+width="960"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="480"
+data-flex-basis="1152px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4569764" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4569764&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4569764&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;28mm-ish scale multipart retro space orcs in super heavy stompy armour!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Comes with 12 head options (my other multipart orc heads fit them too) a couple different guns, and arms in a few poses all on sort of ball joints.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;You can get the pre suported versions of these on my patreon www.patreon.com/hobgoblindigital along with a ton or other stuff, please check it out if you get the chance!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I printed mine at 0.05 layer height on an elegoo mars
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; scruffyrik &gt; Space_Orc_Stompy_Robot [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scruffyrik-space_orc_stompy_robot-dl/</link><pubDate>Tue, 11 Aug 2020 20:23:07 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scruffyrik-space_orc_stompy_robot-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scruffyrik-space_orc_stompy_robot-dl/thumbs_-_4567486_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; scruffyrik &gt; Space_Orc_Stompy_Robot [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scruffyrik-space_orc_stompy_robot-dl/thumbs_-_4567486_-_Images_1.jpg"
+width="1632"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="816"
+data-flex-basis="1958px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-scruffyrik-space_orc_stompy_robot-dl/thumbs_-_4567486_-_ImagesSTL_1.jpg"
+width="1856"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="464"
+data-flex-basis="1113px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4567486" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4567486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4567486&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Inspired by the fantastic Mark Gibbons &amp;#34;Ork Stompa Gargant&amp;#34; drawing.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;They were drawn by me in Fusion 360 and printed on my Anycubic photon at 0.05mm layer height. There are 3 poses with 3 different guns.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;They are approximately Epic/6mm scaled and are around 30mm tall. They fit on a 25mm base just about.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for resin printing I doubt it will work in FDM but I&amp;#39;ve never tried!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Update:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Added the component parts but they parts (Particularly the arms) have overlaps so need to be assembled in something like meshmixer prior to printing. They will not fit together if printed separately. If I have time I will sort this...
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BrayChristopher &gt; Ork_Stompa_Remix [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-braychristopher-ork_stompa_remix-non-dl/</link><pubDate>Fri, 09 Feb 2018 05:52:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-braychristopher-ork_stompa_remix-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-braychristopher-ork_stompa_remix-non-dl/thumbs_-_2787614_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BrayChristopher &gt; Ork_Stompa_Remix [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-braychristopher-ork_stompa_remix-non-dl/thumbs_-_2787614_-_Images_1.jpg"
+width="2670"
+height="800"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="333"
+data-flex-basis="801px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-braychristopher-ork_stompa_remix-non-dl/thumbs_-_2787614_-_Makes_1.jpg"
+width="496"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="248"
+data-flex-basis="595px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2787614" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2787614&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2787614&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;remix&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mf"&gt;2109793.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;liked&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;stompa&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;but&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;wanted&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Also&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;feet&lt;/span&gt; &lt;span class="n"&gt;separate&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;amount&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;hacked&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;TinkerCAD&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;tinkercad&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;things&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;61&lt;/span&gt;&lt;span class="n"&gt;TdSkYZXeu&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;ork&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;stompa&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;gargant&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Goes&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;2908571&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; AgentSmith99 &gt; Forbidden_Stars_Ork_Ground_Army___Remake [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-agentsmith99-forbidden_stars_ork_ground_army___remake-non-dl/</link><pubDate>Tue, 14 Feb 2017 17:11:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-agentsmith99-forbidden_stars_ork_ground_army___remake-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-agentsmith99-forbidden_stars_ork_ground_army___remake-non-dl/thumbs_-_2109793_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; AgentSmith99 &gt; Forbidden_Stars_Ork_Ground_Army___Remake [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-agentsmith99-forbidden_stars_ork_ground_army___remake-non-dl/thumbs_-_2109793_-_Images_1.jpg"
+width="2665"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1332"
+data-flex-basis="3198px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-agentsmith99-forbidden_stars_ork_ground_army___remake-non-dl/thumbs_-_2109793_-_Makes_1.jpg"
+width="1072"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="536"
+data-flex-basis="1286px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2109793" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2109793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2109793&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers ORKS Orks-stompas NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Hello friends!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Check out my little orc army for Forbidden Stars tabletop game. Do not forget to scale models to fit original game while printing, for infantry and bikes - 0.15 (base should be about 2cm in diameter) , stompa - 0.8, bus - 0.85.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

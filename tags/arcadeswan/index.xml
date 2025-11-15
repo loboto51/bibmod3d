@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ArcadeSwan on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/arcadeswan/</link><description>Recent content in ArcadeSwan on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 14 Sep 2022 09:55:09 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/arcadeswan/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; ArcadeSwan &gt; Tiny_Space_Humans___Bombastic_Siege_Tank [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-tiny_space_humans___bombastic_siege_tank-dl/</link><pubDate>Wed, 14 Sep 2022 09:55:09 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-tiny_space_humans___bombastic_siege_tank-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-tiny_space_humans___bombastic_siege_tank-dl/thumbs_-_tiny-space-humans-bombastic-siege-tank_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; ArcadeSwan &gt; Tiny_Space_Humans___Bombastic_Siege_Tank [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-tiny_space_humans___bombastic_siege_tank-dl/thumbs_-_tiny-space-humans-bombastic-siege-tank_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-tiny_space_humans___bombastic_siege_tank-dl/thumbs_-_tiny-space-humans-bombastic-siege-tank_-_ImagesSTL_1.jpg"
+width="720"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="360"
+data-flex-basis="864px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-space-humans-bombastic-siege-tank" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-space-humans-bombastic-siege-tank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-space-humans-bombastic-siege-tank&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules GI Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules GI Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;Lord_Chronos&lt;/span&gt; &lt;span class="n"&gt;Tiny&lt;/span&gt; &lt;span class="n"&gt;Space&lt;/span&gt; &lt;span class="n"&gt;Humans&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Main&lt;/span&gt; &lt;span class="n"&gt;Tank&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;epic&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;imperial&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;guard&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;main&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tank&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Which&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;turn&lt;/span&gt; &lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;Mkhand_Industries&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;Scale&lt;/span&gt; &lt;span class="n"&gt;Lemoine&lt;/span&gt; &lt;span class="n"&gt;Russel&lt;/span&gt; &lt;span class="n"&gt;Main&lt;/span&gt; &lt;span class="n"&gt;Battle&lt;/span&gt; &lt;span class="n"&gt;Tank&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;epic&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;lemoine&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;russel&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;main&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;battle&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;tank&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;mkhand_industries&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;My&lt;/span&gt; &lt;span class="n"&gt;friend&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;BIG&lt;/span&gt; &lt;span class="n"&gt;fan&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;Bombard&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;thought&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d try to get one to scale with the amazing Tiny Space Humans - Main Tank from Lord_Chronos. Since the advent of AT and AI, I have upscaled my Epic efforts to 8mm scale, so that&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;we&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;80&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;should&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;good&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;tested&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;though&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Sides&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;tracks&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;top&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt; &lt;span class="n"&gt;lifted&lt;/span&gt; &lt;span class="n"&gt;directly&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;Tiny Space Humans - Main Tank&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="n"&gt;Standard&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;with Anchor&amp;#39;&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m not sure on the real terminology here&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;--&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;with Anchor and Crane&amp;#39;&lt;/span&gt; &lt;span class="n"&gt;Crane&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;flimsy&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s own, so I have it resting on the anchor&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;EDIT&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Normals&lt;/span&gt; &lt;span class="n"&gt;corrected&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt; &lt;span class="n"&gt;supports&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Please&lt;/span&gt; &lt;span class="n"&gt;let&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt; &lt;span class="n"&gt;know&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;how&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;goes&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;edits&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;needed&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; ArcadeSwan &gt; Lieutenant_for_WING_OF_THE_RAVEN___6MM [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-lieutenant_for_wing_of_the_raven___6mm-non-dl/</link><pubDate>Thu, 25 Aug 2022 21:20:02 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-lieutenant_for_wing_of_the_raven___6mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-lieutenant_for_wing_of_the_raven___6mm-non-dl/thumbs_-_lieutenant-for-wing-of-the-raven-6mm_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; ArcadeSwan &gt; Lieutenant_for_WING_OF_THE_RAVEN___6MM [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-lieutenant_for_wing_of_the_raven___6mm-non-dl/thumbs_-_lieutenant-for-wing-of-the-raven-6mm_-_Images_1.jpg"
+width="496"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="248"
+data-flex-basis="595px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/lieutenant-for-wing-of-the-raven-6mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/lieutenant-for-wing-of-the-raven-6mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : lieutenant-for-wing-of-the-raven-6mm&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants SMI Sm-land-speeders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants SMI Sm-land-speeders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gloomy boys speeder for going over land.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This Lieutenant sports 2 large bolting guns and 2 chain guns.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These boys take to the 6mm* Epic battlefield on the Wins of the Raven.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*(more like 8mm, but if you know Galactic Crusaders, then you know this scale).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Main body from PLEVRAGOR - several edits made to make it 6mm compatible.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original Galactic Crusaders from MOONJAMMY - Heavy Bolters from (GALACTIC CRUSADERS - ANTI GRAVITY SPEEDER - 6-8MM).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Wing Ornaments by Lord_Chronos over on Thingi.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Shoutout to JIMMYZIMMS for advice on this one :)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Support_Bikers___6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___support_bikers___6mm____eagle_army_galactic_crusader_remix_-dl/</link><pubDate>Tue, 23 Aug 2022 10:12:40 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___support_bikers___6mm____eagle_army_galactic_crusader_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___support_bikers___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475785_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Support_Bikers___6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___support_bikers___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475785_-_Images_1.jpg"
+width="1232"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="616"
+data-flex-basis="1478px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___support_bikers___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475785_-_ImagesSTL_1.jpg"
+width="456"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="228"
+data-flex-basis="547px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5475785" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5475785&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5475785&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gloomy boys support bikers - two versions.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These boys take to the 6mm Epic battlefield on the Wings of the Raven.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*(more like 8mm, but if you know Galactic Crusaders, then you know this scale)*
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original Galactic Crusaders from MOONJAMMY.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Eagle Army remix and bikes from JIMMYZIMMS.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;ve added wings to the front and banner to the back.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_WING_OF_THE_RAVEN_-_Support_Bikers_-_6MM_-__EAGLE_ARMY_GALACTIC_CRUSADER_REMIX__-_5475785_zip_unpack_files_Ravenwing_Attack_Biker_HB_6mm_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;WING_OF_THE_RAVEN&lt;/em&gt;-&lt;em&gt;Support_Bikers&lt;/em&gt;-&lt;em&gt;6MM&lt;/em&gt;-&lt;strong&gt;EAGLE_ARMY_GALACTIC_CRUSADER_REMIX&lt;/strong&gt;-&lt;em&gt;5475785_zip_unpack_files_Ravenwing_Attack_Biker_MM_6mm_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Sgt____6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___sgt____6mm____eagle_army_galactic_crusader_remix_-dl/</link><pubDate>Tue, 23 Aug 2022 10:09:33 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___sgt____6mm____eagle_army_galactic_crusader_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___sgt____6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475782_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Sgt____6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___sgt____6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475782_-_Images_1.jpg"
+width="928"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="464"
+data-flex-basis="1113px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___sgt____6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475782_-_ImagesSTL_1.jpg"
+width="128"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="64"
+data-flex-basis="153px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5475782" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5475782&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5475782&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gloomy boys biker Sergeant.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These boys take to the 6mm Epic battlefield on the Wings of the Raven.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*(more like 8mm, but if you know Galactic Crusaders, then you know this scale)*
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original Galactic Crusaders from MOONJAMMY.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Eagle Army remix and bikes from JIMMYZIMMS.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;ve added wings to the front, banner to the back and hood &amp;amp; robes.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Biker___6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___biker___6mm____eagle_army_galactic_crusader_remix_-dl/</link><pubDate>Tue, 23 Aug 2022 09:53:10 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___biker___6mm____eagle_army_galactic_crusader_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___biker___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475765_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; ArcadeSwan &gt; WING_OF_THE_RAVEN___Biker___6MM____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___biker___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475765_-_Images_1.jpg"
+width="928"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="464"
+data-flex-basis="1113px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-arcadeswan-wing_of_the_raven___biker___6mm____eagle_army_galactic_crusader_remix_-dl/thumbs_-_5475765_-_ImagesSTL_1.jpg"
+width="128"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="64"
+data-flex-basis="153px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5475765" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5475765&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5475765&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SMI-DA NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gloomy boys biker.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These boys take to the 6mm Epic battlefield on the Wings of the Raven.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*(more like 8mm, but if you know Galactic Crusaders, then you know this scale)*
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original Galactic Crusaders from MOONJAMMY.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Eagle Army remix and bikes from JIMMYZIMMS.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;ve added wings to the front and banner to the back.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; ArcadeSwan &gt; Wing_of_the_Raven___6mm____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-wing_of_the_raven___6mm____eagle_army_galactic_crusader_remix_-non-dl/</link><pubDate>Tue, 23 Aug 2022 08:42:35 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-wing_of_the_raven___6mm____eagle_army_galactic_crusader_remix_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-wing_of_the_raven___6mm____eagle_army_galactic_crusader_remix_-non-dl/thumbs_-_wing-of-the-raven-6mm-eagle-army-galactic-crusader-remix_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; ArcadeSwan &gt; Wing_of_the_Raven___6mm____EAGLE_ARMY_GALACTIC_CRUSADER_REMIX_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-arcadeswan-wing_of_the_raven___6mm____eagle_army_galactic_crusader_remix_-non-dl/thumbs_-_wing-of-the-raven-6mm-eagle-army-galactic-crusader-remix_-_Images_1.jpg"
+width="848"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="424"
+data-flex-basis="1017px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/art/wing-of-the-raven-6mm-eagle-army-galactic-crusader-remix" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/art/wing-of-the-raven-6mm-eagle-army-galactic-crusader-remix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : wing-of-the-raven-6mm-eagle-army-galactic-crusader-remix&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gloomy boys bikers and support bikers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These boys take to the 6mm* Epic battlefield on the Wins of the Raven.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*(more like 8mm, but if you know Galactic Crusaders, then you know this scale)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original Galactic Crusaders from MOONJAMMY.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Eagle Army remix and bikes from JIMMYZIMMS.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;ve added wings to the front and banner to the back of each, and robes to the Sgt.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

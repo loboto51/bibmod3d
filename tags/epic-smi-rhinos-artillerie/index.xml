@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic SMI Rhinos-Artillerie on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-smi-rhinos-artillerie/</link><description>Recent content in Epic SMI Rhinos-Artillerie on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Thu, 15 May 2025 11:26:30 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-smi-rhinos-artillerie/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; NyanCommissar &gt; StarPorts___MLRS_Tank_Add_Ons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-starports___mlrs_tank_add_ons-dl/</link><pubDate>Thu, 15 May 2025 11:26:30 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-starports___mlrs_tank_add_ons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-starports___mlrs_tank_add_ons-dl/thumbs_-_starports-mlrs-tank-add-ons_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; NyanCommissar &gt; StarPorts___MLRS_Tank_Add_Ons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-starports___mlrs_tank_add_ons-dl/thumbs_-_starports-mlrs-tank-add-ons_-_Images_1.jpg"
+width="681"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="340"
+data-flex-basis="817px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-nyancommissar-starports___mlrs_tank_add_ons-dl/thumbs_-_starports-mlrs-tank-add-ons_-_ImagesSTL_1.jpg"
+width="2795"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="698"
+data-flex-basis="1677px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-mlrs-tank-add-ons" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-mlrs-tank-add-ons&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-mlrs-tank-add-ons&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;humble&lt;/span&gt; &lt;span class="n"&gt;reworking&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;MLRS&lt;/span&gt; &lt;span class="n"&gt;module&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;fit&lt;/span&gt; &lt;span class="n"&gt;legendary&lt;/span&gt; &lt;span class="n"&gt;LSTAR&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s kit ( https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported ).&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Unsupported&lt;/span&gt; &lt;span class="n"&gt;unfortunately&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;pack&lt;/span&gt; &lt;span class="n"&gt;includes&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Various&lt;/span&gt; &lt;span class="n"&gt;MLRS&lt;/span&gt; &lt;span class="n"&gt;turrets&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;slots&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;x1&lt;/span&gt; &lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;rare&lt;/span&gt; &lt;span class="n"&gt;earth&lt;/span&gt; &lt;span class="n"&gt;magnet&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;MLRS&lt;/span&gt; &lt;span class="n"&gt;sensor&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve done? Please visit OG StarPorts maker:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;cults3d&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;en&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;users&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;lstar&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;models&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+A humble reworking of various MLRS module design to fit legendary LSTAR's kit ( https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported ).
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Unsupported unfortunately.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; reldred &gt; tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-reldred-tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks-non-dl/</link><pubDate>Sat, 26 Apr 2025 07:40:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-reldred-tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-reldred-tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks-non-dl/thumbs_-_tiny-anti-aircraft-addon-for-classic-looking-rather-epic-tanks_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; reldred &gt; tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-reldred-tiny_anti_aircraft_addon_for_classic_looking_rather_epic_tanks-non-dl/thumbs_-_tiny-anti-aircraft-addon-for-classic-looking-rather-epic-tanks_-_Images_1.jpg"
+width="2907"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1453"
+data-flex-basis="3488px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-anti-aircraft-addon-for-classic-looking-rather-epic-tanks" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-anti-aircraft-addon-for-classic-looking-rather-epic-tanks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-anti-aircraft-addon-for-classic-looking-rather-epic-tanks&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;edit&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;had&lt;/span&gt; &lt;span class="n"&gt;flipped&lt;/span&gt; &lt;span class="n"&gt;normals&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;guns&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;fixed&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;reuploaded&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scaled&lt;/span&gt; &lt;span class="n"&gt;anti&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;addon&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;classic&lt;/span&gt; &lt;span class="n"&gt;looking&lt;/span&gt; &lt;span class="n"&gt;rather&lt;/span&gt; &lt;span class="n"&gt;epic&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;style&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;might&lt;/span&gt; &lt;span class="n"&gt;even&lt;/span&gt; &lt;span class="n"&gt;call&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;ancient percussive tool&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;matching&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;third&lt;/span&gt; &lt;span class="n"&gt;edition&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;long&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;game&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;theres&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;somewhat&lt;/span&gt; &lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;anti&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;wot&lt;/span&gt; &lt;span class="n"&gt;uses&lt;/span&gt; &lt;span class="n"&gt;bullets&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;flak&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;look&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;older&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;modern&lt;/span&gt; &lt;span class="n"&gt;counterpart&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;anti&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;wot&lt;/span&gt; &lt;span class="n"&gt;uses&lt;/span&gt; &lt;span class="n"&gt;explosive&lt;/span&gt; &lt;span class="n"&gt;missiles&lt;/span&gt; &lt;span class="n"&gt;inspired&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;old&lt;/span&gt; &lt;span class="n"&gt;metal&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;addon&lt;/span&gt; &lt;span class="n"&gt;kit&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;once&lt;/span&gt; &lt;span class="n"&gt;available&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;shapeways&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;there&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s also a tiny little radar dish&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;rest&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;tank&lt;/span&gt; &lt;span class="n"&gt;body&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;were&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;match&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;style&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;FASIS&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s tiny tanks but could also be adapted to other kits&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; alexgor248 &gt; 8MM_WILWIND_ASTRA_AIRBORN_FORCES_TANK [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_wilwind_astra_airborn_forces_tank-non-dl/</link><pubDate>Thu, 19 Sep 2024 12:09:03 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_wilwind_astra_airborn_forces_tank-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_wilwind_astra_airborn_forces_tank-non-dl/thumbs_-_8mm-wilwind-astra-airborn-forces-tank_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; alexgor248 &gt; 8MM_WILWIND_ASTRA_AIRBORN_FORCES_TANK [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-alexgor248-8mm_wilwind_astra_airborn_forces_tank-non-dl/thumbs_-_8mm-wilwind-astra-airborn-forces-tank_-_Images_1.jpg"
+width="1776"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="888"
+data-flex-basis="2131px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/8mm-wilwind-astra-airborn-forces-tank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 8mm-wilwind-astra-airborn-forces-tank&lt;/p&gt;
+&lt;p&gt;Prix : 5 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sci fi rocket fire system for 8 mm. To a new /220 very epic scale.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Hulls and Missileblocks
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;check 8MM FREE KITS FOR LBT ASTRA AIRBORN FORCES TANK
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/front-design
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Ksenz &gt; EPIC_HUNTER_MISSILE_PLATFORM [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ksenz-epic_hunter_missile_platform-dl/</link><pubDate>Fri, 03 May 2024 12:49:14 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ksenz-epic_hunter_missile_platform-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ksenz-epic_hunter_missile_platform-dl/thumbs_-_epic-hunter-missile-platform-ksenz_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Ksenz &gt; EPIC_HUNTER_MISSILE_PLATFORM [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ksenz-epic_hunter_missile_platform-dl/thumbs_-_epic-hunter-missile-platform-ksenz_-_Images_1.jpg"
+width="424"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="212"
+data-flex-basis="508px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ksenz-epic_hunter_missile_platform-dl/thumbs_-_epic-hunter-missile-platform-ksenz_-_ImagesSTL_1.jpg"
+width="704"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="352"
+data-flex-basis="844px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-hunter-missile-platform-ksenz" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-hunter-missile-platform-ksenz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-hunter-missile-platform-ksenz&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Quick redesign of following:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/ru/3d-model/igra/hunter-conversion-for-40k-rhino-wh40k
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/ru/3d-model/igra/tiny-tank-fancy-apc
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Also remodelled front. Made for 8mm wargames.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Dread_Rhine_O_Transport__Command__MLRS_Tanks___Supported_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/</link><pubDate>Mon, 07 Aug 2023 13:42:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/thumbs_-_starports-dread-rhine-o-transport-command-mlrs-tanks-supported_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Dread_Rhine_O_Transport__Command__MLRS_Tanks___Supported_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/thumbs_-_starports-dread-rhine-o-transport-command-mlrs-tanks-supported_-_Images_1.jpg"
+width="1600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="800"
+data-flex-basis="1920px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/thumbs_-_starports-dread-rhine-o-transport-command-mlrs-tanks-supported_-_ImagesSTL_1.jpg"
+width="2800"
+height="1200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="233"
+data-flex-basis="560px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_rhine_o_transport__command__mlrs_tanks___supported_-dl/thumbs_-_starports-dread-rhine-o-transport-command-mlrs-tanks-supported_-_Makes_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-dread-rhine-o-transport-command-mlrs-tanks-supported&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A humble reworking of JimmyZimms&amp;#39; excellent reworking of Woddish&amp;#39;s excellent design, optimised for easy printing.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Command seems to think that deploying the troops without their transports will help them lose weight... Let&amp;#39;s fix that!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Supported and tweaked for easy printing
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Includes Transport, Command, and MLRS tanks with optional prongs and push bars, with a choice of boring closed hatches, or slots for modular hatches
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Includes Lychee Scenes for anyone wanting to tweak supports/rafts
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- A Video Tutorial with advice for adding your own faction or squad logos to the split top hatches of these vehicles.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ToDo:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Add pintle weapons
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*Like what I&amp;#39;m doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+- Supported and tweaked for easy printing
+ImagesSTL_-_starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___arPorts_-_Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_Prongs_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___e-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___e-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___hine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Hyperios_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___hine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Scoprius_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___hine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___hine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___ine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___nsport__Command__MLRS_Tanks_zip_unpack_Hatches_Supported_STLs_Hatch_Bolters__Mirror_for_L__R__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___orts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Hatches_Unsupported_STLs_Basic_Hatch_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___orts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___orts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Closed_Prongs_stl_.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Ports&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Closed_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___ransport__Command__MLRS_Tanks_zip_unpack_Hatches_Supported_STLs_Basic_Hatch__Mirror_for_L__R__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;___-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;___-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Closed_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Unsupported_STLs_Damocles_Sensor_2_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Closed_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Unsupported_STLs_Rhino_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Hyperios_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Scorpius_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whilwind_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor&lt;/em&gt;__-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Closed_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___rPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_Bolters_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___rPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_Modular_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___rPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Supported_STLs_Whirlwind_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___rted_StarPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Rhino_Supported_STLs_Rhino_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___rts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Hatches_Supported_STLs_Havoc_Launcher_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___s&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___s&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_Sensor_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor____StarPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Hatches_Unsupported_STLs_Havoc_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___tarPorts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Damocles_Supported_STLs_Damocles_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Bolters_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___Transport__Command__MLRS_Tanks_zip_unpack_Whirlwind_Unsupported_STLs_Whirlwind_Modular_Prongs_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;starports-dread-rhine-o-transport-command-mlrs-tank20231204-238033-gi5y22_zip_unpack_lstar_starpor___ts&lt;/em&gt;-&lt;em&gt;Rhine-O_Transport__Command__MLRS_Tanks_zip_unpack_Hatches_Unsupported_STLs_Hatch_Bolters_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; thewraeththu &gt; Tiny_Scorpio_Thrower [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thewraeththu-tiny_scorpio_thrower-non-dl/</link><pubDate>Sun, 14 May 2023 03:06:13 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thewraeththu-tiny_scorpio_thrower-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thewraeththu-tiny_scorpio_thrower-non-dl/thumbs_-_tiny-scorpio-thrower-thewraeththu_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; thewraeththu &gt; Tiny_Scorpio_Thrower [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-thewraeththu-tiny_scorpio_thrower-non-dl/thumbs_-_tiny-scorpio-thrower-thewraeththu_-_Images_1.jpg"
+width="767"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="383"
+data-flex-basis="920px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-scorpio-thrower-thewraeththu" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-scorpio-thrower-thewraeththu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-scorpio-thrower-thewraeththu&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Here are some tiny scorpio throwers for your galactic crusaders. Also included are some lovely tornadoes originally made by woddish.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Monoceros_from_Deimos_Builder [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_deimos_builder-non-dl/</link><pubDate>Tue, 21 Feb 2023 15:28:54 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_deimos_builder-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_deimos_builder-non-dl/thumbs_-_monoceros-from-deimos-builder_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Monoceros_from_Deimos_Builder [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_deimos_builder-non-dl/thumbs_-_monoceros-from-deimos-builder_-_Images_1.jpg"
+width="2320"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1160"
+data-flex-basis="2784px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/monoceros-from-deimos-builder" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/monoceros-from-deimos-builder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : monoceros-from-deimos-builder&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;span class="lnt"&gt;22
+&lt;/span&gt;&lt;span class="lnt"&gt;23
+&lt;/span&gt;&lt;span class="lnt"&gt;24
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Note&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Moved&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;profile&lt;/span&gt; &lt;span class="n"&gt;since&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;site&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;perma&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;broken&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;appears&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Provides&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Woddish&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s excellent Tiny Tank Classic Mbt (now gone), KMFP proto-rhino concept, and a Scorpios launcher of unknown source, and a radar from Chris John, that have been sliced into major parts that are enabled to be quickly swapped and edited for customization by changing visibility of components between different options for hatches, side doors, symbols/icons, and crew. The eventual end game would be the ability to build any Deimos based Monoceros chassis vehicle with this tool.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;designers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;modelers&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;product&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;faction&lt;/span&gt; &lt;span class="n"&gt;customized&lt;/span&gt; &lt;span class="n"&gt;vehicles&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;standardized&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;quality&lt;/span&gt; &lt;span class="n"&gt;form&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20220526&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Found&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;flipped&lt;/span&gt; &lt;span class="n"&gt;normals&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;missed&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;couple&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;positioning&lt;/span&gt; &lt;span class="n"&gt;errors&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;corrected&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Since&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="n"&gt;Builder&lt;/span&gt; &lt;span class="n"&gt;gets&lt;/span&gt; &lt;span class="n"&gt;annoyed&lt;/span&gt; &lt;span class="n"&gt;about&lt;/span&gt; &lt;span class="n"&gt;nonmanifold&lt;/span&gt; &lt;span class="n"&gt;object&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;wrong&lt;/span&gt; &lt;span class="n"&gt;thing&lt;/span&gt; &lt;span class="n"&gt;occasionally&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve updated all the parts, even if it shouldn&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;t&lt;/span&gt; &lt;span class="n"&gt;matter&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20230112&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;slicer&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;side&lt;/span&gt; &lt;span class="n"&gt;doors&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;blender&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;designers&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;form&lt;/span&gt; &lt;span class="n"&gt;fitting&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;hatches&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20230426&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;KMFP&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s nifty 3rd edition style Whirlwind Launcher&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20230519&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;With&lt;/span&gt; &lt;span class="n"&gt;permission&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;incorporated&lt;/span&gt; &lt;span class="n"&gt;thewraeththu&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s better Scorpius into the builder.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20230908&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Updated&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Scorpius&lt;/span&gt; &lt;span class="n"&gt;launcher&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;upper&lt;/span&gt; &lt;span class="n"&gt;deck&lt;/span&gt; &lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Deimos&lt;/span&gt; &lt;span class="n"&gt;predator&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;better&lt;/span&gt; &lt;span class="n"&gt;matches&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;updated&lt;/span&gt; &lt;span class="n"&gt;plastic&lt;/span&gt; &lt;span class="n"&gt;kit&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;GW&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20240117&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Minor&lt;/span&gt; &lt;span class="n"&gt;cleanup&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20240518&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;For&lt;/span&gt; &lt;span class="n"&gt;those&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;rivets&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;bolts&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;sets&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;geometry&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;glacis&lt;/span&gt; &lt;span class="n"&gt;option&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;adorn&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;tons&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;extra&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Thanks&lt;/span&gt; &lt;span class="n"&gt;TC63&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;contributions&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20241027&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Rapax&lt;/span&gt; &lt;span class="n"&gt;From&lt;/span&gt; &lt;span class="n"&gt;Deimos&lt;/span&gt; &lt;span class="n"&gt;builder&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; jimmyzimms &gt; Monoceros_from_Mars_Builder [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_mars_builder-non-dl/</link><pubDate>Sun, 19 Feb 2023 18:27:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_mars_builder-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_mars_builder-non-dl/thumbs_-_monoceros-from-mars-builder_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; jimmyzimms &gt; Monoceros_from_Mars_Builder [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_mars_builder-non-dl/thumbs_-_monoceros-from-mars-builder_-_Images_1.jpg"
+width="2920"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="730"
+data-flex-basis="1752px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jimmyzimms-monoceros_from_mars_builder-non-dl/thumbs_-_monoceros-from-mars-builder_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/monoceros-from-mars-builder" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/monoceros-from-mars-builder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : monoceros-from-mars-builder&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMC Rhinos&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMC Rhinos NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Rhinos NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;span class="lnt"&gt;21
+&lt;/span&gt;&lt;span class="lnt"&gt;22
+&lt;/span&gt;&lt;span class="lnt"&gt;23
+&lt;/span&gt;&lt;span class="lnt"&gt;24
+&lt;/span&gt;&lt;span class="lnt"&gt;25
+&lt;/span&gt;&lt;span class="lnt"&gt;26
+&lt;/span&gt;&lt;span class="lnt"&gt;27
+&lt;/span&gt;&lt;span class="lnt"&gt;28
+&lt;/span&gt;&lt;span class="lnt"&gt;29
+&lt;/span&gt;&lt;span class="lnt"&gt;30
+&lt;/span&gt;&lt;span class="lnt"&gt;31
+&lt;/span&gt;&lt;span class="lnt"&gt;32
+&lt;/span&gt;&lt;span class="lnt"&gt;33
+&lt;/span&gt;&lt;span class="lnt"&gt;34
+&lt;/span&gt;&lt;span class="lnt"&gt;35
+&lt;/span&gt;&lt;span class="lnt"&gt;36
+&lt;/span&gt;&lt;span class="lnt"&gt;37
+&lt;/span&gt;&lt;span class="lnt"&gt;38
+&lt;/span&gt;&lt;span class="lnt"&gt;39
+&lt;/span&gt;&lt;span class="lnt"&gt;40
+&lt;/span&gt;&lt;span class="lnt"&gt;41
+&lt;/span&gt;&lt;span class="lnt"&gt;42
+&lt;/span&gt;&lt;span class="lnt"&gt;43
+&lt;/span&gt;&lt;span class="lnt"&gt;44
+&lt;/span&gt;&lt;span class="lnt"&gt;45
+&lt;/span&gt;&lt;span class="lnt"&gt;46
+&lt;/span&gt;&lt;span class="lnt"&gt;47
+&lt;/span&gt;&lt;span class="lnt"&gt;48
+&lt;/span&gt;&lt;span class="lnt"&gt;49
+&lt;/span&gt;&lt;span class="lnt"&gt;50
+&lt;/span&gt;&lt;span class="lnt"&gt;51
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Note&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Moved&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;Thingiverse&lt;/span&gt; &lt;span class="n"&gt;profile&lt;/span&gt; &lt;span class="n"&gt;since&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;site&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;perma&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;broken&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;appears&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Provides&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Woddish&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s excellent Tiny Tank Fancy APC and related things that have been sliced into major parts that are enabled to be quickly swapped and edited for customization by changing visibility of components between different options for hatches, side doors, symbols/icons, and crew. The eventual end game would be the ability to build any Mars based Monoceros chassis vehicle with this tool.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;designers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;modelers&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;product&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;faction&lt;/span&gt; &lt;span class="n"&gt;customized&lt;/span&gt; &lt;span class="n"&gt;vehicles&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;standardized&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;quality&lt;/span&gt; &lt;span class="n"&gt;form&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Leverages&lt;/span&gt; &lt;span class="n"&gt;Orcstain&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s excellent astartes symbols and bolter from Lord Chronos. Crew figure based on a DangItBlobby jarhead&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;part&lt;/span&gt; &lt;span class="n"&gt;contributions&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;welcome&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20211201&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Door&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="n"&gt;st&lt;/span&gt; &lt;span class="n"&gt;founding&lt;/span&gt; &lt;span class="n"&gt;chapters&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Big&lt;/span&gt; &lt;span class="n"&gt;shout&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Orcstain&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;knocking&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20211205&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;crafting&lt;/span&gt; &lt;span class="n"&gt;razorbacks&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20211216&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Whirlwinds&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;missile&lt;/span&gt; &lt;span class="n"&gt;pods&lt;/span&gt; &lt;span class="n"&gt;adapted&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;JahnZizka&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220104&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;GK&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Inq&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;adapted&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Manbeast&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;TZRock&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Hyperios&lt;/span&gt; &lt;span class="n"&gt;pods&lt;/span&gt; &lt;span class="n"&gt;graciously&lt;/span&gt; &lt;span class="n"&gt;donated&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;Wolfkeeper&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;WW&lt;/span&gt; &lt;span class="n"&gt;Hyperios&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220112&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Extra&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt; &lt;span class="n"&gt;plates&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;those&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;Rhinos&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;FW&lt;/span&gt; &lt;span class="n"&gt;upgrade&lt;/span&gt; &lt;span class="n"&gt;kit&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;years&lt;/span&gt; &lt;span class="n"&gt;past&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220426&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;ve corrected some small mesh and alignment issues. I have additionally added a how to use guide for those new to Blender&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220501&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Hunter&lt;/span&gt; &lt;span class="n"&gt;AA&lt;/span&gt; &lt;span class="n"&gt;using&lt;/span&gt; &lt;span class="n"&gt;rejiggered&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;zstu1979&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220526&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Clean&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;nasty&lt;/span&gt; &lt;span class="n"&gt;meshes&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;crunched&lt;/span&gt; &lt;span class="n"&gt;file&lt;/span&gt; &lt;span class="n"&gt;size&lt;/span&gt; &lt;span class="n"&gt;down&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20220906&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;GK&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;doors&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20230524&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Lamenters&lt;/span&gt; &lt;span class="n"&gt;chapter&lt;/span&gt; &lt;span class="n"&gt;symbols&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20230903&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;chaos&lt;/span&gt; &lt;span class="n"&gt;trim&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;iconography&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20231023&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Corrected&lt;/span&gt; &lt;span class="n"&gt;mesh&lt;/span&gt; &lt;span class="n"&gt;error&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;right&lt;/span&gt; &lt;span class="n"&gt;rear&lt;/span&gt; &lt;span class="n"&gt;tread&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Rainbow&lt;/span&gt; &lt;span class="n"&gt;Warriors&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;door&lt;/span&gt; &lt;span class="n"&gt;iconography&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20231220&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Death&lt;/span&gt; &lt;span class="n"&gt;Company&lt;/span&gt; &lt;span class="n"&gt;iconography&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20240117&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Updates&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;correct&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;minor&lt;/span&gt; &lt;span class="n"&gt;geometry&lt;/span&gt; &lt;span class="n"&gt;issues&lt;/span&gt; &lt;span class="n"&gt;uncovered&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20240429&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;Retributors&lt;/span&gt; &lt;span class="n"&gt;icons&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;20240515&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Normalized&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;iconography&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;builders&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;same&lt;/span&gt; &lt;span class="n"&gt;sets&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20240617&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Incorporated&lt;/span&gt; &lt;span class="n"&gt;numerous&lt;/span&gt; &lt;span class="n"&gt;sets&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;stowage&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;turrets&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;chassis&lt;/span&gt; &lt;span class="n"&gt;donated&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;community&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;give&lt;/span&gt; &lt;span class="n"&gt;additional&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Edit&lt;/span&gt; &lt;span class="mi"&gt;20241024&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;option&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;open&lt;/span&gt; &lt;span class="n"&gt;copula&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;DaffMakes&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;excellent&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;builder&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Now&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;select&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;open&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;closed&lt;/span&gt; &lt;span class="n"&gt;hatch&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;former&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;crew&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;chose&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Multiple&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Mk4&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Mk6&lt;/span&gt; &lt;span class="n"&gt;armour&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;exported&lt;/span&gt; &lt;span class="n"&gt;APC&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Give&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;many&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;customized&lt;/span&gt; &lt;span class="n"&gt;armies&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;leave&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;tip&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;appreciated&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;paypal&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;me&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;jimmyzimms&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; zstu &gt; Epic_Hunter_6mm_Tank [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_hunter_6mm_tank-non-dl/</link><pubDate>Mon, 05 Dec 2022 01:28:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_hunter_6mm_tank-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_hunter_6mm_tank-non-dl/thumbs_-_epic-hunter-6mm-tank_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; zstu &gt; Epic_Hunter_6mm_Tank [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_hunter_6mm_tank-non-dl/thumbs_-_epic-hunter-6mm-tank_-_Images_1.jpg"
+width="762"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="381"
+data-flex-basis="914px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-hunter-6mm-tank" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-hunter-6mm-tank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-hunter-6mm-tank&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic 6mm Hunter Tank with separate canon to allow different poses.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Best printed on a resin printer but could be scaled up to suit individual needs.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; zstu &gt; Epic_6mm_Stalker_Tank [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_6mm_stalker_tank-non-dl/</link><pubDate>Wed, 12 Oct 2022 18:44:43 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_6mm_stalker_tank-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_6mm_stalker_tank-non-dl/thumbs_-_epic-6mm-stalker-tank_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; zstu &gt; Epic_6mm_Stalker_Tank [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-zstu-epic_6mm_stalker_tank-non-dl/thumbs_-_epic-6mm-stalker-tank_-_Images_1.jpg"
+width="518"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="259"
+data-flex-basis="621px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-6mm-stalker-tank" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-6mm-stalker-tank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-6mm-stalker-tank&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic 6mm Stalker Tank for futuristic table top battles
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; wolfkeeper &gt; Tiny_Tank_Fancy_Anti_Air_AFV [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-wolfkeeper-tiny_tank_fancy_anti_air_afv-non-dl/</link><pubDate>Thu, 06 Jan 2022 15:49:55 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-wolfkeeper-tiny_tank_fancy_anti_air_afv-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-wolfkeeper-tiny_tank_fancy_anti_air_afv-non-dl/thumbs_-_tiny-tank-fancy-anti-air-afv_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; wolfkeeper &gt; Tiny_Tank_Fancy_Anti_Air_AFV [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-wolfkeeper-tiny_tank_fancy_anti_air_afv-non-dl/thumbs_-_tiny-tank-fancy-anti-air-afv_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-tank-fancy-anti-air-afv" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-tank-fancy-anti-air-afv&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-tank-fancy-anti-air-afv&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sometimes you just need to bring a small flyswatter to the party. Remixed from Woddish&amp;#39; excellent chassis.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Resin printer highly recommended.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Technopath6669 &gt; Tiny_Tank_Classic_Missile_Launcher [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-technopath6669-tiny_tank_classic_missile_launcher-non-dl/</link><pubDate>Fri, 08 Oct 2021 23:22:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-technopath6669-tiny_tank_classic_missile_launcher-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-technopath6669-tiny_tank_classic_missile_launcher-non-dl/thumbs_-_tiny-tank-classic-missile-launcher_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Technopath6669 &gt; Tiny_Tank_Classic_Missile_Launcher [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-technopath6669-tiny_tank_classic_missile_launcher-non-dl/thumbs_-_tiny-tank-classic-missile-launcher_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-tank-classic-missile-launcher" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-tank-classic-missile-launcher&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-tank-classic-missile-launcher&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I wanted a long range missile launcher and an anti air vehicles that match in with my other Woddish-designed epically small rhinoceri.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I made a few modifications to the apc to smooth off the roof and to the scorpius launcher to fill internal voids and now they print wonderfully at 0.05mm on my Photon Mono.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I&amp;#39;m aware that this particular 30k SAM tank isn&amp;#39;t 100% cannon, but the design does come from a long forgotten STC so hey, my dudes got lucky and found some during their crusade.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remixed from;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Woddish - Rhino Chassis
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/tiny-tank-classic-apc
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;KJDIDIT - Scorpius Missile Launcher
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/epic-scale-deimos-whirlwind-scorpius-proxy
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Zstu1979 - Hunter Cannon
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.thingiverse.com/thing:4964063/files
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KJdidit &gt; Epic_Scale_Deimos_Whirlwind_Scorpius_proxy [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kjdidit-epic_scale_deimos_whirlwind_scorpius_proxy-non-dl/</link><pubDate>Wed, 03 Feb 2021 05:04:57 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kjdidit-epic_scale_deimos_whirlwind_scorpius_proxy-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kjdidit-epic_scale_deimos_whirlwind_scorpius_proxy-non-dl/thumbs_-_epic-scale-deimos-whirlwind-scorpius-proxy_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KJdidit &gt; Epic_Scale_Deimos_Whirlwind_Scorpius_proxy [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kjdidit-epic_scale_deimos_whirlwind_scorpius_proxy-non-dl/thumbs_-_epic-scale-deimos-whirlwind-scorpius-proxy_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kjdidit-epic_scale_deimos_whirlwind_scorpius_proxy-non-dl/thumbs_-_epic-scale-deimos-whirlwind-scorpius-proxy_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-deimos-whirlwind-scorpius-proxy" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-deimos-whirlwind-scorpius-proxy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-deimos-whirlwind-scorpius-proxy&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Not an exact replica, but close enough for my purposes (and hopefully yours). Remixed from the Damocles hull by MKHand and the Sicaran Arcus turret (attribution unknown; Thing is no longer available here). Second file has pre-generated supports for FDM printing.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Print with a brim for better bed adhesion.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Tsubureru &gt; 6mm_Epic_Whirlwind_Turret [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tsubureru-6mm_epic_whirlwind_turret-non-dl/</link><pubDate>Mon, 03 Feb 2020 03:00:28 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-tsubureru-6mm_epic_whirlwind_turret-non-dl/</guid><description>&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4141427" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4141427&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4141427&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;6mm Epic Whirlwind turret
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Ghazk &gt; Epic_Scale__6mm__Whirlwind_Hyperios_Turret [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-ghazk-epic_scale__6mm__whirlwind_hyperios_turret-non-dl/</link><pubDate>Tue, 12 Nov 2019 16:30:59 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-ghazk-epic_scale__6mm__whirlwind_hyperios_turret-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-ghazk-epic_scale__6mm__whirlwind_hyperios_turret-non-dl/thumbs_-_3972083_-_Makes_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Ghazk &gt; Epic_Scale__6mm__Whirlwind_Hyperios_Turret [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-ghazk-epic_scale__6mm__whirlwind_hyperios_turret-non-dl/thumbs_-_3972083_-_Makes_1.jpg"
+width="256"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="307px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3972083" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3972083&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3972083&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;simple&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;anti&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;aircraft&lt;/span&gt; &lt;span class="n"&gt;variant&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;whirlwind&lt;/span&gt; &lt;span class="n"&gt;missile&lt;/span&gt; &lt;span class="n"&gt;launcher&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt; &lt;span class="n"&gt;only&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; mad_magician1 &gt; Epically_Tiny_Martian_Dust_Devil_Type_2 [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_2-non-dl/</link><pubDate>Wed, 14 Mar 2018 02:42:25 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_2-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_2-non-dl/thumbs_-_2825598_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; mad_magician1 &gt; Epically_Tiny_Martian_Dust_Devil_Type_2 [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_2-non-dl/thumbs_-_2825598_-_Images_1.jpg"
+width="2392"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1196"
+data-flex-basis="2870px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_2-non-dl/thumbs_-_2825598_-_Makes_1.jpg"
+width="296"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="148"
+data-flex-basis="355px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2825598" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2825598&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2825598&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Proxy&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;MKII&lt;/span&gt; &lt;span class="n"&gt;Mars&lt;/span&gt; &lt;span class="n"&gt;Pattern&lt;/span&gt; &lt;span class="n"&gt;Whirlwind&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Late&lt;/span&gt; &lt;span class="n"&gt;Rogue&lt;/span&gt; &lt;span class="n"&gt;Trader&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;nd&lt;/span&gt; &lt;span class="n"&gt;Edition&lt;/span&gt; &lt;span class="n"&gt;Style&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;MK1&lt;/span&gt; &lt;span class="n"&gt;Mars&lt;/span&gt; &lt;span class="n"&gt;Pattern&lt;/span&gt; &lt;span class="n"&gt;Rhino&lt;/span&gt; &lt;span class="n"&gt;Proxy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;2823744&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;regular&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;105&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Truescale&amp;#34;&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;110&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;AT&lt;/span&gt; &lt;span class="mi"&gt;2018&lt;/span&gt; &lt;span class="n"&gt;Scale&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;THIS&lt;/span&gt; &lt;span class="n"&gt;IS&lt;/span&gt; &lt;span class="n"&gt;CURRENTLY&lt;/span&gt; &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;WIP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;CHANGELOG&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2018&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Incorporated&lt;/span&gt; &lt;span class="n"&gt;Side&lt;/span&gt; &lt;span class="n"&gt;Sill&lt;/span&gt; &lt;span class="n"&gt;Changes&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Test&lt;/span&gt; &lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;Complete&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;launchers&lt;/span&gt; &lt;span class="n"&gt;turned&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;beautiful&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Flagging&lt;/span&gt; &lt;span class="n"&gt;Complete&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2018&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;First&lt;/span&gt; &lt;span class="n"&gt;Upload&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Will&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;overnight&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; mad_magician1 &gt; Epically_Tiny_Martian_Dust_Devil_Type_1 [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_1-non-dl/</link><pubDate>Tue, 13 Mar 2018 18:23:45 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_1-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_1-non-dl/thumbs_-_2824950_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; mad_magician1 &gt; Epically_Tiny_Martian_Dust_Devil_Type_1 [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-mad_magician1-epically_tiny_martian_dust_devil_type_1-non-dl/thumbs_-_2824950_-_Images_1.jpg"
+width="2392"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1196"
+data-flex-basis="2870px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2824950" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2824950&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2824950&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Rhinos-artillerie NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Proxy&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;MK1&lt;/span&gt; &lt;span class="n"&gt;Mars&lt;/span&gt; &lt;span class="n"&gt;Pattern&lt;/span&gt; &lt;span class="n"&gt;Whirlwind&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;AKA&lt;/span&gt; &lt;span class="n"&gt;Rogue&lt;/span&gt; &lt;span class="n"&gt;Trader&lt;/span&gt; &lt;span class="n"&gt;Style&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Based&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;MK1&lt;/span&gt; &lt;span class="n"&gt;Mars&lt;/span&gt; &lt;span class="n"&gt;Pattern&lt;/span&gt; &lt;span class="n"&gt;Rhino&lt;/span&gt; &lt;span class="n"&gt;Proxy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;2823744&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;100&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;regular&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;105&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Truescale&amp;#34;&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="mi"&gt;110&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;AT&lt;/span&gt; &lt;span class="mi"&gt;2018&lt;/span&gt; &lt;span class="n"&gt;Scale&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;THIS&lt;/span&gt; &lt;span class="n"&gt;IS&lt;/span&gt; &lt;span class="n"&gt;CURRENTLY&lt;/span&gt; &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;WIP&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;CHANGELOG&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2018&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;15&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Thickened&lt;/span&gt; &lt;span class="n"&gt;top&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;bottom&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Launcher&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;prevent&lt;/span&gt; &lt;span class="n"&gt;warping&lt;/span&gt; &lt;span class="n"&gt;during&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Successful&lt;/span&gt; &lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;really&lt;/span&gt; &lt;span class="n"&gt;couldn&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t be happier with how good the prints look, even raw off of the printer! Marking Complete.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2018&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;14&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Noticed&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Step&lt;/span&gt; &lt;span class="n"&gt;Sill&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;sides&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;warping&lt;/span&gt; &lt;span class="n"&gt;during&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt; &lt;span class="n"&gt;due&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;being&lt;/span&gt; &lt;span class="n"&gt;pretty&lt;/span&gt; &lt;span class="n"&gt;thin&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Corrected&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;2018&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;03&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;13&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;First&lt;/span&gt; &lt;span class="n"&gt;Upload&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Will&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;overnight&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

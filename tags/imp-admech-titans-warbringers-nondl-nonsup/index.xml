@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IMP Admech-Titans-Warbringers NONDL NONSUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/imp-admech-titans-warbringers-nondl-nonsup/</link><description>Recent content in IMP Admech-Titans-Warbringers NONDL NONSUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 25 May 2022 20:36:03 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/imp-admech-titans-warbringers-nondl-nonsup/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; CMDRZhor &gt; WB_C_Carapace_Turntable [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-cmdrzhor-wb_c_carapace_turntable-non-dl/</link><pubDate>Wed, 25 May 2022 20:36:03 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-cmdrzhor-wb_c_carapace_turntable-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-cmdrzhor-wb_c_carapace_turntable-non-dl/thumbs_-_wb-c-carapace-turntable_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; CMDRZhor &gt; WB_C_Carapace_Turntable [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-cmdrzhor-wb_c_carapace_turntable-non-dl/thumbs_-_wb-c-carapace-turntable_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/wb-c-carapace-turntable" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/wb-c-carapace-turntable&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : wb-c-carapace-turntable&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;These&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;turntable&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;slightly&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;larger&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;than&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;huge&lt;/span&gt; &lt;span class="n"&gt;future&lt;/span&gt; &lt;span class="n"&gt;war&lt;/span&gt; &lt;span class="n"&gt;robot&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;attach&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;WB&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;C&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;guns&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;said&lt;/span&gt; &lt;span class="n"&gt;robot&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;magnet&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;necessary&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;unit&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;sit&lt;/span&gt; &lt;span class="n"&gt;snugly&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;mount&lt;/span&gt; &lt;span class="n"&gt;without&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Also&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;optional&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;secondary&lt;/span&gt; &lt;span class="n"&gt;capacitor&lt;/span&gt; &lt;span class="n"&gt;bank&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;power&lt;/span&gt; &lt;span class="n"&gt;feed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;energy&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;collection&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;free&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;sources&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;internet&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;slightly&lt;/span&gt; &lt;span class="n"&gt;modified&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Platform&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Slightly&lt;/span&gt; &lt;span class="n"&gt;modified&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;da_sub&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s Anubis Volkite Eradicator&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Capacitors&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;cables&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;pivots&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;JohnCS&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s Belicosa Warbringer Volcano Cannon&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; CMDRZhor &gt; WB_C_Zhor_pattern_Krakatoa_Heavy_Turbo_Cannon [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-cmdrzhor-wb_c_zhor_pattern_krakatoa_heavy_turbo_cannon-non-dl/</link><pubDate>Wed, 25 May 2022 19:58:03 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-cmdrzhor-wb_c_zhor_pattern_krakatoa_heavy_turbo_cannon-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-cmdrzhor-wb_c_zhor_pattern_krakatoa_heavy_turbo_cannon-non-dl/thumbs_-_wb-c-zhor-pattern-krakatoa-heavy-turbo-cannon_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; CMDRZhor &gt; WB_C_Zhor_pattern_Krakatoa_Heavy_Turbo_Cannon [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-cmdrzhor-wb_c_zhor_pattern_krakatoa_heavy_turbo_cannon-non-dl/thumbs_-_wb-c-zhor-pattern-krakatoa-heavy-turbo-cannon_-_Images_1.jpg"
+width="960"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="480"
+data-flex-basis="1152px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/wb-c-zhor-pattern-krakatoa-heavy-turbo-cannon" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/wb-c-zhor-pattern-krakatoa-heavy-turbo-cannon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : wb-c-zhor-pattern-krakatoa-heavy-turbo-cannon&lt;/p&gt;
+&lt;p&gt;Prix : 8.75 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is an immensely large direct-energy primary weapon for your slightly-bigger-than-huge future war robot.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Note that this is just the weapon. The turntable to actually mount it on your robot is not included, but is available for free on my profile.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; Miffles_Makes &gt; 6_8mm_Lucifer_Pattern_Conflict_Deliverer_Warmech [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-miffles_makes-6_8mm_lucifer_pattern_conflict_deliverer_warmech-non-dl/</link><pubDate>Wed, 12 Jan 2022 04:56:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-miffles_makes-6_8mm_lucifer_pattern_conflict_deliverer_warmech-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-miffles_makes-6_8mm_lucifer_pattern_conflict_deliverer_warmech-non-dl/thumbs_-_6-8mm-lucifer-pattern-conflict-deliverer-warmech_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; Miffles_Makes &gt; 6_8mm_Lucifer_Pattern_Conflict_Deliverer_Warmech [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-miffles_makes-6_8mm_lucifer_pattern_conflict_deliverer_warmech-non-dl/thumbs_-_6-8mm-lucifer-pattern-conflict-deliverer-warmech_-_Images_1.jpg"
+width="736"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="368"
+data-flex-basis="883px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/6-8mm-lucifer-pattern-conflict-deliverer-warmech" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/6-8mm-lucifer-pattern-conflict-deliverer-warmech&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6-8mm-lucifer-pattern-conflict-deliverer-warmech&lt;/p&gt;
+&lt;p&gt;Prix : 6.4 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;**This file only includes the outer armour plating only, you will require JimsBeanz Strife Herald for the core of the mech**
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;All armor plating and pattern specific components of this model are modeled from scratch in XSI Softimage.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The AT18Scale files are intended to fit JimsBeanz &amp;#34;Strife Herald Robot&amp;#34; parts have been tested and should fit well with minimal to no adjustment
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Supplied at AT 8mm scale, for 28mm scale models scale up to 400%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Should not be printed to replace pre-existing miniatures options, please support the original manufacturer
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; teroniss &gt; Warbringer_Arm_Adapter [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-teroniss-warbringer_arm_adapter-non-dl/</link><pubDate>Mon, 29 Nov 2021 23:53:10 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-teroniss-warbringer_arm_adapter-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-teroniss-warbringer_arm_adapter-non-dl/thumbs_-_5150714_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; teroniss &gt; Warbringer_Arm_Adapter [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-teroniss-warbringer_arm_adapter-non-dl/thumbs_-_5150714_-_Images_1.jpg"
+width="544"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="272"
+data-flex-basis="652px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5150714" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5150714&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5150714&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Just a brief update to Mr. Beanz Warbringer Titan to make the Arm Piece more compatible with the Reaver Titan weapons.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; da_sub00 &gt; Anubis_Pattern_Volkite_Eradicator_for_Nemesis_Warbringer_Titan [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-da_sub00-anubis_pattern_volkite_eradicator_for_nemesis_warbringer_titan-non-dl/</link><pubDate>Tue, 04 Aug 2020 23:50:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-da_sub00-anubis_pattern_volkite_eradicator_for_nemesis_warbringer_titan-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-da_sub00-anubis_pattern_volkite_eradicator_for_nemesis_warbringer_titan-non-dl/thumbs_-_anubis-pattern-volkite-eradicator-for-nemesis-warbringer-titan_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; da_sub00 &gt; Anubis_Pattern_Volkite_Eradicator_for_Nemesis_Warbringer_Titan [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-da_sub00-anubis_pattern_volkite_eradicator_for_nemesis_warbringer_titan-non-dl/thumbs_-_anubis-pattern-volkite-eradicator-for-nemesis-warbringer-titan_-_Images_1.jpg"
+width="1136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="568"
+data-flex-basis="1363px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/anubis-pattern-volkite-eradicator-for-nemesis-warbringer-titan" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/anubis-pattern-volkite-eradicator-for-nemesis-warbringer-titan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : anubis-pattern-volkite-eradicator-for-nemesis-warbringer-titan&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remixed up a cool Volkite weapon from one of my Nemesis Titans.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Parts of the weapon came from the Dominion Knight Volkite, which I am not sure is up anymore, plus a bunch of custom drawn bits.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I also used in my printed weapons the following: Auxiliary_Generators_right from Atomsclumpf&amp;#39;s Volcano kit, and the pivot_left_stl and pivot_right_stl from JohnCS&amp;#39;s with the platform being a combination of the 2 for max detail.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fits the Adeptus Titanicus Plastic Nemesis Kit.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; JohnCS &gt; Belicosa_Cannon_for_Warbringer_Titan [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-johncs-belicosa_cannon_for_warbringer_titan-non-dl/</link><pubDate>Mon, 02 Mar 2020 02:51:37 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-johncs-belicosa_cannon_for_warbringer_titan-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-johncs-belicosa_cannon_for_warbringer_titan-non-dl/thumbs_-_4195959_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; JohnCS &gt; Belicosa_Cannon_for_Warbringer_Titan [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-johncs-belicosa_cannon_for_warbringer_titan-non-dl/thumbs_-_4195959_-_Images_1.jpg"
+width="1144"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="572"
+data-flex-basis="1372px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-johncs-belicosa_cannon_for_warbringer_titan-non-dl/thumbs_-_4195959_-_Makes_1.jpg"
+width="1024"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="512"
+data-flex-basis="1228px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4195959" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4195959&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4195959&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Belicosa Cannon with mount compatible with Warbringer Nemesis Titan for Titanicus.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Belicosa Cannon model originally by Stroganoff.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Da_Sub &gt; AT18_Warboy_Proxy_Arms [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-da_sub-at18_warboy_proxy_arms-non-dl/</link><pubDate>Sat, 22 Feb 2020 09:07:25 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-da_sub-at18_warboy_proxy_arms-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-da_sub-at18_warboy_proxy_arms-non-dl/thumbs_-_4176725_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Da_Sub &gt; AT18_Warboy_Proxy_Arms [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-da_sub-at18_warboy_proxy_arms-non-dl/thumbs_-_4176725_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4176725" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4176725&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4176725&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic titans IMP Admech-titans-warbringers NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remixed Melta and GatBlaster arms to suit a AT18 Warbringer since the arm swap kit hasn&amp;#39;t been released.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The base files for the blaster have long been removed but I have tagged the Melta files that those parts were mixed from.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This will likely be taken down when the upgrade kit is released.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

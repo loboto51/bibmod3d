@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic Vehicules Sicarans-Canon-Lourd SUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-vehicules-sicarans-canon-lourd-sup/</link><description>Recent content in Epic Vehicules Sicarans-Canon-Lourd SUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 06 Dec 2023 23:04:00 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-vehicules-sicarans-canon-lourd-sup/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sponsons_and_Magnetic_Sponson_System [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/</link><pubDate>Wed, 06 Dec 2023 23:04:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sponsons_and_Magnetic_Sponson_System [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_Images_1.jpg"
+width="760"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="380"
+data-flex-basis="912px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_ImagesSTL_1.jpg"
+width="1984"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="330"
+data-flex-basis="793px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-sponsons-and-magnetic-sponson-system" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-sponsons-and-magnetic-sponson-system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-sponsons-and-magnetic-sponson-system&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Predators SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;needs&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;place&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;central&lt;/span&gt; &lt;span class="n"&gt;collection&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;don&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t have to update a half dozen packs when modifying the sponsons, and the Universal Sponson Pin needed for the Magnetic Sponson System.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;Wait&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;minute&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Magnetic&lt;/span&gt; &lt;span class="n"&gt;Sponson&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Magnetic&lt;/span&gt; &lt;span class="n"&gt;Sponson&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="n"&gt;way&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;swap&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;change&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;loadouts&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;battles&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;need&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;replace&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;snapped&lt;/span&gt; &lt;span class="n"&gt;barrel&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt; &lt;span class="n"&gt;Just&lt;/span&gt; &lt;span class="n"&gt;slide&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;old&lt;/span&gt; &lt;span class="n"&gt;sponsons&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;ones&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;pin&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;slots&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;normal&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;x1mm&lt;/span&gt; &lt;span class="n"&gt;neodymium&lt;/span&gt; &lt;span class="n"&gt;magnet&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;pins&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;symmetrical&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;there&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt; &lt;span class="n"&gt;need&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;mirror&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Just&lt;/span&gt; &lt;span class="n"&gt;remember&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;rivets&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt; &lt;span class="n"&gt;backwards&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;sure&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;decide&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;polarity&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;left&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;right&lt;/span&gt; &lt;span class="n"&gt;pins&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;Note&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;currently&lt;/span&gt; &lt;span class="n"&gt;compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Pred&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;SIG&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;RN&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Crete&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;S&lt;/span&gt; &lt;span class="n"&gt;packs&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;Like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_StarPorts_-_Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Bolter_L_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Bolter_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Flamer_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Flamer_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Kratos-only_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Quad_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Quad_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Sicaran-only_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Twin-linked_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Twin-linked_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Universal_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Heavy_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Heavy_Flamer_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Kratos-only_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Quad_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Sicaran-only_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Twin-linked_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Universal_Sponson_Pin_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sig_RN_Ven_8R_Medium_Tank_Hunter__Supported_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/</link><pubDate>Mon, 21 Aug 2023 20:30:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/thumbs_-_starports-sig-rn-ven-8r-medium-tank-hunter-supported_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sig_RN_Ven_8R_Medium_Tank_Hunter__Supported_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/thumbs_-_starports-sig-rn-ven-8r-medium-tank-hunter-supported_-_Images_1.jpg"
+width="896"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="448"
+data-flex-basis="1075px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/thumbs_-_starports-sig-rn-ven-8r-medium-tank-hunter-supported_-_ImagesSTL_1.jpg"
+width="2484"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="414"
+data-flex-basis="993px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sig_rn_ven_8r_medium_tank_hunter__supported_-dl/thumbs_-_starports-sig-rn-ven-8r-medium-tank-hunter-supported_-_Makes_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-sig-rn-ven-8r-medium-tank-hunter-supported" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-sig-rn-ven-8r-medium-tank-hunter-supported&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-sig-rn-ven-8r-medium-tank-hunter-supported&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;humble&lt;/span&gt; &lt;span class="n"&gt;reworking&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Wolfkeeper&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s excellent reworking of Woddish&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;excellent&lt;/span&gt; &lt;span class="n"&gt;design&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;optimised&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;It&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s not the size of the gun, it&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;how&lt;/span&gt;&lt;span class="o"&gt;...&lt;/span&gt; &lt;span class="n"&gt;alright&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="k"&gt;case&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s _definitely_ about the size of the gun!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Supported&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;tweaked&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;modular&lt;/span&gt; &lt;span class="n"&gt;sponsons&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;packs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;optional&lt;/span&gt; &lt;span class="n"&gt;slot&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;gunner&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;optional&lt;/span&gt; &lt;span class="n"&gt;scooped&lt;/span&gt; &lt;span class="n"&gt;hulls&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;cutting&lt;/span&gt; &lt;span class="n"&gt;resin&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Includes&lt;/span&gt; &lt;span class="n"&gt;Lychee&lt;/span&gt; &lt;span class="n"&gt;Scenes&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;anyone&lt;/span&gt; &lt;span class="n"&gt;wanting&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;tweak&lt;/span&gt; &lt;span class="n"&gt;supports&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;rafts&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;hollowing&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;ToDo&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Add&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;Like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+- Supported and tweaked for easy printing
+ImagesSTL_-_StarPorts_-_Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Supported_Venator_Command__Sicaran-only_Magnetic_Sponsons__stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Supported_Venator_Command__Universal_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Supported_Venator__Sicaran-only_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Supported_Venator__Universal_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Unsupported_Venator_Command__Sicaran-only_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Unsupported_Venator_Command__Universal_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Unsupported_Venator__Sicaran-only_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Magnetic_Sponson_Hulls_Unsupported_Venator__Universal_Magnetic_Sponsons__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Hull_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Neutron_Beam_Laser_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Venator_Command__Scooped__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Venator_Command_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Venator__Scooped__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Supported_STLs_Venator_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Hull_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Hull_Command__Scooped__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Hull_Command_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Hull__Scooped__stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Hull_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sig-RN_Ven-8R_Medium_Tank_Hunter_zip_unpack_Unsupported_STLs_Laser_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; woddish &gt; Tiny_Tank_Classic_Cavalry_Support [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_classic_cavalry_support-dl/</link><pubDate>Mon, 26 Apr 2021 00:11:24 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_classic_cavalry_support-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_classic_cavalry_support-dl/thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; woddish &gt; Tiny_Tank_Classic_Cavalry_Support [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_classic_cavalry_support-dl/thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_classic_cavalry_support-dl/thumbs_-_tiny-tank-classic-cavalry-support_-_ImagesSTL_1.jpg"
+width="1992"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="996"
+data-flex-basis="2390px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-tank-classic-cavalry-support" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-tank-classic-cavalry-support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-tank-classic-cavalry-support&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Tiny&lt;/span&gt; &lt;span class="n"&gt;Tanks&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;back&lt;/span&gt; &lt;span class="n"&gt;baby&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;And&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;re speeding onto the tiny scene at a relatively high rate of pace! These tiny cavalry tanks are the perfect choice for the tiny soldier who wants to go fast! Flank, fix, and finish your tiny enemies with these little death dealers.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Comes&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;three&lt;/span&gt; &lt;span class="n"&gt;distinct&lt;/span&gt; &lt;span class="n"&gt;flavors&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;discover&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;favourite&lt;/span&gt; &lt;span class="n"&gt;today&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Tiny&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;perfect&lt;/span&gt; &lt;span class="n"&gt;thing&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;give&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;sense&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;titans&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;aircraft&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;anything&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Add&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="n"&gt;decoration&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;add&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;terrain&lt;/span&gt; &lt;span class="n"&gt;decoration&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;create&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;war&lt;/span&gt; &lt;span class="n"&gt;dioramas&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt; &lt;span class="n"&gt;whatever&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Anything&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;better&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;addition&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Tiny&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;resin&lt;/span&gt; &lt;span class="n"&gt;printers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;UPDATE&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;There&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;error&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;volk&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;missing&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s gunshield. That&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;fixed&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Also&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;rockets&lt;/span&gt; &lt;span class="n"&gt;never&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;cults&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;reason&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Those&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;been&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Three&lt;/span&gt; &lt;span class="n"&gt;different&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;yes&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;rockets&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;rockets&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Go&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;cause&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;havoc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreautorocket_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreauto_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreneutronrocket_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreneutron_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabrevolkrocket_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabrevolk_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KillMeForPrizes on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/killmeforprizes/</link><description>Recent content in KillMeForPrizes on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 23 Mar 2024 13:46:52 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/killmeforprizes/index.xml" rel="self" type="application/rss+xml"/><item><title>[PAYANT] Cults3d &gt; KillMeForPrizes &gt; Metal_Marauders___Grunts [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-metal_marauders___grunts-non-dl/</link><pubDate>Sat, 23 Mar 2024 13:46:52 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-metal_marauders___grunts-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-metal_marauders___grunts-non-dl/thumbs_-_metal-marauders-grunts_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; KillMeForPrizes &gt; Metal_Marauders___Grunts [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-metal_marauders___grunts-non-dl/thumbs_-_metal-marauders-grunts_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/metal-marauders-grunts" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/metal-marauders-grunts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : metal-marauders-grunts&lt;/p&gt;
+&lt;p&gt;Prix : 6.36 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie ORKS Orks-boyz&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-microbs&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie ORKS Orks-boyz NONDL SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-microbs NONDL SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie ORKS Orks-qg NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;core&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Metal&lt;/span&gt; &lt;span class="n"&gt;Marauder&lt;/span&gt; &lt;span class="n"&gt;forces&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Grunts&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Encased&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;bodies&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;metal&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;armed&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;huge&lt;/span&gt; &lt;span class="n"&gt;brutish&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;they&lt;/span&gt; &lt;span class="n"&gt;attacking&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;huge&lt;/span&gt; &lt;span class="n"&gt;numbers&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;great&lt;/span&gt; &lt;span class="n"&gt;effectiveness&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;kit&lt;/span&gt; &lt;span class="n"&gt;contains&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Metal&lt;/span&gt; &lt;span class="n"&gt;Marauder&lt;/span&gt; &lt;span class="n"&gt;Grunts&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;600&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scales&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;600&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;also&lt;/span&gt; &lt;span class="n"&gt;come&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;prebased&lt;/span&gt; &lt;span class="n"&gt;unit&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Presupported&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Presupported.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[PAYANT] Cults3d &gt; KillMeForPrizes &gt; Mechanopods___Drones [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-mechanopods___drones-non-dl/</link><pubDate>Fri, 15 Mar 2024 21:38:30 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-mechanopods___drones-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-mechanopods___drones-non-dl/thumbs_-_mechanopods-drones_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; KillMeForPrizes &gt; Mechanopods___Drones [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-mechanopods___drones-non-dl/thumbs_-_mechanopods-drones_-_Images_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/mechanopods-drones" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/mechanopods-drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : mechanopods-drones&lt;/p&gt;
+&lt;p&gt;Prix : 6.36 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Serviteurs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Serviteurs NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The Drones are the mainstay of the Mechanopod&amp;#39;s forces. Deployed in huge numbers they rush towards the front lines, zapping away with their red laser eyes beams.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This kit contains a number of Mechanopod Drones in 3mm/1:600, 8mm and 15mm scales. The 15mm versions are multipart. The 3mm/1:600 versions also come with some prebased unit options.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Presupported.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Presupported.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[PAYANT] Cults3d &gt; KillMeForPrizes &gt; Retro_Battle_Walker__6mm_scale_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-retro_battle_walker__6mm_scale_-non-dl/</link><pubDate>Mon, 01 May 2023 18:09:53 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-retro_battle_walker__6mm_scale_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-retro_battle_walker__6mm_scale_-non-dl/thumbs_-_retro-battle-walker-6mm-scale_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; KillMeForPrizes &gt; Retro_Battle_Walker__6mm_scale_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-retro_battle_walker__6mm_scale_-non-dl/thumbs_-_retro-battle-walker-6mm-scale_-_Images_1.jpg"
+width="936"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="468"
+data-flex-basis="1123px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/retro-battle-walker-6mm-scale" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/retro-battle-walker-6mm-scale&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : retro-battle-walker-6mm-scale&lt;/p&gt;
+&lt;p&gt;Prix : 3.18 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic marcheurs SMI Sm-dreadnoughts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic marcheurs SMI Sm-dreadnoughts NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A set of 24 retro battle walkers for 6mm. Featuring 3 different weapons, 4 poses and 2 different leg styles.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Comes pre-supported (.stl format).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Also contains parts to kit bash your own retro battle walkers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;*************************************
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;All purchased files are for personal use only and may not be sold, shared or distributed in any form.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Comes pre-supported (.stl format).
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Goliath_Consortium_Ancestor__6_8mm__FREE [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-goliath_consortium_ancestor__6_8mm__free-non-dl/</link><pubDate>Tue, 18 Apr 2023 18:12:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-goliath_consortium_ancestor__6_8mm__free-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-goliath_consortium_ancestor__6_8mm__free-non-dl/thumbs_-_goliath-consortium-ancestor-6-8mm-free_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Goliath_Consortium_Ancestor__6_8mm__FREE [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-goliath_consortium_ancestor__6_8mm__free-non-dl/thumbs_-_goliath-consortium-ancestor-6-8mm-free_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/goliath-consortium-ancestor-6-8mm-free" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/goliath-consortium-ancestor-6-8mm-free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : goliath-consortium-ancestor-6-8mm-free&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-qg&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SQUATS Squats-qg NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Goliath Consortium Psychic Ancestor with their own motorized chair.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_RT17_Surveillance_Robot__6_8mm__FREE [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_rt17_surveillance_robot__6_8mm__free-non-dl/</link><pubDate>Mon, 20 Mar 2023 21:39:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_rt17_surveillance_robot__6_8mm__free-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_rt17_surveillance_robot__6_8mm__free-non-dl/thumbs_-_martian-cyborg-rt17-surveillance-robot-6-8mm-free_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_RT17_Surveillance_Robot__6_8mm__FREE [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_rt17_surveillance_robot__6_8mm__free-non-dl/thumbs_-_martian-cyborg-rt17-surveillance-robot-6-8mm-free_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/martian-cyborg-rt17-surveillance-robot-6-8mm-free" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/martian-cyborg-rt17-surveillance-robot-6-8mm-free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : martian-cyborg-rt17-surveillance-robot-6-8mm-free&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic marcheurs AM Robots&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic marcheurs AM Robots NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Little robot to scout ahead. Good for 6-8mm as well as 15mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Comes presupported.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Comes presupported.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Priest__Mr_Legs___6_8mm__FREE [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/</link><pubDate>Sat, 03 Dec 2022 18:05:47 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/thumbs_-_martian-cyborg-priest-mr-legs-6-8mm-free_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Priest__Mr_Legs___6_8mm__FREE [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_priest__mr_legs___6_8mm__free-non-dl/thumbs_-_martian-cyborg-priest-mr-legs-6-8mm-free_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/martian-cyborg-priest-mr-legs-6-8mm-free" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/martian-cyborg-priest-mr-legs-6-8mm-free&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : martian-cyborg-priest-mr-legs-6-8mm-free&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Technoprêtres NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A free Martian Cyborg Priest for 6-8mm epic scale.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;More models like this can be found here https://www.patreon.com/kmfpdesigns or here
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; www.myminifactory.com/users/KMFP_Designs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Infantry_Type_R__6_8mm__Promo [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_infantry_type_r__6_8mm__promo-non-dl/</link><pubDate>Fri, 07 Oct 2022 15:55:51 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_infantry_type_r__6_8mm__promo-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_infantry_type_r__6_8mm__promo-non-dl/thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; KillMeForPrizes &gt; Martian_Cyborg_Infantry_Type_R__6_8mm__Promo [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-killmeforprizes-martian_cyborg_infantry_type_r__6_8mm__promo-non-dl/thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/martian-cyborg-infantry-type-r-6-8mm-promo" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/martian-cyborg-infantry-type-r-6-8mm-promo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : martian-cyborg-infantry-type-r-6-8mm-promo&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Thallax&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie AM Thallax NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A single model from the Marian Cyborg Infantry Type R kit now available at https://www.patreon.com/kmfpdesigns or https://www.myminifactory.com/users/KMFP_Designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The full kit contains over 40 models: 20 with rad-rifles, 5 energy-carbines, 5 zapp-rifles, 2 rad-long-rifles, 1 with comm gear, 1 with scanner gear and 9 leaders.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; KillMeForPrizes &gt; Capitolis_Imperial_Fortress_Transport__6_8mm_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-capitolis_imperial_fortress_transport__6_8mm_-non-dl/</link><pubDate>Fri, 17 Dec 2021 00:17:52 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-capitolis_imperial_fortress_transport__6_8mm_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-capitolis_imperial_fortress_transport__6_8mm_-non-dl/thumbs_-_capitolis-imperial-fortress-transport-6-8mm_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; KillMeForPrizes &gt; Capitolis_Imperial_Fortress_Transport__6_8mm_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-capitolis_imperial_fortress_transport__6_8mm_-non-dl/thumbs_-_capitolis-imperial-fortress-transport-6-8mm_-_Images_1.jpg"
+width="1128"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="564"
+data-flex-basis="1353px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-killmeforprizes-capitolis_imperial_fortress_transport__6_8mm_-non-dl/thumbs_-_capitolis-imperial-fortress-transport-6-8mm_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/capitolis-imperial-fortress-transport-6-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/capitolis-imperial-fortress-transport-6-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : capitolis-imperial-fortress-transport-6-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 7.66 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds GI Capitols-Imperialis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds GI Capitols-Imperialis NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A huge moving fortress for transporting your soldiers into battle, massive and brimming with guns.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for epic 6-8mm scale battles.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Almost 8&amp;#34;/20cm long and 4.5&amp;#34;/12cm tall.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;EDIT 12-17-2021 : added a zip with the hollowed parts not hollowed for those that wish to do it themselves, as per requests.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;EDIT 12-19-2021 : added a zip with updated front hull parts (hollowed and unhollowed) that fit better - sorry about that.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;EDIT 12-22-2021 : added a zip with some updated parts for the top floor to fit properly.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Gloomy_Mace_and_Shield_Boys___6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-gloomy_mace_and_shield_boys___6_8mm-dl/</link><pubDate>Wed, 17 Nov 2021 20:49:38 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-gloomy_mace_and_shield_boys___6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-gloomy_mace_and_shield_boys___6_8mm-dl/thumbs_-_5139780_-_ImagesSTL_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Gloomy_Mace_and_Shield_Boys___6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-gloomy_mace_and_shield_boys___6_8mm-dl/thumbs_-_5139780_-_ImagesSTL_1.jpg"
+width="1696"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="424"
+data-flex-basis="1017px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5139780" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5139780&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5139780&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-terminators SMI-DA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-terminators SMI-DA NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Deathwing Knights in 6mm. Plus a zip of the shields and weapons for your custom ideas.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Blobby234 - RESIZED CHONKY BEEF DUDE - https://cults3d.com/en/3d-model/game/resized-chonky-beef-dude
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gothic Hooded Statue by Harrowtale - https://www.thingiverse.com/thing:3562042/remixes
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Loin Cloths for Gray Scale Legs by Graygawr - https://cults3d.com/en/3d-model/game/loin-cloths-for-all-gray-scale-legs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; epic_scale_galactic_crusader_weapons_pack_6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-epic_scale_galactic_crusader_weapons_pack_6_8mm-dl/</link><pubDate>Tue, 09 Nov 2021 17:00:17 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-epic_scale_galactic_crusader_weapons_pack_6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-epic_scale_galactic_crusader_weapons_pack_6_8mm-dl/thumbs_-_5115956_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; epic_scale_galactic_crusader_weapons_pack_6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-epic_scale_galactic_crusader_weapons_pack_6_8mm-dl/thumbs_-_5115956_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-epic_scale_galactic_crusader_weapons_pack_6_8mm-dl/thumbs_-_5115956_-_ImagesSTL_1.jpg"
+width="2538"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="423"
+data-flex-basis="1015px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5115956" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5115956&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5115956&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic SMI Bits Builders&lt;/li&gt;
+&lt;li&gt;epic SMI Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm epic SMI Bits Builders NONSUP&lt;/li&gt;
+&lt;li&gt;epic SMI Bits Builders NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Here is a pack of epic scale weapons for Galactic Crusaders for custom builds.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Galactic Crusaders by Moonjam - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Full_Ball_Bearing_Galactic_Crusaders_6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/</link><pubDate>Sat, 30 Oct 2021 13:58:29 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Full_Ball_Bearing_Galactic_Crusaders_6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_Images_1.jpg"
+width="456"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="228"
+data-flex-basis="547px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-full_ball_bearing_galactic_crusaders_6_8mm-dl/thumbs_-_5059449_-_ImagesSTL_1.jpg"
+width="2632"
+height="1000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="263"
+data-flex-basis="631px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5059449" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5059449&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5059449&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut-volant SM30K&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-qg SM30K&lt;/li&gt;
+&lt;li&gt;epic volants SMI Land-Speeders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-tactiques SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-assaut-volant SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-motos Sm-qg SUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMI Sm-qg SM30K SUP&lt;/li&gt;
+&lt;li&gt;epic volants SMI Land-Speeders SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Full set of epic scale &amp;#34;Ball Bearing&amp;#34; marines.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;SOURCES:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam&amp;#39;s amazing Galatic Crusaders - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Ball Bearing Marines by DangItBlobby - https://www.thingiverse.com/thing:4776617
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_Full_Ball_Bearing_Galactic_Crusaders_6-8mm_-_5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Assault_MK5_Breachers_Support_6mm_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_Autocannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyBolter_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyFlamer_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_HeavyVulkite_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_Lascannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_MissileLauncher_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_MultiMelta_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Support_MK5_Heavy_Support_PlasmaCannon_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Flamer_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Melta_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Plasma_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Rotor_6mm_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;Full_Ball_Bearing_Galactic_Crusaders_6-8mm&lt;/em&gt;-&lt;em&gt;5059449_zip_unpack_files_BB_Galactic_Crusaders_6mm_zip_unpack_Tactical_MK5_Tactical_Support_Vulkite_6mm_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; _Epic_scale_Infantry_Special_Weapons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-_epic_scale_infantry_special_weapons-dl/</link><pubDate>Tue, 26 Oct 2021 19:41:11 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-_epic_scale_infantry_special_weapons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-_epic_scale_infantry_special_weapons-dl/thumbs_-_5031140_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; _Epic_scale_Infantry_Special_Weapons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-_epic_scale_infantry_special_weapons-dl/thumbs_-_5031140_-_Images_1.jpg"
+width="2136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1068"
+data-flex-basis="2563px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-_epic_scale_infantry_special_weapons-dl/thumbs_-_5031140_-_ImagesSTL_1.jpg"
+width="1264"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="632"
+data-flex-basis="1516px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5031140" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5031140&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5031140&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-CADIENS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-CADIENS NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A quick remix. Some special weapons from MoonJam added to JahnZizka&amp;#39;s epic IG from Miffles IG models.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Metal_Hand_Marines_6_8mm__Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-metal_hand_marines_6_8mm__remix_-dl/</link><pubDate>Tue, 03 Aug 2021 20:48:22 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-metal_hand_marines_6_8mm__remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-metal_hand_marines_6_8mm__remix_-dl/thumbs_-_4924039_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Metal_Hand_Marines_6_8mm__Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-metal_hand_marines_6_8mm__remix_-dl/thumbs_-_4924039_-_Images_1.jpg"
+width="2136"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1068"
+data-flex-basis="2563px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-metal_hand_marines_6_8mm__remix_-dl/thumbs_-_4924039_-_ImagesSTL_1.jpg"
+width="2040"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1020"
+data-flex-basis="2448px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4924039" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4924039&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4924039&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMI-IH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMI-IH NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Gorgons and Medusan Immortals for your Iron Hands.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Iron hands heads with halo by vb2341 https://www.thingiverse.com/thing:3855549/files
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Blobby234 - RESIZED CHONKY BEEF DUDE - https://cults3d.com/en/3d-model/game/resized-chonky-beef-dude
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Spartan_Marines_6_8mm__remix__ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-spartan_marines_6_8mm__remix__-dl/</link><pubDate>Thu, 15 Jul 2021 21:39:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-spartan_marines_6_8mm__remix__-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-spartan_marines_6_8mm__remix__-dl/thumbs_-_4909570_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Spartan_Marines_6_8mm__remix__ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-spartan_marines_6_8mm__remix__-dl/thumbs_-_4909570_-_Images_1.jpg"
+width="2670"
+height="361"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="739"
+data-flex-basis="1775px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-spartan_marines_6_8mm__remix__-dl/thumbs_-_4909570_-_ImagesSTL_1.jpg"
+width="2009"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="502"
+data-flex-basis="1205px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4909570" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4909570&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4909570&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Some marines with shields and spears, 5 on foot, 5 with jump packs and a leaping champion. Pre-supported (_ps) included.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam - https://www.thingiverse.com/moonjam/designs
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Shield - Hunting biker by KarnageKing- https://www.thingiverse.com/thing:3868915
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Champion base - Scifi Machines by SevenUnited - https://www.thingiverse.com/thing:4819636
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+Some marines with shields and spears, 5 on foot, 5 with jump packs and a leaping champion. Pre-supported (_ps) included.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Saturday_9_Armour_V2_6_8mm__Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_v2_6_8mm__remix_-dl/</link><pubDate>Thu, 03 Jun 2021 04:36:51 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_v2_6_8mm__remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_v2_6_8mm__remix_-dl/thumbs_-_4876641_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Saturday_9_Armour_V2_6_8mm__Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_v2_6_8mm__remix_-dl/thumbs_-_4876641_-_Images_1.jpg"
+width="1608"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="804"
+data-flex-basis="1929px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_v2_6_8mm__remix_-dl/thumbs_-_4876641_-_ImagesSTL_1.jpg"
+width="2544"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1272"
+data-flex-basis="3052px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4876641" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4876641&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4876641&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Saturday&lt;/span&gt; &lt;span class="mi"&gt;9&lt;/span&gt; &lt;span class="n"&gt;armour&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;many&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="nb"&gt;load&lt;/span&gt; &lt;span class="n"&gt;outs&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Enjoy&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Additional&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;loadouts&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;come&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Sources&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Thanks&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;DangItBlobby&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Galactic&lt;/span&gt; &lt;span class="n"&gt;Crusaders&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Siege&lt;/span&gt; &lt;span class="n"&gt;Armour&lt;/span&gt; &lt;span class="n"&gt;Unmerged&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;4864502&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;MoonJam&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Galactic&lt;/span&gt; &lt;span class="n"&gt;Crusaders&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;moonjam&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;designs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;AphelieCreations&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;StormBolter&lt;/span&gt; &lt;span class="n"&gt;Warhammer&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="n"&gt;k&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="mi"&gt;000&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;2254199&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Miffles_Makes&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Cosmo&lt;/span&gt; &lt;span class="n"&gt;Knight&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Saturn&lt;/span&gt; &lt;span class="n"&gt;TacDread&lt;/span&gt; &lt;span class="n"&gt;Infantry&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Assault&lt;/span&gt; &lt;span class="n"&gt;Config&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3997119&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;cornivius&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Posable&lt;/span&gt; &lt;span class="n"&gt;Lighning&lt;/span&gt; &lt;span class="n"&gt;Claw&lt;/span&gt; &lt;span class="n"&gt;Ver1&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;4134265&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;AphelieCreations&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Thunder&lt;/span&gt; &lt;span class="n"&gt;Hammer&lt;/span&gt; &lt;span class="n"&gt;Warhammer&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="n"&gt;k&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;thingiverse&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;thing&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;3175331&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; IF_Terminator_Praetor__Galactic_Crusaders_Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-if_terminator_praetor__galactic_crusaders_remix_-dl/</link><pubDate>Sat, 29 May 2021 15:21:36 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-if_terminator_praetor__galactic_crusaders_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-if_terminator_praetor__galactic_crusaders_remix_-dl/thumbs_-_4872753_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; IF_Terminator_Praetor__Galactic_Crusaders_Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-if_terminator_praetor__galactic_crusaders_remix_-dl/thumbs_-_4872753_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-if_terminator_praetor__galactic_crusaders_remix_-dl/thumbs_-_4872753_-_ImagesSTL_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4872753" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4872753&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4872753&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-qg SM30K NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Terminator companion to this guy https://www.thingiverse.com/thing:4859440
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;DangItBlobby - Galactic Crusaders - Heavy Siege Armour Unmerged - https://www.thingiverse.com/thing:4864502
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Moonjam - Galactic Crusaders - Boarding Armour Command - https://www.thingiverse.com/thing:4249300
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;matrice666 - ROBOT PALE-BLACK CRUSADER SPACE BRO COSPLAYING ALAN FROM THE HANGOVER - https://www.thingiverse.com/thing:4587620
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Saturday_9_Armour_6_8mm__Remix__Set_2_Heavy_Weapons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_6_8mm__remix__set_2_heavy_weapons-dl/</link><pubDate>Fri, 28 May 2021 03:03:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_6_8mm__remix__set_2_heavy_weapons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_6_8mm__remix__set_2_heavy_weapons-dl/thumbs_-_4871587_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Saturday_9_Armour_6_8mm__Remix__Set_2_Heavy_Weapons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_6_8mm__remix__set_2_heavy_weapons-dl/thumbs_-_4871587_-_Images_1.jpg"
+width="2408"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1204"
+data-flex-basis="2889px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-saturday_9_armour_6_8mm__remix__set_2_heavy_weapons-dl/thumbs_-_4871587_-_ImagesSTL_1.jpg"
+width="1792"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="896"
+data-flex-basis="2150px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4871587" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4871587&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4871587&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI SMC Sm-terminators SM30K NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Saturnine Armour 6-8mm (Remix) Set 2 - Heavy Weapons : Autocannon, Heavy Flamer and Assault Cannon
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;DangItBlobby - Galactic Crusaders - Heavy Siege Armour Unmerged - https://www.thingiverse.com/thing:4864502
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;MoonJam - Galactic Crusaders - Heavy Siege Armour - 6-8mm - https://www.thingiverse.com/thing:4331179
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Miffles_Makes - 6mm Cosmo Knight, Saturn TacDread Infantry, Assault Config - https://www.thingiverse.com/thing:3997119
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Solar_Troopers_Rotor_Cannon__Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-solar_troopers_rotor_cannon__remix_-dl/</link><pubDate>Mon, 03 May 2021 17:42:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-solar_troopers_rotor_cannon__remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-solar_troopers_rotor_cannon__remix_-dl/thumbs_-_4847995_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; KillMeForPrizes &gt; Solar_Troopers_Rotor_Cannon__Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-solar_troopers_rotor_cannon__remix_-dl/thumbs_-_4847995_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-killmeforprizes-solar_troopers_rotor_cannon__remix_-dl/thumbs_-_4847995_-_ImagesSTL_1.jpg"
+width="419"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="209"
+data-flex-basis="502px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4847995" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4847995&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4847995&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-SOLARAUX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie GI Humains-tactiques GI-SOLARAUX NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remixed from MrOrangeJumper&amp;#39;s very excellent Solar Troopers https://www.thingiverse.com/thing:3732791
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Sekhmet_Terminator_Cabal_6mm__Galactic_Crusader_Remix_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse_archive &gt; KillMeForPrizes &gt; Sekhmet_Terminator_Cabal_6mm__Galactic_Crusader_Remix_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse_archive-killmeforprizes-sekhmet_terminator_cabal_6mm__galactic_crusader_remix_-dl/thumbs_-_4855237_-_ImagesSTL_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4855237" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4855237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4855237&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-terminators TZEENTCH NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

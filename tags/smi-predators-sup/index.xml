@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SMI Predators SUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/smi-predators-sup/</link><description>Recent content in SMI Predators SUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 06 Dec 2023 23:04:00 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/smi-predators-sup/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sponsons_and_Magnetic_Sponson_System [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/</link><pubDate>Wed, 06 Dec 2023 23:04:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Sponsons_and_Magnetic_Sponson_System [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_Images_1.jpg"
+width="760"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="380"
+data-flex-basis="912px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___sponsons_and_magnetic_sponson_system-dl/thumbs_-_starports-sponsons-and-magnetic-sponson-system_-_ImagesSTL_1.jpg"
+width="1984"
+height="600"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="330"
+data-flex-basis="793px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-sponsons-and-magnetic-sponson-system" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-sponsons-and-magnetic-sponson-system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-sponsons-and-magnetic-sponson-system&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Predators SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans-canon-lourd SUP&lt;/li&gt;
+&lt;li&gt;epic vehicules SMI Sicarans SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;needs&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;place&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;central&lt;/span&gt; &lt;span class="n"&gt;collection&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;don&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t have to update a half dozen packs when modifying the sponsons, and the Universal Sponson Pin needed for the Magnetic Sponson System.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;Wait&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;minute&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Magnetic&lt;/span&gt; &lt;span class="n"&gt;Sponson&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;Magnetic&lt;/span&gt; &lt;span class="n"&gt;Sponson&lt;/span&gt; &lt;span class="n"&gt;System&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="n"&gt;way&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;swap&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Want&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;change&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;loadouts&lt;/span&gt; &lt;span class="n"&gt;between&lt;/span&gt; &lt;span class="n"&gt;battles&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;need&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;replace&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;snapped&lt;/span&gt; &lt;span class="n"&gt;barrel&lt;/span&gt;&lt;span class="err"&gt;?&lt;/span&gt; &lt;span class="n"&gt;Just&lt;/span&gt; &lt;span class="n"&gt;slide&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;old&lt;/span&gt; &lt;span class="n"&gt;sponsons&lt;/span&gt; &lt;span class="n"&gt;out&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;new&lt;/span&gt; &lt;span class="n"&gt;ones&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;pin&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;slots&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;normal&lt;/span&gt; &lt;span class="n"&gt;sponson&lt;/span&gt; &lt;span class="n"&gt;weapon&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;x1mm&lt;/span&gt; &lt;span class="n"&gt;neodymium&lt;/span&gt; &lt;span class="n"&gt;magnet&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;pins&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;symmetrical&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;there&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;no&lt;/span&gt; &lt;span class="n"&gt;need&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;mirror&lt;/span&gt; &lt;span class="n"&gt;them&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Just&lt;/span&gt; &lt;span class="n"&gt;remember&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;rivets&lt;/span&gt; &lt;span class="n"&gt;point&lt;/span&gt; &lt;span class="n"&gt;backwards&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;sure&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;decide&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;which&lt;/span&gt; &lt;span class="n"&gt;polarity&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;left&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;right&lt;/span&gt; &lt;span class="n"&gt;pins&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;**&lt;/span&gt;&lt;span class="n"&gt;Note&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;**&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;currently&lt;/span&gt; &lt;span class="n"&gt;compatible&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Pred&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;SIG&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;RN&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Crete&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;S&lt;/span&gt; &lt;span class="n"&gt;packs&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;Like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_StarPorts_-_Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Bolter_L_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Bolter_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Flamer_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Heavy_Flamer_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Kratos-only_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Quad_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Quad_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Sicaran-only_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Twin-linked_Lascannon_L_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Twin-linked_Lascannon_R_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Supported_STLs_Universal_Magnetic_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Heavy_Bolter_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Heavy_Flamer_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Kratos-only_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Quad_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Sicaran-only_Sponson_Pin_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Twin-linked_Lascannon_stl&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;StarPorts&lt;/em&gt;-&lt;em&gt;Sponsons_and_Magnetic_Sponson_System_zip_unpack_Unsupported_STLs_Universal_Sponson_Pin_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Dread_Pred_8R_Light_Tank__Supported_ [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/</link><pubDate>Sun, 30 Jul 2023 18:59:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/thumbs_-_starports-dread-pred-8r-light-tank-supported_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; lstar &gt; StarPorts___Dread_Pred_8R_Light_Tank__Supported_ [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/thumbs_-_starports-dread-pred-8r-light-tank-supported_-_Images_1.jpg"
+width="2104"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1052"
+data-flex-basis="2524px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/thumbs_-_starports-dread-pred-8r-light-tank-supported_-_ImagesSTL_1.jpg"
+width="1576"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="394"
+data-flex-basis="945px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-lstar-starports___dread_pred_8r_light_tank__supported_-dl/thumbs_-_starports-dread-pred-8r-light-tank-supported_-_Makes_1.jpg"
+width="1000"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="500"
+data-flex-basis="1200px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/starports-dread-pred-8r-light-tank-supported" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/starports-dread-pred-8r-light-tank-supported&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : starports-dread-pred-8r-light-tank-supported&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A humble reworking of JimmyZimms&amp;#39; excellent reworking of Woddish&amp;#39;s excellent design, optimised for easy printing.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Find compatible sponsons, and the Magnetic Sponson System in the [Sponsons Pack](https://cults3d.com/en/3d-model/game/starports-sponsons-and-magnetic-sponson-system)!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Supported and tweaked for easy printing
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Turrets and hulls come with holes for 3mm magnets for easy gun swapping
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Includes command options, and a remixable hatch
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Pack includes a masterfully designed 3x2.5mm cylinder to align turrets for people who don&amp;#39;t like magnets
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Includes Lychee Scenes for anyone wanting to tweak supports/rafts
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;ToDo:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Support remaining turret options
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+- Supported and tweaked for easy printing
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; MulticolouredSkull &gt; Galactic_Crusaders___Battle_Tank___6_8mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-multicolouredskull-galactic_crusaders___battle_tank___6_8mm-non-dl/</link><pubDate>Sat, 08 Jul 2023 20:07:47 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-multicolouredskull-galactic_crusaders___battle_tank___6_8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-multicolouredskull-galactic_crusaders___battle_tank___6_8mm-non-dl/thumbs_-_6114274_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; MulticolouredSkull &gt; Galactic_Crusaders___Battle_Tank___6_8mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-multicolouredskull-galactic_crusaders___battle_tank___6_8mm-non-dl/thumbs_-_6114274_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6114274" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6114274&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6114274&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;For printing on resin printing. File is unsupported but I&amp;#39;ve printed it successfully using auto generated supports.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+For printing on resin printing. File is unsupported but I've printed it successfully using auto generated supports.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_Galactic_Crusaders_MBT [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_galactic_crusaders_mbt-non-dl/</link><pubDate>Wed, 31 Mar 2021 01:01:14 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_galactic_crusaders_mbt-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_galactic_crusaders_mbt-non-dl/thumbs_-_epic-scale-galactic-crusaders-mbt_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; JahnZizka &gt; Epic_scale_Galactic_Crusaders_MBT [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_galactic_crusaders_mbt-non-dl/thumbs_-_epic-scale-galactic-crusaders-mbt_-_Images_1.jpg"
+width="2740"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="1370"
+data-flex-basis="3288px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-jahnzizka-epic_scale_galactic_crusaders_mbt-non-dl/thumbs_-_epic-scale-galactic-crusaders-mbt_-_Makes_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/epic-scale-galactic-crusaders-mbt" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/epic-scale-galactic-crusaders-mbt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : epic-scale-galactic-crusaders-mbt&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sources:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny Tank Fancy APC by woddish https://www.thingiverse.com/thing:4363989
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny Tank Classic APC by woddish https://www.thingiverse.com/thing:4397472
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny Tank Fancy MBT Infantry Support by woddish https://www.thingiverse.com/thing:4521235
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny Tank Fancy MBT by woddish https://www.thingiverse.com/thing:4363995
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
+~~~
+&lt;/code&gt;&lt;/pre&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; woddish &gt; Tiny_Tank_Fancy_MBT_Infantry_Support [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_fancy_mbt_infantry_support-dl/</link><pubDate>Mon, 06 Jul 2020 15:18:58 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_fancy_mbt_infantry_support-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_fancy_mbt_infantry_support-dl/thumbs_-_tiny-tank-fancy-mbt-infantry-support_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; woddish &gt; Tiny_Tank_Fancy_MBT_Infantry_Support [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_fancy_mbt_infantry_support-dl/thumbs_-_tiny-tank-fancy-mbt-infantry-support_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-woddish-tiny_tank_fancy_mbt_infantry_support-dl/thumbs_-_tiny-tank-fancy-mbt-infantry-support_-_ImagesSTL_1.jpg"
+width="688"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="344"
+data-flex-basis="825px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-tank-fancy-mbt-infantry-support" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-tank-fancy-mbt-infantry-support&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-tank-fancy-mbt-infantry-support&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Predators SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny tanks! The perfect thing to give a sense of scale to your tiny titans, tiny aircraft, or tiny anything! Add them as base decoration, add them as terrain decoration, create tiny war dioramas, do whatever you want with them! Anything is made better with the addition of tiny tanks.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Do you like going faster than all of your tiny brethren? Do you like shooting more tiny bullets than them as well? Then this is the tiny tank for you! Souped up tiny engines! Tiny gatling guns AND tiny machine guns to make sure more tiny bullets are spent every time you pull the tiny trigger! What more could a tiny soldier want?
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Tiny tanks are intended for resin printers.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;~~~
+ImagesSTL_-_tiny-tank-fancy-mbt-infantry-support20200706-718-xmtok8_zip_unpack_woddish_tiny-tank-fancy-mbt-infantry-support_epicpredbodyhb_stl_.jpg
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;ImagesSTL_-&lt;em&gt;tiny-tank-fancy-mbt-infantry-support20200706-718-xmtok8_zip_unpack_woddish_tiny-tank-fancy-mbt-infantry-support_epicpredturretassault_stl&lt;/em&gt;.jpg
+~~~&lt;/p&gt;</description></item></channel></rss>
