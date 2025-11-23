@@ -99,11 +99,9 @@ Tiny Tank Classic APC by woddish https://www.thingiverse.com/thing:4397472
 
 Justification du tag SUP :
 
-    ~~~
-    This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
-    
-    ~~~
+This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
 
-  
+
+
 
 

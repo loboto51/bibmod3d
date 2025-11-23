@@ -158,14 +158,12 @@ Pictures of models are test prints.
 
 Justification du tag SUP :
 
-    ~~~
-    1. Components: individual components to print and pose as you desire. Includes the supported folder.
+1. Components: individual components to print and pose as you desire. Includes the supported folder.
 2. Poses: a number of arms and leg poses to make assembly quicker. Supported versions included.
 3. Complete: some example builds which you can use as an example or print as a single object. Supported versions included.
 All files come supported and unsupported.
-    
-    ~~~
 
-  
+
+
 
 

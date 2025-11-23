@@ -83,19 +83,9 @@ I'm going to create separate packs for hatch options and sponson weapons so that
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Lychee_Scenes_Falchion_lys_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Supported_STLs_Falchion_Cannon_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Supported_STLs_Falchion_Command__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Supported_STLs_Falchion__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Supported_STLs_Neutron_Wave_Cannon_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Unsupported_STLs_Falchion_Cannon_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Unsupported_STLs_Falchion_Command__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Unsupported_STLs_Falchion_Hull__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Unsupported_STLs_Neutron_Wave_Cannon_stl_.jpg
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_FL-Cheown_Super-Heavy_Tank_Destroyer_zip_unpack_Lychee_Scenes_Falchion_lys_.jpg
 
-  
+
 
 

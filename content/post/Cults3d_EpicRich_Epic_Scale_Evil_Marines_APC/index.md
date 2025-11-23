@@ -41,6 +41,8 @@ tags:
 
 ![](<thumbs_-_epic-scale-evil-marines-apc_-_Images_1.jpg> "thumbs_-_epic-scale-evil-marines-apc_-_Images_1.jpg")
 
+  ![](<thumbs_-_epic-scale-evil-marines-apc_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-evil-marines-apc_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://cults3d.com/en/3d-model/tool/epic-scale-evil-marines-apc](https://cults3d.com/en/3d-model/tool/epic-scale-evil-marines-apc)

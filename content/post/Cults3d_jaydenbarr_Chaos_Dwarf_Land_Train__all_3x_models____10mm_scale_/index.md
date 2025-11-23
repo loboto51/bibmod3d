@@ -62,11 +62,9 @@ Printed models shown. Plastic green bases (40mmx20mm) not included in files.
 
 Justification du tag SUP :
 
-    ~~~
-    **Files include supported and unsupported STL parts to build your models.**
-    
-    ~~~
+**Files include supported and unsupported STL parts to build your models.**
 
-  
+
+
 
 

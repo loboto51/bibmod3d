@@ -108,11 +108,9 @@ John Bear Ross (JBR)
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and Clean.
-    
-    ~~~
+Supported and Clean.
 
-  
+
+
 
 

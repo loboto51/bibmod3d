@@ -95,11 +95,9 @@ Unsupported, and I have not test printed them.
 
 Justification du tag SUP :
 
-    ~~~
-    Unsupported, and I have not test printed them.
-    
-    ~~~
+Unsupported, and I have not test printed them.
 
-  
+
+
 
 

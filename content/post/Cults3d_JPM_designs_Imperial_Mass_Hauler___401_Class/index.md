@@ -79,11 +79,9 @@ Mounting: 3 mm
 
 Justification du tag SUP :
 
-    ~~~
-    The 401’s massive internal holds and reinforced skeletal frame allow it to carry thousands of tons of bulk freight in standardized cargo containers, making it one of the most efficient load-bearing ships in Imperial service. Unlike its 404-class cousin, which relies on insulated tank systems, the 401 employs open-bay cargo modules supported by magnetic clamps and pressure-sealed loading corridors, enabling rapid reconfiguration depending on mission or contract.
-    
-    ~~~
+The 401’s massive internal holds and reinforced skeletal frame allow it to carry thousands of tons of bulk freight in standardized cargo containers, making it one of the most efficient load-bearing ships in Imperial service. Unlike its 404-class cousin, which relies on insulated tank systems, the 401 employs open-bay cargo modules supported by magnetic clamps and pressure-sealed loading corridors, enabling rapid reconfiguration depending on mission or contract.
 
-  
+
+
 
 

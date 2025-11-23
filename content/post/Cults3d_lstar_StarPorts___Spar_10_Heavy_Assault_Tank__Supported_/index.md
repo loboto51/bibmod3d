@@ -84,11 +84,9 @@ ToDo:
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_Spar-10_Heavy_Assault_Tank_zip_unpack_Lychee_Scenes_Spartan_Hulls_lys_.jpg
 
-  
+
 
 

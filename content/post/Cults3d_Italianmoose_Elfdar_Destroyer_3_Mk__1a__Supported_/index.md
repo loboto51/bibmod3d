@@ -101,12 +101,10 @@ I am not affiliated with GW in any way! Please don't reupload this on Shapeways 
 
 Justification du tag SUP :
 
-    ~~~
-    A supported version of https://cults3d.com/en/3d-model/game/elfdar-destroyer-3-mk-1a
+A supported version of https://cults3d.com/en/3d-model/game/elfdar-destroyer-3-mk-1a
 2021-09-09 - Added a differently supported Shadowhunter as there may have been a few issues with the current one
-    
-    ~~~
 
-  
+
+
 
 

@@ -116,11 +116,9 @@ I have included pre-supported and non supported parts for your modifications nee
 
 Justification du tag SUP :
 
-    ~~~
-    I have included pre-supported and non supported parts for your modifications needs
-    
-    ~~~
+I have included pre-supported and non supported parts for your modifications needs
 
-  
+
+
 
 

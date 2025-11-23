@@ -159,9 +159,8 @@ If I missed any attributions please let me know and I will add you. I started on
 
 Justification du tag SUP :
 
-    ~~~
-    I have included supported .lys files for those who don't want the hassle of supporting them yourself. The supports are way more janky and not as nice as MoonJam's, but they do print. I have test printed them and they work.
-    ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Captain_Stern_lys_.jpg
+I have included supported .lys files for those who don't want the hassle of supporting them yourself. The supports are way more janky and not as nice as MoonJam's, but they do print. I have test printed them and they work.
+ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Captain_Stern_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Justicar_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Kaldor_Draigo_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Psycannon_1_lys_.jpg
@@ -171,8 +170,7 @@ ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Terminator_3_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Terminator_4_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-terminating-dudes20220103-752-10w06fc_zip_unpack_itsgentleben_epic-silver-paladin-terminating-dudes_Terminator_Armoured_Grey_Knights_zip_unpack_Terminator_Armoured_Grey_Knights_Supported_Terminator_5_lys_.jpg
-    ~~~
 
-  
+
 
 

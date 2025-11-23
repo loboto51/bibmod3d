@@ -119,11 +119,9 @@ JBR
 
 Justification du tag SUP :
 
-    ~~~
-    Now with Pre-supported versions!
-    
-    ~~~
+Now with Pre-supported versions!
 
-  
+
+
 
 

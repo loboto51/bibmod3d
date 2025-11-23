@@ -144,11 +144,9 @@ I am an amateur enthusiast 3D designer, and appreciate all constructive feedback
 
 Justification du tag SUP :
 
-    ~~~
-    Included are supported and unsupported versions of the file, plus a slightly scaled up version with larger studs.
-    
-    ~~~
+Included are supported and unsupported versions of the file, plus a slightly scaled up version with larger studs.
 
-  
+
+
 
 

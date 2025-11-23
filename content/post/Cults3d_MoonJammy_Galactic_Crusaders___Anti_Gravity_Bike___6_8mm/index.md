@@ -76,13 +76,9 @@ Please bear in mind that these miniatures have extremely fragile parts despite m
 
 Justification du tag SUP :
 
-    ~~~
-    *added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards*
-    ImagesSTL_-_galactic-crusaders-anti-gravity-bike-6-8mm20201105-23166-i1bcx7_zip_unpack_MoonJammy_galactic-crusaders-anti-gravity-bike-6-8mm_NoSup_AGB_E_P_stl_.jpg
-ImagesSTL_-_galactic-crusaders-anti-gravity-bike-6-8mm20201105-23166-i1bcx7_zip_unpack_MoonJammy_galactic-crusaders-anti-gravity-bike-6-8mm_NoSup_AGB_M_P_stl_.jpg
-ImagesSTL_-_galactic-crusaders-anti-gravity-bike-6-8mm20201105-23166-i1bcx7_zip_unpack_MoonJammy_galactic-crusaders-anti-gravity-bike-6-8mm_NoSup_AGB_R_P_stl_.jpg
-    ~~~
+*added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards*
 
-  
+
+
 
 

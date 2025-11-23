@@ -286,9 +286,8 @@ TODO:
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Riveted__Unsupported__Mk2_Riveted_Mk2_Banner_stl_.jpg
+
+ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Riveted__Unsupported__Mk2_Riveted_Mk2_Banner_stl_.jpg
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Riveted__Unsupported__Mk2_Riveted_Mk2_Basic_stl_.jpg
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Riveted__Unsupported__Mk2_Riveted_Mk2_Binos_stl_.jpg
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Riveted__Unsupported__Mk2_Riveted_Mk2_HeavyBolter_stl_.jpg
@@ -423,8 +422,7 @@ ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Windowed__Unsupported_
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Windowed__Unsupported__Mk6_Windowed_Mk6_Map_stl_.jpg
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Windowed__Unsupported__Mk6_Windowed_Mk6_MultiMelta_stl_.jpg
 ImagesSTL_-_DaffMakes_x_StarPorts_-_Hatch_Pack_zip_unpack_Windowed__Unsupported__Mk6_Windowed_Mk6_Sword_stl_.jpg
-    ~~~
 
-  
+
 
 

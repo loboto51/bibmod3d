@@ -93,11 +93,9 @@ Suitable in size and armament for a stand in for a Dragonship for the classic ta
 
 Justification du tag SUP :
 
-    ~~~
-    Suitable in size and armament for a stand in for a Dragonship for the classic tabletop wargame Battlefleet Gothic. This is a supported version of https://cults3d.com/en/3d-model/game/elfdar-cruiser-4-mk-1a
-    
-    ~~~
+Suitable in size and armament for a stand in for a Dragonship for the classic tabletop wargame Battlefleet Gothic. This is a supported version of https://cults3d.com/en/3d-model/game/elfdar-cruiser-4-mk-1a
 
-  
+
+
 
 

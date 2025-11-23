@@ -36,32 +36,32 @@ tags:
 - "GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc"
 - "epic GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc"
 - "vehicules GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc"
-- "SUP"
-- "epic SUP"
-- "vehicules SUP"
-- "epic vehicules SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "vehicules GI SUP"
-- "epic vehicules GI SUP"
-- "Imp-chars-artillerie SUP"
-- "epic Imp-chars-artillerie SUP"
-- "vehicules Imp-chars-artillerie SUP"
-- "epic vehicules Imp-chars-artillerie SUP"
-- "GI Imp-chars-artillerie SUP"
-- "epic GI Imp-chars-artillerie SUP"
-- "vehicules GI Imp-chars-artillerie SUP"
-- "Imp-aa-hydres-manticores-etc SUP"
-- "epic Imp-aa-hydres-manticores-etc SUP"
-- "vehicules Imp-aa-hydres-manticores-etc SUP"
-- "epic vehicules Imp-aa-hydres-manticores-etc SUP"
-- "GI Imp-aa-hydres-manticores-etc SUP"
-- "epic GI Imp-aa-hydres-manticores-etc SUP"
-- "vehicules GI Imp-aa-hydres-manticores-etc SUP"
-- "Imp-chars-artillerie Imp-aa-hydres-manticores-etc SUP"
-- "epic Imp-chars-artillerie Imp-aa-hydres-manticores-etc SUP"
-- "vehicules Imp-chars-artillerie Imp-aa-hydres-manticores-etc SUP"
-- "GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "vehicules NONSUP"
+- "epic vehicules NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "vehicules GI NONSUP"
+- "epic vehicules GI NONSUP"
+- "Imp-chars-artillerie NONSUP"
+- "epic Imp-chars-artillerie NONSUP"
+- "vehicules Imp-chars-artillerie NONSUP"
+- "epic vehicules Imp-chars-artillerie NONSUP"
+- "GI Imp-chars-artillerie NONSUP"
+- "epic GI Imp-chars-artillerie NONSUP"
+- "vehicules GI Imp-chars-artillerie NONSUP"
+- "Imp-aa-hydres-manticores-etc NONSUP"
+- "epic Imp-aa-hydres-manticores-etc NONSUP"
+- "vehicules Imp-aa-hydres-manticores-etc NONSUP"
+- "epic vehicules Imp-aa-hydres-manticores-etc NONSUP"
+- "GI Imp-aa-hydres-manticores-etc NONSUP"
+- "epic GI Imp-aa-hydres-manticores-etc NONSUP"
+- "vehicules GI Imp-aa-hydres-manticores-etc NONSUP"
+- "Imp-chars-artillerie Imp-aa-hydres-manticores-etc NONSUP"
+- "epic Imp-chars-artillerie Imp-aa-hydres-manticores-etc NONSUP"
+- "vehicules Imp-chars-artillerie Imp-aa-hydres-manticores-etc NONSUP"
+- "GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc NONSUP"
 
 ---
 
@@ -86,7 +86,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc  SUP
+- epic vehicules GI Imp-chars-artillerie Imp-aa-hydres-manticores-etc  NONSUP
 
 
 Description :
@@ -103,13 +103,6 @@ Perfect for playing the various editions of Epic, surface flak in Aeronautica Im
 2021-04-23: Added a ZIP with a hull that has no details on the underside of the tracks, greatly reducing islands.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_epic-scale-anti-air-artillery20210423-22882-1ugdq80_zip_unpack_Mkhand_Industries_epic-scale-anti-air-artillery_Update_zip_unpack_Epic_Scale_Stygies_Turret_1_2_support_stl_.jpg
-    ~~~
-
-  
 
 

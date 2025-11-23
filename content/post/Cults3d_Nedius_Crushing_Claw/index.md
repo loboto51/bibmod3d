@@ -428,11 +428,9 @@ I am an amateur enthusiast 3D designer, and appreciate all support and construct
 
 Justification du tag SUP :
 
-    ~~~
-     This model is a single model and comes unsupported. There will be a future version in kit form with supported parts.
-    
-    ~~~
+ This model is a single model and comes unsupported. There will be a future version in kit form with supported parts.
 
-  
+
+
 
 

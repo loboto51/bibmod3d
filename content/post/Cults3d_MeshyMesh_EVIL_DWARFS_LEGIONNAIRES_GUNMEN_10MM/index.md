@@ -62,11 +62,9 @@ Happy gaming!
 
 Justification du tag SUP :
 
-    ~~~
-    Strips also come with a supported option.
-    
-    ~~~
+Strips also come with a supported option.
 
-  
+
+
 
 

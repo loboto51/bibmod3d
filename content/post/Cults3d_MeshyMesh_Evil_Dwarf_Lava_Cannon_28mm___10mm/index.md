@@ -69,13 +69,11 @@ Flame on!
 
 Justification du tag SUP :
 
-    ~~~
-    Files come pre-supported and unsupported.
+Files come pre-supported and unsupported.
 *21/09/23 ADDED: three new crew, see picture. They have their own zip and come supported and unsupported*
 *21/09/23 ADDED: alternative cannon. This one has an angled cannon, lava sculpt changed, alternative motif on cannon. Comes supported and unsupported. The other parts like the platform can of course still be used with this alternative too.
-    
-    ~~~
 
-  
+
+
 
 

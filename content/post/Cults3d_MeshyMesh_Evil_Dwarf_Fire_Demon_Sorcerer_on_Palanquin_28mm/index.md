@@ -72,11 +72,9 @@ Pictures of models are test prints and shown with Fireborn unit for scale.
 
 Justification du tag SUP :
 
-    ~~~
-    Files come pre-supported and unsupported. 
-    
-    ~~~
+Files come pre-supported and unsupported. 
 
-  
+
+
 
 

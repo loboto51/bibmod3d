@@ -153,14 +153,9 @@ The heavy supports only make contact with the pseudo-rafts so you can yank them 
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_StarPorts_-_Stackable_T-Ermine-8Rs_zip_unpack_STLs_Support_Chains_Medic_2x2_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_T-Ermine-8Rs_zip_unpack_STLs_Support_Chains_Medic_2x3_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_T-Ermine-8Rs_zip_unpack_STLs_Support_Fists_Sergeant_2x2_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_T-Ermine-8Rs_zip_unpack_STLs_Support_Fists_Sergeant_2x3_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_StarPorts_-_Stackable_T-Ermine-8Rs_zip_unpack_Lychee_Scenes_Stackable_Terminators_lys_.jpg
+
+
 
 

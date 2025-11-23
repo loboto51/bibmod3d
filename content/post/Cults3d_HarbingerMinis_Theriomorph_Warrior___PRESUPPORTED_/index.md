@@ -48,6 +48,8 @@ tags:
 
 ![](<thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg")
 
+  ![](<thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.jpg")
+
   ![](<thumbs_-_theriomorph-warrior-presupported_-_Makes_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_Makes_1.jpg")
 
   

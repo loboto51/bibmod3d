@@ -88,11 +88,9 @@ Want a consistent look for your entire army? Check out the Epic Infantry Base Bu
 
 Justification du tag SUP :
 
-    ~~~
-    An easy-to-use tool for creating awesome ready-to-print bases for small scale wargames. Open this streamlined builder in Blender (3.4+)  to quickly generate supported bases for any vehicle in just a few clicks.
-    
-    ~~~
+An easy-to-use tool for creating awesome ready-to-print bases for small scale wargames. Open this streamlined builder in Blender (3.4+)  to quickly generate supported bases for any vehicle in just a few clicks.
 
-  
+
+
 
 

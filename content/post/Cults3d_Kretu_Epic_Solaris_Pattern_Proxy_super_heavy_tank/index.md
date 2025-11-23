@@ -21,21 +21,21 @@ tags:
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
 - "epic superlourds GI Baneblades"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades SUP"
-- "epic Baneblades SUP"
-- "superlourds Baneblades SUP"
-- "epic superlourds Baneblades SUP"
-- "GI Baneblades SUP"
-- "epic GI Baneblades SUP"
-- "superlourds GI Baneblades SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades NONSUP"
+- "epic Baneblades NONSUP"
+- "superlourds Baneblades NONSUP"
+- "epic superlourds Baneblades NONSUP"
+- "GI Baneblades NONSUP"
+- "epic GI Baneblades NONSUP"
+- "superlourds GI Baneblades NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades  SUP
+- epic superlourds GI Baneblades  NONSUP
 
 
 Description :
@@ -78,19 +78,6 @@ Updates:
 22/01/24 - added hull with new type sponsons that point both ways, 3 weapon options included, also turret wariant with short heavy cannon and another with commander in the hatch
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeSolarisPatternHull_ACsponsons1_1_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeSolarisPatternHull_HBsponsonsV1_1_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeSolarisPatternHull_HFsponsonsV1_1_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeSolarisPatternHullV1_1_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeTurretSolarisPatternCommanderV1_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeTurretSolarisPatternHellhammer_stl_.jpg
-ImagesSTL_-_epic-solaris-pattern-proxy-super-heavy-tank20240122-510433-ghm80h_zip_unpack_Kretu_epic-solaris-pattern-proxy-super-heavy-tank_BanebladeTurretSolarisPatternV1_stl_.jpg
-    ~~~
-
-  
 
 

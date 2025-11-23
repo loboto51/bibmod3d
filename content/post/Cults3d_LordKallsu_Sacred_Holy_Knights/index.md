@@ -110,12 +110,10 @@ Lastly, big thanks to:
 
 Justification du tag SUP :
 
-    ~~~
-    Now also included:  Sisters 1-5 A pre-supported
+Now also included:  Sisters 1-5 A pre-supported
 Also, **For Printing:**  Just rotate the model back (typically 45 degrees) and add auto-supports using light supports.  I did mine at 50% density because I love supports, and I have had no print issues.  One spot to look out for is the magazine on the bolt pistol, however.  I found that it was not supported on Sacresant 1 during my test print and the bottom of the magazine was warped slightly.
-    
-    ~~~
 
-  
+
+
 
 

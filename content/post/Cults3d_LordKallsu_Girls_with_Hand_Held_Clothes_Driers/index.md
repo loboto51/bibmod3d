@@ -62,48 +62,48 @@ tags:
 - "28mm HUMAINS Bits Builders"
 - "IMP HUMAINS Bits Builders"
 - "SOB HUMAINS Bits Builders"
-- "SUP"
-- "28mm SUP"
-- "IMP SUP"
-- "28mm IMP SUP"
-- "SOB SUP"
-- "28mm SOB SUP"
-- "IMP SOB SUP"
-- "28mm IMP SOB SUP"
-- "HUMAINS SUP"
-- "28mm HUMAINS SUP"
-- "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
-- "SOB HUMAINS SUP"
-- "28mm SOB HUMAINS SUP"
-- "IMP SOB HUMAINS SUP"
-- "Bits SUP"
-- "28mm Bits SUP"
-- "IMP Bits SUP"
-- "28mm IMP Bits SUP"
-- "SOB Bits SUP"
-- "28mm SOB Bits SUP"
-- "IMP SOB Bits SUP"
-- "HUMAINS Bits SUP"
-- "28mm HUMAINS Bits SUP"
-- "IMP HUMAINS Bits SUP"
-- "SOB HUMAINS Bits SUP"
-- "Builders SUP"
-- "28mm Builders SUP"
-- "IMP Builders SUP"
-- "28mm IMP Builders SUP"
-- "SOB Builders SUP"
-- "28mm SOB Builders SUP"
-- "IMP SOB Builders SUP"
-- "HUMAINS Builders SUP"
-- "28mm HUMAINS Builders SUP"
-- "IMP HUMAINS Builders SUP"
-- "SOB HUMAINS Builders SUP"
-- "Bits Builders SUP"
-- "28mm Bits Builders SUP"
-- "IMP Bits Builders SUP"
-- "SOB Bits Builders SUP"
-- "HUMAINS Bits Builders SUP"
+- "NONSUP"
+- "28mm NONSUP"
+- "IMP NONSUP"
+- "28mm IMP NONSUP"
+- "SOB NONSUP"
+- "28mm SOB NONSUP"
+- "IMP SOB NONSUP"
+- "28mm IMP SOB NONSUP"
+- "HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "28mm IMP HUMAINS NONSUP"
+- "SOB HUMAINS NONSUP"
+- "28mm SOB HUMAINS NONSUP"
+- "IMP SOB HUMAINS NONSUP"
+- "Bits NONSUP"
+- "28mm Bits NONSUP"
+- "IMP Bits NONSUP"
+- "28mm IMP Bits NONSUP"
+- "SOB Bits NONSUP"
+- "28mm SOB Bits NONSUP"
+- "IMP SOB Bits NONSUP"
+- "HUMAINS Bits NONSUP"
+- "28mm HUMAINS Bits NONSUP"
+- "IMP HUMAINS Bits NONSUP"
+- "SOB HUMAINS Bits NONSUP"
+- "Builders NONSUP"
+- "28mm Builders NONSUP"
+- "IMP Builders NONSUP"
+- "28mm IMP Builders NONSUP"
+- "SOB Builders NONSUP"
+- "28mm SOB Builders NONSUP"
+- "IMP SOB Builders NONSUP"
+- "HUMAINS Builders NONSUP"
+- "28mm HUMAINS Builders NONSUP"
+- "IMP HUMAINS Builders NONSUP"
+- "SOB HUMAINS Builders NONSUP"
+- "Bits Builders NONSUP"
+- "28mm Bits Builders NONSUP"
+- "IMP Bits Builders NONSUP"
+- "SOB Bits Builders NONSUP"
+- "HUMAINS Bits Builders NONSUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP SOB HUMAINS Bits Builders  SUP
+- 28mm IMP SOB HUMAINS Bits Builders  NONSUP
 
 
 Description :
@@ -139,13 +139,6 @@ These four unique girls are looking to fill special weapons positions within you
 But, wait!  That's not all!  Also included is a variation on Harley carrying a classified, super-secret, Ultra-Shushed Sniper Flame Rifle!
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_girls-with-hand-held-clothes-driers20210908-769977-1ft8ths_zip_unpack_LordKallsu_girls-with-hand-held-clothes-driers_Super_Secret_Ultra_Flamer_Sushed_Sniper_Rifle_Variant_stl_.jpg
-    ~~~
-
-  
 
 

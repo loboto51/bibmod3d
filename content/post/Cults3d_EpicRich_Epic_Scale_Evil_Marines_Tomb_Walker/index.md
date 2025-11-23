@@ -21,25 +21,27 @@ tags:
 - "epic SMC Sm-dreadnoughts"
 - "marcheurs SMC Sm-dreadnoughts"
 - "epic marcheurs SMC Sm-dreadnoughts"
-- "NONSUP"
-- "epic NONSUP"
-- "marcheurs NONSUP"
-- "epic marcheurs NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "marcheurs SMC NONSUP"
-- "epic marcheurs SMC NONSUP"
-- "Sm-dreadnoughts NONSUP"
-- "epic Sm-dreadnoughts NONSUP"
-- "marcheurs Sm-dreadnoughts NONSUP"
-- "epic marcheurs Sm-dreadnoughts NONSUP"
-- "SMC Sm-dreadnoughts NONSUP"
-- "epic SMC Sm-dreadnoughts NONSUP"
-- "marcheurs SMC Sm-dreadnoughts NONSUP"
+- "SUP"
+- "epic SUP"
+- "marcheurs SUP"
+- "epic marcheurs SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "marcheurs SMC SUP"
+- "epic marcheurs SMC SUP"
+- "Sm-dreadnoughts SUP"
+- "epic Sm-dreadnoughts SUP"
+- "marcheurs Sm-dreadnoughts SUP"
+- "epic marcheurs Sm-dreadnoughts SUP"
+- "SMC Sm-dreadnoughts SUP"
+- "epic SMC Sm-dreadnoughts SUP"
+- "marcheurs SMC Sm-dreadnoughts SUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-evil-marines-tomb-walker_-_Images_1.jpg> "thumbs_-_epic-scale-evil-marines-tomb-walker_-_Images_1.jpg")
+
+  ![](<thumbs_-_epic-scale-evil-marines-tomb-walker_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-evil-marines-tomb-walker_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic marcheurs SMC Sm-dreadnoughts  NONSUP
+- epic marcheurs SMC Sm-dreadnoughts  SUP
 
 
 Description :
@@ -96,6 +98,20 @@ https://www.thingiverse.com/thing:1683090
 slavikk for the low poly skull
 https://www.thingiverse.com/thing:906562
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought1_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought2_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Autocannon1_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Autocannon2_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Chainfist_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Claw_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Doomscythe_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Hammer_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Twin_HeavyBolter1_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-tomb-walker20210907-24489-55mfms_zip_unpack_EpicRich_epic-scale-evil-marines-tomb-walker_Chaos_Dreadnought_Twin_HeavyBolter2_Supported_stl_.jpg
 
 
 

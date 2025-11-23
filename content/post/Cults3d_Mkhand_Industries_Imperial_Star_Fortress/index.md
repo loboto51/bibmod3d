@@ -71,11 +71,9 @@ Perfect for games of Battlefleet Gothic and other space games. The Basilica piec
 
 Justification du tag SUP :
 
-    ~~~
-    The Imperial Navy makes extensive use of orbital platforms, space stations, and other such facilities. The largest of these are capable of holding off small fleets of enemy vessels unsupported while still able to resupply & repair all but the most crippled ships of the line. 
-    
-    ~~~
+The Imperial Navy makes extensive use of orbital platforms, space stations, and other such facilities. The largest of these are capable of holding off small fleets of enemy vessels unsupported while still able to resupply & repair all but the most crippled ships of the line. 
 
-  
+
+
 
 

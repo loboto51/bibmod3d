@@ -119,11 +119,9 @@ JBR
 
 Justification du tag SUP :
 
-    ~~~
-    Supported versions have a lot of tiny sub-supports that you will want to flick out after curing, especially on barrel 3.  It seemed the only way to save that spiraling effect.
-    
-    ~~~
+Supported versions have a lot of tiny sub-supports that you will want to flick out after curing, especially on barrel 3.  It seemed the only way to save that spiraling effect.
 
-  
+
+
 
 

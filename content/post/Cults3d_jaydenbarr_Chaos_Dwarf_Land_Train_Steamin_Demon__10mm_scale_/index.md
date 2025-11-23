@@ -58,11 +58,9 @@ Printed model shown. Plastic green base (40mmx20mm) not included in files.
 
 Justification du tag SUP :
 
-    ~~~
-    **Files include supported and unsupported STL parts to build your model. 2x copies of the exhaust stacks, 2x copies of the large wheel and 4x copies of the small wheel will need to be printed! 2x alternative boiler fronts are included.**
-    
-    ~~~
+**Files include supported and unsupported STL parts to build your model. 2x copies of the exhaust stacks, 2x copies of the large wheel and 4x copies of the small wheel will need to be printed! 2x alternative boiler fronts are included.**
 
-  
+
+
 
 

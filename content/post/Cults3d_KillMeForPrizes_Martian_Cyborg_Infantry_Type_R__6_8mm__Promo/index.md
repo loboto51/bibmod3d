@@ -13,14 +13,14 @@ tags:
 - "epic AM"
 - "infanterie AM"
 - "epic infanterie AM"
-- "Thallax"
-- "epic Thallax"
-- "infanterie Thallax"
-- "epic infanterie Thallax"
-- "AM Thallax"
-- "epic AM Thallax"
-- "infanterie AM Thallax"
-- "epic infanterie AM Thallax"
+- "Humains-tactiques"
+- "epic Humains-tactiques"
+- "infanterie Humains-tactiques"
+- "epic infanterie Humains-tactiques"
+- "AM Humains-tactiques"
+- "epic AM Humains-tactiques"
+- "infanterie AM Humains-tactiques"
+- "epic infanterie AM Humains-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -29,13 +29,13 @@ tags:
 - "epic AM NONDL"
 - "infanterie AM NONDL"
 - "epic infanterie AM NONDL"
-- "Thallax NONDL"
-- "epic Thallax NONDL"
-- "infanterie Thallax NONDL"
-- "epic infanterie Thallax NONDL"
-- "AM Thallax NONDL"
-- "epic AM Thallax NONDL"
-- "infanterie AM Thallax NONDL"
+- "Humains-tactiques NONDL"
+- "epic Humains-tactiques NONDL"
+- "infanterie Humains-tactiques NONDL"
+- "epic infanterie Humains-tactiques NONDL"
+- "AM Humains-tactiques NONDL"
+- "epic AM Humains-tactiques NONDL"
+- "infanterie AM Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -44,13 +44,13 @@ tags:
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
 - "epic infanterie AM NONSUP"
-- "Thallax NONSUP"
-- "epic Thallax NONSUP"
-- "infanterie Thallax NONSUP"
-- "epic infanterie Thallax NONSUP"
-- "AM Thallax NONSUP"
-- "epic AM Thallax NONSUP"
-- "infanterie AM Thallax NONSUP"
+- "Humains-tactiques NONSUP"
+- "epic Humains-tactiques NONSUP"
+- "infanterie Humains-tactiques NONSUP"
+- "epic infanterie Humains-tactiques NONSUP"
+- "AM Humains-tactiques NONSUP"
+- "epic AM Humains-tactiques NONSUP"
+- "infanterie AM Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
@@ -58,10 +58,10 @@ tags:
 - "AM NONDL NONSUP"
 - "epic AM NONDL NONSUP"
 - "infanterie AM NONDL NONSUP"
-- "Thallax NONDL NONSUP"
-- "epic Thallax NONDL NONSUP"
-- "infanterie Thallax NONDL NONSUP"
-- "AM Thallax NONDL NONSUP"
+- "Humains-tactiques NONDL NONSUP"
+- "epic Humains-tactiques NONDL NONSUP"
+- "infanterie Humains-tactiques NONDL NONSUP"
+- "AM Humains-tactiques NONDL NONSUP"
 
 ---
 
@@ -77,12 +77,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie AM Thallax
+- epic infanterie AM Humains-tactiques
 
 
 Collections pour tags :
 
-- epic infanterie AM Thallax NONDL NONSUP
+- epic infanterie AM Humains-tactiques NONDL NONSUP
 
 
 Description :

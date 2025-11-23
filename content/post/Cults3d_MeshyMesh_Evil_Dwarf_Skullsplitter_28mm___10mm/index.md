@@ -63,11 +63,9 @@ Happy printing and cracking them skulls!
 
 Justification du tag SUP :
 
-    ~~~
-    Files come pre-supported and unsupported.
-    
-    ~~~
+Files come pre-supported and unsupported.
 
-  
+
+
 
 

@@ -127,11 +127,9 @@ Thanks!
 
 Justification du tag SUP :
 
-    ~~~
-    https://cults3d.com/en/3d-model/game/project-quixote-28mm-dieselpunk-modular-pre-supported-mech-kit
-    
-    ~~~
+https://cults3d.com/en/3d-model/game/project-quixote-28mm-dieselpunk-modular-pre-supported-mech-kit
 
-  
+
+
 
 

@@ -110,11 +110,9 @@ JBR
 
 Justification du tag SUP :
 
-    ~~~
-    Clean and supported files included.  
-    
-    ~~~
+Clean and supported files included.  
 
-  
+
+
 
 

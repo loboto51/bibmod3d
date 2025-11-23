@@ -74,13 +74,11 @@ Tiny Tank Fancy Assault APC by woddish https://www.thingiverse.com/thing:4370780
 
 Justification du tag SUP :
 
-    ~~~
-    This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
-    ImagesSTL_-_epic-scale-galactic-crusaders-weaponized-apc20210331-16846-e5wigm_zip_unpack_JahnZizka_epic-scale-galactic-crusaders-weaponized-apc_Razorback_Heavy_Bolter_unsupported_stl_.jpg
+This is simply a remix from existing amazing models. Just modified it a little to make it easier to support and provide the presupported version.
+ImagesSTL_-_epic-scale-galactic-crusaders-weaponized-apc20210331-16846-e5wigm_zip_unpack_JahnZizka_epic-scale-galactic-crusaders-weaponized-apc_Razorback_Heavy_Bolter_unsupported_stl_.jpg
 ImagesSTL_-_epic-scale-galactic-crusaders-weaponized-apc20210331-16846-e5wigm_zip_unpack_JahnZizka_epic-scale-galactic-crusaders-weaponized-apc_Razorback_Lascannon_unsupported_stl_.jpg
 ImagesSTL_-_epic-scale-galactic-crusaders-weaponized-apc20210331-16846-e5wigm_zip_unpack_JahnZizka_epic-scale-galactic-crusaders-weaponized-apc_Razorback_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

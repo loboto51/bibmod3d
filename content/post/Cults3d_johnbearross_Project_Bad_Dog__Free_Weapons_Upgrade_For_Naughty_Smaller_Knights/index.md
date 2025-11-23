@@ -225,12 +225,10 @@ All .stl files optimized for printing on resin 3d printers.
 
 Justification du tag SUP :
 
-    ~~~
-    -UPDATE: The missile launchers were a little big for my taste, so I have included 12 new files (supported and clean) for launchers reduced about 15%.  Either can be used.  Also, if you're using the mounting peg, some sanding/filing may be necessary, especially after paint.
+-UPDATE: The missile launchers were a little big for my taste, so I have included 12 new files (supported and clean) for launchers reduced about 15%.  Either can be used.  Also, if you're using the mounting peg, some sanding/filing may be necessary, especially after paint.
 Supported and Clean versions of all files are in the zipped folders.
-    
-    ~~~
 
-  
+
+
 
 

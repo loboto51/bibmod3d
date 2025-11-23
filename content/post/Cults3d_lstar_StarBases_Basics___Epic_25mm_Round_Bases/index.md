@@ -87,11 +87,9 @@ To scared to open Blender? Message me and I can generate bases to meet your requ
 
 Justification du tag SUP :
 
-    ~~~
-    -Unsupported bases included for FDM printing
-    
-    ~~~
+-Unsupported bases included for FDM printing
 
-  
+
+
 
 

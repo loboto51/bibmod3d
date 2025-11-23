@@ -137,11 +137,9 @@ I put some supported files for resin printers in here as well.
 
 Justification du tag SUP :
 
-    ~~~
-    I put some supported files for resin printers in here as well.
-    
-    ~~~
+I put some supported files for resin printers in here as well.
 
-  
+
+
 
 

@@ -82,19 +82,9 @@ I'm going to create separate packs for hatch options and sponson weapons so that
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Lychee_Scenes_Fellblade_lys_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Supported_STLs_Cylinder_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Supported_STLs_Fellblade__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Supported_STLs_Fellblade_Turret__Command__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Supported_STLs_Fellblade_Turret_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Unsupported_STLs_Fellblade__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Unsupported_STLs_Fellblade_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Unsupported_STLs_Fellblade_Turret_Command_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Unsupported_STLs_Fellblade_Turret_stl_.jpg
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_FL-Plaid_Super-Heavy_Battle_Tank_zip_unpack_Lychee_Scenes_Fellblade_lys_.jpg
 
-  
+
 
 

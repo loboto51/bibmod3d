@@ -157,14 +157,12 @@ Pictured in the background are the [Rapture Heavy Stalkers](https://cults3d.com/
 
 Justification du tag SUP :
 
-    ~~~
-    1. Supported: individual components to print and pose as you desire.
+1. Supported: individual components to print and pose as you desire.
 2. Unsupported: as above but supported.
 3. Complete: some example builds which you can use as an example or print as a single object. Supported versions included.
 All files come supported and unsupported.
-    
-    ~~~
 
-  
+
+
 
 

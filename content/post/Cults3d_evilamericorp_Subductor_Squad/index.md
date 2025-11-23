@@ -67,6 +67,8 @@ tags:
 
 ![](<thumbs_-_subductor-squad_-_Images_1.jpg> "thumbs_-_subductor-squad_-_Images_1.jpg")
 
+  ![](<thumbs_-_subductor-squad_-_ImagesSTL_1.jpg> "thumbs_-_subductor-squad_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://cults3d.com/en/3d-model/game/subductor-squad](https://cults3d.com/en/3d-model/game/subductor-squad)

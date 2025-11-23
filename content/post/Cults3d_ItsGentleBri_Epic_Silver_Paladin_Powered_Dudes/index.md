@@ -167,9 +167,8 @@ Added in a Banner remix by the fantastic Dave with parts from DavikDesigns, Gobo
 
 Justification du tag SUP :
 
-    ~~~
-    I have included supported .lys files for those who don't want the hassle of supporting them yourself. The supports are way more janky and not as nice as MoonJam's, but they do print. I have test printed them and they work.
-    ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Interceptor_Supported_Interceptor_Incinerator_lys_.jpg
+I have included supported .lys files for those who don't want the hassle of supporting them yourself. The supports are way more janky and not as nice as MoonJam's, but they do print. I have test printed them and they work.
+ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Interceptor_Supported_Interceptor_Incinerator_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Interceptor_Supported_Interceptor_Justicar_1_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Interceptor_Supported_Interceptor_Justicar_2_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Interceptor_Supported_Interceptor_Pose_1_lys_.jpg
@@ -194,8 +193,7 @@ ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_it
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Strike__Purgation__and_Purifier_Supported_Pose_8_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Strike__Purgation__and_Purifier_Supported_Pose_9_lys_.jpg
 ImagesSTL_-_epic-silver-paladin-powered-dudes20220103-19072-owq58c_zip_unpack_itsgentleben_epic-silver-paladin-powered-dudes_Power_Armoured_Grey_Knights_zip_unpack_Power_Armoured_Grey_Knights_Strike__Purgation__and_Purifier_Supported_Psycannon_lys_.jpg
-    ~~~
 
-  
+
 
 

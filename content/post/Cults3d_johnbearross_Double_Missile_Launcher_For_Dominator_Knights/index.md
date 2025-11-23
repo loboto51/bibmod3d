@@ -111,11 +111,9 @@ JBR
 
 Justification du tag SUP :
 
-    ~~~
-    Five parts, supported and clean.
-    
-    ~~~
+Five parts, supported and clean.
 
-  
+
+
 
 

@@ -101,12 +101,10 @@ Please note that you are not able to sell prints of these files.
 
 Justification du tag SUP :
 
-    ~~~
-    These are based off the really old concept sketchs for the Space Fleet models. This is escort sized (~40 mm long), and comes with several different weapons fits: Torpedo tubes, lances, or a assault module nose. Supported and plain files.
+These are based off the really old concept sketchs for the Space Fleet models. This is escort sized (~40 mm long), and comes with several different weapons fits: Torpedo tubes, lances, or a assault module nose. Supported and plain files.
 2021-12-04 - Big shout out to DoubleBaseFanatic who has test printed and re-supported these for transparent resins which are much more fussy about support proximity.
-    
-    ~~~
 
-  
+
+
 
 

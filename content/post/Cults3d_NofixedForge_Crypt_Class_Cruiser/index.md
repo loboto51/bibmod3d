@@ -120,11 +120,9 @@ EDIT:
 
 Justification du tag SUP :
 
-    ~~~
-    (Also pre-supported files)
-    
-    ~~~
+(Also pre-supported files)
 
-  
+
+
 
 

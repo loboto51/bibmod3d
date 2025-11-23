@@ -62,48 +62,48 @@ tags:
 - "epic SMC Sm-tactiques SM30K"
 - "infanterie SMC Sm-tactiques SM30K"
 - "SMI SMC Sm-tactiques SM30K"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "SMC SUP"
-- "epic SMC SUP"
-- "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
-- "SMI SMC SUP"
-- "epic SMI SMC SUP"
-- "infanterie SMI SMC SUP"
-- "Sm-tactiques SUP"
-- "epic Sm-tactiques SUP"
-- "infanterie Sm-tactiques SUP"
-- "epic infanterie Sm-tactiques SUP"
-- "SMI Sm-tactiques SUP"
-- "epic SMI Sm-tactiques SUP"
-- "infanterie SMI Sm-tactiques SUP"
-- "SMC Sm-tactiques SUP"
-- "epic SMC Sm-tactiques SUP"
-- "infanterie SMC Sm-tactiques SUP"
-- "SMI SMC Sm-tactiques SUP"
-- "SM30K SUP"
-- "epic SM30K SUP"
-- "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
-- "SMI SM30K SUP"
-- "epic SMI SM30K SUP"
-- "infanterie SMI SM30K SUP"
-- "SMC SM30K SUP"
-- "epic SMC SM30K SUP"
-- "infanterie SMC SM30K SUP"
-- "SMI SMC SM30K SUP"
-- "Sm-tactiques SM30K SUP"
-- "epic Sm-tactiques SM30K SUP"
-- "infanterie Sm-tactiques SM30K SUP"
-- "SMI Sm-tactiques SM30K SUP"
-- "SMC Sm-tactiques SM30K SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "SMC NONSUP"
+- "epic SMC NONSUP"
+- "infanterie SMC NONSUP"
+- "epic infanterie SMC NONSUP"
+- "SMI SMC NONSUP"
+- "epic SMI SMC NONSUP"
+- "infanterie SMI SMC NONSUP"
+- "Sm-tactiques NONSUP"
+- "epic Sm-tactiques NONSUP"
+- "infanterie Sm-tactiques NONSUP"
+- "epic infanterie Sm-tactiques NONSUP"
+- "SMI Sm-tactiques NONSUP"
+- "epic SMI Sm-tactiques NONSUP"
+- "infanterie SMI Sm-tactiques NONSUP"
+- "SMC Sm-tactiques NONSUP"
+- "epic SMC Sm-tactiques NONSUP"
+- "infanterie SMC Sm-tactiques NONSUP"
+- "SMI SMC Sm-tactiques NONSUP"
+- "SM30K NONSUP"
+- "epic SM30K NONSUP"
+- "infanterie SM30K NONSUP"
+- "epic infanterie SM30K NONSUP"
+- "SMI SM30K NONSUP"
+- "epic SMI SM30K NONSUP"
+- "infanterie SMI SM30K NONSUP"
+- "SMC SM30K NONSUP"
+- "epic SMC SM30K NONSUP"
+- "infanterie SMC SM30K NONSUP"
+- "SMI SMC SM30K NONSUP"
+- "Sm-tactiques SM30K NONSUP"
+- "epic Sm-tactiques SM30K NONSUP"
+- "infanterie Sm-tactiques SM30K NONSUP"
+- "SMI Sm-tactiques SM30K NONSUP"
+- "SMC Sm-tactiques SM30K NONSUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI SMC Sm-tactiques SM30K  SUP
+- epic infanterie SMI SMC Sm-tactiques SM30K  NONSUP
 
 
 Description :
@@ -151,29 +151,6 @@ Check out the [Floating Raft Stackable Conversion System](https://cults3d.com/en
 *Like what I'm doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Addons_1xBoarding_Armour_Sergeant_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Addons_1xPlate_Armour_Sergeant_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Addons_1xSegmented_Armour_Sergeant_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Custom_Stack_Components_10xBoarding_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Custom_Stack_Components_10xPlate_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Custom_Stack_Components_10xSegmented_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Custom_Stack_Components_6xPillar_Bases_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Custom_Stack_Components_6xPillars_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_20xBoarding_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_20xPlate_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_20xSegmented_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_30xBoarding_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_30xPlate_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_30xSegmented_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_40xBoarding_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_40xPlate_Armour_Heavy_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Support_Infantry_zip_unpack_Prebuilt_Stacks_40xSegmented_Armour_Heavy_stl_.jpg
-    ~~~
-
-  
 
 

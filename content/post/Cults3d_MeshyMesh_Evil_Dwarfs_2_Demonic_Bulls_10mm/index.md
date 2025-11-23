@@ -64,11 +64,9 @@ Enjoy!
 
 Justification du tag SUP :
 
-    ~~~
-    These files come supported and unsupported.
-    
-    ~~~
+These files come supported and unsupported.
 
-  
+
+
 
 

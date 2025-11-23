@@ -144,11 +144,9 @@ I am an amateur enthusiast 3D designer, and appreciate all constructive feedback
 
 Justification du tag SUP :
 
-    ~~~
-    This set includes 4 powered gauntlets, two holding the torn off heads of two different types of alien beast - a brutal ork, and a sinister soulstealer. The third holds a retro style space beaky helmet, and the fourth is empty, perhaps for you to add in your own head model! All four have supported versions.
-    
-    ~~~
+This set includes 4 powered gauntlets, two holding the torn off heads of two different types of alien beast - a brutal ork, and a sinister soulstealer. The third holds a retro style space beaky helmet, and the fourth is empty, perhaps for you to add in your own head model! All four have supported versions.
 
-  
+
+
 
 

@@ -76,12 +76,9 @@ added unsupported files, all meshes were originally designed to be rotated 25 de
 
 Justification du tag SUP :
 
-    ~~~
-    added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards
-    ImagesSTL_-_galactic-crusaders-bike-6-8mm20201105-9276-1afo275_zip_unpack_MoonJammy_galactic-crusaders-bike-6-8mm_NoSup_B_E_P_stl_.jpg
-ImagesSTL_-_galactic-crusaders-bike-6-8mm20201105-9276-1afo275_zip_unpack_MoonJammy_galactic-crusaders-bike-6-8mm_NoSup_B_R_P_stl_.jpg
-    ~~~
+added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards
 
-  
+
+
 
 

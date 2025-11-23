@@ -78,11 +78,9 @@ and on Facebook: https://www.facebook.com/Miniatures-Blueprint-103230428558691
 
 Justification du tag SUP :
 
-    ~~~
-    Pre-supported and unsupported version are provided
-    
-    ~~~
+Pre-supported and unsupported version are provided
 
-  
+
+
 
 

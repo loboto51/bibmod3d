@@ -103,11 +103,9 @@ FOR PERSONAL USE, NOT FOR RESALE AS A DIGITAL FILE OR PRINTED COPIES
 
 Justification du tag SUP :
 
-    ~~~
-    2 x pre-supported files for resin.
-    
-    ~~~
+2 x pre-supported files for resin.
 
-  
+
+
 
 

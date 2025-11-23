@@ -155,11 +155,9 @@ Please note that you are not able to sell prints of these files, nor redistribut
 
 Justification du tag SUP :
 
-    ~~~
-    2022-04-03 - Updated the supported versions as there were a few issues. The fighter and bomber are now nose-down which will hopefully print much better.
-    
-    ~~~
+2022-04-03 - Updated the supported versions as there were a few issues. The fighter and bomber are now nose-down which will hopefully print much better.
 
-  
+
+
 
 

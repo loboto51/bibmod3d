@@ -112,11 +112,9 @@ Bases: Me
 
 Justification du tag SUP :
 
-    ~~~
-    I've added 3 80mm bases both supported and unsupported
-    
-    ~~~
+I've added 3 80mm bases both supported and unsupported
 
-  
+
+
 
 

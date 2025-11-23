@@ -100,11 +100,9 @@ Please bear in mind that these miniatures have extremely fragile parts despite m
 
 Justification du tag SUP :
 
-    ~~~
-    *added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards*
-    
-    ~~~
+*added unsupported files, all meshes were originally designed to be rotated 25 degrees backwards*
 
-  
+
+
 
 

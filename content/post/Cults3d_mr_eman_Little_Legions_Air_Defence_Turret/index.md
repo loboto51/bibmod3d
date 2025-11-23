@@ -77,14 +77,12 @@ These files are presented free of charge, but if you'd like to offer a tip it wo
 
 Justification du tag SUP :
 
-    ~~~
-    There are two variants - turret facing forward between the legs, and turret aligned to one leg - and both supported and unsupported versions of each.
-    ImagesSTL_-_Little_Legions_Air_Defence_Turret_zip_unpack_Little_Legions_Air_Defence_Turret_-_forward_facing_-_supported_stl_.jpg
+There are two variants - turret facing forward between the legs, and turret aligned to one leg - and both supported and unsupported versions of each.
+ImagesSTL_-_Little_Legions_Air_Defence_Turret_zip_unpack_Little_Legions_Air_Defence_Turret_-_forward_facing_-_supported_stl_.jpg
 ImagesSTL_-_Little_Legions_Air_Defence_Turret_zip_unpack_Little_Legions_Air_Defence_Turret_-_forward_facing_-_unsupported_stl_.jpg
 ImagesSTL_-_Little_Legions_Air_Defence_Turret_zip_unpack_Little_Legions_Air_Defence_Turret_-_side_facing_-_supported_stl_.jpg
 ImagesSTL_-_Little_Legions_Air_Defence_Turret_zip_unpack_Little_Legions_Air_Defence_Turret_-_side_facing_-_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

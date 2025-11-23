@@ -108,11 +108,9 @@ https://cults3d.com/en/3d-model/art/galactic-crusaders-bike-6-8mm
 
 Justification du tag SUP :
 
-    ~~~
-    As with the other bikes, just some basic MK2 jobbies made using JimmyZimms excellent Blender Builder. I've included the stl files, the supported stl files and also the supported lychee files to help with re-scaling. They've printed fine for me but let me know if you have any problems, obviously. 
-    
-    ~~~
+As with the other bikes, just some basic MK2 jobbies made using JimmyZimms excellent Blender Builder. I've included the stl files, the supported stl files and also the supported lychee files to help with re-scaling. They've printed fine for me but let me know if you have any problems, obviously. 
 
-  
+
+
 
 

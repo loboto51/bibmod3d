@@ -85,11 +85,9 @@ https://cults3d.com/en/design-collections/NofixedForge/pharaoh-fleet
 
 Justification du tag SUP :
 
-    ~~~
-    Pharaoh Fleet  - Isesi Class Light Cruiser - Supported.
-    
-    ~~~
+Pharaoh Fleet  - Isesi Class Light Cruiser - Supported.
 
-  
+
+
 
 

@@ -87,11 +87,10 @@ ToDo:
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_Cerb-R-Us_Heavy_Tank_Destroyer_zip_unpack_Lychee_Scenes_Cerberus_Hull_lys_.jpg
+ImagesSTL_-_StarPorts_-_Cerb-R-Us_Heavy_Tank_Destroyer_zip_unpack_Sponsons_Sponsons_lys_.jpg
 
-  
+
 
 

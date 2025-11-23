@@ -58,11 +58,9 @@ Printed model shown. Plastic green base (40mmx20mm) not included in files. Steam
 
 Justification du tag SUP :
 
-    ~~~
-    **Files include supported and unsupported STL parts to build your model. 8x copies of the wheel will need to be printed!**
-    
-    ~~~
+**Files include supported and unsupported STL parts to build your model. 8x copies of the wheel will need to be printed!**
 
-  
+
+
 
 

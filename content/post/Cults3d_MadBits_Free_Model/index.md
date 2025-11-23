@@ -137,11 +137,9 @@ Enjoy!
 
 Justification du tag SUP :
 
-    ~~~
-    Free elite soldier model with pressupported files!
-    
-    ~~~
+Free elite soldier model with pressupported files!
 
-  
+
+
 
 

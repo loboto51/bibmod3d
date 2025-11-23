@@ -72,11 +72,9 @@ Pictures of models are test prints.
 
 Justification du tag SUP :
 
-    ~~~
-    Files come supported and unsupported.
-    
-    ~~~
+Files come supported and unsupported.
 
-  
+
+
 
 

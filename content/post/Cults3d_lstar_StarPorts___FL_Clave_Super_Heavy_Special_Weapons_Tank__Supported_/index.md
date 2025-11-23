@@ -82,17 +82,9 @@ I'm going to create separate packs for hatch options and sponson weapons so that
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Lychee_Scenes_Glaive_lys_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Supported_STLs_Cylinder_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Supported_STLs_Glaive__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Supported_STLs_Glaive_Turret_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Unsupported_STLs_Glaive_Hull__Scooped__stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Unsupported_STLs_Glaive_Hull_stl_.jpg
-ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Unsupported_STLs_Glaive_Turret_stl_.jpg
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_FL-Clave_Super-Heavy_Special_Weapons_Tank_zip_unpack_Lychee_Scenes_Glaive_lys_.jpg
 
-  
+
 
 

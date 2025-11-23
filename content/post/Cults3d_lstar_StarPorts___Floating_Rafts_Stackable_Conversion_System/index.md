@@ -76,12 +76,10 @@ Don't worry, I'll be sharing a number of packs with small-scale (and maybe not s
 
 Justification du tag SUP :
 
-    ~~~
-    This allows you to take models that have been supported for standard printing (or even auto-supported) and quickly convert them into stackable designs with minimal effort!
+This allows you to take models that have been supported for standard printing (or even auto-supported) and quickly convert them into stackable designs with minimal effort!
 Take any traditionally supported (or even auto-supported!) object that fits within an area you are able to create with Floating Rafts.
-    
-    ~~~
 
-  
+
+
 
 

@@ -108,11 +108,9 @@ V2 Update
 
 Justification du tag SUP :
 
-    ~~~
-    What have I done? Basically a conversion into the Morkabot variant. But wait there's more! I've fully supported up the model. Which fits comfortably on to just 3 Saturn 2 build plates.
-    
-    ~~~
+What have I done? Basically a conversion into the Morkabot variant. But wait there's more! I've fully supported up the model. Which fits comfortably on to just 3 Saturn 2 build plates.
 
-  
+
+
 
 

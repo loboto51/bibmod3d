@@ -69,11 +69,9 @@ Please note you are not able to redistribute these files nor sell prints of them
 
 Justification du tag SUP :
 
-    ~~~
-    A set of weapons batteries compatible with Imperial Navy ships from Battlefleet Gothic. 5 different types (two also available in a different pack) and two new heavy turrets. All files supported.
-    
-    ~~~
+A set of weapons batteries compatible with Imperial Navy ships from Battlefleet Gothic. 5 different types (two also available in a different pack) and two new heavy turrets. All files supported.
 
-  
+
+
 
 

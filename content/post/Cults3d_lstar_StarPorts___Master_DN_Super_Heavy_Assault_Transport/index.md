@@ -84,22 +84,9 @@ I'm going to create separate packs for hatch options and sponson weapons so that
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and tweaked for easy printing, including:
-    ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Lychee_Scenes_Mastodon_lys_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_Command_Vox_Relay_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_cylinder_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_Mastodon_Command_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_Mastodon_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_Skyfire_Turret_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_STLs_Void_Shield_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Unsupported_STLs_Command_Vox_Relay_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Unsupported_STLs_Mastodon_Command_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Unsupported_STLs_Mastodon_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Unsupported_STLs_Skyfire_Turret_stl_.jpg
-ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Unsupported_STLs_Void_Shield_stl_.jpg
-    ~~~
+Supported and tweaked for easy printing, including:
+ImagesSTL_-_StarPorts_-_Master-DN_Super-Heavy_Assault_Transport_zip_unpack_Lychee_Scenes_Mastodon_lys_.jpg
 
-  
+
 
 

@@ -65,11 +65,9 @@ To fit on a 50x75mm base resize the components in your slicer to 85%. Print crew
 
 Justification du tag SUP :
 
-    ~~~
-    Files come pre-supported and not supported.
-    
-    ~~~
+Files come pre-supported and not supported.
 
-  
+
+
 
 

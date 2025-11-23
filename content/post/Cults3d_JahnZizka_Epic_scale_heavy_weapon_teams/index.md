@@ -168,19 +168,9 @@ Updated: Test print resulted in some errors due to slicing software (Photon Work
 
 Justification du tag SUP :
 
-    ~~~
-    All unsupported and supported elements are included in their respective chitubox files.
-    ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Bases_squad_1___2_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1_-_crew_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1_-_guns_autocannons_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1_-_guns_heavy_bolters_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_1_-_guns_lascannons_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2_-_crew_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2_-_guns_autocannons_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2_-_guns_heavy_bolters_stl_.jpg
-ImagesSTL_-_Fire_support_platoon_ALL_FILES_zip_unpack__Squad_2_-_guns_lascannons_stl_.jpg
-    ~~~
+All unsupported and supported elements are included in their respective chitubox files.
 
-  
+
+
 
 

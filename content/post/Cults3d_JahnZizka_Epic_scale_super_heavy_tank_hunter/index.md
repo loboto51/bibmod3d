@@ -85,18 +85,12 @@ NOTE: Not yet test printed, if you find any issues please message me, if not, pl
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter__Body_2_stl_.jpg
-ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter__Body_no_insignia_2_stl_.jpg
-ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter__Body_no_insignia_stl_.jpg
+
 ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter_Body_no_insignia_unsupported_2_stl_.jpg
 ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter_Body_no_insignia_unsupported_stl_.jpg
-ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter__Body_stl_.jpg
 ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter_Body_unsupported_2_stl_.jpg
 ImagesSTL_-_epic-scale-super-heavy-tank-hunter20210409-12102-1a3smdk_zip_unpack_JahnZizka_epic-scale-super-heavy-tank-hunter_Body_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

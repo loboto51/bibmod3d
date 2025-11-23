@@ -21,21 +21,21 @@ tags:
 - "epic SOB Sob-forteresses"
 - "superlourds SOB Sob-forteresses"
 - "epic superlourds SOB Sob-forteresses"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "SOB SUP"
-- "epic SOB SUP"
-- "superlourds SOB SUP"
-- "epic superlourds SOB SUP"
-- "Sob-forteresses SUP"
-- "epic Sob-forteresses SUP"
-- "superlourds Sob-forteresses SUP"
-- "epic superlourds Sob-forteresses SUP"
-- "SOB Sob-forteresses SUP"
-- "epic SOB Sob-forteresses SUP"
-- "superlourds SOB Sob-forteresses SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "SOB NONSUP"
+- "epic SOB NONSUP"
+- "superlourds SOB NONSUP"
+- "epic superlourds SOB NONSUP"
+- "Sob-forteresses NONSUP"
+- "epic Sob-forteresses NONSUP"
+- "superlourds Sob-forteresses NONSUP"
+- "epic superlourds Sob-forteresses NONSUP"
+- "SOB Sob-forteresses NONSUP"
+- "epic SOB Sob-forteresses NONSUP"
+- "superlourds SOB Sob-forteresses NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds SOB Sob-forteresses  SUP
+- epic superlourds SOB Sob-forteresses  NONSUP
 
 
 Description :
@@ -76,19 +76,6 @@ If you like what I did and want to leave a tip it would be appreciated.
 https://paypal.me/jimmyzimms
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_space-nuns-super-burninating-tank20240615-1-wrr37p_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Emperor_s_Chapel_-_St_Sava_s_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20240615-1-wrr37p_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Inferno_Gun_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20240615-1-wrr37p_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Pipe_Caster_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20250910-1-59hztb_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Emperor_s_Chapel_-_Duomo_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20250910-1-59hztb_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Emperor_s_Chapel_-_St_Sava_s_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20250910-1-59hztb_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Inferno_Gun_stl_.jpg
-ImagesSTL_-_space-nuns-super-burninating-tank20250910-1-59hztb_zip_unpack_jimmyzimms_space-nuns-super-burninating-tank_Pipe_Caster_stl_.jpg
-    ~~~
-
-  
 
 

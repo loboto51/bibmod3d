@@ -81,19 +81,9 @@ _When the P.O.D.s finally made planetfall some six months later, the confused de
 
 Justification du tag SUP :
 
-    ~~~
-    - Includes supported and unsupported STLs and Lychee scenes for tweaking
-    ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_STLs_Dreadnought_Drop_Pod_Supported_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_STLs_Drop_Pod__5__Supported_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_STLs_Drop_Pod__6__Supported_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Dreadnought_Drop_Pod_Filled_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Dreadnought_Drop_Pod_Hollowed_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Drop_Pod__5__Filled_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Drop_Pod__5__Hollowed_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Drop_Pod__6__Filled_stl_.jpg
-ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Unsupported_STLs_Drop_Pod__6__Hollowed_stl_.jpg
-    ~~~
+- Includes supported and unsupported STLs and Lychee scenes for tweaking
+ImagesSTL_-_StarPorts_-_P_O_D___Print_On_Demand__Droplets_zip_unpack_Lychee_Scenes_Drop_Pods_lys_.jpg
 
-  
+
 
 

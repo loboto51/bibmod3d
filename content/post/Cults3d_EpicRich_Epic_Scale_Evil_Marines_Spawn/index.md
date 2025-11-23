@@ -41,6 +41,8 @@ tags:
 
 ![](<thumbs_-_epic-scale-evil-marines-spawn_-_Images_1.jpg> "thumbs_-_epic-scale-evil-marines-spawn_-_Images_1.jpg")
 
+  ![](<thumbs_-_epic-scale-evil-marines-spawn_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-evil-marines-spawn_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://cults3d.com/en/3d-model/art/epic-scale-evil-marines-spawn](https://cults3d.com/en/3d-model/art/epic-scale-evil-marines-spawn)
@@ -73,7 +75,8 @@ https://www.thingiverse.com/thing:4012930
 Justification du tag SUP :
 
 Epic Scale Spawn pre supported. Some very fragile arms on these be careful.
-
+ImagesSTL_-_epic-scale-evil-marines-spawn20210511-31506-1py554m_zip_unpack_EpicRich_epic-scale-evil-marines-spawn_Chaos_Spawn_1_Supported_stl_.jpg
+ImagesSTL_-_epic-scale-evil-marines-spawn20210511-31506-1py554m_zip_unpack_EpicRich_epic-scale-evil-marines-spawn_Chaos_Spawn_2_Supported_stl_.jpg
 
 
 

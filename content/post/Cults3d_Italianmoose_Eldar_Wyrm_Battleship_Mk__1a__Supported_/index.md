@@ -95,11 +95,9 @@ I am not affiliated with GW in any way! Please don't reupload this on Shapeways 
 
 Justification du tag SUP :
 
-    ~~~
-    A model for the Eldar Wyrm-Class Battleship for the defunct tabletop wargame Battlefleet Gothic. Credit for the mechanics go to Horizon and the designers of MMS 1.9b, original artwork by Xca|iber. This version has tabs and slots, and hexagonal patterns on the sails. This is a supported version of https://www.thingiverse.com/thing:4738983
-    
-    ~~~
+A model for the Eldar Wyrm-Class Battleship for the defunct tabletop wargame Battlefleet Gothic. Credit for the mechanics go to Horizon and the designers of MMS 1.9b, original artwork by Xca|iber. This version has tabs and slots, and hexagonal patterns on the sails. This is a supported version of https://www.thingiverse.com/thing:4738983
 
-  
+
+
 
 

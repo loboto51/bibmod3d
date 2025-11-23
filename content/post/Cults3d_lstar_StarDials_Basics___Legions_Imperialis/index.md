@@ -115,12 +115,10 @@ Sure, feel free to remix the Blank version for personal use.
 
 Justification du tag SUP :
 
-    ~~~
-    These dials are supported for easy and high-quality vertical printing on a resin printer.
+These dials are supported for easy and high-quality vertical printing on a resin printer.
 Unsupported versions are included in case this doesn't suit you.
-    
-    ~~~
 
-  
+
+
 
 

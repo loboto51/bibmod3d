@@ -77,11 +77,9 @@ Print at 100%, and enjoy :)
 
 Justification du tag SUP :
 
-    ~~~
-    -1 Pre-supported .stl and .lys files
-    ImagesSTL_-_Magos_Empath_Pup_zip_unpack_Pre-supported_Empath_Pup_1__Rock__stl_.jpg
-    ~~~
+-1 Pre-supported .stl and .lys files
+ImagesSTL_-_Magos_Empath_Pup_zip_unpack_Empath_Pup_lys_.jpg
 
-  
+
 
 

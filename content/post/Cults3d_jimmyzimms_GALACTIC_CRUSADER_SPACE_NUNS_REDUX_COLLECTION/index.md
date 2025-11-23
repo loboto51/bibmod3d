@@ -21,21 +21,21 @@ tags:
 - "epic SOB Sob-assaut-volant-seraphims"
 - "infanterie SOB Sob-assaut-volant-seraphims"
 - "epic infanterie SOB Sob-assaut-volant-seraphims"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SOB SUP"
-- "epic SOB SUP"
-- "infanterie SOB SUP"
-- "epic infanterie SOB SUP"
-- "Sob-assaut-volant-seraphims SUP"
-- "epic Sob-assaut-volant-seraphims SUP"
-- "infanterie Sob-assaut-volant-seraphims SUP"
-- "epic infanterie Sob-assaut-volant-seraphims SUP"
-- "SOB Sob-assaut-volant-seraphims SUP"
-- "epic SOB Sob-assaut-volant-seraphims SUP"
-- "infanterie SOB Sob-assaut-volant-seraphims SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SOB NONSUP"
+- "epic SOB NONSUP"
+- "infanterie SOB NONSUP"
+- "epic infanterie SOB NONSUP"
+- "Sob-assaut-volant-seraphims NONSUP"
+- "epic Sob-assaut-volant-seraphims NONSUP"
+- "infanterie Sob-assaut-volant-seraphims NONSUP"
+- "epic infanterie Sob-assaut-volant-seraphims NONSUP"
+- "SOB Sob-assaut-volant-seraphims NONSUP"
+- "epic SOB Sob-assaut-volant-seraphims NONSUP"
+- "infanterie SOB Sob-assaut-volant-seraphims NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -51,21 +51,21 @@ tags:
 - "epic SOB Sob-qg"
 - "infanterie SOB Sob-qg"
 - "epic infanterie SOB Sob-qg"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SOB SUP"
-- "epic SOB SUP"
-- "infanterie SOB SUP"
-- "epic infanterie SOB SUP"
-- "Sob-qg SUP"
-- "epic Sob-qg SUP"
-- "infanterie Sob-qg SUP"
-- "epic infanterie Sob-qg SUP"
-- "SOB Sob-qg SUP"
-- "epic SOB Sob-qg SUP"
-- "infanterie SOB Sob-qg SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SOB NONSUP"
+- "epic SOB NONSUP"
+- "infanterie SOB NONSUP"
+- "epic infanterie SOB NONSUP"
+- "Sob-qg NONSUP"
+- "epic Sob-qg NONSUP"
+- "infanterie Sob-qg NONSUP"
+- "epic infanterie Sob-qg NONSUP"
+- "SOB Sob-qg NONSUP"
+- "epic SOB Sob-qg NONSUP"
+- "infanterie SOB Sob-qg NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -81,21 +81,21 @@ tags:
 - "epic SOB Sob-tactiques"
 - "infanterie SOB Sob-tactiques"
 - "epic infanterie SOB Sob-tactiques"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SOB SUP"
-- "epic SOB SUP"
-- "infanterie SOB SUP"
-- "epic infanterie SOB SUP"
-- "Sob-tactiques SUP"
-- "epic Sob-tactiques SUP"
-- "infanterie Sob-tactiques SUP"
-- "epic infanterie Sob-tactiques SUP"
-- "SOB Sob-tactiques SUP"
-- "epic SOB Sob-tactiques SUP"
-- "infanterie SOB Sob-tactiques SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SOB NONSUP"
+- "epic SOB NONSUP"
+- "infanterie SOB NONSUP"
+- "epic infanterie SOB NONSUP"
+- "Sob-tactiques NONSUP"
+- "epic Sob-tactiques NONSUP"
+- "infanterie Sob-tactiques NONSUP"
+- "epic infanterie Sob-tactiques NONSUP"
+- "SOB Sob-tactiques NONSUP"
+- "epic SOB Sob-tactiques NONSUP"
+- "infanterie SOB Sob-tactiques NONSUP"
 
 ---
 
@@ -122,9 +122,9 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SOB Sob-assaut-volant-seraphims  SUP
-- epic infanterie SOB Sob-qg  SUP
-- epic infanterie SOB Sob-tactiques  SUP
+- epic infanterie SOB Sob-assaut-volant-seraphims  NONSUP
+- epic infanterie SOB Sob-qg  NONSUP
+- epic infanterie SOB Sob-tactiques  NONSUP
 
 
 Description :
@@ -148,20 +148,6 @@ If you like what I did and want to leave a tip it would be appreciated.
 https://paypal.me/jimmyzimms
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Flying_3_Superior_No_helmet_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Flying_3_Superior_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Flying_4_Superior_No_helmet_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Flying_4_Superior_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Unmerged_zip_unpack_Seraphim_Flying_3_Superior_No_helmet_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Unmerged_zip_unpack_Seraphim_Flying_3_Superior_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Unmerged_zip_unpack_Seraphim_Flying_4_Superior_No_helmet_stl_.jpg
-ImagesSTL_-_galactic-crusader-space-nuns-redux-collection_zip_unpack_Seraphim_Unmerged_zip_unpack_Seraphim_Flying_4_Superior_stl_.jpg
-    ~~~
-
-  
 
 

@@ -62,11 +62,9 @@ Happy printing!
 
 Justification du tag SUP :
 
-    ~~~
-    Supported and unsupported zip files included. All supported files have printed successfully. 
-    
-    ~~~
+Supported and unsupported zip files included. All supported files have printed successfully. 
 
-  
+
+
 
 

@@ -99,11 +99,9 @@ Included are both the model and a pre-supported model.
 
 Justification du tag SUP :
 
-    ~~~
-    Included are both the model and a pre-supported model.
-    
-    ~~~
+Included are both the model and a pre-supported model.
 
-  
+
+
 
 

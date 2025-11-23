@@ -59,11 +59,9 @@ Comes with supported strips and individual sculpts for 15mm.
 
 Justification du tag SUP :
 
-    ~~~
-    Comes with supported strips and individual sculpts for 15mm.
-    
-    ~~~
+Comes with supported strips and individual sculpts for 15mm.
 
-  
+
+
 
 

@@ -62,48 +62,48 @@ tags:
 - "epic SMC Sm-terminators SM30K"
 - "infanterie SMC Sm-terminators SM30K"
 - "SMI SMC Sm-terminators SM30K"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "SMC SUP"
-- "epic SMC SUP"
-- "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
-- "SMI SMC SUP"
-- "epic SMI SMC SUP"
-- "infanterie SMI SMC SUP"
-- "Sm-terminators SUP"
-- "epic Sm-terminators SUP"
-- "infanterie Sm-terminators SUP"
-- "epic infanterie Sm-terminators SUP"
-- "SMI Sm-terminators SUP"
-- "epic SMI Sm-terminators SUP"
-- "infanterie SMI Sm-terminators SUP"
-- "SMC Sm-terminators SUP"
-- "epic SMC Sm-terminators SUP"
-- "infanterie SMC Sm-terminators SUP"
-- "SMI SMC Sm-terminators SUP"
-- "SM30K SUP"
-- "epic SM30K SUP"
-- "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
-- "SMI SM30K SUP"
-- "epic SMI SM30K SUP"
-- "infanterie SMI SM30K SUP"
-- "SMC SM30K SUP"
-- "epic SMC SM30K SUP"
-- "infanterie SMC SM30K SUP"
-- "SMI SMC SM30K SUP"
-- "Sm-terminators SM30K SUP"
-- "epic Sm-terminators SM30K SUP"
-- "infanterie Sm-terminators SM30K SUP"
-- "SMI Sm-terminators SM30K SUP"
-- "SMC Sm-terminators SM30K SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "SMC NONSUP"
+- "epic SMC NONSUP"
+- "infanterie SMC NONSUP"
+- "epic infanterie SMC NONSUP"
+- "SMI SMC NONSUP"
+- "epic SMI SMC NONSUP"
+- "infanterie SMI SMC NONSUP"
+- "Sm-terminators NONSUP"
+- "epic Sm-terminators NONSUP"
+- "infanterie Sm-terminators NONSUP"
+- "epic infanterie Sm-terminators NONSUP"
+- "SMI Sm-terminators NONSUP"
+- "epic SMI Sm-terminators NONSUP"
+- "infanterie SMI Sm-terminators NONSUP"
+- "SMC Sm-terminators NONSUP"
+- "epic SMC Sm-terminators NONSUP"
+- "infanterie SMC Sm-terminators NONSUP"
+- "SMI SMC Sm-terminators NONSUP"
+- "SM30K NONSUP"
+- "epic SM30K NONSUP"
+- "infanterie SM30K NONSUP"
+- "epic infanterie SM30K NONSUP"
+- "SMI SM30K NONSUP"
+- "epic SMI SM30K NONSUP"
+- "infanterie SMI SM30K NONSUP"
+- "SMC SM30K NONSUP"
+- "epic SMC SM30K NONSUP"
+- "infanterie SMC SM30K NONSUP"
+- "SMI SMC SM30K NONSUP"
+- "Sm-terminators SM30K NONSUP"
+- "epic Sm-terminators SM30K NONSUP"
+- "infanterie Sm-terminators SM30K NONSUP"
+- "SMI Sm-terminators SM30K NONSUP"
+- "SMC Sm-terminators SM30K NONSUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI SMC Sm-terminators SM30K  SUP
+- epic infanterie SMI SMC Sm-terminators SM30K  NONSUP
 
 
 Description :
@@ -151,20 +151,6 @@ Check out the [Floating Raft Stackable Conversion System](https://cults3d.com/en
 *Like what I'm doing? [Buy me a cup of resin!](https://ko-fi.com/lstar)* 😁
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Custom_Stack_Components_6xChain_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Custom_Stack_Components_6xFist_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_12xChain_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_12xFist_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_18xChain_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_18xFist_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_24xChain_Support_stl_.jpg
-ImagesSTL_-_StarPorts_-_Stackable_Galactic_Crusader_Heavy_Siege_Infantry_zip_unpack_Prebuilt_Stacks_24xFist_Support_stl_.jpg
-    ~~~
-
-  
 
 

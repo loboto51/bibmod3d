@@ -41,6 +41,8 @@ tags:
 
 ![](<thumbs_-_epic-scale-evil-marines-howitzer-tank_-_Images_1.jpg> "thumbs_-_epic-scale-evil-marines-howitzer-tank_-_Images_1.jpg")
 
+  ![](<thumbs_-_epic-scale-evil-marines-howitzer-tank_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-evil-marines-howitzer-tank_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://cults3d.com/en/3d-model/art/epic-scale-evil-marines-howitzer-tank](https://cults3d.com/en/3d-model/art/epic-scale-evil-marines-howitzer-tank)
