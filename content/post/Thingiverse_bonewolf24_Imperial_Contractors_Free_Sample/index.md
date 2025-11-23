@@ -233,11 +233,9 @@ These files are unsupported, though the final Kickstarter files will include sup
 
 Justification du tag SUP :
 
-    ~~~
-    These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures
-    
-    ~~~
+These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures
 
-  
+
+
 
 

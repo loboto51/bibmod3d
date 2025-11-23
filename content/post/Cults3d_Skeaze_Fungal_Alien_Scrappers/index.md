@@ -75,12 +75,10 @@ If you want to scale them up to 28-32mm scale, I'd suggest somewhere between 165
 
 Justification du tag SUP :
 
-    ~~~
-    Number 01 has been slightly tweaked had some non-manifold geometry fixed. A pre-supported version of 02 is also included (which wasn't in the original).
+Number 01 has been slightly tweaked had some non-manifold geometry fixed. A pre-supported version of 02 is also included (which wasn't in the original).
 They are 15mm scale by default. Pre-supported versions in 15mm are included! I'm experimenting with FDM friendly pre-supported versions, but those aren't done yet.
-    
-    ~~~
 
-  
+
+
 
 

@@ -221,11 +221,9 @@ Also in the main weapons folders you can find both arms (take care, they are dif
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Imperator_titan_AT_zip_unpack_Platform_torre_del_sup_AT_X4_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_Imperator_titan_AT_zip_unpack_Platform_torre_del_sup_AT_X4_stl_.jpg
+
+
 
 

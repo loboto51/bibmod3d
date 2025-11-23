@@ -71,12 +71,10 @@ Spiky bit for pointy operations for the Emperor.
 
 Justification du tag SUP :
 
-    ~~~
-    (edit:added a supported file and removed a shonky hastily placed bevel)
-    ImagesSTL_-_spiky-bit-for-kratos20250707-1-rcxx4u_zip_unpack_ny1Ze_spiky-bit-for-kratos_supportedspikybit_stl_.jpg
+(edit:added a supported file and removed a shonky hastily placed bevel)
+ImagesSTL_-_spiky-bit-for-kratos20250707-1-rcxx4u_zip_unpack_ny1Ze_spiky-bit-for-kratos_supportedspikybit_stl_.jpg
 ImagesSTL_-_spiky-bit-for-kratos20250707-1-rcxx4u_zip_unpack_ny1Ze_spiky-bit-for-kratos_unsupportedspikybit_stl_.jpg
-    ~~~
 
-  
+
 
 

@@ -321,11 +321,9 @@ An updated version of one of my old designs to bolster the Mytho-Resistance rank
 
 Justification du tag SUP :
 
-    ~~~
-    An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. This one got a bit more detail added, plus some subtle re-posing. Requires support when printing, but I included a pre-supported version too.
-    
-    ~~~
+An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. This one got a bit more detail added, plus some subtle re-posing. Requires support when printing, but I included a pre-supported version too.
 
-  
+
+
 
 

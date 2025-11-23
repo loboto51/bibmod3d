@@ -99,11 +99,9 @@ Pre-supported and unsupported files included
 
 Justification du tag SUP :
 
-    ~~~
-    Pre-supported and unsupported files included
-    
-    ~~~
+Pre-supported and unsupported files included
 
-  
+
+
 
 

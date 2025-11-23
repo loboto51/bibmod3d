@@ -21,21 +21,21 @@ tags:
 - "epic SMI Predators"
 - "vehicules SMI Predators"
 - "epic vehicules SMI Predators"
-- "SUP"
-- "epic SUP"
-- "vehicules SUP"
-- "epic vehicules SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "vehicules SMI SUP"
-- "epic vehicules SMI SUP"
-- "Predators SUP"
-- "epic Predators SUP"
-- "vehicules Predators SUP"
-- "epic vehicules Predators SUP"
-- "SMI Predators SUP"
-- "epic SMI Predators SUP"
-- "vehicules SMI Predators SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "vehicules NONSUP"
+- "epic vehicules NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "vehicules SMI NONSUP"
+- "epic vehicules SMI NONSUP"
+- "Predators NONSUP"
+- "epic Predators NONSUP"
+- "vehicules Predators NONSUP"
+- "epic vehicules Predators NONSUP"
+- "SMI Predators NONSUP"
+- "epic SMI Predators NONSUP"
+- "vehicules SMI Predators NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules SMI Predators  SUP
+- epic vehicules SMI Predators  NONSUP
 
 
 Description :
@@ -69,14 +69,6 @@ Do you like going faster than all of your tiny brethren? Do you like shooting mo
 Tiny tanks are intended for resin printers.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_tiny-tank-fancy-mbt-infantry-support20200706-718-xmtok8_zip_unpack_woddish_tiny-tank-fancy-mbt-infantry-support_epicpredbodyhb_stl_.jpg
-ImagesSTL_-_tiny-tank-fancy-mbt-infantry-support20200706-718-xmtok8_zip_unpack_woddish_tiny-tank-fancy-mbt-infantry-support_epicpredturretassault_stl_.jpg
-    ~~~
-
-  
 
 

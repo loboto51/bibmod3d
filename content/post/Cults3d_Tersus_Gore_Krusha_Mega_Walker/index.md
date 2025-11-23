@@ -262,11 +262,9 @@ Tersus
 
 Justification du tag SUP :
 
-    ~~~
-    (The Mega Choppa should be printed with tree support, I included a version with the teef supported, this is also tested)
-    
-    ~~~
+(The Mega Choppa should be printed with tree support, I included a version with the teef supported, this is also tested)
 
-  
+
+
 
 

@@ -57,11 +57,9 @@ Scaled for use on 25mm bases by default. Files include both supported and unsupp
 
 Justification du tag SUP :
 
-    ~~~
-    Scaled for use on 25mm bases by default. Files include both supported and unsupported.
-    
-    ~~~
+Scaled for use on 25mm bases by default. Files include both supported and unsupported.
 
-  
+
+
 
 

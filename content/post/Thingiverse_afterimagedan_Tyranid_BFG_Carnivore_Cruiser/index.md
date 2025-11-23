@@ -67,11 +67,9 @@ This is an edited Tyranid Carnivore Cruiser by Festera521 for Battlefleet Gothic
 
 Justification du tag SUP :
 
-    ~~~
-    This is an edited Tyranid Carnivore Cruiser by Festera521 for Battlefleet Gothic. I mainly just filled in the arm holes. I recommend printing it at 45 degrees with the mouth up and the tail very well supported. The length of the model should be 84.72mm. I've printed two of them and they are well sized for a light cruiser.
-    
-    ~~~
+This is an edited Tyranid Carnivore Cruiser by Festera521 for Battlefleet Gothic. I mainly just filled in the arm holes. I recommend printing it at 45 degrees with the mouth up and the tail very well supported. The length of the model should be 84.72mm. I've printed two of them and they are well sized for a light cruiser.
 
-  
+
+
 
 

@@ -70,11 +70,9 @@ Includes all 5 orders, both supported and unsupported versions.
 
 Justification du tag SUP :
 
-    ~~~
-    Includes all 5 orders, both supported and unsupported versions.
-    
-    ~~~
+Includes all 5 orders, both supported and unsupported versions.
 
-  
+
+
 
 

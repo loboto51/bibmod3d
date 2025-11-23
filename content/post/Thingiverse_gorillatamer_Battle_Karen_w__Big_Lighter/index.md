@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > gorillatamer > Battle_Karen_w__Big_Lighter [non dl]"
+title: "[GRATUIT] Thingiverse > gorillatamer > Battle_Karen_w__Big_Lighter [dl]"
 date: "2020-12-29T03:26:07+00:00"
 toc: true
 image: "thumbs_-_4700771_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "SOB Bits Builders"
 - "28mm SOB Bits Builders"
 - "epic SOB Bits Builders"
-- "NONDL"
-- "28mm NONDL"
-- "epic NONDL"
-- "28mm epic NONDL"
-- "SOB NONDL"
-- "28mm SOB NONDL"
-- "epic SOB NONDL"
-- "28mm epic SOB NONDL"
-- "Bits NONDL"
-- "28mm Bits NONDL"
-- "epic Bits NONDL"
-- "28mm epic Bits NONDL"
-- "SOB Bits NONDL"
-- "28mm SOB Bits NONDL"
-- "epic SOB Bits NONDL"
-- "Builders NONDL"
-- "28mm Builders NONDL"
-- "epic Builders NONDL"
-- "28mm epic Builders NONDL"
-- "SOB Builders NONDL"
-- "28mm SOB Builders NONDL"
-- "epic SOB Builders NONDL"
-- "Bits Builders NONDL"
-- "28mm Bits Builders NONDL"
-- "epic Bits Builders NONDL"
-- "SOB Bits Builders NONDL"
 - "SUP"
 - "28mm SUP"
 - "epic SUP"
@@ -88,22 +62,6 @@ tags:
 - "28mm Bits Builders SUP"
 - "epic Bits Builders SUP"
 - "SOB Bits Builders SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "epic NONDL SUP"
-- "28mm epic NONDL SUP"
-- "SOB NONDL SUP"
-- "28mm SOB NONDL SUP"
-- "epic SOB NONDL SUP"
-- "Bits NONDL SUP"
-- "28mm Bits NONDL SUP"
-- "epic Bits NONDL SUP"
-- "SOB Bits NONDL SUP"
-- "Builders NONDL SUP"
-- "28mm Builders NONDL SUP"
-- "epic Builders NONDL SUP"
-- "SOB Builders NONDL SUP"
-- "Bits Builders NONDL SUP"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -160,48 +118,6 @@ tags:
 - "28mm HUMAINS Bits Builders"
 - "IMP HUMAINS Bits Builders"
 - "SOB HUMAINS Bits Builders"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "SOB NONDL"
-- "28mm SOB NONDL"
-- "IMP SOB NONDL"
-- "28mm IMP SOB NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "28mm IMP HUMAINS NONDL"
-- "SOB HUMAINS NONDL"
-- "28mm SOB HUMAINS NONDL"
-- "IMP SOB HUMAINS NONDL"
-- "Bits NONDL"
-- "28mm Bits NONDL"
-- "IMP Bits NONDL"
-- "28mm IMP Bits NONDL"
-- "SOB Bits NONDL"
-- "28mm SOB Bits NONDL"
-- "IMP SOB Bits NONDL"
-- "HUMAINS Bits NONDL"
-- "28mm HUMAINS Bits NONDL"
-- "IMP HUMAINS Bits NONDL"
-- "SOB HUMAINS Bits NONDL"
-- "Builders NONDL"
-- "28mm Builders NONDL"
-- "IMP Builders NONDL"
-- "28mm IMP Builders NONDL"
-- "SOB Builders NONDL"
-- "28mm SOB Builders NONDL"
-- "IMP SOB Builders NONDL"
-- "HUMAINS Builders NONDL"
-- "28mm HUMAINS Builders NONDL"
-- "IMP HUMAINS Builders NONDL"
-- "SOB HUMAINS Builders NONDL"
-- "Bits Builders NONDL"
-- "28mm Bits Builders NONDL"
-- "IMP Bits Builders NONDL"
-- "SOB Bits Builders NONDL"
-- "HUMAINS Bits Builders NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -244,32 +160,12 @@ tags:
 - "IMP Bits Builders SUP"
 - "SOB Bits Builders SUP"
 - "HUMAINS Bits Builders SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "IMP NONDL SUP"
-- "28mm IMP NONDL SUP"
-- "SOB NONDL SUP"
-- "28mm SOB NONDL SUP"
-- "IMP SOB NONDL SUP"
-- "HUMAINS NONDL SUP"
-- "28mm HUMAINS NONDL SUP"
-- "IMP HUMAINS NONDL SUP"
-- "SOB HUMAINS NONDL SUP"
-- "Bits NONDL SUP"
-- "28mm Bits NONDL SUP"
-- "IMP Bits NONDL SUP"
-- "SOB Bits NONDL SUP"
-- "HUMAINS Bits NONDL SUP"
-- "Builders NONDL SUP"
-- "28mm Builders NONDL SUP"
-- "IMP Builders NONDL SUP"
-- "SOB Builders NONDL SUP"
-- "HUMAINS Builders NONDL SUP"
-- "Bits Builders NONDL SUP"
 
 ---
 
 ![](<thumbs_-_4700771_-_Images_1.jpg> "thumbs_-_4700771_-_Images_1.jpg")
+
+  ![](<thumbs_-_4700771_-_ImagesSTL_1.jpg> "thumbs_-_4700771_-_ImagesSTL_1.jpg")
 
   
 
@@ -287,8 +183,8 @@ Collections :
 
 Collections pour tags :
 
-- 28mm epic SOB Bits Builders NONDL SUP
-- 28mm IMP SOB HUMAINS Bits Builders NONDL SUP
+- 28mm epic SOB Bits Builders  SUP
+- 28mm IMP SOB HUMAINS Bits Builders  SUP
 
 
 Description :
@@ -303,11 +199,9 @@ will upload presupported versions once I test print.
 
 Justification du tag SUP :
 
-    ~~~
-    will upload presupported versions once I test print.
-    
-    ~~~
+will upload presupported versions once I test print.
 
-  
+
+
 
 

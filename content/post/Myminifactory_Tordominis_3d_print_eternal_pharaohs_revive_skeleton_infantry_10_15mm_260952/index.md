@@ -6,6 +6,13 @@ toc: true
 image: "thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.jpg"
 tags:
 - "Tordominis"
+- "15mm"
+- "MORTS-VIVANTS"
+- "15mm MORTS-VIVANTS"
+- "SUP"
+- "15mm SUP"
+- "MORTS-VIVANTS SUP"
+- "15mm MORTS-VIVANTS SUP"
 - "warmaster"
 - "MORTS-VIVANTS"
 - "warmaster MORTS-VIVANTS"
@@ -30,11 +37,13 @@ Prix : 0 euros
 
 Collections :
 
+- 15mm MORTS-VIVANTS
 - warmaster MORTS-VIVANTS
 
 
 Collections pour tags :
 
+- 15mm MORTS-VIVANTS  SUP
 - warmaster MORTS-VIVANTS  SUP
 
 
@@ -47,16 +56,14 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    6 strips all presuported and also unbased and unsupported models also available.
-    ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_a_sup_stl_.jpg
-ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_b_sup_stl_.jpg
-ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_C_sup_stl_.jpg
-ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_D_sup_stl_.jpg
-ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_E_sup_stl_.jpg
-ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_F_sup_stl_.jpg
-    ~~~
+6 strips all presuported and also unbased and unsupported models also available.
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_C_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_a_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_b_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_D_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_E_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_F_lys_.jpg
 
-  
+
 
 

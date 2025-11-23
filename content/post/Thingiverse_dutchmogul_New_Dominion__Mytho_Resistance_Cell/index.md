@@ -323,11 +323,9 @@ For those of you who want to support what I do, please consider joining my [Ill 
 
 Justification du tag SUP :
 
-    ~~~
-    This is a collection of a few of my old designs, and creates a full 500 point starting Mytho-Resistance warband for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I'll update here with some stats PDFs and links to the finished game once that's released, but in the meantime, print and paint away. Each of these need supports but I've included pre-supported versions as well.
-    
-    ~~~
+This is a collection of a few of my old designs, and creates a full 500 point starting Mytho-Resistance warband for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I'll update here with some stats PDFs and links to the finished game once that's released, but in the meantime, print and paint away. Each of these need supports but I've included pre-supported versions as well.
 
-  
+
+
 
 

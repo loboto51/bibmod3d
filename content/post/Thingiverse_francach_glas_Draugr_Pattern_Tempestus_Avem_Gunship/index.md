@@ -21,21 +21,21 @@ tags:
 - "epic SMI Sm-stormbirds"
 - "volants SMI Sm-stormbirds"
 - "epic volants SMI Sm-stormbirds"
-- "NONSUP"
-- "epic NONSUP"
-- "volants NONSUP"
-- "epic volants NONSUP"
-- "SMI NONSUP"
-- "epic SMI NONSUP"
-- "volants SMI NONSUP"
-- "epic volants SMI NONSUP"
-- "Sm-stormbirds NONSUP"
-- "epic Sm-stormbirds NONSUP"
-- "volants Sm-stormbirds NONSUP"
-- "epic volants Sm-stormbirds NONSUP"
-- "SMI Sm-stormbirds NONSUP"
-- "epic SMI Sm-stormbirds NONSUP"
-- "volants SMI Sm-stormbirds NONSUP"
+- "SUP"
+- "epic SUP"
+- "volants SUP"
+- "epic volants SUP"
+- "SMI SUP"
+- "epic SMI SUP"
+- "volants SMI SUP"
+- "epic volants SMI SUP"
+- "Sm-stormbirds SUP"
+- "epic Sm-stormbirds SUP"
+- "volants Sm-stormbirds SUP"
+- "epic volants Sm-stormbirds SUP"
+- "SMI Sm-stormbirds SUP"
+- "epic SMI Sm-stormbirds SUP"
+- "volants SMI Sm-stormbirds SUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants SMI Sm-stormbirds  NONSUP
+- epic volants SMI Sm-stormbirds  SUP
 
 
 Description :
@@ -81,6 +81,11 @@ Tiny Tank Classic MBT https://www.thingiverse.com/thing:4397478 for laser cannon
 
 15/10/2020 - Added chitubox file with supports, adjusted after print of first version. 16h35m printing time at my print settings (0.04 layer, 6s\layer, 60s bottom layers, 40mm/min retract for both).
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Draugr_Pattern_Tempestus_Avem_Gunship_-_4646463_zip_unpack_files_Draugr_Stormbird_Hollowed_5mm_Hole_chitubox_.jpg
 
 
 

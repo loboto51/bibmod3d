@@ -105,11 +105,9 @@ please visit [NetEpic wargaming system](https://www.netepic-fr.com) for more inf
 
 Justification du tag SUP :
 
-    ~~~
-    include supported model !
-    
-    ~~~
+include supported model !
 
-  
+
+
 
 

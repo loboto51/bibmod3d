@@ -137,11 +137,9 @@ Remixed from one of MrOrangeJumper's excellent Solar Trooper Commanders, adding 
 
 Justification du tag SUP :
 
-    ~~~
-    Remixed from one of MrOrangeJumper's excellent Solar Trooper Commanders, adding a cape, and my own presupported version.
-    
-    ~~~
+Remixed from one of MrOrangeJumper's excellent Solar Trooper Commanders, adding a cape, and my own presupported version.
 
-  
+
+
 
 

@@ -21,21 +21,21 @@ tags:
 - "epic SMI Sicarans-canon-lourd"
 - "vehicules SMI Sicarans-canon-lourd"
 - "epic vehicules SMI Sicarans-canon-lourd"
-- "SUP"
-- "epic SUP"
-- "vehicules SUP"
-- "epic vehicules SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "vehicules SMI SUP"
-- "epic vehicules SMI SUP"
-- "Sicarans-canon-lourd SUP"
-- "epic Sicarans-canon-lourd SUP"
-- "vehicules Sicarans-canon-lourd SUP"
-- "epic vehicules Sicarans-canon-lourd SUP"
-- "SMI Sicarans-canon-lourd SUP"
-- "epic SMI Sicarans-canon-lourd SUP"
-- "vehicules SMI Sicarans-canon-lourd SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "vehicules NONSUP"
+- "epic vehicules NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "vehicules SMI NONSUP"
+- "epic vehicules SMI NONSUP"
+- "Sicarans-canon-lourd NONSUP"
+- "epic Sicarans-canon-lourd NONSUP"
+- "vehicules Sicarans-canon-lourd NONSUP"
+- "epic vehicules Sicarans-canon-lourd NONSUP"
+- "SMI Sicarans-canon-lourd NONSUP"
+- "epic SMI Sicarans-canon-lourd NONSUP"
+- "vehicules SMI Sicarans-canon-lourd NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules SMI Sicarans-canon-lourd  SUP
+- epic vehicules SMI Sicarans-canon-lourd  NONSUP
 
 
 Description :
@@ -74,18 +74,6 @@ Tiny tanks are intended for resin printers.
 UPDATE: There was an error with the tiny volk model missing it's gunshield. That's been fixed. Also the tiny tanks with tiny rockets never made it to cults for some reason. Those have been added. Three different variants, each with yes-rockets and no-rockets versions. Go out and cause some havoc.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreautorocket_stl_.jpg
-ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreauto_stl_.jpg
-ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreneutronrocket_stl_.jpg
-ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabreneutron_stl_.jpg
-ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabrevolkrocket_stl_.jpg
-ImagesSTL_-_tiny-tank-classic-cavalry-support20220614-427716-mqsict_zip_unpack_woddish_tiny-tank-classic-cavalry-support_epicsabrevolk_stl_.jpg
-    ~~~
-
-  
 
 

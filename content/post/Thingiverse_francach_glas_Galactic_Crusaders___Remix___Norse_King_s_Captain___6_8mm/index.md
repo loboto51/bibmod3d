@@ -137,11 +137,9 @@ Supported version prints well at my standard 0.04 layer, AAx4, Anycubic Clear Gr
 
 Justification du tag SUP :
 
-    ~~~
-    Supported version prints well at my standard 0.04 layer, AAx4, Anycubic Clear Green.
-    ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Captain_-_6-8mm_-_4552879_zip_unpack_files_Boarding_Armour_Norse_Kings_Captain_Supports_stl_.jpg
-    ~~~
+Supported version prints well at my standard 0.04 layer, AAx4, Anycubic Clear Green.
 
-  
+
+
 
 

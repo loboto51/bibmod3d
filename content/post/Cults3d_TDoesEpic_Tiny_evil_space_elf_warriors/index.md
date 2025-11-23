@@ -174,11 +174,9 @@ I've added four "riders" which can be attached to vehicles like my skiffs, to gi
 
 Justification du tag SUP :
 
-    ~~~
-    A supported version is included for every design.
-    
-    ~~~
+A supported version is included for every design.
 
-  
+
+
 
 

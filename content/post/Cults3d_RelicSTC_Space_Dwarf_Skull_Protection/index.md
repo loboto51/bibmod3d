@@ -61,11 +61,9 @@ Any resemblance to copyrighted materials is purely coincidental.  These are for 
 
 Justification du tag SUP :
 
-    ~~~
-    Includes both supported and unsupported versions.  My supports are rudimentary but printed fine on my printer.
-    
-    ~~~
+Includes both supported and unsupported versions.  My supports are rudimentary but printed fine on my printer.
 
-  
+
+
 
 

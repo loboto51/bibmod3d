@@ -224,11 +224,9 @@ Enjoy !
 
 Justification du tag SUP :
 
-    ~~~
-    include supported model !
-    
-    ~~~
+include supported model !
 
-  
+
+
 
 

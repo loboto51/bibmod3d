@@ -21,21 +21,21 @@ tags:
 - "epic VM Eldars-superlourds"
 - "superlourds VM Eldars-superlourds"
 - "epic superlourds VM Eldars-superlourds"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "VM SUP"
-- "epic VM SUP"
-- "superlourds VM SUP"
-- "epic superlourds VM SUP"
-- "Eldars-superlourds SUP"
-- "epic Eldars-superlourds SUP"
-- "superlourds Eldars-superlourds SUP"
-- "epic superlourds Eldars-superlourds SUP"
-- "VM Eldars-superlourds SUP"
-- "epic VM Eldars-superlourds SUP"
-- "superlourds VM Eldars-superlourds SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "VM NONSUP"
+- "epic VM NONSUP"
+- "superlourds VM NONSUP"
+- "epic superlourds VM NONSUP"
+- "Eldars-superlourds NONSUP"
+- "epic Eldars-superlourds NONSUP"
+- "superlourds Eldars-superlourds NONSUP"
+- "epic superlourds Eldars-superlourds NONSUP"
+- "VM Eldars-superlourds NONSUP"
+- "epic VM Eldars-superlourds NONSUP"
+- "superlourds VM Eldars-superlourds NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds VM Eldars-superlourds  SUP
+- epic superlourds VM Eldars-superlourds  NONSUP
 
 
 Description :
@@ -71,13 +71,6 @@ Enjoy!
 https://epic6mm.com/3d-printed-6mm-army-eldar-unicorn-y-tempest/
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_Eldar_Tempest_Superheavy_Grav_Tank_-_3907905_zip_unpack_files_tempestFULLSET_stl_.jpg
-    ~~~
-
-  
 
 

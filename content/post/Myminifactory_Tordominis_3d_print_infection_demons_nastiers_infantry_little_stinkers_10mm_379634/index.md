@@ -6,6 +6,13 @@ toc: true
 image: "thumbs_-_3d_print_infection_demons_nastiers_infantry_little_stinkers_10mm_379634_-_Images_1.jpg"
 tags:
 - "Tordominis"
+- "15mm"
+- "CHAOS"
+- "15mm CHAOS"
+- "NONSUP"
+- "15mm NONSUP"
+- "CHAOS NONSUP"
+- "15mm CHAOS NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -36,39 +43,39 @@ tags:
 - "CHAOS Chaos-portepestes-de-nurgle NURGLE"
 - "epic CHAOS Chaos-portepestes-de-nurgle NURGLE"
 - "infanterie CHAOS Chaos-portepestes-de-nurgle NURGLE"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "CHAOS SUP"
-- "epic CHAOS SUP"
-- "infanterie CHAOS SUP"
-- "epic infanterie CHAOS SUP"
-- "Chaos-portepestes-de-nurgle SUP"
-- "epic Chaos-portepestes-de-nurgle SUP"
-- "infanterie Chaos-portepestes-de-nurgle SUP"
-- "epic infanterie Chaos-portepestes-de-nurgle SUP"
-- "CHAOS Chaos-portepestes-de-nurgle SUP"
-- "epic CHAOS Chaos-portepestes-de-nurgle SUP"
-- "infanterie CHAOS Chaos-portepestes-de-nurgle SUP"
-- "NURGLE SUP"
-- "epic NURGLE SUP"
-- "infanterie NURGLE SUP"
-- "epic infanterie NURGLE SUP"
-- "CHAOS NURGLE SUP"
-- "epic CHAOS NURGLE SUP"
-- "infanterie CHAOS NURGLE SUP"
-- "Chaos-portepestes-de-nurgle NURGLE SUP"
-- "epic Chaos-portepestes-de-nurgle NURGLE SUP"
-- "infanterie Chaos-portepestes-de-nurgle NURGLE SUP"
-- "CHAOS Chaos-portepestes-de-nurgle NURGLE SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "CHAOS NONSUP"
+- "epic CHAOS NONSUP"
+- "infanterie CHAOS NONSUP"
+- "epic infanterie CHAOS NONSUP"
+- "Chaos-portepestes-de-nurgle NONSUP"
+- "epic Chaos-portepestes-de-nurgle NONSUP"
+- "infanterie Chaos-portepestes-de-nurgle NONSUP"
+- "epic infanterie Chaos-portepestes-de-nurgle NONSUP"
+- "CHAOS Chaos-portepestes-de-nurgle NONSUP"
+- "epic CHAOS Chaos-portepestes-de-nurgle NONSUP"
+- "infanterie CHAOS Chaos-portepestes-de-nurgle NONSUP"
+- "NURGLE NONSUP"
+- "epic NURGLE NONSUP"
+- "infanterie NURGLE NONSUP"
+- "epic infanterie NURGLE NONSUP"
+- "CHAOS NURGLE NONSUP"
+- "epic CHAOS NURGLE NONSUP"
+- "infanterie CHAOS NURGLE NONSUP"
+- "Chaos-portepestes-de-nurgle NURGLE NONSUP"
+- "epic Chaos-portepestes-de-nurgle NURGLE NONSUP"
+- "infanterie Chaos-portepestes-de-nurgle NURGLE NONSUP"
+- "CHAOS Chaos-portepestes-de-nurgle NURGLE NONSUP"
 - "warmaster"
 - "CHAOS"
 - "warmaster CHAOS"
-- "SUP"
-- "warmaster SUP"
-- "CHAOS SUP"
-- "warmaster CHAOS SUP"
+- "NONSUP"
+- "warmaster NONSUP"
+- "CHAOS NONSUP"
+- "warmaster CHAOS NONSUP"
 
 ---
 
@@ -88,14 +95,16 @@ Prix : 0 euros
 
 Collections :
 
+- 15mm CHAOS
 - epic infanterie CHAOS Chaos-portepestes-de-nurgle NURGLE
 - warmaster CHAOS
 
 
 Collections pour tags :
 
-- epic infanterie CHAOS Chaos-portepestes-de-nurgle NURGLE  SUP
-- warmaster CHAOS  SUP
+- 15mm CHAOS  NONSUP
+- epic infanterie CHAOS Chaos-portepestes-de-nurgle NURGLE  NONSUP
+- warmaster CHAOS  NONSUP
 
 
 Description :
@@ -104,30 +113,6 @@ Description :
 
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_lttl-stinkers-a-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_lttl-stinkers-b-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_lttl-stinkers-c-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-1-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-2-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-3-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-4-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-5-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-6-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-banner-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-leader-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_singles-musician-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-b-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-command-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-c-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-d-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-e-sup_stl_.jpg
-ImagesSTL_-_infection-demons-nastiers-infantry-little-stinkers-10mm_zip_unpack_strips-strip-f-sup_stl_.jpg
-    ~~~
-
-  
 
 

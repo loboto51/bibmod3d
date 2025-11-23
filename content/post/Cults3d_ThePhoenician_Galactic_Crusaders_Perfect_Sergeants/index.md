@@ -141,9 +141,8 @@ Wanted to add some legion specific flare to my tiny guys, and figured someone el
 
 Justification du tag SUP :
 
-    ~~~
-    Come supported in the typical manner, and I have had several successful prints using these supports. 
-    ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_1_Supported_obj_.jpg
+Come supported in the typical manner, and I have had several successful prints using these supports. 
+ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_1_Supported_obj_.jpg
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_2_Supported_obj_.jpg
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_3_Supported_obj_.jpg
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_4_Supported_obj_.jpg
@@ -151,8 +150,7 @@ ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpac
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_6_Supported_obj_.jpg
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_EC_Epic_Sgts_zip_unpack_EC_Epic_Sgts_Sgt_7_Supported_obj_.jpg
 ImagesSTL_-_galactic-crusaders-perfect-sergeants20231223-238596-t8nvkh_zip_unpack_ThePhoenician_galactic-crusaders-perfect-sergeants_Sgt_1_Supported_obj_.jpg
-    ~~~
 
-  
+
 
 

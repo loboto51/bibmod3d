@@ -161,11 +161,9 @@ please visit [NetEpic wargaming system](https://www.netepic-fr.com) for more inf
 
 Justification du tag SUP :
 
-    ~~~
-    These models were designed for small-scale wargaming (6-8mm) include supported model !
-    
-    ~~~
+These models were designed for small-scale wargaming (6-8mm) include supported model !
 
-  
+
+
 
 

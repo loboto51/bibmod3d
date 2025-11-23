@@ -6,6 +6,13 @@ toc: true
 image: "thumbs_-_3d_print_skull_god_demonic_infantry_4_0_8mm_and_15mm_singles_10mm_strips_213213_-_Images_1.jpg"
 tags:
 - "Tordominis"
+- "15mm"
+- "CHAOS"
+- "15mm CHAOS"
+- "SUP"
+- "15mm SUP"
+- "CHAOS SUP"
+- "15mm CHAOS SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -88,12 +95,14 @@ Prix : 0 euros
 
 Collections :
 
+- 15mm CHAOS
 - epic infanterie CHAOS Chaos-sanguinaires-de-khorne KHORNE
 - warmaster CHAOS
 
 
 Collections pour tags :
 
+- 15mm CHAOS  SUP
 - epic infanterie CHAOS Chaos-sanguinaires-de-khorne KHORNE  SUP
 - warmaster CHAOS  SUP
 
@@ -106,19 +115,14 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_A_command_sup_stl_.jpg
-ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_B_sup_stl_.jpg
-ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_C_sup_stl_.jpg
-ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_D_sup_stl_.jpg
-ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_E_sup_stl_.jpg
-ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_F_sup_stl_.jpg
-ImagesSTL_-_8mm_zip_unpack_8mm_10_leader_sup_stl_.jpg
-ImagesSTL_-_8mm_zip_unpack_8mm_11_banner_sup_stl_.jpg
-ImagesSTL_-_8mm_zip_unpack_8mm_5_sup_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_A_command_lys_.jpg
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_B_lys_.jpg
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_C_lys_.jpg
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_D_lys_.jpg
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_E_lys_.jpg
+ImagesSTL_-_10mm_strips_zip_unpack_10mm_strips_F_lys_.jpg
+
+
 
 

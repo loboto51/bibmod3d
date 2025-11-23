@@ -354,11 +354,9 @@ Patreon plug- If you want to help us create more stuff and get a bunch of 3d-pri
 
 Justification du tag SUP :
 
-    ~~~
-    These 14 miniatures print well on FDM machines (with supports), and we've included pre-supported versions for resin printing as well.
-    
-    ~~~
+These 14 miniatures print well on FDM machines (with supports), and we've included pre-supported versions for resin printing as well.
 
-  
+
+
 
 

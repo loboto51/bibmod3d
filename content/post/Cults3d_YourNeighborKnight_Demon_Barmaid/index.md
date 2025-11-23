@@ -56,11 +56,9 @@ Enjoy!
 
 Justification du tag SUP :
 
-    ~~~
-    The files are scaled for 32mm tabletop and are fully pre-supported!
-    
-    ~~~
+The files are scaled for 32mm tabletop and are fully pre-supported!
 
-  
+
+
 
 

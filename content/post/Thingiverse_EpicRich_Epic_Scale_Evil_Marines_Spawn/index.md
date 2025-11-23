@@ -98,11 +98,9 @@ https://www.thingiverse.com/thing:4012930
 
 Justification du tag SUP :
 
-    ~~~
-    Epic Scale Spawn pre supported. Some very fragile arms on these be careful.
-    
-    ~~~
+Epic Scale Spawn pre supported. Some very fragile arms on these be careful.
 
-  
+
+
 
 

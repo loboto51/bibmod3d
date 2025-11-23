@@ -62,48 +62,48 @@ tags:
 - "epic SMC Sm-assaut SM30K"
 - "infanterie SMC Sm-assaut SM30K"
 - "SMI SMC Sm-assaut SM30K"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "SMI NONSUP"
-- "epic SMI NONSUP"
-- "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
-- "SMI SMC NONSUP"
-- "epic SMI SMC NONSUP"
-- "infanterie SMI SMC NONSUP"
-- "Sm-assaut NONSUP"
-- "epic Sm-assaut NONSUP"
-- "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
-- "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
-- "SMC Sm-assaut NONSUP"
-- "epic SMC Sm-assaut NONSUP"
-- "infanterie SMC Sm-assaut NONSUP"
-- "SMI SMC Sm-assaut NONSUP"
-- "SM30K NONSUP"
-- "epic SM30K NONSUP"
-- "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
-- "SMI SM30K NONSUP"
-- "epic SMI SM30K NONSUP"
-- "infanterie SMI SM30K NONSUP"
-- "SMC SM30K NONSUP"
-- "epic SMC SM30K NONSUP"
-- "infanterie SMC SM30K NONSUP"
-- "SMI SMC SM30K NONSUP"
-- "Sm-assaut SM30K NONSUP"
-- "epic Sm-assaut SM30K NONSUP"
-- "infanterie Sm-assaut SM30K NONSUP"
-- "SMI Sm-assaut SM30K NONSUP"
-- "SMC Sm-assaut SM30K NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "SMI SUP"
+- "epic SMI SUP"
+- "infanterie SMI SUP"
+- "epic infanterie SMI SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "infanterie SMC SUP"
+- "epic infanterie SMC SUP"
+- "SMI SMC SUP"
+- "epic SMI SMC SUP"
+- "infanterie SMI SMC SUP"
+- "Sm-assaut SUP"
+- "epic Sm-assaut SUP"
+- "infanterie Sm-assaut SUP"
+- "epic infanterie Sm-assaut SUP"
+- "SMI Sm-assaut SUP"
+- "epic SMI Sm-assaut SUP"
+- "infanterie SMI Sm-assaut SUP"
+- "SMC Sm-assaut SUP"
+- "epic SMC Sm-assaut SUP"
+- "infanterie SMC Sm-assaut SUP"
+- "SMI SMC Sm-assaut SUP"
+- "SM30K SUP"
+- "epic SM30K SUP"
+- "infanterie SM30K SUP"
+- "epic infanterie SM30K SUP"
+- "SMI SM30K SUP"
+- "epic SMI SM30K SUP"
+- "infanterie SMI SM30K SUP"
+- "SMC SM30K SUP"
+- "epic SMC SM30K SUP"
+- "infanterie SMC SM30K SUP"
+- "SMI SMC SM30K SUP"
+- "Sm-assaut SM30K SUP"
+- "epic Sm-assaut SM30K SUP"
+- "infanterie Sm-assaut SM30K SUP"
+- "SMI Sm-assaut SM30K SUP"
+- "SMC Sm-assaut SM30K SUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI SMC Sm-assaut SM30K  NONSUP
+- epic infanterie SMI SMC Sm-assaut SM30K  SUP
 
 
 Description :
@@ -165,6 +165,12 @@ Lift speed: 40mm\min
 
 Retract 200mm\min 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Grey_Murderers_-_6-8_mm_-_4858187_zip_unpack_files_MKIII_GS_chitubox_.jpg
+ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Grey_Murderers_-_6-8_mm_-_4858187_zip_unpack_files_MKIII_GS_RUNNING_chitubox_.jpg
 
 
 

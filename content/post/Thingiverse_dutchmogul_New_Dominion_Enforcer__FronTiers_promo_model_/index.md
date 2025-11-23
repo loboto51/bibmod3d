@@ -134,11 +134,9 @@ This upload includes one promotional New Dominion Enforcer.
 
 Justification du tag SUP :
 
-    ~~~
-    - Pre-Supported
-    
-    ~~~
+- Pre-Supported
 
-  
+
+
 
 

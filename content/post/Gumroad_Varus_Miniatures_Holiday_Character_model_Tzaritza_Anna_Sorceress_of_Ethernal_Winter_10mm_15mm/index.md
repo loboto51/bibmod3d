@@ -13,14 +13,14 @@ tags:
 - "warmaster HUMAINS"
 - "EMPIRE HUMAINS"
 - "warmaster EMPIRE HUMAINS"
-- "NONSUP"
-- "warmaster NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "HUMAINS NONSUP"
-- "warmaster HUMAINS NONSUP"
-- "EMPIRE HUMAINS NONSUP"
-- "warmaster EMPIRE HUMAINS NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "EMPIRE SUP"
+- "warmaster EMPIRE SUP"
+- "HUMAINS SUP"
+- "warmaster HUMAINS SUP"
+- "EMPIRE HUMAINS SUP"
+- "warmaster EMPIRE HUMAINS SUP"
 
 ---
 
@@ -45,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster EMPIRE HUMAINS  NONSUP
+- warmaster EMPIRE HUMAINS  SUP
 
 
 Description :
@@ -63,6 +63,12 @@ Important: By purchasing these files, you agree that you may only use the conten
 
 Permission is given to modify the files for your own personal use but you are not permitted to share those derivatives in any way.
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Varus_Miniautres_Tzaritza_Anna_stl_zip_unpack_stl__elsa_chitubox_.jpg
+ImagesSTL_-_Varus_Miniautres_Tzaritza_Anna_stl_zip_unpack_stl__lynx_chitubox_.jpg
 
 
 

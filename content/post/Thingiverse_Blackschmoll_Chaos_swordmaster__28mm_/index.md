@@ -6,21 +6,36 @@ toc: true
 image: "thumbs_-_843053_-_Images_1.jpg"
 tags:
 - "Blackschmoll"
-- "warmaster"
+- "28mm"
 - "CHAOS"
-- "warmaster CHAOS"
+- "28mm CHAOS"
+- "WFB"
+- "28mm WFB"
+- "CHAOS WFB"
+- "28mm CHAOS WFB"
 - "NONDL"
-- "warmaster NONDL"
+- "28mm NONDL"
 - "CHAOS NONDL"
-- "warmaster CHAOS NONDL"
+- "28mm CHAOS NONDL"
+- "WFB NONDL"
+- "28mm WFB NONDL"
+- "CHAOS WFB NONDL"
+- "28mm CHAOS WFB NONDL"
 - "NONSUP"
-- "warmaster NONSUP"
+- "28mm NONSUP"
 - "CHAOS NONSUP"
-- "warmaster CHAOS NONSUP"
+- "28mm CHAOS NONSUP"
+- "WFB NONSUP"
+- "28mm WFB NONSUP"
+- "CHAOS WFB NONSUP"
+- "28mm CHAOS WFB NONSUP"
 - "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
+- "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
+- "28mm CHAOS NONDL NONSUP"
+- "WFB NONDL NONSUP"
+- "28mm WFB NONDL NONSUP"
+- "CHAOS WFB NONDL NONSUP"
 
 ---
 
@@ -38,12 +53,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster CHAOS
+- 28mm CHAOS WFB
 
 
 Collections pour tags :
 
-- warmaster CHAOS NONDL NONSUP
+- 28mm CHAOS WFB NONDL NONSUP
 
 
 Description :

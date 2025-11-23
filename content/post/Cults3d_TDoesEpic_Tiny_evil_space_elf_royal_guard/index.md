@@ -163,11 +163,9 @@ By request, I've added a bonus royal guard driver and bow gunner to use with my 
 
 Justification du tag SUP :
 
-    ~~~
-    Chitubox supports included (and tested) NO separate supported files included.
-    
-    ~~~
+Chitubox supports included (and tested) NO separate supported files included.
 
-  
+
+
 
 

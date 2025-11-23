@@ -54,11 +54,9 @@ Presupported Strips included
 
 Justification du tag SUP :
 
-    ~~~
-    Presupported Strips included
-    
-    ~~~
+Presupported Strips included
 
-  
+
+
 
 

@@ -137,11 +137,9 @@ I have also included a supported version for resin printers.
 
 Justification du tag SUP :
 
-    ~~~
-    I have also included a supported version for resin printers.
-    
-    ~~~
+I have also included a supported version for resin printers.
 
-  
+
+
 
 

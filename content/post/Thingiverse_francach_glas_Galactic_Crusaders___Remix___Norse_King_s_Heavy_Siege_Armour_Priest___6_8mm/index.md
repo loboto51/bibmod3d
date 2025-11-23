@@ -62,48 +62,48 @@ tags:
 - "epic SMC Sm-qg SM30K"
 - "infanterie SMC Sm-qg SM30K"
 - "SMI SMC Sm-qg SM30K"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "SMI NONSUP"
-- "epic SMI NONSUP"
-- "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
-- "SMI SMC NONSUP"
-- "epic SMI SMC NONSUP"
-- "infanterie SMI SMC NONSUP"
-- "Sm-qg NONSUP"
-- "epic Sm-qg NONSUP"
-- "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
-- "SMI Sm-qg NONSUP"
-- "epic SMI Sm-qg NONSUP"
-- "infanterie SMI Sm-qg NONSUP"
-- "SMC Sm-qg NONSUP"
-- "epic SMC Sm-qg NONSUP"
-- "infanterie SMC Sm-qg NONSUP"
-- "SMI SMC Sm-qg NONSUP"
-- "SM30K NONSUP"
-- "epic SM30K NONSUP"
-- "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
-- "SMI SM30K NONSUP"
-- "epic SMI SM30K NONSUP"
-- "infanterie SMI SM30K NONSUP"
-- "SMC SM30K NONSUP"
-- "epic SMC SM30K NONSUP"
-- "infanterie SMC SM30K NONSUP"
-- "SMI SMC SM30K NONSUP"
-- "Sm-qg SM30K NONSUP"
-- "epic Sm-qg SM30K NONSUP"
-- "infanterie Sm-qg SM30K NONSUP"
-- "SMI Sm-qg SM30K NONSUP"
-- "SMC Sm-qg SM30K NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "SMI SUP"
+- "epic SMI SUP"
+- "infanterie SMI SUP"
+- "epic infanterie SMI SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "infanterie SMC SUP"
+- "epic infanterie SMC SUP"
+- "SMI SMC SUP"
+- "epic SMI SMC SUP"
+- "infanterie SMI SMC SUP"
+- "Sm-qg SUP"
+- "epic Sm-qg SUP"
+- "infanterie Sm-qg SUP"
+- "epic infanterie Sm-qg SUP"
+- "SMI Sm-qg SUP"
+- "epic SMI Sm-qg SUP"
+- "infanterie SMI Sm-qg SUP"
+- "SMC Sm-qg SUP"
+- "epic SMC Sm-qg SUP"
+- "infanterie SMC Sm-qg SUP"
+- "SMI SMC Sm-qg SUP"
+- "SM30K SUP"
+- "epic SM30K SUP"
+- "infanterie SM30K SUP"
+- "epic infanterie SM30K SUP"
+- "SMI SM30K SUP"
+- "epic SMI SM30K SUP"
+- "infanterie SMI SM30K SUP"
+- "SMC SM30K SUP"
+- "epic SMC SM30K SUP"
+- "infanterie SMC SM30K SUP"
+- "SMI SMC SM30K SUP"
+- "Sm-qg SM30K SUP"
+- "epic Sm-qg SM30K SUP"
+- "infanterie Sm-qg SM30K SUP"
+- "SMI Sm-qg SM30K SUP"
+- "SMC Sm-qg SM30K SUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI SMC Sm-qg SM30K  NONSUP
+- epic infanterie SMI SMC Sm-qg SM30K  SUP
 
 
 Description :
@@ -149,6 +149,11 @@ Retract 200mm\min
 
 2xAA
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Heavy_Siege_Armour_Priest_-_6-8mm_-_4968224_zip_unpack_files_WP_VARAGYR_CTDA_chitubox_.jpg
 
 
 

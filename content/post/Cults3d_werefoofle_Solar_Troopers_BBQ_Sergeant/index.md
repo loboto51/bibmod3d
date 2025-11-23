@@ -239,11 +239,9 @@ Included my own presupported version, along with the .blend file.
 
 Justification du tag SUP :
 
-    ~~~
-    Included my own presupported version, along with the .blend file.
-    
-    ~~~
+Included my own presupported version, along with the .blend file.
 
-  
+
+
 
 

@@ -36,32 +36,32 @@ tags:
 - "SMI Sm-motos SMI-DA"
 - "epic SMI Sm-motos SMI-DA"
 - "infanterie SMI Sm-motos SMI-DA"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "Sm-motos SUP"
-- "epic Sm-motos SUP"
-- "infanterie Sm-motos SUP"
-- "epic infanterie Sm-motos SUP"
-- "SMI Sm-motos SUP"
-- "epic SMI Sm-motos SUP"
-- "infanterie SMI Sm-motos SUP"
-- "SMI-DA SUP"
-- "epic SMI-DA SUP"
-- "infanterie SMI-DA SUP"
-- "epic infanterie SMI-DA SUP"
-- "SMI SMI-DA SUP"
-- "epic SMI SMI-DA SUP"
-- "infanterie SMI SMI-DA SUP"
-- "Sm-motos SMI-DA SUP"
-- "epic Sm-motos SMI-DA SUP"
-- "infanterie Sm-motos SMI-DA SUP"
-- "SMI Sm-motos SMI-DA SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "Sm-motos NONSUP"
+- "epic Sm-motos NONSUP"
+- "infanterie Sm-motos NONSUP"
+- "epic infanterie Sm-motos NONSUP"
+- "SMI Sm-motos NONSUP"
+- "epic SMI Sm-motos NONSUP"
+- "infanterie SMI Sm-motos NONSUP"
+- "SMI-DA NONSUP"
+- "epic SMI-DA NONSUP"
+- "infanterie SMI-DA NONSUP"
+- "epic infanterie SMI-DA NONSUP"
+- "SMI SMI-DA NONSUP"
+- "epic SMI SMI-DA NONSUP"
+- "infanterie SMI SMI-DA NONSUP"
+- "Sm-motos SMI-DA NONSUP"
+- "epic Sm-motos SMI-DA NONSUP"
+- "infanterie Sm-motos SMI-DA NONSUP"
+- "SMI Sm-motos SMI-DA NONSUP"
 
 ---
 
@@ -84,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI Sm-motos SMI-DA  SUP
+- epic infanterie SMI Sm-motos SMI-DA  NONSUP
 
 
 Description :
@@ -98,14 +98,6 @@ Eagle Army remix and bikes from JIMMYZIMMS.
 I've added wings to the front and banner to the back.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_WING_OF_THE_RAVEN_-_Support_Bikers_-_6MM_-__EAGLE_ARMY_GALACTIC_CRUSADER_REMIX__-_5475785_zip_unpack_files_Ravenwing_Attack_Biker_HB_6mm_stl_.jpg
-ImagesSTL_-_WING_OF_THE_RAVEN_-_Support_Bikers_-_6MM_-__EAGLE_ARMY_GALACTIC_CRUSADER_REMIX__-_5475785_zip_unpack_files_Ravenwing_Attack_Biker_MM_6mm_stl_.jpg
-    ~~~
-
-  
 
 

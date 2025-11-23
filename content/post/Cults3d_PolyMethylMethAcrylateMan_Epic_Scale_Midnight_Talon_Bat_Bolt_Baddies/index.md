@@ -101,11 +101,9 @@ These are two epic scale models with no presupported option. This is a fan made 
 
 Justification du tag SUP :
 
-    ~~~
-    These are two epic scale models with no presupported option. This is a fan made creation inspired by other popular fan art and media.
-    
-    ~~~
+These are two epic scale models with no presupported option. This is a fan made creation inspired by other popular fan art and media.
 
-  
+
+
 
 

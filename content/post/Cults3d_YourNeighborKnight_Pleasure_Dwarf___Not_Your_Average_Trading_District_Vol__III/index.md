@@ -56,11 +56,9 @@ patreon.com/YourNeighborKnight
 
 Justification du tag SUP :
 
-    ~~~
-    All files are fully pre-supported.
-    
-    ~~~
+All files are fully pre-supported.
 
-  
+
+
 
 

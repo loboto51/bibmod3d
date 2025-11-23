@@ -176,11 +176,9 @@ Hope this bit comes in handy!
 
 Justification du tag SUP :
 
-    ~~~
-    Supported in chitubox.
-    
-    ~~~
+Supported in chitubox.
 
-  
+
+
 
 

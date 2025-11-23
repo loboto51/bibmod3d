@@ -77,12 +77,10 @@ https://cults3d.com/en/users/lstar/3d-models
 
 Justification du tag SUP :
 
-    ~~~
-    A humble reworking of various MLRS module design to fit legendary LSTAR's kit ( https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported ).
+A humble reworking of various MLRS module design to fit legendary LSTAR's kit ( https://cults3d.com/en/3d-model/game/starports-dread-rhine-o-transport-command-mlrs-tanks-supported ).
 Unsupported unfortunately.
-    
-    ~~~
 
-  
+
+
 
 

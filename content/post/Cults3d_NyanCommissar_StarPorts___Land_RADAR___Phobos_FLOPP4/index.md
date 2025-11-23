@@ -78,12 +78,10 @@ Thanks to Vlad3dEesti for awesome modular sponson ideas
 
 Justification du tag SUP :
 
-    ~~~
-    A humble reworking of Woddish's excellent design. with great help by JimmyZimms ( https://cults3d.com/en/3d-model/game/interstellar-jarhead-ground-plunderer-builder ). Unsupported unfortunately.
-    ImagesSTL_-_StarPorts_-_Land_RADAR_-_Phobos_FLOPP4_zip_unpack_Sponsons_Phobos_Sponson_Main_Left_Sup_stl_.jpg
+A humble reworking of Woddish's excellent design. with great help by JimmyZimms ( https://cults3d.com/en/3d-model/game/interstellar-jarhead-ground-plunderer-builder ). Unsupported unfortunately.
+ImagesSTL_-_StarPorts_-_Land_RADAR_-_Phobos_FLOPP4_zip_unpack_Sponsons_Phobos_Sponson_Main_Left_Sup_stl_.jpg
 ImagesSTL_-_StarPorts_-_Land_RADAR_-_Phobos_FLOPP4_zip_unpack_Sponsons_Phobos_Sponson_Main_Right_Sup_stl_.jpg
-    ~~~
 
-  
+
 
 

@@ -478,11 +478,9 @@ Bambu A1 Printer: https://www.fatdragongames.com/fdgfiles/bambu-studio-slicer-pr
 
 Justification du tag SUP :
 
-    ~~~
-    First of all, I would like to sincerely thank everyone who has supported me on Patreon over the past few years. Without your support, I probably wouldn't have taken the time to create some of my miniatures. It was a great motivation that helped me move forward - thank you so much!
-    
-    ~~~
+First of all, I would like to sincerely thank everyone who has supported me on Patreon over the past few years. Without your support, I probably wouldn't have taken the time to create some of my miniatures. It was a great motivation that helped me move forward - thank you so much!
 
-  
+
+
 
 

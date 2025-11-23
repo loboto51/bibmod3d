@@ -139,11 +139,9 @@ https://www.thingiverse.com/thing:3135503
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale fiend demons. pre supported.
-    
-    ~~~
+Epic scale fiend demons. pre supported.
 
-  
+
+
 
 

@@ -60,11 +60,9 @@ All files are available both pre-supported and unsupported for added flexibility
 
 Justification du tag SUP :
 
-    ~~~
-    All files are available both pre-supported and unsupported for added flexibility. Lychee scenes are also included to tweak supports as needed.
-    
-    ~~~
+All files are available both pre-supported and unsupported for added flexibility. Lychee scenes are also included to tweak supports as needed.
 
-  
+
+
 
 

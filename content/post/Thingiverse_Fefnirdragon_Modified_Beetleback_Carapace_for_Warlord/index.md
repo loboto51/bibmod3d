@@ -96,11 +96,9 @@ https://cults3d.com/en/3d-model/game/torso-princeps
 
 Justification du tag SUP :
 
-    ~~~
-    Pre-supported Stl file optimized for SLA printer included.
-    
-    ~~~
+Pre-supported Stl file optimized for SLA printer included.
 
-  
+
+
 
 

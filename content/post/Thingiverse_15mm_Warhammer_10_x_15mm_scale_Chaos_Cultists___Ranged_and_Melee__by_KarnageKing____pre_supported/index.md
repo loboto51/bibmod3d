@@ -305,11 +305,9 @@ https://www.thingiverse.com/thing:3412471
 
 Justification du tag SUP :
 
-    ~~~
-    I have been rescaled some of Chaos cultists by KarnageKing for 15mm scale and pre supported them for ease of print.
-    
-    ~~~
+I have been rescaled some of Chaos cultists by KarnageKing for 15mm scale and pre supported them for ease of print.
 
-  
+
+
 
 

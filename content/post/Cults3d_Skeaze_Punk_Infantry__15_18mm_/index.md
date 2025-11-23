@@ -104,12 +104,10 @@ https://www.wargamevault.com/product/521390/Mystic-Space-Alpha-version?src=hotte
 
 Justification du tag SUP :
 
-    ~~~
-    This set contains 10 models in 15/18mm/1:100 scale*. All models are Pre-supported**!
+This set contains 10 models in 15/18mm/1:100 scale*. All models are Pre-supported**!
 **I test print all my pre-supported files. I tend to go with more supports to be safe. I'd recommend using the hot-water technique to ensure easy support removal.
-    
-    ~~~
 
-  
+
+
 
 

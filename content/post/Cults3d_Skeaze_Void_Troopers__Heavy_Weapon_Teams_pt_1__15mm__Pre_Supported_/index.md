@@ -99,12 +99,10 @@ There are both unsupported, and pre-supported* versions of each, including Lyche
 
 Justification du tag SUP :
 
-    ~~~
-    Part 2 with additional weapons and crew is now available here: https://cults3d.com/en/3d-model/game/void-troopers-heavy-weapon-teams-pt-2-15mm-pre-supported
+Part 2 with additional weapons and crew is now available here: https://cults3d.com/en/3d-model/game/void-troopers-heavy-weapon-teams-pt-2-15mm-pre-supported
 There are both unsupported, and pre-supported* versions of each, including Lychee files.
-    
-    ~~~
 
-  
+
+
 
 

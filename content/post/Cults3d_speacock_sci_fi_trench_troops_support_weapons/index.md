@@ -21,21 +21,21 @@ tags:
 - "epic GI Canons"
 - "infanterie GI Canons"
 - "epic infanterie GI Canons"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "infanterie GI SUP"
-- "epic infanterie GI SUP"
-- "Canons SUP"
-- "epic Canons SUP"
-- "infanterie Canons SUP"
-- "epic infanterie Canons SUP"
-- "GI Canons SUP"
-- "epic GI Canons SUP"
-- "infanterie GI Canons SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "infanterie GI NONSUP"
+- "epic infanterie GI NONSUP"
+- "Canons NONSUP"
+- "epic Canons NONSUP"
+- "infanterie Canons NONSUP"
+- "epic infanterie Canons NONSUP"
+- "GI Canons NONSUP"
+- "epic GI Canons NONSUP"
+- "infanterie GI Canons NONSUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Canons  SUP
+- epic infanterie GI Canons  NONSUP
 
 
 Description :
@@ -70,13 +70,6 @@ some support guns for the trench troops
 remixed from various files
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_DKOKSUPPORTGUNS_zip_unpack_DKOKSUPPORTGUNS_stl_.jpg
-    ~~~
-
-  
 
 

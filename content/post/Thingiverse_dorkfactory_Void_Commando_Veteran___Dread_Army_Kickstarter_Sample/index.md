@@ -899,11 +899,9 @@ Take a look and follow the project on kickstarter to keep updated!
 
 Justification du tag SUP :
 
-    ~~~
-    Prepare yourself for a massive army bundle of pre-supported STLs that have returned from a hellish dimension.
-    
-    ~~~
+Prepare yourself for a massive army bundle of pre-supported STLs that have returned from a hellish dimension.
 
-  
+
+
 
 

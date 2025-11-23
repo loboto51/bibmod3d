@@ -55,12 +55,10 @@ This is pre supported 15mm rescale of Epic scale Tyranid Broodlord made by talen
 
 Justification du tag SUP :
 
-    ~~~
-    This is pre supported 15mm rescale of Epic scale Tyranid Broodlord made by talented Tdoesepic https://www.thingiverse.com/thing:4601250
-    ImagesSTL_-_15mm_rescale_of_BroodLord__by_Tdoesepic___-_pre_supported_-_4905879_zip_unpack_files__lord_of_the_brood_15mm_stl_.jpg
+This is pre supported 15mm rescale of Epic scale Tyranid Broodlord made by talented Tdoesepic https://www.thingiverse.com/thing:4601250
+ImagesSTL_-_15mm_rescale_of_BroodLord__by_Tdoesepic___-_pre_supported_-_4905879_zip_unpack_files__lord_of_the_brood_15mm_stl_.jpg
 ImagesSTL_-_15mm_rescale_of_BroodLord__by_Tdoesepic___-_pre_supported_-_4905879_zip_unpack_files__lord_of_the_brood_15mm_Sup_stl_.jpg
-    ~~~
 
-  
+
 
 

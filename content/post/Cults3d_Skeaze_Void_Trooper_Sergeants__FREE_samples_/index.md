@@ -95,11 +95,9 @@ If you want the full set with the rest of the various poses and weapon combinati
 
 Justification du tag SUP :
 
-    ~~~
-    If you want the full set with the rest of the various poses and weapon combinations, and PRE-SUPPORTED files, you can get it for some pocket change here: https://cults3d.com/en/3d-model/game/archaic-void-troopers-sergeants-15mm
-    
-    ~~~
+If you want the full set with the rest of the various poses and weapon combinations, and PRE-SUPPORTED files, you can get it for some pocket change here: https://cults3d.com/en/3d-model/game/archaic-void-troopers-sergeants-15mm
 
-  
+
+
 
 

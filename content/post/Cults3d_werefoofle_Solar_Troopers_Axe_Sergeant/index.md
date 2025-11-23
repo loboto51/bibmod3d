@@ -239,11 +239,9 @@ Included my own presupported version, along with the .blend file, and the axe.
 
 Justification du tag SUP :
 
-    ~~~
-    Included my own presupported version, along with the .blend file, and the axe.
-    
-    ~~~
+Included my own presupported version, along with the .blend file, and the axe.
 
-  
+
+
 
 

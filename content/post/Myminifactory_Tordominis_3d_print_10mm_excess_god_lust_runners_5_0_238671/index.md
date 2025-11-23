@@ -6,6 +6,13 @@ toc: true
 image: "thumbs_-_3d_print_10mm_excess_god_lust_runners_5_0_238671_-_Images_1.jpg"
 tags:
 - "Tordominis"
+- "15mm"
+- "CHAOS"
+- "15mm CHAOS"
+- "SUP"
+- "15mm SUP"
+- "CHAOS SUP"
+- "15mm CHAOS SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -86,12 +93,14 @@ Prix : 0 euros
 
 Collections :
 
+- 15mm CHAOS
 - epic infanterie CHAOS Chaos-traqueurs-de-slaanesh SLAANESH
 - warmaster CHAOS
 
 
 Collections pour tags :
 
+- 15mm CHAOS  SUP
 - epic infanterie CHAOS Chaos-traqueurs-de-slaanesh SLAANESH  SUP
 - warmaster CHAOS  SUP
 
@@ -110,45 +119,17 @@ Whether you march them into war or display them as collectors’ pieces, the Lus
 
 Justification du tag SUP :
 
-    ~~~
-    Unleash the fury of speed and desire with the Lust Runners – a complete set of 12 unique and dynamic miniatures, each sculpted with breathtaking detail and motion. Every model comes with carefully crafted pre-supported files, as well as the LYS option for expert users of Lychee, ensuring a smooth experience whether you’re a beginner or a veteran of the print battlefield.
-    ImagesSTL_-_10mm_zip_unpack_10mm_A_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_B_leader_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_C_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_D_SUP_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_E_banner_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_F_horn_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_G_sup_stl_.jpg
-ImagesSTL_-_10mm_zip_unpack_10mm_H_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_1_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_2_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_3_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_4_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_5_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_6_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_7_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_8_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_singles_zip_unpack_singles_9_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_A_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_B_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_C_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_D_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_E_sup_stl_.jpg
-ImagesSTL_-_3_0_zip_unpack_strips_zip_unpack_strips_F_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_A_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_Banner_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_B_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_C_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_D_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_E_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_F_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_G_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_Horn_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_H_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_I_sup_stl_.jpg
-ImagesSTL_-_Runners_5_0_zip_unpack_Leader_sup_stl_.jpg
-    ~~~
+Unleash the fury of speed and desire with the Lust Runners – a complete set of 12 unique and dynamic miniatures, each sculpted with breathtaking detail and motion. Every model comes with carefully crafted pre-supported files, as well as the LYS option for expert users of Lychee, ensuring a smooth experience whether you’re a beginner or a veteran of the print battlefield.
+ImagesSTL_-_10mm_zip_unpack_10mm_A_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_B_leader_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_C_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_D_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_E_banner_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_F_horn_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_G_lys_.jpg
+ImagesSTL_-_10mm_zip_unpack_10mm_H_lys_.jpg
+ImagesSTL_-_15mm_zip_unpack_15mm_15mm_unit_lys_.jpg
 
-  
+
 
 

@@ -203,11 +203,9 @@ Update 3: separated torso and purity seal
 
 Justification du tag SUP :
 
-    ~~~
-    Parts are unsupported. I recommend printing in resin. 
-    
-    ~~~
+Parts are unsupported. I recommend printing in resin. 
 
-  
+
+
 
 

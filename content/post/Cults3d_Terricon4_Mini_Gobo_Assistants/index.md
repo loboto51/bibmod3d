@@ -202,11 +202,9 @@ All models come pre supported and in basic version. Enjoy!
 
 Justification du tag SUP :
 
-    ~~~
-    All models come pre supported and in basic version. Enjoy!
-    
-    ~~~
+All models come pre supported and in basic version. Enjoy!
 
-  
+
+
 
 

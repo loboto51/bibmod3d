@@ -21,21 +21,21 @@ tags:
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
 - "epic infanterie ORKS Orks-boyz"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "ORKS SUP"
-- "epic ORKS SUP"
-- "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
-- "Orks-boyz SUP"
-- "epic Orks-boyz SUP"
-- "infanterie Orks-boyz SUP"
-- "epic infanterie Orks-boyz SUP"
-- "ORKS Orks-boyz SUP"
-- "epic ORKS Orks-boyz SUP"
-- "infanterie ORKS Orks-boyz SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "infanterie ORKS NONSUP"
+- "epic infanterie ORKS NONSUP"
+- "Orks-boyz NONSUP"
+- "epic Orks-boyz NONSUP"
+- "infanterie Orks-boyz NONSUP"
+- "epic infanterie Orks-boyz NONSUP"
+- "ORKS Orks-boyz NONSUP"
+- "epic ORKS Orks-boyz NONSUP"
+- "infanterie ORKS Orks-boyz NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie ORKS Orks-boyz  SUP
+- epic infanterie ORKS Orks-boyz  NONSUP
 
 
 Description :
@@ -69,13 +69,6 @@ Remix of jazzmantis' excellent Small scale Space Orcs to fit with the rest of my
 https://www.thingiverse.com/thing:4326596
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epically_rescaled_Space_Orcs_with_helmets_-_4678305_zip_unpack_files_Orks_Strip_1_Supports_stl_.jpg
-    ~~~
-
-  
 
 

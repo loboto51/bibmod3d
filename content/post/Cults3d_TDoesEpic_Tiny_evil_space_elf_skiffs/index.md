@@ -110,11 +110,9 @@ Hopefully more to come soon!
 
 Justification du tag SUP :
 
-    ~~~
-    Supported files are currently NOT included. The bases should print without supports but the rest will need to be supported before printing.
-    
-    ~~~
+Supported files are currently NOT included. The bases should print without supports but the rest will need to be supported before printing.
 
-  
+
+
 
 

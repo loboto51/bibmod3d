@@ -67,11 +67,9 @@ This is a Tyranid Hive Ship (Charybdis in BFG:XR) and I have edited it to be pri
 
 Justification du tag SUP :
 
-    ~~~
-    This is a Tyranid Hive Ship (Charybdis in BFG:XR) and I have edited it to be printable, it has my version of Pyro-Acid in its mouth, and I also uploaded a supported version. It is very hollow but has structural supports inside the supported stl. I've printed it once and it is huge and scary. You have to be very careful when removing the supports from the spines and tendrils.
-    
-    ~~~
+This is a Tyranid Hive Ship (Charybdis in BFG:XR) and I have edited it to be printable, it has my version of Pyro-Acid in its mouth, and I also uploaded a supported version. It is very hollow but has structural supports inside the supported stl. I've printed it once and it is huge and scary. You have to be very careful when removing the supports from the spines and tendrils.
 
-  
+
+
 
 

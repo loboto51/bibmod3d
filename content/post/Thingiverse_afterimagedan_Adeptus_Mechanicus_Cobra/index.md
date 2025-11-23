@@ -95,11 +95,9 @@ Thanks to Italianmoose and Anaerian!
 
 Justification du tag SUP :
 
-    ~~~
-    This is my mashup to make an Adeptus Mechanicus Cobra or other small escort ships like a Claymore or ships from the Additional Ships compendium 2.0. I also posted the supported version which I have printed successfully on my Elegoo Mars. 
-    
-    ~~~
+This is my mashup to make an Adeptus Mechanicus Cobra or other small escort ships like a Claymore or ships from the Additional Ships compendium 2.0. I also posted the supported version which I have printed successfully on my Elegoo Mars. 
 
-  
+
+
 
 

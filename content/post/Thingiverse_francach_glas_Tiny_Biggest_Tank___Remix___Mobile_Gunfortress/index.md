@@ -21,21 +21,21 @@ tags:
 - "epic GI Baneblades-doubles-tourelles"
 - "superlourds GI Baneblades-doubles-tourelles"
 - "epic superlourds GI Baneblades-doubles-tourelles"
-- "NONSUP"
-- "epic NONSUP"
-- "superlourds NONSUP"
-- "epic superlourds NONSUP"
-- "GI NONSUP"
-- "epic GI NONSUP"
-- "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
-- "Baneblades-doubles-tourelles NONSUP"
-- "epic Baneblades-doubles-tourelles NONSUP"
-- "superlourds Baneblades-doubles-tourelles NONSUP"
-- "epic superlourds Baneblades-doubles-tourelles NONSUP"
-- "GI Baneblades-doubles-tourelles NONSUP"
-- "epic GI Baneblades-doubles-tourelles NONSUP"
-- "superlourds GI Baneblades-doubles-tourelles NONSUP"
+- "SUP"
+- "epic SUP"
+- "superlourds SUP"
+- "epic superlourds SUP"
+- "GI SUP"
+- "epic GI SUP"
+- "superlourds GI SUP"
+- "epic superlourds GI SUP"
+- "Baneblades-doubles-tourelles SUP"
+- "epic Baneblades-doubles-tourelles SUP"
+- "superlourds Baneblades-doubles-tourelles SUP"
+- "epic superlourds Baneblades-doubles-tourelles SUP"
+- "GI Baneblades-doubles-tourelles SUP"
+- "epic GI Baneblades-doubles-tourelles SUP"
+- "superlourds GI Baneblades-doubles-tourelles SUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-doubles-tourelles  NONSUP
+- epic superlourds GI Baneblades-doubles-tourelles  SUP
 
 
 Description :
@@ -90,6 +90,11 @@ Retract 200mm\min
 
 Your settings may vary, so use it on your own risk. 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Tiny_Biggest_Tank_-_Remix_-_Mobile_Gunfortress_-_4858126_zip_unpack_files_STORMHAMMER_chitubox_.jpg
 
 
 

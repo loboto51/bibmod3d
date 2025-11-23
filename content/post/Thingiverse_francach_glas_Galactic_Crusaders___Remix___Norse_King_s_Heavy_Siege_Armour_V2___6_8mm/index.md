@@ -21,21 +21,21 @@ tags:
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
 - "epic infanterie SMC Sm-terminators"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "SMC NONSUP"
-- "epic SMC NONSUP"
-- "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
-- "Sm-terminators NONSUP"
-- "epic Sm-terminators NONSUP"
-- "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
-- "SMC Sm-terminators NONSUP"
-- "epic SMC Sm-terminators NONSUP"
-- "infanterie SMC Sm-terminators NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "SMC SUP"
+- "epic SMC SUP"
+- "infanterie SMC SUP"
+- "epic infanterie SMC SUP"
+- "Sm-terminators SUP"
+- "epic Sm-terminators SUP"
+- "infanterie Sm-terminators SUP"
+- "epic infanterie Sm-terminators SUP"
+- "SMC Sm-terminators SUP"
+- "epic SMC Sm-terminators SUP"
+- "infanterie SMC Sm-terminators SUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMC Sm-terminators  NONSUP
+- epic infanterie SMC Sm-terminators  SUP
 
 
 Description :
@@ -84,6 +84,11 @@ Retract 200mm\min
 
 2xAA
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Heavy_Siege_Armour_V2_-_6-8mm_-_4968194_zip_unpack_files_VARAGYR_V2_chitubox_.jpg
 
 
 

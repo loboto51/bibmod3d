@@ -21,21 +21,21 @@ tags:
 - "epic TYRANIDES Tyranides-hierodules"
 - "titans TYRANIDES Tyranides-hierodules"
 - "epic titans TYRANIDES Tyranides-hierodules"
-- "SUP"
-- "epic SUP"
-- "titans SUP"
-- "epic titans SUP"
-- "TYRANIDES SUP"
-- "epic TYRANIDES SUP"
-- "titans TYRANIDES SUP"
-- "epic titans TYRANIDES SUP"
-- "Tyranides-hierodules SUP"
-- "epic Tyranides-hierodules SUP"
-- "titans Tyranides-hierodules SUP"
-- "epic titans Tyranides-hierodules SUP"
-- "TYRANIDES Tyranides-hierodules SUP"
-- "epic TYRANIDES Tyranides-hierodules SUP"
-- "titans TYRANIDES Tyranides-hierodules SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "titans NONSUP"
+- "epic titans NONSUP"
+- "TYRANIDES NONSUP"
+- "epic TYRANIDES NONSUP"
+- "titans TYRANIDES NONSUP"
+- "epic titans TYRANIDES NONSUP"
+- "Tyranides-hierodules NONSUP"
+- "epic Tyranides-hierodules NONSUP"
+- "titans Tyranides-hierodules NONSUP"
+- "epic titans Tyranides-hierodules NONSUP"
+- "TYRANIDES Tyranides-hierodules NONSUP"
+- "epic TYRANIDES Tyranides-hierodules NONSUP"
+- "titans TYRANIDES Tyranides-hierodules NONSUP"
 - "epic"
 - "titans"
 - "epic titans"
@@ -51,21 +51,21 @@ tags:
 - "epic TYRANIDES Tyranides-hierophants"
 - "titans TYRANIDES Tyranides-hierophants"
 - "epic titans TYRANIDES Tyranides-hierophants"
-- "SUP"
-- "epic SUP"
-- "titans SUP"
-- "epic titans SUP"
-- "TYRANIDES SUP"
-- "epic TYRANIDES SUP"
-- "titans TYRANIDES SUP"
-- "epic titans TYRANIDES SUP"
-- "Tyranides-hierophants SUP"
-- "epic Tyranides-hierophants SUP"
-- "titans Tyranides-hierophants SUP"
-- "epic titans Tyranides-hierophants SUP"
-- "TYRANIDES Tyranides-hierophants SUP"
-- "epic TYRANIDES Tyranides-hierophants SUP"
-- "titans TYRANIDES Tyranides-hierophants SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "titans NONSUP"
+- "epic titans NONSUP"
+- "TYRANIDES NONSUP"
+- "epic TYRANIDES NONSUP"
+- "titans TYRANIDES NONSUP"
+- "epic titans TYRANIDES NONSUP"
+- "Tyranides-hierophants NONSUP"
+- "epic Tyranides-hierophants NONSUP"
+- "titans Tyranides-hierophants NONSUP"
+- "epic titans Tyranides-hierophants NONSUP"
+- "TYRANIDES Tyranides-hierophants NONSUP"
+- "epic TYRANIDES Tyranides-hierophants NONSUP"
+- "titans TYRANIDES Tyranides-hierophants NONSUP"
 
 ---
 
@@ -89,8 +89,8 @@ Collections :
 
 Collections pour tags :
 
-- epic titans TYRANIDES Tyranides-hierodules  SUP
-- epic titans TYRANIDES Tyranides-hierophants  SUP
+- epic titans TYRANIDES Tyranides-hierodules  NONSUP
+- epic titans TYRANIDES Tyranides-hierophants  NONSUP
 
 
 Description :
@@ -99,13 +99,6 @@ Description :
 Some hungry critters for 6mm gaming.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Insecte_Spatial_zip_unpack_Insecte_Spatial_Space_Bug_Flying_Swarm-support_stl_.jpg
-    ~~~
-
-  
 
 

@@ -83,12 +83,10 @@ Thank you for your support! 
 
 Justification du tag SUP :
 
-    ~~~
-    The Miniature comes in two versions - unsupported + pre-supported and a printable base.
-    ImagesSTL_-_SpaceInquisitorV2_zip_unpack_SpaceInquisitorclosed_supported_stl_.jpg
+The Miniature comes in two versions - unsupported + pre-supported and a printable base.
+ImagesSTL_-_SpaceInquisitorV2_zip_unpack_SpaceInquisitorclosed_supported_stl_.jpg
 ImagesSTL_-_SpaceInquisitor_zip_unpack_SpaceInquisitor_supported_stl_.jpg
-    ~~~
 
-  
+
 
 

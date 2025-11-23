@@ -95,11 +95,9 @@ I have included a pre-supported stl optimized for SLA printer.
 
 Justification du tag SUP :
 
-    ~~~
-    I have included a pre-supported stl optimized for SLA printer.
-    
-    ~~~
+I have included a pre-supported stl optimized for SLA printer.
 
-  
+
+
 
 

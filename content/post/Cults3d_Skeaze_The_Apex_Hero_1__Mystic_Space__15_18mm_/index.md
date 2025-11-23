@@ -102,12 +102,10 @@ https://www.wargamevault.com/product/521390/Mystic-Space-Alpha-version?src=hotte
 
 Justification du tag SUP :
 
-    ~~~
-    A single generic hero figure. Pre-supported file included!*
+A single generic hero figure. Pre-supported file included!*
 *I test print all my pre-supported files. I tend to go with more supports to be safe. I'd recommend using the hot-water technique to ensure easy support removal.
-    
-    ~~~
 
-  
+
+
 
 

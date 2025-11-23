@@ -137,13 +137,11 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_june-extra_zip_unpack_A_sup_stl_.jpg
+
+ImagesSTL_-_june-extra_zip_unpack_A_sup_stl_.jpg
 ImagesSTL_-_june-extra_zip_unpack_B_sup_stl_.jpg
 ImagesSTL_-_june-extra_zip_unpack_C_sup_stl_.jpg
-    ~~~
 
-  
+
 
 

@@ -201,11 +201,9 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_darko_zip_unpack_darko_sup_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_darko_zip_unpack_darko_sup_stl_.jpg
+
+
 
 

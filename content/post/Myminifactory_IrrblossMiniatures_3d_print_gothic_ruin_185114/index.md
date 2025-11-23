@@ -103,12 +103,10 @@ This is a digital download of a gothic ruin in STL format for 3d printing. I hav
 
 Justification du tag SUP :
 
-    ~~~
-    This is a digital download of a gothic ruin in STL format for 3d printing. I have also included a supported model that can be opened in Lychee slicer software. The supported miniuature has been printed and tested on a anycubic photon mono with default settings. If there is anything you want to know don´t hesitate to ask I,m here to help. Kind regards, Joel.
-    ImagesSTL_-_613f2939cb47d_gothic-ruin_zip_unpack_gothicwallasupported_lys_.jpg
+This is a digital download of a gothic ruin in STL format for 3d printing. I have also included a supported model that can be opened in Lychee slicer software. The supported miniuature has been printed and tested on a anycubic photon mono with default settings. If there is anything you want to know don´t hesitate to ask I,m here to help. Kind regards, Joel.
+ImagesSTL_-_613f2939cb47d_gothic-ruin_zip_unpack_gothicwallasupported_lys_.jpg
 ImagesSTL_-_613f2939cb47d_gothic-ruin_zip_unpack_gothicwallbsupported_lys_.jpg
-    ~~~
 
-  
+
 
 

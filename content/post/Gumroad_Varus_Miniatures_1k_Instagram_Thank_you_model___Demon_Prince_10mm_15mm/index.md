@@ -88,11 +88,10 @@ Permission is given to modify the files for your own personal use but you are no
 
 Justification du tag SUP :
 
-    ~~~
-    Demon Prince of undivided Rage - supported.
-    
-    ~~~
+Demon Prince of undivided Rage - supported.
+ImagesSTL_-_varus_miniatures_demon_prince_zip_unpack_varus_miniatures_demon_prince_demon_prince_chitubox_.jpg
+ImagesSTL_-_varus_miniatures_demon_prince_zip_unpack_varus_miniatures_demon_prince_demon_prince_soul_chitubox_.jpg
 
-  
+
 
 

@@ -69,11 +69,9 @@ This is an edited Battlefleet Gothic Basha Light Cruisers for the Orks that is p
 
 Justification du tag SUP :
 
-    ~~~
-    This is an edited Battlefleet Gothic Basha Light Cruisers for the Orks that is printable. I also uploaded my supported file so you can print it right away on a resin printer. I have printed it twice and it worked out really well.  Thanks jimjimjimmyjim for your work on these!
-    
-    ~~~
+This is an edited Battlefleet Gothic Basha Light Cruisers for the Orks that is printable. I also uploaded my supported file so you can print it right away on a resin printer. I have printed it twice and it worked out really well.  Thanks jimjimjimmyjim for your work on these!
 
-  
+
+
 
 

@@ -54,14 +54,12 @@ A resin printer is highly recommended on these miniatures.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-1_stl_.jpg
+
+ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-1_stl_.jpg
 ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-2_stl_.jpg
 ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-3_stl_.jpg
 ImagesSTL_-_632008743eda8_warmaster-orc-boar-chariots-10mm-warmaster_zip_unpack_wakes-emporium-orc-boar-chariots-wakes-emporium-supported-wakes-emporium-orc-boar-chariot-supported-4_stl_.jpg
-    ~~~
 
-  
+
 
 

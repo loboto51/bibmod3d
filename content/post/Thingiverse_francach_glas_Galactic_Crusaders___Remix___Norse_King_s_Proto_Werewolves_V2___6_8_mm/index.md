@@ -36,32 +36,32 @@ tags:
 - "SMI Sm-assaut SMI-SW"
 - "epic SMI Sm-assaut SMI-SW"
 - "infanterie SMI Sm-assaut SMI-SW"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "SMI NONSUP"
-- "epic SMI NONSUP"
-- "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
-- "Sm-assaut NONSUP"
-- "epic Sm-assaut NONSUP"
-- "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
-- "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
-- "SMI-SW NONSUP"
-- "epic SMI-SW NONSUP"
-- "infanterie SMI-SW NONSUP"
-- "epic infanterie SMI-SW NONSUP"
-- "SMI SMI-SW NONSUP"
-- "epic SMI SMI-SW NONSUP"
-- "infanterie SMI SMI-SW NONSUP"
-- "Sm-assaut SMI-SW NONSUP"
-- "epic Sm-assaut SMI-SW NONSUP"
-- "infanterie Sm-assaut SMI-SW NONSUP"
-- "SMI Sm-assaut SMI-SW NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "SMI SUP"
+- "epic SMI SUP"
+- "infanterie SMI SUP"
+- "epic infanterie SMI SUP"
+- "Sm-assaut SUP"
+- "epic Sm-assaut SUP"
+- "infanterie Sm-assaut SUP"
+- "epic infanterie Sm-assaut SUP"
+- "SMI Sm-assaut SUP"
+- "epic SMI Sm-assaut SUP"
+- "infanterie SMI Sm-assaut SUP"
+- "SMI-SW SUP"
+- "epic SMI-SW SUP"
+- "infanterie SMI-SW SUP"
+- "epic infanterie SMI-SW SUP"
+- "SMI SMI-SW SUP"
+- "epic SMI SMI-SW SUP"
+- "infanterie SMI SMI-SW SUP"
+- "Sm-assaut SMI-SW SUP"
+- "epic Sm-assaut SMI-SW SUP"
+- "infanterie Sm-assaut SMI-SW SUP"
+- "SMI Sm-assaut SMI-SW SUP"
 
 ---
 
@@ -84,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI Sm-assaut SMI-SW  NONSUP
+- epic infanterie SMI Sm-assaut SMI-SW  SUP
 
 
 Description :
@@ -114,6 +114,11 @@ Lift speed: 40mm\min
 
 Retract 200mm\min 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Norse_King_s_Proto-Werewolves_V2_-_6-8_mm_-_4915106_zip_unpack_files_Deathsworn_V2_chitubox_.jpg
 
 
 

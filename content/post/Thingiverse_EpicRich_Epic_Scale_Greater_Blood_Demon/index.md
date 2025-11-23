@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > EpicRich > Epic_Scale_Greater_Blood_Demon [non dl]"
+title: "[GRATUIT] Thingiverse > EpicRich > Epic_Scale_Greater_Blood_Demon [dl]"
 date: "2021-05-12T17:47:07+00:00"
 toc: true
 image: "thumbs_-_4856890_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "CHAOS Chaos-princes-demons KHORNE"
 - "epic CHAOS Chaos-princes-demons KHORNE"
 - "infanterie CHAOS Chaos-princes-demons KHORNE"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "CHAOS NONDL"
-- "epic CHAOS NONDL"
-- "infanterie CHAOS NONDL"
-- "epic infanterie CHAOS NONDL"
-- "Chaos-princes-demons NONDL"
-- "epic Chaos-princes-demons NONDL"
-- "infanterie Chaos-princes-demons NONDL"
-- "epic infanterie Chaos-princes-demons NONDL"
-- "CHAOS Chaos-princes-demons NONDL"
-- "epic CHAOS Chaos-princes-demons NONDL"
-- "infanterie CHAOS Chaos-princes-demons NONDL"
-- "KHORNE NONDL"
-- "epic KHORNE NONDL"
-- "infanterie KHORNE NONDL"
-- "epic infanterie KHORNE NONDL"
-- "CHAOS KHORNE NONDL"
-- "epic CHAOS KHORNE NONDL"
-- "infanterie CHAOS KHORNE NONDL"
-- "Chaos-princes-demons KHORNE NONDL"
-- "epic Chaos-princes-demons KHORNE NONDL"
-- "infanterie Chaos-princes-demons KHORNE NONDL"
-- "CHAOS Chaos-princes-demons KHORNE NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Chaos-princes-demons KHORNE SUP"
 - "infanterie Chaos-princes-demons KHORNE SUP"
 - "CHAOS Chaos-princes-demons KHORNE SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
-- "CHAOS NONDL SUP"
-- "epic CHAOS NONDL SUP"
-- "infanterie CHAOS NONDL SUP"
-- "Chaos-princes-demons NONDL SUP"
-- "epic Chaos-princes-demons NONDL SUP"
-- "infanterie Chaos-princes-demons NONDL SUP"
-- "CHAOS Chaos-princes-demons NONDL SUP"
-- "KHORNE NONDL SUP"
-- "epic KHORNE NONDL SUP"
-- "infanterie KHORNE NONDL SUP"
-- "CHAOS KHORNE NONDL SUP"
-- "Chaos-princes-demons KHORNE NONDL SUP"
 
 ---
 
 ![](<thumbs_-_4856890_-_Images_1.jpg> "thumbs_-_4856890_-_Images_1.jpg")
+
+  ![](<thumbs_-_4856890_-_ImagesSTL_1.jpg> "thumbs_-_4856890_-_ImagesSTL_1.jpg")
 
   
 
@@ -124,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie CHAOS Chaos-princes-demons KHORNE NONDL SUP
+- epic infanterie CHAOS Chaos-princes-demons KHORNE  SUP
 
 
 Description :
@@ -143,11 +103,9 @@ https://www.thingiverse.com/thing:2740021
 
 Justification du tag SUP :
 
-    ~~~
-    Epic scale Greater Blood Demon pre supported.
-    
-    ~~~
+Epic scale Greater Blood Demon pre supported.
+ImagesSTL_-_Epic_Scale_Greater_Blood_Demon_-_4856890_zip_unpack_files_Bloodthirster_Supported_stl_.jpg
 
-  
+
 
 

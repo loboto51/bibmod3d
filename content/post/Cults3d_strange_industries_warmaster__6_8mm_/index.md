@@ -211,11 +211,9 @@ make sure to check out my insta for updates - https://www.instagram.com/strange.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_warmaster-6-8mm-f2968c29465e452ebaa820230522-60-on40s6_zip_unpack_strangeyk_warmaster-6-8mm-f2968c29465e452ebaa8_warmaster_supported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_warmaster-6-8mm-f2968c29465e452ebaa820230522-60-on40s6_zip_unpack_strangeyk_warmaster-6-8mm-f2968c29465e452ebaa8_warmaster_supported_stl_.jpg
+
+
 
 

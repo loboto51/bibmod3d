@@ -181,12 +181,10 @@ the copyright of the creator.
 
 Justification du tag SUP :
 
-    ~~~
-    Presupported files included for ease of printing. All my models are tested on my own printers before uploading, but I do encourage you to review the files prior to printing and make adjustments if appropriate for your printer settings and materials.
-    ImagesSTL_-_post-apocalyptic-raider-free-test-sample-mini_zip_unpack_15mm-raider-autogun01-supported_stl_.jpg
+Presupported files included for ease of printing. All my models are tested on my own printers before uploading, but I do encourage you to review the files prior to printing and make adjustments if appropriate for your printer settings and materials.
+ImagesSTL_-_post-apocalyptic-raider-free-test-sample-mini_zip_unpack_15mm-raider-autogun01-supported_stl_.jpg
 ImagesSTL_-_post-apocalyptic-raider-free-test-sample-mini_zip_unpack_30mm-raider-autogun01-supported_stl_.jpg
-    ~~~
 
-  
+
 
 

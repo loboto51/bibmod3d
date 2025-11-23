@@ -97,11 +97,9 @@ If you like this and our other free works, please consider [supporting my little
 
 Justification du tag SUP :
 
-    ~~~
-    All of these print support free and are [also available via the freebies collection on my site](https://www.illgottengames.net/). Pre-supported versions are included for those printing in resin.
-    
-    ~~~
+All of these print support free and are [also available via the freebies collection on my site](https://www.illgottengames.net/). Pre-supported versions are included for those printing in resin.
 
-  
+
+
 
 

@@ -54,11 +54,9 @@ A resin printer is highly recommended on these miniatures.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_631ffc41502e5_warmaster-orc-champion-10mm-warmaster_zip_unpack_wakes-emporium-warmaster-orc-champion-wakes-emporium-orc-champion-supported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_631ffc41502e5_warmaster-orc-champion-10mm-warmaster_zip_unpack_wakes-emporium-warmaster-orc-champion-wakes-emporium-orc-champion-supported_stl_.jpg
+
+
 
 

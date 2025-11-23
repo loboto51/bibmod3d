@@ -125,11 +125,9 @@ An updated version of one of my old designs to bolster the Mytho-Resistance rank
 
 Justification du tag SUP :
 
-    ~~~
-    An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I mostly just scaled up, sculpted in some more detail, and added a second auto-pistol. Requires support when printing like the original, but I included a pre-supported version too.
-    
-    ~~~
+An updated version of one of my old designs to bolster the Mytho-Resistance ranks for our [New Dominion](https://www.kickstarter.com/projects/illgottengames/new-dominion) project. I mostly just scaled up, sculpted in some more detail, and added a second auto-pistol. Requires support when printing like the original, but I included a pre-supported version too.
 
-  
+
+
 
 

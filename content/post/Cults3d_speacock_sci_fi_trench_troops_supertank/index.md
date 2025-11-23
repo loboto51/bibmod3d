@@ -21,21 +21,21 @@ tags:
 - "epic GI Baneblades-doubles-tourelles"
 - "superlourds GI Baneblades-doubles-tourelles"
 - "epic superlourds GI Baneblades-doubles-tourelles"
-- "SUP"
-- "epic SUP"
-- "superlourds SUP"
-- "epic superlourds SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "superlourds GI SUP"
-- "epic superlourds GI SUP"
-- "Baneblades-doubles-tourelles SUP"
-- "epic Baneblades-doubles-tourelles SUP"
-- "superlourds Baneblades-doubles-tourelles SUP"
-- "epic superlourds Baneblades-doubles-tourelles SUP"
-- "GI Baneblades-doubles-tourelles SUP"
-- "epic GI Baneblades-doubles-tourelles SUP"
-- "superlourds GI Baneblades-doubles-tourelles SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "superlourds NONSUP"
+- "epic superlourds NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "superlourds GI NONSUP"
+- "epic superlourds GI NONSUP"
+- "Baneblades-doubles-tourelles NONSUP"
+- "epic Baneblades-doubles-tourelles NONSUP"
+- "superlourds Baneblades-doubles-tourelles NONSUP"
+- "epic superlourds Baneblades-doubles-tourelles NONSUP"
+- "GI Baneblades-doubles-tourelles NONSUP"
+- "epic GI Baneblades-doubles-tourelles NONSUP"
+- "superlourds GI Baneblades-doubles-tourelles NONSUP"
 
 ---
 
@@ -60,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-doubles-tourelles  SUP
+- epic superlourds GI Baneblades-doubles-tourelles  NONSUP
 
 
 Description :
@@ -71,14 +71,6 @@ super tank for the troops
 remixed for woddish tiny bigger tank
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_TRENCHFIGHTERSSUPERTANK_zip_unpack_STORMHAMMERBODY_stl_.jpg
-ImagesSTL_-_TRENCHFIGHTERSSUPERTANK_zip_unpack_STORMHAMMERTURRENTS_stl_.jpg
-    ~~~
-
-  
 
 

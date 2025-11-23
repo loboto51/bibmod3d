@@ -52,11 +52,9 @@ Made for warmaster (10mm scale), 6 different stands that can be mirrored into 12
 
 Justification du tag SUP :
 
-    ~~~
-    Made for warmaster (10mm scale), 6 different stands that can be mirrored into 12 total stands, easy to paint/print, fully supported, they can either be used as temple guards or regular saurian warriors. They fit perfectly on the stand and the do not hit each others.
-    
-    ~~~
+Made for warmaster (10mm scale), 6 different stands that can be mirrored into 12 total stands, easy to paint/print, fully supported, they can either be used as temple guards or regular saurian warriors. They fit perfectly on the stand and the do not hit each others.
 
-  
+
+
 
 

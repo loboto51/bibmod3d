@@ -58,11 +58,9 @@ It comes in a solid piece, fully supported.
 
 Justification du tag SUP :
 
-    ~~~
-    It comes in a solid piece, fully supported.
-    
-    ~~~
+It comes in a solid piece, fully supported.
 
-  
+
+
 
 

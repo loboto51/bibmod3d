@@ -103,11 +103,9 @@ ____
 
 Justification du tag SUP :
 
-    ~~~
-    15/01/24 - Presupported files now added and the turret ankles have been thickened due to a weak spot.
-    
-    ~~~
+15/01/24 - Presupported files now added and the turret ankles have been thickened due to a weak spot.
 
-  
+
+
 
 

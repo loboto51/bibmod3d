@@ -98,11 +98,9 @@ Fits perfectly on a 25x40mm tank base, I might add one to the files later.
 
 Justification du tag SUP :
 
-    ~~~
-    File is fully supported and scaled with all parts, just drag and drop. 
-    
-    ~~~
+File is fully supported and scaled with all parts, just drag and drop. 
 
-  
+
+
 
 

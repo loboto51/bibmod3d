@@ -56,11 +56,9 @@ I've included 2 sizes. My usual "15mm" size are about 18.5mm at the eye, 20mm at
 
 Justification du tag SUP :
 
-    ~~~
-    *I currently ONLY have pre-supported files for the 15mm ones. All supported models have been test printed. I tend to go heavier on the supports. I recommend using the hot water method to remove them.
-    
-    ~~~
+*I currently ONLY have pre-supported files for the 15mm ones. All supported models have been test printed. I tend to go heavier on the supports. I recommend using the hot water method to remove them.
 
-  
+
+
 
 
