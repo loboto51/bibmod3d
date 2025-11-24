@@ -105,35 +105,103 @@ tags:
 - "ORKS Builders NONDL SUP"
 - "Bits Builders NONDL SUP"
 - "28mm"
-- "ORKS"
-- "28mm ORKS"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "Humains-divers-pour-kitbash"
+- "28mm Humains-divers-pour-kitbash"
+- "HUMAINS Humains-divers-pour-kitbash"
+- "28mm HUMAINS Humains-divers-pour-kitbash"
+- "Bits"
+- "28mm Bits"
+- "HUMAINS Bits"
+- "28mm HUMAINS Bits"
+- "Humains-divers-pour-kitbash Bits"
+- "28mm Humains-divers-pour-kitbash Bits"
+- "HUMAINS Humains-divers-pour-kitbash Bits"
+- "28mm HUMAINS Humains-divers-pour-kitbash Bits"
 - "Builders"
 - "28mm Builders"
-- "ORKS Builders"
-- "28mm ORKS Builders"
+- "HUMAINS Builders"
+- "28mm HUMAINS Builders"
+- "Humains-divers-pour-kitbash Builders"
+- "28mm Humains-divers-pour-kitbash Builders"
+- "HUMAINS Humains-divers-pour-kitbash Builders"
+- "28mm HUMAINS Humains-divers-pour-kitbash Builders"
+- "Bits Builders"
+- "28mm Bits Builders"
+- "HUMAINS Bits Builders"
+- "28mm HUMAINS Bits Builders"
+- "Humains-divers-pour-kitbash Bits Builders"
+- "28mm Humains-divers-pour-kitbash Bits Builders"
+- "HUMAINS Humains-divers-pour-kitbash Bits Builders"
 - "NONDL"
 - "28mm NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "Humains-divers-pour-kitbash NONDL"
+- "28mm Humains-divers-pour-kitbash NONDL"
+- "HUMAINS Humains-divers-pour-kitbash NONDL"
+- "28mm HUMAINS Humains-divers-pour-kitbash NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "Humains-divers-pour-kitbash Bits NONDL"
+- "28mm Humains-divers-pour-kitbash Bits NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Bits NONDL"
 - "Builders NONDL"
 - "28mm Builders NONDL"
-- "ORKS Builders NONDL"
-- "28mm ORKS Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "Humains-divers-pour-kitbash Builders NONDL"
+- "28mm Humains-divers-pour-kitbash Builders NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "Humains-divers-pour-kitbash Bits Builders NONDL"
 - "SUP"
 - "28mm SUP"
-- "ORKS SUP"
-- "28mm ORKS SUP"
+- "HUMAINS SUP"
+- "28mm HUMAINS SUP"
+- "Humains-divers-pour-kitbash SUP"
+- "28mm Humains-divers-pour-kitbash SUP"
+- "HUMAINS Humains-divers-pour-kitbash SUP"
+- "28mm HUMAINS Humains-divers-pour-kitbash SUP"
+- "Bits SUP"
+- "28mm Bits SUP"
+- "HUMAINS Bits SUP"
+- "28mm HUMAINS Bits SUP"
+- "Humains-divers-pour-kitbash Bits SUP"
+- "28mm Humains-divers-pour-kitbash Bits SUP"
+- "HUMAINS Humains-divers-pour-kitbash Bits SUP"
 - "Builders SUP"
 - "28mm Builders SUP"
-- "ORKS Builders SUP"
-- "28mm ORKS Builders SUP"
+- "HUMAINS Builders SUP"
+- "28mm HUMAINS Builders SUP"
+- "Humains-divers-pour-kitbash Builders SUP"
+- "28mm Humains-divers-pour-kitbash Builders SUP"
+- "HUMAINS Humains-divers-pour-kitbash Builders SUP"
+- "Bits Builders SUP"
+- "28mm Bits Builders SUP"
+- "HUMAINS Bits Builders SUP"
+- "Humains-divers-pour-kitbash Bits Builders SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
-- "ORKS NONDL SUP"
-- "28mm ORKS NONDL SUP"
+- "HUMAINS NONDL SUP"
+- "28mm HUMAINS NONDL SUP"
+- "Humains-divers-pour-kitbash NONDL SUP"
+- "28mm Humains-divers-pour-kitbash NONDL SUP"
+- "HUMAINS Humains-divers-pour-kitbash NONDL SUP"
+- "Bits NONDL SUP"
+- "28mm Bits NONDL SUP"
+- "HUMAINS Bits NONDL SUP"
+- "Humains-divers-pour-kitbash Bits NONDL SUP"
 - "Builders NONDL SUP"
 - "28mm Builders NONDL SUP"
-- "ORKS Builders NONDL SUP"
+- "HUMAINS Builders NONDL SUP"
+- "Humains-divers-pour-kitbash Builders NONDL SUP"
+- "Bits Builders NONDL SUP"
 
 ---
 
@@ -150,13 +218,13 @@ Prix : 0 euros
 Collections :
 
 - 28mm epic ORKS Bits Builders
-- 28mm ORKS Builders
+- 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
 
 
 Collections pour tags :
 
 - 28mm epic ORKS Bits Builders NONDL SUP
-- 28mm ORKS Builders NONDL SUP
+- 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL SUP
 
 
 Description :
@@ -169,11 +237,9 @@ I added an example of what some look like when used on some prints from Reptilia
 
 Justification du tag SUP :
 
-    ~~~
-    These aren't pre-supported, because they are meant to be clipped into objects in blender/your slicing software. Also, they are very simple haha some are better than others and that's ok (some made in blender, some in tinkerCAD). Hopefully it inspires you to make your own with simple shapes!
-    
-    ~~~
+These aren't pre-supported, because they are meant to be clipped into objects in blender/your slicing software. Also, they are very simple haha some are better than others and that's ok (some made in blender, some in tinkerCAD). Hopefully it inspires you to make your own with simple shapes!
 
-  
+
+
 
 

@@ -21,21 +21,21 @@ tags:
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
 - "epic chevaliers IMP Admech-chevaliers"
-- "SUP"
-- "epic SUP"
-- "chevaliers SUP"
-- "epic chevaliers SUP"
-- "IMP SUP"
-- "epic IMP SUP"
-- "chevaliers IMP SUP"
-- "epic chevaliers IMP SUP"
-- "Admech-chevaliers SUP"
-- "epic Admech-chevaliers SUP"
-- "chevaliers Admech-chevaliers SUP"
-- "epic chevaliers Admech-chevaliers SUP"
-- "IMP Admech-chevaliers SUP"
-- "epic IMP Admech-chevaliers SUP"
-- "chevaliers IMP Admech-chevaliers SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "chevaliers NONSUP"
+- "epic chevaliers NONSUP"
+- "IMP NONSUP"
+- "epic IMP NONSUP"
+- "chevaliers IMP NONSUP"
+- "epic chevaliers IMP NONSUP"
+- "Admech-chevaliers NONSUP"
+- "epic Admech-chevaliers NONSUP"
+- "chevaliers Admech-chevaliers NONSUP"
+- "epic chevaliers Admech-chevaliers NONSUP"
+- "IMP Admech-chevaliers NONSUP"
+- "epic IMP Admech-chevaliers NONSUP"
+- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-chevaliers  SUP
+- epic chevaliers IMP Admech-chevaliers  NONSUP
 
 
 Description :
@@ -67,13 +67,6 @@ Description :
 Mise à l'échelle pour les chevaliers d'Adeptus Titanicus
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Canon_antia__rien___chelle_AT_-_3486493_zip_unpack_files_Canon_antiaerien_supports_stl_.jpg
-    ~~~
-
-  
 
 

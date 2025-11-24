@@ -97,11 +97,9 @@ The base model can support turrets from my other remotes, and has a 3x1mm magnet
 
 Justification du tag SUP :
 
-    ~~~
-    The Banzai Mk1 Brucebot is a heavy industrial Remote.  All models can mount standard Banzai turret modules on their upper deck, or be fitted with a variety of industrial attachments supported by their beefy chassis.  While they might lack the high pitched schoolgirl voices of their usual remote counterparts, the Brucebot does a day's work like no other rem.
-    
-    ~~~
+The Banzai Mk1 Brucebot is a heavy industrial Remote.  All models can mount standard Banzai turret modules on their upper deck, or be fitted with a variety of industrial attachments supported by their beefy chassis.  While they might lack the high pitched schoolgirl voices of their usual remote counterparts, the Brucebot does a day's work like no other rem.
 
-  
+
+
 
 

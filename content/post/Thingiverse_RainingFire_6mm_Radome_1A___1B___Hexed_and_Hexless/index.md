@@ -107,11 +107,9 @@ Please post pictures and leave feedback if you make this yourself! I'd love to s
 
 Justification du tag SUP :
 
-    ~~~
-    -Detailed design including entrance door, supported walkway, and radome design.
-    
-    ~~~
+-Detailed design including entrance door, supported walkway, and radome design.
 
-  
+
+
 
 

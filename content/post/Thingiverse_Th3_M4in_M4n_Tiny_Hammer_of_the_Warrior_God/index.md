@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Hammer_of_the_Warrior_God [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Hammer_of_the_Warrior_God [dl]"
 date: "2025-04-05T13:58:09+00:00"
 toc: true
 image: "thumbs_-_7001340_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "EMPIRE"
 - "warmaster EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
 - "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
@@ -28,14 +20,6 @@ tags:
 - "warmaster EMPIRE"
 - "HUMAINS EMPIRE"
 - "warmaster HUMAINS EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "HUMAINS NONDL"
-- "warmaster HUMAINS NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -44,13 +28,6 @@ tags:
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
 - "warmaster HUMAINS EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "HUMAINS EMPIRE NONDL NONSUP"
 
 ---
 
@@ -72,8 +49,8 @@ Collections :
 
 Collections pour tags :
 
-- warmaster EMPIRE NONDL NONSUP
-- warmaster HUMAINS EMPIRE NONDL NONSUP
+- warmaster EMPIRE  NONSUP
+- warmaster HUMAINS EMPIRE  NONSUP
 
 
 Description :

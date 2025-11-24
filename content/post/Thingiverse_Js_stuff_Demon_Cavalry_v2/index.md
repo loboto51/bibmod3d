@@ -54,11 +54,9 @@ I use "s-<filename>" to mark supported versions and "<filename>-b" to mark the u
 
 Justification du tag SUP :
 
-    ~~~
-    I use "s-<filename>" to mark supported versions and "<filename>-b" to mark the unit leader.
-    
-    ~~~
+I use "s-<filename>" to mark supported versions and "<filename>-b" to mark the unit leader.
 
-  
+
+
 
 

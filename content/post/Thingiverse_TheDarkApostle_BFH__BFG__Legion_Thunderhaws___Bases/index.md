@@ -100,11 +100,9 @@ Danny: https://cults3d.com/en/users/danny_cyanide
 
 Justification du tag SUP :
 
-    ~~~
-    If you run the supported file at .04 mm and then through the photon validator there should be no errors I have printed a bunch of these now, please see picture with how to mount the 3 peg bases (they fit super tight).  Also the 3 peg bases were increased in size by 5mm x 5mm to better fit the Thunderhawks.  I hope you enjoy; and if you are a BFG, BFH (or just a fan of cool space ships) check out Soul Forge Studios Patreon, Johnthewarlock  & Danny Cyanide are absolutely killing it...check them out (oh and they are doing Glory class ships as well and they are fantastic:
-    
-    ~~~
+If you run the supported file at .04 mm and then through the photon validator there should be no errors I have printed a bunch of these now, please see picture with how to mount the 3 peg bases (they fit super tight).  Also the 3 peg bases were increased in size by 5mm x 5mm to better fit the Thunderhawks.  I hope you enjoy; and if you are a BFG, BFH (or just a fan of cool space ships) check out Soul Forge Studios Patreon, Johnthewarlock  & Danny Cyanide are absolutely killing it...check them out (oh and they are doing Glory class ships as well and they are fantastic:
 
-  
+
+
 
 

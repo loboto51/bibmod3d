@@ -88,11 +88,9 @@ These should be rotated, supported, and printed at 0.025mm layer height on a res
 
 Justification du tag SUP :
 
-    ~~~
-    These should be rotated, supported, and printed at 0.025mm layer height on a resin printer.
-    
-    ~~~
+These should be rotated, supported, and printed at 0.025mm layer height on a resin printer.
 
-  
+
+
 
 

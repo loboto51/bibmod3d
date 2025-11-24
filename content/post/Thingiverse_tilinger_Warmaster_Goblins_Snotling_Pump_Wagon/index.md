@@ -57,11 +57,9 @@ Edit 3: Uploaded a supported set created by Stranger-Sun
 
 Justification du tag SUP :
 
-    ~~~
-    Edit 3: Uploaded a supported set created by Stranger-Sun
-    
-    ~~~
+Edit 3: Uploaded a supported set created by Stranger-Sun
 
-  
+
+
 
 

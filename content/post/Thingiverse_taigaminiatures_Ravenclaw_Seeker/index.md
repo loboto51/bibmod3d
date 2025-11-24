@@ -155,12 +155,10 @@ Be sure to follow us on Instagram [@taiga_miniatures](https://www.instagram.com/
 
 Justification du tag SUP :
 
-    ~~~
-    2 versions of files are included: pre-supported and unsupported. Scaled for 28 mm tabletop.
-    ImagesSTL_-_Ravenclaw_Seeker_-_6054602_zip_unpack_files_repaired_base-5-supported_stl_.jpg
+2 versions of files are included: pre-supported and unsupported. Scaled for 28 mm tabletop.
+ImagesSTL_-_Ravenclaw_Seeker_-_6054602_zip_unpack_files_repaired_base-5-supported_stl_.jpg
 ImagesSTL_-_Ravenclaw_Seeker_-_6054602_zip_unpack_files_repaired_pre-ravenclaw-the-seeker-supported_stl_.jpg
-    ~~~
 
-  
+
 
 

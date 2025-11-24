@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Ilhadiel > Lizardmen_Lizardfolk_Miniatures [non dl]"
+title: "[GRATUIT] Thingiverse > Ilhadiel > Lizardmen_Lizardfolk_Miniatures [dl]"
 date: "2020-02-26T17:11:02+00:00"
 toc: true
 image: "thumbs_-_4186125_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "HOMMES-LEZARDS"
 - "28mm HOMMES-LEZARDS"
-- "NONDL"
-- "28mm NONDL"
-- "HOMMES-LEZARDS NONDL"
-- "28mm HOMMES-LEZARDS NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "HOMMES-LEZARDS NONSUP"
 - "28mm HOMMES-LEZARDS NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "HOMMES-LEZARDS NONDL NONSUP"
-- "28mm HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4186125_-_Images_1.jpg> "thumbs_-_4186125_-_Images_1.jpg")
+
+  ![](<thumbs_-_4186125_-_ImagesSTL_1.jpg> "thumbs_-_4186125_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_4186125_-_Makes_1.jpg> "thumbs_-_4186125_-_Makes_1.jpg")
 
@@ -43,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm HOMMES-LEZARDS NONDL NONSUP
+- 28mm HOMMES-LEZARDS  NONSUP
 
 
 Description :

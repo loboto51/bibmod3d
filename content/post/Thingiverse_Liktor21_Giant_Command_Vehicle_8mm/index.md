@@ -96,11 +96,9 @@ P.S.: Edited the Lazorturret
 
 Justification du tag SUP :
 
-    ~~~
-    I constructed a giant Command tank suitable to go along with Adeptus Titanicus. There are nor rules for it atm. I made the files pretty much printer friendly for FDM Printing. Printing time at 0.1mm layerheight should be around 35 hrs.  Thanks to everyone who supported me with this project!
-    
-    ~~~
+I constructed a giant Command tank suitable to go along with Adeptus Titanicus. There are nor rules for it atm. I made the files pretty much printer friendly for FDM Printing. Printing time at 0.1mm layerheight should be around 35 hrs.  Thanks to everyone who supported me with this project!
 
-  
+
+
 
 

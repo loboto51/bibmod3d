@@ -99,11 +99,9 @@ Package includes both an unsupported and supported version.  I placed my support
 
 Justification du tag SUP :
 
-    ~~~
-    Package includes both an unsupported and supported version.  I placed my supports for printing with Siraya BLU resin on an original Anycubic Photon, so the supports should work with nearly all other resins and printers.  Models will need a little cleaning on the underside.
-    
-    ~~~
+Package includes both an unsupported and supported version.  I placed my supports for printing with Siraya BLU resin on an original Anycubic Photon, so the supports should work with nearly all other resins and printers.  Models will need a little cleaning on the underside.
 
-  
+
+
 
 

@@ -97,11 +97,9 @@ These are 3 models that were designed to be used with the Lord of the Rings Stra
 
 Justification du tag SUP :
 
-    ~~~
-    These are 3 models that were designed to be used with the Lord of the Rings Strategy Battle Game but these models are roughly 10mm scale not the standard 28mm scale. These models are unsupported and have not been test printed,
-    
-    ~~~
+These are 3 models that were designed to be used with the Lord of the Rings Strategy Battle Game but these models are roughly 10mm scale not the standard 28mm scale. These models are unsupported and have not been test printed,
 
-  
+
+
 
 

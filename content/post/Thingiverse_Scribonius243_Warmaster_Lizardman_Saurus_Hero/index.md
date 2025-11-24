@@ -56,12 +56,10 @@ Thank you to LennyFace for the base model, and UncleKam for the base.
 
 Justification du tag SUP :
 
-    ~~~
-    A 10mm Lizardman Saurus hero for Warmaster, both supported and unsupported.
+A 10mm Lizardman Saurus hero for Warmaster, both supported and unsupported.
 This has been designed for resin printing, and the supported version should print as is. I have test printed the supported version but with failures (using the bellow settings), most likely due to issues with my printer and not the file.
-    
-    ~~~
 
-  
+
+
 
 

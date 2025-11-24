@@ -88,12 +88,10 @@ Thank you to BriteMinis for the base model, jimjimjimmyjim for the hammer, and M
 
 Justification du tag SUP :
 
-    ~~~
-    2 10mm Empire wizards for Warmaster, both supported and unsupported.
+2 10mm Empire wizards for Warmaster, both supported and unsupported.
 These have been designed for resin printing, with #1 printing and the supported version of #2 being ready to print as is. I have NOT test printed them yet, but it should print with no issue.
-    
-    ~~~
 
-  
+
+
 
 

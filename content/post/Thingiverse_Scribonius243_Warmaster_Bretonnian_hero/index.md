@@ -88,12 +88,10 @@ Thank you to PollyGrimm for the base model, and UncleKam for the base.
 
 Justification du tag SUP :
 
-    ~~~
-    A 10mm Bretonnian hero for Warmaster, both supported and unsupported.
+A 10mm Bretonnian hero for Warmaster, both supported and unsupported.
 This has been designed for resin printing and the supported & based version should print as is. I have test printed the supported version successfully (with teh bellow settings).
-    
-    ~~~
 
-  
+
+
 
 

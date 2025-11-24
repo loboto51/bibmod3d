@@ -112,17 +112,15 @@ Test printed at 0.04 and 0.02, both went great.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_A2_unsupported_stl_.jpg
+
+ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_A2_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_A_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_B_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_C2_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Chimera_body_C_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Multilaser_turret_2_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_Mechanized_infantry_vehicle_-_4632652_zip_unpack_files_Multilaser_turret_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

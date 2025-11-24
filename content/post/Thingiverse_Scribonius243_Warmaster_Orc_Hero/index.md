@@ -56,12 +56,10 @@ Thank you to RenatoT for the base model, and theartbadger for the base.
 
 Justification du tag SUP :
 
-    ~~~
-    A 10mm Orc hero for Warmaster, both supported and unsupported.
+A 10mm Orc hero for Warmaster, both supported and unsupported.
 This has been designed for resin printing and the supported & based version should print as is. I have test printed it successfully (with the bellow settings).
-    
-    ~~~
 
-  
+
+
 
 

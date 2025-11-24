@@ -81,11 +81,9 @@ star wars stormtrooper storm trooper Galactic Empire Empire Strikes Back imperia
 
 Justification du tag SUP :
 
-    ~~~
-    I printed this on my Saturn 4 Ultra, at this scale it is highly recommended to print in resin. I have included pre-supported files for both sizes.
-    
-    ~~~
+I printed this on my Saturn 4 Ultra, at this scale it is highly recommended to print in resin. I have included pre-supported files for both sizes.
 
-  
+
+
 
 

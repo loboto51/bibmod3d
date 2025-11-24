@@ -131,11 +131,9 @@ I hope you enjoy, and check out my other models at http://www.cgtrader.com/leese
 
 Justification du tag SUP :
 
-    ~~~
-    These models are very fine detail and may be highly difficult on FDM printers.  I have included a supported version of the models as well as photon sliced version set for Elgoo gray resin.  You can adjust the exposure times to your needs with Photon File Validator that can be found here. https://github.com/Photonsters/PhotonFileValidator
-    
-    ~~~
+These models are very fine detail and may be highly difficult on FDM printers.  I have included a supported version of the models as well as photon sliced version set for Elgoo gray resin.  You can adjust the exposure times to your needs with Photon File Validator that can be found here. https://github.com/Photonsters/PhotonFileValidator
 
-  
+
+
 
 

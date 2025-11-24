@@ -222,12 +222,10 @@ UPDATE 15/01/2021: Added options with 0 and 1 missiles left (so you can have all
 
 Justification du tag SUP :
 
-    ~~~
-    As always, I included both supported and unsupported versions.
+As always, I included both supported and unsupported versions.
 UPDATE: Test printed nicely, except for the missiles that printed kind of weird, I resupported them and reuploaded the fixed files (also updated the ZIP file).
-    
-    ~~~
 
-  
+
+
 
 

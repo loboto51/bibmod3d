@@ -129,11 +129,9 @@ As you may see from the pictures, I did _not_ print non-louvred walls. The suppo
 
 Justification du tag SUP :
 
-    ~~~
-    The supported files here are the way I did them for myself, successfully. Is it the best? No. The walls and pillars are definitely over-supported, but I wasn't going to go back and change something that worked.
-    
-    ~~~
+The supported files here are the way I did them for myself, successfully. Is it the best? No. The walls and pillars are definitely over-supported, but I wasn't going to go back and change something that worked.
 
-  
+
+
 
 

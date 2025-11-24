@@ -9,10 +9,10 @@ tags:
 - "warmaster"
 - "EMPIRE"
 - "warmaster EMPIRE"
-- "SUP"
-- "warmaster SUP"
-- "EMPIRE SUP"
-- "warmaster EMPIRE SUP"
+- "NONSUP"
+- "warmaster NONSUP"
+- "EMPIRE NONSUP"
+- "warmaster EMPIRE NONSUP"
 - "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
@@ -20,14 +20,14 @@ tags:
 - "warmaster EMPIRE"
 - "HUMAINS EMPIRE"
 - "warmaster HUMAINS EMPIRE"
-- "SUP"
-- "warmaster SUP"
-- "HUMAINS SUP"
-- "warmaster HUMAINS SUP"
-- "EMPIRE SUP"
-- "warmaster EMPIRE SUP"
-- "HUMAINS EMPIRE SUP"
-- "warmaster HUMAINS EMPIRE SUP"
+- "NONSUP"
+- "warmaster NONSUP"
+- "HUMAINS NONSUP"
+- "warmaster HUMAINS NONSUP"
+- "EMPIRE NONSUP"
+- "warmaster EMPIRE NONSUP"
+- "HUMAINS EMPIRE NONSUP"
+- "warmaster HUMAINS EMPIRE NONSUP"
 
 ---
 
@@ -53,8 +53,8 @@ Collections :
 
 Collections pour tags :
 
-- warmaster EMPIRE  SUP
-- warmaster HUMAINS EMPIRE  SUP
+- warmaster EMPIRE  NONSUP
+- warmaster HUMAINS EMPIRE  NONSUP
 
 
 Description :
@@ -75,15 +75,6 @@ Other sources used:
 https://cults3d.com/en/3d-model/tool/cammy-from-street-fighter-v-simo4ecom2
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Pocket_Mordheim_-_Sisters_of_Sigmar_Warband_-_6947364_zip_unpack_files_superior_1_stl_.jpg
-ImagesSTL_-_Pocket_Mordheim_-_Sisters_of_Sigmar_Warband_-_6947364_zip_unpack_files_superior_2_stl_.jpg
-ImagesSTL_-_Pocket_Mordheim_-_Sisters_of_Sigmar_Warband_-_6947364_zip_unpack_files_superior_3_stl_.jpg
-    ~~~
-
-  
 
 

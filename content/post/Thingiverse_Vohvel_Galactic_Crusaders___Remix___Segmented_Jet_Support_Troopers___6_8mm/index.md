@@ -62,48 +62,48 @@ tags:
 - "epic SMC Sm-assaut-volant SM30K"
 - "infanterie SMC Sm-assaut-volant SM30K"
 - "SMI SMC Sm-assaut-volant SM30K"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
-- "SMC SUP"
-- "epic SMC SUP"
-- "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
-- "SMI SMC SUP"
-- "epic SMI SMC SUP"
-- "infanterie SMI SMC SUP"
-- "Sm-assaut-volant SUP"
-- "epic Sm-assaut-volant SUP"
-- "infanterie Sm-assaut-volant SUP"
-- "epic infanterie Sm-assaut-volant SUP"
-- "SMI Sm-assaut-volant SUP"
-- "epic SMI Sm-assaut-volant SUP"
-- "infanterie SMI Sm-assaut-volant SUP"
-- "SMC Sm-assaut-volant SUP"
-- "epic SMC Sm-assaut-volant SUP"
-- "infanterie SMC Sm-assaut-volant SUP"
-- "SMI SMC Sm-assaut-volant SUP"
-- "SM30K SUP"
-- "epic SM30K SUP"
-- "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
-- "SMI SM30K SUP"
-- "epic SMI SM30K SUP"
-- "infanterie SMI SM30K SUP"
-- "SMC SM30K SUP"
-- "epic SMC SM30K SUP"
-- "infanterie SMC SM30K SUP"
-- "SMI SMC SM30K SUP"
-- "Sm-assaut-volant SM30K SUP"
-- "epic Sm-assaut-volant SM30K SUP"
-- "infanterie Sm-assaut-volant SM30K SUP"
-- "SMI Sm-assaut-volant SM30K SUP"
-- "SMC Sm-assaut-volant SM30K SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "infanterie SMI NONSUP"
+- "epic infanterie SMI NONSUP"
+- "SMC NONSUP"
+- "epic SMC NONSUP"
+- "infanterie SMC NONSUP"
+- "epic infanterie SMC NONSUP"
+- "SMI SMC NONSUP"
+- "epic SMI SMC NONSUP"
+- "infanterie SMI SMC NONSUP"
+- "Sm-assaut-volant NONSUP"
+- "epic Sm-assaut-volant NONSUP"
+- "infanterie Sm-assaut-volant NONSUP"
+- "epic infanterie Sm-assaut-volant NONSUP"
+- "SMI Sm-assaut-volant NONSUP"
+- "epic SMI Sm-assaut-volant NONSUP"
+- "infanterie SMI Sm-assaut-volant NONSUP"
+- "SMC Sm-assaut-volant NONSUP"
+- "epic SMC Sm-assaut-volant NONSUP"
+- "infanterie SMC Sm-assaut-volant NONSUP"
+- "SMI SMC Sm-assaut-volant NONSUP"
+- "SM30K NONSUP"
+- "epic SM30K NONSUP"
+- "infanterie SM30K NONSUP"
+- "epic infanterie SM30K NONSUP"
+- "SMI SM30K NONSUP"
+- "epic SMI SM30K NONSUP"
+- "infanterie SMI SM30K NONSUP"
+- "SMC SM30K NONSUP"
+- "epic SMC SM30K NONSUP"
+- "infanterie SMC SM30K NONSUP"
+- "SMI SMC SM30K NONSUP"
+- "Sm-assaut-volant SM30K NONSUP"
+- "epic Sm-assaut-volant SM30K NONSUP"
+- "infanterie Sm-assaut-volant SM30K NONSUP"
+- "SMI Sm-assaut-volant SM30K NONSUP"
+- "SMC Sm-assaut-volant SM30K NONSUP"
 
 ---
 
@@ -126,7 +126,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI SMC Sm-assaut-volant SM30K  SUP
+- epic infanterie SMI SMC Sm-assaut-volant SM30K  NONSUP
 
 
 Description :
@@ -145,18 +145,6 @@ https://www.thingiverse.com/thing:3241493
 Links included as Thingiverses remix function is still broken.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedFlame1S_stl_.jpg
-ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedFlame2S_stl_.jpg
-ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedMelta1S_stl_.jpg
-ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedMelta2S_stl_.jpg
-ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedPlasma1S_stl_.jpg
-ImagesSTL_-_Galactic_Crusaders_-_Remix_-_Segmented_Jet_Support_Troopers_-_6-8mm_-_4702714_zip_unpack_files_SegmentedPlasma2S_stl_.jpg
-    ~~~
-
-  
 
 

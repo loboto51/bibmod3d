@@ -97,11 +97,9 @@ Theres unsupported version and supported, they worked well for me, but feel free
 
 Justification du tag SUP :
 
-    ~~~
-    Theres unsupported version and supported, they worked well for me, but feel free to add your own supports.
-    ImagesSTL_-_Demon_Ladies__-_4940305_zip_unpack_files_Demonets-6mm-sup_stl_.jpg
-    ~~~
+Theres unsupported version and supported, they worked well for me, but feel free to add your own supports.
 
-  
+
+
 
 

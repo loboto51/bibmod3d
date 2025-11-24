@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Ol_Reliable [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Ol_Reliable [dl]"
 date: "2025-03-28T21:29:13+00:00"
 toc: true
 image: "thumbs_-_6994140_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "EMPIRE"
 - "warmaster EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "EMPIRE SUP"
+- "warmaster EMPIRE SUP"
 - "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
@@ -28,29 +20,14 @@ tags:
 - "warmaster EMPIRE"
 - "HUMAINS EMPIRE"
 - "warmaster HUMAINS EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "HUMAINS NONDL"
-- "warmaster HUMAINS NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "HUMAINS NONSUP"
-- "warmaster HUMAINS NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "HUMAINS EMPIRE NONDL NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "HUMAINS SUP"
+- "warmaster HUMAINS SUP"
+- "EMPIRE SUP"
+- "warmaster EMPIRE SUP"
+- "HUMAINS EMPIRE SUP"
+- "warmaster HUMAINS EMPIRE SUP"
 
 ---
 
@@ -74,8 +51,8 @@ Collections :
 
 Collections pour tags :
 
-- warmaster EMPIRE NONDL NONSUP
-- warmaster HUMAINS EMPIRE NONDL NONSUP
+- warmaster EMPIRE  SUP
+- warmaster HUMAINS EMPIRE  SUP
 
 
 Description :
@@ -85,6 +62,11 @@ Another tiny tank for your tiny army.
 
 Im also preparing some rules to use all these variants in game, but first i will finish the models :)
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Tiny_Ol__Reliable_-_6994140_zip_unpack_files_OlReliable_sup_stl_.jpg
 
 
 

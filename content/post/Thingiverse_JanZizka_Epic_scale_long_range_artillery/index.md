@@ -106,15 +106,13 @@ Note: Not yet test printed, if you print it please post your make!
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_0deg_unsupported_stl_.jpg
+
+ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_0deg_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_11deg_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_22deg_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_33deg_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_long_range_artillery_-_4723768_zip_unpack_files_Basilisk_45deg_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

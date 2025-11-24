@@ -88,11 +88,9 @@ Thank you to Evil_frog for the base model, and MeneerMark for the base.
 
 Justification du tag SUP :
 
-    ~~~
-    This has been designed for resin printing and the supported & based version should print as is. I have test printed it successfully (with the bellow settings).
-    
-    ~~~
+This has been designed for resin printing and the supported & based version should print as is. I have test printed it successfully (with the bellow settings).
 
-  
+
+
 
 

@@ -103,11 +103,9 @@ I decided to include a SLA pre-supported version mostly because I had it, it pri
 
 Justification du tag SUP :
 
-    ~~~
-    I decided to include a SLA pre-supported version mostly because I had it, it printed fine for me.  Pre suported is hollowed, but over supported leave some marks v2 coming at some point maybe.
-    
-    ~~~
+I decided to include a SLA pre-supported version mostly because I had it, it printed fine for me.  Pre suported is hollowed, but over supported leave some marks v2 coming at some point maybe.
 
-  
+
+
 
 

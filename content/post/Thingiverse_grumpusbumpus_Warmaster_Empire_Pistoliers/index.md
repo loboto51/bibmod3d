@@ -86,11 +86,9 @@ I have included the individual figures, as well as strips of six, along with rot
 
 Justification du tag SUP :
 
-    ~~~
-    I have included the individual figures, as well as strips of six, along with rotated and supported strips, ready for resin printing.
-    
-    ~~~
+I have included the individual figures, as well as strips of six, along with rotated and supported strips, ready for resin printing.
 
-  
+
+
 
 

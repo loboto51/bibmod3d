@@ -21,21 +21,21 @@ tags:
 - "epic ORKS Orks-artillerie"
 - "infanterie ORKS Orks-artillerie"
 - "epic infanterie ORKS Orks-artillerie"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "ORKS SUP"
-- "epic ORKS SUP"
-- "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
-- "Orks-artillerie SUP"
-- "epic Orks-artillerie SUP"
-- "infanterie Orks-artillerie SUP"
-- "epic infanterie Orks-artillerie SUP"
-- "ORKS Orks-artillerie SUP"
-- "epic ORKS Orks-artillerie SUP"
-- "infanterie ORKS Orks-artillerie SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "infanterie ORKS NONSUP"
+- "epic infanterie ORKS NONSUP"
+- "Orks-artillerie NONSUP"
+- "epic Orks-artillerie NONSUP"
+- "infanterie Orks-artillerie NONSUP"
+- "epic infanterie Orks-artillerie NONSUP"
+- "ORKS Orks-artillerie NONSUP"
+- "epic ORKS Orks-artillerie NONSUP"
+- "infanterie ORKS Orks-artillerie NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie ORKS Orks-artillerie  SUP
+- epic infanterie ORKS Orks-artillerie  NONSUP
 
 
 Description :
@@ -67,15 +67,6 @@ Description :
 Simple rescale of AgentSmith99's assembled gunz SPA. Also rejiggered some dimensions to better work with epic scale figures.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_Scale_Greenskin_Support_Weapons_-_4863300_zip_unpack_files_Ork_Big_Gunz_stl_.jpg
-ImagesSTL_-_Epic_Scale_Greenskin_Support_Weapons_-_4863300_zip_unpack_files_Ork_Towed_Gunz_stl_.jpg
-ImagesSTL_-_Epic_Scale_Greenskin_Support_Weapons_-_4863300_zip_unpack_files_Ork_Tractor_Gun_stl_.jpg
-    ~~~
-
-  
 
 

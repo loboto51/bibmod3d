@@ -144,11 +144,9 @@ Chainswords, swords and boltpistols: https://www.thingiverse.com/thing:4277183
 
 Justification du tag SUP :
 
-    ~~~
-    As always, included supported and unsupported versions for each model, you can find one .rar for each group (rifle up, reloading and parading).
-    
-    ~~~
+As always, included supported and unsupported versions for each model, you can find one .rar for each group (rifle up, reloading and parading).
 
-  
+
+
 
 

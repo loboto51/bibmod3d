@@ -75,11 +75,9 @@ The cover picture shows two printed Savages along original Savages from the game
 
 Justification du tag SUP :
 
-    ~~~
-    2020-05-11: Added a pre-supported Chitubox file for easy printing of 3 Savages. Note: These Savages have stands permanently attached to them.
-    
-    ~~~
+2020-05-11: Added a pre-supported Chitubox file for easy printing of 3 Savages. Note: These Savages have stands permanently attached to them.
 
-  
+
+
 
 

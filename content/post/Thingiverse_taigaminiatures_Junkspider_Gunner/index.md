@@ -213,12 +213,10 @@ taiga_miniatures](https://www.instagram.com/taiga_miniatures/) to not miss any u
 
 Justification du tag SUP :
 
-    ~~~
-    2 versions of files are included: pre-supported and unsupported. Scaled for 28 mm tabletop.
-    ImagesSTL_-_Junkspider_Gunner_-_6054590_zip_unpack_files_repaired_base-1-supported_stl_.jpg
+2 versions of files are included: pre-supported and unsupported. Scaled for 28 mm tabletop.
+ImagesSTL_-_Junkspider_Gunner_-_6054590_zip_unpack_files_repaired_base-1-supported_stl_.jpg
 ImagesSTL_-_Junkspider_Gunner_-_6054590_zip_unpack_files_repaired_pre-junkspiders-gunner-supported_stl_.jpg
-    ~~~
 
-  
+
 
 

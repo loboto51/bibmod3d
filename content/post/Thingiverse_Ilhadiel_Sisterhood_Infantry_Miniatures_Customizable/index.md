@@ -1,0 +1,148 @@
+
+---
+title: "[GRATUIT] Thingiverse > Ilhadiel > Sisterhood_Infantry_Miniatures_Customizable [non dl]"
+date: "2019-10-15T12:07:25+00:00"
+toc: true
+image: "thumbs_-_3917471_-_Images_1.jpg"
+tags:
+- "Ilhadiel"
+- "28mm"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "Humains-divers-pour-kitbash"
+- "28mm Humains-divers-pour-kitbash"
+- "HUMAINS Humains-divers-pour-kitbash"
+- "28mm HUMAINS Humains-divers-pour-kitbash"
+- "Bits"
+- "28mm Bits"
+- "HUMAINS Bits"
+- "28mm HUMAINS Bits"
+- "Humains-divers-pour-kitbash Bits"
+- "28mm Humains-divers-pour-kitbash Bits"
+- "HUMAINS Humains-divers-pour-kitbash Bits"
+- "28mm HUMAINS Humains-divers-pour-kitbash Bits"
+- "Builders"
+- "28mm Builders"
+- "HUMAINS Builders"
+- "28mm HUMAINS Builders"
+- "Humains-divers-pour-kitbash Builders"
+- "28mm Humains-divers-pour-kitbash Builders"
+- "HUMAINS Humains-divers-pour-kitbash Builders"
+- "28mm HUMAINS Humains-divers-pour-kitbash Builders"
+- "Bits Builders"
+- "28mm Bits Builders"
+- "HUMAINS Bits Builders"
+- "28mm HUMAINS Bits Builders"
+- "Humains-divers-pour-kitbash Bits Builders"
+- "28mm Humains-divers-pour-kitbash Bits Builders"
+- "HUMAINS Humains-divers-pour-kitbash Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "Humains-divers-pour-kitbash NONDL"
+- "28mm Humains-divers-pour-kitbash NONDL"
+- "HUMAINS Humains-divers-pour-kitbash NONDL"
+- "28mm HUMAINS Humains-divers-pour-kitbash NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "Humains-divers-pour-kitbash Bits NONDL"
+- "28mm Humains-divers-pour-kitbash Bits NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "Humains-divers-pour-kitbash Builders NONDL"
+- "28mm Humains-divers-pour-kitbash Builders NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "Humains-divers-pour-kitbash Bits Builders NONDL"
+- "NONSUP"
+- "28mm NONSUP"
+- "HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "Humains-divers-pour-kitbash NONSUP"
+- "28mm Humains-divers-pour-kitbash NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash NONSUP"
+- "28mm HUMAINS Humains-divers-pour-kitbash NONSUP"
+- "Bits NONSUP"
+- "28mm Bits NONSUP"
+- "HUMAINS Bits NONSUP"
+- "28mm HUMAINS Bits NONSUP"
+- "Humains-divers-pour-kitbash Bits NONSUP"
+- "28mm Humains-divers-pour-kitbash Bits NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash Bits NONSUP"
+- "Builders NONSUP"
+- "28mm Builders NONSUP"
+- "HUMAINS Builders NONSUP"
+- "28mm HUMAINS Builders NONSUP"
+- "Humains-divers-pour-kitbash Builders NONSUP"
+- "28mm Humains-divers-pour-kitbash Builders NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash Builders NONSUP"
+- "Bits Builders NONSUP"
+- "28mm Bits Builders NONSUP"
+- "HUMAINS Bits Builders NONSUP"
+- "Humains-divers-pour-kitbash Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "Humains-divers-pour-kitbash NONDL NONSUP"
+- "28mm Humains-divers-pour-kitbash NONDL NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "Humains-divers-pour-kitbash Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "Humains-divers-pour-kitbash Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
+
+---
+
+![](<thumbs_-_3917471_-_Images_1.jpg> "thumbs_-_3917471_-_Images_1.jpg")
+
+  ![](<thumbs_-_3917471_-_Makes_1.jpg> "thumbs_-_3917471_-_Makes_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:3917471](https://www.thingiverse.com/thing:3917471)
+
+Id objet : 3917471
+
+Prix : 0 euros
+
+Collections :
+
+- 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
+
+
+Collections pour tags :
+
+- 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL NONSUP
+
+
+Description :
+
+~~~
+New range of miniatures. The sisterhood come with lots of option, they can have one handed or two handed swords, or spears. They can take shield too. I made them with ball joint, and it working like a charms, so I am happy with it :D Hope you will like them too :)
+
+If you printed them out please share a few pictures about them! I would love to see your prints!
+
+ - Added bow holding left hands, so they can be build rangers too.
+
+If you wanna support me and get my exclusive miniatures check out my Patreon: https://www.patreon.com/ilhadiel
+
+You can get some of my exclusive miniatures in my MMF store: https://www.myminifactory.com/users/Ilhadiel
+~~~
+
+
+
+

@@ -59,11 +59,9 @@ Description :
 
 Justification du tag SUP :
 
-    ~~~
-    <p><br>The models are provided as .stl files and are PRE-SUPPORTED. They have been extensively tested at 6mm scale.</p>
-    
-    ~~~
+<p><br>The models are provided as .stl files and are PRE-SUPPORTED. They have been extensively tested at 6mm scale.</p>
 
-  
+
+
 
 

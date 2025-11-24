@@ -99,11 +99,9 @@ This model was designed to be used with my previous Ent designs: https://www.thi
 
 Justification du tag SUP :
 
-    ~~~
-    This model was designed to be used with the Lord of the Rings Strategy Battle Game but this model is roughly 10mm (epic) scale not the standard 28mm scale. These model is unsupported and has not been test printed.
-    
-    ~~~
+This model was designed to be used with the Lord of the Rings Strategy Battle Game but this model is roughly 10mm (epic) scale not the standard 28mm scale. These model is unsupported and has not been test printed.
 
-  
+
+
 
 

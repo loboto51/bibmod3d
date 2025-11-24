@@ -142,11 +142,9 @@ Champion base - Scifi Machines by SevenUnited - https://www.thingiverse.com/thin
 
 Justification du tag SUP :
 
-    ~~~
-    Some marines with shields and spears, 5 on foot, 5 with jump packs and a leaping champion. Pre-supported (_ps) included.
-    
-    ~~~
+Some marines with shields and spears, 5 on foot, 5 with jump packs and a leaping champion. Pre-supported (_ps) included.
 
-  
+
+
 
 

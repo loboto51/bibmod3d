@@ -77,11 +77,9 @@ I recommend printing on a resin printer.
 
 Justification du tag SUP :
 
-    ~~~
-    A version with a base attached and a pre-supported version is included in the download.
-    
-    ~~~
+A version with a base attached and a pre-supported version is included in the download.
 
-  
+
+
 
 

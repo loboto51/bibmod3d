@@ -55,11 +55,9 @@ mixed from a goblin wolf chariot from a shared folder. Non supported 10mm scale
 
 Justification du tag SUP :
 
-    ~~~
-    mixed from a goblin wolf chariot from a shared folder. Non supported 10mm scale
-    
-    ~~~
+mixed from a goblin wolf chariot from a shared folder. Non supported 10mm scale
 
-  
+
+
 
 

@@ -36,32 +36,32 @@ tags:
 - "GI Humains-tactiques GI-CADIENS"
 - "epic GI Humains-tactiques GI-CADIENS"
 - "infanterie GI Humains-tactiques GI-CADIENS"
-- "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "infanterie GI SUP"
-- "epic infanterie GI SUP"
-- "Humains-tactiques SUP"
-- "epic Humains-tactiques SUP"
-- "infanterie Humains-tactiques SUP"
-- "epic infanterie Humains-tactiques SUP"
-- "GI Humains-tactiques SUP"
-- "epic GI Humains-tactiques SUP"
-- "infanterie GI Humains-tactiques SUP"
-- "GI-CADIENS SUP"
-- "epic GI-CADIENS SUP"
-- "infanterie GI-CADIENS SUP"
-- "epic infanterie GI-CADIENS SUP"
-- "GI GI-CADIENS SUP"
-- "epic GI GI-CADIENS SUP"
-- "infanterie GI GI-CADIENS SUP"
-- "Humains-tactiques GI-CADIENS SUP"
-- "epic Humains-tactiques GI-CADIENS SUP"
-- "infanterie Humains-tactiques GI-CADIENS SUP"
-- "GI Humains-tactiques GI-CADIENS SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "infanterie GI NONSUP"
+- "epic infanterie GI NONSUP"
+- "Humains-tactiques NONSUP"
+- "epic Humains-tactiques NONSUP"
+- "infanterie Humains-tactiques NONSUP"
+- "epic infanterie Humains-tactiques NONSUP"
+- "GI Humains-tactiques NONSUP"
+- "epic GI Humains-tactiques NONSUP"
+- "infanterie GI Humains-tactiques NONSUP"
+- "GI-CADIENS NONSUP"
+- "epic GI-CADIENS NONSUP"
+- "infanterie GI-CADIENS NONSUP"
+- "epic infanterie GI-CADIENS NONSUP"
+- "GI GI-CADIENS NONSUP"
+- "epic GI GI-CADIENS NONSUP"
+- "infanterie GI GI-CADIENS NONSUP"
+- "Humains-tactiques GI-CADIENS NONSUP"
+- "epic Humains-tactiques GI-CADIENS NONSUP"
+- "infanterie Humains-tactiques GI-CADIENS NONSUP"
+- "GI Humains-tactiques GI-CADIENS NONSUP"
 
 ---
 
@@ -86,7 +86,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Humains-tactiques GI-CADIENS  SUP
+- epic infanterie GI Humains-tactiques GI-CADIENS  NONSUP
 
 
 Description :
@@ -97,13 +97,6 @@ Hailing from the planet of Acadia, Star Army Infantry take and hold territory fo
 Includes a full set of Acadian Infantry for use in small scale and 6mm games such as Epic40k
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_6_8mm_Empire_Star_Army__Acadian_Infantry_-_3746245_zip_unpack_files_Supreme_Commander_stl_.jpg
-    ~~~
-
-  
 
 

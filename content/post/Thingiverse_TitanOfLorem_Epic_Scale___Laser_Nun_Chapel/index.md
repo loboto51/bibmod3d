@@ -75,11 +75,9 @@ One version has a rectangular hole cut since the model is hollow.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_Scale_-_Laser_Nun_Chapel_-_5462799_zip_unpack_files_EmperorsChapelSupported_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_Epic_Scale_-_Laser_Nun_Chapel_-_5462799_zip_unpack_files_EmperorsChapel_chitubox_.jpg
+
+
 
 

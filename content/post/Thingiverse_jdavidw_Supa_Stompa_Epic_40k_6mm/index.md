@@ -21,21 +21,21 @@ tags:
 - "epic ORKS Orks-gargants"
 - "titans ORKS Orks-gargants"
 - "epic titans ORKS Orks-gargants"
-- "SUP"
-- "epic SUP"
-- "titans SUP"
-- "epic titans SUP"
-- "ORKS SUP"
-- "epic ORKS SUP"
-- "titans ORKS SUP"
-- "epic titans ORKS SUP"
-- "Orks-gargants SUP"
-- "epic Orks-gargants SUP"
-- "titans Orks-gargants SUP"
-- "epic titans Orks-gargants SUP"
-- "ORKS Orks-gargants SUP"
-- "epic ORKS Orks-gargants SUP"
-- "titans ORKS Orks-gargants SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "titans NONSUP"
+- "epic titans NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "titans ORKS NONSUP"
+- "epic titans ORKS NONSUP"
+- "Orks-gargants NONSUP"
+- "epic Orks-gargants NONSUP"
+- "titans Orks-gargants NONSUP"
+- "epic titans Orks-gargants NONSUP"
+- "ORKS Orks-gargants NONSUP"
+- "epic ORKS Orks-gargants NONSUP"
+- "titans ORKS Orks-gargants NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans ORKS Orks-gargants  SUP
+- epic titans ORKS Orks-gargants  NONSUP
 
 
 Description :
@@ -67,13 +67,6 @@ Description :
 This is my first model, intended for use as a Supa Stompa in Epic 40k.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Supa_Stompa_Epic_40k_6mm_-_4055887_zip_unpack_files_SupaStompa_DoubleGun_stl_.jpg
-    ~~~
-
-  
 
 

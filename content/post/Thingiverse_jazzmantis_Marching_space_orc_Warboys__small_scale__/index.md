@@ -73,11 +73,9 @@ or my store over at  https://www.myminifactory.com/users/Red%20Nebular
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Marching_space_orc_Warboys__small_scale__-_5281260_zip_unpack_files_sup_warboy_march_01_stl_.jpg
-    ~~~
 
-  
+ImagesSTL_-_Marching_space_orc_Warboys__small_scale__-_5281260_zip_unpack_files_sup_warboy_march_01_stl_.jpg
+
+
 
 

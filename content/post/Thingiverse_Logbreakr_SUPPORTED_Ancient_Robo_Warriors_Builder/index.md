@@ -201,11 +201,9 @@ FOR RESIN ONLY (sorry people with only FDM printers these models were not made t
 
 Justification du tag SUP :
 
-    ~~~
-    I supported these sick Thallax models for ease of 3d printing! I spent about 2 hours going through and supporting all of the islands and they printed beautifully! I may update this later with more weapons or poses..?
-    
-    ~~~
+I supported these sick Thallax models for ease of 3d printing! I spent about 2 hours going through and supporting all of the islands and they printed beautifully! I may update this later with more weapons or poses..?
 
-  
+
+
 
 

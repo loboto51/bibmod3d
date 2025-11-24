@@ -223,11 +223,9 @@ Thank you and enjoy!
 
 Justification du tag SUP :
 
-    ~~~
-    Jurassic Park brought new recognition to the Dilophosaurus, being one of the coolest brought to life for the first film as well as my personal favorite. The Jurassic Park version shows a smaller version (could just be younger) that spit blinding venom, and had a frill that would unfurl when attacking, none of which are supported by the fossil record but did make a heck of a entertaining film so I am ok with it. This pose is meant to be reminiscent of the "fetch the stick stupid" scene in which the Dilo' looks over its shoulder at the stick. I like pose from this scene because the Dinosaur is still in its innocent puppy mode and shows off the mobility of its long neck also the frill isn't visible in that scene at all so this still fits..
-    
-    ~~~
+Jurassic Park brought new recognition to the Dilophosaurus, being one of the coolest brought to life for the first film as well as my personal favorite. The Jurassic Park version shows a smaller version (could just be younger) that spit blinding venom, and had a frill that would unfurl when attacking, none of which are supported by the fossil record but did make a heck of a entertaining film so I am ok with it. This pose is meant to be reminiscent of the "fetch the stick stupid" scene in which the Dilo' looks over its shoulder at the stick. I like pose from this scene because the Dinosaur is still in its innocent puppy mode and shows off the mobility of its long neck also the frill isn't visible in that scene at all so this still fits..
 
-  
+
+
 
 

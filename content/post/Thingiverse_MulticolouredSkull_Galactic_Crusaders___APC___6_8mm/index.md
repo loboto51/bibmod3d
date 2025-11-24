@@ -93,11 +93,9 @@ For resin 3d printing. The file is unsupported but I have successfully printed i
 
 Justification du tag SUP :
 
-    ~~~
-    For resin 3d printing. The file is unsupported but I have successfully printed it using auto generated supports.
-    
-    ~~~
+For resin 3d printing. The file is unsupported but I have successfully printed it using auto generated supports.
 
-  
+
+
 
 

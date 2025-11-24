@@ -85,11 +85,9 @@ Updates 2020-05-15:
 
 Justification du tag SUP :
 
-    ~~~
-    - I have added a pre-supported file of the kroozer with small base. Both the STL and Chitubox file is available.
-    
-    ~~~
+- I have added a pre-supported file of the kroozer with small base. Both the STL and Chitubox file is available.
 
-  
+
+
 
 

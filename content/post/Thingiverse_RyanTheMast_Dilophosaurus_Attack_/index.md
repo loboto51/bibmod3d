@@ -214,11 +214,9 @@ Jurassic Park brought new recognition to the Dilophosaurus, being one of the coo
 
 Justification du tag SUP :
 
-    ~~~
-    Jurassic Park brought new recognition to the Dilophosaurus, being one of the coolest brought to life for the first film as well as my personal favorite. The Jurassic Park version shows a smaller version (could just be younger) that spit blinding venom, and had a frill that would unfurl when attacking, none of which are supported by the fossil record but did make a heck of a entertaining film so I am ok with it. 
-    
-    ~~~
+Jurassic Park brought new recognition to the Dilophosaurus, being one of the coolest brought to life for the first film as well as my personal favorite. The Jurassic Park version shows a smaller version (could just be younger) that spit blinding venom, and had a frill that would unfurl when attacking, none of which are supported by the fossil record but did make a heck of a entertaining film so I am ok with it. 
 
-  
+
+
 
 

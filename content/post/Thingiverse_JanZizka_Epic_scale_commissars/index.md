@@ -77,13 +77,11 @@ UPDATE 2021/01/19: Added a third pose.
 
 Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Epic_scale_commissars_-_4723793_zip_unpack_files_Commissar_1_unsupported_stl_.jpg
+
+ImagesSTL_-_Epic_scale_commissars_-_4723793_zip_unpack_files_Commissar_1_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_commissars_-_4723793_zip_unpack_files_Commissar_2_unsupported_stl_.jpg
 ImagesSTL_-_Epic_scale_commissars_-_4723793_zip_unpack_files_Commissar_3_unsupported_stl_.jpg
-    ~~~
 
-  
+
 
 

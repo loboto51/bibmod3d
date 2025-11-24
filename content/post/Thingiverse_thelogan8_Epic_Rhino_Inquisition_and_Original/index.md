@@ -98,11 +98,9 @@ Logan K.
 
 Justification du tag SUP :
 
-    ~~~
-    The model was designed for use with resin printers. Pre-supported files are included.
-    
-    ~~~
+The model was designed for use with resin printers. Pre-supported files are included.
 
-  
+
+
 
 

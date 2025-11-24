@@ -50,17 +50,15 @@ Thank you to Mayapia for the base orc models, as well as Hyfryd, 3D_Print_Cleric
 
 Justification du tag SUP :
 
-    ~~~
-    10mm Orc spearmen for warmaster, both a strips of 5 and the single 10mm models. I have included 5 different rank and file strips, 1 command strip, and the 12 unsupported models used to make them (in the zip file).
+10mm Orc spearmen for warmaster, both a strips of 5 and the single 10mm models. I have included 5 different rank and file strips, 1 command strip, and the 12 unsupported models used to make them (in the zip file).
 I have fully supported the strips, and successfully test printed them to ensure they were sufficient.
-    ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Com_Strip_1_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Com_Strip_1_Sup_stl_.jpg
 ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Strip_1_Sup_stl_.jpg
 ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Strip_2_Sup_stl_.jpg
 ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Strip_3_Sup_stl_.jpg
 ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Strip_4_Sup_stl_.jpg
 ImagesSTL_-_Warmaster_Orc_Spearmen_-_6477628_zip_unpack_files_Orc_Spear_Strip_5_Sup_stl_.jpg
-    ~~~
 
-  
+
 
 
