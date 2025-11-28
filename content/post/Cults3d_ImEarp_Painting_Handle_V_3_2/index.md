@@ -7,20 +7,20 @@ image: "thumbs_-_painting-handle-imearp_-_Images_1.jpg"
 tags:
 - "ImEarp"
 - "DIVERS"
-- "Matériel-de-Modélisme"
-- "DIVERS Matériel-de-Modélisme"
+- "Materiel-et-outils-de-modelisme"
+- "DIVERS Materiel-et-outils-de-modelisme"
 - "NONDL"
 - "DIVERS NONDL"
-- "Matériel-de-Modélisme NONDL"
-- "DIVERS Matériel-de-Modélisme NONDL"
+- "Materiel-et-outils-de-modelisme NONDL"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL"
 - "SUP"
 - "DIVERS SUP"
-- "Matériel-de-Modélisme SUP"
-- "DIVERS Matériel-de-Modélisme SUP"
+- "Materiel-et-outils-de-modelisme SUP"
+- "DIVERS Materiel-et-outils-de-modelisme SUP"
 - "NONDL SUP"
 - "DIVERS NONDL SUP"
-- "Matériel-de-Modélisme NONDL SUP"
-- "DIVERS Matériel-de-Modélisme NONDL SUP"
+- "Materiel-et-outils-de-modelisme NONDL SUP"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL SUP"
 
 ---
 
@@ -38,12 +38,12 @@ Prix : 0 euros
 
 Collections :
 
-- DIVERS Matériel-de-Modélisme
+- DIVERS Materiel-et-outils-de-modelisme
 
 
 Collections pour tags :
 
-- DIVERS Matériel-de-Modélisme NONDL SUP
+- DIVERS Materiel-et-outils-de-modelisme NONDL SUP
 
 
 Description :

@@ -21,21 +21,21 @@ tags:
 - "epic SMI Sm-stormeagles-fireraptors"
 - "volants SMI Sm-stormeagles-fireraptors"
 - "epic volants SMI Sm-stormeagles-fireraptors"
-- "SUP"
-- "epic SUP"
-- "volants SUP"
-- "epic volants SUP"
-- "SMI SUP"
-- "epic SMI SUP"
-- "volants SMI SUP"
-- "epic volants SMI SUP"
-- "Sm-stormeagles-fireraptors SUP"
-- "epic Sm-stormeagles-fireraptors SUP"
-- "volants Sm-stormeagles-fireraptors SUP"
-- "epic volants Sm-stormeagles-fireraptors SUP"
-- "SMI Sm-stormeagles-fireraptors SUP"
-- "epic SMI Sm-stormeagles-fireraptors SUP"
-- "volants SMI Sm-stormeagles-fireraptors SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "volants NONSUP"
+- "epic volants NONSUP"
+- "SMI NONSUP"
+- "epic SMI NONSUP"
+- "volants SMI NONSUP"
+- "epic volants SMI NONSUP"
+- "Sm-stormeagles-fireraptors NONSUP"
+- "epic Sm-stormeagles-fireraptors NONSUP"
+- "volants Sm-stormeagles-fireraptors NONSUP"
+- "epic volants Sm-stormeagles-fireraptors NONSUP"
+- "SMI Sm-stormeagles-fireraptors NONSUP"
+- "epic SMI Sm-stormeagles-fireraptors NONSUP"
+- "volants SMI Sm-stormeagles-fireraptors NONSUP"
 
 ---
 
@@ -58,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants SMI Sm-stormeagles-fireraptors  SUP
+- epic volants SMI Sm-stormeagles-fireraptors  NONSUP
 
 
 Description :
@@ -71,19 +71,6 @@ Remix of the Blast Eagle Transport by ironmaster
 Scaled approximately at 6mm scale.
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_for_APC_Front_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_for_APC_Rear_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_Stowed_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_Subpart_1_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_Subpart_2_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_Subpart_3_stl_.jpg
-ImagesSTL_-_Tiny_Flying_Transport_-_4935338_zip_unpack_files_Support_Arm_Subpart_4_stl_.jpg
-    ~~~
-
-  
 
 

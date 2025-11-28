@@ -359,6 +359,21 @@ tags:
 - "IMP Builders NONDL NONSUP"
 - "SMI Builders NONDL NONSUP"
 - "Bits Builders NONDL NONSUP"
+- "TRANSVERSE"
+- "Compatibles-necromunda"
+- "TRANSVERSE Compatibles-necromunda"
+- "NONDL"
+- "TRANSVERSE NONDL"
+- "Compatibles-necromunda NONDL"
+- "TRANSVERSE Compatibles-necromunda NONDL"
+- "NONSUP"
+- "TRANSVERSE NONSUP"
+- "Compatibles-necromunda NONSUP"
+- "TRANSVERSE Compatibles-necromunda NONSUP"
+- "NONDL NONSUP"
+- "TRANSVERSE NONDL NONSUP"
+- "Compatibles-necromunda NONDL NONSUP"
+- "TRANSVERSE Compatibles-necromunda NONDL NONSUP"
 
 ---
 
@@ -378,12 +393,14 @@ Collections :
 
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders
 - 28mm IMP SMI Bits Builders
+- TRANSVERSE Compatibles-necromunda
 
 
 Collections pour tags :
 
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
 - 28mm IMP SMI Bits Builders NONDL NONSUP
+- TRANSVERSE Compatibles-necromunda NONDL NONSUP
 
 
 Description :

@@ -77,11 +77,9 @@ If you like what I do and would like to support the creation of minis for the wh
 
 Justification du tag SUP :
 
-    ~~~
-    Pre-supported version (for resin printing) in 32mm and 54mm scaling options provided!
-    
-    ~~~
+Pre-supported version (for resin printing) in 32mm and 54mm scaling options provided!
 
-  
+
+
 
 

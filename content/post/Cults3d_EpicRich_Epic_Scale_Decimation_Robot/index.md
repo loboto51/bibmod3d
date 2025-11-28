@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > EpicRich > Epic_Scale_Decimation_Robot [non dl]"
+title: "[GRATUIT] Cults3d > EpicRich > Epic_Scale_Decimation_Robot [dl]"
 date: "2021-10-06T19:59:03Z"
 toc: true
 image: "thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic CHAOS Chaos-decimators"
 - "marcheurs CHAOS Chaos-decimators"
 - "epic marcheurs CHAOS Chaos-decimators"
-- "NONDL"
-- "epic NONDL"
-- "marcheurs NONDL"
-- "epic marcheurs NONDL"
-- "CHAOS NONDL"
-- "epic CHAOS NONDL"
-- "marcheurs CHAOS NONDL"
-- "epic marcheurs CHAOS NONDL"
-- "Chaos-decimators NONDL"
-- "epic Chaos-decimators NONDL"
-- "marcheurs Chaos-decimators NONDL"
-- "epic marcheurs Chaos-decimators NONDL"
-- "CHAOS Chaos-decimators NONDL"
-- "epic CHAOS Chaos-decimators NONDL"
-- "marcheurs CHAOS Chaos-decimators NONDL"
 - "SUP"
 - "epic SUP"
 - "marcheurs SUP"
@@ -51,21 +36,12 @@ tags:
 - "CHAOS Chaos-decimators SUP"
 - "epic CHAOS Chaos-decimators SUP"
 - "marcheurs CHAOS Chaos-decimators SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "marcheurs NONDL SUP"
-- "epic marcheurs NONDL SUP"
-- "CHAOS NONDL SUP"
-- "epic CHAOS NONDL SUP"
-- "marcheurs CHAOS NONDL SUP"
-- "Chaos-decimators NONDL SUP"
-- "epic Chaos-decimators NONDL SUP"
-- "marcheurs Chaos-decimators NONDL SUP"
-- "CHAOS Chaos-decimators NONDL SUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg> "thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg")
+
+  ![](<thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic marcheurs CHAOS Chaos-decimators NONDL SUP
+- epic marcheurs CHAOS Chaos-decimators  SUP
 
 
 Description :

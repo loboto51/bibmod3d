@@ -36,32 +36,32 @@ tags:
 - "GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc"
 - "epic GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc"
 - "vehicules GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc"
-- "SUP"
-- "epic SUP"
-- "vehicules SUP"
-- "epic vehicules SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "vehicules GI SUP"
-- "epic vehicules GI SUP"
-- "Imp-chars SUP"
-- "epic Imp-chars SUP"
-- "vehicules Imp-chars SUP"
-- "epic vehicules Imp-chars SUP"
-- "GI Imp-chars SUP"
-- "epic GI Imp-chars SUP"
-- "vehicules GI Imp-chars SUP"
-- "Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "epic Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "vehicules Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "epic vehicules Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "GI Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "epic GI Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "vehicules GI Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "epic Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "vehicules Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc SUP"
-- "GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc SUP"
+- "NONSUP"
+- "epic NONSUP"
+- "vehicules NONSUP"
+- "epic vehicules NONSUP"
+- "GI NONSUP"
+- "epic GI NONSUP"
+- "vehicules GI NONSUP"
+- "epic vehicules GI NONSUP"
+- "Imp-chars NONSUP"
+- "epic Imp-chars NONSUP"
+- "vehicules Imp-chars NONSUP"
+- "epic vehicules Imp-chars NONSUP"
+- "GI Imp-chars NONSUP"
+- "epic GI Imp-chars NONSUP"
+- "vehicules GI Imp-chars NONSUP"
+- "Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "epic Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "vehicules Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "epic vehicules Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "GI Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "epic GI Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "vehicules GI Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "epic Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "vehicules Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
+- "GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc NONSUP"
 
 ---
 
@@ -84,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc  SUP
+- epic vehicules GI Imp-chars Imp-chimeres-lance-flammes-hellhounds-etc  NONSUP
 
 
 Description :
@@ -95,14 +95,6 @@ This tiny tank has a tiny flamethrower and gives your tiny infantry some necessa
 Tiny tanks are intended for resin printers. 
 ~~~
 
-Justification du tag SUP :
 
-    ~~~
-    
-    ImagesSTL_-_Tiny_Tank_Infantry_Support_-_4351770_zip_unpack_files_epichellhoundbody_stl_.jpg
-ImagesSTL_-_Tiny_Tank_Infantry_Support_-_4351770_zip_unpack_files_epichellhoundturret_stl_.jpg
-    ~~~
-
-  
 
 
