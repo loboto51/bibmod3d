@@ -7,36 +7,6 @@ image: "thumbs_-_4365774_-_Images_1.jpg"
 tags:
 - "FelixTheCrazy"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "TAU"
-- "28mm TAU"
-- "40K TAU"
-- "28mm 40K TAU"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
-- "40K TAU NONDL"
-- "28mm 40K TAU NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "TAU NONSUP"
-- "28mm TAU NONSUP"
-- "40K TAU NONSUP"
-- "28mm 40K TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "28mm 40K NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "28mm TAU NONDL NONSUP"
-- "40K TAU NONDL NONSUP"
-- "28mm"
 - "TAU"
 - "28mm TAU"
 - "NONDL"
@@ -66,13 +36,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K TAU
 - 28mm TAU
 
 
 Collections pour tags :
 
-- 28mm 40K TAU NONDL NONSUP
 - 28mm TAU NONDL NONSUP
 
 

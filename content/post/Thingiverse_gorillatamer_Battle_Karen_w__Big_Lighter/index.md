@@ -7,62 +7,6 @@ image: "thumbs_-_4700771_-_Images_1.jpg"
 tags:
 - "gorillatamer"
 - "28mm"
-- "epic"
-- "28mm epic"
-- "SOB"
-- "28mm SOB"
-- "epic SOB"
-- "28mm epic SOB"
-- "Bits"
-- "28mm Bits"
-- "epic Bits"
-- "28mm epic Bits"
-- "SOB Bits"
-- "28mm SOB Bits"
-- "epic SOB Bits"
-- "28mm epic SOB Bits"
-- "Builders"
-- "28mm Builders"
-- "epic Builders"
-- "28mm epic Builders"
-- "SOB Builders"
-- "28mm SOB Builders"
-- "epic SOB Builders"
-- "28mm epic SOB Builders"
-- "Bits Builders"
-- "28mm Bits Builders"
-- "epic Bits Builders"
-- "28mm epic Bits Builders"
-- "SOB Bits Builders"
-- "28mm SOB Bits Builders"
-- "epic SOB Bits Builders"
-- "SUP"
-- "28mm SUP"
-- "epic SUP"
-- "28mm epic SUP"
-- "SOB SUP"
-- "28mm SOB SUP"
-- "epic SOB SUP"
-- "28mm epic SOB SUP"
-- "Bits SUP"
-- "28mm Bits SUP"
-- "epic Bits SUP"
-- "28mm epic Bits SUP"
-- "SOB Bits SUP"
-- "28mm SOB Bits SUP"
-- "epic SOB Bits SUP"
-- "Builders SUP"
-- "28mm Builders SUP"
-- "epic Builders SUP"
-- "28mm epic Builders SUP"
-- "SOB Builders SUP"
-- "28mm SOB Builders SUP"
-- "epic SOB Builders SUP"
-- "Bits Builders SUP"
-- "28mm Bits Builders SUP"
-- "epic Bits Builders SUP"
-- "SOB Bits Builders SUP"
-- "28mm"
 - "IMP"
 - "28mm IMP"
 - "SOB"
@@ -177,13 +121,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm epic SOB Bits Builders
 - 28mm IMP SOB HUMAINS Bits Builders
 
 
 Collections pour tags :
 
-- 28mm epic SOB Bits Builders  SUP
 - 28mm IMP SOB HUMAINS Bits Builders  SUP
 
 

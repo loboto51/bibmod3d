@@ -7,21 +7,6 @@ image: "thumbs_-_4548695_-_Images_1.jpg"
 tags:
 - "grumpusbumpus"
 - "warmaster"
-- "EMPIRE"
-- "warmaster EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
 - "EMPIRE"
@@ -66,13 +51,11 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster EMPIRE
 - warmaster HUMAINS EMPIRE
 
 
 Collections pour tags :
 
-- warmaster EMPIRE NONDL NONSUP
 - warmaster HUMAINS EMPIRE NONDL NONSUP
 
 

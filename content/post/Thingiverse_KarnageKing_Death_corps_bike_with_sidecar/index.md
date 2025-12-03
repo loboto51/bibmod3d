@@ -6,21 +6,6 @@ toc: true
 image: "thumbs_-_3617700_-_Images_1.jpg"
 tags:
 - "KarnageKing"
-- "15mm"
-- "40K"
-- "15mm 40K"
-- "Humains-civils-et-militaires"
-- "15mm Humains-civils-et-militaires"
-- "40K Humains-civils-et-militaires"
-- "15mm 40K Humains-civils-et-militaires"
-- "NONSUP"
-- "15mm NONSUP"
-- "40K NONSUP"
-- "15mm 40K NONSUP"
-- "Humains-civils-et-militaires NONSUP"
-- "15mm Humains-civils-et-militaires NONSUP"
-- "40K Humains-civils-et-militaires NONSUP"
-- "15mm 40K Humains-civils-et-militaires NONSUP"
 - "28mm"
 - "ARBITES"
 - "28mm ARBITES"
@@ -70,13 +55,11 @@ Prix : 0 euros
 
 Collections :
 
-- 15mm 40K Humains-civils-et-militaires
 - 28mm ARBITES GI HUMAINS
 
 
 Collections pour tags :
 
-- 15mm 40K Humains-civils-et-militaires  NONSUP
 - 28mm ARBITES GI HUMAINS  NONSUP
 
 
