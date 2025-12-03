@@ -261,6 +261,21 @@ tags:
 - "ORKS Builders NONDL NONSUP"
 - "40k-armes-diverses Builders NONDL NONSUP"
 - "Bits Builders NONDL NONSUP"
+- "TRANSVERSE"
+- "Compatibles-necromunda"
+- "TRANSVERSE Compatibles-necromunda"
+- "NONDL"
+- "TRANSVERSE NONDL"
+- "Compatibles-necromunda NONDL"
+- "TRANSVERSE Compatibles-necromunda NONDL"
+- "NONSUP"
+- "TRANSVERSE NONSUP"
+- "Compatibles-necromunda NONSUP"
+- "TRANSVERSE Compatibles-necromunda NONSUP"
+- "NONDL NONSUP"
+- "TRANSVERSE NONDL NONSUP"
+- "Compatibles-necromunda NONDL NONSUP"
+- "TRANSVERSE Compatibles-necromunda NONDL NONSUP"
 
 ---
 
@@ -277,11 +292,13 @@ Prix : 0.0 euros
 Collections :
 
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders
+- TRANSVERSE Compatibles-necromunda
 
 
 Collections pour tags :
 
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
+- TRANSVERSE Compatibles-necromunda NONDL NONSUP
 
 
 Description :

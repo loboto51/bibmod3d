@@ -7,12 +7,12 @@ image: "thumbs_-_starports-floating-rafts-stackable-conversion-system_-_Images_1
 tags:
 - "lstar"
 - "DIVERS"
-- "Matériel-de-Modélisme"
-- "DIVERS Matériel-de-Modélisme"
+- "Materiel-et-outils-de-modelisme"
+- "DIVERS Materiel-et-outils-de-modelisme"
 - "SUP"
 - "DIVERS SUP"
-- "Matériel-de-Modélisme SUP"
-- "DIVERS Matériel-de-Modélisme SUP"
+- "Materiel-et-outils-de-modelisme SUP"
+- "DIVERS Materiel-et-outils-de-modelisme SUP"
 
 ---
 
@@ -30,12 +30,12 @@ Prix : 0 euros
 
 Collections :
 
-- DIVERS Matériel-de-Modélisme
+- DIVERS Materiel-et-outils-de-modelisme
 
 
 Collections pour tags :
 
-- DIVERS Matériel-de-Modélisme  SUP
+- DIVERS Materiel-et-outils-de-modelisme  SUP
 
 
 Description :

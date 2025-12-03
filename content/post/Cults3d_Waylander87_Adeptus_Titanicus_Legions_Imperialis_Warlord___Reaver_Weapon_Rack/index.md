@@ -7,20 +7,20 @@ image: "thumbs_-_adeptus-titanicus-legions-imperialis-warlord-reaver-weapon-rack
 tags:
 - "Waylander87"
 - "DIVERS"
-- "Matériel-de-Modélisme"
-- "DIVERS Matériel-de-Modélisme"
+- "Materiel-et-outils-de-modelisme"
+- "DIVERS Materiel-et-outils-de-modelisme"
 - "NONDL"
 - "DIVERS NONDL"
-- "Matériel-de-Modélisme NONDL"
-- "DIVERS Matériel-de-Modélisme NONDL"
+- "Materiel-et-outils-de-modelisme NONDL"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL"
 - "NONSUP"
 - "DIVERS NONSUP"
-- "Matériel-de-Modélisme NONSUP"
-- "DIVERS Matériel-de-Modélisme NONSUP"
+- "Materiel-et-outils-de-modelisme NONSUP"
+- "DIVERS Materiel-et-outils-de-modelisme NONSUP"
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "Matériel-de-Modélisme NONDL NONSUP"
-- "DIVERS Matériel-de-Modélisme NONDL NONSUP"
+- "Materiel-et-outils-de-modelisme NONDL NONSUP"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
@@ -36,12 +36,12 @@ Prix : 0 euros
 
 Collections :
 
-- DIVERS Matériel-de-Modélisme
+- DIVERS Materiel-et-outils-de-modelisme
 
 
 Collections pour tags :
 
-- DIVERS Matériel-de-Modélisme NONDL NONSUP
+- DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP
 
 
 Description :
