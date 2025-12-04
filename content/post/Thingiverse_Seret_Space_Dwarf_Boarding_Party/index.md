@@ -7,36 +7,6 @@ image: "thumbs_-_5203322_-_Images_1.jpg"
 tags:
 - "Seret"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "SQUATS"
-- "28mm SQUATS"
-- "40K SQUATS"
-- "28mm 40K SQUATS"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "SQUATS NONDL"
-- "28mm SQUATS NONDL"
-- "40K SQUATS NONDL"
-- "28mm 40K SQUATS NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "SQUATS NONSUP"
-- "28mm SQUATS NONSUP"
-- "40K SQUATS NONSUP"
-- "28mm 40K SQUATS NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "28mm 40K NONDL NONSUP"
-- "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
-- "40K SQUATS NONDL NONSUP"
-- "28mm"
 - "SQUATS"
 - "28mm SQUATS"
 - "NONDL"
@@ -66,13 +36,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K SQUATS
 - 28mm SQUATS
 
 
 Collections pour tags :
 
-- 28mm 40K SQUATS NONDL NONSUP
 - 28mm SQUATS NONDL NONSUP
 
 

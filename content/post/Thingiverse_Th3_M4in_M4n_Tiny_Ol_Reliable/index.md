@@ -7,13 +7,6 @@ image: "thumbs_-_6994140_-_Images_1.jpg"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
-- "EMPIRE"
-- "warmaster EMPIRE"
-- "SUP"
-- "warmaster SUP"
-- "EMPIRE SUP"
-- "warmaster EMPIRE SUP"
-- "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
 - "EMPIRE"
@@ -45,13 +38,11 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster EMPIRE
 - warmaster HUMAINS EMPIRE
 
 
 Collections pour tags :
 
-- warmaster EMPIRE  SUP
 - warmaster HUMAINS EMPIRE  SUP
 
 

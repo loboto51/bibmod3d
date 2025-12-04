@@ -7,21 +7,6 @@ image: "thumbs_-_6759957_-_Images_1.jpg"
 tags:
 - "tilinger"
 - "warmaster"
-- "BRETONNIENS"
-- "warmaster BRETONNIENS"
-- "NONDL"
-- "warmaster NONDL"
-- "BRETONNIENS NONDL"
-- "warmaster BRETONNIENS NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "BRETONNIENS NONSUP"
-- "warmaster BRETONNIENS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "BRETONNIENS NONDL NONSUP"
-- "warmaster BRETONNIENS NONDL NONSUP"
-- "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
 - "BRETONNIENS"
@@ -68,13 +53,11 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster BRETONNIENS
 - warmaster HUMAINS BRETONNIENS
 
 
 Collections pour tags :
 
-- warmaster BRETONNIENS NONDL NONSUP
 - warmaster HUMAINS BRETONNIENS NONDL NONSUP
 
 

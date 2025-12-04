@@ -7,36 +7,6 @@ image: "thumbs_-_4019682_-_Images_1.jpg"
 tags:
 - "Landon73_LeesedRenfort"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "SOB"
-- "28mm SOB"
-- "40K SOB"
-- "28mm 40K SOB"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "SOB NONDL"
-- "28mm SOB NONDL"
-- "40K SOB NONDL"
-- "28mm 40K SOB NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "SOB NONSUP"
-- "28mm SOB NONSUP"
-- "40K SOB NONSUP"
-- "28mm 40K SOB NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "28mm 40K NONDL NONSUP"
-- "SOB NONDL NONSUP"
-- "28mm SOB NONDL NONSUP"
-- "40K SOB NONDL NONSUP"
-- "28mm"
 - "IMP"
 - "28mm IMP"
 - "SOB"
@@ -109,13 +79,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K SOB
 - 28mm IMP SOB HUMAINS
 
 
 Collections pour tags :
 
-- 28mm 40K SOB NONDL NONSUP
 - 28mm IMP SOB HUMAINS NONDL NONSUP
 
 

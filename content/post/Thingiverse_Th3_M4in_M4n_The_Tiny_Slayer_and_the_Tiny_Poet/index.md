@@ -21,13 +21,6 @@ tags:
 - "warmaster MERCENAIRES NONSUP"
 - "HUMAINS MERCENAIRES NONSUP"
 - "warmaster HUMAINS MERCENAIRES NONSUP"
-- "warmaster"
-- "MERCENAIRES"
-- "warmaster MERCENAIRES"
-- "NONSUP"
-- "warmaster NONSUP"
-- "MERCENAIRES NONSUP"
-- "warmaster MERCENAIRES NONSUP"
 
 ---
 
@@ -44,13 +37,11 @@ Prix : 0 euros
 Collections :
 
 - warmaster HUMAINS MERCENAIRES
-- warmaster MERCENAIRES
 
 
 Collections pour tags :
 
 - warmaster HUMAINS MERCENAIRES  NONSUP
-- warmaster MERCENAIRES  NONSUP
 
 
 Description :

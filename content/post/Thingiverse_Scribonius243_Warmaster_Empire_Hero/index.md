@@ -7,21 +7,6 @@ image: "thumbs_-_6482995_-_Images_1.jpg"
 tags:
 - "Scribonius243"
 - "warmaster"
-- "EMPIRE"
-- "warmaster EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "SUP"
-- "warmaster SUP"
-- "EMPIRE SUP"
-- "warmaster EMPIRE SUP"
-- "NONDL SUP"
-- "warmaster NONDL SUP"
-- "EMPIRE NONDL SUP"
-- "warmaster EMPIRE NONDL SUP"
-- "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
 - "EMPIRE"
@@ -66,13 +51,11 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster EMPIRE
 - warmaster HUMAINS EMPIRE
 
 
 Collections pour tags :
 
-- warmaster EMPIRE NONDL SUP
 - warmaster HUMAINS EMPIRE NONDL SUP
 
 

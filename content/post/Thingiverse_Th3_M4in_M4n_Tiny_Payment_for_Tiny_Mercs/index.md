@@ -36,21 +36,6 @@ tags:
 - "MERCENAIRES NONDL NONSUP"
 - "warmaster MERCENAIRES NONDL NONSUP"
 - "HUMAINS MERCENAIRES NONDL NONSUP"
-- "warmaster"
-- "MERCENAIRES"
-- "warmaster MERCENAIRES"
-- "NONDL"
-- "warmaster NONDL"
-- "MERCENAIRES NONDL"
-- "warmaster MERCENAIRES NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "MERCENAIRES NONSUP"
-- "warmaster MERCENAIRES NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "MERCENAIRES NONDL NONSUP"
-- "warmaster MERCENAIRES NONDL NONSUP"
 
 ---
 
@@ -69,13 +54,11 @@ Prix : 0 euros
 Collections :
 
 - warmaster HUMAINS MERCENAIRES
-- warmaster MERCENAIRES
 
 
 Collections pour tags :
 
 - warmaster HUMAINS MERCENAIRES NONDL NONSUP
-- warmaster MERCENAIRES NONDL NONSUP
 
 
 Description :

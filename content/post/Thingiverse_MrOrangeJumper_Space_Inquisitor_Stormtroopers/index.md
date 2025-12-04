@@ -7,36 +7,6 @@ image: "thumbs_-_4351490_-_Images_1.jpg"
 tags:
 - "MrOrangeJumper"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "GI"
-- "28mm GI"
-- "40K GI"
-- "28mm 40K GI"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "GI NONDL"
-- "28mm GI NONDL"
-- "40K GI NONDL"
-- "28mm 40K GI NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "GI NONSUP"
-- "28mm GI NONSUP"
-- "40K GI NONSUP"
-- "28mm 40K GI NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "28mm 40K NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "28mm GI NONDL NONSUP"
-- "40K GI NONDL NONSUP"
-- "28mm"
 - "ARBITES"
 - "28mm ARBITES"
 - "GI"
@@ -215,13 +185,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K GI
 - 28mm ARBITES GI HUMAINS Bits Builders
 
 
 Collections pour tags :
 
-- 28mm 40K GI NONDL NONSUP
 - 28mm ARBITES GI HUMAINS Bits Builders NONDL NONSUP
 
 

@@ -13,14 +13,14 @@ tags:
 - "epic VM"
 - "volants VM"
 - "epic volants VM"
-- "Eldars-Phoenix"
-- "epic Eldars-Phoenix"
-- "volants Eldars-Phoenix"
-- "epic volants Eldars-Phoenix"
-- "VM Eldars-Phoenix"
-- "epic VM Eldars-Phoenix"
-- "volants VM Eldars-Phoenix"
-- "epic volants VM Eldars-Phoenix"
+- "Eldars-chasseurs-bombardiers"
+- "epic Eldars-chasseurs-bombardiers"
+- "volants Eldars-chasseurs-bombardiers"
+- "epic volants Eldars-chasseurs-bombardiers"
+- "VM Eldars-chasseurs-bombardiers"
+- "epic VM Eldars-chasseurs-bombardiers"
+- "volants VM Eldars-chasseurs-bombardiers"
+- "epic volants VM Eldars-chasseurs-bombardiers"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -29,13 +29,13 @@ tags:
 - "epic VM NONSUP"
 - "volants VM NONSUP"
 - "epic volants VM NONSUP"
-- "Eldars-Phoenix NONSUP"
-- "epic Eldars-Phoenix NONSUP"
-- "volants Eldars-Phoenix NONSUP"
-- "epic volants Eldars-Phoenix NONSUP"
-- "VM Eldars-Phoenix NONSUP"
-- "epic VM Eldars-Phoenix NONSUP"
-- "volants VM Eldars-Phoenix NONSUP"
+- "Eldars-chasseurs-bombardiers NONSUP"
+- "epic Eldars-chasseurs-bombardiers NONSUP"
+- "volants Eldars-chasseurs-bombardiers NONSUP"
+- "epic volants Eldars-chasseurs-bombardiers NONSUP"
+- "VM Eldars-chasseurs-bombardiers NONSUP"
+- "epic VM Eldars-chasseurs-bombardiers NONSUP"
+- "volants VM Eldars-chasseurs-bombardiers NONSUP"
 
 ---
 
@@ -53,12 +53,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic volants VM Eldars-Phoenix
+- epic volants VM Eldars-chasseurs-bombardiers
 
 
 Collections pour tags :
 
-- epic volants VM Eldars-Phoenix  NONSUP
+- epic volants VM Eldars-chasseurs-bombardiers  NONSUP
 
 
 Description :

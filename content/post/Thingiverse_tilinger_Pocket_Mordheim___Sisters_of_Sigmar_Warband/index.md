@@ -7,13 +7,6 @@ image: "thumbs_-_6947364_-_Images_1.jpg"
 tags:
 - "tilinger"
 - "warmaster"
-- "EMPIRE"
-- "warmaster EMPIRE"
-- "NONSUP"
-- "warmaster NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "warmaster"
 - "HUMAINS"
 - "warmaster HUMAINS"
 - "EMPIRE"
@@ -47,13 +40,11 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster EMPIRE
 - warmaster HUMAINS EMPIRE
 
 
 Collections pour tags :
 
-- warmaster EMPIRE  NONSUP
 - warmaster HUMAINS EMPIRE  NONSUP
 
 
