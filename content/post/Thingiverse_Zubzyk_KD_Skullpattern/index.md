@@ -7,21 +7,6 @@ image: "thumbs_-_3693487_-_Images_1.jpg"
 tags:
 - "Zubzyk"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "AM"
-- "28mm AM"
-- "40K AM"
-- "28mm 40K AM"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "AM NONSUP"
-- "28mm AM NONSUP"
-- "40K AM NONSUP"
-- "28mm 40K AM NONSUP"
-- "28mm"
 - "IMP"
 - "28mm IMP"
 - "AM"
@@ -138,13 +123,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K AM
 - 28mm IMP AM HUMAINS Bits Builders
 
 
 Collections pour tags :
 
-- 28mm 40K AM  NONSUP
 - 28mm IMP AM HUMAINS Bits Builders  NONSUP
 
 

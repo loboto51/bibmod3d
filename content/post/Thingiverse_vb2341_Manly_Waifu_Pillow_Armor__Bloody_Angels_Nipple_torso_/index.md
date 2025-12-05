@@ -7,36 +7,6 @@ image: "thumbs_-_4234080_-_Images_1.jpg"
 tags:
 - "vb2341"
 - "28mm"
-- "40K"
-- "28mm 40K"
-- "SMI"
-- "28mm SMI"
-- "40K SMI"
-- "28mm 40K SMI"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "SMI NONDL"
-- "28mm SMI NONDL"
-- "40K SMI NONDL"
-- "28mm 40K SMI NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "40K NONSUP"
-- "28mm 40K NONSUP"
-- "SMI NONSUP"
-- "28mm SMI NONSUP"
-- "40K SMI NONSUP"
-- "28mm 40K SMI NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "28mm 40K NONDL NONSUP"
-- "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
-- "40K SMI NONDL NONSUP"
-- "28mm"
 - "SMI"
 - "28mm SMI"
 - "Bits"
@@ -109,13 +79,11 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm 40K SMI
 - 28mm SMI Bits Builders
 
 
 Collections pour tags :
 
-- 28mm 40K SMI NONDL NONSUP
 - 28mm SMI Bits Builders NONDL NONSUP
 
 
