@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > HelicopterHelicopter > GEN_3_WARGEAR_AND_BITS [non dl]"
-date: "2023-08-29T15:43:00Z"
+title: "[GRATUIT] Cults3d > BREXIT > sci_fi_Knight_helmets___thankyou_for_1000_followers_ [non dl]"
+date: "2018-12-26T17:14:17Z"
 toc: true
-image: "thumbs_-_gen-3-wargear-and-bits_-_Images_1.jpg"
+image: "thumbs_-_sci-fi-knight-helmets-thankyou-for-1000-followers_-_Images_1.jpg"
 tags:
-- "HelicopterHelicopter"
+- "BREXIT"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -104,62 +104,41 @@ tags:
 - "IMP Builders NONDL NONSUP"
 - "SMI Builders NONDL NONSUP"
 - "Bits Builders NONDL NONSUP"
-- "TRANSVERSE"
-- "Compatibles-necromunda"
-- "TRANSVERSE Compatibles-necromunda"
-- "NONDL"
-- "TRANSVERSE NONDL"
-- "Compatibles-necromunda NONDL"
-- "TRANSVERSE Compatibles-necromunda NONDL"
-- "NONSUP"
-- "TRANSVERSE NONSUP"
-- "Compatibles-necromunda NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONSUP"
-- "NONDL NONSUP"
-- "TRANSVERSE NONDL NONSUP"
-- "Compatibles-necromunda NONDL NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_gen-3-wargear-and-bits_-_Images_1.jpg> "thumbs_-_gen-3-wargear-and-bits_-_Images_1.jpg")
+![](<thumbs_-_sci-fi-knight-helmets-thankyou-for-1000-followers_-_Images_1.jpg> "thumbs_-_sci-fi-knight-helmets-thankyou-for-1000-followers_-_Images_1.jpg")
 
-  ![](<thumbs_-_gen-3-wargear-and-bits_-_Makes_1.jpg> "thumbs_-_gen-3-wargear-and-bits_-_Makes_1.jpg")
+  ![](<thumbs_-_sci-fi-knight-helmets-thankyou-for-1000-followers_-_Makes_1.jpg> "thumbs_-_sci-fi-knight-helmets-thankyou-for-1000-followers_-_Makes_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/gen-3-wargear-and-bits](https://cults3d.com/en/3d-model/game/gen-3-wargear-and-bits)
+Source : [https://cults3d.com/en/3d-model/art/sci-fi-knight-helmets-thankyou-for-1000-followers](https://cults3d.com/en/3d-model/art/sci-fi-knight-helmets-thankyou-for-1000-followers)
 
-Id objet : gen-3-wargear-and-bits
+Id objet : sci-fi-knight-helmets-thankyou-for-1000-followers
 
 Prix : 0.0 euros
 
 Collections :
 
 - 28mm IMP SMI Bits Builders
-- TRANSVERSE Compatibles-necromunda
 
 
 Collections pour tags :
 
 - 28mm IMP SMI Bits Builders NONDL NONSUP
-- TRANSVERSE Compatibles-necromunda NONDL NONSUP
 
 
 Description :
 
 ~~~
-Wargear for Mk3 Space kinights. All content can be seen on screenshots.
+thankyou for 1000 followers! 
 
-Teoretically, can be used with any bodies, but designed specifically to fit on this: 
+alternative helmets for space marines.
 
-https://cults3d.com/en/3d-model/game/3rd-generation-power-armor-bodies-torsos-legs
+also can be used for remixing onto your own models
 
-Not all pre-posed two-handed bits will fit good on "Fat" sup-type of Mk3 armor. because of its big belly.
-
-Started almost 6 months ago as a compilation of different free weapons and bits from cults, but ended up remaking by myself everything exept bolter, so big thanks to oHm for allowing me to use his bolter(i changed it slightly):
-
-https://cults3d.com/en/3d-model/game/filius-ares-telum
+i will be making unique/custom multi-part bodies to go along with these in the future so watch out!
 ~~~
 
 
