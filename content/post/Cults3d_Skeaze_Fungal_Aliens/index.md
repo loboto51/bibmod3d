@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Skeaze > Fungal_Aliens [non dl]"
+title: "[GRATUIT] Cults3d > Skeaze > Fungal_Aliens [dl]"
 date: "2025-03-01T16:03:13Z"
 toc: true
 image: "thumbs_-_fungal-aliens_-_Images_1.jpg"
@@ -13,33 +13,20 @@ tags:
 - "15mm Aliens-divers"
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
-- "15mm SFDIV Aliens-divers NONDL"
-- "NONSUP"
-- "15mm NONSUP"
-- "SFDIV NONSUP"
-- "15mm SFDIV NONSUP"
-- "Aliens-divers NONSUP"
-- "15mm Aliens-divers NONSUP"
-- "SFDIV Aliens-divers NONSUP"
-- "15mm SFDIV Aliens-divers NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "SFDIV NONDL NONSUP"
-- "15mm SFDIV NONDL NONSUP"
-- "Aliens-divers NONDL NONSUP"
-- "15mm Aliens-divers NONDL NONSUP"
-- "SFDIV Aliens-divers NONDL NONSUP"
+- "SUP"
+- "15mm SUP"
+- "SFDIV SUP"
+- "15mm SFDIV SUP"
+- "Aliens-divers SUP"
+- "15mm Aliens-divers SUP"
+- "SFDIV Aliens-divers SUP"
+- "15mm SFDIV Aliens-divers SUP"
 
 ---
 
 ![](<thumbs_-_fungal-aliens_-_Images_1.jpg> "thumbs_-_fungal-aliens_-_Images_1.jpg")
+
+  ![](<thumbs_-_fungal-aliens_-_ImagesSTL_1.jpg> "thumbs_-_fungal-aliens_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm SFDIV Aliens-divers NONDL NONSUP
+- 15mm SFDIV Aliens-divers  SUP
 
 
 Description :
@@ -68,6 +55,11 @@ They are in 15mm scale. If you want to scale them up for 28mm I'd suggest somewh
 
 I've also included my original design process notes, so you can read up on why I made them the way I did.
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_fungal-aliens20250301-1-a3o11v_zip_unpack_Skeaze_fungal-aliens_Fungalien01_Sup_stl_.jpg
 
 
 

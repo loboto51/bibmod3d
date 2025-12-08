@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Skeaze > Terra_Hold_Hero_1__Mystic_Space__15_18mm_ [non dl]"
+title: "[GRATUIT] Cults3d > Skeaze > Terra_Hold_Hero_1__Mystic_Space__15_18mm_ [dl]"
 date: "2025-02-10T01:55:43Z"
 toc: true
 image: "thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "15mm HUMAINS Sf-tous-types-humains"
 - "SFDIV HUMAINS Sf-tous-types-humains"
 - "15mm SFDIV HUMAINS Sf-tous-types-humains"
-- "NONDL"
-- "15mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "HUMAINS NONDL"
-- "15mm HUMAINS NONDL"
-- "SFDIV HUMAINS NONDL"
-- "15mm SFDIV HUMAINS NONDL"
-- "Sf-tous-types-humains NONDL"
-- "15mm Sf-tous-types-humains NONDL"
-- "SFDIV Sf-tous-types-humains NONDL"
-- "15mm SFDIV Sf-tous-types-humains NONDL"
-- "HUMAINS Sf-tous-types-humains NONDL"
-- "15mm HUMAINS Sf-tous-types-humains NONDL"
-- "SFDIV HUMAINS Sf-tous-types-humains NONDL"
 - "SUP"
 - "15mm SUP"
 - "SFDIV SUP"
@@ -51,21 +36,12 @@ tags:
 - "HUMAINS Sf-tous-types-humains SUP"
 - "15mm HUMAINS Sf-tous-types-humains SUP"
 - "SFDIV HUMAINS Sf-tous-types-humains SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "15mm SFDIV NONDL SUP"
-- "HUMAINS NONDL SUP"
-- "15mm HUMAINS NONDL SUP"
-- "SFDIV HUMAINS NONDL SUP"
-- "Sf-tous-types-humains NONDL SUP"
-- "15mm Sf-tous-types-humains NONDL SUP"
-- "SFDIV Sf-tous-types-humains NONDL SUP"
-- "HUMAINS Sf-tous-types-humains NONDL SUP"
 
 ---
 
 ![](<thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_Images_1.jpg> "thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_Images_1.jpg")
+
+  ![](<thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_ImagesSTL_1.jpg> "thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_Makes_1.jpg> "thumbs_-_terra-hold-hero-1-mystic-space-15-18mm_-_Makes_1.jpg")
 
@@ -84,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm SFDIV HUMAINS Sf-tous-types-humains NONDL SUP
+- 15mm SFDIV HUMAINS Sf-tous-types-humains  SUP
 
 
 Description :
@@ -105,7 +81,7 @@ Justification du tag SUP :
 
 This is a single model in 15/18mm/1:100 scale*. All models are Pre-supported**!
 **I test print all my pre-supported files. I tend to go with more supports to be safe. I'd recommend using the hot-water technique to ensure easy support removal.
-
+ImagesSTL_-_terra-hold-hero-1-mystic-space-15-18mm20250210-1-id5w9o_zip_unpack_Skeaze_terra-hold-hero-1-mystic-space-15-18mm_Farmer_BigHammerMuscles_Supported_stl_.jpg
 
 
 
