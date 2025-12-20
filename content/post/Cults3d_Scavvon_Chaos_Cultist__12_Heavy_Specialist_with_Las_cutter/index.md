@@ -9,18 +9,33 @@ tags:
 - "28mm"
 - "CHAOS"
 - "28mm CHAOS"
+- "Chaos-cultistes"
+- "28mm Chaos-cultistes"
+- "CHAOS Chaos-cultistes"
+- "28mm CHAOS Chaos-cultistes"
 - "NONDL"
 - "28mm NONDL"
 - "CHAOS NONDL"
 - "28mm CHAOS NONDL"
+- "Chaos-cultistes NONDL"
+- "28mm Chaos-cultistes NONDL"
+- "CHAOS Chaos-cultistes NONDL"
+- "28mm CHAOS Chaos-cultistes NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
 - "28mm CHAOS SUP"
+- "Chaos-cultistes SUP"
+- "28mm Chaos-cultistes SUP"
+- "CHAOS Chaos-cultistes SUP"
+- "28mm CHAOS Chaos-cultistes SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "CHAOS NONDL SUP"
 - "28mm CHAOS NONDL SUP"
+- "Chaos-cultistes NONDL SUP"
+- "28mm Chaos-cultistes NONDL SUP"
+- "CHAOS Chaos-cultistes NONDL SUP"
 
 ---
 
@@ -36,12 +51,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- 28mm CHAOS
+- 28mm CHAOS Chaos-cultistes
 
 
 Collections pour tags :
 
-- 28mm CHAOS NONDL SUP
+- 28mm CHAOS Chaos-cultistes NONDL SUP
 
 
 Description :

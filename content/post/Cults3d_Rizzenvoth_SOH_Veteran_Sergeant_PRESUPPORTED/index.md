@@ -7,35 +7,12 @@ image: "thumbs_-_soh-veteran-sergeant-presupported_-_Images_1.jpg"
 tags:
 - "Rizzenvoth"
 - "28mm"
-- "30K"
-- "28mm 30K"
-- "SMI"
-- "28mm SMI"
-- "30K SMI"
-- "28mm 30K SMI"
-- "SMC"
-- "28mm SMC"
-- "30K SMC"
-- "28mm 30K SMC"
-- "SMI SMC"
-- "28mm SMI SMC"
-- "30K SMI SMC"
-- "28mm 30K SMI SMC"
+- "SM30K"
+- "28mm SM30K"
 - "SUP"
 - "28mm SUP"
-- "30K SUP"
-- "28mm 30K SUP"
-- "SMI SUP"
-- "28mm SMI SUP"
-- "30K SMI SUP"
-- "28mm 30K SMI SUP"
-- "SMC SUP"
-- "28mm SMC SUP"
-- "30K SMC SUP"
-- "28mm 30K SMC SUP"
-- "SMI SMC SUP"
-- "28mm SMI SMC SUP"
-- "30K SMI SMC SUP"
+- "SM30K SUP"
+- "28mm SM30K SUP"
 
 ---
 
@@ -53,12 +30,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- 28mm 30K SMI SMC
+- 28mm SM30K
 
 
 Collections pour tags :
 
-- 28mm 30K SMI SMC  SUP
+- 28mm SM30K  SUP
 
 
 Description :

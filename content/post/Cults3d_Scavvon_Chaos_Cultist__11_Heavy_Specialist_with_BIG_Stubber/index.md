@@ -171,18 +171,33 @@ tags:
 - "28mm"
 - "CHAOS"
 - "28mm CHAOS"
+- "Chaos-cultistes"
+- "28mm Chaos-cultistes"
+- "CHAOS Chaos-cultistes"
+- "28mm CHAOS Chaos-cultistes"
 - "NONDL"
 - "28mm NONDL"
 - "CHAOS NONDL"
 - "28mm CHAOS NONDL"
+- "Chaos-cultistes NONDL"
+- "28mm Chaos-cultistes NONDL"
+- "CHAOS Chaos-cultistes NONDL"
+- "28mm CHAOS Chaos-cultistes NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
 - "28mm CHAOS NONSUP"
+- "Chaos-cultistes NONSUP"
+- "28mm Chaos-cultistes NONSUP"
+- "CHAOS Chaos-cultistes NONSUP"
+- "28mm CHAOS Chaos-cultistes NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
 - "28mm CHAOS NONDL NONSUP"
+- "Chaos-cultistes NONDL NONSUP"
+- "28mm Chaos-cultistes NONDL NONSUP"
+- "CHAOS Chaos-cultistes NONDL NONSUP"
 
 ---
 
@@ -201,13 +216,13 @@ Prix : 0.0 euros
 Collections :
 
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
-- 28mm CHAOS
+- 28mm CHAOS Chaos-cultistes
 
 
 Collections pour tags :
 
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
-- 28mm CHAOS NONDL NONSUP
+- 28mm CHAOS Chaos-cultistes NONDL NONSUP
 
 
 Description :

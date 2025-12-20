@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Vampire_Count_Skeletons [non dl]"
+title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Vampire_Count_Skeletons [dl]"
 date: "2025-06-27T21:46:16+00:00"
 toc: true
 image: "thumbs_-_7077742_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "MORTS-VIVANTS"
 - "warmaster MORTS-VIVANTS"
-- "NONDL"
-- "warmaster NONDL"
-- "MORTS-VIVANTS NONDL"
-- "warmaster MORTS-VIVANTS NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "MORTS-VIVANTS NONSUP"
-- "warmaster MORTS-VIVANTS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "MORTS-VIVANTS SUP"
+- "warmaster MORTS-VIVANTS SUP"
 
 ---
 
 ![](<thumbs_-_7077742_-_Images_1.jpg> "thumbs_-_7077742_-_Images_1.jpg")
+
+  ![](<thumbs_-_7077742_-_ImagesSTL_1.jpg> "thumbs_-_7077742_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster MORTS-VIVANTS NONDL NONSUP
+- warmaster MORTS-VIVANTS  SUP
 
 
 Description :
@@ -51,6 +45,23 @@ Description :
 
 Thank you to Tezca, fturfler2, gabrixaleirb, and BriteMinis for the rank and file skeletons, and Stormforgeminis for the command skeletons.
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Banner_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Command_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Polearm_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Polearm_B_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Scythe_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Sword_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Singles_zip_unpack_Singles_Skeleton_Sword_B_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Command_Strip_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Strip_A_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Strip_B_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Strip_C_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Strip_D_Sup_stl_.jpg
+ImagesSTL_-_Warmaster_Vampire_Count_Skeletons_-_7077742_zip_unpack_files_Skeletons_Strip_E_Sup_stl_.jpg
 
 
 

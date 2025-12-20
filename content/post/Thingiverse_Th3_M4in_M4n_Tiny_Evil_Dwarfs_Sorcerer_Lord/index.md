@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Evil_Dwarfs_Sorcerer_Lord [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Evil_Dwarfs_Sorcerer_Lord [dl]"
 date: "2024-03-21T17:46:46+00:00"
 toc: true
 image: "thumbs_-_6543289_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "NAINS-DU-CHAOS"
 - "warmaster NAINS-DU-CHAOS"
-- "NONDL"
-- "warmaster NONDL"
-- "NAINS-DU-CHAOS NONDL"
-- "warmaster NAINS-DU-CHAOS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "NAINS-DU-CHAOS NONSUP"
 - "warmaster NAINS-DU-CHAOS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "NAINS-DU-CHAOS NONDL NONSUP"
-- "warmaster NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_6543289_-_Images_1.jpg> "thumbs_-_6543289_-_Images_1.jpg")
+
+  ![](<thumbs_-_6543289_-_ImagesSTL_1.jpg> "thumbs_-_6543289_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS-DU-CHAOS NONDL NONSUP
+- warmaster NAINS-DU-CHAOS  NONSUP
 
 
 Description :

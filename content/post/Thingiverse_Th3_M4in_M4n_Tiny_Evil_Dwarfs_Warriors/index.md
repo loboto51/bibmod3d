@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Evil_Dwarfs_Warriors [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Evil_Dwarfs_Warriors [dl]"
 date: "2024-03-17T18:51:39+00:00"
 toc: true
 image: "thumbs_-_6537247_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "NAINS-DU-CHAOS"
 - "warmaster NAINS-DU-CHAOS"
-- "NONDL"
-- "warmaster NONDL"
-- "NAINS-DU-CHAOS NONDL"
-- "warmaster NAINS-DU-CHAOS NONDL"
-- "NONSUP"
-- "warmaster NONSUP"
-- "NAINS-DU-CHAOS NONSUP"
-- "warmaster NAINS-DU-CHAOS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "NAINS-DU-CHAOS NONDL NONSUP"
-- "warmaster NAINS-DU-CHAOS NONDL NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "NAINS-DU-CHAOS SUP"
+- "warmaster NAINS-DU-CHAOS SUP"
 
 ---
 
 ![](<thumbs_-_6537247_-_Images_1.jpg> "thumbs_-_6537247_-_Images_1.jpg")
+
+  ![](<thumbs_-_6537247_-_ImagesSTL_1.jpg> "thumbs_-_6537247_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS-DU-CHAOS NONDL NONSUP
+- warmaster NAINS-DU-CHAOS  SUP
 
 
 Description :
@@ -57,6 +51,13 @@ My idea is to make armies for Warmaster Revolution, so I will design them accord
 * GOOD LUCK PAINTING TINY HATS.
 
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Tiny_Evil_Dwarfs_Warriors_-_6537247_zip_unpack_files_ChaosDwarfWarriorsCommandStrippresupported_stl_.jpg
+ImagesSTL_-_Tiny_Evil_Dwarfs_Warriors_-_6537247_zip_unpack_files_WarriorsStrip2presupported_stl_.jpg
+ImagesSTL_-_Tiny_Evil_Dwarfs_Warriors_-_6537247_zip_unpack_files_WarriorsStrip3presupported_stl_.jpg
 
 
 
