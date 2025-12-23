@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Xplosiv > Plasma_Bolt_Rifle___Space_Communists [dl]"
-date: "2020-05-12T19:37:35Z"
+title: "[GRATUIT] Cults3d > Grimdark_Machineworks > Trench_Trooper_s_BAR [non dl]"
+date: "2024-04-07T21:33:53Z"
 toc: true
-image: "thumbs_-_plasma-bolt-rifle-space-communists_-_Images_1.jpg"
+image: "thumbs_-_trench-trooper-s-bar_-_Images_1.jpg"
 tags:
-- "Xplosiv"
+- "Grimdark_Machineworks"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -104,6 +104,70 @@ tags:
 - "IMP 40k-armes-diverses Bits Builders"
 - "HUMAINS 40k-armes-diverses Bits Builders"
 - "ORKS 40k-armes-diverses Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "IMP NONDL"
+- "28mm IMP NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "28mm IMP HUMAINS NONDL"
+- "ORKS NONDL"
+- "28mm ORKS NONDL"
+- "IMP ORKS NONDL"
+- "28mm IMP ORKS NONDL"
+- "HUMAINS ORKS NONDL"
+- "28mm HUMAINS ORKS NONDL"
+- "IMP HUMAINS ORKS NONDL"
+- "40k-armes-diverses NONDL"
+- "28mm 40k-armes-diverses NONDL"
+- "IMP 40k-armes-diverses NONDL"
+- "28mm IMP 40k-armes-diverses NONDL"
+- "HUMAINS 40k-armes-diverses NONDL"
+- "28mm HUMAINS 40k-armes-diverses NONDL"
+- "IMP HUMAINS 40k-armes-diverses NONDL"
+- "ORKS 40k-armes-diverses NONDL"
+- "28mm ORKS 40k-armes-diverses NONDL"
+- "IMP ORKS 40k-armes-diverses NONDL"
+- "HUMAINS ORKS 40k-armes-diverses NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "IMP Bits NONDL"
+- "28mm IMP Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "IMP HUMAINS Bits NONDL"
+- "ORKS Bits NONDL"
+- "28mm ORKS Bits NONDL"
+- "IMP ORKS Bits NONDL"
+- "HUMAINS ORKS Bits NONDL"
+- "40k-armes-diverses Bits NONDL"
+- "28mm 40k-armes-diverses Bits NONDL"
+- "IMP 40k-armes-diverses Bits NONDL"
+- "HUMAINS 40k-armes-diverses Bits NONDL"
+- "ORKS 40k-armes-diverses Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "IMP Builders NONDL"
+- "28mm IMP Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "IMP HUMAINS Builders NONDL"
+- "ORKS Builders NONDL"
+- "28mm ORKS Builders NONDL"
+- "IMP ORKS Builders NONDL"
+- "HUMAINS ORKS Builders NONDL"
+- "40k-armes-diverses Builders NONDL"
+- "28mm 40k-armes-diverses Builders NONDL"
+- "IMP 40k-armes-diverses Builders NONDL"
+- "HUMAINS 40k-armes-diverses Builders NONDL"
+- "ORKS 40k-armes-diverses Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "IMP Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "ORKS Bits Builders NONDL"
+- "40k-armes-diverses Bits Builders NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -168,18 +232,45 @@ tags:
 - "HUMAINS Bits Builders NONSUP"
 - "ORKS Bits Builders NONSUP"
 - "40k-armes-diverses Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "28mm IMP NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "IMP HUMAINS NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "28mm ORKS NONDL NONSUP"
+- "IMP ORKS NONDL NONSUP"
+- "HUMAINS ORKS NONDL NONSUP"
+- "40k-armes-diverses NONDL NONSUP"
+- "28mm 40k-armes-diverses NONDL NONSUP"
+- "IMP 40k-armes-diverses NONDL NONSUP"
+- "HUMAINS 40k-armes-diverses NONDL NONSUP"
+- "ORKS 40k-armes-diverses NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "IMP Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "ORKS Bits NONDL NONSUP"
+- "40k-armes-diverses Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "IMP Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "ORKS Builders NONDL NONSUP"
+- "40k-armes-diverses Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_plasma-bolt-rifle-space-communists_-_Images_1.jpg> "thumbs_-_plasma-bolt-rifle-space-communists_-_Images_1.jpg")
-
-  ![](<thumbs_-_plasma-bolt-rifle-space-communists_-_ImagesSTL_1.jpg> "thumbs_-_plasma-bolt-rifle-space-communists_-_ImagesSTL_1.jpg")
+![](<thumbs_-_trench-trooper-s-bar_-_Images_1.jpg> "thumbs_-_trench-trooper-s-bar_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/plasma-bolt-rifle-space-communists](https://cults3d.com/en/3d-model/game/plasma-bolt-rifle-space-communists)
+Source : [https://cults3d.com/en/3d-model/game/trench-trooper-s-bar](https://cults3d.com/en/3d-model/game/trench-trooper-s-bar)
 
-Id objet : plasma-bolt-rifle-space-communists
+Id objet : trench-trooper-s-bar
 
 Prix : 0.0 euros
 
@@ -190,18 +281,25 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders  NONSUP
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
 
 
 Description :
 
 ~~~
-Space Communist Plasma Bolt Rifle, Designed for use with human auxiliary forces. 
+Trench Trooper's Bane-pattern Auto Rifle
+Couple of heretics walked into a BAR. None survived.
 
+The weapon is scaled down to 80% of the original size, making it realistically large in the hands of a Kriegsman.
 
-**I included several variations of the rifle in the files. 
-  Not really scaled to any particular size. 
-*Any comments or feedback would be appreciated as usual :)
+Includes:
+10, 2-part poses fitting the plastic Veteran set
+Standalone weapon for digital kitbashing.
+
+All parts designated with the same alpha-numerical code are compatible with each other, including other weapon packs.
+
+Slight adjustments, sanding, filing, or use of epoxy/sanding putty might be necessary.
+Use super glue to attach the parts together, pin if necessary.
 ~~~
 
 

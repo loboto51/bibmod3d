@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > DasModell > HEADS_PACK [dl]"
-date: "2025-12-17T02:54:56Z"
+title: "[GRATUIT] Thingiverse > DuncanShadow > Ghoul [non dl]"
+date: "2018-08-01T09:02:52+00:00"
 toc: true
-image: "thumbs_-_heads-pack_-_Images_1.jpg"
+image: "thumbs_-_3019363_-_Images_1.jpg"
 tags:
-- "DasModell"
+- "DuncanShadow"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -62,6 +62,48 @@ tags:
 - "15mm Humains-divers-pour-kitbash Bits Builders"
 - "28mm Humains-divers-pour-kitbash Bits Builders"
 - "HUMAINS Humains-divers-pour-kitbash Bits Builders"
+- "NONDL"
+- "15mm NONDL"
+- "28mm NONDL"
+- "15mm 28mm NONDL"
+- "HUMAINS NONDL"
+- "15mm HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "15mm 28mm HUMAINS NONDL"
+- "Humains-divers-pour-kitbash NONDL"
+- "15mm Humains-divers-pour-kitbash NONDL"
+- "28mm Humains-divers-pour-kitbash NONDL"
+- "15mm 28mm Humains-divers-pour-kitbash NONDL"
+- "HUMAINS Humains-divers-pour-kitbash NONDL"
+- "15mm HUMAINS Humains-divers-pour-kitbash NONDL"
+- "28mm HUMAINS Humains-divers-pour-kitbash NONDL"
+- "Bits NONDL"
+- "15mm Bits NONDL"
+- "28mm Bits NONDL"
+- "15mm 28mm Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "15mm HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "Humains-divers-pour-kitbash Bits NONDL"
+- "15mm Humains-divers-pour-kitbash Bits NONDL"
+- "28mm Humains-divers-pour-kitbash Bits NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Bits NONDL"
+- "Builders NONDL"
+- "15mm Builders NONDL"
+- "28mm Builders NONDL"
+- "15mm 28mm Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "15mm HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "Humains-divers-pour-kitbash Builders NONDL"
+- "15mm Humains-divers-pour-kitbash Builders NONDL"
+- "28mm Humains-divers-pour-kitbash Builders NONDL"
+- "HUMAINS Humains-divers-pour-kitbash Builders NONDL"
+- "Bits Builders NONDL"
+- "15mm Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "Humains-divers-pour-kitbash Bits Builders NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -104,102 +146,67 @@ tags:
 - "28mm Bits Builders NONSUP"
 - "HUMAINS Bits Builders NONSUP"
 - "Humains-divers-pour-kitbash Bits Builders NONSUP"
-- "28mm"
-- "IMP"
-- "28mm IMP"
-- "SMI"
-- "28mm SMI"
-- "IMP SMI"
-- "28mm IMP SMI"
-- "Bits"
-- "28mm Bits"
-- "IMP Bits"
-- "28mm IMP Bits"
-- "SMI Bits"
-- "28mm SMI Bits"
-- "IMP SMI Bits"
-- "28mm IMP SMI Bits"
-- "Builders"
-- "28mm Builders"
-- "IMP Builders"
-- "28mm IMP Builders"
-- "SMI Builders"
-- "28mm SMI Builders"
-- "IMP SMI Builders"
-- "28mm IMP SMI Builders"
-- "Bits Builders"
-- "28mm Bits Builders"
-- "IMP Bits Builders"
-- "28mm IMP Bits Builders"
-- "SMI Bits Builders"
-- "28mm SMI Bits Builders"
-- "IMP SMI Bits Builders"
-- "NONSUP"
-- "28mm NONSUP"
-- "IMP NONSUP"
-- "28mm IMP NONSUP"
-- "SMI NONSUP"
-- "28mm SMI NONSUP"
-- "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
-- "Bits NONSUP"
-- "28mm Bits NONSUP"
-- "IMP Bits NONSUP"
-- "28mm IMP Bits NONSUP"
-- "SMI Bits NONSUP"
-- "28mm SMI Bits NONSUP"
-- "IMP SMI Bits NONSUP"
-- "Builders NONSUP"
-- "28mm Builders NONSUP"
-- "IMP Builders NONSUP"
-- "28mm IMP Builders NONSUP"
-- "SMI Builders NONSUP"
-- "28mm SMI Builders NONSUP"
-- "IMP SMI Builders NONSUP"
-- "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "IMP Bits Builders NONSUP"
-- "SMI Bits Builders NONSUP"
-- "28mm"
-- "SM30K"
-- "28mm SM30K"
-- "NONSUP"
-- "28mm NONSUP"
-- "SM30K NONSUP"
-- "28mm SM30K NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "15mm 28mm NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "15mm HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "Humains-divers-pour-kitbash NONDL NONSUP"
+- "15mm Humains-divers-pour-kitbash NONDL NONSUP"
+- "28mm Humains-divers-pour-kitbash NONDL NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "15mm Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "Humains-divers-pour-kitbash Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "15mm Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "Humains-divers-pour-kitbash Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heads-pack_-_Images_1.jpg> "thumbs_-_heads-pack_-_Images_1.jpg")
+![](<thumbs_-_3019363_-_Images_1.jpg> "thumbs_-_3019363_-_Images_1.jpg")
 
-  ![](<thumbs_-_heads-pack_-_ImagesSTL_1.jpg> "thumbs_-_heads-pack_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3019363_-_Makes_1.jpg> "thumbs_-_3019363_-_Makes_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/heads-pack](https://cults3d.com/en/3d-model/game/heads-pack)
+Source : [https://www.thingiverse.com/thing:3019363](https://www.thingiverse.com/thing:3019363)
 
-Id objet : heads-pack
+Id objet : 3019363
 
-Prix : 0.0 euros
+Prix : 0 euros
 
 Collections :
 
 - 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
-- 28mm IMP SMI Bits Builders
-- 28mm SM30K
 
 
 Collections pour tags :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders  NONSUP
-- 28mm IMP SMI Bits Builders  NONSUP
-- 28mm SM30K  NONSUP
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL NONSUP
 
 
 Description :
 
 ~~~
-A few heads I've had lying around in my collection. They were supposed to be released with the full builder packs, but while work on the builder packs is delayed, I'm posting what I have.
+For none commercial use only.
+Every month I release new sculpts to my Patrons. If you would like to take a look or support me you can follow the link bellow.
+https://www.patreon.com/user?u=5045314
+
+If you like my sculpts please share my page.
+Any donations would be most appreciated but not expected and liking and sharing my facebook/Instagram page would be just as welcome.
+
+If you would like to see more let me know on my Instagram, Twitter  or facebook page
+https://www.facebook.com/shadowminiatures
+https://www.instagram.com/duncan_shadow_/
+https://x.com/DuncanShadow
 ~~~
 
 
