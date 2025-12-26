@@ -6,6 +6,21 @@ toc: true
 image: "thumbs_-_original-plastic-free-norn-assimilator-emissary-io_butov_-_Images_1.jpg"
 tags:
 - "IO_Butov"
+- "28mm"
+- "TYRANIDES"
+- "28mm TYRANIDES"
+- "NONDL"
+- "28mm NONDL"
+- "TYRANIDES NONDL"
+- "28mm TYRANIDES NONDL"
+- "NONSUP"
+- "28mm NONSUP"
+- "TYRANIDES NONSUP"
+- "28mm TYRANIDES NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "TYRANIDES NONDL NONSUP"
+- "28mm TYRANIDES NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -408,11 +423,13 @@ Prix : 0.0 euros
 
 Collections :
 
+- 28mm TYRANIDES 
 - epic infanterie chevaliers titans vehicules volants TYRANIDES Bits
 
 
 Collections pour tags :
 
+- 28mm TYRANIDES  NONDL NONSUP
 - epic infanterie chevaliers titans vehicules volants TYRANIDES Bits NONDL NONSUP
 
 

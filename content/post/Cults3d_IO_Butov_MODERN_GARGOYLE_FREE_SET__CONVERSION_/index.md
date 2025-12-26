@@ -6,6 +6,13 @@ toc: true
 image: "thumbs_-_modern-gargoyle-free-set-conversion_-_Images_1.jpg"
 tags:
 - "IO_Butov"
+- "28mm"
+- "TYRANIDES"
+- "28mm TYRANIDES"
+- "NONSUP"
+- "28mm NONSUP"
+- "TYRANIDES NONSUP"
+- "28mm TYRANIDES NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -280,11 +287,13 @@ Prix : 0.0 euros
 
 Collections :
 
+- 28mm TYRANIDES 
 - epic infanterie chevaliers titans vehicules volants TYRANIDES Bits
 
 
 Collections pour tags :
 
+- 28mm TYRANIDES   NONSUP
 - epic infanterie chevaliers titans vehicules volants TYRANIDES Bits  NONSUP
 
 
