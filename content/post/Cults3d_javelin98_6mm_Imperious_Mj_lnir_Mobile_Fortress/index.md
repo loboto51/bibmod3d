@@ -13,14 +13,14 @@ tags:
 - "epic SQUATS"
 - "superlourds SQUATS"
 - "epic superlourds SQUATS"
-- "Squats-mjolnirs"
-- "epic Squats-mjolnirs"
-- "superlourds Squats-mjolnirs"
-- "epic superlourds Squats-mjolnirs"
-- "SQUATS Squats-mjolnirs"
-- "epic SQUATS Squats-mjolnirs"
-- "superlourds SQUATS Squats-mjolnirs"
-- "epic superlourds SQUATS Squats-mjolnirs"
+- "Leviathans"
+- "epic Leviathans"
+- "superlourds Leviathans"
+- "epic superlourds Leviathans"
+- "SQUATS Leviathans"
+- "epic SQUATS Leviathans"
+- "superlourds SQUATS Leviathans"
+- "epic superlourds SQUATS Leviathans"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -29,13 +29,13 @@ tags:
 - "epic SQUATS NONDL"
 - "superlourds SQUATS NONDL"
 - "epic superlourds SQUATS NONDL"
-- "Squats-mjolnirs NONDL"
-- "epic Squats-mjolnirs NONDL"
-- "superlourds Squats-mjolnirs NONDL"
-- "epic superlourds Squats-mjolnirs NONDL"
-- "SQUATS Squats-mjolnirs NONDL"
-- "epic SQUATS Squats-mjolnirs NONDL"
-- "superlourds SQUATS Squats-mjolnirs NONDL"
+- "Leviathans NONDL"
+- "epic Leviathans NONDL"
+- "superlourds Leviathans NONDL"
+- "epic superlourds Leviathans NONDL"
+- "SQUATS Leviathans NONDL"
+- "epic SQUATS Leviathans NONDL"
+- "superlourds SQUATS Leviathans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -44,13 +44,13 @@ tags:
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
 - "epic superlourds SQUATS NONSUP"
-- "Squats-mjolnirs NONSUP"
-- "epic Squats-mjolnirs NONSUP"
-- "superlourds Squats-mjolnirs NONSUP"
-- "epic superlourds Squats-mjolnirs NONSUP"
-- "SQUATS Squats-mjolnirs NONSUP"
-- "epic SQUATS Squats-mjolnirs NONSUP"
-- "superlourds SQUATS Squats-mjolnirs NONSUP"
+- "Leviathans NONSUP"
+- "epic Leviathans NONSUP"
+- "superlourds Leviathans NONSUP"
+- "epic superlourds Leviathans NONSUP"
+- "SQUATS Leviathans NONSUP"
+- "epic SQUATS Leviathans NONSUP"
+- "superlourds SQUATS Leviathans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -58,10 +58,10 @@ tags:
 - "SQUATS NONDL NONSUP"
 - "epic SQUATS NONDL NONSUP"
 - "superlourds SQUATS NONDL NONSUP"
-- "Squats-mjolnirs NONDL NONSUP"
-- "epic Squats-mjolnirs NONDL NONSUP"
-- "superlourds Squats-mjolnirs NONDL NONSUP"
-- "SQUATS Squats-mjolnirs NONDL NONSUP"
+- "Leviathans NONDL NONSUP"
+- "epic Leviathans NONDL NONSUP"
+- "superlourds Leviathans NONDL NONSUP"
+- "SQUATS Leviathans NONDL NONSUP"
 
 ---
 
@@ -77,12 +77,12 @@ Prix : 2.69 euros
 
 Collections :
 
-- epic superlourds SQUATS Squats-mjolnirs
+- epic superlourds SQUATS Leviathans
 
 
 Collections pour tags :
 
-- epic superlourds SQUATS Squats-mjolnirs NONDL NONSUP
+- epic superlourds SQUATS Leviathans NONDL NONSUP
 
 
 Description :

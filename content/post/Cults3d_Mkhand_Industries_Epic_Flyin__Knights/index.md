@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Flyin__Knights [non dl]"
+title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Flyin__Knights [dl]"
 date: "2025-01-01T06:41:33Z"
 toc: true
 image: "thumbs_-_epic-flyin-knights_-_Images_1.jpg"
@@ -21,51 +21,27 @@ tags:
 - "epic TYRANIDES Tyranides-Guerriers"
 - "infanterie TYRANIDES Tyranides-Guerriers"
 - "epic infanterie TYRANIDES Tyranides-Guerriers"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "infanterie TYRANIDES NONDL"
-- "epic infanterie TYRANIDES NONDL"
-- "Tyranides-Guerriers NONDL"
-- "epic Tyranides-Guerriers NONDL"
-- "infanterie Tyranides-Guerriers NONDL"
-- "epic infanterie Tyranides-Guerriers NONDL"
-- "TYRANIDES Tyranides-Guerriers NONDL"
-- "epic TYRANIDES Tyranides-Guerriers NONDL"
-- "infanterie TYRANIDES Tyranides-Guerriers NONDL"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "TYRANIDES NONSUP"
-- "epic TYRANIDES NONSUP"
-- "infanterie TYRANIDES NONSUP"
-- "epic infanterie TYRANIDES NONSUP"
-- "Tyranides-Guerriers NONSUP"
-- "epic Tyranides-Guerriers NONSUP"
-- "infanterie Tyranides-Guerriers NONSUP"
-- "epic infanterie Tyranides-Guerriers NONSUP"
-- "TYRANIDES Tyranides-Guerriers NONSUP"
-- "epic TYRANIDES Tyranides-Guerriers NONSUP"
-- "infanterie TYRANIDES Tyranides-Guerriers NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "epic TYRANIDES NONDL NONSUP"
-- "infanterie TYRANIDES NONDL NONSUP"
-- "Tyranides-Guerriers NONDL NONSUP"
-- "epic Tyranides-Guerriers NONDL NONSUP"
-- "infanterie Tyranides-Guerriers NONDL NONSUP"
-- "TYRANIDES Tyranides-Guerriers NONDL NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "TYRANIDES SUP"
+- "epic TYRANIDES SUP"
+- "infanterie TYRANIDES SUP"
+- "epic infanterie TYRANIDES SUP"
+- "Tyranides-Guerriers SUP"
+- "epic Tyranides-Guerriers SUP"
+- "infanterie Tyranides-Guerriers SUP"
+- "epic infanterie Tyranides-Guerriers SUP"
+- "TYRANIDES Tyranides-Guerriers SUP"
+- "epic TYRANIDES Tyranides-Guerriers SUP"
+- "infanterie TYRANIDES Tyranides-Guerriers SUP"
 
 ---
 
 ![](<thumbs_-_epic-flyin-knights_-_Images_1.jpg> "thumbs_-_epic-flyin-knights_-_Images_1.jpg")
+
+  ![](<thumbs_-_epic-flyin-knights_-_ImagesSTL_1.jpg> "thumbs_-_epic-flyin-knights_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Tyranides-Guerriers NONDL NONSUP
+- epic infanterie TYRANIDES Tyranides-Guerriers  SUP
 
 
 Description :
@@ -92,6 +68,14 @@ Some bug knights that have sprouted wings.
 
 Remixed from Epic Bug Knights by Base_Department & Bat-ish Wings by kdesmo.
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_epic-flyin-knights20250101-1-3h6e6m_zip_unpack_Mkhand_Industries_epic-flyin-knights_FlyingKnight-1_Supported_stl_.jpg
+ImagesSTL_-_epic-flyin-knights20250101-1-3h6e6m_zip_unpack_Mkhand_Industries_epic-flyin-knights_FlyingKnight-2_Supported_stl_.jpg
+ImagesSTL_-_epic-flyin-knights20250101-1-3h6e6m_zip_unpack_Mkhand_Industries_epic-flyin-knights_FlyingKnight-3_Supported_stl_.jpg
+ImagesSTL_-_epic-flyin-knights20250101-1-3h6e6m_zip_unpack_Mkhand_Industries_epic-flyin-knights_FlyingKnight-4_Supported_stl_.jpg
 
 
 

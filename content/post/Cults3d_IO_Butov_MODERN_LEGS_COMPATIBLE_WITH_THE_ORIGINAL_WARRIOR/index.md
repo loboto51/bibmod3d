@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > IO_Butov > MODERN_LEGS_COMPATIBLE_WITH_THE_ORIGINAL_WARRIOR [non dl]"
+title: "[GRATUIT] Cults3d > IO_Butov > MODERN_LEGS_COMPATIBLE_WITH_THE_ORIGINAL_WARRIOR [dl]"
 date: "2023-10-25T20:46:00Z"
 toc: true
 image: "thumbs_-_modern-legs-compatible-with-the-original-warrior_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TYRANIDES NONSUP"
 - "28mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_modern-legs-compatible-with-the-original-warrior_-_Images_1.jpg> "thumbs_-_modern-legs-compatible-with-the-original-warrior_-_Images_1.jpg")
+
+  ![](<thumbs_-_modern-legs-compatible-with-the-original-warrior_-_ImagesSTL_1.jpg> "thumbs_-_modern-legs-compatible-with-the-original-warrior_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES   NONSUP
 
 
 Description :

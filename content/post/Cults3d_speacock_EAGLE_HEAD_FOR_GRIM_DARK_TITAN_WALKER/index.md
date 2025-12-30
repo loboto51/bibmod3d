@@ -41,6 +41,8 @@ tags:
 
 ![](<thumbs_-_eagle-head-for-grim-dark-titan-walker_-_Images_1.jpg> "thumbs_-_eagle-head-for-grim-dark-titan-walker_-_Images_1.jpg")
 
+  ![](<thumbs_-_eagle-head-for-grim-dark-titan-walker_-_ImagesSTL_1.jpg> "thumbs_-_eagle-head-for-grim-dark-titan-walker_-_ImagesSTL_1.jpg")
+
   ![](<thumbs_-_eagle-head-for-grim-dark-titan-walker_-_Makes_1.jpg> "thumbs_-_eagle-head-for-grim-dark-titan-walker_-_Makes_1.jpg")
 
   

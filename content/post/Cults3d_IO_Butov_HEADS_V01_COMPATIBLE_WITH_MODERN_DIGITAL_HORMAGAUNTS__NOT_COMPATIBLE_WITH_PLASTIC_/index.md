@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > IO_Butov > HEADS_V01_COMPATIBLE_WITH_MODERN_DIGITAL_HORMAGAUNTS__NOT_COMPATIBLE_WITH_PLASTIC_ [non dl]"
+title: "[GRATUIT] Cults3d > IO_Butov > HEADS_V01_COMPATIBLE_WITH_MODERN_DIGITAL_HORMAGAUNTS__NOT_COMPATIBLE_WITH_PLASTIC_ [dl]"
 date: "2023-11-18T13:49:00Z"
 toc: true
 image: "thumbs_-_heads-v01-compatible-with-modern-digital-hormagaunts-not-compatible-with-plasti-io_butov-2_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TYRANIDES NONSUP"
 - "28mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_heads-v01-compatible-with-modern-digital-hormagaunts-not-compatible-with-plasti-io_butov-2_-_Images_1.jpg> "thumbs_-_heads-v01-compatible-with-modern-digital-hormagaunts-not-compatible-with-plasti-io_butov-2_-_Images_1.jpg")
+
+  ![](<thumbs_-_heads-v01-compatible-with-modern-digital-hormagaunts-not-compatible-with-plasti-io_butov-2_-_ImagesSTL_1.jpg> "thumbs_-_heads-v01-compatible-with-modern-digital-hormagaunts-not-compatible-with-plasti-io_butov-2_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES   NONSUP
 
 
 Description :

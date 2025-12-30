@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > 15mm_Warhammer > 15mm_Genestealer_with_claws___3_poses__Rescale__Base_Department [non dl]"
+title: "[GRATUIT] Thingiverse > 15mm_Warhammer > 15mm_Genestealer_with_claws___3_poses__Rescale__Base_Department [dl]"
 date: "2025-12-01T00:05:21+00:00"
 toc: true
 image: "thumbs_-_7218169_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "15mm"
 - "TYRANIDES"
 - "15mm TYRANIDES"
-- "NONDL"
-- "15mm NONDL"
-- "TYRANIDES NONDL"
-- "15mm TYRANIDES NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "TYRANIDES NONSUP"
 - "15mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "15mm TYRANIDES NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7218169_-_Images_1.jpg> "thumbs_-_7218169_-_Images_1.jpg")
+
+  ![](<thumbs_-_7218169_-_ImagesSTL_1.jpg> "thumbs_-_7218169_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm TYRANIDES NONDL NONSUP
+- 15mm TYRANIDES  NONSUP
 
 
 Description :

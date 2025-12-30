@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > IO_Butov > FREE_LITTLE_SPACE_BUG_MODERN [non dl]"
+title: "[GRATUIT] Cults3d > IO_Butov > FREE_LITTLE_SPACE_BUG_MODERN [dl]"
 date: "2023-03-25T19:56:00Z"
 toc: true
 image: "thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "TYRANIDES NONSUP"
-- "28mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "TYRANIDES SUP"
+- "28mm TYRANIDES SUP"
 
 ---
 
 ![](<thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg")
+
+  ![](<thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_little-free-space-bugs-modern_-_Makes_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_Makes_1.jpg")
 
@@ -43,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES   SUP
 
 
 Description :
@@ -51,6 +45,15 @@ Description :
 ~~~
 the supports are ready
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_little-free-space-bugs-modern20230616-59-7rx1xr_zip_unpack_IO_Butov_little-free-space-bugs-modern_supported_m4_free_zip_unpack_Base_25mm_stl_.jpg
+ImagesSTL_-_little-free-space-bugs-modern20230616-59-7rx1xr_zip_unpack_IO_Butov_little-free-space-bugs-modern_supported_m4_free_zip_unpack_support_m4_free_body_stl_.jpg
+ImagesSTL_-_little-free-space-bugs-modern20230616-59-7rx1xr_zip_unpack_IO_Butov_little-free-space-bugs-modern_supported_m4_free_zip_unpack_support_m4_free_hand_left_stl_.jpg
+ImagesSTL_-_little-free-space-bugs-modern20230616-59-7rx1xr_zip_unpack_IO_Butov_little-free-space-bugs-modern_supported_m4_free_zip_unpack_support_m4_free_leg_left_stl_.jpg
+ImagesSTL_-_little-free-space-bugs-modern20230616-59-7rx1xr_zip_unpack_IO_Butov_little-free-space-bugs-modern_supported_m4_free_zip_unpack_support_m4_free_middle_hand_left_stl_.jpg
 
 
 
