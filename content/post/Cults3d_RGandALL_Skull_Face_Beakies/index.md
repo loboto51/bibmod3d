@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > RGandALL > RG_destroyers_heads [non dl]"
-date: "2023-09-04T20:51:22Z"
+title: "[GRATUIT] Cults3d > RGandALL > Skull_Face_Beakies [non dl]"
+date: "2023-07-09T02:42:36Z"
 toc: true
-image: "thumbs_-_rg-destroyers-heads_-_Images_1.jpg"
+image: "thumbs_-_skull-face-beakies_-_Images_1.jpg"
 tags:
 - "RGandALL"
 - "28mm"
@@ -104,54 +104,35 @@ tags:
 - "IMP Builders NONDL NONSUP"
 - "SMI Builders NONDL NONSUP"
 - "Bits Builders NONDL NONSUP"
-- "28mm"
-- "SM30K"
-- "28mm SM30K"
-- "NONDL"
-- "28mm NONDL"
-- "SM30K NONDL"
-- "28mm SM30K NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "SM30K NONSUP"
-- "28mm SM30K NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "SM30K NONDL NONSUP"
-- "28mm SM30K NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_rg-destroyers-heads_-_Images_1.jpg> "thumbs_-_rg-destroyers-heads_-_Images_1.jpg")
+![](<thumbs_-_skull-face-beakies_-_Images_1.jpg> "thumbs_-_skull-face-beakies_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/rg-destroyers-heads](https://cults3d.com/en/3d-model/game/rg-destroyers-heads)
+Source : [https://cults3d.com/en/3d-model/game/skull-face-beakies](https://cults3d.com/en/3d-model/game/skull-face-beakies)
 
-Id objet : rg-destroyers-heads
+Id objet : skull-face-beakies
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
 - 28mm IMP SMI Bits Builders
-- 28mm SM30K
 
 
 Collections pour tags :
 
 - 28mm IMP SMI Bits Builders NONDL NONSUP
-- 28mm SM30K NONDL NONSUP
 
 
 Description :
 
 ~~~
-heads for destroyers and moritat
+Beakies painted with skulls. Includes plain and two with infravisor arrarys with different designs. 
 
-
-
-Thanks to loggyk, red warden mini, Berserkjester28, and etc.
+Thanks to red warden minis.
 ~~~
 
 

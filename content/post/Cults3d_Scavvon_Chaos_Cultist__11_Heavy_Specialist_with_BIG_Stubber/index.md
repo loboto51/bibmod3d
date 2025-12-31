@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Scavvon > Chaos_Cultist__11_Heavy_Specialist_with_BIG_Stubber [non dl]"
+title: "[GRATUIT] Cults3d > Scavvon > Chaos_Cultist__11_Heavy_Specialist_with_BIG_Stubber [dl]"
 date: "2023-01-30T19:31:18Z"
 toc: true
 image: "thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_Images_1.jpg"
@@ -62,48 +62,6 @@ tags:
 - "15mm HUMAINS Necromunda-gangs 40k-gangs"
 - "28mm HUMAINS Necromunda-gangs 40k-gangs"
 - "IMP HUMAINS Necromunda-gangs 40k-gangs"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "IMP NONDL"
-- "15mm IMP NONDL"
-- "28mm IMP NONDL"
-- "15mm 28mm IMP NONDL"
-- "HUMAINS NONDL"
-- "15mm HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "15mm 28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "15mm IMP HUMAINS NONDL"
-- "28mm IMP HUMAINS NONDL"
-- "Necromunda-gangs NONDL"
-- "15mm Necromunda-gangs NONDL"
-- "28mm Necromunda-gangs NONDL"
-- "15mm 28mm Necromunda-gangs NONDL"
-- "IMP Necromunda-gangs NONDL"
-- "15mm IMP Necromunda-gangs NONDL"
-- "28mm IMP Necromunda-gangs NONDL"
-- "HUMAINS Necromunda-gangs NONDL"
-- "15mm HUMAINS Necromunda-gangs NONDL"
-- "28mm HUMAINS Necromunda-gangs NONDL"
-- "IMP HUMAINS Necromunda-gangs NONDL"
-- "40k-gangs NONDL"
-- "15mm 40k-gangs NONDL"
-- "28mm 40k-gangs NONDL"
-- "15mm 28mm 40k-gangs NONDL"
-- "IMP 40k-gangs NONDL"
-- "15mm IMP 40k-gangs NONDL"
-- "28mm IMP 40k-gangs NONDL"
-- "HUMAINS 40k-gangs NONDL"
-- "15mm HUMAINS 40k-gangs NONDL"
-- "28mm HUMAINS 40k-gangs NONDL"
-- "IMP HUMAINS 40k-gangs NONDL"
-- "Necromunda-gangs 40k-gangs NONDL"
-- "15mm Necromunda-gangs 40k-gangs NONDL"
-- "28mm Necromunda-gangs 40k-gangs NONDL"
-- "IMP Necromunda-gangs 40k-gangs NONDL"
-- "HUMAINS Necromunda-gangs 40k-gangs NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -146,28 +104,6 @@ tags:
 - "28mm Necromunda-gangs 40k-gangs NONSUP"
 - "IMP Necromunda-gangs 40k-gangs NONSUP"
 - "HUMAINS Necromunda-gangs 40k-gangs NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "15mm 28mm NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "15mm IMP NONDL NONSUP"
-- "28mm IMP NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "15mm HUMAINS NONDL NONSUP"
-- "28mm HUMAINS NONDL NONSUP"
-- "IMP HUMAINS NONDL NONSUP"
-- "Necromunda-gangs NONDL NONSUP"
-- "15mm Necromunda-gangs NONDL NONSUP"
-- "28mm Necromunda-gangs NONDL NONSUP"
-- "IMP Necromunda-gangs NONDL NONSUP"
-- "HUMAINS Necromunda-gangs NONDL NONSUP"
-- "40k-gangs NONDL NONSUP"
-- "15mm 40k-gangs NONDL NONSUP"
-- "28mm 40k-gangs NONDL NONSUP"
-- "IMP 40k-gangs NONDL NONSUP"
-- "HUMAINS 40k-gangs NONDL NONSUP"
-- "Necromunda-gangs 40k-gangs NONDL NONSUP"
 - "28mm"
 - "CHAOS"
 - "28mm CHAOS"
@@ -175,14 +111,6 @@ tags:
 - "28mm Chaos-cultistes"
 - "CHAOS Chaos-cultistes"
 - "28mm CHAOS Chaos-cultistes"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "Chaos-cultistes NONDL"
-- "28mm Chaos-cultistes NONDL"
-- "CHAOS Chaos-cultistes NONDL"
-- "28mm CHAOS Chaos-cultistes NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -191,17 +119,12 @@ tags:
 - "28mm Chaos-cultistes NONSUP"
 - "CHAOS Chaos-cultistes NONSUP"
 - "28mm CHAOS Chaos-cultistes NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
-- "Chaos-cultistes NONDL NONSUP"
-- "28mm Chaos-cultistes NONDL NONSUP"
-- "CHAOS Chaos-cultistes NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_Images_1.jpg> "thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_Images_1.jpg")
+
+  ![](<thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_ImagesSTL_1.jpg> "thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_Makes_1.jpg> "thumbs_-_chaos-cultist-11-heavy-specialist-with-big-stubber_-_Makes_1.jpg")
 
@@ -221,8 +144,8 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
-- 28mm CHAOS Chaos-cultistes NONDL NONSUP
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs  NONSUP
+- 28mm CHAOS Chaos-cultistes  NONSUP
 
 
 Description :
