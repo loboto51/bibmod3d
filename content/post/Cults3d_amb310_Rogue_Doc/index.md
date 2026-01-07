@@ -168,21 +168,6 @@ tags:
 - "IMP 40k-gangs NONDL NONSUP"
 - "HUMAINS 40k-gangs NONDL NONSUP"
 - "Necromunda-gangs 40k-gangs NONDL NONSUP"
-- "TRANSVERSE"
-- "Compatibles-necromunda"
-- "TRANSVERSE Compatibles-necromunda"
-- "NONDL"
-- "TRANSVERSE NONDL"
-- "Compatibles-necromunda NONDL"
-- "TRANSVERSE Compatibles-necromunda NONDL"
-- "NONSUP"
-- "TRANSVERSE NONSUP"
-- "Compatibles-necromunda NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONSUP"
-- "NONDL NONSUP"
-- "TRANSVERSE NONDL NONSUP"
-- "Compatibles-necromunda NONDL NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONDL NONSUP"
 
 ---
 
@@ -199,13 +184,11 @@ Prix : 0.0 euros
 Collections :
 
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
-- TRANSVERSE Compatibles-necromunda
 
 
 Collections pour tags :
 
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
-- TRANSVERSE Compatibles-necromunda NONDL NONSUP
 
 
 Description :

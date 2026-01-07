@@ -104,21 +104,6 @@ tags:
 - "IMP Builders NONDL NONSUP"
 - "SMI Builders NONDL NONSUP"
 - "Bits Builders NONDL NONSUP"
-- "TRANSVERSE"
-- "Compatibles-necromunda"
-- "TRANSVERSE Compatibles-necromunda"
-- "NONDL"
-- "TRANSVERSE NONDL"
-- "Compatibles-necromunda NONDL"
-- "TRANSVERSE Compatibles-necromunda NONDL"
-- "NONSUP"
-- "TRANSVERSE NONSUP"
-- "Compatibles-necromunda NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONSUP"
-- "NONDL NONSUP"
-- "TRANSVERSE NONDL NONSUP"
-- "Compatibles-necromunda NONDL NONSUP"
-- "TRANSVERSE Compatibles-necromunda NONDL NONSUP"
 
 ---
 
@@ -137,13 +122,11 @@ Prix : 0.0 euros
 Collections :
 
 - 28mm IMP SMI Bits Builders
-- TRANSVERSE Compatibles-necromunda
 
 
 Collections pour tags :
 
 - 28mm IMP SMI Bits Builders NONDL NONSUP
-- TRANSVERSE Compatibles-necromunda NONDL NONSUP
 
 
 Description :
