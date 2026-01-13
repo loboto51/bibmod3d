@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > evanogainen > Pain_Strider___Armiger_Helverin_conversion_kit [non dl]"
+title: "[GRATUIT] Thingiverse > evanogainen > Pain_Strider___Armiger_Helverin_conversion_kit [dl]"
 date: "2019-03-19T20:23:13+00:00"
 toc: true
 image: "thumbs_-_3503838_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "CHAOS Chaos-chevaliers SLAANESH"
 - "epic CHAOS Chaos-chevaliers SLAANESH"
 - "chevaliers CHAOS Chaos-chevaliers SLAANESH"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "CHAOS NONDL"
-- "epic CHAOS NONDL"
-- "chevaliers CHAOS NONDL"
-- "epic chevaliers CHAOS NONDL"
-- "Chaos-chevaliers NONDL"
-- "epic Chaos-chevaliers NONDL"
-- "chevaliers Chaos-chevaliers NONDL"
-- "epic chevaliers Chaos-chevaliers NONDL"
-- "CHAOS Chaos-chevaliers NONDL"
-- "epic CHAOS Chaos-chevaliers NONDL"
-- "chevaliers CHAOS Chaos-chevaliers NONDL"
-- "SLAANESH NONDL"
-- "epic SLAANESH NONDL"
-- "chevaliers SLAANESH NONDL"
-- "epic chevaliers SLAANESH NONDL"
-- "CHAOS SLAANESH NONDL"
-- "epic CHAOS SLAANESH NONDL"
-- "chevaliers CHAOS SLAANESH NONDL"
-- "Chaos-chevaliers SLAANESH NONDL"
-- "epic Chaos-chevaliers SLAANESH NONDL"
-- "chevaliers Chaos-chevaliers SLAANESH NONDL"
-- "CHAOS Chaos-chevaliers SLAANESH NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Chaos-chevaliers SLAANESH NONSUP"
 - "chevaliers Chaos-chevaliers SLAANESH NONSUP"
 - "CHAOS Chaos-chevaliers SLAANESH NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "epic chevaliers NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "epic CHAOS NONDL NONSUP"
-- "chevaliers CHAOS NONDL NONSUP"
-- "Chaos-chevaliers NONDL NONSUP"
-- "epic Chaos-chevaliers NONDL NONSUP"
-- "chevaliers Chaos-chevaliers NONDL NONSUP"
-- "CHAOS Chaos-chevaliers NONDL NONSUP"
-- "SLAANESH NONDL NONSUP"
-- "epic SLAANESH NONDL NONSUP"
-- "chevaliers SLAANESH NONDL NONSUP"
-- "CHAOS SLAANESH NONDL NONSUP"
-- "Chaos-chevaliers SLAANESH NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_3503838_-_Images_1.jpg> "thumbs_-_3503838_-_Images_1.jpg")
+
+  ![](<thumbs_-_3503838_-_ImagesSTL_1.jpg> "thumbs_-_3503838_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_3503838_-_Makes_1.jpg> "thumbs_-_3503838_-_Makes_1.jpg")
 
@@ -126,7 +86,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers CHAOS Chaos-chevaliers SLAANESH NONDL NONSUP
+- epic chevaliers CHAOS Chaos-chevaliers SLAANESH  NONSUP
 
 
 Description :
