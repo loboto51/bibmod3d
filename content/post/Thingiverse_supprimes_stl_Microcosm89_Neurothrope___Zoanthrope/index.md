@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Microcosm89 > Neurothrope___Zoanthrope [dl]"
+title: "[GRATUIT] Thingiverse_supprimes_stl > Microcosm89 > Neurothrope___Zoanthrope [dl]"
 date: "2025-06-20"
 toc: true
 image: "thumbs_-_7078745_-_Images_1.jpg"

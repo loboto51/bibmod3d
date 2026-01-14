@@ -21,6 +21,21 @@ tags:
 - "epic IMP Admech-titans-warlords"
 - "titans IMP Admech-titans-warlords"
 - "epic titans IMP Admech-titans-warlords"
+- "OBSOLETE"
+- "epic OBSOLETE"
+- "titans OBSOLETE"
+- "epic titans OBSOLETE"
+- "IMP OBSOLETE"
+- "epic IMP OBSOLETE"
+- "titans IMP OBSOLETE"
+- "epic titans IMP OBSOLETE"
+- "Admech-titans-warlords OBSOLETE"
+- "epic Admech-titans-warlords OBSOLETE"
+- "titans Admech-titans-warlords OBSOLETE"
+- "epic titans Admech-titans-warlords OBSOLETE"
+- "IMP Admech-titans-warlords OBSOLETE"
+- "epic IMP Admech-titans-warlords OBSOLETE"
+- "titans IMP Admech-titans-warlords OBSOLETE"
 - "NONDL"
 - "epic NONDL"
 - "titans NONDL"
@@ -36,6 +51,17 @@ tags:
 - "IMP Admech-titans-warlords NONDL"
 - "epic IMP Admech-titans-warlords NONDL"
 - "titans IMP Admech-titans-warlords NONDL"
+- "OBSOLETE NONDL"
+- "epic OBSOLETE NONDL"
+- "titans OBSOLETE NONDL"
+- "epic titans OBSOLETE NONDL"
+- "IMP OBSOLETE NONDL"
+- "epic IMP OBSOLETE NONDL"
+- "titans IMP OBSOLETE NONDL"
+- "Admech-titans-warlords OBSOLETE NONDL"
+- "epic Admech-titans-warlords OBSOLETE NONDL"
+- "titans Admech-titans-warlords OBSOLETE NONDL"
+- "IMP Admech-titans-warlords OBSOLETE NONDL"
 - "SUP"
 - "epic SUP"
 - "titans SUP"
@@ -51,6 +77,17 @@ tags:
 - "IMP Admech-titans-warlords SUP"
 - "epic IMP Admech-titans-warlords SUP"
 - "titans IMP Admech-titans-warlords SUP"
+- "OBSOLETE SUP"
+- "epic OBSOLETE SUP"
+- "titans OBSOLETE SUP"
+- "epic titans OBSOLETE SUP"
+- "IMP OBSOLETE SUP"
+- "epic IMP OBSOLETE SUP"
+- "titans IMP OBSOLETE SUP"
+- "Admech-titans-warlords OBSOLETE SUP"
+- "epic Admech-titans-warlords OBSOLETE SUP"
+- "titans Admech-titans-warlords OBSOLETE SUP"
+- "IMP Admech-titans-warlords OBSOLETE SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "titans NONDL SUP"
@@ -62,6 +99,11 @@ tags:
 - "epic Admech-titans-warlords NONDL SUP"
 - "titans Admech-titans-warlords NONDL SUP"
 - "IMP Admech-titans-warlords NONDL SUP"
+- "OBSOLETE NONDL SUP"
+- "epic OBSOLETE NONDL SUP"
+- "titans OBSOLETE NONDL SUP"
+- "IMP OBSOLETE NONDL SUP"
+- "Admech-titans-warlords OBSOLETE NONDL SUP"
 
 ---
 
@@ -77,12 +119,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic titans IMP Admech-titans-warlords
+- epic titans IMP Admech-titans-warlords OBSOLETE
 
 
 Collections pour tags :
 
-- epic titans IMP Admech-titans-warlords NONDL SUP
+- epic titans IMP Admech-titans-warlords OBSOLETE NONDL SUP
 
 
 Description :

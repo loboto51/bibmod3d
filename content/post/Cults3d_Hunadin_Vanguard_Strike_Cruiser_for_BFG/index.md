@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Hunadin > Vanguard_Strike_Cruiser_for_BFG [non dl]"
+title: "[GRATUIT] Cults3d > Hunadin > Vanguard_Strike_Cruiser_for_BFG [dl]"
 date: "2023-11-06T19:04:50Z"
 toc: true
 image: "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "IMP Flotte"
 - "bfg IMP Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "IMP NONDL"
-- "bfg IMP NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
 - "bfg IMP Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
-- "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg")
+
+  ![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.jpg> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg IMP Flotte NONDL NONSUP
+- bfg IMP Flotte  NONSUP
 
 
 Description :

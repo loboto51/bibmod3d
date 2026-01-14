@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Liktor21 > Moriati_Giant_Revolver_Warlord_Robot [non dl]"
-date: "2018-09-06T19:39:29+00:00"
+title: "[GRATUIT] Thingiverse_supprimes > kingmt > Adeptus_Titanicus_Quake_Cannon [non dl]"
+date: "2019-01-14T17:11:47+00:00"
 toc: true
-image: "thumbs_-_3086987_-_Images_1.jpg"
+image: "thumbs_-_3356004_-_Images_1.jpg"
 tags:
-- "Liktor21"
+- "kingmt"
 - "epic"
 - "titans"
 - "epic titans"
@@ -65,13 +65,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3086987_-_Images_1.jpg> "thumbs_-_3086987_-_Images_1.jpg")
+![](<thumbs_-_3356004_-_Images_1.jpg> "thumbs_-_3356004_-_Images_1.jpg")
+
+  ![](<thumbs_-_3356004_-_Makes_1.jpg> "thumbs_-_3356004_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3086987](https://www.thingiverse.com/thing:3086987)
+Source : [https://www.thingiverse.com/thing:3356004](https://www.thingiverse.com/thing:3356004)
 
-Id objet : 3086987
+Id objet : 3356004
 
 Prix : 0 euros
 
@@ -88,9 +90,14 @@ Collections pour tags :
 Description :
 
 ~~~
-I´ve rescaled the Cannon and added some pieces to make it fit to a small Warlord Robot. A fitting arm with magnethole is also here. I want to thank the Designers of the original Parts. 
- 
-P.S.: The files will be deleted when GW releases these weapon options. Support GW for making great games for all of us. 
+This is my start at an Adeptus Titanicus scale Quake Cannon. The sizing has been adjusted to be close to the GW Volcano Cannon now that I have acquired one. The mount has been adjusted so that this Quake Cannon can be mounted in the GW shoulder/arm.
+
+The design is mostly complete. The only thing I might add are some panel lines, but I need to figure out how to create them. I am taking most of my ideas from the new ForgeWorld Quake Cannon for their new Warbringer titan.
+
+Any suggestions are welcome, especially the main body. 
+
+Edit:
+v2: added etching along the barrel, lengthened the armor plates, added sight to the end of the arm, and some minor spacing changes
 ~~~
 
 

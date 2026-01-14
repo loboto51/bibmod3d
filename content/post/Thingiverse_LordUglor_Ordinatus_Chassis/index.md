@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > LordUglor > Ordinatus_Chassis [non dl]"
+title: "[GRATUIT] Thingiverse > LordUglor > Ordinatus_Chassis [dl]"
 date: "2020-05-05T02:50:54+00:00"
 toc: true
 image: "thumbs_-_4338193_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic AM Admech-ordinatus"
 - "superlourds AM Admech-ordinatus"
 - "epic superlourds AM Admech-ordinatus"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "AM NONDL"
-- "epic AM NONDL"
-- "superlourds AM NONDL"
-- "epic superlourds AM NONDL"
-- "Admech-ordinatus NONDL"
-- "epic Admech-ordinatus NONDL"
-- "superlourds Admech-ordinatus NONDL"
-- "epic superlourds Admech-ordinatus NONDL"
-- "AM Admech-ordinatus NONDL"
-- "epic AM Admech-ordinatus NONDL"
-- "superlourds AM Admech-ordinatus NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "AM Admech-ordinatus NONSUP"
 - "epic AM Admech-ordinatus NONSUP"
 - "superlourds AM Admech-ordinatus NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
-- "AM NONDL NONSUP"
-- "epic AM NONDL NONSUP"
-- "superlourds AM NONDL NONSUP"
-- "Admech-ordinatus NONDL NONSUP"
-- "epic Admech-ordinatus NONDL NONSUP"
-- "superlourds Admech-ordinatus NONDL NONSUP"
-- "AM Admech-ordinatus NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4338193_-_Images_1.jpg> "thumbs_-_4338193_-_Images_1.jpg")
+
+  ![](<thumbs_-_4338193_-_ImagesSTL_1.jpg> "thumbs_-_4338193_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds AM Admech-ordinatus NONDL NONSUP
+- epic superlourds AM Admech-ordinatus  NONSUP
 
 
 Description :
