@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Wombat_Miniatures > Tactikool_accessories_ [non dl]"
-date: "2019-09-29T12:23:39+00:00"
+title: "[GRATUIT] Cults3d > SevenUnited > Bitz_for_Scifi_Buildings [non dl]"
+date: "2020-04-01T16:12:52Z"
 toc: true
-image: "thumbs_-_3886619_-_Images_1.jpg"
+image: "thumbs_-_bitz-for-scifi-buildings_-_Images_1.jpg"
 tags:
-- "Wombat_Miniatures"
+- "SevenUnited"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3886619_-_Images_1.jpg> "thumbs_-_3886619_-_Images_1.jpg")
+![](<thumbs_-_bitz-for-scifi-buildings_-_Images_1.jpg> "thumbs_-_bitz-for-scifi-buildings_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3886619](https://www.thingiverse.com/thing:3886619)
+Source : [https://cults3d.com/en/3d-model/game/bitz-for-scifi-buildings](https://cults3d.com/en/3d-model/game/bitz-for-scifi-buildings)
 
-Id objet : 3886619
+Id objet : bitz-for-scifi-buildings
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
@@ -194,15 +194,8 @@ Collections pour tags :
 Description :
 
 ~~~
-Hey guys,
-Heres some tactikool gear to show how tactical and kool you are. uploaded speratly so you can go over the top
-
-If you want to find out more about my upcoming patreon or free releases check out my socials, I also stream some of my sculpts on twitch so be sure to check it out if your interested.
-Also if you could follow/like I would really appreciate it :)
-
-Facebook: www.facebook.com/wombatminiature
-Instagram: www.instagram.com/wombatminiatures
-Twitch: www.twitch.tv/wombatminiatures
+Bitz for Scifi buildings in STC design to fit with sector mechanicus parts.
+Second Part here: https://www.thingiverse.com/thing:3780592
 ~~~
 
 
