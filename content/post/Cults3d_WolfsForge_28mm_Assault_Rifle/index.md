@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > WolfsForge > 28mm_Plasma_Gun [dl]"
-date: "2021-11-29T18:22:18Z"
+title: "[GRATUIT] Cults3d > WolfsForge > 28mm_Assault_Rifle [dl]"
+date: "2022-02-13T20:14:46Z"
 toc: true
-image: "thumbs_-_28mm-plasma-gun_-_Images_1.jpg"
+image: "thumbs_-_28mm-assault-rifle-wolfsforge_-_Images_1.jpg"
 tags:
 - "WolfsForge"
 - "28mm"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_28mm-plasma-gun_-_Images_1.jpg> "thumbs_-_28mm-plasma-gun_-_Images_1.jpg")
+![](<thumbs_-_28mm-assault-rifle-wolfsforge_-_Images_1.jpg> "thumbs_-_28mm-assault-rifle-wolfsforge_-_Images_1.jpg")
 
-  ![](<thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg> "thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_28mm-assault-rifle-wolfsforge_-_ImagesSTL_1.jpg> "thumbs_-_28mm-assault-rifle-wolfsforge_-_ImagesSTL_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/28mm-plasma-gun](https://cults3d.com/en/3d-model/game/28mm-plasma-gun)
+Source : [https://cults3d.com/en/3d-model/game/28mm-assault-rifle-wolfsforge](https://cults3d.com/en/3d-model/game/28mm-assault-rifle-wolfsforge)
 
-Id objet : 28mm-plasma-gun
+Id objet : 28mm-assault-rifle-wolfsforge
 
 Prix : 0.0 euros
 
@@ -196,14 +196,11 @@ Collections pour tags :
 Description :
 
 ~~~
-https://youtu.be/as59lN32oRc
+https://youtu.be/iw4y8p493gc
 
-Plasma weapons are extremely effective at close to medium range. Together with kinetic damage, it transfers significant thermal damage to the target. At close range, this weapon has a chance to damage even heavy armored vehicles. During the Last War, plasma weapons were widespread among the Shapers.
-
-Despite its high efficiency, this weapon has its drawbacks. The lethality of the weapon decreases significantly with distance. The design of this weapon is quite complex, which requires a high production culture and careful maintenance. And in case of malfunctions, self-detonation of the weapon is quite possible. 
-
- STL previews for premium models:
-https://www.patreon.com/wolfsforge
+Mrak Wargame:
+https://www.reddit.com/r/Mrak/
+https://www.deviantart.com/mrak-universe
 ~~~
 
 

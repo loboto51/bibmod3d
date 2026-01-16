@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > WolfsForge > 28mm_Plasma_Gun [dl]"
-date: "2021-11-29T18:22:18Z"
+title: "[GRATUIT] Cults3d > WolfsForge > 28mm_Jet_Pistol [dl]"
+date: "2021-11-27T11:19:01Z"
 toc: true
-image: "thumbs_-_28mm-plasma-gun_-_Images_1.jpg"
+image: "thumbs_-_28mm-jet-pistol_-_Images_1.jpg"
 tags:
 - "WolfsForge"
 - "28mm"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_28mm-plasma-gun_-_Images_1.jpg> "thumbs_-_28mm-plasma-gun_-_Images_1.jpg")
+![](<thumbs_-_28mm-jet-pistol_-_Images_1.jpg> "thumbs_-_28mm-jet-pistol_-_Images_1.jpg")
 
-  ![](<thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg> "thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_28mm-jet-pistol_-_ImagesSTL_1.jpg> "thumbs_-_28mm-jet-pistol_-_ImagesSTL_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/28mm-plasma-gun](https://cults3d.com/en/3d-model/game/28mm-plasma-gun)
+Source : [https://cults3d.com/en/3d-model/game/28mm-jet-pistol](https://cults3d.com/en/3d-model/game/28mm-jet-pistol)
 
-Id objet : 28mm-plasma-gun
+Id objet : 28mm-jet-pistol
 
 Prix : 0.0 euros
 
@@ -196,14 +196,17 @@ Collections pour tags :
 Description :
 
 ~~~
-https://youtu.be/as59lN32oRc
+https://youtu.be/ZVE34jA_VnU
 
-Plasma weapons are extremely effective at close to medium range. Together with kinetic damage, it transfers significant thermal damage to the target. At close range, this weapon has a chance to damage even heavy armored vehicles. During the Last War, plasma weapons were widespread among the Shapers.
+Jet weapons became widespread during the Last War. The ammunition of this weapon is accelerated by a jet stream. It has practically no recoil, and ammunition can hit a wide variety of targets. Cumulative and armor-piercing ammunition can easily cope with light enemy vehicles. Ammunition with programmable detonation will not leave any chance for the infantry, even in cover.
 
-Despite its high efficiency, this weapon has its drawbacks. The lethality of the weapon decreases significantly with distance. The design of this weapon is quite complex, which requires a high production culture and careful maintenance. And in case of malfunctions, self-detonation of the weapon is quite possible. 
+However, this weapon also has a number of disadvantages. It is quite heavy and for long-term use it is necessary to have exo-armor or genetic modifications. It is also extremely ineffective at close ranges, since the ammunition does not have time to pick up the required speed.
+
+The weapon can be equipped with various magazines. To improve the accuracy of fire, it is possible to install an elongated barrel. Installation of an optical sight is also possible. 
+
+Get these models here:
 
  STL previews for premium models:
-https://www.patreon.com/wolfsforge
 ~~~
 
 

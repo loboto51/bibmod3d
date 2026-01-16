@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > WolfsForge > 28mm_Plasma_Gun [dl]"
-date: "2021-11-29T18:22:18Z"
+title: "[GRATUIT] Thingiverse > GRAYGAWR > Ork_rifles_and_pistols___rocket_launcher [non dl]"
+date: "2020-05-01T18:20:56+00:00"
 toc: true
-image: "thumbs_-_28mm-plasma-gun_-_Images_1.jpg"
+image: "thumbs_-_4329241_-_Images_1.jpg"
 tags:
-- "WolfsForge"
+- "GRAYGAWR"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -104,6 +104,70 @@ tags:
 - "IMP 40k-armes-diverses Bits Builders"
 - "HUMAINS 40k-armes-diverses Bits Builders"
 - "ORKS 40k-armes-diverses Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "IMP NONDL"
+- "28mm IMP NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "28mm IMP HUMAINS NONDL"
+- "ORKS NONDL"
+- "28mm ORKS NONDL"
+- "IMP ORKS NONDL"
+- "28mm IMP ORKS NONDL"
+- "HUMAINS ORKS NONDL"
+- "28mm HUMAINS ORKS NONDL"
+- "IMP HUMAINS ORKS NONDL"
+- "40k-armes-diverses NONDL"
+- "28mm 40k-armes-diverses NONDL"
+- "IMP 40k-armes-diverses NONDL"
+- "28mm IMP 40k-armes-diverses NONDL"
+- "HUMAINS 40k-armes-diverses NONDL"
+- "28mm HUMAINS 40k-armes-diverses NONDL"
+- "IMP HUMAINS 40k-armes-diverses NONDL"
+- "ORKS 40k-armes-diverses NONDL"
+- "28mm ORKS 40k-armes-diverses NONDL"
+- "IMP ORKS 40k-armes-diverses NONDL"
+- "HUMAINS ORKS 40k-armes-diverses NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "IMP Bits NONDL"
+- "28mm IMP Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "IMP HUMAINS Bits NONDL"
+- "ORKS Bits NONDL"
+- "28mm ORKS Bits NONDL"
+- "IMP ORKS Bits NONDL"
+- "HUMAINS ORKS Bits NONDL"
+- "40k-armes-diverses Bits NONDL"
+- "28mm 40k-armes-diverses Bits NONDL"
+- "IMP 40k-armes-diverses Bits NONDL"
+- "HUMAINS 40k-armes-diverses Bits NONDL"
+- "ORKS 40k-armes-diverses Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "IMP Builders NONDL"
+- "28mm IMP Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "IMP HUMAINS Builders NONDL"
+- "ORKS Builders NONDL"
+- "28mm ORKS Builders NONDL"
+- "IMP ORKS Builders NONDL"
+- "HUMAINS ORKS Builders NONDL"
+- "40k-armes-diverses Builders NONDL"
+- "28mm 40k-armes-diverses Builders NONDL"
+- "IMP 40k-armes-diverses Builders NONDL"
+- "HUMAINS 40k-armes-diverses Builders NONDL"
+- "ORKS 40k-armes-diverses Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "IMP Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "ORKS Bits Builders NONDL"
+- "40k-armes-diverses Bits Builders NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -168,20 +232,47 @@ tags:
 - "HUMAINS Bits Builders NONSUP"
 - "ORKS Bits Builders NONSUP"
 - "40k-armes-diverses Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "28mm IMP NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "IMP HUMAINS NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "28mm ORKS NONDL NONSUP"
+- "IMP ORKS NONDL NONSUP"
+- "HUMAINS ORKS NONDL NONSUP"
+- "40k-armes-diverses NONDL NONSUP"
+- "28mm 40k-armes-diverses NONDL NONSUP"
+- "IMP 40k-armes-diverses NONDL NONSUP"
+- "HUMAINS 40k-armes-diverses NONDL NONSUP"
+- "ORKS 40k-armes-diverses NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "IMP Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "ORKS Bits NONDL NONSUP"
+- "40k-armes-diverses Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "IMP Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "ORKS Builders NONDL NONSUP"
+- "40k-armes-diverses Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_28mm-plasma-gun_-_Images_1.jpg> "thumbs_-_28mm-plasma-gun_-_Images_1.jpg")
-
-  ![](<thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg> "thumbs_-_28mm-plasma-gun_-_ImagesSTL_1.jpg")
+![](<thumbs_-_4329241_-_Images_1.jpg> "thumbs_-_4329241_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/28mm-plasma-gun](https://cults3d.com/en/3d-model/game/28mm-plasma-gun)
+Source : [https://www.thingiverse.com/thing:4329241](https://www.thingiverse.com/thing:4329241)
 
-Id objet : 28mm-plasma-gun
+Id objet : 4329241
 
-Prix : 0.0 euros
+Prix : 0 euros
 
 Collections :
 
@@ -190,20 +281,13 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders  NONSUP
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
 
 
 Description :
 
 ~~~
-https://youtu.be/as59lN32oRc
-
-Plasma weapons are extremely effective at close to medium range. Together with kinetic damage, it transfers significant thermal damage to the target. At close range, this weapon has a chance to damage even heavy armored vehicles. During the Last War, plasma weapons were widespread among the Shapers.
-
-Despite its high efficiency, this weapon has its drawbacks. The lethality of the weapon decreases significantly with distance. The design of this weapon is quite complex, which requires a high production culture and careful maintenance. And in case of malfunctions, self-detonation of the weapon is quite possible. 
-
- STL previews for premium models:
-https://www.patreon.com/wolfsforge
+Ork rifles and pistols with additional parts.
 ~~~
 
 
