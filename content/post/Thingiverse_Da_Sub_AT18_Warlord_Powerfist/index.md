@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Da_Sub > AT18_Warlord_Powerfist [non dl]"
+title: "[GRATUIT] Thingiverse > Da_Sub > AT18_Warlord_Powerfist [dl]"
 date: "2020-01-05T09:49:22+00:00"
 toc: true
 image: "thumbs_-_4085595_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "IMP Admech-titans-warlords OBSOLETE"
 - "epic IMP Admech-titans-warlords OBSOLETE"
 - "titans IMP Admech-titans-warlords OBSOLETE"
-- "NONDL"
-- "epic NONDL"
-- "titans NONDL"
-- "epic titans NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "titans IMP NONDL"
-- "epic titans IMP NONDL"
-- "Admech-titans-warlords NONDL"
-- "epic Admech-titans-warlords NONDL"
-- "titans Admech-titans-warlords NONDL"
-- "epic titans Admech-titans-warlords NONDL"
-- "IMP Admech-titans-warlords NONDL"
-- "epic IMP Admech-titans-warlords NONDL"
-- "titans IMP Admech-titans-warlords NONDL"
-- "OBSOLETE NONDL"
-- "epic OBSOLETE NONDL"
-- "titans OBSOLETE NONDL"
-- "epic titans OBSOLETE NONDL"
-- "IMP OBSOLETE NONDL"
-- "epic IMP OBSOLETE NONDL"
-- "titans IMP OBSOLETE NONDL"
-- "Admech-titans-warlords OBSOLETE NONDL"
-- "epic Admech-titans-warlords OBSOLETE NONDL"
-- "titans Admech-titans-warlords OBSOLETE NONDL"
-- "IMP Admech-titans-warlords OBSOLETE NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Admech-titans-warlords OBSOLETE NONSUP"
 - "titans Admech-titans-warlords OBSOLETE NONSUP"
 - "IMP Admech-titans-warlords OBSOLETE NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "titans NONDL NONSUP"
-- "epic titans NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "titans IMP NONDL NONSUP"
-- "Admech-titans-warlords NONDL NONSUP"
-- "epic Admech-titans-warlords NONDL NONSUP"
-- "titans Admech-titans-warlords NONDL NONSUP"
-- "IMP Admech-titans-warlords NONDL NONSUP"
-- "OBSOLETE NONDL NONSUP"
-- "epic OBSOLETE NONDL NONSUP"
-- "titans OBSOLETE NONDL NONSUP"
-- "IMP OBSOLETE NONDL NONSUP"
-- "Admech-titans-warlords OBSOLETE NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4085595_-_Images_1.jpg> "thumbs_-_4085595_-_Images_1.jpg")
+
+  ![](<thumbs_-_4085595_-_ImagesSTL_1.jpg> "thumbs_-_4085595_-_ImagesSTL_1.jpg")
 
   
 
@@ -124,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans IMP Admech-titans-warlords OBSOLETE NONDL NONSUP
+- epic titans IMP Admech-titans-warlords OBSOLETE  NONSUP
 
 
 Description :
