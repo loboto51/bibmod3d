@@ -20,14 +20,14 @@ tags:
 - "epic NEC"
 - "infanterie NEC"
 - "epic infanterie NEC"
-- "Nécrons-tactiques"
-- "epic Nécrons-tactiques"
-- "infanterie Nécrons-tactiques"
-- "epic infanterie Nécrons-tactiques"
-- "NEC Nécrons-tactiques"
-- "epic NEC Nécrons-tactiques"
-- "infanterie NEC Nécrons-tactiques"
-- "epic infanterie NEC Nécrons-tactiques"
+- "Necrons-tactiques"
+- "epic Necrons-tactiques"
+- "infanterie Necrons-tactiques"
+- "epic infanterie Necrons-tactiques"
+- "NEC Necrons-tactiques"
+- "epic NEC Necrons-tactiques"
+- "infanterie NEC Necrons-tactiques"
+- "epic infanterie NEC Necrons-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -36,13 +36,13 @@ tags:
 - "epic NEC SUP"
 - "infanterie NEC SUP"
 - "epic infanterie NEC SUP"
-- "Nécrons-tactiques SUP"
-- "epic Nécrons-tactiques SUP"
-- "infanterie Nécrons-tactiques SUP"
-- "epic infanterie Nécrons-tactiques SUP"
-- "NEC Nécrons-tactiques SUP"
-- "epic NEC Nécrons-tactiques SUP"
-- "infanterie NEC Nécrons-tactiques SUP"
+- "Necrons-tactiques SUP"
+- "epic Necrons-tactiques SUP"
+- "infanterie Necrons-tactiques SUP"
+- "epic infanterie Necrons-tactiques SUP"
+- "NEC Necrons-tactiques SUP"
+- "epic NEC Necrons-tactiques SUP"
+- "infanterie NEC Necrons-tactiques SUP"
 
 ---
 
@@ -61,13 +61,13 @@ Prix : 0 euros
 Collections :
 
 - 15mm NECRONS
-- epic infanterie NEC Nécrons-tactiques
+- epic infanterie NEC Necrons-tactiques
 
 
 Collections pour tags :
 
 - 15mm NECRONS  SUP
-- epic infanterie NEC Nécrons-tactiques  SUP
+- epic infanterie NEC Necrons-tactiques  SUP
 
 
 Description :

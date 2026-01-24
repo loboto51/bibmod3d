@@ -13,14 +13,14 @@ tags:
 - "epic NEC"
 - "infanterie NEC"
 - "epic infanterie NEC"
-- "Nécrons-tactiques"
-- "epic Nécrons-tactiques"
-- "infanterie Nécrons-tactiques"
-- "epic infanterie Nécrons-tactiques"
-- "NEC Nécrons-tactiques"
-- "epic NEC Nécrons-tactiques"
-- "infanterie NEC Nécrons-tactiques"
-- "epic infanterie NEC Nécrons-tactiques"
+- "Necrons-tactiques"
+- "epic Necrons-tactiques"
+- "infanterie Necrons-tactiques"
+- "epic infanterie Necrons-tactiques"
+- "NEC Necrons-tactiques"
+- "epic NEC Necrons-tactiques"
+- "infanterie NEC Necrons-tactiques"
+- "epic infanterie NEC Necrons-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -29,13 +29,13 @@ tags:
 - "epic NEC NONSUP"
 - "infanterie NEC NONSUP"
 - "epic infanterie NEC NONSUP"
-- "Nécrons-tactiques NONSUP"
-- "epic Nécrons-tactiques NONSUP"
-- "infanterie Nécrons-tactiques NONSUP"
-- "epic infanterie Nécrons-tactiques NONSUP"
-- "NEC Nécrons-tactiques NONSUP"
-- "epic NEC Nécrons-tactiques NONSUP"
-- "infanterie NEC Nécrons-tactiques NONSUP"
+- "Necrons-tactiques NONSUP"
+- "epic Necrons-tactiques NONSUP"
+- "infanterie Necrons-tactiques NONSUP"
+- "epic infanterie Necrons-tactiques NONSUP"
+- "NEC Necrons-tactiques NONSUP"
+- "epic NEC Necrons-tactiques NONSUP"
+- "infanterie NEC Necrons-tactiques NONSUP"
 
 ---
 
@@ -53,12 +53,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie NEC Nécrons-tactiques
+- epic infanterie NEC Necrons-tactiques
 
 
 Collections pour tags :
 
-- epic infanterie NEC Nécrons-tactiques  NONSUP
+- epic infanterie NEC Necrons-tactiques  NONSUP
 
 
 Description :
