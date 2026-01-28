@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic Sm-Terminators SMI-UM on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-sm-terminators-smi-um/</link><description>Recent content in Epic Sm-Terminators SMI-UM on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 01 Sep 2020 22:44:06 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-sm-terminators-smi-um/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; Lord_Arner &gt; Galactic_Crusaders___Heavy_Siege_Armour___Fundamental_Veterans___6_8_mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/</link><pubDate>Tue, 01 Sep 2020 22:44:06 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/thumbs_-_4585892_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Lord_Arner &gt; Galactic_Crusaders___Heavy_Siege_Armour___Fundamental_Veterans___6_8_mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/thumbs_-_4585892_-_Images_1.jpg"
+width="1248"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="624"
+data-flex-basis="1497px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/thumbs_-_4585892_-_ImagesSTL_1.jpg"
+width="930"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="465"
+data-flex-basis="1116px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-lord_arner-galactic_crusaders___heavy_siege_armour___fundamental_veterans___6_8_mm-dl/thumbs_-_4585892_-_Makes_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:4585892" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:4585892&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 4585892&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-terminators SMI-UM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-terminators SMI-UM NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Remake&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;previous&lt;/span&gt; &lt;span class="n"&gt;attempt&lt;/span&gt; &lt;span class="n"&gt;since&lt;/span&gt; &lt;span class="n"&gt;MoonJam&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;his&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;much&lt;/span&gt; &lt;span class="n"&gt;nicer&lt;/span&gt; &lt;span class="n"&gt;looking&lt;/span&gt; &lt;span class="n"&gt;terminators&lt;/span&gt; &lt;span class="n"&gt;just&lt;/span&gt; &lt;span class="n"&gt;after&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;god&lt;/span&gt; &lt;span class="n"&gt;done&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;mine&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;bit&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;detail&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;variation&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;time&lt;/span&gt; &lt;span class="n"&gt;taking&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;account&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;actual&lt;/span&gt; &lt;span class="n"&gt;loadout&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;unit&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;praise&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;MoonJam&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Print&lt;/span&gt; &lt;span class="n"&gt;ready&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;resin&lt;/span&gt; &lt;span class="n"&gt;printers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Just&lt;/span&gt; &lt;span class="n"&gt;import&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;sure&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt; &lt;span class="n"&gt;bed&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;slice&lt;/span&gt; &lt;span class="n"&gt;then&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;xAA&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mf"&gt;0.02&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;layer&lt;/span&gt; &lt;span class="n"&gt;height&lt;/span&gt; &lt;span class="n"&gt;reccommended&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;These&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;FDM&lt;/span&gt; &lt;span class="n"&gt;slicers&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;printers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Please&lt;/span&gt; &lt;span class="n"&gt;bear&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;mind&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;extremely&lt;/span&gt; &lt;span class="n"&gt;fragile&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;despite&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;best&lt;/span&gt; &lt;span class="n"&gt;efforts&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;make&lt;/span&gt; &lt;span class="n"&gt;everything&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;solid&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;possible&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Handle&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;care&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

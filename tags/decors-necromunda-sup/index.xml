@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DECORS Necromunda SUP on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/decors-necromunda-sup/</link><description>Recent content in DECORS Necromunda SUP on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 02 Dec 2025 22:03:22 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/decors-necromunda-sup/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; sister_matic &gt; Short_Sector_Mechanicus_Pillars [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-short_sector_mechanicus_pillars-non-dl/</link><pubDate>Tue, 02 Dec 2025 22:03:22 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-short_sector_mechanicus_pillars-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-short_sector_mechanicus_pillars-non-dl/thumbs_-_7220589_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; sister_matic &gt; Short_Sector_Mechanicus_Pillars [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-short_sector_mechanicus_pillars-non-dl/thumbs_-_7220589_-_Images_1.jpg"
+width="2000"
+height="576"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="347"
+data-flex-basis="833px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:7220589" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:7220589&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 7220589&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm DECORS necromunda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm DECORS necromunda NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Imagine Sector Mechanicus pillars... but shorter! That&amp;#39;s pretty much it.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The main files provided have a notional height of 58.5mm, which means that they&amp;#39;re the same height as Zone Mortalis pillars and walls. So this is nice if you want some cross-compatibility.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;It also means that pillars + platform + pillars = the height of a regular full-height 122mm Sec Mech pillar. So you can muck about with shorter levels that still tie into the big ones.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;They have pegs on top to locate into standard Sec Mech platforms. They are a slightly looser fit, intentionally, so be prepared to use glue rather than rely on push-fit.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;#34;F&amp;#34; models are a full pair of pillars.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;#34;L&amp;#34; and &amp;#34;R&amp;#34;, you guessed it, are left and right pillars. I found it easier to support single pillars the way I wanted, and the split is barely noticeable when assembled.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;If you print separate pillars, you can of course combine any L with any R.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;All of them play nicely with mirroring, which does not affect the mating, so _theoretically_ there are 100 different combinations (since you wouldn&amp;#39;t bother to mirror the ones with no greebles or the 0 greebles).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&amp;#34;reg_sup.zip&amp;#34; contains all separate pillars, supported exactly as I printed them for myself.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;If you want a slightly taller pillar, with a notional height of 61mm (i.e. half a regular pillar by itself), then look in the &amp;#34;tall.zip&amp;#34; folder. It&amp;#39;s the same details, just adapted for a pillars with a taller lintel to make this possible.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These might be useful to you if you&amp;#39;re already using 61mm terrain pieces, e.g. [SevenUnited&amp;#39;s Half Furnace 2](https://www.thingiverse.com/thing:6503327).
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I don&amp;#39;t want this height and therefore have not printed them, so you&amp;#39;ll have to support them yourself.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;reg_sup.zip&amp;rdquo; contains all separate pillars, supported exactly as I printed them for myself.&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; sister_matic &gt; Grimdark_pipe_pillar [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-grimdark_pipe_pillar-non-dl/</link><pubDate>Wed, 26 Feb 2025 19:01:24 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-grimdark_pipe_pillar-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-grimdark_pipe_pillar-non-dl/thumbs_-_6962564_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; sister_matic &gt; Grimdark_pipe_pillar [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-sister_matic-grimdark_pipe_pillar-non-dl/thumbs_-_6962564_-_Images_1.jpg"
+width="2000"
+height="376"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="531"
+data-flex-basis="1276px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6962564" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6962564&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6962564&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm DECORS necromunda&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm DECORS necromunda NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;So you have some Thermic Plasma Conduits™ (or locally sourced alternative with the same dimensions), but rather than having them pretty much on the ground, you want them a bit higher to make things interesting. Say, with a centre-line height of 61mm off the table, which is exactly the right height to match up with the mid-line of several Sector Mechanicus™ components, how about that?
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Well, have I got good news for you: I had this exact requirement and made myself a pillar type thingy that has a good deal of visual congruity with Sector Mechanicus™ pillars.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Honestly, there&amp;#39;s not much more to say. The pipe foot bit itself is very simple and is not imitating the originals, but it does the same job and has very similar tolerances - it&amp;#39;s just snug enough that I can pick up the pipe and the pillars come with, but aren&amp;#39;t jammed in.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I have also included a basic pipe foot without the pillar, in case you have other stuff on the ground and want it to match. Lots of people have made pipe feet that do this job though, so take it or leave it!
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The supported files (ending in &amp;#34;_sup&amp;#34;) are what I printed with and was happy with. YMMV. I am definitely not an expert.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;The supported files (ending in &amp;ldquo;_sup&amp;rdquo;) are what I printed with and was happy with. YMMV. I am definitely not an expert.&lt;/p&gt;</description></item></channel></rss>

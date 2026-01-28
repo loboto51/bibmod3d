@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Beregrond2 on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/beregrond2/</link><description>Recent content in Beregrond2 on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 27 May 2018 09:41:17 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/beregrond2/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; BFG_Chaos_Attack_Craft [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_chaos_attack_craft-non-dl/</link><pubDate>Sun, 27 May 2018 09:41:17 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_chaos_attack_craft-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_chaos_attack_craft-non-dl/thumbs_-_2932765_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; BFG_Chaos_Attack_Craft [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_chaos_attack_craft-non-dl/thumbs_-_2932765_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2932765" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2932765&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2932765&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg CHAOS SMC Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg CHAOS SMC Flotte NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;rescale&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;chaos&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;found&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;thingiverse&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;fighter&lt;/span&gt; &lt;span class="n"&gt;fighters&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;bombers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Chaos&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Uses&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;same&lt;/span&gt; &lt;span class="n"&gt;size&lt;/span&gt; &lt;span class="n"&gt;bases&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;imperial&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Major&lt;/span&gt; &lt;span class="n"&gt;props&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Chris262&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt; &lt;span class="n"&gt;Antonio&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;amazing&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; BFG_Imperial_Attack_craft_v2 [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_imperial_attack_craft_v2-non-dl/</link><pubDate>Sun, 27 May 2018 09:38:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_imperial_attack_craft_v2-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_imperial_attack_craft_v2-non-dl/thumbs_-_2932763_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; BFG_Imperial_Attack_craft_v2 [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_imperial_attack_craft_v2-non-dl/thumbs_-_2932763_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-bfg_imperial_attack_craft_v2-non-dl/thumbs_-_2932763_-_Makes_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2932763" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2932763&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2932763&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A quick rework of the imperial attack craft i made before using a base that im standardising for any attack craft i make.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Had not problems printing without support (im a lazy printer the less fiddly gluing, removing of supports the better)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; Epic_40k_Adeptus_Mechanicus_Ordinatus_Majoris [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_majoris-non-dl/</link><pubDate>Fri, 03 Nov 2017 21:03:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_majoris-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_majoris-non-dl/thumbs_-_2624544_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; Epic_40k_Adeptus_Mechanicus_Ordinatus_Majoris [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_majoris-non-dl/thumbs_-_2624544_-_Images_1.jpg"
+width="1048"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="524"
+data-flex-basis="1257px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2624544" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2624544&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2624544&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds AM Admech-ordinatus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds AM Admech-ordinatus NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;An Ordinatus Majoris for use with NetEA rules for epic.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Turrets are here https://www.thingiverse.com/thing:3114603 and https://www.thingiverse.com/thing:3114619
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; Epic_40k_Adeptus_Mechanicus_Ordinatus_Minoris [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_minoris-non-dl/</link><pubDate>Fri, 03 Nov 2017 21:01:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_minoris-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_minoris-non-dl/thumbs_-_2624541_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; Epic_40k_Adeptus_Mechanicus_Ordinatus_Minoris [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-epic_40k_adeptus_mechanicus_ordinatus_minoris-non-dl/thumbs_-_2624541_-_Images_1.jpg"
+width="520"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="260"
+data-flex-basis="624px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2624541" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2624541&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2624541&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds AM Admech-ordinatus&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds AM Admech-ordinatus NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;An ordinatus Minoris for use with NetEA rules for epic.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Turrets are4 here https://www.thingiverse.com/thing:3114619
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; Battlefleet_Gothic_3d_Torpedo_Markers [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_3d_torpedo_markers-non-dl/</link><pubDate>Wed, 25 Oct 2017 19:31:18 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_3d_torpedo_markers-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_3d_torpedo_markers-non-dl/thumbs_-_2606633_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; Battlefleet_Gothic_3d_Torpedo_Markers [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_3d_torpedo_markers-non-dl/thumbs_-_2606633_-_Images_1.jpg"
+width="1608"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="804"
+data-flex-basis="1929px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_3d_torpedo_markers-non-dl/thumbs_-_2606633_-_Makes_1.jpg"
+width="248"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="124"
+data-flex-basis="297px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2606633" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2606633&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2606633&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg JETONS DIVERS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg JETONS DIVERS NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Basic&lt;/span&gt; &lt;span class="n"&gt;Torpedo&lt;/span&gt; &lt;span class="n"&gt;Markers&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;strengths&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Beregrond2 &gt; Battlefleet_Gothic_Imperial_Navy_Attack_Craft___Base [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_imperial_navy_attack_craft___base-non-dl/</link><pubDate>Wed, 25 Oct 2017 19:29:02 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_imperial_navy_attack_craft___base-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_imperial_navy_attack_craft___base-non-dl/thumbs_-_2606621_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Beregrond2 &gt; Battlefleet_Gothic_Imperial_Navy_Attack_Craft___Base [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-beregrond2-battlefleet_gothic_imperial_navy_attack_craft___base-non-dl/thumbs_-_2606621_-_Images_1.jpg"
+width="1224"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="612"
+data-flex-basis="1468px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2606621" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2606621&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2606621&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A quick rough version of some attack craft for Battlefleet gothic, the base is 20mm by 20mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is my first time really playing the game so i havent seen the original attack craft models, C&amp;amp;C&amp;#39;s appreciated!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

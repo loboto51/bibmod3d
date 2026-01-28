@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic VM Eldars-Superlourds NONDL on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-vm-eldars-superlourds-nondl/</link><description>Recent content in Epic VM Eldars-Superlourds NONDL on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 03 Nov 2024 19:23:00 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-vm-eldars-superlourds-nondl/index.xml" rel="self" type="application/rss+xml"/><item><title>[PAYANT] Cults3d &gt; edgeminiatures &gt; Super_Heavy_Tanks___Tech_Elves___8mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-super_heavy_tanks___tech_elves___8mm-non-dl/</link><pubDate>Sun, 03 Nov 2024 19:23:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-super_heavy_tanks___tech_elves___8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-super_heavy_tanks___tech_elves___8mm-non-dl/thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; edgeminiatures &gt; Super_Heavy_Tanks___Tech_Elves___8mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-super_heavy_tanks___tech_elves___8mm-non-dl/thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.jpg"
+width="1000"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="500"
+data-flex-basis="1200px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/super-heavy-tanks-tech-elves-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/super-heavy-tanks-tech-elves-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : super-heavy-tanks-tech-elves-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 5.5 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds VM Eldars-superlourds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds VM Eldars-superlourds NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;Tech&lt;/span&gt; &lt;span class="n"&gt;Elves&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Super&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;Tank&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;top&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;front&lt;/span&gt; &lt;span class="n"&gt;turrets&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Base&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Baseless&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Professionally&lt;/span&gt; &lt;span class="n"&gt;Sculpted&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Supported&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;mind&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Supported&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;unsupported&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Chitubox&lt;/span&gt; &lt;span class="n"&gt;Files&lt;/span&gt; &lt;span class="n"&gt;Included&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Sign&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Patreon&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;newest&lt;/span&gt; &lt;span class="n"&gt;figurines&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;month&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;only&lt;/span&gt; &lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="o"&gt;$&lt;/span&gt; &lt;span class="n"&gt;USD&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;well&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="n"&gt;off&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;cult&lt;/span&gt; &lt;span class="n"&gt;listings&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;patreon&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;EdgeMiniatures&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Happy&lt;/span&gt; &lt;span class="n"&gt;raiding&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;Professionally Sculpted and Supported with 8mm scale in mind.
+Supported, unsupported and Chitubox Files Included.&lt;/p&gt;</description></item><item><title>[PAYANT] Cults3d &gt; edgeminiatures &gt; Heavy_Tank___Tech_Elves___8mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-heavy_tank___tech_elves___8mm-non-dl/</link><pubDate>Tue, 04 Jun 2024 01:18:43 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-heavy_tank___tech_elves___8mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-heavy_tank___tech_elves___8mm-non-dl/thumbs_-_tech-elves-heavy-tank-8mm_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; edgeminiatures &gt; Heavy_Tank___Tech_Elves___8mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-edgeminiatures-heavy_tank___tech_elves___8mm-non-dl/thumbs_-_tech-elves-heavy-tank-8mm_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tech-elves-heavy-tank-8mm" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tech-elves-heavy-tank-8mm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tech-elves-heavy-tank-8mm&lt;/p&gt;
+&lt;p&gt;Prix : 3.5 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds VM Eldars-superlourds&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds VM Eldars-superlourds NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;1 Heavy Tank with 2 Turret Option and a front Turret Beam Cannon
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Supported, unsupported and Chitubox Files Included.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Sign up to Patreon OR MMF Tribes to get the newest figurines each month for only 7$ USD as well as 40% designs.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;patreon.com/EdgeMiniatures
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Happy raiding!
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;Supported, unsupported and Chitubox Files Included.&lt;/p&gt;</description></item></channel></rss>

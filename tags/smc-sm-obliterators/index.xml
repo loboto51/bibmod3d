@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SMC Sm-Obliterators on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/smc-sm-obliterators/</link><description>Recent content in SMC Sm-Obliterators on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 16 Nov 2024 22:16:48 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/smc-sm-obliterators/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; DaffMakes &gt; Peter_The_Fourth [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/</link><pubDate>Sat, 16 Nov 2024 22:16:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/thumbs_-_peter-the-fourth-96f2eafdb29ccf9b4708_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; DaffMakes &gt; Peter_The_Fourth [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/thumbs_-_peter-the-fourth-96f2eafdb29ccf9b4708_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/thumbs_-_peter-the-fourth-96f2eafdb29ccf9b4708_-_ImagesSTL_1.jpg"
+width="1408"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="704"
+data-flex-basis="1689px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-daffmakes-peter_the_fourth-dl/thumbs_-_peter-the-fourth-96f2eafdb29ccf9b4708_-_Makes_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/peter-the-fourth-96f2eafdb29ccf9b4708" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/peter-the-fourth-96f2eafdb29ccf9b4708&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : peter-the-fourth-96f2eafdb29ccf9b4708&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-obliterators&lt;/li&gt;
+&lt;li&gt;epic infanterie SMC Sm-qg Primarques Perturabo SMC-IW&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-obliterators NONSUP&lt;/li&gt;
+&lt;li&gt;epic infanterie SMC Sm-qg Primarques Perturabo SMC-IW NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;New&lt;/span&gt; &lt;span class="n"&gt;Iron&lt;/span&gt; &lt;span class="n"&gt;WIthin&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;tm&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;dietary&lt;/span&gt; &lt;span class="n"&gt;supplement&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;containing&lt;/span&gt; &lt;span class="n"&gt;over&lt;/span&gt; &lt;span class="mi"&gt;5000&lt;/span&gt;&lt;span class="o"&gt;%&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;daily&lt;/span&gt; &lt;span class="n"&gt;iron&lt;/span&gt; &lt;span class="n"&gt;intake&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;Iron&lt;/span&gt; &lt;span class="n"&gt;Within&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Iron&lt;/span&gt; &lt;span class="n"&gt;Without&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Three&lt;/span&gt; &lt;span class="n"&gt;Poses&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;choice&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;helmed&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;unhelmed&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Pose&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt; &lt;span class="n"&gt;has&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;option&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;rock&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Dread&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;him&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;stand&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Considering&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;bigger&lt;/span&gt; &lt;span class="n"&gt;than&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;usual&lt;/span&gt; &lt;span class="mi"&gt;8&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;infantry&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;He&lt;/span&gt; &lt;span class="n"&gt;comes&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;standoffs&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;painted&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;then&lt;/span&gt; &lt;span class="n"&gt;cut&lt;/span&gt; &lt;span class="n"&gt;off&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;standoffs&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;glued&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Thanks&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Moonjam&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;original&lt;/span&gt; &lt;span class="n"&gt;Galactic&lt;/span&gt; &lt;span class="n"&gt;Crusaders&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Thanks&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Mildseven&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Forgebreaker&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Walking&lt;/span&gt; &lt;span class="n"&gt;Tomb&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;bare&lt;/span&gt; &lt;span class="n"&gt;head&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;base&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;MrMcAngry&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="n"&gt;requests&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;additional&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;would&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;comission&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;remix&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;please&lt;/span&gt; &lt;span class="n"&gt;let&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt; &lt;span class="n"&gt;know&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;d like to keep up with my current projects, and support the modelling work I do, please check out my patreon at: www.patreon.com/Daffmakes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;If&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;what&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m doing, please donate to my ko-fi!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;www&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;ko&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;fi&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;daffmakes&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[PAYANT] Cults3d &gt; BitsBlitzDesigns &gt; Smallscale_Weapon_Morphing_Infantry [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitsblitzdesigns-smallscale_weapon_morphing_infantry-non-dl/</link><pubDate>Mon, 27 May 2024 22:07:49 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitsblitzdesigns-smallscale_weapon_morphing_infantry-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitsblitzdesigns-smallscale_weapon_morphing_infantry-non-dl/thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.jpg" alt="Featured image of post [PAYANT] Cults3d &gt; BitsBlitzDesigns &gt; Smallscale_Weapon_Morphing_Infantry [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitsblitzdesigns-smallscale_weapon_morphing_infantry-non-dl/thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.jpg"
+width="1669"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="834"
+data-flex-basis="2002px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/payant-cults3d-bitsblitzdesigns-smallscale_weapon_morphing_infantry-non-dl/thumbs_-_smallscale-weapon-morphing-infantry_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/smallscale-weapon-morphing-infantry" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/smallscale-weapon-morphing-infantry&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : smallscale-weapon-morphing-infantry&lt;/p&gt;
+&lt;p&gt;Prix : 3 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-obliterators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMC Sm-obliterators NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Designed for 6mm/8mm gaming in mind. Compatible with games such as Epic or Adeptus Titanicus.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This kit contains the following miniatures:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 10 Weapon Morphing Infantry (with 6mm inserts)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 10 Weapon Morphing Infantry (without 6mm inserts)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;**NOTE: 25mm round bases on picture not included in this set, they are [available separately](https://cults3d.com/en/3d-model/game/25mm-round-bases-for-6mm-8mm-miniatures-tech-shanty-texture) though! Same goes for the [close combat brute](https://cults3d.com/en/3d-model/game/smallscale-close-combat-brutes).**
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Please do no share or sell these files (including prints and remixes) without my written permission.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

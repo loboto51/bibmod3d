@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ELFES-NOIRS on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/elfes-noirs/</link><description>Recent content in ELFES-NOIRS on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/elfes-noirs/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Myminifactory &gt; Tordominis &gt; 3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836 [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-tordominis-3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836-dl/</link><pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-tordominis-3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-tordominis-3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836-dl/thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Myminifactory &gt; Tordominis &gt; 3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836 [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-tordominis-3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836-dl/thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-myminifactory-tordominis-3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836-dl/thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_ImagesSTL_1.jpg"
+width="2328"
+height="2000"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="116"
+data-flex-basis="279px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.myminifactory.com/object/3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836" target="_blank" rel="noopener"
+&gt;https://www.myminifactory.com/object/3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster CHAOS&lt;/li&gt;
+&lt;li&gt;warmaster ELFES-NOIRS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;warmaster CHAOS SUP&lt;/li&gt;
+&lt;li&gt;warmaster ELFES-NOIRS SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;span class="lnt"&gt;14
+&lt;/span&gt;&lt;span class="lnt"&gt;15
+&lt;/span&gt;&lt;span class="lnt"&gt;16
+&lt;/span&gt;&lt;span class="lnt"&gt;17
+&lt;/span&gt;&lt;span class="lnt"&gt;18
+&lt;/span&gt;&lt;span class="lnt"&gt;19
+&lt;/span&gt;&lt;span class="lnt"&gt;20
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Dark&lt;/span&gt; &lt;span class="n"&gt;Elf&lt;/span&gt; &lt;span class="n"&gt;Slave&lt;/span&gt; &lt;span class="n"&gt;Infantry&lt;/span&gt; &lt;span class="err"&gt;–&lt;/span&gt; &lt;span class="mi"&gt;23&lt;/span&gt; &lt;span class="n"&gt;Amazon&lt;/span&gt; &lt;span class="n"&gt;Warriors&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Bolster&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;dark&lt;/span&gt; &lt;span class="n"&gt;legions&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;fierce&lt;/span&gt; &lt;span class="n"&gt;Slave&lt;/span&gt; &lt;span class="n"&gt;Infantry&lt;/span&gt; &lt;span class="n"&gt;unit&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Dark&lt;/span&gt; &lt;span class="n"&gt;Elf&lt;/span&gt; &lt;span class="n"&gt;armies&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;perfect&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;epic&lt;/span&gt; &lt;span class="n"&gt;fantasy&lt;/span&gt; &lt;span class="n"&gt;wargames&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;includes&lt;/span&gt; &lt;span class="mi"&gt;23&lt;/span&gt; &lt;span class="n"&gt;unique&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;dynamic&lt;/span&gt; &lt;span class="n"&gt;Amazon&lt;/span&gt; &lt;span class="n"&gt;warrior&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;carefully&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;both&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scales&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;pose&lt;/span&gt; &lt;span class="n"&gt;brings&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;character&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;tabletop&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ensuring&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;forces&lt;/span&gt; &lt;span class="n"&gt;look&lt;/span&gt; &lt;span class="n"&gt;alive&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;menacing&lt;/span&gt;&lt;span class="err"&gt;—&lt;/span&gt;&lt;span class="n"&gt;even&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;For&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scale&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt;&lt;span class="err"&gt;’&lt;/span&gt;&lt;span class="n"&gt;ll&lt;/span&gt; &lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt; &lt;span class="n"&gt;options&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Individual&lt;/span&gt; &lt;span class="n"&gt;miniatures&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Strips&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Also&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;special&lt;/span&gt; &lt;span class="n"&gt;command&lt;/span&gt; &lt;span class="n"&gt;figures&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Squad&lt;/span&gt; &lt;span class="n"&gt;Leader&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Musician&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Banner&lt;/span&gt; &lt;span class="n"&gt;Bearer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Key&lt;/span&gt; &lt;span class="n"&gt;Features&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="mi"&gt;23&lt;/span&gt; &lt;span class="n"&gt;distinct&lt;/span&gt; &lt;span class="n"&gt;poses&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;full&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;energy&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;fine&lt;/span&gt; &lt;span class="n"&gt;detail&lt;/span&gt; &lt;span class="n"&gt;suitable&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;scale&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Minimal&lt;/span&gt; &lt;span class="n"&gt;supports&lt;/span&gt; &lt;span class="n"&gt;needed&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;hassle&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;printing&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Pre&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;supported&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;both&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="mi"&gt;15&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;scales&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;LYS&lt;/span&gt; &lt;span class="n"&gt;files&lt;/span&gt; &lt;span class="n"&gt;provided&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Lychee&lt;/span&gt; &lt;span class="n"&gt;Slicer&lt;/span&gt; &lt;span class="n"&gt;users&lt;/span&gt; &lt;span class="n"&gt;who&lt;/span&gt; &lt;span class="n"&gt;prefer&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;tweak&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;supports&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Perfect&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;gamers&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;collectors&lt;/span&gt; &lt;span class="n"&gt;looking&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;expand&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;Dark&lt;/span&gt; &lt;span class="n"&gt;Elf&lt;/span&gt; &lt;span class="n"&gt;forces&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;savage&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;beautifully&lt;/span&gt; &lt;span class="n"&gt;sculpted&lt;/span&gt; &lt;span class="n"&gt;slave&lt;/span&gt; &lt;span class="n"&gt;unit&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;Pre-supported versions included for both 10mm and 15mm scales.
+ImagesSTL_-&lt;em&gt;10mm_singles_zip_unpack_10mm_singles_Single_11-15_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_singles_zip_unpack_10mm_singles_Single_1-5_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_singles_zip_unpack_10mm_singles_Single_16-29_and_characters_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_singles_zip_unpack_10mm_singles_single_6-10_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_a_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_b_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_c_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_d_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_e_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;10mm_strips_zip_unpack_10mm_strips_Leader_strip_lys&lt;/em&gt;.jpg
+ImagesSTL_-&lt;em&gt;15mm_singles_zip_unpack_15mm_singles_Singles_lys&lt;/em&gt;.jpg&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Volants IMP Imp-Vehicules-Civils-Volants on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/volants-imp-imp-vehicules-civils-volants/</link><description>Recent content in Volants IMP Imp-Vehicules-Civils-Volants on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 24 Apr 2024 16:53:19 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/volants-imp-imp-vehicules-civils-volants/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_Quadthruster [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/</link><pubDate>Wed, 24 Apr 2024 16:53:19 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/thumbs_-_6593694_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_Quadthruster [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_quadthruster-non-dl/thumbs_-_6593694_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6593694" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6593694&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6593694&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;presents&lt;/span&gt; &lt;span class="n"&gt;their&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;man&lt;/span&gt; &lt;span class="n"&gt;scout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;No&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;worrying&lt;/span&gt; &lt;span class="n"&gt;about&lt;/span&gt; &lt;span class="n"&gt;rotor&lt;/span&gt; &lt;span class="n"&gt;strikes&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;power&lt;/span&gt; &lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;atmospheric&lt;/span&gt; &lt;span class="n"&gt;vessel&lt;/span&gt; &lt;span class="n"&gt;using&lt;/span&gt; &lt;span class="n"&gt;four&lt;/span&gt; &lt;span class="n"&gt;balanced&lt;/span&gt; &lt;span class="n"&gt;lifting&lt;/span&gt; &lt;span class="n"&gt;thrusters&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;single&lt;/span&gt; &lt;span class="n"&gt;forward&lt;/span&gt; &lt;span class="n"&gt;thruster&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;achieving&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;speeds&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;flight&lt;/span&gt;&lt;span class="o"&gt;.*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;operation&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;qaudthruster&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;altitudes&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;non&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Earthlike&lt;/span&gt; &lt;span class="n"&gt;atmospheres&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;arming&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;quadthruster&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt; &lt;span class="n"&gt;does&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;recommend&lt;/span&gt; &lt;span class="n"&gt;attempting&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;operator&lt;/span&gt; &lt;span class="n"&gt;inverted&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;at&lt;/span&gt; &lt;span class="n"&gt;extreme&lt;/span&gt; &lt;span class="n"&gt;speeds&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;User&lt;/span&gt; &lt;span class="n"&gt;safety&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;BHI&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;s responsibility. Your mileage may vary. Caveat Emptor.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Modeled&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_VTOL [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/</link><pubDate>Wed, 24 Apr 2024 14:45:05 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/thumbs_-_6593502_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Malleus011 &gt; BHI_Scout_VTOL [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-malleus011-bhi_scout_vtol-non-dl/thumbs_-_6593502_-_Images_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6593502" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6593502&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6593502&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants IMP Imp-vehicules-civils-volants NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A single seat scout VTOL.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Modeled in 6mm.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;(The rotor for a helicopter this small is very thin and may not be printable (or recoverable from supports if printed). Normally I make my rotors from styrene as it&amp;#39;s less hassle, so one of the files is just the hull of the VTOL for ease of printing.)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

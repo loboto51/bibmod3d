@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The_pezhetairoi on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/the_pezhetairoi/</link><description>Recent content in The_pezhetairoi on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Thu, 31 Jul 2025 19:29:53 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/the_pezhetairoi/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; the_pezhetairoi &gt; Empire_Attack_Craft [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-the_pezhetairoi-empire_attack_craft-non-dl/</link><pubDate>Thu, 31 Jul 2025 19:29:53 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-the_pezhetairoi-empire_attack_craft-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-the_pezhetairoi-empire_attack_craft-non-dl/thumbs_-_empire-attack-craft_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; the_pezhetairoi &gt; Empire_Attack_Craft [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-the_pezhetairoi-empire_attack_craft-non-dl/thumbs_-_empire-attack-craft_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/empire-attack-craft" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/empire-attack-craft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : empire-attack-craft&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte&lt;/li&gt;
+&lt;li&gt;bfg IMP SMI Flotte&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bfg IMP Flotte NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;bfg IMP SMI Flotte NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;set&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Empire&lt;/span&gt; &lt;span class="n"&gt;attack&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="n"&gt;markers&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;designs&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;simplified&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;durability&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;easy&lt;/span&gt; &lt;span class="n"&gt;painting&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Bases&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="n"&gt;x20mm&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Useful&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;various&lt;/span&gt; &lt;span class="n"&gt;space&lt;/span&gt; &lt;span class="n"&gt;ship&lt;/span&gt; &lt;span class="n"&gt;games&lt;/span&gt; &lt;span class="n"&gt;like&lt;/span&gt; &lt;span class="n"&gt;Battlefleet&lt;/span&gt; &lt;span class="n"&gt;Gothic&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;Firestorm&lt;/span&gt; &lt;span class="n"&gt;Armada&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Update&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;assault&lt;/span&gt; &lt;span class="n"&gt;boat&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="o"&gt;--&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;gap&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;engines&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;patched&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

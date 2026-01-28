@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Corpsedragon on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/corpsedragon/</link><description>Recent content in Corpsedragon on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 04 Aug 2021 19:56:44 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/corpsedragon/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; corpsedragon &gt; Sickly_Demonic_Creepy_Crawly [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-sickly_demonic_creepy_crawly-non-dl/</link><pubDate>Wed, 04 Aug 2021 19:56:44 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-sickly_demonic_creepy_crawly-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-sickly_demonic_creepy_crawly-non-dl/thumbs_-_sickly-demonic-creepy-crawly_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; corpsedragon &gt; Sickly_Demonic_Creepy_Crawly [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-sickly_demonic_creepy_crawly-non-dl/thumbs_-_sickly-demonic-creepy-crawly_-_Images_1.jpg"
+width="560"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="280"
+data-flex-basis="672px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-sickly_demonic_creepy_crawly-non-dl/thumbs_-_sickly-demonic-creepy-crawly_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/sickly-demonic-creepy-crawly" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/sickly-demonic-creepy-crawly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : sickly-demonic-creepy-crawly&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm CHAOS SMC Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm CHAOS SMC Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Scale&lt;/span&gt; &lt;span class="n"&gt;may&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;bit&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;m not sure as I don&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;t&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;anything&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;compare&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;let&lt;/span&gt; &lt;span class="n"&gt;me&lt;/span&gt; &lt;span class="n"&gt;know&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;remix&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;based&lt;/span&gt; &lt;span class="n"&gt;off&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;an&lt;/span&gt; &lt;span class="n"&gt;upload&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;asmo69uk&lt;/span&gt; &lt;span class="n"&gt;thats&lt;/span&gt; &lt;span class="n"&gt;now&lt;/span&gt; &lt;span class="n"&gt;gone&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;cannon&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;magnetized&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;actually&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;drone&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; corpsedragon &gt; Add_on_for_Modular_Wargaming_Ruins__magnetic_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-add_on_for_modular_wargaming_ruins__magnetic_-non-dl/</link><pubDate>Sat, 20 Mar 2021 19:52:12 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-add_on_for_modular_wargaming_ruins__magnetic_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-add_on_for_modular_wargaming_ruins__magnetic_-non-dl/thumbs_-_add-on-for-modular-wargaming-ruins-magnetic_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; corpsedragon &gt; Add_on_for_Modular_Wargaming_Ruins__magnetic_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-add_on_for_modular_wargaming_ruins__magnetic_-non-dl/thumbs_-_add-on-for-modular-wargaming-ruins-magnetic_-_Images_1.jpg"
+width="784"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="392"
+data-flex-basis="940px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-corpsedragon-add_on_for_modular_wargaming_ruins__magnetic_-non-dl/thumbs_-_add-on-for-modular-wargaming-ruins-magnetic_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/add-on-for-modular-wargaming-ruins-magnetic" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/add-on-for-modular-wargaming-ruins-magnetic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : add-on-for-modular-wargaming-ruins-magnetic&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic decors IMP Décors-statues&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic decors IMP Décors-statues NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is an addon to to ZDEANZO&amp;#39;s Modular Magnetic Ruins, kitbashed from other meshes I&amp;#39;ve found. (if any is yours, let me know and I&amp;#34;ll credit you) This includes new walls, buttresses, and statues.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;YOU WILL STILL NEED ZDEANZOS ORIGINAL SET
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/en/3d-model/game/modular-wargaming-ruins-magnetic
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;also note, I scaled everything up 5% so the magnets will fit. You may need to scale down.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

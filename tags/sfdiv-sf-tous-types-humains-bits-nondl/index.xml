@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SFDIV Sf-Tous-Types-Humains Bits NONDL on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/sfdiv-sf-tous-types-humains-bits-nondl/</link><description>Recent content in SFDIV Sf-Tous-Types-Humains Bits NONDL on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Wed, 29 Jan 2025 17:03:54 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/sfdiv-sf-tous-types-humains-bits-nondl/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; Chaor613 &gt; Trench_crusade_nautical_raider_power_armour [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-trench_crusade_nautical_raider_power_armour-non-dl/</link><pubDate>Wed, 29 Jan 2025 17:03:54 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-trench_crusade_nautical_raider_power_armour-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-trench_crusade_nautical_raider_power_armour-non-dl/thumbs_-_trench-crusade-nautical-raider-power-armour_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Chaor613 &gt; Trench_crusade_nautical_raider_power_armour [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-trench_crusade_nautical_raider_power_armour-non-dl/thumbs_-_trench-crusade-nautical-raider-power-armour_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-trench_crusade_nautical_raider_power_armour-non-dl/thumbs_-_trench-crusade-nautical-raider-power-armour_-_Makes_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/trench-crusade-nautical-raider-power-armour" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/trench-crusade-nautical-raider-power-armour&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : trench-crusade-nautical-raider-power-armour&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;speed&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt; &lt;span class="n"&gt;challenge&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;create&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;power&lt;/span&gt; &lt;span class="n"&gt;armour&lt;/span&gt; &lt;span class="n"&gt;inspired&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;recent&lt;/span&gt; &lt;span class="n"&gt;trench&lt;/span&gt; &lt;span class="n"&gt;crusade&lt;/span&gt; &lt;span class="n"&gt;image&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Contains&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt; &lt;span class="n"&gt;monopose&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;unique&lt;/span&gt; &lt;span class="n"&gt;loadout&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;pose&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; bonewolf24 &gt; Imperial_Contractors_Free_Sample [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-bonewolf24-imperial_contractors_free_sample-non-dl/</link><pubDate>Wed, 18 Sep 2024 20:22:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-bonewolf24-imperial_contractors_free_sample-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-bonewolf24-imperial_contractors_free_sample-non-dl/thumbs_-_6771335_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; bonewolf24 &gt; Imperial_Contractors_Free_Sample [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-bonewolf24-imperial_contractors_free_sample-non-dl/thumbs_-_6771335_-_Images_1.jpg"
+width="1360"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="680"
+data-flex-basis="1632px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6771335" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6771335&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6771335&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL SUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This is a free sample of my Imperial Contractors - Modular Wargaming Miniatures Kickstarter project. The parts are sculpted in 28mm heroic scale. Includes a selection of heads, bodies, legs, weapon arms, and accessories from the main Kickstarter.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;Justification du tag SUP :&lt;/p&gt;
+&lt;p&gt;These files are unsupported, though the final Kickstarter files will include supports. The Kickstarter is now live at: &lt;a class="link" href="https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures" target="_blank" rel="noopener"
+&gt;https://www.kickstarter.com/projects/errantminiatures/imperial-contractors-modular-wargaming-miniatures&lt;/a&gt;&lt;/p&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; ZekeM123 &gt; LEGO_Helldivers_Helmet [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-zekem123-lego_helldivers_helmet-non-dl/</link><pubDate>Tue, 26 Mar 2024 18:34:25 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-zekem123-lego_helldivers_helmet-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-zekem123-lego_helldivers_helmet-non-dl/thumbs_-_6550845_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; ZekeM123 &gt; LEGO_Helldivers_Helmet [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-zekem123-lego_helldivers_helmet-non-dl/thumbs_-_6550845_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:6550845" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:6550845&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6550845&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The classic helmet from Helldivers 2 in LEGO scale for LEGO minifigures
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Chaor613 &gt; Mech_pilot_powered_armour_prototypes__crimson_steel_faction_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-mech_pilot_powered_armour_prototypes__crimson_steel_faction_-non-dl/</link><pubDate>Thu, 17 Nov 2022 21:50:42 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-mech_pilot_powered_armour_prototypes__crimson_steel_faction_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-mech_pilot_powered_armour_prototypes__crimson_steel_faction_-non-dl/thumbs_-_mech-pilot-powered-armour-prototypes-crimson-steel-faction_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Chaor613 &gt; Mech_pilot_powered_armour_prototypes__crimson_steel_faction_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-mech_pilot_powered_armour_prototypes__crimson_steel_faction_-non-dl/thumbs_-_mech-pilot-powered-armour-prototypes-crimson-steel-faction_-_Images_1.jpg"
+width="712"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="356"
+data-flex-basis="854px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-chaor613-mech_pilot_powered_armour_prototypes__crimson_steel_faction_-non-dl/thumbs_-_mech-pilot-powered-armour-prototypes-crimson-steel-faction_-_Makes_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/mech-pilot-powered-armour-prototypes-crimson-steel-faction" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/mech-pilot-powered-armour-prototypes-crimson-steel-faction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : mech-pilot-powered-armour-prototypes-crimson-steel-faction&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Small kitbash of the nyx parts with a new torso to make some prototype proof of concept pilots for the hecate and thanatos. Only monopose because of this
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The 2 seated models will need to be digitally kitbashed into the mech torsos of your choice, included at both 32mm and 28mm scale. The mechs will need to be scaled to 115% for the 32mm scale pilots but is the recommended scale to do them at
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;2 on foot pilots
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;5 helmets compatible with the nyx helmets as well
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Getting to the point of making custom pilots with mechs was one of my main objectives when I started 3d modelling nearly 2 years ago now, so just thought I&amp;#39;d share these now I&amp;#39;ve finally met that goal :)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; Legoman71 &gt; Lego_Compatible_Halo_Helmets___Properly_scaled [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-legoman71-lego_compatible_halo_helmets___properly_scaled-non-dl/</link><pubDate>Sat, 02 Apr 2022 18:21:00 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-legoman71-lego_compatible_halo_helmets___properly_scaled-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-legoman71-lego_compatible_halo_helmets___properly_scaled-non-dl/thumbs_-_5338693_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; Legoman71 &gt; Lego_Compatible_Halo_Helmets___Properly_scaled [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-legoman71-lego_compatible_halo_helmets___properly_scaled-non-dl/thumbs_-_5338693_-_Images_1.jpg"
+width="2670"
+height="560"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="476"
+data-flex-basis="1144px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5338693" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5338693&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5338693&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Fully scaled for Printing. More fixed Parts packs on the way.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BREXIT &gt; Heroic_scale_heads_for_wargaming_miniatures_28mm [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-heroic_scale_heads_for_wargaming_miniatures_28mm-non-dl/</link><pubDate>Thu, 15 Nov 2018 10:01:48 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-heroic_scale_heads_for_wargaming_miniatures_28mm-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-heroic_scale_heads_for_wargaming_miniatures_28mm-non-dl/thumbs_-_3217411_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BREXIT &gt; Heroic_scale_heads_for_wargaming_miniatures_28mm [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-heroic_scale_heads_for_wargaming_miniatures_28mm-non-dl/thumbs_-_3217411_-_Images_1.jpg"
+width="3202"
+height="800"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-heroic_scale_heads_for_wargaming_miniatures_28mm-non-dl/thumbs_-_3217411_-_Makes_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3217411" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3217411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3217411&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;heads/faces to be used primarily for miniatures design/creation. i have made a decent sized selection of male and female faces with different expressions.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The number on the file correlates to the position of the head in the grid picture. 01 being top left and 32 being bottom right.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.patreon.com/themakerscult
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; BREXIT &gt; imperial_head_collection_1 [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-imperial_head_collection_1-non-dl/</link><pubDate>Sat, 27 Oct 2018 21:22:26 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-imperial_head_collection_1-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-imperial_head_collection_1-non-dl/thumbs_-_3180518_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; BREXIT &gt; imperial_head_collection_1 [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-brexit-imperial_head_collection_1-non-dl/thumbs_-_3180518_-_Images_1.jpg"
+width="3552"
+height="400"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="888"
+data-flex-basis="2131px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:3180518" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:3180518&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3180518&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm SFDIV HUMAINS Sf-tous-types-humains Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;10 different heads for the imperial guard.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;if you want the bodies i used in the renders, you can purchase them from my store below, they are great value for money considering the hundreds of hours I&amp;#39;ve put into them. A little support goes a long way. thank you.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.cgtrader.com/3d-print-models/miniatures/sci-fi/custom-guard-army-with-39-unique-poses-and-master-files
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://www.patreon.com/themakerscult
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

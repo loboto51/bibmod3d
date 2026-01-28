@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kal_Foxx on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/kal_foxx/</link><description>Recent content in Kal_Foxx on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 28 Jan 2020 20:27:04 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/kal_foxx/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; Kal_Foxx &gt; Titanstructure_Dark_future_10mm_scale_buildings_for_titanic_battles__Type_00_ [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kal_foxx-titanstructure_dark_future_10mm_scale_buildings_for_titanic_battles__type_00_-non-dl/</link><pubDate>Tue, 28 Jan 2020 20:27:04 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kal_foxx-titanstructure_dark_future_10mm_scale_buildings_for_titanic_battles__type_00_-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kal_foxx-titanstructure_dark_future_10mm_scale_buildings_for_titanic_battles__type_00_-non-dl/thumbs_-_titanstructure-dark-future-10mm-scale-buildings-for-titanic-battles-type-00_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Kal_Foxx &gt; Titanstructure_Dark_future_10mm_scale_buildings_for_titanic_battles__Type_00_ [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-kal_foxx-titanstructure_dark_future_10mm_scale_buildings_for_titanic_battles__type_00_-non-dl/thumbs_-_titanstructure-dark-future-10mm-scale-buildings-for-titanic-battles-type-00_-_Images_1.jpg"
+width="808"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="404"
+data-flex-basis="969px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/titanstructure-dark-future-10mm-scale-buildings-for-titanic-battles-type-00" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/titanstructure-dark-future-10mm-scale-buildings-for-titanic-battles-type-00&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : titanstructure-dark-future-10mm-scale-buildings-for-titanic-battles-type-00&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic decors IMP Batiments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic decors IMP Batiments NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Dark&lt;/span&gt; &lt;span class="n"&gt;future&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="n"&gt;mm&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt; &lt;span class="n"&gt;type&lt;/span&gt; &lt;span class="mf"&gt;00.&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;broken&lt;/span&gt; &lt;span class="n"&gt;up&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;storys&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;allow&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;buildings&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;varying&lt;/span&gt; &lt;span class="n"&gt;heights&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;It&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;intended&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;sample&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;larger&lt;/span&gt; &lt;span class="n"&gt;ones&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;will&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;available&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;purchase&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Additional&lt;/span&gt; &lt;span class="n"&gt;floors&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;printed&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;increase&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;height&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Note&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;rd&lt;/span&gt; &lt;span class="n"&gt;picture&lt;/span&gt; &lt;span class="n"&gt;shows&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt; &lt;span class="n"&gt;against&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;larger&lt;/span&gt; &lt;span class="n"&gt;structures&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="ow"&gt;not&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;download&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

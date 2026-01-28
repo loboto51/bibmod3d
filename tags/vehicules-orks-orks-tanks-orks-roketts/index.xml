@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Vehicules ORKS Orks-Tanks Orks-Roketts on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/vehicules-orks-orks-tanks-orks-roketts/</link><description>Recent content in Vehicules ORKS Orks-Tanks Orks-Roketts on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Thu, 31 Oct 2024 05:50:02 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/vehicules-orks-orks-tanks-orks-roketts/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; Udos3DWorld &gt; 3000P_Scrap_Metal_Army_for_Grimdark_Future [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-udos3dworld-3000p_scrap_metal_army_for_grimdark_future-non-dl/</link><pubDate>Thu, 31 Oct 2024 05:50:02 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-udos3dworld-3000p_scrap_metal_army_for_grimdark_future-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-udos3dworld-3000p_scrap_metal_army_for_grimdark_future-non-dl/thumbs_-_3000p-scrap-metal-army-for-grimdark-future_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Udos3DWorld &gt; 3000P_Scrap_Metal_Army_for_Grimdark_Future [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-udos3dworld-3000p_scrap_metal_army_for_grimdark_future-non-dl/thumbs_-_3000p-scrap-metal-army-for-grimdark-future_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/3000p-scrap-metal-army-for-grimdark-future" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/3000p-scrap-metal-army-for-grimdark-future&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 3000p-scrap-metal-army-for-grimdark-future&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds ORKS Orks-forteresses&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Lance-flammes&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic superlourds ORKS Orks-forteresses NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Lance-flammes NONDL NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Happy&lt;/span&gt; &lt;span class="n"&gt;Orktober&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt; &lt;span class="n"&gt;This&lt;/span&gt; &lt;span class="n"&gt;final&lt;/span&gt; &lt;span class="n"&gt;Orktober&lt;/span&gt; &lt;span class="n"&gt;release&lt;/span&gt; &lt;span class="n"&gt;combines&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;previous&lt;/span&gt; &lt;span class="n"&gt;releases&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;big&lt;/span&gt; &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;paint&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;play&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;grimdark&lt;/span&gt; &lt;span class="n"&gt;future&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="mi"&gt;3000&lt;/span&gt; &lt;span class="n"&gt;Points&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;pure&lt;/span&gt; &lt;span class="n"&gt;metal&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;models&lt;/span&gt; &lt;span class="n"&gt;having&lt;/span&gt; &lt;span class="n"&gt;tough&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;high&lt;/span&gt; &lt;span class="n"&gt;defense&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="n"&gt;your&lt;/span&gt; &lt;span class="n"&gt;enemy&lt;/span&gt; &lt;span class="n"&gt;doesn&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t have that much deadly or armor penetration, you&amp;#39;&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt; &lt;span class="n"&gt;probably&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;good&lt;/span&gt; &lt;span class="n"&gt;time&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;once&lt;/span&gt; &lt;span class="n"&gt;played&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt; &lt;span class="n"&gt;online&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;wargaming&lt;/span&gt; &lt;span class="n"&gt;simulator&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;udos3dworld&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;WargamingSimulator&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;against&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;lust&lt;/span&gt; &lt;span class="n"&gt;daemons&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;seriously&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;was&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;massacre&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;opponent&lt;/span&gt; &lt;span class="n"&gt;resigned&lt;/span&gt; &lt;span class="n"&gt;after&lt;/span&gt; &lt;span class="nb"&gt;round&lt;/span&gt; &lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;included&lt;/span&gt; &lt;span class="n"&gt;all&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;assets&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;need&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;play&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;army&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;so&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;could&lt;/span&gt; &lt;span class="n"&gt;just&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="s2"&gt;&amp;#34;Upload Whole Army&amp;#34;&lt;/span&gt; &lt;span class="n"&gt;feature&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;everything&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;battlefield&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; raeumler &gt; Tiny_Ork_Rocket_Expansion_6_8mm [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-raeumler-tiny_ork_rocket_expansion_6_8mm-dl/</link><pubDate>Tue, 05 Mar 2024 08:31:42 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-raeumler-tiny_ork_rocket_expansion_6_8mm-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-raeumler-tiny_ork_rocket_expansion_6_8mm-dl/thumbs_-_tiny-ork-rocket-expansion_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; raeumler &gt; Tiny_Ork_Rocket_Expansion_6_8mm [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-raeumler-tiny_ork_rocket_expansion_6_8mm-dl/thumbs_-_tiny-ork-rocket-expansion_-_Images_1.jpg"
+width="288"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="144"
+data-flex-basis="345px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-raeumler-tiny_ork_rocket_expansion_6_8mm-dl/thumbs_-_tiny-ork-rocket-expansion_-_ImagesSTL_1.jpg"
+width="248"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="124"
+data-flex-basis="297px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/tiny-ork-rocket-expansion" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/tiny-ork-rocket-expansion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : tiny-ork-rocket-expansion&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;span class="lnt"&gt;13
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;i managed to put 28mm Rocket Expansion together in epic scale. the parts are from MORTIMERGRAVES&amp;#39;s Rocket Expansion kit.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;you can find it here:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;https://cults3d.com/de/benutzer/MortimerGraves/
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;the model is a bit bigger than original epic scale
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Thingiverse &gt; FuegoCruzado &gt; Epic_Ork_Mekwagons [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fuegocruzado-epic_ork_mekwagons-dl/</link><pubDate>Tue, 23 Jan 2018 19:36:54 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fuegocruzado-epic_ork_mekwagons-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fuegocruzado-epic_ork_mekwagons-dl/thumbs_-_2765979_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; FuegoCruzado &gt; Epic_Ork_Mekwagons [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fuegocruzado-epic_ork_mekwagons-dl/thumbs_-_2765979_-_Images_1.jpg"
+width="1680"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="840"
+data-flex-basis="2016px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-fuegocruzado-epic_ork_mekwagons-dl/thumbs_-_2765979_-_ImagesSTL_1.jpg"
+width="480"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="240"
+data-flex-basis="576px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:2765979" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:2765979&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 2765979&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ORKS Orks-tanks Orks-roketts NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Epic Ork Mekwagons, 6mm
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

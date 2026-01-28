@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Epic SMI Builders NONDL on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/epic-smi-builders-nondl/</link><description>Recent content in Epic SMI Builders NONDL on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sat, 15 Jul 2023 00:44:03 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/epic-smi-builders-nondl/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; Posh_Tim &gt; 6_8mm_Walking_Tomb_Builder [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-posh_tim-6_8mm_walking_tomb_builder-non-dl/</link><pubDate>Sat, 15 Jul 2023 00:44:03 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-posh_tim-6_8mm_walking_tomb_builder-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-posh_tim-6_8mm_walking_tomb_builder-non-dl/thumbs_-_6-8mm-walking-tomb-builder_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Posh_Tim &gt; 6_8mm_Walking_Tomb_Builder [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-posh_tim-6_8mm_walking_tomb_builder-non-dl/thumbs_-_6-8mm-walking-tomb-builder_-_Images_1.jpg"
+width="680"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="340"
+data-flex-basis="816px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/6-8mm-walking-tomb-builder" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/6-8mm-walking-tomb-builder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 6-8mm-walking-tomb-builder&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;my&lt;/span&gt; &lt;span class="n"&gt;use&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;figured&lt;/span&gt; &lt;span class="n"&gt;others&lt;/span&gt; &lt;span class="n"&gt;might&lt;/span&gt; &lt;span class="n"&gt;find&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;useful&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;In&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;style&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;Kill&lt;/span&gt; &lt;span class="n"&gt;Me&lt;/span&gt; &lt;span class="n"&gt;For&lt;/span&gt; &lt;span class="n"&gt;Prizes&lt;/span&gt; &lt;span class="n"&gt;armour&lt;/span&gt; &lt;span class="n"&gt;builders&lt;/span&gt; &lt;span class="n"&gt;here&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;MildSevens&lt;/span&gt; &lt;span class="n"&gt;tiny&lt;/span&gt; &lt;span class="n"&gt;tombs&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Now&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;have&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;dynamic&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;little&lt;/span&gt; &lt;span class="n"&gt;tomb&lt;/span&gt; &lt;span class="n"&gt;mech&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;you&lt;/span&gt; &lt;span class="n"&gt;could&lt;/span&gt; &lt;span class="n"&gt;want&lt;/span&gt;&lt;span class="o"&gt;!&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;may&lt;/span&gt; &lt;span class="n"&gt;try&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;update&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;build&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;bits&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;unique&lt;/span&gt; &lt;span class="n"&gt;variants&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;As&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;there&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;bonus&lt;/span&gt; &lt;span class="n"&gt;Chainfist&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Plasma&lt;/span&gt; &lt;span class="n"&gt;hand&lt;/span&gt; &lt;span class="n"&gt;gun&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;start&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;All&lt;/span&gt; &lt;span class="n"&gt;credit&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;Mildseven&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;his&lt;/span&gt; &lt;span class="n"&gt;Walking&lt;/span&gt; &lt;span class="n"&gt;Tombs&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Hammagg &gt; Closed_Book_with_Skulls [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-hammagg-closed_book_with_skulls-non-dl/</link><pubDate>Thu, 23 Feb 2023 02:17:51 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-hammagg-closed_book_with_skulls-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-hammagg-closed_book_with_skulls-non-dl/thumbs_-_closed-book-with-skulls_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Hammagg &gt; Closed_Book_with_Skulls [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-hammagg-closed_book_with_skulls-non-dl/thumbs_-_closed-book-with-skulls_-_Images_1.jpg"
+width="360"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="180"
+data-flex-basis="432px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/closed-book-with-skulls" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/closed-book-with-skulls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : closed-book-with-skulls&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A book that is closed with skulls on the back, and the cover. Designed for a chaplain, usable with Libarian, Spellcaster etc! Everyone likes to read.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;** low poly version, will add texture to this and two more in the set. **
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; Bum_Fluff &gt; SVG_files_for_Battletech_knock_offs [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-bum_fluff-svg_files_for_battletech_knock_offs-non-dl/</link><pubDate>Wed, 04 Aug 2021 23:08:37 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-bum_fluff-svg_files_for_battletech_knock_offs-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-bum_fluff-svg_files_for_battletech_knock_offs-non-dl/thumbs_-_svg-files-for-battletech-knock-offs_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; Bum_Fluff &gt; SVG_files_for_Battletech_knock_offs [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-bum_fluff-svg_files_for_battletech_knock_offs-non-dl/thumbs_-_svg-files-for-battletech-knock-offs_-_Images_1.jpg"
+width="216"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="108"
+data-flex-basis="259px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/svg-files-for-battletech-knock-offs" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/svg-files-for-battletech-knock-offs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : svg-files-for-battletech-knock-offs&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic SMI Bits Builders NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;A particularly excellent source of Warhammer SVG files recently removed their designs.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I recovered what i could and share them here for prosperity.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;bakadesigns.dk
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

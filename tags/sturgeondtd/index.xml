@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sturgeondtd on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/sturgeondtd/</link><description>Recent content in Sturgeondtd on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Sun, 22 Jun 2025 16:54:41 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/sturgeondtd/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; sturgeondtd &gt; Storm_Crane [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-storm_crane-non-dl/</link><pubDate>Sun, 22 Jun 2025 16:54:41 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-storm_crane-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-storm_crane-non-dl/thumbs_-_storm-crane-sturgeondtd_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sturgeondtd &gt; Storm_Crane [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-storm_crane-non-dl/thumbs_-_storm-crane-sturgeondtd_-_Images_1.jpg"
+width="784"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="392"
+data-flex-basis="940px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/storm-crane-sturgeondtd" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/storm-crane-sturgeondtd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : storm-crane-sturgeondtd&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants SMI Sm-barges-de-débarquement&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic volants SMI Sm-barges-de-débarquement NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;span class="lnt"&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;My&lt;/span&gt; &lt;span class="n"&gt;own&lt;/span&gt; &lt;span class="n"&gt;take&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;Super&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;aerial&lt;/span&gt; &lt;span class="n"&gt;transport&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;Space&lt;/span&gt; &lt;span class="n"&gt;Marines&lt;/span&gt; &lt;span class="n"&gt;dubbed&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Storm&lt;/span&gt; &lt;span class="n"&gt;Crane&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Sized&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Epic&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Legion&lt;/span&gt; &lt;span class="n"&gt;Imperialis&lt;/span&gt; &lt;span class="n"&gt;games&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Unique&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;role&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Storm&lt;/span&gt; &lt;span class="n"&gt;Cranes&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;able&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;deliver&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;variety&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;assets&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;front&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;From&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt; &lt;span class="n"&gt;fully&lt;/span&gt; &lt;span class="n"&gt;embarked&lt;/span&gt; &lt;span class="n"&gt;rhinos&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="mi"&gt;4&lt;/span&gt; &lt;span class="n"&gt;kratos&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;battle&lt;/span&gt; &lt;span class="n"&gt;tanks&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="n"&gt;other&lt;/span&gt; &lt;span class="n"&gt;armored&lt;/span&gt; &lt;span class="n"&gt;detachment&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Storm&lt;/span&gt; &lt;span class="n"&gt;Cranes&lt;/span&gt; &lt;span class="n"&gt;are&lt;/span&gt; &lt;span class="n"&gt;able&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;bring&lt;/span&gt; &lt;span class="n"&gt;full&lt;/span&gt; &lt;span class="n"&gt;detachments&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;armor&lt;/span&gt; &lt;span class="n"&gt;needed&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;battle&lt;/span&gt; &lt;span class="n"&gt;field&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Protected&lt;/span&gt; &lt;span class="n"&gt;by&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;plating&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;pair&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;void&lt;/span&gt; &lt;span class="n"&gt;shields&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;flyer&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;withstand&lt;/span&gt; &lt;span class="n"&gt;any&lt;/span&gt; &lt;span class="n"&gt;punishment&lt;/span&gt; &lt;span class="n"&gt;short&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;anti&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;titan&lt;/span&gt; &lt;span class="n"&gt;weapons&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Ensuring&lt;/span&gt; &lt;span class="n"&gt;its&lt;/span&gt; &lt;span class="n"&gt;cargo&lt;/span&gt; &lt;span class="n"&gt;successfully&lt;/span&gt; &lt;span class="n"&gt;arrives&lt;/span&gt; &lt;span class="n"&gt;where&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;needed&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;Each&lt;/span&gt; &lt;span class="n"&gt;Strom&lt;/span&gt; &lt;span class="n"&gt;Crane&lt;/span&gt; &lt;span class="n"&gt;is&lt;/span&gt; &lt;span class="n"&gt;armed&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;audax&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;bolter&lt;/span&gt; &lt;span class="n"&gt;arrays&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;two&lt;/span&gt; &lt;span class="n"&gt;titan&lt;/span&gt; &lt;span class="n"&gt;sized&lt;/span&gt; &lt;span class="n"&gt;havoc&lt;/span&gt; &lt;span class="n"&gt;launchers&lt;/span&gt; &lt;span class="n"&gt;making&lt;/span&gt; &lt;span class="n"&gt;it&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;formidable&lt;/span&gt; &lt;span class="n"&gt;assault&lt;/span&gt; &lt;span class="n"&gt;craft&lt;/span&gt; &lt;span class="n"&gt;that&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="k"&gt;break&lt;/span&gt; &lt;span class="n"&gt;through&lt;/span&gt; &lt;span class="n"&gt;enemy&lt;/span&gt; &lt;span class="n"&gt;lines&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="n"&gt;A&lt;/span&gt; &lt;span class="n"&gt;truly&lt;/span&gt; &lt;span class="n"&gt;armored&lt;/span&gt; &lt;span class="n"&gt;work&lt;/span&gt; &lt;span class="n"&gt;horse&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;Space&lt;/span&gt; &lt;span class="n"&gt;Marine&lt;/span&gt; &lt;span class="n"&gt;legions&lt;/span&gt; &lt;span class="n"&gt;relied&lt;/span&gt; &lt;span class="n"&gt;heavily&lt;/span&gt; &lt;span class="n"&gt;on&lt;/span&gt; &lt;span class="n"&gt;these&lt;/span&gt; &lt;span class="n"&gt;vehicles&lt;/span&gt; &lt;span class="n"&gt;throughout&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;crusade&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;into&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Heresy&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;While&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;designed&lt;/span&gt; &lt;span class="n"&gt;most&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;this&lt;/span&gt; &lt;span class="n"&gt;using&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="n"&gt;Builder&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;did&lt;/span&gt; &lt;span class="n"&gt;borrow&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;choice&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;free&lt;/span&gt; &lt;span class="n"&gt;kits&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Winglets&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Audax&lt;/span&gt; &lt;span class="n"&gt;Turrets&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;MKHand&lt;/span&gt; &lt;span class="n"&gt;Industries&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Thruster&lt;/span&gt; &lt;span class="n"&gt;Turbine&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Exhaust&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;IronMaster&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Titan&lt;/span&gt; &lt;span class="n"&gt;Hatch&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Void&lt;/span&gt; &lt;span class="n"&gt;Shields&lt;/span&gt; &lt;span class="n"&gt;from&lt;/span&gt; &lt;span class="n"&gt;Danny_Cyanide&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sturgeondtd &gt; Small_Double_Barrel_w_Cheese [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_double_barrel_w_cheese-non-dl/</link><pubDate>Tue, 29 Apr 2025 22:28:34 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_double_barrel_w_cheese-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_double_barrel_w_cheese-non-dl/thumbs_-_small-double-barrel-w-cheese_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sturgeondtd &gt; Small_Double_Barrel_w_Cheese [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_double_barrel_w_cheese-non-dl/thumbs_-_small-double-barrel-w-cheese_-_Images_1.jpg"
+width="704"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="352"
+data-flex-basis="844px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/small-double-barrel-w-cheese" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/small-double-barrel-w-cheese&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : small-double-barrel-w-cheese&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules SMI Kratos NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Double barrel kratos battle cannon turret digibashed from Woddish&amp;#39;s design
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sturgeondtd &gt; Small_Launchers_for_Small_Terminators [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_launchers_for_small_terminators-non-dl/</link><pubDate>Fri, 25 Apr 2025 02:17:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_launchers_for_small_terminators-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_launchers_for_small_terminators-non-dl/thumbs_-_small-launchers-for-small-terminators_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sturgeondtd &gt; Small_Launchers_for_Small_Terminators [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sturgeondtd-small_launchers_for_small_terminators-non-dl/thumbs_-_small-launchers-for-small-terminators_-_Images_1.jpg"
+width="584"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="292"
+data-flex-basis="700px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/small-launchers-for-small-terminators" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/small-launchers-for-small-terminators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : small-launchers-for-small-terminators&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-Terminators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic infanterie SMI Sm-Terminators NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Nothing special but it prints well and is free
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

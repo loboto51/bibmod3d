@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eldars-Vypers on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/eldars-vypers/</link><description>Recent content in Eldars-Vypers on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Mon, 10 Jan 2022 02:07:45 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/eldars-vypers/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Thingiverse &gt; TheZomby &gt; OSD_Big_Bike [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-thezomby-osd_big_bike-dl/</link><pubDate>Mon, 10 Jan 2022 02:07:45 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-thezomby-osd_big_bike-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-thezomby-osd_big_bike-dl/thumbs_-_5194145_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Thingiverse &gt; TheZomby &gt; OSD_Big_Bike [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-thezomby-osd_big_bike-dl/thumbs_-_5194145_-_Images_1.jpg"
+width="272"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="136"
+data-flex-basis="326px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-thingiverse-thezomby-osd_big_bike-dl/thumbs_-_5194145_-_ImagesSTL_1.jpg"
+width="765"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="382"
+data-flex-basis="918px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://www.thingiverse.com/thing:5194145" target="_blank" rel="noopener"
+&gt;https://www.thingiverse.com/thing:5194145&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : 5194145&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Old&lt;/span&gt; &lt;span class="n"&gt;Space&lt;/span&gt; &lt;span class="n"&gt;Dweller&lt;/span&gt; &lt;span class="n"&gt;Big&lt;/span&gt; &lt;span class="n"&gt;Bike&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Another&lt;/span&gt; &lt;span class="n"&gt;Remix&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;I&lt;/span&gt; &lt;span class="n"&gt;mostly&lt;/span&gt; &lt;span class="n"&gt;fixed&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;cavity&lt;/span&gt; &lt;span class="n"&gt;inside&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;model&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;canopy&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;changed&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;gun&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;one&lt;/span&gt; &lt;span class="n"&gt;appropriate&lt;/span&gt; &lt;span class="n"&gt;with&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;rules&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;made&lt;/span&gt; &lt;span class="n"&gt;some&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;stronger&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;added&lt;/span&gt; &lt;span class="n"&gt;bits&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;reduce&lt;/span&gt; &lt;span class="n"&gt;number&lt;/span&gt; &lt;span class="n"&gt;of&lt;/span&gt; &lt;span class="n"&gt;support&lt;/span&gt; &lt;span class="n"&gt;necessary&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Don&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;t donwload the cube.&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; dougalmeatshanks &gt; Elderly_Wyper [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dougalmeatshanks-elderly_wyper-dl/</link><pubDate>Thu, 06 Jan 2022 02:16:08 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dougalmeatshanks-elderly_wyper-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dougalmeatshanks-elderly_wyper-dl/thumbs_-_elderly-wyper_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; dougalmeatshanks &gt; Elderly_Wyper [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dougalmeatshanks-elderly_wyper-dl/thumbs_-_elderly-wyper_-_Images_1.jpg"
+width="344"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="172"
+data-flex-basis="412px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-dougalmeatshanks-elderly_wyper-dl/thumbs_-_elderly-wyper_-_ImagesSTL_1.jpg"
+width="224"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="112"
+data-flex-basis="268px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/elderly-wyper" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/elderly-wyper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : elderly-wyper&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Original and kitbashed. designed to be sleeker and more automated.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; ildhat &gt; Klown_Kar [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ildhat-klown_kar-dl/</link><pubDate>Thu, 19 Nov 2020 22:32:17 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ildhat-klown_kar-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ildhat-klown_kar-dl/thumbs_-_clown-car_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; ildhat &gt; Klown_Kar [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ildhat-klown_kar-dl/thumbs_-_clown-car_-_Images_1.jpg"
+width="256"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="128"
+data-flex-basis="307px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-ildhat-klown_kar-dl/thumbs_-_clown-car_-_ImagesSTL_1.jpg"
+width="600"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="300"
+data-flex-basis="720px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/clown-car" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/clown-car&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : clown-car&lt;/p&gt;
+&lt;p&gt;Prix : 0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ARL Eldars-vypers&lt;/li&gt;
+&lt;li&gt;epic vehicules EN Eldars-vypers&lt;/li&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic vehicules ARL Eldars-vypers NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules EN Eldars-vypers NONSUP&lt;/li&gt;
+&lt;li&gt;epic vehicules VM Eldars-vypers NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Just a car for some death clowns.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Scale up by 200%
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Remixes aren&amp;#39;t working, so credit to schlossbauer, kesdal, jimjimjimmyjim, edward3h, and another, who I can&amp;#39;t find because the model was DMCA&amp;#39;d
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Enjoy, &amp;gt;^..^&amp;lt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>

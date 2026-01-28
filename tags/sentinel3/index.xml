@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sentinel3 on Bibmod</title><link>https://loboto51.github.io/bibmod3d/tags/sentinel3/</link><description>Recent content in Sentinel3 on Bibmod</description><generator>Hugo -- gohugo.io</generator><language>fr-FR</language><lastBuildDate>Tue, 28 Nov 2023 21:22:23 +0000</lastBuildDate><atom:link href="https://loboto51.github.io/bibmod3d/tags/sentinel3/index.xml" rel="self" type="application/rss+xml"/><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; HEAVY_PULSE_LASER_TURRET [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-heavy_pulse_laser_turret-non-dl/</link><pubDate>Tue, 28 Nov 2023 21:22:23 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-heavy_pulse_laser_turret-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-heavy_pulse_laser_turret-non-dl/thumbs_-_heavy-pulse-laser-turret_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; HEAVY_PULSE_LASER_TURRET [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-heavy_pulse_laser_turret-non-dl/thumbs_-_heavy-pulse-laser-turret_-_Images_1.jpg"
+width="800"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="400"
+data-flex-basis="960px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-heavy_pulse_laser_turret-non-dl/thumbs_-_heavy-pulse-laser-turret_-_Makes_1.jpg"
+width="96"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="48"
+data-flex-basis="115px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/heavy-pulse-laser-turret" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/heavy-pulse-laser-turret&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : heavy-pulse-laser-turret&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt; 1
+&lt;/span&gt;&lt;span class="lnt"&gt; 2
+&lt;/span&gt;&lt;span class="lnt"&gt; 3
+&lt;/span&gt;&lt;span class="lnt"&gt; 4
+&lt;/span&gt;&lt;span class="lnt"&gt; 5
+&lt;/span&gt;&lt;span class="lnt"&gt; 6
+&lt;/span&gt;&lt;span class="lnt"&gt; 7
+&lt;/span&gt;&lt;span class="lnt"&gt; 8
+&lt;/span&gt;&lt;span class="lnt"&gt; 9
+&lt;/span&gt;&lt;span class="lnt"&gt;10
+&lt;/span&gt;&lt;span class="lnt"&gt;11
+&lt;/span&gt;&lt;span class="lnt"&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Some&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;pulse&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;turret&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;used&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;terrain&lt;/span&gt; &lt;span class="n"&gt;building&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="ow"&gt;or&lt;/span&gt; &lt;span class="n"&gt;equipping&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="n"&gt;superheavy&lt;/span&gt; &lt;span class="n"&gt;flyer&lt;/span&gt; &lt;span class="p"&gt;;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;bundle&lt;/span&gt; &lt;span class="n"&gt;contains&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Heavy&lt;/span&gt; &lt;span class="n"&gt;pulse&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Base&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;The&lt;/span&gt; &lt;span class="n"&gt;heavy&lt;/span&gt; &lt;span class="n"&gt;pulse&lt;/span&gt; &lt;span class="n"&gt;laser&lt;/span&gt; &lt;span class="n"&gt;barrels&lt;/span&gt; &lt;span class="n"&gt;exist&lt;/span&gt; &lt;span class="n"&gt;as&lt;/span&gt; &lt;span class="n"&gt;complete&lt;/span&gt; &lt;span class="ow"&gt;and&lt;/span&gt; &lt;span class="n"&gt;split&lt;/span&gt; &lt;span class="n"&gt;versions&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;each&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;small&lt;/span&gt; &lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;printers&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="n"&gt;Hint&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;Splitted&lt;/span&gt; &lt;span class="n"&gt;version&lt;/span&gt; &lt;span class="n"&gt;parts&lt;/span&gt; &lt;span class="n"&gt;can&lt;/span&gt; &lt;span class="n"&gt;be&lt;/span&gt; &lt;span class="n"&gt;combined&lt;/span&gt; &lt;span class="n"&gt;to&lt;/span&gt; &lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;more&lt;/span&gt; &lt;span class="n"&gt;variations&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_pilots [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_pilots-dl/</link><pubDate>Fri, 05 May 2023 15:11:52 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_pilots-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_pilots-dl/thumbs_-_space-elf-pilots_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_pilots [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_pilots-dl/thumbs_-_space-elf-pilots_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_pilots-dl/thumbs_-_space-elf-pilots_-_ImagesSTL_1.jpg"
+width="536"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="268"
+data-flex-basis="643px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-elf-pilots" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-elf-pilots&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-elf-pilots&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;span class="lnt"&gt;6
+&lt;/span&gt;&lt;span class="lnt"&gt;7
+&lt;/span&gt;&lt;span class="lnt"&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I bought some 2nd hand space elf tanks just to find out later I was missing the pilots. I made some custom ones
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The bundle contains:
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Pilot torso with bald head
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Pilot torso with hairy head
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Arms with cockpit display
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;30.07.2025 Not the correct pilots? Maybe Compound has you covered :) For example https://cults3d.com/en/3d-model/game/space-elf-pilot-helmet-and-bodies-c27c8e6a029fb494836d
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_solar_cannon [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_solar_cannon-non-dl/</link><pubDate>Sat, 22 Apr 2023 12:57:32 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_solar_cannon-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_solar_cannon-non-dl/thumbs_-_space-elf-solar-cannon_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_solar_cannon [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_solar_cannon-non-dl/thumbs_-_space-elf-solar-cannon_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-elf-solar-cannon" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-elf-solar-cannon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-elf-solar-cannon&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;For all you folks whose family pet chewed away the knightly wraith´s main weapon.
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Helmets_with_crest [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-helmets_with_crest-dl/</link><pubDate>Thu, 06 Apr 2023 07:36:57 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-helmets_with_crest-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-helmets_with_crest-dl/thumbs_-_helmets-with-crest_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Helmets_with_crest [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-helmets_with_crest-dl/thumbs_-_helmets-with-crest_-_Images_1.jpg"
+width="200"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="100"
+data-flex-basis="240px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-helmets_with_crest-dl/thumbs_-_helmets-with-crest_-_ImagesSTL_1.jpg"
+width="552"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="276"
+data-flex-basis="662px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/tool/helmets-with-crest" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/tool/helmets-with-crest&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : helmets-with-crest&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Some helmets with crest. Just in case you have some headless dudes resting in your bitbox... like me ;-)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_arms_with_enhanced_star_slingers [dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_arms_with_enhanced_star_slingers-dl/</link><pubDate>Sun, 15 Jan 2023 21:54:18 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_arms_with_enhanced_star_slingers-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_arms_with_enhanced_star_slingers-dl/thumbs_-_space-elf-arms-with-enhanced-star-slingers-sentinel3_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Space_elf_arms_with_enhanced_star_slingers [dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_arms_with_enhanced_star_slingers-dl/thumbs_-_space-elf-arms-with-enhanced-star-slingers-sentinel3_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-space_elf_arms_with_enhanced_star_slingers-dl/thumbs_-_space-elf-arms-with-enhanced-star-slingers-sentinel3_-_ImagesSTL_1.jpg"
+width="1248"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="624"
+data-flex-basis="1497px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/space-elf-arms-with-enhanced-star-slingers-sentinel3" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/space-elf-arms-with-enhanced-star-slingers-sentinel3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : space-elf-arms-with-enhanced-star-slingers-sentinel3&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;28mm ELDARS VM NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;I needed some space elf arm bits with enhanced star slingers
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;17.01.2023 added one right arm without weapon (Hand holding grip only)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Customized_sonic_weapon [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_sonic_weapon-non-dl/</link><pubDate>Wed, 11 Jan 2023 22:07:54 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_sonic_weapon-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_sonic_weapon-non-dl/thumbs_-_customized-sonic-weapon-sentinel3_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Customized_sonic_weapon [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_sonic_weapon-non-dl/thumbs_-_customized-sonic-weapon-sentinel3_-_Images_1.jpg"
+width="400"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="200"
+data-flex-basis="480px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/customized-sonic-weapon-sentinel3" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/customized-sonic-weapon-sentinel3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : customized-sonic-weapon-sentinel3&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;Customized sonic weapon for the Lynx type space elf tank
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Complete and split versions (2 parts, for small 3d-printers)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 5mm round holes for easy magnetizing
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>[GRATUIT] Cults3d &gt; sentinel3 &gt; Customized_pulse_lasers_for_superheavy_space_elf_tank [non dl]</title><link>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_pulse_lasers_for_superheavy_space_elf_tank-non-dl/</link><pubDate>Tue, 03 Jan 2023 21:58:25 +0000</pubDate><guid>https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_pulse_lasers_for_superheavy_space_elf_tank-non-dl/</guid><description>&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_pulse_lasers_for_superheavy_space_elf_tank-non-dl/thumbs_-_customized-pulse-lasers-for-superheavy-space-elf-tank_-_Images_1.jpg" alt="Featured image of post [GRATUIT] Cults3d &gt; sentinel3 &gt; Customized_pulse_lasers_for_superheavy_space_elf_tank [non dl]" /&gt;&lt;p&gt;&lt;img src="https://loboto51.github.io/bibmod3d/p/gratuit-cults3d-sentinel3-customized_pulse_lasers_for_superheavy_space_elf_tank-non-dl/thumbs_-_customized-pulse-lasers-for-superheavy-space-elf-tank_-_Images_1.jpg"
+width="704"
+height="200"
+loading="lazy"
+class="gallery-image"
+data-flex-grow="352"
+data-flex-basis="844px"
+&gt;&lt;/p&gt;
+&lt;p&gt;Source : &lt;a class="link" href="https://cults3d.com/en/3d-model/game/customized-pulse-lasers-for-superheavy-space-elf-tank" target="_blank" rel="noopener"
+&gt;https://cults3d.com/en/3d-model/game/customized-pulse-lasers-for-superheavy-space-elf-tank&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Id objet : customized-pulse-lasers-for-superheavy-space-elf-tank&lt;/p&gt;
+&lt;p&gt;Prix : 0.0 euros&lt;/p&gt;
+&lt;p&gt;Collections :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Collections pour tags :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;epic chevaliers titans EN EXO VM Bits NONDL NONSUP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Description :&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;div class="chroma"&gt;
+&lt;table class="lntable"&gt;&lt;tr&gt;&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code&gt;&lt;span class="lnt"&gt;1
+&lt;/span&gt;&lt;span class="lnt"&gt;2
+&lt;/span&gt;&lt;span class="lnt"&gt;3
+&lt;/span&gt;&lt;span class="lnt"&gt;4
+&lt;/span&gt;&lt;span class="lnt"&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class="lntd"&gt;
+&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;The barrels of my superheavy space elf tanks were bent beyond repair, so I created these for replacement.
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;This bundle contains two barrels types (Lynx / Scorpion) :
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- Complete and split versions (3 parts, for small 3d-printers)
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;- 5mm round holes for easy magnetizing
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
