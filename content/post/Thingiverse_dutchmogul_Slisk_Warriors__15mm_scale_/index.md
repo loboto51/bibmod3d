@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > dutchmogul > Slisk_Headhunters__15mm_scale_ [non dl]"
-date: "2016-07-21T19:06:08+00:00"
+title: "[GRATUIT] Thingiverse > dutchmogul > Slisk_Warriors__15mm_scale_ [non dl]"
+date: "2016-07-21T18:53:39+00:00"
 toc: true
-image: "thumbs_-_1684190_-_Images_1.jpg"
+image: "thumbs_-_1684168_-_Images_1.jpg"
 tags:
 - "dutchmogul"
 - "15mm"
@@ -394,15 +394,13 @@ tags:
 
 ---
 
-![](<thumbs_-_1684190_-_Images_1.jpg> "thumbs_-_1684190_-_Images_1.jpg")
-
-  ![](<thumbs_-_1684190_-_Makes_1.jpg> "thumbs_-_1684190_-_Makes_1.jpg")
+![](<thumbs_-_1684168_-_Images_1.jpg> "thumbs_-_1684168_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:1684190](https://www.thingiverse.com/thing:1684190)
+Source : [https://www.thingiverse.com/thing:1684168](https://www.thingiverse.com/thing:1684168)
 
-Id objet : 1684190
+Id objet : 1684168
 
 Prix : 0 euros
 

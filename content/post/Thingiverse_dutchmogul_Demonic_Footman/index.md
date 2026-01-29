@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > dutchmogul > Slisk_Headhunters__15mm_scale_ [non dl]"
-date: "2016-07-21T19:06:08+00:00"
+title: "[GRATUIT] Thingiverse > dutchmogul > Demonic_Footman [non dl]"
+date: "2020-05-18T03:19:25+00:00"
 toc: true
-image: "thumbs_-_1684190_-_Images_1.jpg"
+image: "thumbs_-_4373673_-_Images_1.jpg"
 tags:
 - "dutchmogul"
 - "15mm"
@@ -394,15 +394,13 @@ tags:
 
 ---
 
-![](<thumbs_-_1684190_-_Images_1.jpg> "thumbs_-_1684190_-_Images_1.jpg")
-
-  ![](<thumbs_-_1684190_-_Makes_1.jpg> "thumbs_-_1684190_-_Makes_1.jpg")
+![](<thumbs_-_4373673_-_Images_1.jpg> "thumbs_-_4373673_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:1684190](https://www.thingiverse.com/thing:1684190)
+Source : [https://www.thingiverse.com/thing:4373673](https://www.thingiverse.com/thing:4373673)
 
-Id objet : 1684190
+Id objet : 4373673
 
 Prix : 0 euros
 
@@ -419,11 +417,11 @@ Collections pour tags :
 Description :
 
 ~~~
-These characters were designed for our sci-fantasy tabletop RPG, [Wayfarer: Things Beyond Wonder](http://www.illgottengames.net/wayfarer/) and for our modular wargaming system, [Wayfarer Tactics](http://www.thingiverse.com/thing:1227640). If you want to print a 28mm scale version, just scale it up by 180%.
+Day 63: Demonic Footman.
 
-We've set up a [Patreon page](https://www.patreon.com/illgottengames) for anyone who's interested in helping to fund us so we can keep making free and open sourced games like Pocket-Tactics, Wayfarer Tactics. and others, not to mention the growing catalog of gaming miniatures that you can use for whatever you want! (Psst... we take requests and commissions...)
+This model is scaled for standard miniature gaming (compatible with Games Workshop, Reaper, CMON, Hero Forge, and other major ranges), and prints without support.
 
-Enjoy!
+For those of you thinking about [supporting us on Patreon](https://www.patreon.com/illgottengames?fan_landing=true), our patrons get special weekly model releases, access to new storefront releases and our entire back catalog, plus licensing options to sell printed versions of our designs.
 ~~~
 
 
