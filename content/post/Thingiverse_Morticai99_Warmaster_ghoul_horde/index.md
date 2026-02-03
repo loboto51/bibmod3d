@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_7226539_-_Images_1.jpg"
 tags:
 - "Morticai99"
-- "warmaster"
-- "MORTS-VIVANTS"
-- "warmaster MORTS-VIVANTS"
-- "NONSUP"
-- "warmaster NONSUP"
-- "MORTS-VIVANTS NONSUP"
-- "warmaster MORTS-VIVANTS NONSUP"
+
 
 ---
 

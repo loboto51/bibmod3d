@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_4932375_-_Images_1.jpg"
 tags:
 - "darkgref"
-- "warmaster"
-- "CHAOS"
-- "warmaster CHAOS"
-- "NONSUP"
-- "warmaster NONSUP"
-- "CHAOS NONSUP"
-- "warmaster CHAOS NONSUP"
+
 
 ---
 

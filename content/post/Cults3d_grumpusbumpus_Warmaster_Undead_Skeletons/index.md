@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_warmaster-undead-skeletons_-_Images_1.jpg"
 tags:
 - "grumpusbumpus"
-- "warmaster"
-- "MORTS-VIVANTS"
-- "warmaster MORTS-VIVANTS"
-- "SUP"
-- "warmaster SUP"
-- "MORTS-VIVANTS SUP"
-- "warmaster MORTS-VIVANTS SUP"
+
 
 ---
 

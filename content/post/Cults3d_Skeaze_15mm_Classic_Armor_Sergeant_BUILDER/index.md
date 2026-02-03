@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.jpg"
 tags:
 - "Skeaze"
-- "15mm"
-- "SMI"
-- "15mm SMI"
-- "NONSUP"
-- "15mm NONSUP"
-- "SMI NONSUP"
-- "15mm SMI NONSUP"
+
 
 ---
 

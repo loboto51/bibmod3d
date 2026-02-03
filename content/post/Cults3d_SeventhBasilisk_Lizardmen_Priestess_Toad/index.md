@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_lizardmen-priestess-toad_-_Images_1.jpg"
 tags:
 - "SeventhBasilisk"
-- "warmaster"
-- "HOMMES-LEZARDS"
-- "warmaster HOMMES-LEZARDS"
-- "SUP"
-- "warmaster SUP"
-- "HOMMES-LEZARDS SUP"
-- "warmaster HOMMES-LEZARDS SUP"
+
 
 ---
 

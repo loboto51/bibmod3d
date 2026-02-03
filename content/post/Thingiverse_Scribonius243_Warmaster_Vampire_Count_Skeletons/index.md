@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_7077742_-_Images_1.jpg"
 tags:
 - "Scribonius243"
-- "warmaster"
-- "MORTS-VIVANTS"
-- "warmaster MORTS-VIVANTS"
-- "SUP"
-- "warmaster SUP"
-- "MORTS-VIVANTS SUP"
-- "warmaster MORTS-VIVANTS SUP"
+
 
 ---
 

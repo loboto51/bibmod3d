@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.jpg"
 tags:
 - "IO_Butov"
-- "28mm"
-- "TYRANIDES"
-- "28mm TYRANIDES"
-- "NONSUP"
-- "28mm NONSUP"
-- "TYRANIDES NONSUP"
-- "28mm TYRANIDES NONSUP"
+
 
 ---
 

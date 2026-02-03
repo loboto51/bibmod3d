@@ -6,21 +6,7 @@ toc: true
 image: "thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.jpg"
 tags:
 - "Varus_Miniatures"
-- "warmaster"
-- "EMPIRE"
-- "warmaster EMPIRE"
-- "HUMAINS"
-- "warmaster HUMAINS"
-- "EMPIRE HUMAINS"
-- "warmaster EMPIRE HUMAINS"
-- "SUP"
-- "warmaster SUP"
-- "EMPIRE SUP"
-- "warmaster EMPIRE SUP"
-- "HUMAINS SUP"
-- "warmaster HUMAINS SUP"
-- "EMPIRE HUMAINS SUP"
-- "warmaster EMPIRE HUMAINS SUP"
+
 
 ---
 

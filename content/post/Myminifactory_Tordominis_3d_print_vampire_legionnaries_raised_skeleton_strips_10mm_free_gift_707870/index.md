@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.jpg"
 tags:
 - "Tordominis"
-- "warmaster"
-- "MORTS-VIVANTS"
-- "warmaster MORTS-VIVANTS"
-- "SUP"
-- "warmaster SUP"
-- "MORTS-VIVANTS SUP"
-- "warmaster MORTS-VIVANTS SUP"
+
 
 ---
 

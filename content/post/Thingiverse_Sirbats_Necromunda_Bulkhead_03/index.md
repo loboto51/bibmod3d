@@ -6,21 +6,7 @@ toc: true
 image: "thumbs_-_2081038_-_Images_1.jpg"
 tags:
 - "Sirbats"
-- "necromunda"
-- "decors"
-- "necromunda decors"
-- "NONDL"
-- "necromunda NONDL"
-- "decors NONDL"
-- "necromunda decors NONDL"
-- "NONSUP"
-- "necromunda NONSUP"
-- "decors NONSUP"
-- "necromunda decors NONSUP"
-- "NONDL NONSUP"
-- "necromunda NONDL NONSUP"
-- "decors NONDL NONSUP"
-- "necromunda decors NONDL NONSUP"
+
 
 ---
 

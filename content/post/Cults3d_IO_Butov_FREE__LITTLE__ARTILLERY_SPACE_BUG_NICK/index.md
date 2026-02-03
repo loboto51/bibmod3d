@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.jpg"
 tags:
 - "IO_Butov"
-- "28mm"
-- "TYRANIDES"
-- "28mm TYRANIDES"
-- "NONSUP"
-- "28mm NONSUP"
-- "TYRANIDES NONSUP"
-- "28mm TYRANIDES NONSUP"
+
 
 ---
 

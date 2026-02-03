@@ -6,20 +6,8 @@ toc: true
 image: "thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg"
 tags:
 - "Tordominis"
-- "warmaster"
-- "CHAOS"
-- "warmaster CHAOS"
-- "SUP"
-- "warmaster SUP"
-- "CHAOS SUP"
-- "warmaster CHAOS SUP"
-- "warmaster"
-- "ELFES-NOIRS"
-- "warmaster ELFES-NOIRS"
-- "SUP"
-- "warmaster SUP"
-- "ELFES-NOIRS SUP"
-- "warmaster ELFES-NOIRS SUP"
+
+
 
 ---
 

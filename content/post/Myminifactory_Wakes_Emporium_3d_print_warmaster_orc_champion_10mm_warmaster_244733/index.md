@@ -6,13 +6,7 @@ toc: true
 image: "thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg"
 tags:
 - "Wakes_Emporium"
-- "warmaster"
-- "ORCS"
-- "warmaster ORCS"
-- "SUP"
-- "warmaster SUP"
-- "ORCS SUP"
-- "warmaster ORCS SUP"
+
 
 ---
 
