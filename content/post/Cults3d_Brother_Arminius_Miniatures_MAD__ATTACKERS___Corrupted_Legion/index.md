@@ -9,6 +9,7 @@ tags:
 
 
 
+
 ---
 
 ![](<thumbs_-_mad-attackers-corrupted-legion_-_Images_1.jpg> "thumbs_-_mad-attackers-corrupted-legion_-_Images_1.jpg")
@@ -25,12 +26,14 @@ Prix : 5 euros
 
 Collections :
 
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
 - epic infanterie CCH Humains-qg
 - epic infanterie CCH Humains-tactiques
 
 
 Collections pour tags :
 
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL NONSUP
 - epic infanterie CCH Humains-qg NONDL NONSUP
 - epic infanterie CCH Humains-tactiques NONDL NONSUP
 
