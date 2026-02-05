@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic superlourds GI Baneblades-canon-court-arrière
+- epic superlourds GI Baneblades-canon-court-arri&egrave;re
 
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-court-arrière  NONSUP
+- epic superlourds GI Baneblades-canon-court-arri&egrave;re  NONSUP
 
 
 Description :

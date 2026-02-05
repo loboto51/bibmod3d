@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster Bits Bits-créatures-géantes Dragons
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes Dragons
 
 
 Collections pour tags :
 
-- warmaster Bits Bits-créatures-géantes Dragons NONDL NONSUP
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes Dragons NONDL NONSUP
 
 
 Description :

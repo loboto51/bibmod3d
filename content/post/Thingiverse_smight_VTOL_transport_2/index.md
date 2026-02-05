@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic volants SQUATS Squats-gyrocoptères
+- epic volants SQUATS Squats-gyrocopt&egrave;res
 
 
 Collections pour tags :
 
-- epic volants SQUATS Squats-gyrocoptères NONDL NONSUP
+- epic volants SQUATS Squats-gyrocopt&egrave;res NONDL NONSUP
 
 
 Description :

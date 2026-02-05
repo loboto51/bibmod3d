@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic titans VM Eldars-titans-fantômes Eldars-titans-archontes
+- epic titans VM Eldars-titans-fant&ocirc;mes Eldars-titans-archontes
 
 
 Collections pour tags :
 
-- epic titans VM Eldars-titans-fantômes Eldars-titans-archontes  NONSUP
+- epic titans VM Eldars-titans-fant&ocirc;mes Eldars-titans-archontes  NONSUP
 
 
 Description :

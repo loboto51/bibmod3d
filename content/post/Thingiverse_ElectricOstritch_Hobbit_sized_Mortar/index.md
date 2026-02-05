@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster Machines-de-guerre-génériques
+- warmaster Machines-de-guerre-g&eacute;n&eacute;riques
 
 
 Collections pour tags :
 
-- warmaster Machines-de-guerre-génériques NONDL NONSUP
+- warmaster Machines-de-guerre-g&eacute;n&eacute;riques NONDL NONSUP
 
 
 Description :

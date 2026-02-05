@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic decors IMP Bâtiments
+- epic decors IMP B&acirc;timents
 
 
 Collections pour tags :
 
-- epic decors IMP Bâtiments NONDL SUP
+- epic decors IMP B&acirc;timents NONDL SUP
 
 
 Description :

@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie NEC Nécrons-Destroyers-marcheurs
+- epic infanterie NEC N&eacute;crons-Destroyers-marcheurs
 
 
 Collections pour tags :
 
-- epic infanterie NEC Nécrons-Destroyers-marcheurs  NONSUP
+- epic infanterie NEC N&eacute;crons-Destroyers-marcheurs  NONSUP
 
 
 Description :

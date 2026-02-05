@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster decors Decors-village-mediéval
+- warmaster decors Decors-village-medi&eacute;val
 
 
 Collections pour tags :
 
-- warmaster decors Decors-village-mediéval NONDL NONSUP
+- warmaster decors Decors-village-medi&eacute;val NONDL NONSUP
 
 
 Description :

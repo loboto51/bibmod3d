@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- bfg decors Planètes-et-stations-spatiales
+- bfg decors Plan&egrave;tes-et-stations-spatiales
 
 
 Collections pour tags :
 
-- bfg decors Planètes-et-stations-spatiales NONDL NONSUP
+- bfg decors Plan&egrave;tes-et-stations-spatiales NONDL NONSUP
 
 
 Description :

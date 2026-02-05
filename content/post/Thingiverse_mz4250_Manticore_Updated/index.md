@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster Bits Bits-créatures-géantes Manticores
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes Manticores
 
 
 Collections pour tags :
 
-- warmaster Bits Bits-créatures-géantes Manticores NONDL NONSUP
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes Manticores NONDL NONSUP
 
 
 Description :

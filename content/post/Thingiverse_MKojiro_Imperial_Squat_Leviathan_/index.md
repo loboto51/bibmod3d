@@ -22,12 +22,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic superlourds GI Léviathans
+- epic superlourds GI L&eacute;viathans
 
 
 Collections pour tags :
 
-- epic superlourds GI Léviathans NONDL NONSUP
+- epic superlourds GI L&eacute;viathans NONDL NONSUP
 
 
 Description :

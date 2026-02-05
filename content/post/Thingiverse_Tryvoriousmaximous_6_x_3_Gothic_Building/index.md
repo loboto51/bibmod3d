@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic decors IMP Bâtiments
+- epic decors IMP B&acirc;timents
 
 
 Collections pour tags :
 
-- epic decors IMP Bâtiments  NONSUP
+- epic decors IMP B&acirc;timents  NONSUP
 
 
 Description :
