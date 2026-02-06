@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Heroes [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Heroes [dl]"
 date: "2026-01-31T23:28:33+00:00"
 toc: true
 image: "thumbs_-_7286020_-_Images_1.jpg"
@@ -11,6 +11,8 @@ tags:
 ---
 
 ![](<thumbs_-_7286020_-_Images_1.jpg> "thumbs_-_7286020_-_Images_1.jpg")
+
+  ![](<thumbs_-_7286020_-_ImagesSTL_1.jpg> "thumbs_-_7286020_-_ImagesSTL_1.jpg")
 
   
 
@@ -27,7 +29,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS NONDL NONSUP
+- warmaster NAINS  NONSUP
 
 
 Description :
