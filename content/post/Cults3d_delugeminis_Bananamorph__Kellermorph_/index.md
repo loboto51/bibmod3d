@@ -9,6 +9,7 @@ tags:
 
 
 
+
 ---
 
 ![](<thumbs_-_bananamorph-kellermorph_-_Images_1.jpg> "thumbs_-_bananamorph-kellermorph_-_Images_1.jpg")
@@ -24,12 +25,14 @@ Prix : 0.0 euros
 Collections :
 
 - 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
+- 15mm 28mm HUMAINS Tissus-pour-kitbash Bits Builders
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
 
 
 Collections pour tags :
 
 - 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL SUP
+- 15mm 28mm HUMAINS Tissus-pour-kitbash Bits Builders NONDL SUP
 - 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL SUP
 
 

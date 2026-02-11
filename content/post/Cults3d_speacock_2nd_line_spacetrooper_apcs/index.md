@@ -24,12 +24,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic vehicules GI Imp-chars Imp-dracosans
+- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons
 
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars Imp-dracosans  NONSUP
+- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons  NONSUP
 
 
 Description :

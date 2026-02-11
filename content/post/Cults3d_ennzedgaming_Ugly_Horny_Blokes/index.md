@@ -22,12 +22,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
+- 15mm 28mm HOMMES-BETES CHAOS SMC Monstres-divers-pour-kitbash Bits Builders
 
 
 Collections pour tags :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL NONSUP
+- 15mm 28mm HOMMES-BETES CHAOS SMC Monstres-divers-pour-kitbash Bits Builders NONDL NONSUP
 
 
 Description :

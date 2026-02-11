@@ -8,7 +8,6 @@ tags:
 - "EasyV"
 
 
-
 ---
 
 ![](<thumbs_-_gopmarines_-_Images_1.jpg> "thumbs_-_gopmarines_-_Images_1.jpg")
@@ -25,13 +24,11 @@ Prix : 0.0 euros
 
 Collections :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders
 
 
 Collections pour tags :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders  NONSUP
 - 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders  NONSUP
 
 
