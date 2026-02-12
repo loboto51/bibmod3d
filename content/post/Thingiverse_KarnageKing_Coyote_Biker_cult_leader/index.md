@@ -26,12 +26,12 @@ Prix : 0 euros
 
 Collections :
 
-- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+- 15mm 28mm Motos-diverses-pour-kitbash Bits Builders
 
 
 Collections pour tags :
 
-- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs  NONSUP
+- 15mm 28mm Motos-diverses-pour-kitbash Bits Builders  NONSUP
 
 
 Description :
