@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Scale_Aurochs_Personnel_Carrier [non dl]"
+title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Scale_Aurochs_Personnel_Carrier [dl]"
 date: "2026-01-31T22:15:45Z"
 toc: true
 image: "thumbs_-_epic-scale-aurochs-personnel-carrier_-_Images_1.jpg"
@@ -12,6 +12,8 @@ tags:
 ---
 
 ![](<thumbs_-_epic-scale-aurochs-personnel-carrier_-_Images_1.jpg> "thumbs_-_epic-scale-aurochs-personnel-carrier_-_Images_1.jpg")
+
+  ![](<thumbs_-_epic-scale-aurochs-personnel-carrier_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-aurochs-personnel-carrier_-_ImagesSTL_1.jpg")
 
   
 
@@ -29,8 +31,8 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars Chars-fdp-divers NONDL NONSUP
-- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons NONDL NONSUP
+- epic vehicules GI Imp-chars Chars-fdp-divers  NONSUP
+- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons  NONSUP
 
 
 Description :

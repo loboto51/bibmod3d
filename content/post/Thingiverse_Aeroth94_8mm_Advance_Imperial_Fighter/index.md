@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Aeroth94 > 8mm_Advance_Imperial_Fighter [non dl]"
+title: "[GRATUIT] Thingiverse > Aeroth94 > 8mm_Advance_Imperial_Fighter [dl]"
 date: "2026-02-03T21:29:37+00:00"
 toc: true
 image: "thumbs_-_7287724_-_Images_1.jpg"
@@ -11,6 +11,8 @@ tags:
 ---
 
 ![](<thumbs_-_7287724_-_Images_1.jpg> "thumbs_-_7287724_-_Images_1.jpg")
+
+  ![](<thumbs_-_7287724_-_ImagesSTL_1.jpg> "thumbs_-_7287724_-_ImagesSTL_1.jpg")
 
   
 
@@ -27,7 +29,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants IMP Imp-chasseurs-bombardiers Lightnings NONDL NONSUP
+- epic volants IMP Imp-chasseurs-bombardiers Lightnings  NONSUP
 
 
 Description :

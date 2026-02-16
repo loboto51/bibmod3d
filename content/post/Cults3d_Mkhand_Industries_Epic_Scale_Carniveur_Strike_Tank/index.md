@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Scale_Carniveur_Strike_Tank [non dl]"
+title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Scale_Carniveur_Strike_Tank [dl]"
 date: "2026-02-05T23:23:15Z"
 toc: true
 image: "thumbs_-_epic-scale-carniveur-strike-tank_-_Images_1.jpg"
@@ -12,6 +12,8 @@ tags:
 ---
 
 ![](<thumbs_-_epic-scale-carniveur-strike-tank_-_Images_1.jpg> "thumbs_-_epic-scale-carniveur-strike-tank_-_Images_1.jpg")
+
+  ![](<thumbs_-_epic-scale-carniveur-strike-tank_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-carniveur-strike-tank_-_ImagesSTL_1.jpg")
 
   
 
@@ -29,8 +31,8 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars Chars-fdp-divers NONDL NONSUP
-- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons NONDL NONSUP
+- epic vehicules GI Imp-chars Chars-fdp-divers  NONSUP
+- epic vehicules GI Imp-chars Imp-chars-30k-dracosans-tauros-carnodons  NONSUP
 
 
 Description :
