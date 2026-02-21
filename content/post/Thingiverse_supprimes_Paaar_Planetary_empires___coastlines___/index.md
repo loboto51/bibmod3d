@@ -1,0 +1,43 @@
+
+---
+title: "[GRATUIT] Thingiverse_supprimes > Paaar > Planetary_empires___coastlines___ [non dl]"
+date: "2021-03-29T07:45:13+00:00"
+toc: true
+image: "thumbs_-_4810010_-_Images_1.jpg"
+tags:
+- "Paaar"
+
+
+---
+
+![](<thumbs_-_4810010_-_Images_1.jpg> "thumbs_-_4810010_-_Images_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4810010](https://www.thingiverse.com/thing:4810010)
+
+Id objet : 4810010
+
+Prix : 0 euros
+
+Collections :
+
+- necromunda Hex-tiles-map-campagne
+
+
+Collections pour tags :
+
+- necromunda Hex-tiles-map-campagne NONDL NONSUP
+
+
+Description :
+
+~~~
+Made these for a friend who wanted to build a coastline using Planetary Empires hexes. Added some more terrain types.
+
+Picture showing some examples with the water painted.
+~~~
+
+
+
+

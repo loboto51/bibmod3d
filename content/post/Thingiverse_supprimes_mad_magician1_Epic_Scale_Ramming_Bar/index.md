@@ -1,0 +1,48 @@
+
+---
+title: "[GRATUIT] Thingiverse_supprimes > mad_magician1 > Epic_Scale_Ramming_Bar [non dl]"
+date: "2018-03-13T01:51:26+00:00"
+toc: true
+image: "thumbs_-_2824110_-_Images_1.jpg"
+tags:
+- "mad_magician1"
+
+
+---
+
+![](<thumbs_-_2824110_-_Images_1.jpg> "thumbs_-_2824110_-_Images_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:2824110](https://www.thingiverse.com/thing:2824110)
+
+Id objet : 2824110
+
+Prix : 0 euros
+
+Collections :
+
+- epic vehicules SMI Rhinos
+
+
+Collections pour tags :
+
+- epic vehicules SMI Rhinos NONDL NONSUP
+
+
+Description :
+
+~~~
+This is an Accessory Bit for the MK1 Mars Pattern Rhino and Variants (AKA Rogue Trader Style).
+
+Print at 100% for regular 6mm Epic scale
+Print at 105% for "Truescale" 6mm
+Print at 110% for 8mm New AT 2018 Scale
+
+Suitable for FDM printing at <0.1mm Layer Heights and low speed (20mm-sec)
+
+~~~
+
+
+
+

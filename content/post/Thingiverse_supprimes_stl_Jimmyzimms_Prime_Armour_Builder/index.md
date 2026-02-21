@@ -1,0 +1,59 @@
+
+---
+title: "[GRATUIT] Thingiverse_supprimes_stl > Jimmyzimms > Prime_Armour_Builder [dl]"
+date: "2022-09-28T01:03:23+00:00"
+toc: true
+image: "thumbs_-_5536026_-_Images_1.jpg"
+tags:
+- "Jimmyzimms"
+
+
+---
+
+![](<thumbs_-_5536026_-_Images_1.jpg> "thumbs_-_5536026_-_Images_1.jpg")
+
+  ![](<thumbs_-_5536026_-_ImagesSTL_1.jpg> "thumbs_-_5536026_-_ImagesSTL_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:5536026](https://www.thingiverse.com/thing:5536026)
+
+Id objet : 5536026
+
+Prix : 0 euros
+
+Collections :
+
+- epic SMI Bits Builders
+
+
+Collections pour tags :
+
+- epic SMI Bits Builders  NONSUP
+
+
+Description :
+
+~~~
+REUPLOADED!
+
+Builder Doll for anyone wanting to have quality components for making your own Primae Army remixes. Based on files from Moonjam's base parts and Prime parts donated by a person that desires to remain anonymous.
+
+Edit 20230325: Added an Inceptor Jump Pack to the file
+Edit 20230531: Added the 'cowl' for the Inceptor marines. Moved to only supporting the .blend file because it's a PITA otherwise
+
+If you like what I did and want to leave a tip it would be appreciated.
+https://paypal.me/jimmyzimms
+
+Check out the other builders as well!
+Segmented Armour: https://www.thingiverse.com/thing:5110714
+Boarding Armour: https://www.thingiverse.com/thing:5110539
+Plate Armour: https://www.thingiverse.com/thing:5109051
+Ball Bearing Armour: https://www.thingiverse.com/thing:5102741
+Beaky Armour: https://www.thingiverse.com/thing:5102172
+Eagle Armour: https://www.thingiverse.com/thing:5102316
+~~~
+
+
+
+

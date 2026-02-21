@@ -1,0 +1,49 @@
+
+---
+title: "[GRATUIT] Thingiverse_supprimes_stl > jazzmantis > Small_scale_Space_Orc_big_boss_and_pet [dl]"
+date: "2020-05-03T17:47:27+00:00"
+toc: true
+image: "thumbs_-_4334362_-_Images_1.jpg"
+tags:
+- "jazzmantis"
+
+
+---
+
+![](<thumbs_-_4334362_-_Images_1.jpg> "thumbs_-_4334362_-_Images_1.jpg")
+
+  ![](<thumbs_-_4334362_-_ImagesSTL_1.jpg> "thumbs_-_4334362_-_ImagesSTL_1.jpg")
+
+  ![](<thumbs_-_4334362_-_Makes_1.jpg> "thumbs_-_4334362_-_Makes_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4334362](https://www.thingiverse.com/thing:4334362)
+
+Id objet : 4334362
+
+Prix : 0 euros
+
+Collections :
+
+- epic infanterie ORKS Orks-qg
+
+
+Collections pour tags :
+
+- epic infanterie ORKS Orks-qg  NONSUP
+
+
+Description :
+
+~~~
+A classic style Space orc big boss and his pet space hopper
+
+Scaled to 10mm but should scale to 6/8mm or 15mm without an issue.
+
+I recommend printing at 0.02 on a resin printer
+~~~
+
+
+
+

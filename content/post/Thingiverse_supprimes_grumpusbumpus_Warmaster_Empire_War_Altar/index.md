@@ -1,0 +1,41 @@
+
+---
+title: "[GRATUIT] Thingiverse_supprimes > grumpusbumpus > Warmaster_Empire_War_Altar [non dl]"
+date: "2020-08-04T00:58:03+00:00"
+toc: true
+image: "thumbs_-_4560916_-_Images_1.jpg"
+tags:
+- "grumpusbumpus"
+
+
+---
+
+![](<thumbs_-_4560916_-_Images_1.jpg> "thumbs_-_4560916_-_Images_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4560916](https://www.thingiverse.com/thing:4560916)
+
+Id objet : 4560916
+
+Prix : 0 euros
+
+Collections :
+
+- warmaster HUMAINS EMPIRE
+
+
+Collections pour tags :
+
+- warmaster HUMAINS EMPIRE NONDL NONSUP
+
+
+Description :
+
+~~~
+10mm War Altar of Sigmar (or the deity of your choice).  This took *forever* to reconstruct from scratch.  Will mount happily on a 40x20mm base.
+~~~
+
+
+
+
