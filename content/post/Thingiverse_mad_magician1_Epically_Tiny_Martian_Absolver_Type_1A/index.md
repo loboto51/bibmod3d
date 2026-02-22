@@ -1,0 +1,55 @@
+
+---
+title: "[GRATUIT] Thingiverse > mad_magician1 > Epically_Tiny_Martian_Absolver_Type_1A [non dl]"
+date: "2018-03-15T02:38:04+00:00"
+toc: true
+image: "thumbs_-_2826850_-_Images_1.jpg"
+tags:
+- "mad_magician1"
+
+
+---
+
+![](<thumbs_-_2826850_-_Images_1.jpg> "thumbs_-_2826850_-_Images_1.jpg")
+
+  ![](<thumbs_-_2826850_-_Makes_1.jpg> "thumbs_-_2826850_-_Makes_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:2826850](https://www.thingiverse.com/thing:2826850)
+
+Id objet : 2826850
+
+Prix : 0 euros
+
+Collections :
+
+- epic vehicules SMI Rhinos-canon-lourd
+
+
+Collections pour tags :
+
+- epic vehicules SMI Rhinos-canon-lourd NONDL NONSUP
+
+
+Description :
+
+~~~
+This model is a Proxy for the MKI Mars Pattern Vindicator without a Dozer Blade (Late Rogue Trader-2nd Edition Style).
+
+Based on my Epic MKI Mars Pattern Rhino Proxy
+https://www.thingiverse.com/thing:2823744
+
+Print at 100% for regular 6mm Epic scale
+Print at 105% for "Truescale" 6mm
+Print at 110% for 8mm New AT 2018 Scale
+
+
+CHANGELOG
+2018-03-16 - Successfully Printed. Flagging Complete!
+2018-03-14 - Happy Pi Day! First Upload. Printer still busy with Whirlwind Proxies.
+~~~
+
+
+
+
