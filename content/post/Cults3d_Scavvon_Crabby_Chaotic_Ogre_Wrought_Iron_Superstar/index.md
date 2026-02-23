@@ -6,7 +6,13 @@ toc: true
 image: "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.jpg"
 tags:
 - "Scavvon"
-
+- "28mm"
+- "CHAOS"
+- "28mm CHAOS"
+- "NONSUP"
+- "28mm NONSUP"
+- "CHAOS NONSUP"
+- "28mm CHAOS NONSUP"
 
 ---
 

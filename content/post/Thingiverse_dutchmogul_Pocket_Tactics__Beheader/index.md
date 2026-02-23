@@ -1,0 +1,102 @@
+
+---
+title: "[GRATUIT] Thingiverse > dutchmogul > Pocket_Tactics__Beheader [non dl]"
+date: "2020-09-16T23:20:42+00:00"
+toc: true
+image: "thumbs_-_4598897_-_Images_1.jpg"
+tags:
+- "dutchmogul"
+- "warmaster"
+- "Bits"
+- "warmaster Bits"
+- "Bits-cr&eacute;atures-g&eacute;antes"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes"
+- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes"
+- "G&eacute;ants"
+- "warmaster G&eacute;ants"
+- "Bits G&eacute;ants"
+- "warmaster Bits G&eacute;ants"
+- "Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants"
+- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants"
+- "NONDL"
+- "warmaster NONDL"
+- "Bits NONDL"
+- "warmaster Bits NONDL"
+- "Bits-cr&eacute;atures-g&eacute;antes NONDL"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes NONDL"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes NONDL"
+- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes NONDL"
+- "G&eacute;ants NONDL"
+- "warmaster G&eacute;ants NONDL"
+- "Bits G&eacute;ants NONDL"
+- "warmaster Bits G&eacute;ants NONDL"
+- "Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONDL"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONDL"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONDL"
+- "NONSUP"
+- "warmaster NONSUP"
+- "Bits NONSUP"
+- "warmaster Bits NONSUP"
+- "Bits-cr&eacute;atures-g&eacute;antes NONSUP"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes NONSUP"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes NONSUP"
+- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes NONSUP"
+- "G&eacute;ants NONSUP"
+- "warmaster G&eacute;ants NONSUP"
+- "Bits G&eacute;ants NONSUP"
+- "warmaster Bits G&eacute;ants NONSUP"
+- "Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONSUP"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONSUP"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONSUP"
+- "NONDL NONSUP"
+- "warmaster NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "warmaster Bits NONDL NONSUP"
+- "Bits-cr&eacute;atures-g&eacute;antes NONDL NONSUP"
+- "warmaster Bits-cr&eacute;atures-g&eacute;antes NONDL NONSUP"
+- "Bits Bits-cr&eacute;atures-g&eacute;antes NONDL NONSUP"
+- "G&eacute;ants NONDL NONSUP"
+- "warmaster G&eacute;ants NONDL NONSUP"
+- "Bits G&eacute;ants NONDL NONSUP"
+- "Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONDL NONSUP"
+
+---
+
+![](<thumbs_-_4598897_-_Images_1.jpg> "thumbs_-_4598897_-_Images_1.jpg")
+
+  ![](<thumbs_-_4598897_-_Makes_1.jpg> "thumbs_-_4598897_-_Makes_1.jpg")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4598897](https://www.thingiverse.com/thing:4598897)
+
+Id objet : 4598897
+
+Prix : 0 euros
+
+Collections :
+
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants
+
+
+Collections pour tags :
+
+- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes G&eacute;ants NONDL NONSUP
+
+
+Description :
+
+~~~
+This Pocket-Tactics unit can be used as reinforcements for the Tribes of the Dark Forest faction (or in custom builds) and is for the new version of the game [currently on Kickstarter](https://www.kickstarter.com/projects/292543184/pocket-tactics), which has a couple of days left to go! The model is scaled for 15mm miniature gaming, and prints without support.
+
+This new version wipes the slate in regard to previous editions (1-5), all of which are still available here on Thingiverse (and fully playable as they are). The full miniatures-based game will be commercially available after the Kickstarter wraps, but you can use this piece with the [free version available here](https://www.thingiverse.com/thing:4575264), and a meeple version is included, as well as a based and non-based version in standard/30mm scale. (Depending on your printer/settings, these versions may benefit from support, as the original was designed for 15mm scale.)
+
+For those of you thinking about [supporting us on Patreon](https://www.patreon.com/illgottengames?fan_landing=true), our patrons get special weekly model releases, access to new storefront releases and our entire back catalog, plus licensing options to sell printed versions of our designs.
+~~~
+
+
+
+

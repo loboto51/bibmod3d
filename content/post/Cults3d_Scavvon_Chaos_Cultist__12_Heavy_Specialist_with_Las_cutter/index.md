@@ -6,7 +6,21 @@ toc: true
 image: "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.jpg"
 tags:
 - "Scavvon"
-
+- "28mm"
+- "CHAOS"
+- "28mm CHAOS"
+- "Chaos-cultistes"
+- "28mm Chaos-cultistes"
+- "CHAOS Chaos-cultistes"
+- "28mm CHAOS Chaos-cultistes"
+- "SUP"
+- "28mm SUP"
+- "CHAOS SUP"
+- "28mm CHAOS SUP"
+- "Chaos-cultistes SUP"
+- "28mm Chaos-cultistes SUP"
+- "CHAOS Chaos-cultistes SUP"
+- "28mm CHAOS Chaos-cultistes SUP"
 
 ---
 

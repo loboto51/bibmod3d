@@ -6,7 +6,13 @@ toc: true
 image: "thumbs_-_warmaster-high-elf-swordmasters_-_Images_1.jpg"
 tags:
 - "grumpusbumpus"
-
+- "warmaster"
+- "ELFES"
+- "warmaster ELFES"
+- "NONSUP"
+- "warmaster NONSUP"
+- "ELFES NONSUP"
+- "warmaster ELFES NONSUP"
 
 ---
 
