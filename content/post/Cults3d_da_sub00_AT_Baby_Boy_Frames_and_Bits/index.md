@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > da_sub00 > AT_Baby_Boy_Frames_and_Bits [non dl]"
+title: "[GRATUIT] Cults3d > da_sub00 > AT_Baby_Boy_Frames_and_Bits [dl]"
 date: "2020-02-26T15:47:30Z"
 toc: true
 image: "thumbs_-_at-baby-boy-frames-and-bits_-_Images_1.jpg"
@@ -21,51 +21,27 @@ tags:
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
 - "epic chevaliers IMP Admech-chevaliers"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "chevaliers IMP NONDL"
-- "epic chevaliers IMP NONDL"
-- "Admech-chevaliers NONDL"
-- "epic Admech-chevaliers NONDL"
-- "chevaliers Admech-chevaliers NONDL"
-- "epic chevaliers Admech-chevaliers NONDL"
-- "IMP Admech-chevaliers NONDL"
-- "epic IMP Admech-chevaliers NONDL"
-- "chevaliers IMP Admech-chevaliers NONDL"
-- "NONSUP"
-- "epic NONSUP"
-- "chevaliers NONSUP"
-- "epic chevaliers NONSUP"
-- "IMP NONSUP"
-- "epic IMP NONSUP"
-- "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
-- "Admech-chevaliers NONSUP"
-- "epic Admech-chevaliers NONSUP"
-- "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
-- "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "epic chevaliers NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "chevaliers IMP NONDL NONSUP"
-- "Admech-chevaliers NONDL NONSUP"
-- "epic Admech-chevaliers NONDL NONSUP"
-- "chevaliers Admech-chevaliers NONDL NONSUP"
-- "IMP Admech-chevaliers NONDL NONSUP"
+- "SUP"
+- "epic SUP"
+- "chevaliers SUP"
+- "epic chevaliers SUP"
+- "IMP SUP"
+- "epic IMP SUP"
+- "chevaliers IMP SUP"
+- "epic chevaliers IMP SUP"
+- "Admech-chevaliers SUP"
+- "epic Admech-chevaliers SUP"
+- "chevaliers Admech-chevaliers SUP"
+- "epic chevaliers Admech-chevaliers SUP"
+- "IMP Admech-chevaliers SUP"
+- "epic IMP Admech-chevaliers SUP"
+- "chevaliers IMP Admech-chevaliers SUP"
 
 ---
 
 ![](<thumbs_-_at-baby-boy-frames-and-bits_-_Images_1.jpg> "thumbs_-_at-baby-boy-frames-and-bits_-_Images_1.jpg")
+
+  ![](<thumbs_-_at-baby-boy-frames-and-bits_-_ImagesSTL_1.jpg> "thumbs_-_at-baby-boy-frames-and-bits_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_at-baby-boy-frames-and-bits_-_Makes_1.jpg> "thumbs_-_at-baby-boy-frames-and-bits_-_Makes_1.jpg")
 
@@ -84,7 +60,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-chevaliers NONDL NONSUP
+- epic chevaliers IMP Admech-chevaliers  SUP
 
 
 Description :
@@ -112,6 +88,12 @@ Styrix Pattern Head, well a fair approximation, in High Poly model.
 
 Serious Note: This was a personal project, to test to see how far I could push the detail on my Photon. it would have been far easier for me to just buy the plastic kits and remix just the armour and weapons lol
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_at-baby-boy-frames-and-bits20200226-24278-11ktd6h_zip_unpack_da_sub00_at-baby-boy-frames-and-bits__LegAssembly2ArmoredtestB_Sup_stl_.jpg
+ImagesSTL_-_at-baby-boy-frames-and-bits20200226-24278-11ktd6h_zip_unpack_da_sub00_at-baby-boy-frames-and-bits__LegAssembly2Armoredtest_Sup_stl_.jpg
 
 
 
