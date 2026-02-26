@@ -13,14 +13,14 @@ tags:
 - "epic IMP"
 - "decors IMP"
 - "epic decors IMP"
-- "B&acirc;timents"
-- "epic B&acirc;timents"
-- "decors B&acirc;timents"
-- "epic decors B&acirc;timents"
-- "IMP B&acirc;timents"
-- "epic IMP B&acirc;timents"
-- "decors IMP B&acirc;timents"
-- "epic decors IMP B&acirc;timents"
+- "Bâtiments"
+- "epic Bâtiments"
+- "decors Bâtiments"
+- "epic decors Bâtiments"
+- "IMP Bâtiments"
+- "epic IMP Bâtiments"
+- "decors IMP Bâtiments"
+- "epic decors IMP Bâtiments"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -29,13 +29,13 @@ tags:
 - "epic IMP NONDL"
 - "decors IMP NONDL"
 - "epic decors IMP NONDL"
-- "B&acirc;timents NONDL"
-- "epic B&acirc;timents NONDL"
-- "decors B&acirc;timents NONDL"
-- "epic decors B&acirc;timents NONDL"
-- "IMP B&acirc;timents NONDL"
-- "epic IMP B&acirc;timents NONDL"
-- "decors IMP B&acirc;timents NONDL"
+- "Bâtiments NONDL"
+- "epic Bâtiments NONDL"
+- "decors Bâtiments NONDL"
+- "epic decors Bâtiments NONDL"
+- "IMP Bâtiments NONDL"
+- "epic IMP Bâtiments NONDL"
+- "decors IMP Bâtiments NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -44,13 +44,13 @@ tags:
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
 - "epic decors IMP NONSUP"
-- "B&acirc;timents NONSUP"
-- "epic B&acirc;timents NONSUP"
-- "decors B&acirc;timents NONSUP"
-- "epic decors B&acirc;timents NONSUP"
-- "IMP B&acirc;timents NONSUP"
-- "epic IMP B&acirc;timents NONSUP"
-- "decors IMP B&acirc;timents NONSUP"
+- "Bâtiments NONSUP"
+- "epic Bâtiments NONSUP"
+- "decors Bâtiments NONSUP"
+- "epic decors Bâtiments NONSUP"
+- "IMP Bâtiments NONSUP"
+- "epic IMP Bâtiments NONSUP"
+- "decors IMP Bâtiments NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
@@ -58,10 +58,10 @@ tags:
 - "IMP NONDL NONSUP"
 - "epic IMP NONDL NONSUP"
 - "decors IMP NONDL NONSUP"
-- "B&acirc;timents NONDL NONSUP"
-- "epic B&acirc;timents NONDL NONSUP"
-- "decors B&acirc;timents NONDL NONSUP"
-- "IMP B&acirc;timents NONDL NONSUP"
+- "Bâtiments NONDL NONSUP"
+- "epic Bâtiments NONDL NONSUP"
+- "decors Bâtiments NONDL NONSUP"
+- "IMP Bâtiments NONDL NONSUP"
 
 ---
 
@@ -77,12 +77,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic decors IMP B&acirc;timents
+- epic decors IMP Bâtiments
 
 
 Collections pour tags :
 
-- epic decors IMP B&acirc;timents NONDL NONSUP
+- epic decors IMP Bâtiments NONDL NONSUP
 
 
 Description :

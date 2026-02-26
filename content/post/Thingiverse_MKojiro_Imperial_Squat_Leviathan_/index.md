@@ -13,14 +13,14 @@ tags:
 - "epic GI"
 - "superlourds GI"
 - "epic superlourds GI"
-- "L&eacute;viathans"
-- "epic L&eacute;viathans"
-- "superlourds L&eacute;viathans"
-- "epic superlourds L&eacute;viathans"
-- "GI L&eacute;viathans"
-- "epic GI L&eacute;viathans"
-- "superlourds GI L&eacute;viathans"
-- "epic superlourds GI L&eacute;viathans"
+- "Léviathans"
+- "epic Léviathans"
+- "superlourds Léviathans"
+- "epic superlourds Léviathans"
+- "GI Léviathans"
+- "epic GI Léviathans"
+- "superlourds GI Léviathans"
+- "epic superlourds GI Léviathans"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -29,13 +29,13 @@ tags:
 - "epic GI NONDL"
 - "superlourds GI NONDL"
 - "epic superlourds GI NONDL"
-- "L&eacute;viathans NONDL"
-- "epic L&eacute;viathans NONDL"
-- "superlourds L&eacute;viathans NONDL"
-- "epic superlourds L&eacute;viathans NONDL"
-- "GI L&eacute;viathans NONDL"
-- "epic GI L&eacute;viathans NONDL"
-- "superlourds GI L&eacute;viathans NONDL"
+- "Léviathans NONDL"
+- "epic Léviathans NONDL"
+- "superlourds Léviathans NONDL"
+- "epic superlourds Léviathans NONDL"
+- "GI Léviathans NONDL"
+- "epic GI Léviathans NONDL"
+- "superlourds GI Léviathans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -44,13 +44,13 @@ tags:
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
 - "epic superlourds GI NONSUP"
-- "L&eacute;viathans NONSUP"
-- "epic L&eacute;viathans NONSUP"
-- "superlourds L&eacute;viathans NONSUP"
-- "epic superlourds L&eacute;viathans NONSUP"
-- "GI L&eacute;viathans NONSUP"
-- "epic GI L&eacute;viathans NONSUP"
-- "superlourds GI L&eacute;viathans NONSUP"
+- "Léviathans NONSUP"
+- "epic Léviathans NONSUP"
+- "superlourds Léviathans NONSUP"
+- "epic superlourds Léviathans NONSUP"
+- "GI Léviathans NONSUP"
+- "epic GI Léviathans NONSUP"
+- "superlourds GI Léviathans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
@@ -58,10 +58,10 @@ tags:
 - "GI NONDL NONSUP"
 - "epic GI NONDL NONSUP"
 - "superlourds GI NONDL NONSUP"
-- "L&eacute;viathans NONDL NONSUP"
-- "epic L&eacute;viathans NONDL NONSUP"
-- "superlourds L&eacute;viathans NONDL NONSUP"
-- "GI L&eacute;viathans NONDL NONSUP"
+- "Léviathans NONDL NONSUP"
+- "epic Léviathans NONDL NONSUP"
+- "superlourds Léviathans NONDL NONSUP"
+- "GI Léviathans NONDL NONSUP"
 
 ---
 
@@ -77,12 +77,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic superlourds GI L&eacute;viathans
+- epic superlourds GI Léviathans
 
 
 Collections pour tags :
 
-- epic superlourds GI L&eacute;viathans NONDL NONSUP
+- epic superlourds GI Léviathans NONDL NONSUP
 
 
 Description :

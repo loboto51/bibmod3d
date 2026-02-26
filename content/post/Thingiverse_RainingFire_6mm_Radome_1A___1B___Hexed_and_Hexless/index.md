@@ -13,14 +13,14 @@ tags:
 - "epic IMP"
 - "decors IMP"
 - "epic decors IMP"
-- "B&acirc;timents"
-- "epic B&acirc;timents"
-- "decors B&acirc;timents"
-- "epic decors B&acirc;timents"
-- "IMP B&acirc;timents"
-- "epic IMP B&acirc;timents"
-- "decors IMP B&acirc;timents"
-- "epic decors IMP B&acirc;timents"
+- "Bâtiments"
+- "epic Bâtiments"
+- "decors Bâtiments"
+- "epic decors Bâtiments"
+- "IMP Bâtiments"
+- "epic IMP Bâtiments"
+- "decors IMP Bâtiments"
+- "epic decors IMP Bâtiments"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -29,13 +29,13 @@ tags:
 - "epic IMP NONDL"
 - "decors IMP NONDL"
 - "epic decors IMP NONDL"
-- "B&acirc;timents NONDL"
-- "epic B&acirc;timents NONDL"
-- "decors B&acirc;timents NONDL"
-- "epic decors B&acirc;timents NONDL"
-- "IMP B&acirc;timents NONDL"
-- "epic IMP B&acirc;timents NONDL"
-- "decors IMP B&acirc;timents NONDL"
+- "Bâtiments NONDL"
+- "epic Bâtiments NONDL"
+- "decors Bâtiments NONDL"
+- "epic decors Bâtiments NONDL"
+- "IMP Bâtiments NONDL"
+- "epic IMP Bâtiments NONDL"
+- "decors IMP Bâtiments NONDL"
 - "SUP"
 - "epic SUP"
 - "decors SUP"
@@ -44,13 +44,13 @@ tags:
 - "epic IMP SUP"
 - "decors IMP SUP"
 - "epic decors IMP SUP"
-- "B&acirc;timents SUP"
-- "epic B&acirc;timents SUP"
-- "decors B&acirc;timents SUP"
-- "epic decors B&acirc;timents SUP"
-- "IMP B&acirc;timents SUP"
-- "epic IMP B&acirc;timents SUP"
-- "decors IMP B&acirc;timents SUP"
+- "Bâtiments SUP"
+- "epic Bâtiments SUP"
+- "decors Bâtiments SUP"
+- "epic decors Bâtiments SUP"
+- "IMP Bâtiments SUP"
+- "epic IMP Bâtiments SUP"
+- "decors IMP Bâtiments SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "decors NONDL SUP"
@@ -58,10 +58,10 @@ tags:
 - "IMP NONDL SUP"
 - "epic IMP NONDL SUP"
 - "decors IMP NONDL SUP"
-- "B&acirc;timents NONDL SUP"
-- "epic B&acirc;timents NONDL SUP"
-- "decors B&acirc;timents NONDL SUP"
-- "IMP B&acirc;timents NONDL SUP"
+- "Bâtiments NONDL SUP"
+- "epic Bâtiments NONDL SUP"
+- "decors Bâtiments NONDL SUP"
+- "IMP Bâtiments NONDL SUP"
 
 ---
 
@@ -79,12 +79,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic decors IMP B&acirc;timents
+- epic decors IMP Bâtiments
 
 
 Collections pour tags :
 
-- epic decors IMP B&acirc;timents NONDL SUP
+- epic decors IMP Bâtiments NONDL SUP
 
 
 Description :

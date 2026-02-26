@@ -9,33 +9,33 @@ tags:
 - "warmaster"
 - "Bits"
 - "warmaster Bits"
-- "Bits-cr&eacute;atures-g&eacute;antes"
-- "warmaster Bits-cr&eacute;atures-g&eacute;antes"
-- "Bits Bits-cr&eacute;atures-g&eacute;antes"
-- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes"
+- "Bits-créatures-géantes"
+- "warmaster Bits-créatures-géantes"
+- "Bits Bits-créatures-géantes"
+- "warmaster Bits Bits-créatures-géantes"
 - "NONDL"
 - "warmaster NONDL"
 - "Bits NONDL"
 - "warmaster Bits NONDL"
-- "Bits-cr&eacute;atures-g&eacute;antes NONDL"
-- "warmaster Bits-cr&eacute;atures-g&eacute;antes NONDL"
-- "Bits Bits-cr&eacute;atures-g&eacute;antes NONDL"
-- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes NONDL"
+- "Bits-créatures-géantes NONDL"
+- "warmaster Bits-créatures-géantes NONDL"
+- "Bits Bits-créatures-géantes NONDL"
+- "warmaster Bits Bits-créatures-géantes NONDL"
 - "SUP"
 - "warmaster SUP"
 - "Bits SUP"
 - "warmaster Bits SUP"
-- "Bits-cr&eacute;atures-g&eacute;antes SUP"
-- "warmaster Bits-cr&eacute;atures-g&eacute;antes SUP"
-- "Bits Bits-cr&eacute;atures-g&eacute;antes SUP"
-- "warmaster Bits Bits-cr&eacute;atures-g&eacute;antes SUP"
+- "Bits-créatures-géantes SUP"
+- "warmaster Bits-créatures-géantes SUP"
+- "Bits Bits-créatures-géantes SUP"
+- "warmaster Bits Bits-créatures-géantes SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "Bits NONDL SUP"
 - "warmaster Bits NONDL SUP"
-- "Bits-cr&eacute;atures-g&eacute;antes NONDL SUP"
-- "warmaster Bits-cr&eacute;atures-g&eacute;antes NONDL SUP"
-- "Bits Bits-cr&eacute;atures-g&eacute;antes NONDL SUP"
+- "Bits-créatures-géantes NONDL SUP"
+- "warmaster Bits-créatures-géantes NONDL SUP"
+- "Bits Bits-créatures-géantes NONDL SUP"
 
 ---
 
@@ -53,12 +53,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes
+- warmaster Bits Bits-créatures-géantes
 
 
 Collections pour tags :
 
-- warmaster Bits Bits-cr&eacute;atures-g&eacute;antes NONDL SUP
+- warmaster Bits Bits-créatures-géantes NONDL SUP
 
 
 Description :

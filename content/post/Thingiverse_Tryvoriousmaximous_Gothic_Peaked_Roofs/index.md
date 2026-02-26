@@ -13,14 +13,14 @@ tags:
 - "epic IMP"
 - "decors IMP"
 - "epic decors IMP"
-- "B&acirc;timents"
-- "epic B&acirc;timents"
-- "decors B&acirc;timents"
-- "epic decors B&acirc;timents"
-- "IMP B&acirc;timents"
-- "epic IMP B&acirc;timents"
-- "decors IMP B&acirc;timents"
-- "epic decors IMP B&acirc;timents"
+- "Bâtiments"
+- "epic Bâtiments"
+- "decors Bâtiments"
+- "epic decors Bâtiments"
+- "IMP Bâtiments"
+- "epic IMP Bâtiments"
+- "decors IMP Bâtiments"
+- "epic decors IMP Bâtiments"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -29,13 +29,13 @@ tags:
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
 - "epic decors IMP NONSUP"
-- "B&acirc;timents NONSUP"
-- "epic B&acirc;timents NONSUP"
-- "decors B&acirc;timents NONSUP"
-- "epic decors B&acirc;timents NONSUP"
-- "IMP B&acirc;timents NONSUP"
-- "epic IMP B&acirc;timents NONSUP"
-- "decors IMP B&acirc;timents NONSUP"
+- "Bâtiments NONSUP"
+- "epic Bâtiments NONSUP"
+- "decors Bâtiments NONSUP"
+- "epic decors Bâtiments NONSUP"
+- "IMP Bâtiments NONSUP"
+- "epic IMP Bâtiments NONSUP"
+- "decors IMP Bâtiments NONSUP"
 
 ---
 
@@ -53,12 +53,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic decors IMP B&acirc;timents
+- epic decors IMP Bâtiments
 
 
 Collections pour tags :
 
-- epic decors IMP B&acirc;timents  NONSUP
+- epic decors IMP Bâtiments  NONSUP
 
 
 Description :
