@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dark_Elves_Cold_One_Knights [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dark_Elves_Cold_One_Knights [dl]"
 date: "2026-02-22T21:49:39+00:00"
 toc: true
 image: "thumbs_-_7301307_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "ELFES-NOIRS"
 - "warmaster ELFES-NOIRS"
-- "NONDL"
-- "warmaster NONDL"
-- "ELFES-NOIRS NONDL"
-- "warmaster ELFES-NOIRS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "ELFES-NOIRS NONSUP"
 - "warmaster ELFES-NOIRS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "ELFES-NOIRS NONDL NONSUP"
-- "warmaster ELFES-NOIRS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7301307_-_Images_1.jpg> "thumbs_-_7301307_-_Images_1.jpg")
+
+  ![](<thumbs_-_7301307_-_ImagesSTL_1.jpg> "thumbs_-_7301307_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster ELFES-NOIRS NONDL NONSUP
+- warmaster ELFES-NOIRS  NONSUP
 
 
 Description :
