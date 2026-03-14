@@ -1,0 +1,79 @@
+
+---
+title: "[GRATUIT] Cults3d > PrintsLegendStudio > Pav__Texturing_Rollers_for_Fimo_Pastes_and_Clay___Ideal_for_Tabletop_Decors__DND__Warhammer_ [non dl]"
+date: "2024-10-10T19:23:08Z"
+toc: true
+image: "thumbs_-_rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu_-_Images_1.jpg"
+tags:
+- "PrintsLegendStudio"
+- "DIVERS"
+- "Materiel-et-outils-de-modelisme"
+- "DIVERS Materiel-et-outils-de-modelisme"
+- "NONDL"
+- "DIVERS NONDL"
+- "Materiel-et-outils-de-modelisme NONDL"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL"
+- "NONSUP"
+- "DIVERS NONSUP"
+- "Materiel-et-outils-de-modelisme NONSUP"
+- "DIVERS Materiel-et-outils-de-modelisme NONSUP"
+- "NONDL NONSUP"
+- "DIVERS NONDL NONSUP"
+- "Materiel-et-outils-de-modelisme NONDL NONSUP"
+- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
+
+---
+
+![](<thumbs_-_rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu_-_Images_1.jpg> "thumbs_-_rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu_-_Images_1.jpg")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/art/rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu](https://cults3d.com/en/3d-model/art/rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu)
+
+Id objet : rouleaux-de-texturation-pave-pour-pate-fimo-et-argile-ideal-pour-decors-de-jeu
+
+Prix : 0.0 euros
+
+Collections :
+
+- DIVERS Materiel-et-outils-de-modelisme
+
+
+Collections pour tags :
+
+- DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP
+
+
+Description :
+
+~~~
+Add realistic textures to your creations in Fimo paste, clay or other modeling materials with these cobblestone-patterned texturing rollers! Designed specifically for tabletop game enthusiasts, these rollers are ideal for creating authentic backgrounds for games such as Dungeons & Dragons (DND), Warhammer, or any other miniature game.
+
+
+
+
+
+Whether for dungeon floors, the cobbled paths of a medieval town or the walls of a castle, these rollers offer details that will enhance the visual quality of your sets. Easy to use, they quickly print realistic patterns on a variety of surfaces, bringing your DIY modeling projects to life.
+
+
+
+
+
+Compatibility: Polymer clay (Fimo), clay, modeling clay, salt dough, etc.
+
+
+Pattern: Geometric paving stone, ideal for creating dungeon floors and walls.
+
+
+Application: Perfect for tabletop game decors, miniature accessories, models and dioramas.
+
+
+
+
+
+Download these STL files now and bring a professional touch to your creations! Don't forget to share your creations with the community.
+~~~
+
+
+
+
