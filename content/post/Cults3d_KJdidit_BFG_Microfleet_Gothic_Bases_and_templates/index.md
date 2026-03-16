@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Bases_and_templates [non dl]"
+title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Bases_and_templates [dl]"
 date: "2021-02-03T05:20:25Z"
 toc: true
 image: "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg DIVERS"
 - "SOCLES DIVERS"
 - "bfg SOCLES DIVERS"
-- "NONDL"
-- "bfg NONDL"
-- "SOCLES NONDL"
-- "bfg SOCLES NONDL"
-- "DIVERS NONDL"
-- "bfg DIVERS NONDL"
-- "SOCLES DIVERS NONDL"
-- "bfg SOCLES DIVERS NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "SOCLES NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
 - "bfg SOCLES DIVERS NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "SOCLES NONDL NONSUP"
-- "bfg SOCLES NONDL NONSUP"
-- "DIVERS NONDL NONSUP"
-- "bfg DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg")
+
+  ![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg SOCLES DIVERS NONDL NONSUP
+- bfg SOCLES DIVERS  NONSUP
 
 
 Description :

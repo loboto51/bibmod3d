@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Necron_Fleet [non dl]"
+title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Necron_Fleet [dl]"
 date: "2021-02-03T05:22:17Z"
 toc: true
 image: "thumbs_-_bfg-microfleet-gothic-necron-fleet_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "NECRONS Flotte"
 - "bfg NECRONS Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "NECRONS NONDL"
-- "bfg NECRONS NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "NECRONS Flotte NONDL"
-- "bfg NECRONS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "NECRONS NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte NONSUP"
 - "NECRONS Flotte NONSUP"
 - "bfg NECRONS Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "NECRONS NONDL NONSUP"
-- "bfg NECRONS NONDL NONSUP"
-- "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "NECRONS Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_bfg-microfleet-gothic-necron-fleet_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-necron-fleet_-_Images_1.jpg")
+
+  ![](<thumbs_-_bfg-microfleet-gothic-necron-fleet_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-necron-fleet_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg NECRONS Flotte NONDL NONSUP
+- bfg NECRONS Flotte  NONSUP
 
 
 Description :

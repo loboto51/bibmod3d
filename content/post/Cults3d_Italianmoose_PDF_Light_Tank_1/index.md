@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Italianmoose > PDF_Light_Tank_1 [non dl]"
+title: "[GRATUIT] Cults3d > Italianmoose > PDF_Light_Tank_1 [dl]"
 date: "2021-12-12T21:06:12Z"
 toc: true
 image: "thumbs_-_pdf-light-tank-1_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "GI Imp-chars Chars-fdp-divers"
 - "epic GI Imp-chars Chars-fdp-divers"
 - "vehicules GI Imp-chars Chars-fdp-divers"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "vehicules GI NONDL"
-- "epic vehicules GI NONDL"
-- "Imp-chars NONDL"
-- "epic Imp-chars NONDL"
-- "vehicules Imp-chars NONDL"
-- "epic vehicules Imp-chars NONDL"
-- "GI Imp-chars NONDL"
-- "epic GI Imp-chars NONDL"
-- "vehicules GI Imp-chars NONDL"
-- "Chars-fdp-divers NONDL"
-- "epic Chars-fdp-divers NONDL"
-- "vehicules Chars-fdp-divers NONDL"
-- "epic vehicules Chars-fdp-divers NONDL"
-- "GI Chars-fdp-divers NONDL"
-- "epic GI Chars-fdp-divers NONDL"
-- "vehicules GI Chars-fdp-divers NONDL"
-- "Imp-chars Chars-fdp-divers NONDL"
-- "epic Imp-chars Chars-fdp-divers NONDL"
-- "vehicules Imp-chars Chars-fdp-divers NONDL"
-- "GI Imp-chars Chars-fdp-divers NONDL"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Imp-chars Chars-fdp-divers SUP"
 - "vehicules Imp-chars Chars-fdp-divers SUP"
 - "GI Imp-chars Chars-fdp-divers SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "vehicules NONDL SUP"
-- "epic vehicules NONDL SUP"
-- "GI NONDL SUP"
-- "epic GI NONDL SUP"
-- "vehicules GI NONDL SUP"
-- "Imp-chars NONDL SUP"
-- "epic Imp-chars NONDL SUP"
-- "vehicules Imp-chars NONDL SUP"
-- "GI Imp-chars NONDL SUP"
-- "Chars-fdp-divers NONDL SUP"
-- "epic Chars-fdp-divers NONDL SUP"
-- "vehicules Chars-fdp-divers NONDL SUP"
-- "GI Chars-fdp-divers NONDL SUP"
-- "Imp-chars Chars-fdp-divers NONDL SUP"
 
 ---
 
 ![](<thumbs_-_pdf-light-tank-1_-_Images_1.jpg> "thumbs_-_pdf-light-tank-1_-_Images_1.jpg")
+
+  ![](<thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.jpg> "thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.jpg")
 
   
 
@@ -124,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars Chars-fdp-divers NONDL SUP
+- epic vehicules GI Imp-chars Chars-fdp-divers  SUP
 
 
 Description :
@@ -138,7 +98,7 @@ An armoured tractor with delusions of grandeur. This will proxy for a Siegfried 
 Justification du tag SUP :
 
 2021-12-15 - Tweaked the supports, and realised Lychee exports the whole scene as an stl and not individual models. So there's now a single supported file and I've included the Lychee source.
-
+ImagesSTL_-_pdf-light-tank-120211215-32020-1bl2gou_zip_unpack_Italianmoose_pdf-light-tank-1_Siegfried_zip_unpack_Siegfried_lys_.jpg
 
 
 
