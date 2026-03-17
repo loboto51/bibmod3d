@@ -1,9 +1,9 @@
 
 ---
-title: "[PAYANT] Cults3d_supprimes > Italianmoose > Elfdar_Frigates_Mk__3 [non dl]"
-date: "2024-10-27T11:22:35Z"
+title: "[GRATUIT] Cults3d_supprimes > Italianmoose > Dark_Elfdar_Cruiser_1 [non dl]"
+date: "2020-03-25T01:38:08Z"
 toc: true
-image: "thumbs_-_elfdar-frigates-mk-3_-_Images_1.jpg"
+image: "thumbs_-_dark-eldar-cruiser-1_-_Images_1.jpg"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -65,15 +65,15 @@ tags:
 
 ---
 
-![](<thumbs_-_elfdar-frigates-mk-3_-_Images_1.jpg> "thumbs_-_elfdar-frigates-mk-3_-_Images_1.jpg")
+![](<thumbs_-_dark-eldar-cruiser-1_-_Images_1.jpg> "thumbs_-_dark-eldar-cruiser-1_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/elfdar-frigates-mk-3](https://cults3d.com/en/3d-model/game/elfdar-frigates-mk-3)
+Source : [https://cults3d.com/en/3d-model/game/dark-eldar-cruiser-1](https://cults3d.com/en/3d-model/game/dark-eldar-cruiser-1)
 
-Id objet : elfdar-frigates-mk-3
+Id objet : dark-eldar-cruiser-1
 
-Prix : 8 euros
+Prix : 0 euros
 
 Collections :
 
@@ -88,9 +88,11 @@ Collections pour tags :
 Description :
 
 ~~~
-Compatible with the classic tabletop wargame Battlefleet Gothic as Elfdar pirate frigates. Hulls 40 mm in length.
+Suitable in size and armament for a stand in for a Torture class cruiser for the classic tabletop wargame Battlefleet Gothic. All the BFG:XR weapons options as separate options (they're combined a bit). I've intended them to be printed from back to front.
 
-Please note you are not able to redistribute these files nor sell prints of them.
+I am not affiliated with GW in any way! Please don't reupload this on Shapeways and the like for commercial use (though you're welcome to upload them to get them printed that way for yourself).
+
+As requested by Arpheus, was quite fun to design! And Bakon, you're a gent!
 ~~~
 
 
