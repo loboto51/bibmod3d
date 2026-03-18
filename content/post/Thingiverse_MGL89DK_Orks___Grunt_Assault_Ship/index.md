@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > styxx83 > BFG___ORKS___SPACE_HULK [non dl]"
-date: "2020-04-29T15:38:06+00:00"
+title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Grunt_Assault_Ship [non dl]"
+date: "2019-01-10T11:27:07+00:00"
 toc: true
-image: "thumbs_-_4323697_-_Images_1.jpg"
+image: "thumbs_-_3346244_-_Images_1.jpg"
 tags:
-- "styxx83"
+- "MGL89DK"
 - "bfg"
 - "ORKS"
 - "bfg ORKS"
@@ -39,15 +39,13 @@ tags:
 
 ---
 
-![](<thumbs_-_4323697_-_Images_1.jpg> "thumbs_-_4323697_-_Images_1.jpg")
-
-  ![](<thumbs_-_4323697_-_Makes_1.jpg> "thumbs_-_4323697_-_Makes_1.jpg")
+![](<thumbs_-_3346244_-_Images_1.jpg> "thumbs_-_3346244_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:4323697](https://www.thingiverse.com/thing:4323697)
+Source : [https://www.thingiverse.com/thing:3346244](https://www.thingiverse.com/thing:3346244)
 
-Id objet : 4323697
+Id objet : 3346244
 
 Prix : 0 euros
 
@@ -64,13 +62,13 @@ Collections pour tags :
 Description :
 
 ~~~
-Hey Guys,
+My own take on a possible proxy for BFG, is not made to be an complete copy. The model have not been cut, or test printed. 
 
-today i finished my attempt of the ork space hulk.
+The model may be changede in the future.
 
-Enjoy and have fun.
 
-(I haven't printed it yet, so I am not able to say whether it's printer friendly or not)
+
+This thing was made with Tinkercad.
 ~~~
 
 

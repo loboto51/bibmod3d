@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Savage_Gunship [non dl]"
+title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Savage_Gunship [dl]"
 date: "2020-05-05T20:40:42+00:00"
 toc: true
 image: "thumbs_-_4340236_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "ORKS Flotte"
 - "bfg ORKS Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "ORKS NONDL"
-- "bfg ORKS NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "ORKS Flotte NONDL"
-- "bfg ORKS Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "ORKS SUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte SUP"
 - "ORKS Flotte SUP"
 - "bfg ORKS Flotte SUP"
-- "NONDL SUP"
-- "bfg NONDL SUP"
-- "ORKS NONDL SUP"
-- "bfg ORKS NONDL SUP"
-- "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "ORKS Flotte NONDL SUP"
 
 ---
 
 ![](<thumbs_-_4340236_-_Images_1.jpg> "thumbs_-_4340236_-_Images_1.jpg")
+
+  ![](<thumbs_-_4340236_-_ImagesSTL_1.jpg> "thumbs_-_4340236_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg ORKS Flotte NONDL SUP
+- bfg ORKS Flotte  SUP
 
 
 Description :
@@ -76,7 +63,7 @@ The cover picture shows two printed Savages along original Savages from the game
 Justification du tag SUP :
 
 2020-05-11: Added a pre-supported Chitubox file for easy printing of 3 Savages. Note: These Savages have stands permanently attached to them.
-
+ImagesSTL_-_Ork_Savage_Gunship_-_4340236_zip_unpack_files_3xSavage_with_stand_chitubox_.jpg
 
 
 

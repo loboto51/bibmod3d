@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Ravager_Attack_Ship [non dl]"
+title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Ravager_Attack_Ship [dl]"
 date: "2020-05-15T09:33:52+00:00"
 toc: true
 image: "thumbs_-_4364587_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "ORKS Flotte"
 - "bfg ORKS Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "ORKS NONDL"
-- "bfg ORKS NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "ORKS Flotte NONDL"
-- "bfg ORKS Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "ORKS SUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte SUP"
 - "ORKS Flotte SUP"
 - "bfg ORKS Flotte SUP"
-- "NONDL SUP"
-- "bfg NONDL SUP"
-- "ORKS NONDL SUP"
-- "bfg ORKS NONDL SUP"
-- "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "ORKS Flotte NONDL SUP"
 
 ---
 
 ![](<thumbs_-_4364587_-_Images_1.jpg> "thumbs_-_4364587_-_Images_1.jpg")
+
+  ![](<thumbs_-_4364587_-_ImagesSTL_1.jpg> "thumbs_-_4364587_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_4364587_-_Makes_1.jpg> "thumbs_-_4364587_-_Makes_1.jpg")
 
@@ -58,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg ORKS Flotte NONDL SUP
+- bfg ORKS Flotte  SUP
 
 
 Description :
@@ -78,7 +65,7 @@ I recommend printing on a resin printer.
 Justification du tag SUP :
 
 A version with a base attached and a pre-supported version is included in the download.
-
+ImagesSTL_-_Ork_Ravager_Attack_Ship_-_4364587_zip_unpack_files_Ravager_stand_chitubox_.jpg
 
 
 

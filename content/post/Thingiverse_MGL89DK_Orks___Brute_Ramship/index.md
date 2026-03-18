@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse_supprimes > Tsubureru > Lite_Kroozer [non dl]"
-date: "2018-08-20T09:46:21+00:00"
+title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Brute_Ramship [non dl]"
+date: "2019-01-10T11:26:51+00:00"
 toc: true
-image: "thumbs_-_3056614_-_Images_1.jpg"
+image: "thumbs_-_3346254_-_Images_1.jpg"
 tags:
-- "Tsubureru"
+- "MGL89DK"
 - "bfg"
 - "ORKS"
 - "bfg ORKS"
@@ -39,13 +39,13 @@ tags:
 
 ---
 
-![](<thumbs_-_3056614_-_Images_1.jpg> "thumbs_-_3056614_-_Images_1.jpg")
+![](<thumbs_-_3346254_-_Images_1.jpg> "thumbs_-_3346254_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3056614](https://www.thingiverse.com/thing:3056614)
+Source : [https://www.thingiverse.com/thing:3346254](https://www.thingiverse.com/thing:3346254)
 
-Id objet : 3056614
+Id objet : 3346254
 
 Prix : 0 euros
 
@@ -62,7 +62,13 @@ Collections pour tags :
 Description :
 
 ~~~
-Lite Kroozer suitable for Battlefleet Gothic or similar space games.
+My own take on a possible proxy for BFG, is not made to be an complete copy. The model have not been cut, or test printed. 
+
+The model may be changede in the future.
+
+
+
+This thing was made with Tinkercad.v
 ~~~
 
 

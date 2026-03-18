@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Kroozer [non dl]"
+title: "[GRATUIT] Thingiverse > jonaslepsoy > Ork_Kroozer [dl]"
 date: "2019-01-28T18:31:00+00:00"
 toc: true
 image: "thumbs_-_3387849_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "ORKS Flotte"
 - "bfg ORKS Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "ORKS NONDL"
-- "bfg ORKS NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "ORKS Flotte NONDL"
-- "bfg ORKS Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "ORKS SUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte SUP"
 - "ORKS Flotte SUP"
 - "bfg ORKS Flotte SUP"
-- "NONDL SUP"
-- "bfg NONDL SUP"
-- "ORKS NONDL SUP"
-- "bfg ORKS NONDL SUP"
-- "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "ORKS Flotte NONDL SUP"
 
 ---
 
 ![](<thumbs_-_3387849_-_Images_1.jpg> "thumbs_-_3387849_-_Images_1.jpg")
+
+  ![](<thumbs_-_3387849_-_ImagesSTL_1.jpg> "thumbs_-_3387849_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_3387849_-_Makes_1.jpg> "thumbs_-_3387849_-_Makes_1.jpg")
 
@@ -58,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg ORKS Flotte NONDL SUP
+- bfg ORKS Flotte  SUP
 
 
 Description :
@@ -86,7 +73,7 @@ Updates 2020-05-15:
 Justification du tag SUP :
 
 - I have added a pre-supported file of the kroozer with small base. Both the STL and Chitubox file is available.
-
+ImagesSTL_-_Ork_Kroozer_-_3387849_zip_unpack_files_Kroozer_small_base_chitubox_.jpg
 
 
 
