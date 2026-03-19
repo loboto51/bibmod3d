@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > styxx83 > BFG___ORKS___BATTLESHIPS___MODULAR [non dl]"
+title: "[GRATUIT] Thingiverse > styxx83 > BFG___ORKS___BATTLESHIPS___MODULAR [dl]"
 date: "2020-03-25T19:25:50+00:00"
 toc: true
 image: "thumbs_-_4241397_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "ORKS Flotte"
 - "bfg ORKS Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "ORKS NONDL"
-- "bfg ORKS NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "ORKS Flotte NONDL"
-- "bfg ORKS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "ORKS NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
 - "bfg ORKS Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "bfg ORKS NONDL NONSUP"
-- "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "ORKS Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4241397_-_Images_1.jpg> "thumbs_-_4241397_-_Images_1.jpg")
+
+  ![](<thumbs_-_4241397_-_ImagesSTL_1.jpg> "thumbs_-_4241397_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_4241397_-_Makes_1.jpg> "thumbs_-_4241397_-_Makes_1.jpg")
 
@@ -58,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg ORKS Flotte NONDL NONSUP
+- bfg ORKS Flotte  NONSUP
 
 
 Description :
