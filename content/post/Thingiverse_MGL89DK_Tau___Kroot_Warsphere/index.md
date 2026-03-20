@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > MGL89DK > Tau___Kroot_Warsphere [non dl]"
+title: "[GRATUIT] Thingiverse > MGL89DK > Tau___Kroot_Warsphere [dl]"
 date: "2019-01-10T20:55:55+00:00"
 toc: true
 image: "thumbs_-_3347358_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "bfg Flotte"
 - "TAU Flotte"
 - "bfg TAU Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "TAU NONDL"
-- "bfg TAU NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "TAU Flotte NONDL"
-- "bfg TAU Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "TAU NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "bfg Flotte NONSUP"
 - "TAU Flotte NONSUP"
 - "bfg TAU Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "bfg TAU NONDL NONSUP"
-- "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "TAU Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_3347358_-_Images_1.jpg> "thumbs_-_3347358_-_Images_1.jpg")
+
+  ![](<thumbs_-_3347358_-_ImagesSTL_1.jpg> "thumbs_-_3347358_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg TAU Flotte NONDL NONSUP
+- bfg TAU Flotte  NONSUP
 
 
 Description :
