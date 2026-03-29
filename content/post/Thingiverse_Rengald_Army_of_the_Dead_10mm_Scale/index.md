@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Rengald > Army_of_the_Dead_10mm_Scale [non dl]"
+title: "[GRATUIT] Thingiverse > Rengald > Army_of_the_Dead_10mm_Scale [dl]"
 date: "2026-03-25T23:10:07+00:00"
 toc: true
 image: "thumbs_-_7322691_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "MORTS-VIVANTS"
 - "warmaster MORTS-VIVANTS"
-- "NONDL"
-- "warmaster NONDL"
-- "MORTS-VIVANTS NONDL"
-- "warmaster MORTS-VIVANTS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "MORTS-VIVANTS NONSUP"
 - "warmaster MORTS-VIVANTS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7322691_-_Images_1.jpg> "thumbs_-_7322691_-_Images_1.jpg")
+
+  ![](<thumbs_-_7322691_-_ImagesSTL_1.jpg> "thumbs_-_7322691_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster MORTS-VIVANTS NONDL NONSUP
+- warmaster MORTS-VIVANTS  NONSUP
 
 
 Description :
