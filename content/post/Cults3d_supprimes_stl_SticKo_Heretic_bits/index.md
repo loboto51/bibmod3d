@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > SticKo > Loyalist_Heretics [dl]"
-date: "2025-11-03T20:32:44Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > SticKo > Heretic_bits [dl]"
+date: "2025-11-02T17:34:49Z"
 toc: true
-image: "thumbs_-_loyalist-heretics_-_Images_1.jpg"
+image: "thumbs_-_heretic-bits_-_Images_1.jpg"
 tags:
 - "SticKo"
 - "15mm"
@@ -104,6 +104,13 @@ tags:
 - "28mm Bits Builders NONSUP"
 - "HUMAINS Bits Builders NONSUP"
 - "Humains-divers-pour-kitbash Bits Builders NONSUP"
+- "28mm"
+- "CHAOS"
+- "28mm CHAOS"
+- "NONSUP"
+- "28mm NONSUP"
+- "CHAOS NONSUP"
+- "28mm CHAOS NONSUP"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -269,34 +276,36 @@ tags:
 
 ---
 
-![](<thumbs_-_loyalist-heretics_-_Images_1.jpg> "thumbs_-_loyalist-heretics_-_Images_1.jpg")
+![](<thumbs_-_heretic-bits_-_Images_1.jpg> "thumbs_-_heretic-bits_-_Images_1.jpg")
 
-  ![](<thumbs_-_loyalist-heretics_-_ImagesSTL_1.jpg> "thumbs_-_loyalist-heretics_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_heretic-bits_-_ImagesSTL_1.jpg> "thumbs_-_heretic-bits_-_ImagesSTL_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/loyalist-heretics](https://cults3d.com/en/3d-model/game/loyalist-heretics)
+Source : [https://cults3d.com/en/3d-model/game/heretic-bits](https://cults3d.com/en/3d-model/game/heretic-bits)
 
-Id objet : loyalist-heretics
+Id objet : heretic-bits
 
 Prix : 0.0 euros
 
 Collections :
 
 - 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders
+- 28mm CHAOS
 - 28mm IMP ARBITES GI HUMAINS Bits Builders
 
 
 Collections pour tags :
 
 - 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders  NONSUP
+- 28mm CHAOS  NONSUP
 - 28mm IMP ARBITES GI HUMAINS Bits Builders  NONSUP
 
 
 Description :
 
 ~~~
-More info in my bio
+Check out my bio for more
 ~~~
 
 
