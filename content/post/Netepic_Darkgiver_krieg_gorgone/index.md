@@ -3,7 +3,7 @@
 title: "[GRATUIT] Netepic > Darkgiver > krieg_gorgone [dl]"
 date: "2026-03-30"
 toc: true
-image: "thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg"
+image: "thumbs_-_krieg_gorgone_-_Images_1.jpg"
 tags:
 - "Darkgiver"
 - "epic"
@@ -65,7 +65,9 @@ tags:
 
 ---
 
-![](<thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg> "thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg")
+![](<thumbs_-_krieg_gorgone_-_Images_1.jpg> "thumbs_-_krieg_gorgone_-_Images_1.jpg")
+
+  ![](<thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg> "thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_krieg_gorgone_-_Makes_1.jpg> "thumbs_-_krieg_gorgone_-_Makes_1.jpg")
 
