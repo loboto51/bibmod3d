@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_General___Mighty_Fart_Horn [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_General___Mighty_Fart_Horn [dl]"
 date: "2025-07-16T21:58:49+00:00"
 toc: true
 image: "thumbs_-_7093576_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "NAINS"
 - "warmaster NAINS"
-- "NONDL"
-- "warmaster NONDL"
-- "NAINS NONDL"
-- "warmaster NAINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "NAINS NONSUP"
 - "warmaster NAINS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "NAINS NONDL NONSUP"
-- "warmaster NAINS NONDL NONSUP"
 
 ---
 
@@ -43,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS NONDL NONSUP
+- warmaster NAINS  NONSUP
 
 
 Description :

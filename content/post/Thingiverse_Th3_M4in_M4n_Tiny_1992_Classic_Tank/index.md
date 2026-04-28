@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_1992_Classic_Tank [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_1992_Classic_Tank [dl]"
 date: "2025-10-27T18:49:52+00:00"
 toc: true
 image: "thumbs_-_7183874_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "warmaster EMPIRE"
 - "HUMAINS EMPIRE"
 - "warmaster HUMAINS EMPIRE"
-- "NONDL"
-- "warmaster NONDL"
-- "HUMAINS NONDL"
-- "warmaster HUMAINS NONDL"
-- "EMPIRE NONDL"
-- "warmaster EMPIRE NONDL"
-- "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -29,13 +21,6 @@ tags:
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
 - "warmaster HUMAINS EMPIRE NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "HUMAINS EMPIRE NONDL NONSUP"
 
 ---
 
@@ -56,7 +41,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster HUMAINS EMPIRE NONDL NONSUP
+- warmaster HUMAINS EMPIRE  NONSUP
 
 
 Description :

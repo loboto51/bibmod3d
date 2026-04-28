@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Bretonnian_General_on_Hippogriff [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Bretonnian_General_on_Hippogriff [dl]"
 date: "2024-08-14T23:05:29+00:00"
 toc: true
 image: "thumbs_-_6731003_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "warmaster BRETONNIENS"
 - "HUMAINS BRETONNIENS"
 - "warmaster HUMAINS BRETONNIENS"
-- "NONDL"
-- "warmaster NONDL"
-- "HUMAINS NONDL"
-- "warmaster HUMAINS NONDL"
-- "BRETONNIENS NONDL"
-- "warmaster BRETONNIENS NONDL"
-- "HUMAINS BRETONNIENS NONDL"
-- "warmaster HUMAINS BRETONNIENS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -29,13 +21,6 @@ tags:
 - "warmaster BRETONNIENS NONSUP"
 - "HUMAINS BRETONNIENS NONSUP"
 - "warmaster HUMAINS BRETONNIENS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "BRETONNIENS NONDL NONSUP"
-- "warmaster BRETONNIENS NONDL NONSUP"
-- "HUMAINS BRETONNIENS NONDL NONSUP"
 
 ---
 
@@ -58,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster HUMAINS BRETONNIENS NONDL NONSUP
+- warmaster HUMAINS BRETONNIENS  NONSUP
 
 
 Description :

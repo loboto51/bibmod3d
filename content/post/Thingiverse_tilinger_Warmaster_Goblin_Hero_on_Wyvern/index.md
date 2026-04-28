@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Hero_on_Wyvern [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Hero_on_Wyvern [dl]"
 date: "2024-12-07T20:57:30+00:00"
 toc: true
 image: "thumbs_-_6862199_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "GOBELINS"
 - "warmaster GOBELINS"
-- "NONDL"
-- "warmaster NONDL"
-- "GOBELINS NONDL"
-- "warmaster GOBELINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "GOBELINS NONSUP"
 - "warmaster GOBELINS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "GOBELINS NONDL NONSUP"
-- "warmaster GOBELINS NONDL NONSUP"
 
 ---
 
@@ -43,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster GOBELINS NONDL NONSUP
+- warmaster GOBELINS  NONSUP
 
 
 Description :

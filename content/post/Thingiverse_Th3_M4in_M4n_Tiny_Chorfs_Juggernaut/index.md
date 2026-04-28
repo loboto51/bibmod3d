@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Chorfs_Juggernaut [non dl]"
+title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Chorfs_Juggernaut [dl]"
 date: "2025-12-12T13:32:39+00:00"
 toc: true
 image: "thumbs_-_7232520_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "NAINS-DU-CHAOS"
 - "warmaster NAINS-DU-CHAOS"
-- "NONDL"
-- "warmaster NONDL"
-- "NAINS-DU-CHAOS NONDL"
-- "warmaster NAINS-DU-CHAOS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "NAINS-DU-CHAOS NONSUP"
 - "warmaster NAINS-DU-CHAOS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "NAINS-DU-CHAOS NONDL NONSUP"
-- "warmaster NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
@@ -41,7 +33,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster NAINS-DU-CHAOS NONDL NONSUP
+- warmaster NAINS-DU-CHAOS  NONSUP
 
 
 Description :

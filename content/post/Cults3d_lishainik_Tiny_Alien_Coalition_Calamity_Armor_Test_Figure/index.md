@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > lishainik > Tiny_Alien_Coalition_Calamity_Armor_Test_Figure [non dl]"
+title: "[GRATUIT] Cults3d > lishainik > Tiny_Alien_Coalition_Calamity_Armor_Test_Figure [dl]"
 date: "2026-04-25T21:06:39Z"
 toc: true
 image: "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic TAU Armures"
 - "infanterie TAU Armures"
 - "epic infanterie TAU Armures"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TAU NONDL"
-- "epic TAU NONDL"
-- "infanterie TAU NONDL"
-- "epic infanterie TAU NONDL"
-- "Armures NONDL"
-- "epic Armures NONDL"
-- "infanterie Armures NONDL"
-- "epic infanterie Armures NONDL"
-- "TAU Armures NONDL"
-- "epic TAU Armures NONDL"
-- "infanterie TAU Armures NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "TAU Armures NONSUP"
 - "epic TAU Armures NONSUP"
 - "infanterie TAU Armures NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "epic TAU NONDL NONSUP"
-- "infanterie TAU NONDL NONSUP"
-- "Armures NONDL NONSUP"
-- "epic Armures NONDL NONSUP"
-- "infanterie Armures NONDL NONSUP"
-- "TAU Armures NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg")
+
+  ![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.jpg> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TAU Armures NONDL NONSUP
+- epic infanterie TAU Armures  NONSUP
 
 
 Description :

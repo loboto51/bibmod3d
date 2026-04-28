@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Lizardmen_Cold_One_Riders [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Lizardmen_Cold_One_Riders [dl]"
 date: "2025-08-29T21:33:34+00:00"
 toc: true
 image: "thumbs_-_7131291_-_Images_1.jpg"
@@ -9,18 +9,10 @@ tags:
 - "warmaster"
 - "HOMMES-LEZARDS"
 - "warmaster HOMMES-LEZARDS"
-- "NONDL"
-- "warmaster NONDL"
-- "HOMMES-LEZARDS NONDL"
-- "warmaster HOMMES-LEZARDS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HOMMES-LEZARDS NONSUP"
 - "warmaster HOMMES-LEZARDS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "HOMMES-LEZARDS NONDL NONSUP"
-- "warmaster HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
@@ -41,7 +33,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster HOMMES-LEZARDS NONDL NONSUP
+- warmaster HOMMES-LEZARDS  NONSUP
 
 
 Description :
