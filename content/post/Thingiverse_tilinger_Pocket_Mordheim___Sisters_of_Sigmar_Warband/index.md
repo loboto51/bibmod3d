@@ -26,6 +26,8 @@ tags:
 
 ![](<thumbs_-_6947364_-_Images_1.jpg> "thumbs_-_6947364_-_Images_1.jpg")
 
+  ![](<thumbs_-_6947364_-_ImagesSTL_1.jpg> "thumbs_-_6947364_-_ImagesSTL_1.jpg")
+
   ![](<thumbs_-_6947364_-_Makes_1.jpg> "thumbs_-_6947364_-_Makes_1.jpg")
 
   

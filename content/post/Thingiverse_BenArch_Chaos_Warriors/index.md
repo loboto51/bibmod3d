@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > BenArch > Chaos_Warriors [non dl]"
+title: "[GRATUIT] Thingiverse > BenArch > Chaos_Warriors [dl]"
 date: "2020-03-09T13:18:04+00:00"
 toc: true
 image: "thumbs_-_4211168_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "warmaster"
 - "CHAOS"
 - "warmaster CHAOS"
-- "NONDL"
-- "warmaster NONDL"
-- "CHAOS NONDL"
-- "warmaster CHAOS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "CHAOS NONSUP"
 - "warmaster CHAOS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4211168_-_Images_1.jpg> "thumbs_-_4211168_-_Images_1.jpg")
+
+  ![](<thumbs_-_4211168_-_ImagesSTL_1.jpg> "thumbs_-_4211168_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_4211168_-_Makes_1.jpg> "thumbs_-_4211168_-_Makes_1.jpg")
 
@@ -43,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster CHAOS NONDL NONSUP
+- warmaster CHAOS  NONSUP
 
 
 Description :

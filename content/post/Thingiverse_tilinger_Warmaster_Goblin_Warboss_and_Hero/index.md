@@ -18,6 +18,8 @@ tags:
 
 ![](<thumbs_-_6852225_-_Images_1.jpg> "thumbs_-_6852225_-_Images_1.jpg")
 
+  ![](<thumbs_-_6852225_-_ImagesSTL_1.jpg> "thumbs_-_6852225_-_ImagesSTL_1.jpg")
+
   ![](<thumbs_-_6852225_-_Makes_1.jpg> "thumbs_-_6852225_-_Makes_1.jpg")
 
   

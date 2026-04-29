@@ -18,6 +18,8 @@ tags:
 
 ![](<thumbs_-_6924099_-_Images_1.jpg> "thumbs_-_6924099_-_Images_1.jpg")
 
+  ![](<thumbs_-_6924099_-_ImagesSTL_1.jpg> "thumbs_-_6924099_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://www.thingiverse.com/thing:6924099](https://www.thingiverse.com/thing:6924099)

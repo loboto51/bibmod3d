@@ -41,6 +41,8 @@ tags:
 
 ![](<thumbs_-_6966538_-_Images_1.jpg> "thumbs_-_6966538_-_Images_1.jpg")
 
+  ![](<thumbs_-_6966538_-_ImagesSTL_1.jpg> "thumbs_-_6966538_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://www.thingiverse.com/thing:6966538](https://www.thingiverse.com/thing:6966538)

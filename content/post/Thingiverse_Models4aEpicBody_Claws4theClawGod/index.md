@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Models4aEpicBody > Claws4theClawGod [non dl]"
+title: "[GRATUIT] Thingiverse > Models4aEpicBody > Claws4theClawGod [dl]"
 date: "2019-03-18T11:46:28+00:00"
 toc: true
-image: ""
+image: "thumbs_-_3497723_-_ImagesSTL_1.jpg"
 tags:
 - "Models4aEpicBody"
 - "epic"
@@ -36,32 +36,6 @@ tags:
 - "SMI Sm-dark-talons SMI-DA"
 - "epic SMI Sm-dark-talons SMI-DA"
 - "volants SMI Sm-dark-talons SMI-DA"
-- "NONDL"
-- "epic NONDL"
-- "volants NONDL"
-- "epic volants NONDL"
-- "SMI NONDL"
-- "epic SMI NONDL"
-- "volants SMI NONDL"
-- "epic volants SMI NONDL"
-- "Sm-dark-talons NONDL"
-- "epic Sm-dark-talons NONDL"
-- "volants Sm-dark-talons NONDL"
-- "epic volants Sm-dark-talons NONDL"
-- "SMI Sm-dark-talons NONDL"
-- "epic SMI Sm-dark-talons NONDL"
-- "volants SMI Sm-dark-talons NONDL"
-- "SMI-DA NONDL"
-- "epic SMI-DA NONDL"
-- "volants SMI-DA NONDL"
-- "epic volants SMI-DA NONDL"
-- "SMI SMI-DA NONDL"
-- "epic SMI SMI-DA NONDL"
-- "volants SMI SMI-DA NONDL"
-- "Sm-dark-talons SMI-DA NONDL"
-- "epic Sm-dark-talons SMI-DA NONDL"
-- "volants Sm-dark-talons SMI-DA NONDL"
-- "SMI Sm-dark-talons SMI-DA NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Sm-dark-talons SMI-DA NONSUP"
 - "volants Sm-dark-talons SMI-DA NONSUP"
 - "SMI Sm-dark-talons SMI-DA NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "volants NONDL NONSUP"
-- "epic volants NONDL NONSUP"
-- "SMI NONDL NONSUP"
-- "epic SMI NONDL NONSUP"
-- "volants SMI NONDL NONSUP"
-- "Sm-dark-talons NONDL NONSUP"
-- "epic Sm-dark-talons NONDL NONSUP"
-- "volants Sm-dark-talons NONDL NONSUP"
-- "SMI Sm-dark-talons NONDL NONSUP"
-- "SMI-DA NONDL NONSUP"
-- "epic SMI-DA NONDL NONSUP"
-- "volants SMI-DA NONDL NONSUP"
-- "SMI SMI-DA NONDL NONSUP"
-- "Sm-dark-talons SMI-DA NONDL NONSUP"
 
 ---
 
+![](<thumbs_-_3497723_-_ImagesSTL_1.jpg> "thumbs_-_3497723_-_ImagesSTL_1.jpg")
 
+  
 
 Source : [https://www.thingiverse.com/thing:3497723](https://www.thingiverse.com/thing:3497723)
 
@@ -122,7 +82,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants SMI Sm-dark-talons SMI-DA NONDL NONSUP
+- epic volants SMI Sm-dark-talons SMI-DA  NONSUP
 
 
 Description :

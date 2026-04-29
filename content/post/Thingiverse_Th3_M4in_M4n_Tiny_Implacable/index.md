@@ -26,6 +26,8 @@ tags:
 
 ![](<thumbs_-_7027922_-_Images_1.jpg> "thumbs_-_7027922_-_Images_1.jpg")
 
+  ![](<thumbs_-_7027922_-_ImagesSTL_1.jpg> "thumbs_-_7027922_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://www.thingiverse.com/thing:7027922](https://www.thingiverse.com/thing:7027922)

@@ -13,18 +13,20 @@ tags:
 - "warmaster EMPIRE"
 - "HUMAINS EMPIRE"
 - "warmaster HUMAINS EMPIRE"
-- "NONSUP"
-- "warmaster NONSUP"
-- "HUMAINS NONSUP"
-- "warmaster HUMAINS NONSUP"
-- "EMPIRE NONSUP"
-- "warmaster EMPIRE NONSUP"
-- "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
+- "SUP"
+- "warmaster SUP"
+- "HUMAINS SUP"
+- "warmaster HUMAINS SUP"
+- "EMPIRE SUP"
+- "warmaster EMPIRE SUP"
+- "HUMAINS EMPIRE SUP"
+- "warmaster HUMAINS EMPIRE SUP"
 
 ---
 
 ![](<thumbs_-_6994140_-_Images_1.jpg> "thumbs_-_6994140_-_Images_1.jpg")
+
+  ![](<thumbs_-_6994140_-_ImagesSTL_1.jpg> "thumbs_-_6994140_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_6994140_-_Makes_1.jpg> "thumbs_-_6994140_-_Makes_1.jpg")
 
@@ -43,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster HUMAINS EMPIRE  NONSUP
+- warmaster HUMAINS EMPIRE  SUP
 
 
 Description :
@@ -53,6 +55,11 @@ Another tiny tank for your tiny army.
 
 Im also preparing some rules to use all these variants in game, but first i will finish the models :)
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Tiny_Ol__Reliable_-_6994140_zip_unpack_files_OlReliable_sup_stl_.jpg
 
 
 
