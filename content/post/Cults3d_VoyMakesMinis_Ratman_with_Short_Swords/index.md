@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > VoyMakesMinis > Ratman_with_Short_Swords [non dl]"
+title: "[GRATUIT] Cults3d > VoyMakesMinis > Ratman_with_Short_Swords [dl]"
 date: "2026-04-06T10:20:29Z"
 toc: true
 image: "thumbs_-_ratman-with-short-swords_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "SKAVENS"
 - "28mm SKAVENS"
-- "NONDL"
-- "28mm NONDL"
-- "SKAVENS NONDL"
-- "28mm SKAVENS NONDL"
 - "SUP"
 - "28mm SUP"
 - "SKAVENS SUP"
 - "28mm SKAVENS SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "SKAVENS NONDL SUP"
-- "28mm SKAVENS NONDL SUP"
 
 ---
 
 ![](<thumbs_-_ratman-with-short-swords_-_Images_1.jpg> "thumbs_-_ratman-with-short-swords_-_Images_1.jpg")
+
+  ![](<thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.jpg> "thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm SKAVENS NONDL SUP
+- 28mm SKAVENS  SUP
 
 
 Description :
@@ -61,7 +55,8 @@ I also started learning how to draw a few months ago, although for the backgroun
 Justification du tag SUP :
 
 This little rat miniature fits on 25mm bases and prints as a single, presupported piece with minimal post-support artefacts that can be easily sanded down.
-
+ImagesSTL_-_Ratman_with_Short_Swords_zip_unpack_supported_ratman_presupported_stl_.jpg
+ImagesSTL_-_Ratman_with_Short_Swords_zip_unpack_unsupported_ratman_stl_.jpg
 
 
 
