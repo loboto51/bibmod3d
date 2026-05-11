@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > sampsonkennedy > Imperial_guard_shotgun [non dl]"
-date: "2025-01-26T11:37:09Z"
+title: "[GRATUIT] Cults3d_supprimes > ChrisK89 > New_Heresy_assault_shotguns [non dl]"
+date: "2024-08-03T13:33:13Z"
 toc: true
-image: "thumbs_-_imperial-guard-shotgun_-_Images_1.jpg"
+image: "thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg"
 tags:
-- "sampsonkennedy"
+- "ChrisK89"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -264,13 +264,13 @@ tags:
 
 ---
 
-![](<thumbs_-_imperial-guard-shotgun_-_Images_1.jpg> "thumbs_-_imperial-guard-shotgun_-_Images_1.jpg")
+![](<thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg> "thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/imperial-guard-shotgun](https://cults3d.com/en/3d-model/game/imperial-guard-shotgun)
+Source : [https://cults3d.com/en/3d-model/game/new-heresy-assault-shotguns](https://cults3d.com/en/3d-model/game/new-heresy-assault-shotguns)
 
-Id objet : imperial-guard-shotgun
+Id objet : new-heresy-assault-shotguns
 
 Prix : 0.0 euros
 
@@ -287,9 +287,13 @@ Collections pour tags :
 Description :
 
 ~~~
-Shotgun styled after the old forgeworld hardened veteran upgrades, but adjusted to fit with the new plastic cadians. 
+Here are some assault shotguns for our beloved big armored marines from the heresy era.
 
-Currently it is just the weapon itself and you will need to trim out the lasgun to allow this to fit in its place. I may make a version with some arms if I'm feeling particularly motivated (don't count on it)
+They should fit the plastic poses with a little bit of modelling aswell as the great beaky builder which they were made for.
+
+Have fun printing.
+
+Thank you philly, damsa and fastwalker for the assets.
 ~~~
 
 

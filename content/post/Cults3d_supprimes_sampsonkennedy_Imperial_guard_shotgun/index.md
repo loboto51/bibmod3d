@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Toftylicious > Imperialist_Autogun_28mm [non dl]"
-date: "2023-12-09T11:18:21+00:00"
+title: "[GRATUIT] Cults3d_supprimes > sampsonkennedy > Imperial_guard_shotgun [non dl]"
+date: "2025-01-26T11:37:09Z"
 toc: true
-image: "thumbs_-_6363385_-_Images_1.jpg"
+image: "thumbs_-_imperial-guard-shotgun_-_Images_1.jpg"
 tags:
-- "Toftylicious"
+- "sampsonkennedy"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -264,17 +264,15 @@ tags:
 
 ---
 
-![](<thumbs_-_6363385_-_Images_1.jpg> "thumbs_-_6363385_-_Images_1.jpg")
-
-  ![](<thumbs_-_6363385_-_Makes_1.jpg> "thumbs_-_6363385_-_Makes_1.jpg")
+![](<thumbs_-_imperial-guard-shotgun_-_Images_1.jpg> "thumbs_-_imperial-guard-shotgun_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:6363385](https://www.thingiverse.com/thing:6363385)
+Source : [https://cults3d.com/en/3d-model/game/imperial-guard-shotgun](https://cults3d.com/en/3d-model/game/imperial-guard-shotgun)
 
-Id objet : 6363385
+Id objet : imperial-guard-shotgun
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
@@ -289,7 +287,9 @@ Collections pour tags :
 Description :
 
 ~~~
-I present a Rogue Trader era Autogun. for use with Imperialist Forces, Space Dwarves, or even Super Soldier Scout models.
+Shotgun styled after the old forgeworld hardened veteran upgrades, but adjusted to fit with the new plastic cadians. 
+
+Currently it is just the weapon itself and you will need to trim out the lasgun to allow this to fit in its place. I may make a version with some arms if I'm feeling particularly motivated (don't count on it)
 ~~~
 
 

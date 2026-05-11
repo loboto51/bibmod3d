@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > ChrisK89 > New_Heresy_assault_shotguns [non dl]"
-date: "2024-08-03T13:33:13Z"
+title: "[GRATUIT] Cults3d_supprimes > DasModell > WEAPON_PACK [non dl]"
+date: "2025-12-17T03:43:52Z"
 toc: true
-image: "thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg"
+image: "thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg"
 tags:
-- "ChrisK89"
+- "DasModell"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -264,13 +264,13 @@ tags:
 
 ---
 
-![](<thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg> "thumbs_-_new-heresy-assault-shotguns_-_Images_1.jpg")
+![](<thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg> "thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/new-heresy-assault-shotguns](https://cults3d.com/en/3d-model/game/new-heresy-assault-shotguns)
+Source : [https://cults3d.com/en/3d-model/game/weapon-pack-dasmodell](https://cults3d.com/en/3d-model/game/weapon-pack-dasmodell)
 
-Id objet : new-heresy-assault-shotguns
+Id objet : weapon-pack-dasmodell
 
 Prix : 0.0 euros
 
@@ -287,13 +287,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Here are some assault shotguns for our beloved big armored marines from the heresy era.
-
-They should fit the plastic poses with a little bit of modelling aswell as the great beaky builder which they were made for.
-
-Have fun printing.
-
-Thank you philly, damsa and fastwalker for the assets.
+A few weapons I've had lying around in my collection. They were supposed to be released with the full builders, but while work on the builders is delayed, I'm posting what I have.
 ~~~
 
 

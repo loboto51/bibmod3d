@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > SamilEmreYilmaz1903 > T_Side_Default_Knife__CS_GO_CS_2_ [non dl]"
-date: "2026-03-07T06:16:29Z"
+title: "[GRATUIT] Thingiverse_supprimes > Toftylicious > Imperialist_Autogun_28mm [non dl]"
+date: "2023-12-09T11:18:21+00:00"
 toc: true
-image: "thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg"
+image: "thumbs_-_6363385_-_Images_1.jpg"
 tags:
-- "SamilEmreYilmaz1903"
+- "Toftylicious"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -264,15 +264,17 @@ tags:
 
 ---
 
-![](<thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg> "thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg")
+![](<thumbs_-_6363385_-_Images_1.jpg> "thumbs_-_6363385_-_Images_1.jpg")
+
+  ![](<thumbs_-_6363385_-_Makes_1.jpg> "thumbs_-_6363385_-_Makes_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/t-side-default-knife-cs-go-cs-2](https://cults3d.com/en/3d-model/game/t-side-default-knife-cs-go-cs-2)
+Source : [https://www.thingiverse.com/thing:6363385](https://www.thingiverse.com/thing:6363385)
 
-Id objet : t-side-default-knife-cs-go-cs-2
+Id objet : 6363385
 
-Prix : 0.0 euros
+Prix : 0 euros
 
 Collections :
 
@@ -287,9 +289,7 @@ Collections pour tags :
 Description :
 
 ~~~
-The model features a detailed blade, guard, and handle, inspired by traditional hunting knives. It is optimized for 3D printing and works well as a decorative piece, cosplay prop, or collector item.
-
-The geometry is clean and simple, making it easy to slice and print on most FDM 3D printers.
+I present a Rogue Trader era Autogun. for use with Imperialist Forces, Space Dwarves, or even Super Soldier Scout models.
 ~~~
 
 

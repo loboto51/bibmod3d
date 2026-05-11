@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > DasModell > WEAPON_PACK [non dl]"
-date: "2025-12-17T03:43:52Z"
+title: "[GRATUIT] Cults3d_supprimes > SamilEmreYilmaz1903 > T_Side_Default_Knife__CS_GO_CS_2_ [non dl]"
+date: "2026-03-07T06:16:29Z"
 toc: true
-image: "thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg"
+image: "thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg"
 tags:
-- "DasModell"
+- "SamilEmreYilmaz1903"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -264,13 +264,13 @@ tags:
 
 ---
 
-![](<thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg> "thumbs_-_weapon-pack-dasmodell_-_Images_1.jpg")
+![](<thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg> "thumbs_-_t-side-default-knife-cs-go-cs-2_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/weapon-pack-dasmodell](https://cults3d.com/en/3d-model/game/weapon-pack-dasmodell)
+Source : [https://cults3d.com/en/3d-model/game/t-side-default-knife-cs-go-cs-2](https://cults3d.com/en/3d-model/game/t-side-default-knife-cs-go-cs-2)
 
-Id objet : weapon-pack-dasmodell
+Id objet : t-side-default-knife-cs-go-cs-2
 
 Prix : 0.0 euros
 
@@ -287,7 +287,9 @@ Collections pour tags :
 Description :
 
 ~~~
-A few weapons I've had lying around in my collection. They were supposed to be released with the full builders, but while work on the builders is delayed, I'm posting what I have.
+The model features a detailed blade, guard, and handle, inspired by traditional hunting knives. It is optimized for 3D printing and works well as a decorative piece, cosplay prop, or collector item.
+
+The geometry is clean and simple, making it easy to slice and print on most FDM 3D printers.
 ~~~
 
 
