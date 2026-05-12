@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mangforge > Jungle_fighter_s_blade [dl]"
-date: "2022-04-22T08:12:03Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > Mkhand_Industries > Interstellar_Army_Office_Supply_Attachments [dl]"
+date: "2022-06-21T20:06:21Z"
 toc: true
-image: "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg"
+image: "thumbs_-_interstellar-army-office-supply-attachments_-_Images_1.jpg"
 tags:
-- "Mangforge"
+- "Mkhand_Industries"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg")
+![](<thumbs_-_interstellar-army-office-supply-attachments_-_Images_1.jpg> "thumbs_-_interstellar-army-office-supply-attachments_-_Images_1.jpg")
 
-  ![](<thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_interstellar-army-office-supply-attachments_-_ImagesSTL_1.jpg> "thumbs_-_interstellar-army-office-supply-attachments_-_ImagesSTL_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade](https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade)
+Source : [https://cults3d.com/en/3d-model/game/interstellar-army-office-supply-attachments](https://cults3d.com/en/3d-model/game/interstellar-army-office-supply-attachments)
 
-Id objet : jungle-fighter-s-blade
+Id objet : interstellar-army-office-supply-attachments
 
 Prix : 0.0 euros
 
@@ -196,13 +196,9 @@ Collections pour tags :
 Description :
 
 ~~~
-A blade for your jungle fighter models
+A variety of peripherals for your office supplies to improve their performance. Enhance the precision and cut down the noise of your screwdriving, stapling and lighting with optical scopes and suppressors today. Never be distracted by your menials work again!
 
-*Edit:*
-V2 has a wider blade.
-Added The Cat Fang (not tested yet)
-
-As always, "Watch" if you want to be informed of any updates.
+Good for conversion bits and digital kit-bashing.
 ~~~
 
 

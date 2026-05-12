@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mangforge > Jungle_fighter_s_blade [dl]"
-date: "2022-04-22T08:12:03Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > Solutionlesn > Weapon_rack [dl]"
+date: "2020-08-18T14:00:41Z"
 toc: true
-image: "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg"
+image: "thumbs_-_weapon-rack_-_Images_1.jpg"
 tags:
-- "Mangforge"
+- "Solutionlesn"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg")
+![](<thumbs_-_weapon-rack_-_Images_1.jpg> "thumbs_-_weapon-rack_-_Images_1.jpg")
 
-  ![](<thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_weapon-rack_-_ImagesSTL_1.jpg> "thumbs_-_weapon-rack_-_ImagesSTL_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade](https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade)
+Source : [https://cults3d.com/en/3d-model/game/weapon-rack](https://cults3d.com/en/3d-model/game/weapon-rack)
 
-Id objet : jungle-fighter-s-blade
+Id objet : weapon-rack
 
 Prix : 0.0 euros
 
@@ -196,13 +196,31 @@ Collections pour tags :
 Description :
 
 ~~~
-A blade for your jungle fighter models
+Proxy for some weapon options. Scaled for 28mm tabletop games.
 
-*Edit:*
-V2 has a wider blade.
-Added The Cat Fang (not tested yet)
-
-As always, "Watch" if you want to be informed of any updates.
+Model list:
+Flamer
+Heavy flamer
+Grenade launcher
+Laspistol
+HSLaspistol
+HSLasgun
+HSVolleygun
+Medical injector
+Lasgun
+Lassniper rifle
+non-elite plasmagun 
+non-elite plasmapistol
+non-elite boltpistol
+non-elite meltagun 
+elite plasmagun 
+elite plasmapistol
+elite boltpistol
+elite meltagun
+Chainsword
+Powersword
+Powerfist
+Krieg HS with backpack
 ~~~
 
 

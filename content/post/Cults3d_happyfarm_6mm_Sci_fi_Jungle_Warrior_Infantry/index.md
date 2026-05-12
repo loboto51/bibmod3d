@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > happyfarm > 6mm_Sci_fi_Jungle_Warrior_Infantry [non dl]"
+title: "[GRATUIT] Cults3d > happyfarm > 6mm_Sci_fi_Jungle_Warrior_Infantry [dl]"
 date: "2026-05-08T13:51:31Z"
 toc: true
 image: "thumbs_-_6mm-sci-fi-jungle-warrior-infantry_-_Images_1.jpg"
@@ -36,32 +36,6 @@ tags:
 - "GI Humains-tactiques GI-CATACHANS"
 - "epic GI Humains-tactiques GI-CATACHANS"
 - "infanterie GI Humains-tactiques GI-CATACHANS"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
-- "Humains-tactiques NONDL"
-- "epic Humains-tactiques NONDL"
-- "infanterie Humains-tactiques NONDL"
-- "epic infanterie Humains-tactiques NONDL"
-- "GI Humains-tactiques NONDL"
-- "epic GI Humains-tactiques NONDL"
-- "infanterie GI Humains-tactiques NONDL"
-- "GI-CATACHANS NONDL"
-- "epic GI-CATACHANS NONDL"
-- "infanterie GI-CATACHANS NONDL"
-- "epic infanterie GI-CATACHANS NONDL"
-- "GI GI-CATACHANS NONDL"
-- "epic GI GI-CATACHANS NONDL"
-- "infanterie GI GI-CATACHANS NONDL"
-- "Humains-tactiques GI-CATACHANS NONDL"
-- "epic Humains-tactiques GI-CATACHANS NONDL"
-- "infanterie Humains-tactiques GI-CATACHANS NONDL"
-- "GI Humains-tactiques GI-CATACHANS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -88,26 +62,12 @@ tags:
 - "epic Humains-tactiques GI-CATACHANS SUP"
 - "infanterie Humains-tactiques GI-CATACHANS SUP"
 - "GI Humains-tactiques GI-CATACHANS SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
-- "GI NONDL SUP"
-- "epic GI NONDL SUP"
-- "infanterie GI NONDL SUP"
-- "Humains-tactiques NONDL SUP"
-- "epic Humains-tactiques NONDL SUP"
-- "infanterie Humains-tactiques NONDL SUP"
-- "GI Humains-tactiques NONDL SUP"
-- "GI-CATACHANS NONDL SUP"
-- "epic GI-CATACHANS NONDL SUP"
-- "infanterie GI-CATACHANS NONDL SUP"
-- "GI GI-CATACHANS NONDL SUP"
-- "Humains-tactiques GI-CATACHANS NONDL SUP"
 
 ---
 
 ![](<thumbs_-_6mm-sci-fi-jungle-warrior-infantry_-_Images_1.jpg> "thumbs_-_6mm-sci-fi-jungle-warrior-infantry_-_Images_1.jpg")
+
+  ![](<thumbs_-_6mm-sci-fi-jungle-warrior-infantry_-_ImagesSTL_1.jpg> "thumbs_-_6mm-sci-fi-jungle-warrior-infantry_-_ImagesSTL_1.jpg")
 
   
 
@@ -124,7 +84,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Humains-tactiques GI-CATACHANS NONDL SUP
+- epic infanterie GI Humains-tactiques GI-CATACHANS  SUP
 
 
 Description :
@@ -147,7 +107,7 @@ I hope to add command characters and heavy weapons troopers in the future.
 Justification du tag SUP :
 
 Supported Lychee file included with some mirrored for poses of the basic troopers for additional variety.
-
+ImagesSTL_-_6mm_sci-fi_jungle_warrior_infantry_zip_unpack_supported-troopers_lys_.jpg
 
 
 

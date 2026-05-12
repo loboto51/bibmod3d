@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Mangforge > Jungle_fighter_s_blade [dl]"
-date: "2022-04-22T08:12:03Z"
+title: "[GRATUIT] Cults3d_supprimes > adamjlove92 > Lasgun_Variants [non dl]"
+date: "2021-01-13T12:25:33Z"
 toc: true
-image: "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg"
+image: "thumbs_-_lasgun-variants_-_Images_1.jpg"
 tags:
-- "Mangforge"
+- "adamjlove92"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -104,6 +104,70 @@ tags:
 - "IMP 40k-armes-diverses Bits Builders"
 - "HUMAINS 40k-armes-diverses Bits Builders"
 - "ORKS 40k-armes-diverses Bits Builders"
+- "NONDL"
+- "28mm NONDL"
+- "IMP NONDL"
+- "28mm IMP NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "28mm IMP HUMAINS NONDL"
+- "ORKS NONDL"
+- "28mm ORKS NONDL"
+- "IMP ORKS NONDL"
+- "28mm IMP ORKS NONDL"
+- "HUMAINS ORKS NONDL"
+- "28mm HUMAINS ORKS NONDL"
+- "IMP HUMAINS ORKS NONDL"
+- "40k-armes-diverses NONDL"
+- "28mm 40k-armes-diverses NONDL"
+- "IMP 40k-armes-diverses NONDL"
+- "28mm IMP 40k-armes-diverses NONDL"
+- "HUMAINS 40k-armes-diverses NONDL"
+- "28mm HUMAINS 40k-armes-diverses NONDL"
+- "IMP HUMAINS 40k-armes-diverses NONDL"
+- "ORKS 40k-armes-diverses NONDL"
+- "28mm ORKS 40k-armes-diverses NONDL"
+- "IMP ORKS 40k-armes-diverses NONDL"
+- "HUMAINS ORKS 40k-armes-diverses NONDL"
+- "Bits NONDL"
+- "28mm Bits NONDL"
+- "IMP Bits NONDL"
+- "28mm IMP Bits NONDL"
+- "HUMAINS Bits NONDL"
+- "28mm HUMAINS Bits NONDL"
+- "IMP HUMAINS Bits NONDL"
+- "ORKS Bits NONDL"
+- "28mm ORKS Bits NONDL"
+- "IMP ORKS Bits NONDL"
+- "HUMAINS ORKS Bits NONDL"
+- "40k-armes-diverses Bits NONDL"
+- "28mm 40k-armes-diverses Bits NONDL"
+- "IMP 40k-armes-diverses Bits NONDL"
+- "HUMAINS 40k-armes-diverses Bits NONDL"
+- "ORKS 40k-armes-diverses Bits NONDL"
+- "Builders NONDL"
+- "28mm Builders NONDL"
+- "IMP Builders NONDL"
+- "28mm IMP Builders NONDL"
+- "HUMAINS Builders NONDL"
+- "28mm HUMAINS Builders NONDL"
+- "IMP HUMAINS Builders NONDL"
+- "ORKS Builders NONDL"
+- "28mm ORKS Builders NONDL"
+- "IMP ORKS Builders NONDL"
+- "HUMAINS ORKS Builders NONDL"
+- "40k-armes-diverses Builders NONDL"
+- "28mm 40k-armes-diverses Builders NONDL"
+- "IMP 40k-armes-diverses Builders NONDL"
+- "HUMAINS 40k-armes-diverses Builders NONDL"
+- "ORKS 40k-armes-diverses Builders NONDL"
+- "Bits Builders NONDL"
+- "28mm Bits Builders NONDL"
+- "IMP Bits Builders NONDL"
+- "HUMAINS Bits Builders NONDL"
+- "ORKS Bits Builders NONDL"
+- "40k-armes-diverses Bits Builders NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -168,18 +232,45 @@ tags:
 - "HUMAINS Bits Builders NONSUP"
 - "ORKS Bits Builders NONSUP"
 - "40k-armes-diverses Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "28mm IMP NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "28mm HUMAINS NONDL NONSUP"
+- "IMP HUMAINS NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "28mm ORKS NONDL NONSUP"
+- "IMP ORKS NONDL NONSUP"
+- "HUMAINS ORKS NONDL NONSUP"
+- "40k-armes-diverses NONDL NONSUP"
+- "28mm 40k-armes-diverses NONDL NONSUP"
+- "IMP 40k-armes-diverses NONDL NONSUP"
+- "HUMAINS 40k-armes-diverses NONDL NONSUP"
+- "ORKS 40k-armes-diverses NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "28mm Bits NONDL NONSUP"
+- "IMP Bits NONDL NONSUP"
+- "HUMAINS Bits NONDL NONSUP"
+- "ORKS Bits NONDL NONSUP"
+- "40k-armes-diverses Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
+- "28mm Builders NONDL NONSUP"
+- "IMP Builders NONDL NONSUP"
+- "HUMAINS Builders NONDL NONSUP"
+- "ORKS Builders NONDL NONSUP"
+- "40k-armes-diverses Builders NONDL NONSUP"
+- "Bits Builders NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_Images_1.jpg")
-
-  ![](<thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg> "thumbs_-_jungle-fighter-s-blade_-_ImagesSTL_1.jpg")
+![](<thumbs_-_lasgun-variants_-_Images_1.jpg> "thumbs_-_lasgun-variants_-_Images_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade](https://cults3d.com/en/3d-model/game/jungle-fighter-s-blade)
+Source : [https://cults3d.com/en/3d-model/art/lasgun-variants](https://cults3d.com/en/3d-model/art/lasgun-variants)
 
-Id objet : jungle-fighter-s-blade
+Id objet : lasgun-variants
 
 Prix : 0.0 euros
 
@@ -190,19 +281,19 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders  NONSUP
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
 
 
 Description :
 
 ~~~
-A blade for your jungle fighter models
+The good 'ol imperial Flashlight, bake a potato if you want.
 
-*Edit:*
-V2 has a wider blade.
-Added The Cat Fang (not tested yet)
+I made these to use for abhumans, I don't feel like buying a new box of guardsmen for the guns.
 
-As always, "Watch" if you want to be informed of any updates.
+Will just about print on an FDM, if you buy it a nice bottle of wine and feed your first born into the cooling fan.
+
+seriously, print as fine as you can get away with.
 ~~~
 
 
