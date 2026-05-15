@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Golodius > Gothic_spaceship_door [non dl]"
-date: "2025-03-25T00:50:14Z"
+title: "[GRATUIT] Thingiverse > dutchmogul > Wayfarer_Modular_Tech_Conveyance_Tiles__18mm_scale_ [non dl]"
+date: "2015-09-16T02:14:31+00:00"
 toc: true
-image: "thumbs_-_gothic-ship-hallways_-_Images_1.jpg"
+image: "thumbs_-_1017184_-_Images_1.jpg"
 tags:
-- "Golodius"
+- "dutchmogul"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -65,15 +65,17 @@ tags:
 
 ---
 
-![](<thumbs_-_gothic-ship-hallways_-_Images_1.jpg> "thumbs_-_gothic-ship-hallways_-_Images_1.jpg")
+![](<thumbs_-_1017184_-_Images_1.jpg> "thumbs_-_1017184_-_Images_1.jpg")
+
+  ![](<thumbs_-_1017184_-_Makes_1.jpg> "thumbs_-_1017184_-_Makes_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/gothic-ship-hallways](https://cults3d.com/en/3d-model/game/gothic-ship-hallways)
+Source : [https://www.thingiverse.com/thing:1017184](https://www.thingiverse.com/thing:1017184)
 
-Id objet : gothic-ship-hallways
+Id objet : 1017184
 
-Prix : 0.0 euros
+Prix : 0 euros
 
 Collections :
 
@@ -88,19 +90,9 @@ Collections pour tags :
 Description :
 
 ~~~
-Door, sleeper and bulkhead for all your space adventures, whether Space Hulk, futuristic dungeon crawler or grim dark RPG.
+Designed for use with our 18mm scale [Wayfarer gaming tiles](http://www.thingiverse.com/thing:703514), these tiles are perfect for grid-based, 18mm battles in the game we're currently Kickstarting, [Wayfarer Tactics](https://www.kickstarter.com/projects/292543184/wayfarer-tactics). Check it out, and drop us a pledge if you like the stuff we make, or head over to [Patreon and drop us a pledge there](https://www.patreon.com/illgottengames?ty=h).   
 
-
-
-
-
-These pieces are part of a larger set that includes a whole series of tiles to create a modular game board. Feel free to take a look if you'd like to embark on this larger project.
-
-
-
-
-
-You'll find 2 3MF files with supports, created with PrusaSlicer, as well as the STLs. Originally, these elements were intended for filament printing. However, the parts are small enough to be considered for resin printing if desired.
+Enjoy!
 ~~~
 
 

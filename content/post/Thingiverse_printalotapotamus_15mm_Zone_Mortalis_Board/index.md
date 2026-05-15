@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > Golodius > Gothic_spaceship_door [non dl]"
-date: "2025-03-25T00:50:14Z"
+title: "[GRATUIT] Thingiverse > printalotapotamus > 15mm_Zone_Mortalis_Board [non dl]"
+date: "2016-12-21T00:36:35+00:00"
 toc: true
-image: "thumbs_-_gothic-ship-hallways_-_Images_1.jpg"
+image: "thumbs_-_1985375_-_Images_1.jpg"
 tags:
-- "Golodius"
+- "printalotapotamus"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -65,15 +65,17 @@ tags:
 
 ---
 
-![](<thumbs_-_gothic-ship-hallways_-_Images_1.jpg> "thumbs_-_gothic-ship-hallways_-_Images_1.jpg")
+![](<thumbs_-_1985375_-_Images_1.jpg> "thumbs_-_1985375_-_Images_1.jpg")
+
+  ![](<thumbs_-_1985375_-_Makes_1.jpg> "thumbs_-_1985375_-_Makes_1.jpg")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/gothic-ship-hallways](https://cults3d.com/en/3d-model/game/gothic-ship-hallways)
+Source : [https://www.thingiverse.com/thing:1985375](https://www.thingiverse.com/thing:1985375)
 
-Id objet : gothic-ship-hallways
+Id objet : 1985375
 
-Prix : 0.0 euros
+Prix : 0 euros
 
 Collections :
 
@@ -88,19 +90,14 @@ Collections pour tags :
 Description :
 
 ~~~
-Door, sleeper and bulkhead for all your space adventures, whether Space Hulk, futuristic dungeon crawler or grim dark RPG.
+I created a Zone Mortalis type board for my 15mm Gruntz Spec Ops games. Print multiple copies of each piece and then you can rearrange them however you like to make maps with twists and turns that are different each time.
 
+Inspiration came from this blog post:
+http://standwargaming.blogspot.com/2015/08/homemade-zone-mortalis-board.html
 
+I plan on printing 4 or more of each type. They take around 3 hours to print (at 0.15mm layer height) so this may take a while before I have them done. I will post pictures when they are completed.
 
-
-
-These pieces are part of a larger set that includes a whole series of tiles to create a modular game board. Feel free to take a look if you'd like to embark on this larger project.
-
-
-
-
-
-You'll find 2 3MF files with supports, created with PrusaSlicer, as well as the STLs. Originally, these elements were intended for filament printing. However, the parts are small enough to be considered for resin printing if desired.
+If you like the work I'm doing and would like to contribute, you can do so at [my Patreon page](https://www.patreon.com/smokalotapotamus).
 ~~~
 
 
