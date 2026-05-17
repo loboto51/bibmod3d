@@ -1,0 +1,200 @@
+
+---
+title: "[GRATUIT] Cults3d > assaultsloth > Ron_Jawas__armored_boar_heads [non dl]"
+date: "2024-05-27T23:16:43Z"
+toc: true
+image: "thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.jpg"
+tags:
+- "assaultsloth"
+- "epic"
+- "infanterie"
+- "epic infanterie"
+- "ORKS"
+- "epic ORKS"
+- "infanterie ORKS"
+- "epic infanterie ORKS"
+- "Orks-cavalerie"
+- "epic Orks-cavalerie"
+- "infanterie Orks-cavalerie"
+- "epic infanterie Orks-cavalerie"
+- "ORKS Orks-cavalerie"
+- "epic ORKS Orks-cavalerie"
+- "infanterie ORKS Orks-cavalerie"
+- "epic infanterie ORKS Orks-cavalerie"
+- "NONDL"
+- "epic NONDL"
+- "infanterie NONDL"
+- "epic infanterie NONDL"
+- "ORKS NONDL"
+- "epic ORKS NONDL"
+- "infanterie ORKS NONDL"
+- "epic infanterie ORKS NONDL"
+- "Orks-cavalerie NONDL"
+- "epic Orks-cavalerie NONDL"
+- "infanterie Orks-cavalerie NONDL"
+- "epic infanterie Orks-cavalerie NONDL"
+- "ORKS Orks-cavalerie NONDL"
+- "epic ORKS Orks-cavalerie NONDL"
+- "infanterie ORKS Orks-cavalerie NONDL"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "infanterie ORKS NONSUP"
+- "epic infanterie ORKS NONSUP"
+- "Orks-cavalerie NONSUP"
+- "epic Orks-cavalerie NONSUP"
+- "infanterie Orks-cavalerie NONSUP"
+- "epic infanterie Orks-cavalerie NONSUP"
+- "ORKS Orks-cavalerie NONSUP"
+- "epic ORKS Orks-cavalerie NONSUP"
+- "infanterie ORKS Orks-cavalerie NONSUP"
+- "NONDL NONSUP"
+- "epic NONDL NONSUP"
+- "infanterie NONDL NONSUP"
+- "epic infanterie NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "epic ORKS NONDL NONSUP"
+- "infanterie ORKS NONDL NONSUP"
+- "Orks-cavalerie NONDL NONSUP"
+- "epic Orks-cavalerie NONDL NONSUP"
+- "infanterie Orks-cavalerie NONDL NONSUP"
+- "ORKS Orks-cavalerie NONDL NONSUP"
+- "epic"
+- "infanterie"
+- "epic infanterie"
+- "ORKS"
+- "epic ORKS"
+- "infanterie ORKS"
+- "epic infanterie ORKS"
+- "Orks-cavalerie"
+- "epic Orks-cavalerie"
+- "infanterie Orks-cavalerie"
+- "epic infanterie Orks-cavalerie"
+- "ORKS Orks-cavalerie"
+- "epic ORKS Orks-cavalerie"
+- "infanterie ORKS Orks-cavalerie"
+- "epic infanterie ORKS Orks-cavalerie"
+- "Orks-qg"
+- "epic Orks-qg"
+- "infanterie Orks-qg"
+- "epic infanterie Orks-qg"
+- "ORKS Orks-qg"
+- "epic ORKS Orks-qg"
+- "infanterie ORKS Orks-qg"
+- "epic infanterie ORKS Orks-qg"
+- "Orks-cavalerie Orks-qg"
+- "epic Orks-cavalerie Orks-qg"
+- "infanterie Orks-cavalerie Orks-qg"
+- "epic infanterie Orks-cavalerie Orks-qg"
+- "ORKS Orks-cavalerie Orks-qg"
+- "epic ORKS Orks-cavalerie Orks-qg"
+- "infanterie ORKS Orks-cavalerie Orks-qg"
+- "NONDL"
+- "epic NONDL"
+- "infanterie NONDL"
+- "epic infanterie NONDL"
+- "ORKS NONDL"
+- "epic ORKS NONDL"
+- "infanterie ORKS NONDL"
+- "epic infanterie ORKS NONDL"
+- "Orks-cavalerie NONDL"
+- "epic Orks-cavalerie NONDL"
+- "infanterie Orks-cavalerie NONDL"
+- "epic infanterie Orks-cavalerie NONDL"
+- "ORKS Orks-cavalerie NONDL"
+- "epic ORKS Orks-cavalerie NONDL"
+- "infanterie ORKS Orks-cavalerie NONDL"
+- "Orks-qg NONDL"
+- "epic Orks-qg NONDL"
+- "infanterie Orks-qg NONDL"
+- "epic infanterie Orks-qg NONDL"
+- "ORKS Orks-qg NONDL"
+- "epic ORKS Orks-qg NONDL"
+- "infanterie ORKS Orks-qg NONDL"
+- "Orks-cavalerie Orks-qg NONDL"
+- "epic Orks-cavalerie Orks-qg NONDL"
+- "infanterie Orks-cavalerie Orks-qg NONDL"
+- "ORKS Orks-cavalerie Orks-qg NONDL"
+- "NONSUP"
+- "epic NONSUP"
+- "infanterie NONSUP"
+- "epic infanterie NONSUP"
+- "ORKS NONSUP"
+- "epic ORKS NONSUP"
+- "infanterie ORKS NONSUP"
+- "epic infanterie ORKS NONSUP"
+- "Orks-cavalerie NONSUP"
+- "epic Orks-cavalerie NONSUP"
+- "infanterie Orks-cavalerie NONSUP"
+- "epic infanterie Orks-cavalerie NONSUP"
+- "ORKS Orks-cavalerie NONSUP"
+- "epic ORKS Orks-cavalerie NONSUP"
+- "infanterie ORKS Orks-cavalerie NONSUP"
+- "Orks-qg NONSUP"
+- "epic Orks-qg NONSUP"
+- "infanterie Orks-qg NONSUP"
+- "epic infanterie Orks-qg NONSUP"
+- "ORKS Orks-qg NONSUP"
+- "epic ORKS Orks-qg NONSUP"
+- "infanterie ORKS Orks-qg NONSUP"
+- "Orks-cavalerie Orks-qg NONSUP"
+- "epic Orks-cavalerie Orks-qg NONSUP"
+- "infanterie Orks-cavalerie Orks-qg NONSUP"
+- "ORKS Orks-cavalerie Orks-qg NONSUP"
+- "NONDL NONSUP"
+- "epic NONDL NONSUP"
+- "infanterie NONDL NONSUP"
+- "epic infanterie NONDL NONSUP"
+- "ORKS NONDL NONSUP"
+- "epic ORKS NONDL NONSUP"
+- "infanterie ORKS NONDL NONSUP"
+- "Orks-cavalerie NONDL NONSUP"
+- "epic Orks-cavalerie NONDL NONSUP"
+- "infanterie Orks-cavalerie NONDL NONSUP"
+- "ORKS Orks-cavalerie NONDL NONSUP"
+- "Orks-qg NONDL NONSUP"
+- "epic Orks-qg NONDL NONSUP"
+- "infanterie Orks-qg NONDL NONSUP"
+- "ORKS Orks-qg NONDL NONSUP"
+- "Orks-cavalerie Orks-qg NONDL NONSUP"
+
+---
+
+![](<thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.jpg> "thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.jpg")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/game/ron-jawas-armored-boar-heads](https://cults3d.com/en/3d-model/game/ron-jawas-armored-boar-heads)
+
+Id objet : ron-jawas-armored-boar-heads
+
+Prix : 0.0 euros
+
+Collections :
+
+- epic infanterie ORKS Orks-cavalerie
+- epic infanterie ORKS Orks-cavalerie Orks-qg
+
+
+Collections pour tags :
+
+- epic infanterie ORKS Orks-cavalerie NONDL NONSUP
+- epic infanterie ORKS Orks-cavalerie Orks-qg NONDL NONSUP
+
+
+Description :
+
+~~~
+I made these heads to customize some plastic miniatures I had of orc boar cavalry.  I didn't like how the existing miniatures had been given nondescript toothy monster features and wanted to give them instead a more recognizably pig-like anatomy.
+
+The surgery to attach my new heads turned out to be more complicated than I had envisioned, and so I also designed various tufts and plates and the like to incorporate into their beards and hide my crimes.
+
+Enjoy!
+~~~
+
+
+
+
