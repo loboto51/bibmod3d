@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > dutchmogul > 15mm_Sci_Fi_Space_Junker_War_Truck__baseless_remix_ [non dl]"
-date: "2017-02-08T07:34:15+00:00"
+title: "[GRATUIT] Thingiverse > Shreddieeddie > 15mm_Sci_Fi_Space_Junker_War_Truck_ [non dl]"
+date: "2016-12-23T23:41:44+00:00"
 toc: true
-image: "thumbs_-_2093501_-_Images_1.jpg"
+image: "thumbs_-_1992943_-_Images_1.jpg"
 tags:
-- "dutchmogul"
+- "Shreddieeddie"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -65,15 +65,15 @@ tags:
 
 ---
 
-![](<thumbs_-_2093501_-_Images_1.jpg> "thumbs_-_2093501_-_Images_1.jpg")
+![](<thumbs_-_1992943_-_Images_1.jpg> "thumbs_-_1992943_-_Images_1.jpg")
 
-  ![](<thumbs_-_2093501_-_Makes_1.jpg> "thumbs_-_2093501_-_Makes_1.jpg")
+  ![](<thumbs_-_1992943_-_Makes_1.jpg> "thumbs_-_1992943_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:2093501](https://www.thingiverse.com/thing:2093501)
+Source : [https://www.thingiverse.com/thing:1992943](https://www.thingiverse.com/thing:1992943)
 
-Id objet : 2093501
+Id objet : 1992943
 
 Prix : 0 euros
 
@@ -90,7 +90,9 @@ Collections pour tags :
 Description :
 
 ~~~
-Just a quick, minor remix (removed the base) of [shreddieediie's awesome war truck](http://www.thingiverse.com/thing:1992943). Shown here with some [15mm mid-tech troopers from Khurasan].
+15mm Scale Low Tech Transport War Truck.
+
+Not test printed yet, will give it a go tomorrow.
 ~~~
 
 

@@ -43,6 +43,8 @@ tags:
 
   ![](<thumbs_-_serrefamily-Bomba_ork_pour_Epic_-_ImagesSTL_1.jpg> "thumbs_-_serrefamily-Bomba_ork_pour_Epic_-_ImagesSTL_1.jpg")
 
+  ![](<thumbs_-_serrefamily-Bomba_ork_pour_Epic_-_Makes_1.jpg> "thumbs_-_serrefamily-Bomba_ork_pour_Epic_-_Makes_1.jpg")
+
   
 
 Source : [https://www.tinkercad.com/things/8pZbSdAL1eA](https://www.tinkercad.com/things/8pZbSdAL1eA)
