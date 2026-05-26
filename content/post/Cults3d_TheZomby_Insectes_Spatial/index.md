@@ -13,14 +13,14 @@ tags:
 - "epic TYRANIDES"
 - "infanterie TYRANIDES"
 - "epic infanterie TYRANIDES"
-- "Artillerie-légère-Biovores-etc"
-- "epic Artillerie-légère-Biovores-etc"
-- "infanterie Artillerie-légère-Biovores-etc"
-- "epic infanterie Artillerie-légère-Biovores-etc"
-- "TYRANIDES Artillerie-légère-Biovores-etc"
-- "epic TYRANIDES Artillerie-légère-Biovores-etc"
-- "infanterie TYRANIDES Artillerie-légère-Biovores-etc"
-- "epic infanterie TYRANIDES Artillerie-légère-Biovores-etc"
+- "Artillerie-legere-Biovores-etc"
+- "epic Artillerie-legere-Biovores-etc"
+- "infanterie Artillerie-legere-Biovores-etc"
+- "epic infanterie Artillerie-legere-Biovores-etc"
+- "TYRANIDES Artillerie-legere-Biovores-etc"
+- "epic TYRANIDES Artillerie-legere-Biovores-etc"
+- "infanterie TYRANIDES Artillerie-legere-Biovores-etc"
+- "epic infanterie TYRANIDES Artillerie-legere-Biovores-etc"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -29,13 +29,13 @@ tags:
 - "epic TYRANIDES NONSUP"
 - "infanterie TYRANIDES NONSUP"
 - "epic infanterie TYRANIDES NONSUP"
-- "Artillerie-légère-Biovores-etc NONSUP"
-- "epic Artillerie-légère-Biovores-etc NONSUP"
-- "infanterie Artillerie-légère-Biovores-etc NONSUP"
-- "epic infanterie Artillerie-légère-Biovores-etc NONSUP"
-- "TYRANIDES Artillerie-légère-Biovores-etc NONSUP"
-- "epic TYRANIDES Artillerie-légère-Biovores-etc NONSUP"
-- "infanterie TYRANIDES Artillerie-légère-Biovores-etc NONSUP"
+- "Artillerie-legere-Biovores-etc NONSUP"
+- "epic Artillerie-legere-Biovores-etc NONSUP"
+- "infanterie Artillerie-legere-Biovores-etc NONSUP"
+- "epic infanterie Artillerie-legere-Biovores-etc NONSUP"
+- "TYRANIDES Artillerie-legere-Biovores-etc NONSUP"
+- "epic TYRANIDES Artillerie-legere-Biovores-etc NONSUP"
+- "infanterie TYRANIDES Artillerie-legere-Biovores-etc NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -585,7 +585,7 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie TYRANIDES Artillerie-légère-Biovores-etc
+- epic infanterie TYRANIDES Artillerie-legere-Biovores-etc
 - epic infanterie TYRANIDES Tyranides-Gargouilles
 - epic infanterie TYRANIDES Tyranides-genestealers
 - epic infanterie TYRANIDES Tyranides-Guerriers
@@ -606,7 +606,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Artillerie-légère-Biovores-etc  NONSUP
+- epic infanterie TYRANIDES Artillerie-legere-Biovores-etc  NONSUP
 - epic infanterie TYRANIDES Tyranides-Gargouilles  NONSUP
 - epic infanterie TYRANIDES Tyranides-genestealers  NONSUP
 - epic infanterie TYRANIDES Tyranides-Guerriers  NONSUP

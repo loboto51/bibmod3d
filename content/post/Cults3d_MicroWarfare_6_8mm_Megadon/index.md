@@ -13,14 +13,14 @@ tags:
 - "epic EXO"
 - "superlourds EXO"
 - "epic superlourds EXO"
-- "Eldars-mégadons"
-- "epic Eldars-mégadons"
-- "superlourds Eldars-mégadons"
-- "epic superlourds Eldars-mégadons"
-- "EXO Eldars-mégadons"
-- "epic EXO Eldars-mégadons"
-- "superlourds EXO Eldars-mégadons"
-- "epic superlourds EXO Eldars-mégadons"
+- "Eldars-megadons"
+- "epic Eldars-megadons"
+- "superlourds Eldars-megadons"
+- "epic superlourds Eldars-megadons"
+- "EXO Eldars-megadons"
+- "epic EXO Eldars-megadons"
+- "superlourds EXO Eldars-megadons"
+- "epic superlourds EXO Eldars-megadons"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -29,13 +29,13 @@ tags:
 - "epic EXO NONSUP"
 - "superlourds EXO NONSUP"
 - "epic superlourds EXO NONSUP"
-- "Eldars-mégadons NONSUP"
-- "epic Eldars-mégadons NONSUP"
-- "superlourds Eldars-mégadons NONSUP"
-- "epic superlourds Eldars-mégadons NONSUP"
-- "EXO Eldars-mégadons NONSUP"
-- "epic EXO Eldars-mégadons NONSUP"
-- "superlourds EXO Eldars-mégadons NONSUP"
+- "Eldars-megadons NONSUP"
+- "epic Eldars-megadons NONSUP"
+- "superlourds Eldars-megadons NONSUP"
+- "epic superlourds Eldars-megadons NONSUP"
+- "EXO Eldars-megadons NONSUP"
+- "epic EXO Eldars-megadons NONSUP"
+- "superlourds EXO Eldars-megadons NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -83,13 +83,13 @@ Prix : 0 euros
 
 Collections :
 
-- epic superlourds EXO Eldars-mégadons
+- epic superlourds EXO Eldars-megadons
 - epic vehicules EXO Eldars-pentasaures
 
 
 Collections pour tags :
 
-- epic superlourds EXO Eldars-mégadons  NONSUP
+- epic superlourds EXO Eldars-megadons  NONSUP
 - epic vehicules EXO Eldars-pentasaures  NONSUP
 
 

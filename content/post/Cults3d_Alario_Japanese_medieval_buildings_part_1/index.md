@@ -9,33 +9,33 @@ tags:
 - "warmaster"
 - "decors"
 - "warmaster decors"
-- "Décors-village-mediéval"
-- "warmaster Décors-village-mediéval"
-- "decors Décors-village-mediéval"
-- "warmaster decors Décors-village-mediéval"
+- "Decors-village-medieval"
+- "warmaster Decors-village-medieval"
+- "decors Decors-village-medieval"
+- "warmaster decors Decors-village-medieval"
 - "NONDL"
 - "warmaster NONDL"
 - "decors NONDL"
 - "warmaster decors NONDL"
-- "Décors-village-mediéval NONDL"
-- "warmaster Décors-village-mediéval NONDL"
-- "decors Décors-village-mediéval NONDL"
-- "warmaster decors Décors-village-mediéval NONDL"
+- "Decors-village-medieval NONDL"
+- "warmaster Decors-village-medieval NONDL"
+- "decors Decors-village-medieval NONDL"
+- "warmaster decors Decors-village-medieval NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "decors NONSUP"
 - "warmaster decors NONSUP"
-- "Décors-village-mediéval NONSUP"
-- "warmaster Décors-village-mediéval NONSUP"
-- "decors Décors-village-mediéval NONSUP"
-- "warmaster decors Décors-village-mediéval NONSUP"
+- "Decors-village-medieval NONSUP"
+- "warmaster Decors-village-medieval NONSUP"
+- "decors Decors-village-medieval NONSUP"
+- "warmaster decors Decors-village-medieval NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "decors NONDL NONSUP"
 - "warmaster decors NONDL NONSUP"
-- "Décors-village-mediéval NONDL NONSUP"
-- "warmaster Décors-village-mediéval NONDL NONSUP"
-- "decors Décors-village-mediéval NONDL NONSUP"
+- "Decors-village-medieval NONDL NONSUP"
+- "warmaster Decors-village-medieval NONDL NONSUP"
+- "decors Decors-village-medieval NONDL NONSUP"
 
 ---
 
@@ -51,12 +51,12 @@ Prix : 6 euros
 
 Collections :
 
-- warmaster decors Décors-village-mediéval
+- warmaster decors Decors-village-medieval
 
 
 Collections pour tags :
 
-- warmaster decors Décors-village-mediéval NONDL NONSUP
+- warmaster decors Decors-village-medieval NONDL NONSUP
 
 
 Description :

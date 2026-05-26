@@ -7,20 +7,20 @@ image: "thumbs_-_giant_-_Images_1.jpg"
 tags:
 - "duncanshadow"
 - "warmaster"
-- "Géants"
-- "warmaster Géants"
+- "Geants"
+- "warmaster Geants"
 - "NONDL"
 - "warmaster NONDL"
-- "Géants NONDL"
-- "warmaster Géants NONDL"
+- "Geants NONDL"
+- "warmaster Geants NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
-- "Géants NONSUP"
-- "warmaster Géants NONSUP"
+- "Geants NONSUP"
+- "warmaster Geants NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
-- "Géants NONDL NONSUP"
-- "warmaster Géants NONDL NONSUP"
+- "Geants NONDL NONSUP"
+- "warmaster Geants NONDL NONSUP"
 
 ---
 
@@ -38,12 +38,12 @@ Prix : 0 euros
 
 Collections :
 
-- warmaster Géants
+- warmaster Geants
 
 
 Collections pour tags :
 
-- warmaster Géants NONDL NONSUP
+- warmaster Geants NONDL NONSUP
 
 
 Description :
