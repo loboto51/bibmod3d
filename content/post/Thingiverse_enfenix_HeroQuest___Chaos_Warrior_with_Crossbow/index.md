@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Chaos_Warlord_with_Orcs_Bane [non dl]"
-date: "2019-09-09T22:08:52+00:00"
+title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Chaos_Warrior_with_Crossbow [non dl]"
+date: "2019-09-12T11:03:46+00:00"
 toc: true
-image: "thumbs_-_3853632_-_Images_1.jpg"
+image: "thumbs_-_3857733_-_Images_1.jpg"
 tags:
 - "enfenix"
 - "28mm"
@@ -39,15 +39,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3853632_-_Images_1.jpg> "thumbs_-_3853632_-_Images_1.jpg")
+![](<thumbs_-_3857733_-_Images_1.jpg> "thumbs_-_3857733_-_Images_1.jpg")
 
-  ![](<thumbs_-_3853632_-_Makes_1.jpg> "thumbs_-_3853632_-_Makes_1.jpg")
+  ![](<thumbs_-_3857733_-_Makes_1.jpg> "thumbs_-_3857733_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3853632](https://www.thingiverse.com/thing:3853632)
+Source : [https://www.thingiverse.com/thing:3857733](https://www.thingiverse.com/thing:3857733)
 
-Id objet : 3853632
+Id objet : 3857733
 
 Prix : 0 euros
 
@@ -64,7 +64,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Quest 11: "Bastion of Chaos"
+I think you meet them in one of "Wizzard of Zargon" Quests.
 
 <b>Patreon: https://www.patreon.com/enfenix</b>
 ~~~

@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Chaos_Warlord_with_Orcs_Bane [non dl]"
-date: "2019-09-09T22:08:52+00:00"
+title: "[GRATUIT] Thingiverse > Gav_el > Heroquest_Doomguard_2_0 [non dl]"
+date: "2019-11-21T09:35:31+00:00"
 toc: true
-image: "thumbs_-_3853632_-_Images_1.jpg"
+image: "thumbs_-_3990722_-_Images_1.jpg"
 tags:
-- "enfenix"
+- "Gav_el"
 - "28mm"
 - "CHAOS"
 - "28mm CHAOS"
@@ -39,15 +39,13 @@ tags:
 
 ---
 
-![](<thumbs_-_3853632_-_Images_1.jpg> "thumbs_-_3853632_-_Images_1.jpg")
-
-  ![](<thumbs_-_3853632_-_Makes_1.jpg> "thumbs_-_3853632_-_Makes_1.jpg")
+![](<thumbs_-_3990722_-_Images_1.jpg> "thumbs_-_3990722_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3853632](https://www.thingiverse.com/thing:3853632)
+Source : [https://www.thingiverse.com/thing:3990722](https://www.thingiverse.com/thing:3990722)
 
-Id objet : 3853632
+Id objet : 3990722
 
 Prix : 0 euros
 
@@ -64,9 +62,9 @@ Collections pour tags :
 Description :
 
 ~~~
-Quest 11: "Bastion of Chaos"
+New and improved version of my Doomguard miniature, now with added anger management issues.
 
-<b>Patreon: https://www.patreon.com/enfenix</b>
+look out for new weapon version in the future.
 ~~~
 
 

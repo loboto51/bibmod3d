@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Chaos_Warlord_with_Orcs_Bane [non dl]"
-date: "2019-09-09T22:08:52+00:00"
+title: "[GRATUIT] Thingiverse > Carlbark > HeroQuest___Chaos_Warrior [non dl]"
+date: "2018-08-30T18:40:57+00:00"
 toc: true
-image: "thumbs_-_3853632_-_Images_1.jpg"
+image: "thumbs_-_3075652_-_Images_1.jpg"
 tags:
-- "enfenix"
+- "Carlbark"
 - "28mm"
 - "CHAOS"
 - "28mm CHAOS"
@@ -39,15 +39,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3853632_-_Images_1.jpg> "thumbs_-_3853632_-_Images_1.jpg")
+![](<thumbs_-_3075652_-_Images_1.jpg> "thumbs_-_3075652_-_Images_1.jpg")
 
-  ![](<thumbs_-_3853632_-_Makes_1.jpg> "thumbs_-_3853632_-_Makes_1.jpg")
+  ![](<thumbs_-_3075652_-_Makes_1.jpg> "thumbs_-_3075652_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3853632](https://www.thingiverse.com/thing:3853632)
+Source : [https://www.thingiverse.com/thing:3075652](https://www.thingiverse.com/thing:3075652)
 
-Id objet : 3853632
+Id objet : 3075652
 
 Prix : 0 euros
 
@@ -64,9 +64,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Quest 11: "Bastion of Chaos"
-
-<b>Patreon: https://www.patreon.com/enfenix</b>
+Chaos Warrior from Hero Quest core set.
 ~~~
 
 
