@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Beastlord [non dl]"
-date: "2019-11-05T21:41:56+00:00"
+title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Beastman_Shaman [non dl]"
+date: "2019-11-07T10:39:53+00:00"
 toc: true
-image: "thumbs_-_3958322_-_Images_1.jpg"
+image: "thumbs_-_3960996_-_Images_1.jpg"
 tags:
 - "enfenix"
 - "15mm"
@@ -394,15 +394,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3958322_-_Images_1.jpg> "thumbs_-_3958322_-_Images_1.jpg")
+![](<thumbs_-_3960996_-_Images_1.jpg> "thumbs_-_3960996_-_Images_1.jpg")
 
-  ![](<thumbs_-_3958322_-_Makes_1.jpg> "thumbs_-_3958322_-_Makes_1.jpg")
+  ![](<thumbs_-_3960996_-_Makes_1.jpg> "thumbs_-_3960996_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3958322](https://www.thingiverse.com/thing:3958322)
+Source : [https://www.thingiverse.com/thing:3960996](https://www.thingiverse.com/thing:3960996)
 
-Id objet : 3958322
+Id objet : 3960996
 
 Prix : 0 euros
 
@@ -419,7 +419,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Beastlord (with Bonemangler) for "Mount of the Beastmen campaign"
+Beastman Shaman for "Mount of the Beastmen campaign"
 
 https://sites.google.com/site/thedarkstonetrilogy/
 
