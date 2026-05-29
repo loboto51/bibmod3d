@@ -111,29 +111,6 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "Bits"
-- "28mm Bits"
-- "CHAOS Bits"
-- "28mm CHAOS Bits"
-- "SMC Bits"
-- "28mm SMC Bits"
-- "CHAOS SMC Bits"
-- "28mm CHAOS SMC Bits"
-- "Builders"
-- "28mm Builders"
-- "CHAOS Builders"
-- "28mm CHAOS Builders"
-- "SMC Builders"
-- "28mm SMC Builders"
-- "CHAOS SMC Builders"
-- "28mm CHAOS SMC Builders"
-- "Bits Builders"
-- "28mm Bits Builders"
-- "CHAOS Bits Builders"
-- "28mm CHAOS Bits Builders"
-- "SMC Bits Builders"
-- "28mm SMC Bits Builders"
-- "CHAOS SMC Bits Builders"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -142,24 +119,6 @@ tags:
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
 - "28mm CHAOS SMC NONSUP"
-- "Bits NONSUP"
-- "28mm Bits NONSUP"
-- "CHAOS Bits NONSUP"
-- "28mm CHAOS Bits NONSUP"
-- "SMC Bits NONSUP"
-- "28mm SMC Bits NONSUP"
-- "CHAOS SMC Bits NONSUP"
-- "Builders NONSUP"
-- "28mm Builders NONSUP"
-- "CHAOS Builders NONSUP"
-- "28mm CHAOS Builders NONSUP"
-- "SMC Builders NONSUP"
-- "28mm SMC Builders NONSUP"
-- "CHAOS SMC Builders NONSUP"
-- "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "CHAOS Bits Builders NONSUP"
-- "SMC Bits Builders NONSUP"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -167,29 +126,6 @@ tags:
 - "28mm SMI"
 - "IMP SMI"
 - "28mm IMP SMI"
-- "Bits"
-- "28mm Bits"
-- "IMP Bits"
-- "28mm IMP Bits"
-- "SMI Bits"
-- "28mm SMI Bits"
-- "IMP SMI Bits"
-- "28mm IMP SMI Bits"
-- "Builders"
-- "28mm Builders"
-- "IMP Builders"
-- "28mm IMP Builders"
-- "SMI Builders"
-- "28mm SMI Builders"
-- "IMP SMI Builders"
-- "28mm IMP SMI Builders"
-- "Bits Builders"
-- "28mm Bits Builders"
-- "IMP Bits Builders"
-- "28mm IMP Bits Builders"
-- "SMI Bits Builders"
-- "28mm SMI Bits Builders"
-- "IMP SMI Bits Builders"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -198,24 +134,6 @@ tags:
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
 - "28mm IMP SMI NONSUP"
-- "Bits NONSUP"
-- "28mm Bits NONSUP"
-- "IMP Bits NONSUP"
-- "28mm IMP Bits NONSUP"
-- "SMI Bits NONSUP"
-- "28mm SMI Bits NONSUP"
-- "IMP SMI Bits NONSUP"
-- "Builders NONSUP"
-- "28mm Builders NONSUP"
-- "IMP Builders NONSUP"
-- "28mm IMP Builders NONSUP"
-- "SMI Builders NONSUP"
-- "28mm SMI Builders NONSUP"
-- "IMP SMI Builders NONSUP"
-- "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "IMP Bits Builders NONSUP"
-- "SMI Bits Builders NONSUP"
 
 ---
 
@@ -236,15 +154,15 @@ Prix : 0.0 euros
 Collections :
 
 - 15mm 28mm HUMAINS Tissus-pour-kitbash Bits Builders
-- 28mm CHAOS SMC Bits Builders
-- 28mm IMP SMI Bits Builders
+- 28mm CHAOS SMC
+- 28mm IMP SMI
 
 
 Collections pour tags :
 
 - 15mm 28mm HUMAINS Tissus-pour-kitbash Bits Builders  NONSUP
-- 28mm CHAOS SMC Bits Builders  NONSUP
-- 28mm IMP SMI Bits Builders  NONSUP
+- 28mm CHAOS SMC  NONSUP
+- 28mm IMP SMI  NONSUP
 
 
 Description :
