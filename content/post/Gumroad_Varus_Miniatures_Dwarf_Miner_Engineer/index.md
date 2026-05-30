@@ -24,7 +24,7 @@ tags:
 
 Source : [https://varusminiatures.gumroad.com/l/EINyH?affiliate_id=643180307&recommended_by=wishlist](https://varusminiatures.gumroad.com/l/EINyH?affiliate_id=643180307&recommended_by=wishlist)
 
-Id objet : Varus_Miniatures-Dwarf_Miner_Engineer
+Id objet : Varus_Miniatures_-_Dwarf_Miner_Engineer
 
 Prix : 0 euros
 

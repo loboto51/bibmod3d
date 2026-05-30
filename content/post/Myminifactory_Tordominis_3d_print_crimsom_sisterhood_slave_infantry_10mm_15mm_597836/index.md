@@ -31,7 +31,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836](https://www.myminifactory.com/object/3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836)
 
-Id objet : 3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836
+Id objet : Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836
 
 Prix : 0 euros
 

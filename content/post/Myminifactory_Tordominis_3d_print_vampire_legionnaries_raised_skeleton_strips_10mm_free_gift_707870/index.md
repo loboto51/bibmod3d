@@ -24,7 +24,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870](https://www.myminifactory.com/object/3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870)
 
-Id objet : 3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870
+Id objet : Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870
 
 Prix : 0 euros
 

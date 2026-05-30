@@ -73,7 +73,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-tiny-greenskin-flamethrower-255556](https://www.myminifactory.com/object/3d-print-tiny-greenskin-flamethrower-255556)
 
-Id objet : 3d_print_tiny_greenskin_flamethrower_255556
+Id objet : PtDesigns_-_3d_print_tiny_greenskin_flamethrower_255556
 
 Prix : 0 euros
 

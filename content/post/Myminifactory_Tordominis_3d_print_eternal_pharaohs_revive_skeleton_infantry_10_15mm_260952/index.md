@@ -31,7 +31,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-eternal-pharaohs-revive-skeleton-infantry-10-15mm-260952](https://www.myminifactory.com/object/3d-print-eternal-pharaohs-revive-skeleton-infantry-10-15mm-260952)
 
-Id objet : 3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952
+Id objet : Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952
 
 Prix : 0 euros
 

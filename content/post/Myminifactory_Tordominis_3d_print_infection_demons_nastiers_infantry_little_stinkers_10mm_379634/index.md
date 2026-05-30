@@ -89,7 +89,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-infection-demons-nastiers-infantry-little-stinkers-10mm-379634](https://www.myminifactory.com/object/3d-print-infection-demons-nastiers-infantry-little-stinkers-10mm-379634)
 
-Id objet : 3d_print_infection_demons_nastiers_infantry_little_stinkers_10mm_379634
+Id objet : Tordominis_-_3d_print_infection_demons_nastiers_infantry_little_stinkers_10mm_379634
 
 Prix : 0 euros
 

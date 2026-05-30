@@ -131,7 +131,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-post-apocalyptic-raider-free-test-sample-mini-161274](https://www.myminifactory.com/object/3d-print-post-apocalyptic-raider-free-test-sample-mini-161274)
 
-Id objet : 3d_print_post_apocalyptic_raider_free_test_sample_mini_161274
+Id objet : ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274
 
 Prix : 0 euros
 

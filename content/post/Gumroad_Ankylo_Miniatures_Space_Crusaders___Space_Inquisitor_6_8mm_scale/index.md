@@ -47,7 +47,7 @@ tags:
 
 Source : [https://ankylo.gumroad.com/l/hbdwp?layout=profile&recommended_by=wishlist](https://ankylo.gumroad.com/l/hbdwp?layout=profile&recommended_by=wishlist)
 
-Id objet : Ankylo_Miniatures-Space_Crusaders___Space_Inquisitor_6_8mm_scale
+Id objet : Ankylo_Miniatures_-_Space_Crusaders___Space_Inquisitor_6_8mm_scale
 
 Prix : 0 euros
 

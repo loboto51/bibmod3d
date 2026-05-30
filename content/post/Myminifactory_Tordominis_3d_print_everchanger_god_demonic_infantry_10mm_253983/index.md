@@ -87,7 +87,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-everchanger-god-demonic-infantry-10mm-253983](https://www.myminifactory.com/object/3d-print-everchanger-god-demonic-infantry-10mm-253983)
 
-Id objet : 3d_print_everchanger_god_demonic_infantry_10mm_253983
+Id objet : Tordominis_-_3d_print_everchanger_god_demonic_infantry_10mm_253983
 
 Prix : 0 euros
 

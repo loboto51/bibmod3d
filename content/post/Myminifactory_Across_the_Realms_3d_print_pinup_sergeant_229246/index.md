@@ -117,7 +117,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-pinup-sergeant-229246](https://www.myminifactory.com/object/3d-print-pinup-sergeant-229246)
 
-Id objet : 3d-print-pinup-sergeant-229246
+Id objet : Across-the-Realms_-_3d-print-pinup-sergeant-229246
 
 Prix : 0 euros
 

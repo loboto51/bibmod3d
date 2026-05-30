@@ -24,7 +24,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-warmaster-orc-champion-10mm-warmaster-244733](https://www.myminifactory.com/object/3d-print-warmaster-orc-champion-10mm-warmaster-244733)
 
-Id objet : 3d_print_warmaster_orc_champion_10mm_warmaster_244733
+Id objet : Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733
 
 Prix : 0 euros
 

@@ -47,7 +47,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-robots-infantry-set-244477](https://www.myminifactory.com/object/3d-print-robots-infantry-set-244477)
 
-Id objet : 3d-print-robots-infantry-set-244477
+Id objet : Onmioji_-_3d-print-robots-infantry-set-244477
 
 Prix : 0 euros
 

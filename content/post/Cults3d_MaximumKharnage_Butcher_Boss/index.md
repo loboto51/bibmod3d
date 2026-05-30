@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > MaximumKharnage > Butcher_Boss [non dl]"
+title: "[GRATUIT] Cults3d > MaximumKharnage > Butcher_Boss [dl]"
 date: "2026-05-17T05:39:00Z"
 toc: true
 image: "thumbs_-_butcher-boss_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "SMC NONDL"
-- "28mm SMC NONDL"
-- "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -29,17 +21,12 @@ tags:
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
 - "28mm CHAOS SMC NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "28mm SMC NONDL NONSUP"
-- "CHAOS SMC NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_butcher-boss_-_Images_1.jpg> "thumbs_-_butcher-boss_-_Images_1.jpg")
+
+  ![](<thumbs_-_butcher-boss_-_ImagesSTL_1.jpg> "thumbs_-_butcher-boss_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm CHAOS SMC NONDL NONSUP
+- 28mm CHAOS SMC  NONSUP
 
 
 Description :

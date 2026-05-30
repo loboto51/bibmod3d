@@ -73,7 +73,7 @@ tags:
 
 Source : [https://discord.com/channels/1361740052152975470/1367204678034522112/1367206120195620874](https://discord.com/channels/1361740052152975470/1367204678034522112/1367206120195620874)
 
-Id objet : DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc
+Id objet : DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc
 
 Prix : 0 euros
 

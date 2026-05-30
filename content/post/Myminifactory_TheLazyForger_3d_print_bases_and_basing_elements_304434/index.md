@@ -73,7 +73,7 @@ tags:
 
 Source : [https://www.myminifactory.com/fr/object/3d-print-bases-and-basing-elements-304434](https://www.myminifactory.com/fr/object/3d-print-bases-and-basing-elements-304434)
 
-Id objet : 3d_print_bases_and_basing_elements_304434
+Id objet : TheLazyForger_-_3d_print_bases_and_basing_elements_304434
 
 Prix : 0 euros
 

@@ -79,7 +79,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-gothic-ruin-185114](https://www.myminifactory.com/object/3d-print-gothic-ruin-185114)
 
-Id objet : 3d_print_gothic_ruin_185114
+Id objet : IrrblossMiniatures_-_3d_print_gothic_ruin_185114
 
 Prix : 0 euros
 

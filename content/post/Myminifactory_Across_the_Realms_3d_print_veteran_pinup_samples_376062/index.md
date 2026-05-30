@@ -117,7 +117,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-veteran-pinup-samples-376062](https://www.myminifactory.com/object/3d-print-veteran-pinup-samples-376062)
 
-Id objet : 3d-print-veteran-pinup-samples-376062
+Id objet : Across-the-Realms_-_3d-print-veteran-pinup-samples-376062
 
 Prix : 0 euros
 

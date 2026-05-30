@@ -87,7 +87,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-skull-god-demons-hero-on-headbanger-beast-264932](https://www.myminifactory.com/object/3d-print-skull-god-demons-hero-on-headbanger-beast-264932)
 
-Id objet : 3d_print_skull_god_demons_hero_on_headbanger_beast_264932
+Id objet : Tordominis_-_3d_print_skull_god_demons_hero_on_headbanger_beast_264932
 
 Prix : 0 euros
 

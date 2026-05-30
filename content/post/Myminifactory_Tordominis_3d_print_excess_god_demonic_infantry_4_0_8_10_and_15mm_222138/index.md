@@ -91,7 +91,7 @@ tags:
 
 Source : [https://www.myminifactory.com/object/3d-print-excess-god-demonic-infantry-4-0-8-10-and-15mm-222138](https://www.myminifactory.com/object/3d-print-excess-god-demonic-infantry-4-0-8-10-and-15mm-222138)
 
-Id objet : 3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138
+Id objet : Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138
 
 Prix : 0 euros
 

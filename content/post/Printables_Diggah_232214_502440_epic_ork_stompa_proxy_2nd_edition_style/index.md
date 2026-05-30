@@ -17,7 +17,7 @@ tags:
 
 Source : [https://www.printables.com/model/502440-epic-ork-stompa-proxy-2nd-edition-style](https://www.printables.com/model/502440-epic-ork-stompa-proxy-2nd-edition-style)
 
-Id objet : 502440-epic-ork-stompa-proxy-2nd-edition-style
+Id objet : Diggah_232214_-_502440-epic-ork-stompa-proxy-2nd-edition-style
 
 Prix : 0 euros
 
