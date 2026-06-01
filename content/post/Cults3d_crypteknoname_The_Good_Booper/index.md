@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > crypteknoname > The_Good_Booper [non dl]"
+title: "[GRATUIT] Cults3d > crypteknoname > The_Good_Booper [dl]"
 date: "2023-07-14T23:41:22Z"
 toc: true
 image: "thumbs_-_the-good-booper_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "NECRONS"
 - "28mm NECRONS"
-- "NONDL"
-- "28mm NONDL"
-- "NECRONS NONDL"
-- "28mm NECRONS NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "NECRONS NONSUP"
 - "28mm NECRONS NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "NECRONS NONDL NONSUP"
-- "28mm NECRONS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_the-good-booper_-_Images_1.jpg> "thumbs_-_the-good-booper_-_Images_1.jpg")
+
+  ![](<thumbs_-_the-good-booper_-_ImagesSTL_1.jpg> "thumbs_-_the-good-booper_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_the-good-booper_-_Makes_1.jpg> "thumbs_-_the-good-booper_-_Makes_1.jpg")
 
@@ -43,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm NECRONS NONDL NONSUP
+- 28mm NECRONS  NONSUP
 
 
 Description :

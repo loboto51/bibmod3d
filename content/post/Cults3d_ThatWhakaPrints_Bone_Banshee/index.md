@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > ThatWhakaPrints > Bone_Banshee [non dl]"
+title: "[GRATUIT] Cults3d > ThatWhakaPrints > Bone_Banshee [dl]"
 date: "2022-10-31T11:20:48Z"
 toc: true
 image: "thumbs_-_bone-banshee_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "28mm VM"
 - "ELDARS VM"
 - "28mm ELDARS VM"
-- "NONDL"
-- "28mm NONDL"
-- "ELDARS NONDL"
-- "28mm ELDARS NONDL"
-- "VM NONDL"
-- "28mm VM NONDL"
-- "ELDARS VM NONDL"
-- "28mm ELDARS VM NONDL"
 - "SUP"
 - "28mm SUP"
 - "ELDARS SUP"
@@ -29,17 +21,12 @@ tags:
 - "28mm VM SUP"
 - "ELDARS VM SUP"
 - "28mm ELDARS VM SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "ELDARS NONDL SUP"
-- "28mm ELDARS NONDL SUP"
-- "VM NONDL SUP"
-- "28mm VM NONDL SUP"
-- "ELDARS VM NONDL SUP"
 
 ---
 
 ![](<thumbs_-_bone-banshee_-_Images_1.jpg> "thumbs_-_bone-banshee_-_Images_1.jpg")
+
+  ![](<thumbs_-_bone-banshee_-_ImagesSTL_1.jpg> "thumbs_-_bone-banshee_-_ImagesSTL_1.jpg")
 
   ![](<thumbs_-_bone-banshee_-_Makes_1.jpg> "thumbs_-_bone-banshee_-_Makes_1.jpg")
 
@@ -58,7 +45,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ELDARS VM NONDL SUP
+- 28mm ELDARS VM  SUP
 
 
 Description :
@@ -74,7 +61,40 @@ Tested on
 Justification du tag SUP :
 
 These are the Bone Banshee's from ArtelW that they released for free. I have pre-supported them so they are ready to print.
-
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_1_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_1_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_1_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_1_Leg_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_1_Torso_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_2_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_2_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_2_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_2_Leg_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_2_Torso_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_3_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_3_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_3_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_3_Torso_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_4_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_4_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_4_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_4_Leg_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_4_Torso_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_5_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_5_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_5_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_5_Leg_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_5_Torso_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Arm_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Arm_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Head_face_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Head_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Leg_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Pistol_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Spear_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Sword_L_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Sword_R_supported_stl_.jpg
+ImagesSTL_-_Bone_Banshee_zip_unpack_Bone_Banshee_L_Torso_supported_stl_.jpg
 
 
 

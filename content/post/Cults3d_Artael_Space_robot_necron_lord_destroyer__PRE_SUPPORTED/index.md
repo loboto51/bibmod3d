@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Artael > Space_robot_necron_lord_destroyer__PRE_SUPPORTED [non dl]"
+title: "[GRATUIT] Cults3d > Artael > Space_robot_necron_lord_destroyer__PRE_SUPPORTED [dl]"
 date: "2023-07-30T10:25:52Z"
 toc: true
 image: "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg"
@@ -9,22 +9,16 @@ tags:
 - "28mm"
 - "NECRONS"
 - "28mm NECRONS"
-- "NONDL"
-- "28mm NONDL"
-- "NECRONS NONDL"
-- "28mm NECRONS NONDL"
 - "SUP"
 - "28mm SUP"
 - "NECRONS SUP"
 - "28mm NECRONS SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "NECRONS NONDL SUP"
-- "28mm NECRONS NONDL SUP"
 
 ---
 
 ![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg")
+
+  ![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.jpg> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.jpg")
 
   
 
@@ -41,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm NECRONS NONDL SUP
+- 28mm NECRONS  SUP
 
 
 Description :

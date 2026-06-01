@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > ScrapFoundry > Robot_Eternals_Warriors [non dl]"
+title: "[GRATUIT] Cults3d > ScrapFoundry > Robot_Eternals_Warriors [dl]"
 date: "2023-04-12T18:02:48Z"
 toc: true
 image: "thumbs_-_robot-eternals-warriors_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
 - "15mm 28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "15mm 28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "15mm 28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
-- "15mm SFDIV Aliens-divers NONDL"
-- "28mm SFDIV Aliens-divers NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "SFDIV Aliens-divers NONSUP"
 - "15mm SFDIV Aliens-divers NONSUP"
 - "28mm SFDIV Aliens-divers NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "15mm 28mm NONDL NONSUP"
-- "SFDIV NONDL NONSUP"
-- "15mm SFDIV NONDL NONSUP"
-- "28mm SFDIV NONDL NONSUP"
-- "Aliens-divers NONDL NONSUP"
-- "15mm Aliens-divers NONDL NONSUP"
-- "28mm Aliens-divers NONDL NONSUP"
-- "SFDIV Aliens-divers NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_robot-eternals-warriors_-_Images_1.jpg> "thumbs_-_robot-eternals-warriors_-_Images_1.jpg")
+
+  ![](<thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.jpg> "thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm SFDIV Aliens-divers NONDL NONSUP
+- 15mm 28mm SFDIV Aliens-divers  NONSUP
 
 
 Description :

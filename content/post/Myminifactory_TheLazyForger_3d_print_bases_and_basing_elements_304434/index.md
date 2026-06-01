@@ -90,12 +90,22 @@ Collections pour tags :
 Description :
 
 ~~~
+This set includes twelve small but details-rich elements to decorate your bases for Full Spectrum Dominance and other small-scale games. 
 
+In addition to this, We have included some printable bases for the game as well. Note that depending on the printer's settings and resin quality the bases might warp over time, because that's what resin do. Nonetheless, this is a viable alternative to plastic or MDF bases.
+
+Read more about FSD: https://fsd-wargame.com/
+
+The models are provided as .stl files and are PRE-SUPPORTED. They have been extensively tested at 6mm scale.
+The models can be easily upscaled to 10mm (150%) and to 15mm (240%, but we recommend re-supporting).
+
+Licence
+BY-NC-ND
 ~~~
 
 Justification du tag SUP :
 
-
+The models are provided as .stl files and are PRE-SUPPORTED. They have been extensively tested at 6mm scale.
 ImagesSTL_-_Bases_zip_unpack_Chitubox_Files_bases_chitubox_.jpg
 ImagesSTL_-_Basing_Elements_zip_unpack_Chitubox_Files_bases_scatter_chitubox_.jpg
 

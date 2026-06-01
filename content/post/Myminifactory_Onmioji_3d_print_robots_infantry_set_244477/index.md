@@ -43,6 +43,10 @@ tags:
 
   ![](<thumbs_-_3d-print-robots-infantry-set-244477_-_ImagesSTL_1.jpg> "thumbs_-_3d-print-robots-infantry-set-244477_-_ImagesSTL_1.jpg")
 
+  ![](<thumbs_-_Onmioji_-_3d-print-robots-infantry-set-244477_-_Images_1.jpg> "thumbs_-_Onmioji_-_3d-print-robots-infantry-set-244477_-_Images_1.jpg")
+
+  ![](<thumbs_-_Onmioji_-_3d-print-robots-infantry-set-244477_-_ImagesSTL_1.jpg> "thumbs_-_Onmioji_-_3d-print-robots-infantry-set-244477_-_ImagesSTL_1.jpg")
+
   
 
 Source : [https://www.myminifactory.com/object/3d-print-robots-infantry-set-244477](https://www.myminifactory.com/object/3d-print-robots-infantry-set-244477)
