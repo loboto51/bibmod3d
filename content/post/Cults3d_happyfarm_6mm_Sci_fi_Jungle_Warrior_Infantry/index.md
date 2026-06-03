@@ -13,6 +13,62 @@ tags:
 - "epic GI"
 - "infanterie GI"
 - "epic infanterie GI"
+- "Humains-qg"
+- "epic Humains-qg"
+- "infanterie Humains-qg"
+- "epic infanterie Humains-qg"
+- "GI Humains-qg"
+- "epic GI Humains-qg"
+- "infanterie GI Humains-qg"
+- "epic infanterie GI Humains-qg"
+- "GI-CATACHANS"
+- "epic GI-CATACHANS"
+- "infanterie GI-CATACHANS"
+- "epic infanterie GI-CATACHANS"
+- "GI GI-CATACHANS"
+- "epic GI GI-CATACHANS"
+- "infanterie GI GI-CATACHANS"
+- "epic infanterie GI GI-CATACHANS"
+- "Humains-qg GI-CATACHANS"
+- "epic Humains-qg GI-CATACHANS"
+- "infanterie Humains-qg GI-CATACHANS"
+- "epic infanterie Humains-qg GI-CATACHANS"
+- "GI Humains-qg GI-CATACHANS"
+- "epic GI Humains-qg GI-CATACHANS"
+- "infanterie GI Humains-qg GI-CATACHANS"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "GI SUP"
+- "epic GI SUP"
+- "infanterie GI SUP"
+- "epic infanterie GI SUP"
+- "Humains-qg SUP"
+- "epic Humains-qg SUP"
+- "infanterie Humains-qg SUP"
+- "epic infanterie Humains-qg SUP"
+- "GI Humains-qg SUP"
+- "epic GI Humains-qg SUP"
+- "infanterie GI Humains-qg SUP"
+- "GI-CATACHANS SUP"
+- "epic GI-CATACHANS SUP"
+- "infanterie GI-CATACHANS SUP"
+- "epic infanterie GI-CATACHANS SUP"
+- "GI GI-CATACHANS SUP"
+- "epic GI GI-CATACHANS SUP"
+- "infanterie GI GI-CATACHANS SUP"
+- "Humains-qg GI-CATACHANS SUP"
+- "epic Humains-qg GI-CATACHANS SUP"
+- "infanterie Humains-qg GI-CATACHANS SUP"
+- "GI Humains-qg GI-CATACHANS SUP"
+- "epic"
+- "infanterie"
+- "epic infanterie"
+- "GI"
+- "epic GI"
+- "infanterie GI"
+- "epic infanterie GI"
 - "Humains-tactiques"
 - "epic Humains-tactiques"
 - "infanterie Humains-tactiques"
@@ -79,11 +135,13 @@ Prix : 0.0 euros
 
 Collections :
 
+- epic infanterie GI Humains-qg GI-CATACHANS
 - epic infanterie GI Humains-tactiques GI-CATACHANS
 
 
 Collections pour tags :
 
+- epic infanterie GI Humains-qg GI-CATACHANS  SUP
 - epic infanterie GI Humains-tactiques GI-CATACHANS  SUP
 
 
@@ -107,7 +165,7 @@ I hope to add command characters and heavy weapons troopers in the future.
 Justification du tag SUP :
 
 Supported Lychee file included with some mirrored for poses of the basic troopers for additional variety.
-ImagesSTL_-_6mm_sci-fi_jungle_warrior_infantry_zip_unpack_supported-troopers_lys_.jpg
+ImagesSTL_-_epic-scifi-jungle-warriors_zip_unpack_supported_lys_.jpg
 
 
 
