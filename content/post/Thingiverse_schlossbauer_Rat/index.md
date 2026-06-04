@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > schlossbauer > Diseased_Giant_Rat [non dl]"
-date: "2019-08-19T09:32:13+00:00"
+title: "[GRATUIT] Thingiverse > schlossbauer > Rat [non dl]"
+date: "2018-12-14T01:06:53+00:00"
 toc: true
-image: "thumbs_-_3818264_-_Images_1.jpg"
+image: "thumbs_-_3282892_-_Images_1.jpg"
 tags:
 - "schlossbauer"
 - "epic"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3818264_-_Images_1.jpg> "thumbs_-_3818264_-_Images_1.jpg")
+![](<thumbs_-_3282892_-_Images_1.jpg> "thumbs_-_3282892_-_Images_1.jpg")
 
-  ![](<thumbs_-_3818264_-_Makes_1.jpg> "thumbs_-_3818264_-_Makes_1.jpg")
+  ![](<thumbs_-_3282892_-_Makes_1.jpg> "thumbs_-_3282892_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3818264](https://www.thingiverse.com/thing:3818264)
+Source : [https://www.thingiverse.com/thing:3282892](https://www.thingiverse.com/thing:3282892)
 
-Id objet : 3818264
+Id objet : 3282892
 
 Prix : 0 euros
 
@@ -196,9 +196,7 @@ Collections pour tags :
 Description :
 
 ~~~
-A Diseased Giant Rat.
-
-You can support me on https://www.patreon.com/Schlossbauer if you like my work.
+a Rat for tabletop.
 ~~~
 
 

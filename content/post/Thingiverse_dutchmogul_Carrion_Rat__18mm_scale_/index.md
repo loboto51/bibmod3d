@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > schlossbauer > Diseased_Giant_Rat [non dl]"
-date: "2019-08-19T09:32:13+00:00"
+title: "[GRATUIT] Thingiverse > dutchmogul > Carrion_Rat__18mm_scale_ [non dl]"
+date: "2017-06-08T15:29:22+00:00"
 toc: true
-image: "thumbs_-_3818264_-_Images_1.jpg"
+image: "thumbs_-_2373158_-_Images_1.jpg"
 tags:
-- "schlossbauer"
+- "dutchmogul"
 - "epic"
 - "15mm"
 - "epic 15mm"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3818264_-_Images_1.jpg> "thumbs_-_3818264_-_Images_1.jpg")
+![](<thumbs_-_2373158_-_Images_1.jpg> "thumbs_-_2373158_-_Images_1.jpg")
 
-  ![](<thumbs_-_3818264_-_Makes_1.jpg> "thumbs_-_3818264_-_Makes_1.jpg")
+  ![](<thumbs_-_2373158_-_Makes_1.jpg> "thumbs_-_2373158_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3818264](https://www.thingiverse.com/thing:3818264)
+Source : [https://www.thingiverse.com/thing:2373158](https://www.thingiverse.com/thing:2373158)
 
-Id objet : 3818264
+Id objet : 2373158
 
 Prix : 0 euros
 
@@ -196,9 +196,16 @@ Collections pour tags :
 Description :
 
 ~~~
-A Diseased Giant Rat.
+This entry includes an [OpenTactics](http://www.thingiverse.com/dutchmogul/collections/opentactics) stat card. You can find this and other OpenTactics characters in [this expanding collection](http://www.thingiverse.com/dutchmogul/collections/opentactics-characters).
 
-You can support me on https://www.patreon.com/Schlossbauer if you like my work.
+This will be one of several monster pieces available for *Swords Against Helheim*, an OpenTactics-based (semi-)cooperative dungeon-crawler that's currently on the work bench. More on that soon!
+
+We've set up a [Patreon page](https://www.patreon.com/illgottengames) for anyone who's interested in helping to fund us so we can keep making free and open sourced games like Pocket-Tactics, Discord, and others, not to mention the growing catalog of gaming miniatures that you can use for whatever you want! (Psst... we take requests and commissions...)
+
+Enjoy!
+
+[](https://www.youtube.com/watch?v=YvC9qINaD8E&t=19s)
+[](https://www.youtube.com/watch?v=KWYdbvcP8KA)
 ~~~
 
 

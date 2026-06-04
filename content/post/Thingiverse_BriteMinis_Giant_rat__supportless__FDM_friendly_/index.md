@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > schlossbauer > Diseased_Giant_Rat [non dl]"
-date: "2019-08-19T09:32:13+00:00"
+title: "[GRATUIT] Thingiverse > BriteMinis > Giant_rat__supportless__FDM_friendly_ [non dl]"
+date: "2021-07-11T09:02:55+00:00"
 toc: true
-image: "thumbs_-_3818264_-_Images_1.jpg"
+image: "thumbs_-_4905756_-_Images_1.jpg"
 tags:
-- "schlossbauer"
+- "BriteMinis"
 - "epic"
 - "15mm"
 - "epic 15mm"
@@ -171,15 +171,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3818264_-_Images_1.jpg> "thumbs_-_3818264_-_Images_1.jpg")
+![](<thumbs_-_4905756_-_Images_1.jpg> "thumbs_-_4905756_-_Images_1.jpg")
 
-  ![](<thumbs_-_3818264_-_Makes_1.jpg> "thumbs_-_3818264_-_Makes_1.jpg")
+  ![](<thumbs_-_4905756_-_Makes_1.jpg> "thumbs_-_4905756_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:3818264](https://www.thingiverse.com/thing:3818264)
+Source : [https://www.thingiverse.com/thing:4905756](https://www.thingiverse.com/thing:4905756)
 
-Id objet : 3818264
+Id objet : 4905756
 
 Prix : 0 euros
 
@@ -196,9 +196,20 @@ Collections pour tags :
 Description :
 
 ~~~
-A Diseased Giant Rat.
+A friendly rodent
 
-You can support me on https://www.patreon.com/Schlossbauer if you like my work.
+Suitable for 28mm tabletop games. 
+Created so that it does not need any supports and prints well on a cheap FDM 3d printer like the Ender 3.
+
+**NOTE** The other minis seen in one of the images are <a href="https://www.patreon.com/posts/53553531">available on my Patreon</a>.
+
+
+Let me know how it printed for you in the comments and makes!
+
+This and other uploads are possible thanks to my wonderful Patrons. 
+If you enjoy it, buy me a drink once in a while and support <a href="http://briteminis.com">more supportless models</a> on Patreon!: https://www.patreon.com/BriteMinis
+
+Follow me on <a href="https://www.facebook.com/BriteMinis/">Facebook</a> and <a href="https://www.instagram.com/briteminis/">Instagram</a>!
 ~~~
 
 
