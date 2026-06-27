@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Super_Heavy_Tank_for_Epic [non dl]"
+title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Super_Heavy_Tank_for_Epic [dl]"
 date: "2026-06-17T11:18:09+00:00"
 toc: true
 image: "thumbs_-_7370951_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic VM Eldars-superlourds"
 - "superlourds VM Eldars-superlourds"
 - "epic superlourds VM Eldars-superlourds"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "VM NONDL"
-- "epic VM NONDL"
-- "superlourds VM NONDL"
-- "epic superlourds VM NONDL"
-- "Eldars-superlourds NONDL"
-- "epic Eldars-superlourds NONDL"
-- "superlourds Eldars-superlourds NONDL"
-- "epic superlourds Eldars-superlourds NONDL"
-- "VM Eldars-superlourds NONDL"
-- "epic VM Eldars-superlourds NONDL"
-- "superlourds VM Eldars-superlourds NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "VM Eldars-superlourds NONSUP"
 - "epic VM Eldars-superlourds NONSUP"
 - "superlourds VM Eldars-superlourds NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
-- "VM NONDL NONSUP"
-- "epic VM NONDL NONSUP"
-- "superlourds VM NONDL NONSUP"
-- "Eldars-superlourds NONDL NONSUP"
-- "epic Eldars-superlourds NONDL NONSUP"
-- "superlourds Eldars-superlourds NONDL NONSUP"
-- "VM Eldars-superlourds NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7370951_-_Images_1.jpg> "thumbs_-_7370951_-_Images_1.jpg")
+
+  ![](<thumbs_-_7370951_-_ImagesSTL_1.jpg> "thumbs_-_7370951_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds VM Eldars-superlourds NONDL NONSUP
+- epic superlourds VM Eldars-superlourds  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Jetbike_Epic_scale_for_FDM_printing [non dl]"
+title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Jetbike_Epic_scale_for_FDM_printing [dl]"
 date: "2026-06-11T08:08:19+00:00"
 toc: true
 image: "thumbs_-_7367886_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic VM Eldars-motojets"
 - "infanterie VM Eldars-motojets"
 - "epic infanterie VM Eldars-motojets"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "VM NONDL"
-- "epic VM NONDL"
-- "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
-- "Eldars-motojets NONDL"
-- "epic Eldars-motojets NONDL"
-- "infanterie Eldars-motojets NONDL"
-- "epic infanterie Eldars-motojets NONDL"
-- "VM Eldars-motojets NONDL"
-- "epic VM Eldars-motojets NONDL"
-- "infanterie VM Eldars-motojets NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "VM Eldars-motojets NONSUP"
 - "epic VM Eldars-motojets NONSUP"
 - "infanterie VM Eldars-motojets NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
-- "VM NONDL NONSUP"
-- "epic VM NONDL NONSUP"
-- "infanterie VM NONDL NONSUP"
-- "Eldars-motojets NONDL NONSUP"
-- "epic Eldars-motojets NONDL NONSUP"
-- "infanterie Eldars-motojets NONDL NONSUP"
-- "VM Eldars-motojets NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7367886_-_Images_1.jpg> "thumbs_-_7367886_-_Images_1.jpg")
+
+  ![](<thumbs_-_7367886_-_ImagesSTL_1.jpg> "thumbs_-_7367886_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie VM Eldars-motojets NONDL NONSUP
+- epic infanterie VM Eldars-motojets  NONSUP
 
 
 Description :

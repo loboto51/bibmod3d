@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Jimmyzimms > Tech_Support_Factory_Ship [non dl]"
+title: "[GRATUIT] Thingiverse > Jimmyzimms > Tech_Support_Factory_Ship [dl]"
 date: "2020-07-23T18:28:12+00:00"
 toc: true
-image: "thumbs_-_4550450_-_Makes_1.jpg"
+image: "thumbs_-_4550450_-_ImagesSTL_1.jpg"
 tags:
 - "Jimmyzimms"
 - "bfg"
@@ -21,21 +21,6 @@ tags:
 - "bfg AM Flotte"
 - "IMP AM Flotte"
 - "bfg IMP AM Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "IMP NONDL"
-- "bfg IMP NONDL"
-- "AM NONDL"
-- "bfg AM NONDL"
-- "IMP AM NONDL"
-- "bfg IMP AM NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
-- "AM Flotte NONDL"
-- "bfg AM Flotte NONDL"
-- "IMP AM Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -51,21 +36,12 @@ tags:
 - "AM Flotte NONSUP"
 - "bfg AM Flotte NONSUP"
 - "IMP AM Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
-- "AM NONDL NONSUP"
-- "bfg AM NONDL NONSUP"
-- "IMP AM NONDL NONSUP"
-- "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
-- "AM Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4550450_-_Makes_1.jpg> "thumbs_-_4550450_-_Makes_1.jpg")
+![](<thumbs_-_4550450_-_ImagesSTL_1.jpg> "thumbs_-_4550450_-_ImagesSTL_1.jpg")
+
+  ![](<thumbs_-_4550450_-_Makes_1.jpg> "thumbs_-_4550450_-_Makes_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg IMP AM Flotte NONDL NONSUP
+- bfg IMP AM Flotte  NONSUP
 
 
 Description :
