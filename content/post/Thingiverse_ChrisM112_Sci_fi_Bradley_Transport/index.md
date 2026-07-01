@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Xplosiv > Raptor_Tank_Turret_Pack_1_ [non dl]"
-date: "2020-01-14T03:40:28+00:00"
+title: "[GRATUIT] Thingiverse > ChrisM112 > Sci_fi_Bradley_Transport [non dl]"
+date: "2021-08-13T19:02:16+00:00"
 toc: true
-image: "thumbs_-_4101748_-_Images_1.jpg"
+image: "thumbs_-_4931741_-_Images_1.jpg"
 tags:
-- "Xplosiv"
+- "ChrisM112"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -65,13 +65,13 @@ tags:
 
 ---
 
-![](<thumbs_-_4101748_-_Images_1.jpg> "thumbs_-_4101748_-_Images_1.jpg")
+![](<thumbs_-_4931741_-_Images_1.jpg> "thumbs_-_4931741_-_Images_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:4101748](https://www.thingiverse.com/thing:4101748)
+Source : [https://www.thingiverse.com/thing:4931741](https://www.thingiverse.com/thing:4931741)
 
-Id objet : 4101748
+Id objet : 4931741
 
 Prix : 0 euros
 
@@ -88,13 +88,13 @@ Collections pour tags :
 Description :
 
 ~~~
-This is my first pack of options for the Raptor tank. Included are the files for a turret with botlers built into the front of it, a cannon and voltbite weapon options. 
+Scifi Bradley for use in Crystallum: Conflict in the Far Future
 
- This model has been replicated from a kitbash seen here - https://www.dakkadakka.com/dakkaforum/posts/list/300/438724.page
-Original creator of the model - Ivan Nylander aka Treadheadz
+or any other micro-scale sci-fi game
 
+Link to Crystallum: 
 
-**The Voltbite weapon is remixed from a file that was removed from thingi. The creator of it is https://www.thingiverse.com/Danny_Cyanide/about
+https://www.drivethrurpg.com/product/378240/Crystallum-Conflict-in-the-Far-Future?src=newest_since
 ~~~
 
 

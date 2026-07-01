@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Xplosiv > Raptor_Tank_Turret_Pack_1_ [non dl]"
-date: "2020-01-14T03:40:28+00:00"
+title: "[GRATUIT] Thingiverse > Hopeforthebest > 1_100_Silverhand_Assault_Tank [non dl]"
+date: "2022-10-13T20:52:43+00:00"
 toc: true
-image: "thumbs_-_4101748_-_Images_1.jpg"
+image: "thumbs_-_5564340_-_Images_1.jpg"
 tags:
-- "Xplosiv"
+- "Hopeforthebest"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -65,13 +65,15 @@ tags:
 
 ---
 
-![](<thumbs_-_4101748_-_Images_1.jpg> "thumbs_-_4101748_-_Images_1.jpg")
+![](<thumbs_-_5564340_-_Images_1.jpg> "thumbs_-_5564340_-_Images_1.jpg")
+
+  ![](<thumbs_-_5564340_-_Makes_1.jpg> "thumbs_-_5564340_-_Makes_1.jpg")
 
   
 
-Source : [https://www.thingiverse.com/thing:4101748](https://www.thingiverse.com/thing:4101748)
+Source : [https://www.thingiverse.com/thing:5564340](https://www.thingiverse.com/thing:5564340)
 
-Id objet : 4101748
+Id objet : 5564340
 
 Prix : 0 euros
 
@@ -88,13 +90,7 @@ Collections pour tags :
 Description :
 
 ~~~
-This is my first pack of options for the Raptor tank. Included are the files for a turret with botlers built into the front of it, a cannon and voltbite weapon options. 
-
- This model has been replicated from a kitbash seen here - https://www.dakkadakka.com/dakkaforum/posts/list/300/438724.page
-Original creator of the model - Ivan Nylander aka Treadheadz
-
-
-**The Voltbite weapon is remixed from a file that was removed from thingi. The creator of it is https://www.thingiverse.com/Danny_Cyanide/about
+A 1-100 Silverhand Assault tank Model
 ~~~
 
 
