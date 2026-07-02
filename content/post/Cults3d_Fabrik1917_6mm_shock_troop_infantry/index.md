@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Fabrik1917 > 6mm_shock_troop_infantry [non dl]"
+title: "[GRATUIT] Cults3d > Fabrik1917 > 6mm_shock_troop_infantry [dl]"
 date: "2026-06-01T22:17:04Z"
 toc: true
 image: "thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
 - "epic infanterie GI Humains-tactiques"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
-- "Humains-tactiques NONDL"
-- "epic Humains-tactiques NONDL"
-- "infanterie Humains-tactiques NONDL"
-- "epic infanterie Humains-tactiques NONDL"
-- "GI Humains-tactiques NONDL"
-- "epic GI Humains-tactiques NONDL"
-- "infanterie GI Humains-tactiques NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -51,21 +36,12 @@ tags:
 - "GI Humains-tactiques SUP"
 - "epic GI Humains-tactiques SUP"
 - "infanterie GI Humains-tactiques SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
-- "GI NONDL SUP"
-- "epic GI NONDL SUP"
-- "infanterie GI NONDL SUP"
-- "Humains-tactiques NONDL SUP"
-- "epic Humains-tactiques NONDL SUP"
-- "infanterie Humains-tactiques NONDL SUP"
-- "GI Humains-tactiques NONDL SUP"
 
 ---
 
 ![](<thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg> "thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg")
+
+  ![](<thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.jpg> "thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.jpg")
 
   
 
@@ -82,7 +58,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie GI Humains-tactiques NONDL SUP
+- epic infanterie GI Humains-tactiques  SUP
 
 
 Description :
