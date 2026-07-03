@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Compound > various_bodies_for_old_windriders [non dl]"
+title: "[GRATUIT] Cults3d > Compound > various_bodies_for_old_windriders [dl]"
 date: "2024-11-22T07:28:14Z"
 toc: true
 image: "thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg"
@@ -13,14 +13,6 @@ tags:
 - "28mm VM"
 - "ELDARS VM"
 - "28mm ELDARS VM"
-- "NONDL"
-- "28mm NONDL"
-- "ELDARS NONDL"
-- "28mm ELDARS NONDL"
-- "VM NONDL"
-- "28mm VM NONDL"
-- "ELDARS VM NONDL"
-- "28mm ELDARS VM NONDL"
 - "SUP"
 - "28mm SUP"
 - "ELDARS SUP"
@@ -29,17 +21,12 @@ tags:
 - "28mm VM SUP"
 - "ELDARS VM SUP"
 - "28mm ELDARS VM SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "ELDARS NONDL SUP"
-- "28mm ELDARS NONDL SUP"
-- "VM NONDL SUP"
-- "28mm VM NONDL SUP"
-- "ELDARS VM NONDL SUP"
 
 ---
 
 ![](<thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg> "thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg")
+
+  ![](<thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.jpg> "thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.jpg")
 
   
 
@@ -56,7 +43,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ELDARS VM NONDL SUP
+- 28mm ELDARS VM  SUP
 
 
 Description :
@@ -78,7 +65,14 @@ Justification du tag SUP :
 
 Supported and unsupported. 
 new parts are supported and unsupported, and can be broken down in blender using "separate by loose parts".
-
+ImagesSTL_-_WINDRIDER_zip_unpack_Supported__PILOT_1__stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Supported__PILOT_2__stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Supported__PILOT_3__stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Supported__PILOT_4__stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Unsupported_PILOT_1_stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Unsupported_PILOT_2_stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Unsupported_PILOT_3_stl_.jpg
+ImagesSTL_-_WINDRIDER_zip_unpack_Unsupported_PILOT_4_stl_.jpg
 
 
 
