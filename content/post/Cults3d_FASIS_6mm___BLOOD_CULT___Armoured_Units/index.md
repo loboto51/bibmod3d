@@ -1,6 +1,6 @@
 
 ---
-title: "[PAYANT] Cults3d > FASIS > 6mm___BLOOD_CULT___Armoured_Units [non dl]"
+title: "[PAYANT] Cults3d > FASIS > 6mm___BLOOD_CULT___Armoured_Units [dl]"
 date: "2026-06-26T08:03:28Z"
 toc: true
 image: "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg"
@@ -21,21 +21,6 @@ tags:
 - "epic SMC Land-raiders"
 - "vehicules SMC Land-raiders"
 - "epic vehicules SMC Land-raiders"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "vehicules SMC NONDL"
-- "epic vehicules SMC NONDL"
-- "Land-raiders NONDL"
-- "epic Land-raiders NONDL"
-- "vehicules Land-raiders NONDL"
-- "epic vehicules Land-raiders NONDL"
-- "SMC Land-raiders NONDL"
-- "epic SMC Land-raiders NONDL"
-- "vehicules SMC Land-raiders NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -51,17 +36,6 @@ tags:
 - "SMC Land-raiders NONSUP"
 - "epic SMC Land-raiders NONSUP"
 - "vehicules SMC Land-raiders NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "epic SMC NONDL NONSUP"
-- "vehicules SMC NONDL NONSUP"
-- "Land-raiders NONDL NONSUP"
-- "epic Land-raiders NONDL NONSUP"
-- "vehicules Land-raiders NONDL NONSUP"
-- "SMC Land-raiders NONDL NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -77,21 +51,6 @@ tags:
 - "epic SMC Predators"
 - "vehicules SMC Predators"
 - "epic vehicules SMC Predators"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "vehicules SMC NONDL"
-- "epic vehicules SMC NONDL"
-- "Predators NONDL"
-- "epic Predators NONDL"
-- "vehicules Predators NONDL"
-- "epic vehicules Predators NONDL"
-- "SMC Predators NONDL"
-- "epic SMC Predators NONDL"
-- "vehicules SMC Predators NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -107,17 +66,6 @@ tags:
 - "SMC Predators NONSUP"
 - "epic SMC Predators NONSUP"
 - "vehicules SMC Predators NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "epic SMC NONDL NONSUP"
-- "vehicules SMC NONDL NONSUP"
-- "Predators NONDL NONSUP"
-- "epic Predators NONDL NONSUP"
-- "vehicules Predators NONDL NONSUP"
-- "SMC Predators NONDL NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -133,21 +81,6 @@ tags:
 - "epic SMC Rhinos"
 - "vehicules SMC Rhinos"
 - "epic vehicules SMC Rhinos"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "vehicules SMC NONDL"
-- "epic vehicules SMC NONDL"
-- "Rhinos NONDL"
-- "epic Rhinos NONDL"
-- "vehicules Rhinos NONDL"
-- "epic vehicules Rhinos NONDL"
-- "SMC Rhinos NONDL"
-- "epic SMC Rhinos NONDL"
-- "vehicules SMC Rhinos NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -163,21 +96,12 @@ tags:
 - "SMC Rhinos NONSUP"
 - "epic SMC Rhinos NONSUP"
 - "vehicules SMC Rhinos NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "epic SMC NONDL NONSUP"
-- "vehicules SMC NONDL NONSUP"
-- "Rhinos NONDL NONSUP"
-- "epic Rhinos NONDL NONSUP"
-- "vehicules Rhinos NONDL NONSUP"
-- "SMC Rhinos NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg> "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg")
+
+  ![](<thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.jpg> "thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.jpg")
 
   
 
@@ -196,9 +120,9 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules SMC Land-raiders NONDL NONSUP
-- epic vehicules SMC Predators NONDL NONSUP
-- epic vehicules SMC Rhinos NONDL NONSUP
+- epic vehicules SMC Land-raiders  NONSUP
+- epic vehicules SMC Predators  NONSUP
+- epic vehicules SMC Rhinos  NONSUP
 
 
 Description :
