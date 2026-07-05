@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Compound > various_bodies_for_old_windriders [dl]"
 date: "2024-11-22T07:28:14Z"
 toc: true
-image: "thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg"
+image: "thumbs_-_various-bodies-for-old-windriders_-_Images_1.avif"
 tags:
 - "Compound"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "VM SUP"
 - "28mm VM SUP"
 - "ELDARS VM SUP"
-- "28mm ELDARS VM SUP"
 
 ---
 
-![](<thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg> "thumbs_-_various-bodies-for-old-windriders_-_Images_1.jpg")
+![](<thumbs_-_various-bodies-for-old-windriders_-_Images_1.avif> "thumbs_-_various-bodies-for-old-windriders_-_Images_1.avif")
 
-  ![](<thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.jpg> "thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.avif> "thumbs_-_various-bodies-for-old-windriders_-_ImagesSTL_1.avif")
 
   
 

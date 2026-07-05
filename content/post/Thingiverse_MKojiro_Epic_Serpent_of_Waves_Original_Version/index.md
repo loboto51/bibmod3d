@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MKojiro > Epic_Serpent_of_Waves_Original_Version [dl]"
 date: "2020-01-22T08:02:45+00:00"
 toc: true
-image: "thumbs_-_4120035_-_Images_1.jpg"
+image: "thumbs_-_4120035_-_Images_1.avif"
 tags:
 - "MKojiro"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-chars-antigrav-type-falcon"
 - "epic VM Eldars-chars-antigrav-type-falcon"
 - "vehicules VM Eldars-chars-antigrav-type-falcon"
-- "epic vehicules VM Eldars-chars-antigrav-type-falcon"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "vehicules VM NONSUP"
-- "epic vehicules VM NONSUP"
 - "Eldars-chars-antigrav-type-falcon NONSUP"
 - "epic Eldars-chars-antigrav-type-falcon NONSUP"
 - "vehicules Eldars-chars-antigrav-type-falcon NONSUP"
-- "epic vehicules Eldars-chars-antigrav-type-falcon NONSUP"
 - "VM Eldars-chars-antigrav-type-falcon NONSUP"
-- "epic VM Eldars-chars-antigrav-type-falcon NONSUP"
-- "vehicules VM Eldars-chars-antigrav-type-falcon NONSUP"
 
 ---
 
-![](<thumbs_-_4120035_-_Images_1.jpg> "thumbs_-_4120035_-_Images_1.jpg")
+![](<thumbs_-_4120035_-_Images_1.avif> "thumbs_-_4120035_-_Images_1.avif")
 
-  ![](<thumbs_-_4120035_-_ImagesSTL_1.jpg> "thumbs_-_4120035_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4120035_-_ImagesSTL_1.avif> "thumbs_-_4120035_-_ImagesSTL_1.avif")
 
   
 

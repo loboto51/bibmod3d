@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Siege_Bombard [non dl]"
 date: "2025-07-08T22:31:09+00:00"
 toc: true
-image: "thumbs_-_7086457_-_Images_1.jpg"
+image: "thumbs_-_7086457_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Machines-de-guerre-génériques NONDL NONSUP"
-- "warmaster Machines-de-guerre-génériques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7086457_-_Images_1.jpg> "thumbs_-_7086457_-_Images_1.jpg")
+![](<thumbs_-_7086457_-_Images_1.avif> "thumbs_-_7086457_-_Images_1.avif")
 
-  ![](<thumbs_-_7086457_-_Makes_1.jpg> "thumbs_-_7086457_-_Makes_1.jpg")
+  ![](<thumbs_-_7086457_-_Makes_1.avif> "thumbs_-_7086457_-_Makes_1.avif")
 
   
 

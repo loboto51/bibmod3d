@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tezca > Dark_Eldar_Torture_Class_Cruiser [dl]"
 date: "2019-04-23T08:12:43+00:00"
 toc: true
-image: "thumbs_-_3582577_-_Images_1.jpg"
+image: "thumbs_-_3582577_-_Images_1.avif"
 tags:
 - "Tezca"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "EN Flotte"
 - "bfg EN Flotte"
 - "ELDARS EN Flotte"
-- "bfg ELDARS EN Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "ELDARS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "EN NONSUP"
 - "bfg EN NONSUP"
 - "ELDARS EN NONSUP"
-- "bfg ELDARS EN NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ELDARS Flotte NONSUP"
-- "bfg ELDARS Flotte NONSUP"
 - "EN Flotte NONSUP"
-- "bfg EN Flotte NONSUP"
-- "ELDARS EN Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3582577_-_Images_1.jpg> "thumbs_-_3582577_-_Images_1.jpg")
+![](<thumbs_-_3582577_-_Images_1.avif> "thumbs_-_3582577_-_Images_1.avif")
 
-  ![](<thumbs_-_3582577_-_ImagesSTL_1.jpg> "thumbs_-_3582577_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3582577_-_ImagesSTL_1.avif> "thumbs_-_3582577_-_ImagesSTL_1.avif")
 
   
 

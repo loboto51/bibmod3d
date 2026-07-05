@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > nightovizard > Dwarf_Pack [non dl]"
 date: "2023-12-14T01:02:37Z"
 toc: true
-image: "thumbs_-_dwarf-pack_-_Images_1.jpg"
+image: "thumbs_-_dwarf-pack_-_Images_1.avif"
 tags:
 - "nightovizard"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "NAINS NONDL SUP"
-- "28mm NAINS NONDL SUP"
 
 ---
 
-![](<thumbs_-_dwarf-pack_-_Images_1.jpg> "thumbs_-_dwarf-pack_-_Images_1.jpg")
+![](<thumbs_-_dwarf-pack_-_Images_1.avif> "thumbs_-_dwarf-pack_-_Images_1.avif")
 
   
 

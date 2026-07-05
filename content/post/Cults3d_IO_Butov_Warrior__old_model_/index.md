@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > Warrior__old_model_ [non dl]"
 date: "2025-01-30T13:03:42Z"
 toc: true
-image: "thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.jpg"
+image: "thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "TYRANIDES NONDL SUP"
-- "28mm TYRANIDES NONDL SUP"
 
 ---
 
-![](<thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.jpg> "thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.jpg")
+![](<thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.avif> "thumbs_-_not-free-warrior-old-model-base-only_-_Images_1.avif")
 
   
 

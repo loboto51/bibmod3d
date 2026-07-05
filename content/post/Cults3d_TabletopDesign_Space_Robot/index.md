@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > TabletopDesign > Space_Robot [non dl]"
 date: "2022-04-13T11:07:57Z"
 toc: true
-image: "thumbs_-_space-robot_-_Images_1.jpg"
+image: "thumbs_-_space-robot_-_Images_1.avif"
 tags:
 - "TabletopDesign"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "28mm NECRONS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_space-robot_-_Images_1.jpg> "thumbs_-_space-robot_-_Images_1.jpg")
+![](<thumbs_-_space-robot_-_Images_1.avif> "thumbs_-_space-robot_-_Images_1.avif")
 
   
 

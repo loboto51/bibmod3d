@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Lezeninjamon > ANOTHER_PRAETOR_HH2_IW_LEGION__8MM [dl]"
 date: "2023-08-08T15:10:41Z"
 toc: true
-image: "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.jpg"
+image: "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.avif"
 tags:
 - "Lezeninjamon"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-qg"
 - "epic SMC Sm-qg"
 - "infanterie SMC Sm-qg"
-- "epic infanterie SMC Sm-qg"
 - "SMC-IW"
 - "epic SMC-IW"
 - "infanterie SMC-IW"
@@ -28,14 +27,10 @@ tags:
 - "SMC SMC-IW"
 - "epic SMC SMC-IW"
 - "infanterie SMC SMC-IW"
-- "epic infanterie SMC SMC-IW"
 - "Sm-qg SMC-IW"
 - "epic Sm-qg SMC-IW"
 - "infanterie Sm-qg SMC-IW"
-- "epic infanterie Sm-qg SMC-IW"
 - "SMC Sm-qg SMC-IW"
-- "epic SMC Sm-qg SMC-IW"
-- "infanterie SMC Sm-qg SMC-IW"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SMC Sm-qg NONSUP"
-- "epic SMC Sm-qg NONSUP"
-- "infanterie SMC Sm-qg NONSUP"
 - "SMC-IW NONSUP"
 - "epic SMC-IW NONSUP"
 - "infanterie SMC-IW NONSUP"
-- "epic infanterie SMC-IW NONSUP"
 - "SMC SMC-IW NONSUP"
-- "epic SMC SMC-IW NONSUP"
-- "infanterie SMC SMC-IW NONSUP"
 - "Sm-qg SMC-IW NONSUP"
-- "epic Sm-qg SMC-IW NONSUP"
-- "infanterie Sm-qg SMC-IW NONSUP"
-- "SMC Sm-qg SMC-IW NONSUP"
 
 ---
 
-![](<thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.jpg> "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.jpg")
+![](<thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.avif> "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_another-praetor-hh2-iw-legion-8mm_-_ImagesSTL_1.jpg> "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_another-praetor-hh2-iw-legion-8mm_-_ImagesSTL_1.avif> "thumbs_-_another-praetor-hh2-iw-legion-8mm_-_ImagesSTL_1.avif")
 
   
 

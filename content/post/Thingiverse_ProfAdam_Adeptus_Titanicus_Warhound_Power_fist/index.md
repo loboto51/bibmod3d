@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ProfAdam > Adeptus_Titanicus_Warhound_Power_fist [dl]"
 date: "2021-03-13T18:08:35+00:00"
 toc: true
-image: "thumbs_-_4793047_-_Images_1.jpg"
+image: "thumbs_-_4793047_-_Images_1.avif"
 tags:
 - "ProfAdam"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-warhounds"
 - "epic IMP Admech-titans-warhounds"
 - "titans IMP Admech-titans-warhounds"
-- "epic titans IMP Admech-titans-warhounds"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-warhounds NONSUP"
 - "epic Admech-titans-warhounds NONSUP"
 - "titans Admech-titans-warhounds NONSUP"
-- "epic titans Admech-titans-warhounds NONSUP"
 - "IMP Admech-titans-warhounds NONSUP"
-- "epic IMP Admech-titans-warhounds NONSUP"
-- "titans IMP Admech-titans-warhounds NONSUP"
 
 ---
 
-![](<thumbs_-_4793047_-_Images_1.jpg> "thumbs_-_4793047_-_Images_1.jpg")
+![](<thumbs_-_4793047_-_Images_1.avif> "thumbs_-_4793047_-_Images_1.avif")
 
-  ![](<thumbs_-_4793047_-_ImagesSTL_1.jpg> "thumbs_-_4793047_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4793047_-_ImagesSTL_1.avif> "thumbs_-_4793047_-_ImagesSTL_1.avif")
 
   
 

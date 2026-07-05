@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > 15mm_Warhammer > 15mm_Genestealer_with_claws___3_poses__Rescale__Base_Department [dl]"
 date: "2025-12-01T00:05:21+00:00"
 toc: true
-image: "thumbs_-_7218169_-_Images_1.jpg"
+image: "thumbs_-_7218169_-_Images_1.avif"
 tags:
 - "15mm_Warhammer"
 - "15mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7218169_-_Images_1.jpg> "thumbs_-_7218169_-_Images_1.jpg")
+![](<thumbs_-_7218169_-_Images_1.avif> "thumbs_-_7218169_-_Images_1.avif")
 
-  ![](<thumbs_-_7218169_-_ImagesSTL_1.jpg> "thumbs_-_7218169_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7218169_-_ImagesSTL_1.avif> "thumbs_-_7218169_-_ImagesSTL_1.avif")
 
   
 

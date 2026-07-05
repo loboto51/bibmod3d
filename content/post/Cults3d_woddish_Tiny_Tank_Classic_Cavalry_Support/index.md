@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > woddish > Tiny_Tank_Classic_Cavalry_Support [dl]"
 date: "2021-04-26T00:11:24Z"
 toc: true
-image: "thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.jpg"
+image: "thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.avif"
 tags:
 - "woddish"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sicarans-canon-lourd"
 - "epic SMI Sicarans-canon-lourd"
 - "vehicules SMI Sicarans-canon-lourd"
-- "epic vehicules SMI Sicarans-canon-lourd"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Sicarans-canon-lourd NONSUP"
 - "epic Sicarans-canon-lourd NONSUP"
 - "vehicules Sicarans-canon-lourd NONSUP"
-- "epic vehicules Sicarans-canon-lourd NONSUP"
 - "SMI Sicarans-canon-lourd NONSUP"
-- "epic SMI Sicarans-canon-lourd NONSUP"
-- "vehicules SMI Sicarans-canon-lourd NONSUP"
 
 ---
 
-![](<thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.jpg> "thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.jpg")
+![](<thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.avif> "thumbs_-_tiny-tank-classic-cavalry-support_-_Images_1.avif")
 
-  ![](<thumbs_-_tiny-tank-classic-cavalry-support_-_ImagesSTL_1.jpg> "thumbs_-_tiny-tank-classic-cavalry-support_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_tiny-tank-classic-cavalry-support_-_ImagesSTL_1.avif> "thumbs_-_tiny-tank-classic-cavalry-support_-_ImagesSTL_1.avif")
 
   
 

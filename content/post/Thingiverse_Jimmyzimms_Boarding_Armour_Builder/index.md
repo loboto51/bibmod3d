@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jimmyzimms > Boarding_Armour_Builder [dl]"
 date: "2021-11-08T20:03:46+00:00"
 toc: true
-image: "thumbs_-_5110539_-_Images_1.jpg"
+image: "thumbs_-_5110539_-_Images_1.avif"
 tags:
 - "Jimmyzimms"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "Bits Builders"
 - "epic Bits Builders"
 - "SMI Bits Builders"
-- "epic SMI Bits Builders"
 - "NONSUP"
 - "epic NONSUP"
 - "SMI NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits NONSUP"
 - "epic Bits NONSUP"
 - "SMI Bits NONSUP"
-- "epic SMI Bits NONSUP"
 - "Builders NONSUP"
 - "epic Builders NONSUP"
 - "SMI Builders NONSUP"
-- "epic SMI Builders NONSUP"
 - "Bits Builders NONSUP"
-- "epic Bits Builders NONSUP"
-- "SMI Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_5110539_-_Images_1.jpg> "thumbs_-_5110539_-_Images_1.jpg")
+![](<thumbs_-_5110539_-_Images_1.avif> "thumbs_-_5110539_-_Images_1.avif")
 
-  ![](<thumbs_-_5110539_-_ImagesSTL_1.jpg> "thumbs_-_5110539_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5110539_-_ImagesSTL_1.avif> "thumbs_-_5110539_-_ImagesSTL_1.avif")
 
   
 

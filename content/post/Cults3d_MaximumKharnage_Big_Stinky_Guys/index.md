@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MaximumKharnage > Big_Stinky_Guys [non dl]"
 date: "2026-06-13T06:42:54Z"
 toc: true
-image: "thumbs_-_big-stinky-guys_-_Images_1.jpg"
+image: "thumbs_-_big-stinky-guys_-_Images_1.avif"
 tags:
 - "MaximumKharnage"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC NONDL"
 - "28mm SMC NONDL"
 - "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 - "SMC NONDL NONSUP"
-- "28mm SMC NONDL NONSUP"
-- "CHAOS SMC NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_big-stinky-guys_-_Images_1.jpg> "thumbs_-_big-stinky-guys_-_Images_1.jpg")
+![](<thumbs_-_big-stinky-guys_-_Images_1.avif> "thumbs_-_big-stinky-guys_-_Images_1.avif")
 
   
 

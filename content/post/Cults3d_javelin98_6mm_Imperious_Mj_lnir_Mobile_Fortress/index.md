@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > javelin98 > 6mm_Imperious_Mj_lnir_Mobile_Fortress [non dl]"
 date: "2025-01-12T21:21:49Z"
 toc: true
-image: "thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.jpg"
+image: "thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.avif"
 tags:
 - "javelin98"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Leviathans"
 - "epic SQUATS Leviathans"
 - "superlourds SQUATS Leviathans"
-- "epic superlourds SQUATS Leviathans"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SQUATS NONDL"
 - "epic SQUATS NONDL"
 - "superlourds SQUATS NONDL"
-- "epic superlourds SQUATS NONDL"
 - "Leviathans NONDL"
 - "epic Leviathans NONDL"
 - "superlourds Leviathans NONDL"
-- "epic superlourds Leviathans NONDL"
 - "SQUATS Leviathans NONDL"
-- "epic SQUATS Leviathans NONDL"
-- "superlourds SQUATS Leviathans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
-- "epic superlourds SQUATS NONSUP"
 - "Leviathans NONSUP"
 - "epic Leviathans NONSUP"
 - "superlourds Leviathans NONSUP"
-- "epic superlourds Leviathans NONSUP"
 - "SQUATS Leviathans NONSUP"
-- "epic SQUATS Leviathans NONSUP"
-- "superlourds SQUATS Leviathans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "epic SQUATS NONDL NONSUP"
-- "superlourds SQUATS NONDL NONSUP"
 - "Leviathans NONDL NONSUP"
-- "epic Leviathans NONDL NONSUP"
-- "superlourds Leviathans NONDL NONSUP"
-- "SQUATS Leviathans NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.jpg> "thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.jpg")
+![](<thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.avif> "thumbs_-_6mm-imperious-mjolnir-mobile-fortress_-_Images_1.avif")
 
   
 

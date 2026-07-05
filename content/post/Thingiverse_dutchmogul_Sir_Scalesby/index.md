@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Sir_Scalesby [non dl]"
 date: "2020-05-22T19:19:58+00:00"
 toc: true
-image: "thumbs_-_4386377_-_Images_1.jpg"
+image: "thumbs_-_4386377_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4386377_-_Images_1.jpg> "thumbs_-_4386377_-_Images_1.jpg")
+![](<thumbs_-_4386377_-_Images_1.avif> "thumbs_-_4386377_-_Images_1.avif")
 
   
 

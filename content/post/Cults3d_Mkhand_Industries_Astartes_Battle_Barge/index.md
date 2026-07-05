@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Mkhand_Industries > Astartes_Battle_Barge [dl]"
 date: "2019-12-09T11:19:43Z"
 toc: true
-image: "thumbs_-_astartes-battle-barge_-_Images_1.jpg"
+image: "thumbs_-_astartes-battle-barge_-_Images_1.avif"
 tags:
 - "Mkhand_Industries"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_astartes-battle-barge_-_Images_1.jpg> "thumbs_-_astartes-battle-barge_-_Images_1.jpg")
+![](<thumbs_-_astartes-battle-barge_-_Images_1.avif> "thumbs_-_astartes-battle-barge_-_Images_1.avif")
 
-  ![](<thumbs_-_astartes-battle-barge_-_ImagesSTL_1.jpg> "thumbs_-_astartes-battle-barge_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_astartes-battle-barge_-_ImagesSTL_1.avif> "thumbs_-_astartes-battle-barge_-_ImagesSTL_1.avif")
 
   
 

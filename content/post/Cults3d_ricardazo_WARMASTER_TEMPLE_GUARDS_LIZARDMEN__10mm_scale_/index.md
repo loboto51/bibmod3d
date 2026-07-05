@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > ricardazo > WARMASTER_TEMPLE_GUARDS_LIZARDMEN__10mm_scale_ [non dl]"
 date: "2024-08-02T00:33:14Z"
 toc: true
-image: "thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.jpg"
+image: "thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.avif"
 tags:
 - "ricardazo"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "HOMMES-LEZARDS NONDL SUP"
-- "warmaster HOMMES-LEZARDS NONDL SUP"
 
 ---
 
-![](<thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.jpg> "thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.jpg")
+![](<thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.avif> "thumbs_-_warmaster-temple-guards-lizardmen-10mm-scale_-_Images_1.avif")
 
   
 

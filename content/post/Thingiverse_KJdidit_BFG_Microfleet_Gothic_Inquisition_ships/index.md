@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KJdidit > BFG_Microfleet_Gothic_Inquisition_ships [dl]"
 date: "2020-06-20T22:49:45+00:00"
 toc: true
-image: "thumbs_-_4487552_-_Images_1.jpg"
+image: "thumbs_-_4487552_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 - "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 - "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
-- "bfg IMP Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 
 ---
 
-![](<thumbs_-_4487552_-_Images_1.jpg> "thumbs_-_4487552_-_Images_1.jpg")
+![](<thumbs_-_4487552_-_Images_1.avif> "thumbs_-_4487552_-_Images_1.avif")
 
-  ![](<thumbs_-_4487552_-_ImagesSTL_1.jpg> "thumbs_-_4487552_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4487552_-_ImagesSTL_1.avif> "thumbs_-_4487552_-_ImagesSTL_1.avif")
 
   
 

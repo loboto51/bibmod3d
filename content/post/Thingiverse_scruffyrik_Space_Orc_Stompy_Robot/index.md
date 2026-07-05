@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > scruffyrik > Space_Orc_Stompy_Robot [dl]"
 date: "2020-08-11T20:23:07+00:00"
 toc: true
-image: "thumbs_-_4567486_-_Images_1.jpg"
+image: "thumbs_-_4567486_-_Images_1.avif"
 tags:
 - "scruffyrik"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-stompas"
 - "epic ORKS Orks-stompas"
 - "chevaliers ORKS Orks-stompas"
-- "epic chevaliers ORKS Orks-stompas"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "chevaliers ORKS NONSUP"
-- "epic chevaliers ORKS NONSUP"
 - "Orks-stompas NONSUP"
 - "epic Orks-stompas NONSUP"
 - "chevaliers Orks-stompas NONSUP"
-- "epic chevaliers Orks-stompas NONSUP"
 - "ORKS Orks-stompas NONSUP"
-- "epic ORKS Orks-stompas NONSUP"
-- "chevaliers ORKS Orks-stompas NONSUP"
 
 ---
 
-![](<thumbs_-_4567486_-_Images_1.jpg> "thumbs_-_4567486_-_Images_1.jpg")
+![](<thumbs_-_4567486_-_Images_1.avif> "thumbs_-_4567486_-_Images_1.avif")
 
-  ![](<thumbs_-_4567486_-_ImagesSTL_1.jpg> "thumbs_-_4567486_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4567486_-_ImagesSTL_1.avif> "thumbs_-_4567486_-_ImagesSTL_1.avif")
 
   
 

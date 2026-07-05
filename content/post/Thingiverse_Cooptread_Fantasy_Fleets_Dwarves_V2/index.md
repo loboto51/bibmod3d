@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Cooptread > Fantasy_Fleets_Dwarves_V2 [non dl]"
 date: "2023-04-20T00:32:55+00:00"
 toc: true
-image: "thumbs_-_5980454_-_Images_1.jpg"
+image: "thumbs_-_5980454_-_Images_1.avif"
 tags:
 - "Cooptread"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "manowar NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5980454_-_Images_1.jpg> "thumbs_-_5980454_-_Images_1.jpg")
+![](<thumbs_-_5980454_-_Images_1.avif> "thumbs_-_5980454_-_Images_1.avif")
 
   
 

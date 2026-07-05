@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Fjodin > 15mm_Termagants___BaseDepartment_s_design____4_poses [non dl]"
 date: "2021-06-14T13:00:39+00:00"
 toc: true
-image: "thumbs_-_4885758_-_Images_1.jpg"
+image: "thumbs_-_4885758_-_Images_1.avif"
 tags:
 - "Fjodin"
 - "15mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "15mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4885758_-_Images_1.jpg> "thumbs_-_4885758_-_Images_1.jpg")
+![](<thumbs_-_4885758_-_Images_1.avif> "thumbs_-_4885758_-_Images_1.avif")
 
   
 

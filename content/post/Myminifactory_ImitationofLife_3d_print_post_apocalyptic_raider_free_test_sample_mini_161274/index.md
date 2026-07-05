@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > ImitationofLife > 3d_print_post_apocalyptic_raider_free_test_sample_mini_161274 [dl]"
 date: "2021-03-16"
 toc: true
-image: "thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.jpg"
+image: "thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.avif"
 tags:
 - "ImitationofLife"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Necromunda-gangs"
 - "15mm HUMAINS Necromunda-gangs"
 - "IMP HUMAINS Necromunda-gangs"
-- "15mm IMP HUMAINS Necromunda-gangs"
 - "40k-gangs"
 - "15mm 40k-gangs"
 - "IMP 40k-gangs"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS 40k-gangs"
 - "15mm HUMAINS 40k-gangs"
 - "IMP HUMAINS 40k-gangs"
-- "15mm IMP HUMAINS 40k-gangs"
 - "Necromunda-gangs 40k-gangs"
 - "15mm Necromunda-gangs 40k-gangs"
 - "IMP Necromunda-gangs 40k-gangs"
-- "15mm IMP Necromunda-gangs 40k-gangs"
 - "HUMAINS Necromunda-gangs 40k-gangs"
-- "15mm HUMAINS Necromunda-gangs 40k-gangs"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "SUP"
 - "15mm SUP"
 - "IMP SUP"
@@ -43,25 +38,15 @@ tags:
 - "HUMAINS SUP"
 - "15mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "15mm IMP HUMAINS SUP"
 - "Necromunda-gangs SUP"
 - "15mm Necromunda-gangs SUP"
 - "IMP Necromunda-gangs SUP"
-- "15mm IMP Necromunda-gangs SUP"
 - "HUMAINS Necromunda-gangs SUP"
-- "15mm HUMAINS Necromunda-gangs SUP"
-- "IMP HUMAINS Necromunda-gangs SUP"
 - "40k-gangs SUP"
 - "15mm 40k-gangs SUP"
 - "IMP 40k-gangs SUP"
-- "15mm IMP 40k-gangs SUP"
 - "HUMAINS 40k-gangs SUP"
-- "15mm HUMAINS 40k-gangs SUP"
-- "IMP HUMAINS 40k-gangs SUP"
 - "Necromunda-gangs 40k-gangs SUP"
-- "15mm Necromunda-gangs 40k-gangs SUP"
-- "IMP Necromunda-gangs 40k-gangs SUP"
-- "HUMAINS Necromunda-gangs 40k-gangs SUP"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -76,7 +61,6 @@ tags:
 - "HUMAINS Necromunda-gangs"
 - "28mm HUMAINS Necromunda-gangs"
 - "IMP HUMAINS Necromunda-gangs"
-- "28mm IMP HUMAINS Necromunda-gangs"
 - "40k-gangs"
 - "28mm 40k-gangs"
 - "IMP 40k-gangs"
@@ -84,14 +68,10 @@ tags:
 - "HUMAINS 40k-gangs"
 - "28mm HUMAINS 40k-gangs"
 - "IMP HUMAINS 40k-gangs"
-- "28mm IMP HUMAINS 40k-gangs"
 - "Necromunda-gangs 40k-gangs"
 - "28mm Necromunda-gangs 40k-gangs"
 - "IMP Necromunda-gangs 40k-gangs"
-- "28mm IMP Necromunda-gangs 40k-gangs"
 - "HUMAINS Necromunda-gangs 40k-gangs"
-- "28mm HUMAINS Necromunda-gangs 40k-gangs"
-- "IMP HUMAINS Necromunda-gangs 40k-gangs"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -99,33 +79,23 @@ tags:
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
 - "Necromunda-gangs SUP"
 - "28mm Necromunda-gangs SUP"
 - "IMP Necromunda-gangs SUP"
-- "28mm IMP Necromunda-gangs SUP"
 - "HUMAINS Necromunda-gangs SUP"
-- "28mm HUMAINS Necromunda-gangs SUP"
-- "IMP HUMAINS Necromunda-gangs SUP"
 - "40k-gangs SUP"
 - "28mm 40k-gangs SUP"
 - "IMP 40k-gangs SUP"
-- "28mm IMP 40k-gangs SUP"
 - "HUMAINS 40k-gangs SUP"
-- "28mm HUMAINS 40k-gangs SUP"
-- "IMP HUMAINS 40k-gangs SUP"
 - "Necromunda-gangs 40k-gangs SUP"
-- "28mm Necromunda-gangs 40k-gangs SUP"
-- "IMP Necromunda-gangs 40k-gangs SUP"
-- "HUMAINS Necromunda-gangs 40k-gangs SUP"
 
 ---
 
-![](<thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.jpg> "thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.jpg")
+![](<thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.avif> "thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_ImagesSTL_1.avif> "thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Makes_1.jpg> "thumbs_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Makes_1.jpg")
+  ![](<thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Makes_1.avif> "thumbs_-_ImitationofLife_-_3d_print_post_apocalyptic_raider_free_test_sample_mini_161274_-_Makes_1.avif")
 
   
 

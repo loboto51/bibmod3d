@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jeremy8077 > Multi_Use_Scifi_Building__18mm_Scale_ [non dl]"
 date: "2016-04-26T22:03:05+00:00"
 toc: true
-image: "thumbs_-_1519013_-_Images_1.jpg"
+image: "thumbs_-_1519013_-_Images_1.avif"
 tags:
 - "Jeremy8077"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "necromunda NONDL"
 - "15mm necromunda NONDL"
 - "decors necromunda NONDL"
-- "15mm decors necromunda NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "decors NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "necromunda NONSUP"
 - "15mm necromunda NONSUP"
 - "decors necromunda NONSUP"
-- "15mm decors necromunda NONSUP"
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "15mm decors NONDL NONSUP"
 - "necromunda NONDL NONSUP"
-- "15mm necromunda NONDL NONSUP"
-- "decors necromunda NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1519013_-_Images_1.jpg> "thumbs_-_1519013_-_Images_1.jpg")
+![](<thumbs_-_1519013_-_Images_1.avif> "thumbs_-_1519013_-_Images_1.avif")
 
   
 

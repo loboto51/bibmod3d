@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ClayRade > Giant_Pillbugs [non dl]"
 date: "2024-10-04T23:03:23+00:00"
 toc: true
-image: "thumbs_-_6787695_-_Images_1.jpg"
+image: "thumbs_-_6787695_-_Images_1.avif"
 tags:
 - "ClayRade"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "warmaster GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6787695_-_Images_1.jpg> "thumbs_-_6787695_-_Images_1.jpg")
+![](<thumbs_-_6787695_-_Images_1.avif> "thumbs_-_6787695_-_Images_1.avif")
 
-  ![](<thumbs_-_6787695_-_Makes_1.jpg> "thumbs_-_6787695_-_Makes_1.jpg")
+  ![](<thumbs_-_6787695_-_Makes_1.avif> "thumbs_-_6787695_-_Makes_1.avif")
 
   
 

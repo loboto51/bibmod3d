@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > evanogainen > Pain_Strider___Armiger_Helverin_conversion_kit [dl]"
 date: "2019-03-19T20:23:13+00:00"
 toc: true
-image: "thumbs_-_3503838_-_Images_1.jpg"
+image: "thumbs_-_3503838_-_Images_1.avif"
 tags:
 - "evanogainen"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-chevaliers"
 - "epic CHAOS Chaos-chevaliers"
 - "chevaliers CHAOS Chaos-chevaliers"
-- "epic chevaliers CHAOS Chaos-chevaliers"
 - "SLAANESH"
 - "epic SLAANESH"
 - "chevaliers SLAANESH"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS SLAANESH"
 - "epic CHAOS SLAANESH"
 - "chevaliers CHAOS SLAANESH"
-- "epic chevaliers CHAOS SLAANESH"
 - "Chaos-chevaliers SLAANESH"
 - "epic Chaos-chevaliers SLAANESH"
 - "chevaliers Chaos-chevaliers SLAANESH"
-- "epic chevaliers Chaos-chevaliers SLAANESH"
 - "CHAOS Chaos-chevaliers SLAANESH"
-- "epic CHAOS Chaos-chevaliers SLAANESH"
-- "chevaliers CHAOS Chaos-chevaliers SLAANESH"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "chevaliers CHAOS NONSUP"
-- "epic chevaliers CHAOS NONSUP"
 - "Chaos-chevaliers NONSUP"
 - "epic Chaos-chevaliers NONSUP"
 - "chevaliers Chaos-chevaliers NONSUP"
-- "epic chevaliers Chaos-chevaliers NONSUP"
 - "CHAOS Chaos-chevaliers NONSUP"
-- "epic CHAOS Chaos-chevaliers NONSUP"
-- "chevaliers CHAOS Chaos-chevaliers NONSUP"
 - "SLAANESH NONSUP"
 - "epic SLAANESH NONSUP"
 - "chevaliers SLAANESH NONSUP"
-- "epic chevaliers SLAANESH NONSUP"
 - "CHAOS SLAANESH NONSUP"
-- "epic CHAOS SLAANESH NONSUP"
-- "chevaliers CHAOS SLAANESH NONSUP"
 - "Chaos-chevaliers SLAANESH NONSUP"
-- "epic Chaos-chevaliers SLAANESH NONSUP"
-- "chevaliers Chaos-chevaliers SLAANESH NONSUP"
-- "CHAOS Chaos-chevaliers SLAANESH NONSUP"
 
 ---
 
-![](<thumbs_-_3503838_-_Images_1.jpg> "thumbs_-_3503838_-_Images_1.jpg")
+![](<thumbs_-_3503838_-_Images_1.avif> "thumbs_-_3503838_-_Images_1.avif")
 
-  ![](<thumbs_-_3503838_-_ImagesSTL_1.jpg> "thumbs_-_3503838_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3503838_-_ImagesSTL_1.avif> "thumbs_-_3503838_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3503838_-_Makes_1.jpg> "thumbs_-_3503838_-_Makes_1.jpg")
+  ![](<thumbs_-_3503838_-_Makes_1.avif> "thumbs_-_3503838_-_Makes_1.avif")
 
   
 

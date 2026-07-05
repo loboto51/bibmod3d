@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mrshinbbles > 2PI_XV25_PHILOSOPHICAL_WARRIOR [non dl]"
 date: "2021-01-31T09:07:00Z"
 toc: true
-image: "thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.jpg"
+image: "thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.avif"
 tags:
 - "mrshinbbles"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TAU NONDL NONSUP"
-- "28mm TAU NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.jpg> "thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.jpg")
+![](<thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.avif> "thumbs_-_2pi-xv25-stealth-battlesuit_-_Images_1.avif")
 
-  ![](<thumbs_-_2pi-xv25-stealth-battlesuit_-_Makes_1.jpg> "thumbs_-_2pi-xv25-stealth-battlesuit_-_Makes_1.jpg")
+  ![](<thumbs_-_2pi-xv25-stealth-battlesuit_-_Makes_1.avif> "thumbs_-_2pi-xv25-stealth-battlesuit_-_Makes_1.avif")
 
   
 

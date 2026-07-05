@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Chthulas > Warlock_sorcerous_Staff [dl]"
 date: "2023-02-04T12:28:46Z"
 toc: true
-image: "thumbs_-_warlock-sorcerous-staff_-_Images_1.jpg"
+image: "thumbs_-_warlock-sorcerous-staff_-_Images_1.avif"
 tags:
 - "Chthulas"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_warlock-sorcerous-staff_-_Images_1.jpg> "thumbs_-_warlock-sorcerous-staff_-_Images_1.jpg")
+![](<thumbs_-_warlock-sorcerous-staff_-_Images_1.avif> "thumbs_-_warlock-sorcerous-staff_-_Images_1.avif")
 
-  ![](<thumbs_-_warlock-sorcerous-staff_-_ImagesSTL_1.jpg> "thumbs_-_warlock-sorcerous-staff_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_warlock-sorcerous-staff_-_ImagesSTL_1.avif> "thumbs_-_warlock-sorcerous-staff_-_ImagesSTL_1.avif")
 
   
 

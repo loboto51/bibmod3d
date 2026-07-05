@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Fabrik1917 > 6mm_shock_troop_infantry [dl]"
 date: "2026-06-01T22:17:04Z"
 toc: true
-image: "thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg"
+image: "thumbs_-_6mm-shock-troop-infantry_-_Images_1.avif"
 tags:
 - "Fabrik1917"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-tactiques SUP"
 - "epic Humains-tactiques SUP"
 - "infanterie Humains-tactiques SUP"
-- "epic infanterie Humains-tactiques SUP"
 - "GI Humains-tactiques SUP"
-- "epic GI Humains-tactiques SUP"
-- "infanterie GI Humains-tactiques SUP"
 
 ---
 
-![](<thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg> "thumbs_-_6mm-shock-troop-infantry_-_Images_1.jpg")
+![](<thumbs_-_6mm-shock-troop-infantry_-_Images_1.avif> "thumbs_-_6mm-shock-troop-infantry_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.jpg> "thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.avif> "thumbs_-_6mm-shock-troop-infantry_-_ImagesSTL_1.avif")
 
   
 

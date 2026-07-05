@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > HighCommand > Lucius_Knight_Compatible_with_Adeptus_Titanicus [dl]"
 date: "2019-01-12T10:28:41+00:00"
 toc: true
-image: "thumbs_-_3350504_-_Images_1.jpg"
+image: "thumbs_-_3350504_-_Images_1.avif"
 tags:
 - "HighCommand"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "epic chevaliers IMP Admech-chevaliers"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
 - "Admech-chevaliers NONSUP"
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
-![](<thumbs_-_3350504_-_Images_1.jpg> "thumbs_-_3350504_-_Images_1.jpg")
+![](<thumbs_-_3350504_-_Images_1.avif> "thumbs_-_3350504_-_Images_1.avif")
 
-  ![](<thumbs_-_3350504_-_ImagesSTL_1.jpg> "thumbs_-_3350504_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3350504_-_ImagesSTL_1.avif> "thumbs_-_3350504_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3350504_-_Makes_1.jpg> "thumbs_-_3350504_-_Makes_1.jpg")
+  ![](<thumbs_-_3350504_-_Makes_1.avif> "thumbs_-_3350504_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DasModell > MALICIOUS_DISSECTOR [dl]"
 date: "2024-10-02T04:46:00Z"
 toc: true
-image: "thumbs_-_malicious-dissector_-_Images_1.jpg"
+image: "thumbs_-_malicious-dissector_-_Images_1.avif"
 tags:
 - "DasModell"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_malicious-dissector_-_Images_1.jpg> "thumbs_-_malicious-dissector_-_Images_1.jpg")
+![](<thumbs_-_malicious-dissector_-_Images_1.avif> "thumbs_-_malicious-dissector_-_Images_1.avif")
 
-  ![](<thumbs_-_malicious-dissector_-_ImagesSTL_1.jpg> "thumbs_-_malicious-dissector_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_malicious-dissector_-_ImagesSTL_1.avif> "thumbs_-_malicious-dissector_-_ImagesSTL_1.avif")
 
   
 

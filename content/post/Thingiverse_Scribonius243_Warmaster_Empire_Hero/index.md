@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Empire_Hero [non dl]"
 date: "2024-02-13T05:13:35+00:00"
 toc: true
-image: "thumbs_-_6482995_-_Images_1.jpg"
+image: "thumbs_-_6482995_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "EMPIRE NONDL"
 - "warmaster EMPIRE NONDL"
 - "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "SUP"
 - "warmaster SUP"
 - "HUMAINS SUP"
@@ -28,18 +27,14 @@ tags:
 - "EMPIRE SUP"
 - "warmaster EMPIRE SUP"
 - "HUMAINS EMPIRE SUP"
-- "warmaster HUMAINS EMPIRE SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "warmaster HUMAINS NONDL SUP"
 - "EMPIRE NONDL SUP"
-- "warmaster EMPIRE NONDL SUP"
-- "HUMAINS EMPIRE NONDL SUP"
 
 ---
 
-![](<thumbs_-_6482995_-_Images_1.jpg> "thumbs_-_6482995_-_Images_1.jpg")
+![](<thumbs_-_6482995_-_Images_1.avif> "thumbs_-_6482995_-_Images_1.avif")
 
   
 

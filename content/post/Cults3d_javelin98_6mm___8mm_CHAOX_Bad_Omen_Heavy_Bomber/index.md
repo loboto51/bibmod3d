@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > javelin98 > 6mm___8mm_CHAOX_Bad_Omen_Heavy_Bomber [non dl]"
 date: "2024-09-19T03:30:51Z"
 toc: true
-image: "thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.jpg"
+image: "thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.avif"
 tags:
 - "javelin98"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-Chasseurs-Bombardiers"
 - "epic CHAOS Chaos-Chasseurs-Bombardiers"
 - "volants CHAOS Chaos-Chasseurs-Bombardiers"
-- "epic volants CHAOS Chaos-Chasseurs-Bombardiers"
 - "NONDL"
 - "epic NONDL"
 - "volants NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NONDL"
 - "epic CHAOS NONDL"
 - "volants CHAOS NONDL"
-- "epic volants CHAOS NONDL"
 - "Chaos-Chasseurs-Bombardiers NONDL"
 - "epic Chaos-Chasseurs-Bombardiers NONDL"
 - "volants Chaos-Chasseurs-Bombardiers NONDL"
-- "epic volants Chaos-Chasseurs-Bombardiers NONDL"
 - "CHAOS Chaos-Chasseurs-Bombardiers NONDL"
-- "epic CHAOS Chaos-Chasseurs-Bombardiers NONDL"
-- "volants CHAOS Chaos-Chasseurs-Bombardiers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "volants CHAOS NONSUP"
-- "epic volants CHAOS NONSUP"
 - "Chaos-Chasseurs-Bombardiers NONSUP"
 - "epic Chaos-Chasseurs-Bombardiers NONSUP"
 - "volants Chaos-Chasseurs-Bombardiers NONSUP"
-- "epic volants Chaos-Chasseurs-Bombardiers NONSUP"
 - "CHAOS Chaos-Chasseurs-Bombardiers NONSUP"
-- "epic CHAOS Chaos-Chasseurs-Bombardiers NONSUP"
-- "volants CHAOS Chaos-Chasseurs-Bombardiers NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "volants NONDL NONSUP"
-- "epic volants NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "epic CHAOS NONDL NONSUP"
-- "volants CHAOS NONDL NONSUP"
 - "Chaos-Chasseurs-Bombardiers NONDL NONSUP"
-- "epic Chaos-Chasseurs-Bombardiers NONDL NONSUP"
-- "volants Chaos-Chasseurs-Bombardiers NONDL NONSUP"
-- "CHAOS Chaos-Chasseurs-Bombardiers NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.jpg> "thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.jpg")
+![](<thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.avif> "thumbs_-_6mm-8mm-chaox-bad-omen-heavy-bomber_-_Images_1.avif")
 
   
 

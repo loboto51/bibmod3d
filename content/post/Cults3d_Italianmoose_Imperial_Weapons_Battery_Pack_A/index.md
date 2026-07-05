@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Imperial_Weapons_Battery_Pack_A [non dl]"
 date: "2023-12-21T13:40:19Z"
 toc: true
-image: "thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.jpg"
+image: "thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "IMP SUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "IMP Flotte SUP"
-- "bfg IMP Flotte SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "IMP NONDL SUP"
-- "bfg IMP NONDL SUP"
 - "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "IMP Flotte NONDL SUP"
 
 ---
 
-![](<thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.jpg> "thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.jpg")
+![](<thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.avif> "thumbs_-_imperial-weapons-battery-pack-a_-_Images_1.avif")
 
   
 

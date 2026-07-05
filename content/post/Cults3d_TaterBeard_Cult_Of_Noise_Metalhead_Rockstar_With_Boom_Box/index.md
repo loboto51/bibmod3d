@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > TaterBeard > Cult_Of_Noise_Metalhead_Rockstar_With_Boom_Box [non dl]"
 date: "2023-04-19T12:06:29Z"
 toc: true
-image: "thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.jpg"
+image: "thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.avif"
 tags:
 - "TaterBeard"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC NONDL"
 - "28mm SMC NONDL"
 - "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
@@ -28,18 +27,14 @@ tags:
 - "SMC SUP"
 - "28mm SMC SUP"
 - "CHAOS SMC SUP"
-- "28mm CHAOS SMC SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "CHAOS NONDL SUP"
-- "28mm CHAOS NONDL SUP"
 - "SMC NONDL SUP"
-- "28mm SMC NONDL SUP"
-- "CHAOS SMC NONDL SUP"
 
 ---
 
-![](<thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.jpg> "thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.jpg")
+![](<thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.avif> "thumbs_-_cult-of-noise-metalhead-rockstar-with-boom-box_-_Images_1.avif")
 
   
 

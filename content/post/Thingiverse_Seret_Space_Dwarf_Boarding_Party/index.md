@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Seret > Space_Dwarf_Boarding_Party [non dl]"
 date: "2022-01-16T21:32:36+00:00"
 toc: true
-image: "thumbs_-_5203322_-_Images_1.jpg"
+image: "thumbs_-_5203322_-_Images_1.avif"
 tags:
 - "Seret"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5203322_-_Images_1.jpg> "thumbs_-_5203322_-_Images_1.jpg")
+![](<thumbs_-_5203322_-_Images_1.avif> "thumbs_-_5203322_-_Images_1.avif")
 
   
 

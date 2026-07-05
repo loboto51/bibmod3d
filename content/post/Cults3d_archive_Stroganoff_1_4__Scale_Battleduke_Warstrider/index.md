@@ -3,15 +3,15 @@
 title: "[GRATUIT] Cults3d_archive > Stroganoff > 1_4__Scale_Battleduke_Warstrider [non dl]"
 date: ""
 toc: true
-image: "thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.jpg"
+image: "thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.avif"
 tags:
 - "Stroganoff"
 
 ---
 
-![](<thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.jpg> "thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.jpg")
+![](<thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.avif> "thumbs_-_1-4-scale-battleduke-warstrider_-_Images_1.avif")
 
-  ![](<thumbs_-_1-4-scale-battleduke-warstrider_-_Makes_1.jpg> "thumbs_-_1-4-scale-battleduke-warstrider_-_Makes_1.jpg")
+  ![](<thumbs_-_1-4-scale-battleduke-warstrider_-_Makes_1.avif> "thumbs_-_1-4-scale-battleduke-warstrider_-_Makes_1.avif")
 
   
 

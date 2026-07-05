@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Titan_Knights___Tech_Elves___8mm [non dl]"
 date: "2024-08-02T21:03:57Z"
 toc: true
-image: "thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-chevaliers"
 - "epic VM Eldars-chevaliers"
 - "chevaliers VM Eldars-chevaliers"
-- "epic chevaliers VM Eldars-chevaliers"
 - "NONDL"
 - "epic NONDL"
 - "chevaliers NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "chevaliers VM NONDL"
-- "epic chevaliers VM NONDL"
 - "Eldars-chevaliers NONDL"
 - "epic Eldars-chevaliers NONDL"
 - "chevaliers Eldars-chevaliers NONDL"
-- "epic chevaliers Eldars-chevaliers NONDL"
 - "VM Eldars-chevaliers NONDL"
-- "epic VM Eldars-chevaliers NONDL"
-- "chevaliers VM Eldars-chevaliers NONDL"
 - "SUP"
 - "epic SUP"
 - "chevaliers SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "chevaliers VM SUP"
-- "epic chevaliers VM SUP"
 - "Eldars-chevaliers SUP"
 - "epic Eldars-chevaliers SUP"
 - "chevaliers Eldars-chevaliers SUP"
-- "epic chevaliers Eldars-chevaliers SUP"
 - "VM Eldars-chevaliers SUP"
-- "epic VM Eldars-chevaliers SUP"
-- "chevaliers VM Eldars-chevaliers SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "chevaliers NONDL SUP"
-- "epic chevaliers NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "chevaliers VM NONDL SUP"
 - "Eldars-chevaliers NONDL SUP"
-- "epic Eldars-chevaliers NONDL SUP"
-- "chevaliers Eldars-chevaliers NONDL SUP"
-- "VM Eldars-chevaliers NONDL SUP"
 
 ---
 
-![](<thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.jpg> "thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.avif> "thumbs_-_titan-knights-tech-elves-8mm_-_Images_1.avif")
 
   
 

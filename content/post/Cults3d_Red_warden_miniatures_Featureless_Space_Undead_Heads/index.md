@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Red_warden_miniatures > Featureless_Space_Undead_Heads [dl]"
 date: "2021-09-01T12:19:51Z"
 toc: true
-image: "thumbs_-_featureless-space-undead-heads_-_Images_1.jpg"
+image: "thumbs_-_featureless-space-undead-heads_-_Images_1.avif"
 tags:
 - "Red_warden_miniatures"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_featureless-space-undead-heads_-_Images_1.jpg> "thumbs_-_featureless-space-undead-heads_-_Images_1.jpg")
+![](<thumbs_-_featureless-space-undead-heads_-_Images_1.avif> "thumbs_-_featureless-space-undead-heads_-_Images_1.avif")
 
-  ![](<thumbs_-_featureless-space-undead-heads_-_ImagesSTL_1.jpg> "thumbs_-_featureless-space-undead-heads_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_featureless-space-undead-heads_-_ImagesSTL_1.avif> "thumbs_-_featureless-space-undead-heads_-_ImagesSTL_1.avif")
 
   
 

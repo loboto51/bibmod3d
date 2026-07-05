@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Boikonur > Badrukk_8_6mm [dl]"
 date: "2025-06-05T10:19:13Z"
 toc: true
-image: "thumbs_-_badrukk-8-6mm_-_Images_1.jpg"
+image: "thumbs_-_badrukk-8-6mm_-_Images_1.avif"
 tags:
 - "Boikonur"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "Orks-flibuztiers"
 - "epic Orks-flibuztiers"
 - "infanterie Orks-flibuztiers"
@@ -28,14 +27,10 @@ tags:
 - "ORKS Orks-flibuztiers"
 - "epic ORKS Orks-flibuztiers"
 - "infanterie ORKS Orks-flibuztiers"
-- "epic infanterie ORKS Orks-flibuztiers"
 - "Orks-boyz Orks-flibuztiers"
 - "epic Orks-boyz Orks-flibuztiers"
 - "infanterie Orks-boyz Orks-flibuztiers"
-- "epic infanterie Orks-boyz Orks-flibuztiers"
 - "ORKS Orks-boyz Orks-flibuztiers"
-- "epic ORKS Orks-boyz Orks-flibuztiers"
-- "infanterie ORKS Orks-boyz Orks-flibuztiers"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,25 +38,15 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-boyz NONSUP"
 - "epic Orks-boyz NONSUP"
 - "infanterie Orks-boyz NONSUP"
-- "epic infanterie Orks-boyz NONSUP"
 - "ORKS Orks-boyz NONSUP"
-- "epic ORKS Orks-boyz NONSUP"
-- "infanterie ORKS Orks-boyz NONSUP"
 - "Orks-flibuztiers NONSUP"
 - "epic Orks-flibuztiers NONSUP"
 - "infanterie Orks-flibuztiers NONSUP"
-- "epic infanterie Orks-flibuztiers NONSUP"
 - "ORKS Orks-flibuztiers NONSUP"
-- "epic ORKS Orks-flibuztiers NONSUP"
-- "infanterie ORKS Orks-flibuztiers NONSUP"
 - "Orks-boyz Orks-flibuztiers NONSUP"
-- "epic Orks-boyz Orks-flibuztiers NONSUP"
-- "infanterie Orks-boyz Orks-flibuztiers NONSUP"
-- "ORKS Orks-boyz Orks-flibuztiers NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -76,7 +61,6 @@ tags:
 - "ORKS Orks-qg"
 - "epic ORKS Orks-qg"
 - "infanterie ORKS Orks-qg"
-- "epic infanterie ORKS Orks-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -84,20 +68,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-qg NONSUP"
 - "epic Orks-qg NONSUP"
 - "infanterie Orks-qg NONSUP"
-- "epic infanterie Orks-qg NONSUP"
 - "ORKS Orks-qg NONSUP"
-- "epic ORKS Orks-qg NONSUP"
-- "infanterie ORKS Orks-qg NONSUP"
 
 ---
 
-![](<thumbs_-_badrukk-8-6mm_-_Images_1.jpg> "thumbs_-_badrukk-8-6mm_-_Images_1.jpg")
+![](<thumbs_-_badrukk-8-6mm_-_Images_1.avif> "thumbs_-_badrukk-8-6mm_-_Images_1.avif")
 
-  ![](<thumbs_-_badrukk-8-6mm_-_ImagesSTL_1.jpg> "thumbs_-_badrukk-8-6mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_badrukk-8-6mm_-_ImagesSTL_1.avif> "thumbs_-_badrukk-8-6mm_-_ImagesSTL_1.avif")
 
   
 

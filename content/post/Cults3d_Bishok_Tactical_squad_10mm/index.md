@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Bishok > Tactical_squad_10mm [non dl]"
 date: "2024-01-17T18:31:58Z"
 toc: true
-image: "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg"
+image: "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.avif"
 tags:
 - "Bishok"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
 - "Humains-tactiques NONDL"
 - "epic Humains-tactiques NONDL"
 - "infanterie Humains-tactiques NONDL"
-- "epic infanterie Humains-tactiques NONDL"
 - "GI Humains-tactiques NONDL"
-- "epic GI Humains-tactiques NONDL"
-- "infanterie GI Humains-tactiques NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-tactiques SUP"
 - "epic Humains-tactiques SUP"
 - "infanterie Humains-tactiques SUP"
-- "epic infanterie Humains-tactiques SUP"
 - "GI Humains-tactiques SUP"
-- "epic GI Humains-tactiques SUP"
-- "infanterie GI Humains-tactiques SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "GI NONDL SUP"
-- "epic GI NONDL SUP"
-- "infanterie GI NONDL SUP"
 - "Humains-tactiques NONDL SUP"
-- "epic Humains-tactiques NONDL SUP"
-- "infanterie Humains-tactiques NONDL SUP"
-- "GI Humains-tactiques NONDL SUP"
 
 ---
 
-![](<thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg> "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.jpg")
+![](<thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.avif> "thumbs_-_tactical-squad-10mm-bishok-2_-_Images_1.avif")
 
   
 

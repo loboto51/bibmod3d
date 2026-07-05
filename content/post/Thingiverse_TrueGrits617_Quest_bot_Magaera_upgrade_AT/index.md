@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TrueGrits617 > Quest_bot_Magaera_upgrade_AT [dl]"
 date: "2019-06-25T16:57:34+00:00"
 toc: true
-image: "thumbs_-_3713032_-_Images_1.jpg"
+image: "thumbs_-_3713032_-_Images_1.avif"
 tags:
 - "TrueGrits617"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "epic chevaliers IMP Admech-chevaliers"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
 - "Admech-chevaliers NONSUP"
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
-![](<thumbs_-_3713032_-_Images_1.jpg> "thumbs_-_3713032_-_Images_1.jpg")
+![](<thumbs_-_3713032_-_Images_1.avif> "thumbs_-_3713032_-_Images_1.avif")
 
-  ![](<thumbs_-_3713032_-_ImagesSTL_1.jpg> "thumbs_-_3713032_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3713032_-_ImagesSTL_1.avif> "thumbs_-_3713032_-_ImagesSTL_1.avif")
 
   
 

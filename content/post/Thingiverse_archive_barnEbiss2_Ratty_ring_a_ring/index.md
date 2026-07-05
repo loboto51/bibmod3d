@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > barnEbiss2 > Ratty_ring_a_ring [dl]"
 date: "2019-04-14T13:37:10+00:00"
 toc: true
-image: "thumbs_-_3563291_-_Images_1.jpg"
+image: "thumbs_-_3563291_-_Images_1.avif"
 tags:
 - "barnEbiss2"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_3563291_-_Images_1.jpg> "thumbs_-_3563291_-_Images_1.jpg")
+![](<thumbs_-_3563291_-_Images_1.avif> "thumbs_-_3563291_-_Images_1.avif")
 
-  ![](<thumbs_-_3563291_-_ImagesSTL_1.jpg> "thumbs_-_3563291_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3563291_-_ImagesSTL_1.avif> "thumbs_-_3563291_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3563291_-_Makes_1.jpg> "thumbs_-_3563291_-_Makes_1.jpg")
+  ![](<thumbs_-_3563291_-_Makes_1.avif> "thumbs_-_3563291_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > woddish > Tiny_Tank_Fancy_MBT_Infantry_Support [dl]"
 date: "2020-07-04T03:56:12+00:00"
 toc: true
-image: "thumbs_-_4521235_-_Images_1.jpg"
+image: "thumbs_-_4521235_-_Images_1.avif"
 tags:
 - "woddish"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Predators"
 - "epic SMI Predators"
 - "vehicules SMI Predators"
-- "epic vehicules SMI Predators"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Predators NONSUP"
 - "epic Predators NONSUP"
 - "vehicules Predators NONSUP"
-- "epic vehicules Predators NONSUP"
 - "SMI Predators NONSUP"
-- "epic SMI Predators NONSUP"
-- "vehicules SMI Predators NONSUP"
 
 ---
 
-![](<thumbs_-_4521235_-_Images_1.jpg> "thumbs_-_4521235_-_Images_1.jpg")
+![](<thumbs_-_4521235_-_Images_1.avif> "thumbs_-_4521235_-_Images_1.avif")
 
-  ![](<thumbs_-_4521235_-_ImagesSTL_1.jpg> "thumbs_-_4521235_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4521235_-_ImagesSTL_1.avif> "thumbs_-_4521235_-_ImagesSTL_1.avif")
 
   
 

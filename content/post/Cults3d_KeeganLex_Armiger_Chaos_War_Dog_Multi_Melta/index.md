@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > KeeganLex > Armiger_Chaos_War_Dog_Multi_Melta [non dl]"
 date: "2025-05-10T18:08:27Z"
 toc: true
-image: "thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.jpg"
+image: "thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.avif"
 tags:
 - "KeeganLex"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Admech-titans-warhounds"
 - "epic CHAOS Admech-titans-warhounds"
 - "titans CHAOS Admech-titans-warhounds"
-- "epic titans CHAOS Admech-titans-warhounds"
 - "NONDL"
 - "epic NONDL"
 - "titans NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NONDL"
 - "epic CHAOS NONDL"
 - "titans CHAOS NONDL"
-- "epic titans CHAOS NONDL"
 - "Admech-titans-warhounds NONDL"
 - "epic Admech-titans-warhounds NONDL"
 - "titans Admech-titans-warhounds NONDL"
-- "epic titans Admech-titans-warhounds NONDL"
 - "CHAOS Admech-titans-warhounds NONDL"
-- "epic CHAOS Admech-titans-warhounds NONDL"
-- "titans CHAOS Admech-titans-warhounds NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "titans CHAOS NONSUP"
-- "epic titans CHAOS NONSUP"
 - "Admech-titans-warhounds NONSUP"
 - "epic Admech-titans-warhounds NONSUP"
 - "titans Admech-titans-warhounds NONSUP"
-- "epic titans Admech-titans-warhounds NONSUP"
 - "CHAOS Admech-titans-warhounds NONSUP"
-- "epic CHAOS Admech-titans-warhounds NONSUP"
-- "titans CHAOS Admech-titans-warhounds NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
-- "epic titans NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "epic CHAOS NONDL NONSUP"
-- "titans CHAOS NONDL NONSUP"
 - "Admech-titans-warhounds NONDL NONSUP"
-- "epic Admech-titans-warhounds NONDL NONSUP"
-- "titans Admech-titans-warhounds NONDL NONSUP"
-- "CHAOS Admech-titans-warhounds NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.jpg> "thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.jpg")
+![](<thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.avif> "thumbs_-_armiger-chaos-war-dog-multi-melta_-_Images_1.avif")
 
   
 

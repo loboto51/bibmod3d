@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onebitpixel > razor_wire_28mm [non dl]"
 date: "2015-09-25T15:53:51+00:00"
 toc: true
-image: "thumbs_-_1035005_-_Images_1.jpg"
+image: "thumbs_-_1035005_-_Images_1.avif"
 tags:
 - "onebitpixel"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1035005_-_Images_1.jpg> "thumbs_-_1035005_-_Images_1.jpg")
+![](<thumbs_-_1035005_-_Images_1.avif> "thumbs_-_1035005_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MrOrangeJumper > Space_Dwarfs_in_exo_armor [non dl]"
 date: "2018-12-27T20:07:58+00:00"
 toc: true
-image: "thumbs_-_3317072_-_Images_1.jpg"
+image: "thumbs_-_3317072_-_Images_1.avif"
 tags:
 - "MrOrangeJumper"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3317072_-_Images_1.jpg> "thumbs_-_3317072_-_Images_1.jpg")
+![](<thumbs_-_3317072_-_Images_1.avif> "thumbs_-_3317072_-_Images_1.avif")
 
-  ![](<thumbs_-_3317072_-_Makes_1.jpg> "thumbs_-_3317072_-_Makes_1.jpg")
+  ![](<thumbs_-_3317072_-_Makes_1.avif> "thumbs_-_3317072_-_Makes_1.avif")
 
   
 

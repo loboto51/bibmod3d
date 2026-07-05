@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > AquarianSentinel > Arale_2___Dragon_Ball [non dl]"
 date: "2025-06-28T01:19:11Z"
 toc: true
-image: "thumbs_-_arale-2-dragon-ball_-_Images_1.jpg"
+image: "thumbs_-_arale-2-dragon-ball_-_Images_1.avif"
 tags:
 - "AquarianSentinel"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_arale-2-dragon-ball_-_Images_1.jpg> "thumbs_-_arale-2-dragon-ball_-_Images_1.jpg")
+![](<thumbs_-_arale-2-dragon-ball_-_Images_1.avif> "thumbs_-_arale-2-dragon-ball_-_Images_1.avif")
 
   
 

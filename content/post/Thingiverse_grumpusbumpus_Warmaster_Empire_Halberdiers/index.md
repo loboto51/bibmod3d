@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > grumpusbumpus > Warmaster_Empire_Halberdiers [dl]"
 date: "2020-07-09T21:25:54+00:00"
 toc: true
-image: "thumbs_-_4536123_-_Images_1.jpg"
+image: "thumbs_-_4536123_-_Images_1.avif"
 tags:
 - "grumpusbumpus"
 - "warmaster"
@@ -20,15 +20,14 @@ tags:
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
 
 ---
 
-![](<thumbs_-_4536123_-_Images_1.jpg> "thumbs_-_4536123_-_Images_1.jpg")
+![](<thumbs_-_4536123_-_Images_1.avif> "thumbs_-_4536123_-_Images_1.avif")
 
-  ![](<thumbs_-_4536123_-_ImagesSTL_1.jpg> "thumbs_-_4536123_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4536123_-_ImagesSTL_1.avif> "thumbs_-_4536123_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4536123_-_Makes_1.jpg> "thumbs_-_4536123_-_Makes_1.jpg")
+  ![](<thumbs_-_4536123_-_Makes_1.avif> "thumbs_-_4536123_-_Makes_1.avif")
 
   
 

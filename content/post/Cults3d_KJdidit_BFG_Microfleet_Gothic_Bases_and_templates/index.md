@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Bases_and_templates [dl]"
 date: "2021-02-03T05:20:25Z"
 toc: true
-image: "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg"
+image: "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "DIVERS NONSUP"
 - "bfg DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "bfg SOCLES DIVERS NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.jpg")
+![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.avif> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_Images_1.avif")
 
-  ![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.avif> "thumbs_-_bfg-microfleet-gothic-bases-and-templates_-_ImagesSTL_1.avif")
 
   
 

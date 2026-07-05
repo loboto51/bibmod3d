@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Super_Suits___Tech_Elves___8mm [non dl]"
 date: "2024-08-02T21:04:16Z"
 toc: true
-image: "thumbs_-_super-suits-tech-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_super-suits-tech-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-Gardes-Fantômes"
 - "epic VM Eldars-Gardes-Fantômes"
 - "infanterie VM Eldars-Gardes-Fantômes"
-- "epic infanterie VM Eldars-Gardes-Fantômes"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Eldars-Gardes-Fantômes NONDL"
 - "epic Eldars-Gardes-Fantômes NONDL"
 - "infanterie Eldars-Gardes-Fantômes NONDL"
-- "epic infanterie Eldars-Gardes-Fantômes NONDL"
 - "VM Eldars-Gardes-Fantômes NONDL"
-- "epic VM Eldars-Gardes-Fantômes NONDL"
-- "infanterie VM Eldars-Gardes-Fantômes NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-Gardes-Fantômes SUP"
 - "epic Eldars-Gardes-Fantômes SUP"
 - "infanterie Eldars-Gardes-Fantômes SUP"
-- "epic infanterie Eldars-Gardes-Fantômes SUP"
 - "VM Eldars-Gardes-Fantômes SUP"
-- "epic VM Eldars-Gardes-Fantômes SUP"
-- "infanterie VM Eldars-Gardes-Fantômes SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Eldars-Gardes-Fantômes NONDL SUP"
-- "epic Eldars-Gardes-Fantômes NONDL SUP"
-- "infanterie Eldars-Gardes-Fantômes NONDL SUP"
-- "VM Eldars-Gardes-Fantômes NONDL SUP"
 
 ---
 
-![](<thumbs_-_super-suits-tech-elves-8mm_-_Images_1.jpg> "thumbs_-_super-suits-tech-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_super-suits-tech-elves-8mm_-_Images_1.avif> "thumbs_-_super-suits-tech-elves-8mm_-_Images_1.avif")
 
   
 

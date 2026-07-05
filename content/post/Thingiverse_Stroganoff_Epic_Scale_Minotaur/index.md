@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Stroganoff > Epic_Scale_Minotaur [dl]"
 date: "2018-11-13T11:35:24+00:00"
 toc: true
-image: "thumbs_-_3213085_-_Images_1.jpg"
+image: "thumbs_-_3213085_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars-artillerie"
 - "epic GI Imp-chars-artillerie"
 - "vehicules GI Imp-chars-artillerie"
-- "epic vehicules GI Imp-chars-artillerie"
 - "Imp-minotaurs"
 - "epic Imp-minotaurs"
 - "vehicules Imp-minotaurs"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-minotaurs"
 - "epic GI Imp-minotaurs"
 - "vehicules GI Imp-minotaurs"
-- "epic vehicules GI Imp-minotaurs"
 - "Imp-chars-artillerie Imp-minotaurs"
 - "epic Imp-chars-artillerie Imp-minotaurs"
 - "vehicules Imp-chars-artillerie Imp-minotaurs"
-- "epic vehicules Imp-chars-artillerie Imp-minotaurs"
 - "GI Imp-chars-artillerie Imp-minotaurs"
-- "epic GI Imp-chars-artillerie Imp-minotaurs"
-- "vehicules GI Imp-chars-artillerie Imp-minotaurs"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "vehicules GI NONSUP"
-- "epic vehicules GI NONSUP"
 - "Imp-chars-artillerie NONSUP"
 - "epic Imp-chars-artillerie NONSUP"
 - "vehicules Imp-chars-artillerie NONSUP"
-- "epic vehicules Imp-chars-artillerie NONSUP"
 - "GI Imp-chars-artillerie NONSUP"
-- "epic GI Imp-chars-artillerie NONSUP"
-- "vehicules GI Imp-chars-artillerie NONSUP"
 - "Imp-minotaurs NONSUP"
 - "epic Imp-minotaurs NONSUP"
 - "vehicules Imp-minotaurs NONSUP"
-- "epic vehicules Imp-minotaurs NONSUP"
 - "GI Imp-minotaurs NONSUP"
-- "epic GI Imp-minotaurs NONSUP"
-- "vehicules GI Imp-minotaurs NONSUP"
 - "Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "epic Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "vehicules Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "GI Imp-chars-artillerie Imp-minotaurs NONSUP"
 
 ---
 
-![](<thumbs_-_3213085_-_Images_1.jpg> "thumbs_-_3213085_-_Images_1.jpg")
+![](<thumbs_-_3213085_-_Images_1.avif> "thumbs_-_3213085_-_Images_1.avif")
 
-  ![](<thumbs_-_3213085_-_ImagesSTL_1.jpg> "thumbs_-_3213085_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3213085_-_ImagesSTL_1.avif> "thumbs_-_3213085_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3213085_-_Makes_1.jpg> "thumbs_-_3213085_-_Makes_1.jpg")
+  ![](<thumbs_-_3213085_-_Makes_1.avif> "thumbs_-_3213085_-_Makes_1.avif")
 
   
 

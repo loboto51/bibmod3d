@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > gorillatamer > Battle_Karen_w__Big_Lighter [dl]"
 date: "2020-12-29T03:26:07+00:00"
 toc: true
-image: "thumbs_-_4700771_-_Images_1.jpg"
+image: "thumbs_-_4700771_-_Images_1.avif"
 tags:
 - "gorillatamer"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SOB HUMAINS"
 - "28mm SOB HUMAINS"
 - "IMP SOB HUMAINS"
-- "28mm IMP SOB HUMAINS"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -28,20 +27,16 @@ tags:
 - "SOB SUP"
 - "28mm SOB SUP"
 - "IMP SOB SUP"
-- "28mm IMP SOB SUP"
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
 - "SOB HUMAINS SUP"
-- "28mm SOB HUMAINS SUP"
-- "IMP SOB HUMAINS SUP"
 
 ---
 
-![](<thumbs_-_4700771_-_Images_1.jpg> "thumbs_-_4700771_-_Images_1.jpg")
+![](<thumbs_-_4700771_-_Images_1.avif> "thumbs_-_4700771_-_Images_1.avif")
 
-  ![](<thumbs_-_4700771_-_ImagesSTL_1.jpg> "thumbs_-_4700771_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4700771_-_ImagesSTL_1.avif> "thumbs_-_4700771_-_ImagesSTL_1.avif")
 
   
 

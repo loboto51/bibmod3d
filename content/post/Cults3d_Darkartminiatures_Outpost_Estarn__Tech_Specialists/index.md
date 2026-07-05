@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Darkartminiatures > Outpost_Estarn__Tech_Specialists [non dl]"
 date: "2024-07-29T14:50:00Z"
 toc: true
-image: "thumbs_-_outpost-estarn-tech-specialists_-_Images_1.jpg"
+image: "thumbs_-_outpost-estarn-tech-specialists_-_Images_1.avif"
 tags:
 - "Darkartminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Technoprêtres-assaut"
 - "epic AM Technoprêtres-assaut"
 - "infanterie AM Technoprêtres-assaut"
-- "epic infanterie AM Technoprêtres-assaut"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "epic AM NONDL"
 - "infanterie AM NONDL"
-- "epic infanterie AM NONDL"
 - "Technoprêtres-assaut NONDL"
 - "epic Technoprêtres-assaut NONDL"
 - "infanterie Technoprêtres-assaut NONDL"
-- "epic infanterie Technoprêtres-assaut NONDL"
 - "AM Technoprêtres-assaut NONDL"
-- "epic AM Technoprêtres-assaut NONDL"
-- "infanterie AM Technoprêtres-assaut NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "AM SUP"
 - "epic AM SUP"
 - "infanterie AM SUP"
-- "epic infanterie AM SUP"
 - "Technoprêtres-assaut SUP"
 - "epic Technoprêtres-assaut SUP"
 - "infanterie Technoprêtres-assaut SUP"
-- "epic infanterie Technoprêtres-assaut SUP"
 - "AM Technoprêtres-assaut SUP"
-- "epic AM Technoprêtres-assaut SUP"
-- "infanterie AM Technoprêtres-assaut SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "AM NONDL SUP"
-- "epic AM NONDL SUP"
-- "infanterie AM NONDL SUP"
 - "Technoprêtres-assaut NONDL SUP"
-- "epic Technoprêtres-assaut NONDL SUP"
-- "infanterie Technoprêtres-assaut NONDL SUP"
-- "AM Technoprêtres-assaut NONDL SUP"
 
 ---
 
-![](<thumbs_-_outpost-estarn-tech-specialists_-_Images_1.jpg> "thumbs_-_outpost-estarn-tech-specialists_-_Images_1.jpg")
+![](<thumbs_-_outpost-estarn-tech-specialists_-_Images_1.avif> "thumbs_-_outpost-estarn-tech-specialists_-_Images_1.avif")
 
   
 

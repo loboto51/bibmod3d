@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Alario > Giant_Rat_Warriors [non dl]"
 date: "2023-05-11T15:58:46+00:00"
 toc: true
-image: "thumbs_-_6020016_-_Images_1.jpg"
+image: "thumbs_-_6020016_-_Images_1.avif"
 tags:
 - "Alario"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6020016_-_Images_1.jpg> "thumbs_-_6020016_-_Images_1.jpg")
+![](<thumbs_-_6020016_-_Images_1.avif> "thumbs_-_6020016_-_Images_1.avif")
 
   
 

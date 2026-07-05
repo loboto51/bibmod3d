@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > JanZizka > Epic_scale_Infantry_Company [dl]"
 date: "2020-10-21T14:50:46+00:00"
 toc: true
-image: "thumbs_-_4630079_-_Images_1.jpg"
+image: "thumbs_-_4630079_-_Images_1.avif"
 tags:
 - "JanZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "GI-CADIENS"
 - "epic GI-CADIENS"
 - "infanterie GI-CADIENS"
@@ -28,14 +27,10 @@ tags:
 - "GI GI-CADIENS"
 - "epic GI GI-CADIENS"
 - "infanterie GI GI-CADIENS"
-- "epic infanterie GI GI-CADIENS"
 - "Humains-tactiques GI-CADIENS"
 - "epic Humains-tactiques GI-CADIENS"
 - "infanterie Humains-tactiques GI-CADIENS"
-- "epic infanterie Humains-tactiques GI-CADIENS"
 - "GI Humains-tactiques GI-CADIENS"
-- "epic GI Humains-tactiques GI-CADIENS"
-- "infanterie GI Humains-tactiques GI-CADIENS"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,33 +38,23 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-tactiques SUP"
 - "epic Humains-tactiques SUP"
 - "infanterie Humains-tactiques SUP"
-- "epic infanterie Humains-tactiques SUP"
 - "GI Humains-tactiques SUP"
-- "epic GI Humains-tactiques SUP"
-- "infanterie GI Humains-tactiques SUP"
 - "GI-CADIENS SUP"
 - "epic GI-CADIENS SUP"
 - "infanterie GI-CADIENS SUP"
-- "epic infanterie GI-CADIENS SUP"
 - "GI GI-CADIENS SUP"
-- "epic GI GI-CADIENS SUP"
-- "infanterie GI GI-CADIENS SUP"
 - "Humains-tactiques GI-CADIENS SUP"
-- "epic Humains-tactiques GI-CADIENS SUP"
-- "infanterie Humains-tactiques GI-CADIENS SUP"
-- "GI Humains-tactiques GI-CADIENS SUP"
 
 ---
 
-![](<thumbs_-_4630079_-_Images_1.jpg> "thumbs_-_4630079_-_Images_1.jpg")
+![](<thumbs_-_4630079_-_Images_1.avif> "thumbs_-_4630079_-_Images_1.avif")
 
-  ![](<thumbs_-_4630079_-_ImagesSTL_1.jpg> "thumbs_-_4630079_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4630079_-_ImagesSTL_1.avif> "thumbs_-_4630079_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4630079_-_Makes_1.jpg> "thumbs_-_4630079_-_Makes_1.jpg")
+  ![](<thumbs_-_4630079_-_Makes_1.avif> "thumbs_-_4630079_-_Makes_1.avif")
 
   
 

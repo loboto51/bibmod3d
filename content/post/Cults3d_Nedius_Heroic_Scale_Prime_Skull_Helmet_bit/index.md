@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nedius > Heroic_Scale_Prime_Skull_Helmet_bit [non dl]"
 date: "2024-09-08T22:56:22Z"
 toc: true
-image: "thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.jpg"
+image: "thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.avif"
 tags:
 - "Nedius"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMI NONDL"
 - "28mm SMI NONDL"
 - "IMP SMI NONDL"
-- "28mm IMP SMI NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -28,18 +27,14 @@ tags:
 - "SMI SUP"
 - "28mm SMI SUP"
 - "IMP SMI SUP"
-- "28mm IMP SMI SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "IMP NONDL SUP"
-- "28mm IMP NONDL SUP"
 - "SMI NONDL SUP"
-- "28mm SMI NONDL SUP"
-- "IMP SMI NONDL SUP"
 
 ---
 
-![](<thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.jpg> "thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.jpg")
+![](<thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.avif> "thumbs_-_heroic-scale-prime-chaplain-helmet-bit_-_Images_1.avif")
 
   
 

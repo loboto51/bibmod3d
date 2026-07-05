@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ec3d > Mutated_Amalgam_Beast__RETURN_TO_THE_BADLANDS_ [non dl]"
 date: "2023-10-07T23:17:37Z"
 toc: true
-image: "thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.jpg"
+image: "thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.avif"
 tags:
 - "ec3d"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-monstres-du-chaos"
 - "epic CHAOS Chaos-monstres-du-chaos"
 - "infanterie CHAOS Chaos-monstres-du-chaos"
-- "epic infanterie CHAOS Chaos-monstres-du-chaos"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NONDL"
 - "epic CHAOS NONDL"
 - "infanterie CHAOS NONDL"
-- "epic infanterie CHAOS NONDL"
 - "Chaos-monstres-du-chaos NONDL"
 - "epic Chaos-monstres-du-chaos NONDL"
 - "infanterie Chaos-monstres-du-chaos NONDL"
-- "epic infanterie Chaos-monstres-du-chaos NONDL"
 - "CHAOS Chaos-monstres-du-chaos NONDL"
-- "epic CHAOS Chaos-monstres-du-chaos NONDL"
-- "infanterie CHAOS Chaos-monstres-du-chaos NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "CHAOS SUP"
 - "epic CHAOS SUP"
 - "infanterie CHAOS SUP"
-- "epic infanterie CHAOS SUP"
 - "Chaos-monstres-du-chaos SUP"
 - "epic Chaos-monstres-du-chaos SUP"
 - "infanterie Chaos-monstres-du-chaos SUP"
-- "epic infanterie Chaos-monstres-du-chaos SUP"
 - "CHAOS Chaos-monstres-du-chaos SUP"
-- "epic CHAOS Chaos-monstres-du-chaos SUP"
-- "infanterie CHAOS Chaos-monstres-du-chaos SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "CHAOS NONDL SUP"
-- "epic CHAOS NONDL SUP"
-- "infanterie CHAOS NONDL SUP"
 - "Chaos-monstres-du-chaos NONDL SUP"
-- "epic Chaos-monstres-du-chaos NONDL SUP"
-- "infanterie Chaos-monstres-du-chaos NONDL SUP"
-- "CHAOS Chaos-monstres-du-chaos NONDL SUP"
 
 ---
 
-![](<thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.jpg> "thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.jpg")
+![](<thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.avif> "thumbs_-_mutated-amalgam-beast-return-to-the-badlands_-_Images_1.avif")
 
   
 

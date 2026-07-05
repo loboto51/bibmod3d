@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nedius > 8mm_scale_Hammer_of_Hell_and_Blade_of_Bane_Tank_Turrets [dl]"
 date: "2024-01-10T22:51:24Z"
 toc: true
-image: "thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.jpg"
+image: "thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.avif"
 tags:
 - "Nedius"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Baneblades"
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
-- "epic superlourds GI Baneblades"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades NONSUP"
 - "epic Baneblades NONSUP"
 - "superlourds Baneblades NONSUP"
-- "epic superlourds Baneblades NONSUP"
 - "GI Baneblades NONSUP"
-- "epic GI Baneblades NONSUP"
-- "superlourds GI Baneblades NONSUP"
 
 ---
 
-![](<thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.jpg> "thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.jpg")
+![](<thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.avif> "thumbs_-_8mm-scale-hammer-of-hell-tank-turret_-_Images_1.avif")
 
   
 

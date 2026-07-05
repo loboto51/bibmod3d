@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bobblehead > The_Hammer [dl]"
 date: "2025-11-28T21:24:00Z"
 toc: true
-image: "thumbs_-_the-hammer_-_Images_1.jpg"
+image: "thumbs_-_the-hammer_-_Images_1.avif"
 tags:
 - "Bobblehead"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Baneblades-doubles-tourelles"
 - "epic GI Baneblades-doubles-tourelles"
 - "superlourds GI Baneblades-doubles-tourelles"
-- "epic superlourds GI Baneblades-doubles-tourelles"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades-doubles-tourelles NONSUP"
 - "epic Baneblades-doubles-tourelles NONSUP"
 - "superlourds Baneblades-doubles-tourelles NONSUP"
-- "epic superlourds Baneblades-doubles-tourelles NONSUP"
 - "GI Baneblades-doubles-tourelles NONSUP"
-- "epic GI Baneblades-doubles-tourelles NONSUP"
-- "superlourds GI Baneblades-doubles-tourelles NONSUP"
 
 ---
 
-![](<thumbs_-_the-hammer_-_Images_1.jpg> "thumbs_-_the-hammer_-_Images_1.jpg")
+![](<thumbs_-_the-hammer_-_Images_1.avif> "thumbs_-_the-hammer_-_Images_1.avif")
 
-  ![](<thumbs_-_the-hammer_-_ImagesSTL_1.jpg> "thumbs_-_the-hammer_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_the-hammer_-_ImagesSTL_1.avif> "thumbs_-_the-hammer_-_ImagesSTL_1.avif")
 
   
 

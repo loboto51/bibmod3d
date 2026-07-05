@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BaseDepartment > Epic_Flyin_Shooterinos [non dl]"
 date: "2020-08-22T10:18:23+00:00"
 toc: true
-image: "thumbs_-_4576460_-_Images_1.jpg"
+image: "thumbs_-_4576460_-_Images_1.avif"
 tags:
 - "BaseDepartment"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES Tyranides-gargouilles"
 - "epic TYRANIDES Tyranides-gargouilles"
 - "infanterie TYRANIDES Tyranides-gargouilles"
-- "epic infanterie TYRANIDES Tyranides-gargouilles"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "TYRANIDES NONDL"
 - "epic TYRANIDES NONDL"
 - "infanterie TYRANIDES NONDL"
-- "epic infanterie TYRANIDES NONDL"
 - "Tyranides-gargouilles NONDL"
 - "epic Tyranides-gargouilles NONDL"
 - "infanterie Tyranides-gargouilles NONDL"
-- "epic infanterie Tyranides-gargouilles NONDL"
 - "TYRANIDES Tyranides-gargouilles NONDL"
-- "epic TYRANIDES Tyranides-gargouilles NONDL"
-- "infanterie TYRANIDES Tyranides-gargouilles NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "infanterie TYRANIDES NONSUP"
-- "epic infanterie TYRANIDES NONSUP"
 - "Tyranides-gargouilles NONSUP"
 - "epic Tyranides-gargouilles NONSUP"
 - "infanterie Tyranides-gargouilles NONSUP"
-- "epic infanterie Tyranides-gargouilles NONSUP"
 - "TYRANIDES Tyranides-gargouilles NONSUP"
-- "epic TYRANIDES Tyranides-gargouilles NONSUP"
-- "infanterie TYRANIDES Tyranides-gargouilles NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "epic TYRANIDES NONDL NONSUP"
-- "infanterie TYRANIDES NONDL NONSUP"
 - "Tyranides-gargouilles NONDL NONSUP"
-- "epic Tyranides-gargouilles NONDL NONSUP"
-- "infanterie Tyranides-gargouilles NONDL NONSUP"
-- "TYRANIDES Tyranides-gargouilles NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4576460_-_Images_1.jpg> "thumbs_-_4576460_-_Images_1.jpg")
+![](<thumbs_-_4576460_-_Images_1.avif> "thumbs_-_4576460_-_Images_1.avif")
 
   
 

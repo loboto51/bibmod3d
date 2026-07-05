@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > JahnZizka > Epic_scale_Galactic_Crusaders_Weaponized_APC [dl]"
 date: "2021-03-31T00:36:43Z"
 toc: true
-image: "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.avif"
 tags:
 - "JahnZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Razorbacks"
 - "epic SMI Razorbacks"
 - "vehicules SMI Razorbacks"
-- "epic vehicules SMI Razorbacks"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "vehicules SMI SUP"
-- "epic vehicules SMI SUP"
 - "Razorbacks SUP"
 - "epic Razorbacks SUP"
 - "vehicules Razorbacks SUP"
-- "epic vehicules Razorbacks SUP"
 - "SMI Razorbacks SUP"
-- "epic SMI Razorbacks SUP"
-- "vehicules SMI Razorbacks SUP"
 
 ---
 
-![](<thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.jpg> "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.avif> "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-galactic-crusaders-weaponized-apc_-_ImagesSTL_1.avif")
 
   
 

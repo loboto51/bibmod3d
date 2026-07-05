@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > Tordominis > 3d_print_vampire_legionnaries_raised_skeleton_strips_10mm_free_gift_707870 [dl]"
 date: "2025-11-12"
 toc: true
-image: "thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.jpg"
+image: "thumbs_-_Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.avif"
 tags:
 - "Tordominis"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.jpg> "thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.jpg")
+![](<thumbs_-_Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.avif> "thumbs_-_Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_Images_1.avif")
 
-  ![](<thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_ImagesSTL_1.jpg> "thumbs_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_3d-print-vampire-legionnaries-raised-skeleton-strips-10mm-free-gift-707870_-_ImagesSTL_1.avif")
 
   
 

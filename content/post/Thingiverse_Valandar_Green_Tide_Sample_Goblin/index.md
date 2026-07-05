@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Valandar > Green_Tide_Sample_Goblin [non dl]"
 date: "2019-04-18T15:09:03+00:00"
 toc: true
-image: "thumbs_-_3572566_-_Images_1.jpg"
+image: "thumbs_-_3572566_-_Images_1.avif"
 tags:
 - "Valandar"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "28mm GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3572566_-_Images_1.jpg> "thumbs_-_3572566_-_Images_1.jpg")
+![](<thumbs_-_3572566_-_Images_1.avif> "thumbs_-_3572566_-_Images_1.avif")
 
-  ![](<thumbs_-_3572566_-_Makes_1.jpg> "thumbs_-_3572566_-_Makes_1.jpg")
+  ![](<thumbs_-_3572566_-_Makes_1.avif> "thumbs_-_3572566_-_Makes_1.avif")
 
   
 

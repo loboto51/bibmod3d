@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Vampire_Count_Rising_Skeletons [non dl]"
 date: "2025-06-27T21:58:28+00:00"
 toc: true
-image: "thumbs_-_7077624_-_Images_1.jpg"
+image: "thumbs_-_7077624_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7077624_-_Images_1.jpg> "thumbs_-_7077624_-_Images_1.jpg")
+![](<thumbs_-_7077624_-_Images_1.avif> "thumbs_-_7077624_-_Images_1.avif")
 
   
 

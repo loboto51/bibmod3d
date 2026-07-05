@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Many_Sons_Occult_Terminus_Galactic_Crusaders [dl]"
 date: "2025-03-02T01:54:31Z"
 toc: true
-image: "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.jpg"
+image: "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-terminators"
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
-- "epic infanterie SMC Sm-terminators"
 - "TZEENTCH"
 - "epic TZEENTCH"
 - "infanterie TZEENTCH"
@@ -28,14 +27,10 @@ tags:
 - "SMC TZEENTCH"
 - "epic SMC TZEENTCH"
 - "infanterie SMC TZEENTCH"
-- "epic infanterie SMC TZEENTCH"
 - "Sm-terminators TZEENTCH"
 - "epic Sm-terminators TZEENTCH"
 - "infanterie Sm-terminators TZEENTCH"
-- "epic infanterie Sm-terminators TZEENTCH"
 - "SMC Sm-terminators TZEENTCH"
-- "epic SMC Sm-terminators TZEENTCH"
-- "infanterie SMC Sm-terminators TZEENTCH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SMC Sm-terminators NONSUP"
-- "epic SMC Sm-terminators NONSUP"
-- "infanterie SMC Sm-terminators NONSUP"
 - "TZEENTCH NONSUP"
 - "epic TZEENTCH NONSUP"
 - "infanterie TZEENTCH NONSUP"
-- "epic infanterie TZEENTCH NONSUP"
 - "SMC TZEENTCH NONSUP"
-- "epic SMC TZEENTCH NONSUP"
-- "infanterie SMC TZEENTCH NONSUP"
 - "Sm-terminators TZEENTCH NONSUP"
-- "epic Sm-terminators TZEENTCH NONSUP"
-- "infanterie Sm-terminators TZEENTCH NONSUP"
-- "SMC Sm-terminators TZEENTCH NONSUP"
 
 ---
 
-![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.jpg> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.jpg")
+![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.avif> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_Images_1.avif")
 
-  ![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_1.jpg> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_1.avif> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_2.jpg> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_2.avif> "thumbs_-_many-sons-occult-terminus-galactic-crusaders-0eb2431192d943f3eebc_-_ImagesSTL_2.avif")
 
   
 

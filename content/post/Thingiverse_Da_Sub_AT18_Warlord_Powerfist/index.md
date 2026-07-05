@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Da_Sub > AT18_Warlord_Powerfist [dl]"
 date: "2020-01-05T09:49:22+00:00"
 toc: true
-image: "thumbs_-_4085595_-_Images_1.jpg"
+image: "thumbs_-_4085595_-_Images_1.avif"
 tags:
 - "Da_Sub"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-warlords"
 - "epic IMP Admech-titans-warlords"
 - "titans IMP Admech-titans-warlords"
-- "epic titans IMP Admech-titans-warlords"
 - "OBSOLETE"
 - "epic OBSOLETE"
 - "titans OBSOLETE"
@@ -28,14 +27,10 @@ tags:
 - "IMP OBSOLETE"
 - "epic IMP OBSOLETE"
 - "titans IMP OBSOLETE"
-- "epic titans IMP OBSOLETE"
 - "Admech-titans-warlords OBSOLETE"
 - "epic Admech-titans-warlords OBSOLETE"
 - "titans Admech-titans-warlords OBSOLETE"
-- "epic titans Admech-titans-warlords OBSOLETE"
 - "IMP Admech-titans-warlords OBSOLETE"
-- "epic IMP Admech-titans-warlords OBSOLETE"
-- "titans IMP Admech-titans-warlords OBSOLETE"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-warlords NONSUP"
 - "epic Admech-titans-warlords NONSUP"
 - "titans Admech-titans-warlords NONSUP"
-- "epic titans Admech-titans-warlords NONSUP"
 - "IMP Admech-titans-warlords NONSUP"
-- "epic IMP Admech-titans-warlords NONSUP"
-- "titans IMP Admech-titans-warlords NONSUP"
 - "OBSOLETE NONSUP"
 - "epic OBSOLETE NONSUP"
 - "titans OBSOLETE NONSUP"
-- "epic titans OBSOLETE NONSUP"
 - "IMP OBSOLETE NONSUP"
-- "epic IMP OBSOLETE NONSUP"
-- "titans IMP OBSOLETE NONSUP"
 - "Admech-titans-warlords OBSOLETE NONSUP"
-- "epic Admech-titans-warlords OBSOLETE NONSUP"
-- "titans Admech-titans-warlords OBSOLETE NONSUP"
-- "IMP Admech-titans-warlords OBSOLETE NONSUP"
 
 ---
 
-![](<thumbs_-_4085595_-_Images_1.jpg> "thumbs_-_4085595_-_Images_1.jpg")
+![](<thumbs_-_4085595_-_Images_1.avif> "thumbs_-_4085595_-_Images_1.avif")
 
-  ![](<thumbs_-_4085595_-_ImagesSTL_1.jpg> "thumbs_-_4085595_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4085595_-_ImagesSTL_1.avif> "thumbs_-_4085595_-_ImagesSTL_1.avif")
 
   
 

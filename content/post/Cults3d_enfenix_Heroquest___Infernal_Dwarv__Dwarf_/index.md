@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > enfenix > Heroquest___Infernal_Dwarv__Dwarf_ [non dl]"
 date: "2021-06-28T23:17:48Z"
 toc: true
-image: "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.jpg"
+image: "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.avif"
 tags:
 - "enfenix"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "warmaster NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.jpg> "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.jpg")
+![](<thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.avif> "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Images_1.avif")
 
-  ![](<thumbs_-_heroquest-infernal-dwarv-dwarf_-_Makes_1.jpg> "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Makes_1.jpg")
+  ![](<thumbs_-_heroquest-infernal-dwarv-dwarf_-_Makes_1.avif> "thumbs_-_heroquest-infernal-dwarv-dwarf_-_Makes_1.avif")
 
   
 

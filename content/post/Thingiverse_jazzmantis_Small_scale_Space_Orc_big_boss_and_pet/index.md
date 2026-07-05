@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Small_scale_Space_Orc_big_boss_and_pet [dl]"
 date: "2020-05-03T17:47:27+00:00"
 toc: true
-image: "thumbs_-_4334362_-_Images_1.jpg"
+image: "thumbs_-_4334362_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-qg"
 - "epic ORKS Orks-qg"
 - "infanterie ORKS Orks-qg"
-- "epic infanterie ORKS Orks-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-qg NONSUP"
 - "epic Orks-qg NONSUP"
 - "infanterie Orks-qg NONSUP"
-- "epic infanterie Orks-qg NONSUP"
 - "ORKS Orks-qg NONSUP"
-- "epic ORKS Orks-qg NONSUP"
-- "infanterie ORKS Orks-qg NONSUP"
 
 ---
 
-![](<thumbs_-_4334362_-_Images_1.jpg> "thumbs_-_4334362_-_Images_1.jpg")
+![](<thumbs_-_4334362_-_Images_1.avif> "thumbs_-_4334362_-_Images_1.avif")
 
-  ![](<thumbs_-_4334362_-_ImagesSTL_1.jpg> "thumbs_-_4334362_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4334362_-_ImagesSTL_1.avif> "thumbs_-_4334362_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4334362_-_Makes_1.jpg> "thumbs_-_4334362_-_Makes_1.jpg")
+  ![](<thumbs_-_4334362_-_Makes_1.avif> "thumbs_-_4334362_-_Makes_1.avif")
 
   
 

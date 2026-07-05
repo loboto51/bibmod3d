@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > MadBits > Styx_Helmet [non dl]"
 date: "2024-09-22T18:43:44Z"
 toc: true
-image: "thumbs_-_styx-helmet_-_Images_1.jpg"
+image: "thumbs_-_styx-helmet_-_Images_1.avif"
 tags:
 - "MadBits"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMI NONDL"
 - "28mm SMI NONDL"
 - "IMP SMI NONDL"
-- "28mm IMP SMI NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "SMI NONSUP"
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "28mm IMP NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
-- "IMP SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_styx-helmet_-_Images_1.jpg> "thumbs_-_styx-helmet_-_Images_1.jpg")
+![](<thumbs_-_styx-helmet_-_Images_1.avif> "thumbs_-_styx-helmet_-_Images_1.avif")
 
   
 

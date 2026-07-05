@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bobblehead > Bird_s_the_word_in_the_storm [dl]"
 date: "2023-02-07T19:05:49Z"
 toc: true
-image: "thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.jpg"
+image: "thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.avif"
 tags:
 - "Bobblehead"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-stormbirds"
 - "epic SMI Sm-stormbirds"
 - "volants SMI Sm-stormbirds"
-- "epic volants SMI Sm-stormbirds"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "volants SMI NONSUP"
-- "epic volants SMI NONSUP"
 - "Sm-stormbirds NONSUP"
 - "epic Sm-stormbirds NONSUP"
 - "volants Sm-stormbirds NONSUP"
-- "epic volants Sm-stormbirds NONSUP"
 - "SMI Sm-stormbirds NONSUP"
-- "epic SMI Sm-stormbirds NONSUP"
-- "volants SMI Sm-stormbirds NONSUP"
 
 ---
 
-![](<thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.jpg> "thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.jpg")
+![](<thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.avif> "thumbs_-_bird-s-the-word-in-the-storm_-_Images_1.avif")
 
-  ![](<thumbs_-_bird-s-the-word-in-the-storm_-_ImagesSTL_1.jpg> "thumbs_-_bird-s-the-word-in-the-storm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bird-s-the-word-in-the-storm_-_ImagesSTL_1.avif> "thumbs_-_bird-s-the-word-in-the-storm_-_ImagesSTL_1.avif")
 
   
 

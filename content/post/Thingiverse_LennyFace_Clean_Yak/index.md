@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > LennyFace > Clean_Yak [non dl]"
 date: "2025-09-15T10:45:26+00:00"
 toc: true
-image: "thumbs_-_7146056_-_Images_1.jpg"
+image: "thumbs_-_7146056_-_Images_1.avif"
 tags:
 - "LennyFace"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-squiggoths"
 - "epic ORKS Orks-squiggoths"
 - "vehicules ORKS Orks-squiggoths"
-- "epic vehicules ORKS Orks-squiggoths"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "vehicules ORKS NONDL"
-- "epic vehicules ORKS NONDL"
 - "Orks-squiggoths NONDL"
 - "epic Orks-squiggoths NONDL"
 - "vehicules Orks-squiggoths NONDL"
-- "epic vehicules Orks-squiggoths NONDL"
 - "ORKS Orks-squiggoths NONDL"
-- "epic ORKS Orks-squiggoths NONDL"
-- "vehicules ORKS Orks-squiggoths NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "vehicules ORKS NONSUP"
-- "epic vehicules ORKS NONSUP"
 - "Orks-squiggoths NONSUP"
 - "epic Orks-squiggoths NONSUP"
 - "vehicules Orks-squiggoths NONSUP"
-- "epic vehicules Orks-squiggoths NONSUP"
 - "ORKS Orks-squiggoths NONSUP"
-- "epic ORKS Orks-squiggoths NONSUP"
-- "vehicules ORKS Orks-squiggoths NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "vehicules ORKS NONDL NONSUP"
 - "Orks-squiggoths NONDL NONSUP"
-- "epic Orks-squiggoths NONDL NONSUP"
-- "vehicules Orks-squiggoths NONDL NONSUP"
-- "ORKS Orks-squiggoths NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7146056_-_Images_1.jpg> "thumbs_-_7146056_-_Images_1.jpg")
+![](<thumbs_-_7146056_-_Images_1.avif> "thumbs_-_7146056_-_Images_1.avif")
 
   
 

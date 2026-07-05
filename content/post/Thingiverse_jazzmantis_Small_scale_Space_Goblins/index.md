@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Small_scale_Space_Goblins [dl]"
 date: "2020-04-27T21:10:39+00:00"
 toc: true
-image: "thumbs_-_4319418_-_Images_1.jpg"
+image: "thumbs_-_4319418_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-gretchins"
 - "epic ORKS Orks-gretchins"
 - "infanterie ORKS Orks-gretchins"
-- "epic infanterie ORKS Orks-gretchins"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-gretchins NONSUP"
 - "epic Orks-gretchins NONSUP"
 - "infanterie Orks-gretchins NONSUP"
-- "epic infanterie Orks-gretchins NONSUP"
 - "ORKS Orks-gretchins NONSUP"
-- "epic ORKS Orks-gretchins NONSUP"
-- "infanterie ORKS Orks-gretchins NONSUP"
 
 ---
 
-![](<thumbs_-_4319418_-_Images_1.jpg> "thumbs_-_4319418_-_Images_1.jpg")
+![](<thumbs_-_4319418_-_Images_1.avif> "thumbs_-_4319418_-_Images_1.avif")
 
-  ![](<thumbs_-_4319418_-_ImagesSTL_1.jpg> "thumbs_-_4319418_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4319418_-_ImagesSTL_1.avif> "thumbs_-_4319418_-_ImagesSTL_1.avif")
 
   
 

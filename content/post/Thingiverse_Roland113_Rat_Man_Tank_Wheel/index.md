@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Roland113 > Rat_Man_Tank_Wheel [non dl]"
 date: "2020-11-03T23:28:45+00:00"
 toc: true
-image: "thumbs_-_4642870_-_Images_1.jpg"
+image: "thumbs_-_4642870_-_Images_1.avif"
 tags:
 - "Roland113"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "warmaster SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4642870_-_Images_1.jpg> "thumbs_-_4642870_-_Images_1.jpg")
+![](<thumbs_-_4642870_-_Images_1.avif> "thumbs_-_4642870_-_Images_1.avif")
 
   
 

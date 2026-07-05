@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Aeroth94 > 8mm_Imperial_Light_Figther_ [dl]"
 date: "2026-01-27T10:19:35+00:00"
 toc: true
-image: "thumbs_-_7282521_-_Images_1.jpg"
+image: "thumbs_-_7282521_-_Images_1.avif"
 tags:
 - "Aeroth94"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Imp-chasseurs-bombardiers"
 - "epic IMP Imp-chasseurs-bombardiers"
 - "volants IMP Imp-chasseurs-bombardiers"
-- "epic volants IMP Imp-chasseurs-bombardiers"
 - "Lightnings"
 - "epic Lightnings"
 - "volants Lightnings"
@@ -28,14 +27,10 @@ tags:
 - "IMP Lightnings"
 - "epic IMP Lightnings"
 - "volants IMP Lightnings"
-- "epic volants IMP Lightnings"
 - "Imp-chasseurs-bombardiers Lightnings"
 - "epic Imp-chasseurs-bombardiers Lightnings"
 - "volants Imp-chasseurs-bombardiers Lightnings"
-- "epic volants Imp-chasseurs-bombardiers Lightnings"
 - "IMP Imp-chasseurs-bombardiers Lightnings"
-- "epic IMP Imp-chasseurs-bombardiers Lightnings"
-- "volants IMP Imp-chasseurs-bombardiers Lightnings"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
 - "Imp-chasseurs-bombardiers NONSUP"
 - "epic Imp-chasseurs-bombardiers NONSUP"
 - "volants Imp-chasseurs-bombardiers NONSUP"
-- "epic volants Imp-chasseurs-bombardiers NONSUP"
 - "IMP Imp-chasseurs-bombardiers NONSUP"
-- "epic IMP Imp-chasseurs-bombardiers NONSUP"
-- "volants IMP Imp-chasseurs-bombardiers NONSUP"
 - "Lightnings NONSUP"
 - "epic Lightnings NONSUP"
 - "volants Lightnings NONSUP"
-- "epic volants Lightnings NONSUP"
 - "IMP Lightnings NONSUP"
-- "epic IMP Lightnings NONSUP"
-- "volants IMP Lightnings NONSUP"
 - "Imp-chasseurs-bombardiers Lightnings NONSUP"
-- "epic Imp-chasseurs-bombardiers Lightnings NONSUP"
-- "volants Imp-chasseurs-bombardiers Lightnings NONSUP"
-- "IMP Imp-chasseurs-bombardiers Lightnings NONSUP"
 
 ---
 
-![](<thumbs_-_7282521_-_Images_1.jpg> "thumbs_-_7282521_-_Images_1.jpg")
+![](<thumbs_-_7282521_-_Images_1.avif> "thumbs_-_7282521_-_Images_1.avif")
 
-  ![](<thumbs_-_7282521_-_ImagesSTL_1.jpg> "thumbs_-_7282521_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7282521_-_ImagesSTL_1.avif> "thumbs_-_7282521_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Galactic_Crusaders___Remix___Norse_King_s_Heavy_Siege_Armour_Priest___6_8mm [dl]"
 date: "2021-09-18T18:54:55+00:00"
 toc: true
-image: "thumbs_-_4968224_-_Images_1.jpg"
+image: "thumbs_-_4968224_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K SUP"
 - "epic SM30K SUP"
 - "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
 - "Sm-qg SUP"
 - "epic Sm-qg SUP"
 - "infanterie Sm-qg SUP"
-- "epic infanterie Sm-qg SUP"
 - "SM30K Sm-qg SUP"
-- "epic SM30K Sm-qg SUP"
-- "infanterie SM30K Sm-qg SUP"
 
 ---
 
-![](<thumbs_-_4968224_-_Images_1.jpg> "thumbs_-_4968224_-_Images_1.jpg")
+![](<thumbs_-_4968224_-_Images_1.avif> "thumbs_-_4968224_-_Images_1.avif")
 
-  ![](<thumbs_-_4968224_-_ImagesSTL_1.jpg> "thumbs_-_4968224_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4968224_-_ImagesSTL_1.avif> "thumbs_-_4968224_-_ImagesSTL_1.avif")
 
   
 

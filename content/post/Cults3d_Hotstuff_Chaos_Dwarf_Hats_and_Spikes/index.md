@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Hotstuff > Chaos_Dwarf_Hats_and_Spikes [non dl]"
 date: "2024-04-08T19:21:26Z"
 toc: true
-image: "thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.jpg"
+image: "thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.avif"
 tags:
 - "Hotstuff"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "28mm NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.jpg> "thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.jpg")
+![](<thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.avif> "thumbs_-_chaos-dwarf-hats-and-spikes-hotstuff_-_Images_1.avif")
 
   
 

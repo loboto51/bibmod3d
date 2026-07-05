@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Small_scale_Space_Orcs_with_heavy_weapons [dl]"
 date: "2020-05-03T06:18:43+00:00"
 toc: true
-image: "thumbs_-_4332485_-_Images_1.jpg"
+image: "thumbs_-_4332485_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-boyz NONSUP"
 - "epic Orks-boyz NONSUP"
 - "infanterie Orks-boyz NONSUP"
-- "epic infanterie Orks-boyz NONSUP"
 - "ORKS Orks-boyz NONSUP"
-- "epic ORKS Orks-boyz NONSUP"
-- "infanterie ORKS Orks-boyz NONSUP"
 
 ---
 
-![](<thumbs_-_4332485_-_Images_1.jpg> "thumbs_-_4332485_-_Images_1.jpg")
+![](<thumbs_-_4332485_-_Images_1.avif> "thumbs_-_4332485_-_Images_1.avif")
 
-  ![](<thumbs_-_4332485_-_ImagesSTL_1.jpg> "thumbs_-_4332485_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4332485_-_ImagesSTL_1.avif> "thumbs_-_4332485_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4332485_-_Makes_1.jpg> "thumbs_-_4332485_-_Makes_1.jpg")
+  ![](<thumbs_-_4332485_-_Makes_1.avif> "thumbs_-_4332485_-_Makes_1.avif")
 
   
 

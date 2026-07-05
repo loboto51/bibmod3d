@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Vampire_Counts_Necromancers [dl]"
 date: "2025-11-15T21:53:17+00:00"
 toc: true
-image: "thumbs_-_7201715_-_Images_1.jpg"
+image: "thumbs_-_7201715_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7201715_-_Images_1.jpg> "thumbs_-_7201715_-_Images_1.jpg")
+![](<thumbs_-_7201715_-_Images_1.avif> "thumbs_-_7201715_-_Images_1.avif")
 
-  ![](<thumbs_-_7201715_-_ImagesSTL_1.jpg> "thumbs_-_7201715_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7201715_-_ImagesSTL_1.avif> "thumbs_-_7201715_-_ImagesSTL_1.avif")
 
   
 

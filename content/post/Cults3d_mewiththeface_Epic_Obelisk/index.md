@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mewiththeface > Epic_Obelisk [dl]"
 date: "2020-07-07T11:28:05Z"
 toc: true
-image: "thumbs_-_epic-obelisk_-_Images_1.jpg"
+image: "thumbs_-_epic-obelisk_-_Images_1.avif"
 tags:
 - "mewiththeface"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "NEC Necrons-monolithes"
 - "epic NEC Necrons-monolithes"
 - "superlourds NEC Necrons-monolithes"
-- "epic superlourds NEC Necrons-monolithes"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "NEC NONSUP"
 - "epic NEC NONSUP"
 - "superlourds NEC NONSUP"
-- "epic superlourds NEC NONSUP"
 - "Necrons-monolithes NONSUP"
 - "epic Necrons-monolithes NONSUP"
 - "superlourds Necrons-monolithes NONSUP"
-- "epic superlourds Necrons-monolithes NONSUP"
 - "NEC Necrons-monolithes NONSUP"
-- "epic NEC Necrons-monolithes NONSUP"
-- "superlourds NEC Necrons-monolithes NONSUP"
 
 ---
 
-![](<thumbs_-_epic-obelisk_-_Images_1.jpg> "thumbs_-_epic-obelisk_-_Images_1.jpg")
+![](<thumbs_-_epic-obelisk_-_Images_1.avif> "thumbs_-_epic-obelisk_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-obelisk_-_ImagesSTL_1.jpg> "thumbs_-_epic-obelisk_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-obelisk_-_ImagesSTL_1.avif> "thumbs_-_epic-obelisk_-_ImagesSTL_1.avif")
 
   
 

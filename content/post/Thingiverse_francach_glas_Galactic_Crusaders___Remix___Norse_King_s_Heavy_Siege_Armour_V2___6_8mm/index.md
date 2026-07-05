@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Galactic_Crusaders___Remix___Norse_King_s_Heavy_Siege_Armour_V2___6_8mm [dl]"
 date: "2021-09-18T17:39:24+00:00"
 toc: true
-image: "thumbs_-_4968194_-_Images_1.jpg"
+image: "thumbs_-_4968194_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-terminators"
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
-- "epic infanterie SMC Sm-terminators"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC SUP"
 - "epic SMC SUP"
 - "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
 - "Sm-terminators SUP"
 - "epic Sm-terminators SUP"
 - "infanterie Sm-terminators SUP"
-- "epic infanterie Sm-terminators SUP"
 - "SMC Sm-terminators SUP"
-- "epic SMC Sm-terminators SUP"
-- "infanterie SMC Sm-terminators SUP"
 
 ---
 
-![](<thumbs_-_4968194_-_Images_1.jpg> "thumbs_-_4968194_-_Images_1.jpg")
+![](<thumbs_-_4968194_-_Images_1.avif> "thumbs_-_4968194_-_Images_1.avif")
 
-  ![](<thumbs_-_4968194_-_ImagesSTL_1.jpg> "thumbs_-_4968194_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4968194_-_ImagesSTL_1.avif> "thumbs_-_4968194_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Fjodin > 15mm_Genestealer_with_Scythes___4_poses__Rescale_ [dl]"
 date: "2021-06-10T01:57:23+00:00"
 toc: true
-image: "thumbs_-_4882355_-_Images_1.jpg"
+image: "thumbs_-_4882355_-_Images_1.avif"
 tags:
 - "Fjodin"
 - "15mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4882355_-_Images_1.jpg> "thumbs_-_4882355_-_Images_1.jpg")
+![](<thumbs_-_4882355_-_Images_1.avif> "thumbs_-_4882355_-_Images_1.avif")
 
-  ![](<thumbs_-_4882355_-_ImagesSTL_1.jpg> "thumbs_-_4882355_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4882355_-_ImagesSTL_1.avif> "thumbs_-_4882355_-_ImagesSTL_1.avif")
 
   
 

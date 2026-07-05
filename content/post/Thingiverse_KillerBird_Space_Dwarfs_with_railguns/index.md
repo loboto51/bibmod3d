@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillerBird > Space_Dwarfs_with_railguns [non dl]"
 date: "2022-12-04T01:34:13+00:00"
 toc: true
-image: "thumbs_-_5678927_-_Images_1.jpg"
+image: "thumbs_-_5678927_-_Images_1.avif"
 tags:
 - "KillerBird"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5678927_-_Images_1.jpg> "thumbs_-_5678927_-_Images_1.jpg")
+![](<thumbs_-_5678927_-_Images_1.avif> "thumbs_-_5678927_-_Images_1.avif")
 
   
 

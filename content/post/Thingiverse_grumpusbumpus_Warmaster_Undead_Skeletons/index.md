@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > grumpusbumpus > Warmaster_Undead_Skeletons [non dl]"
 date: "2020-10-26T22:04:32+00:00"
 toc: true
-image: "thumbs_-_4635125_-_Images_1.jpg"
+image: "thumbs_-_4635125_-_Images_1.avif"
 tags:
 - "grumpusbumpus"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "MORTS-VIVANTS NONDL SUP"
-- "warmaster MORTS-VIVANTS NONDL SUP"
 
 ---
 
-![](<thumbs_-_4635125_-_Images_1.jpg> "thumbs_-_4635125_-_Images_1.jpg")
+![](<thumbs_-_4635125_-_Images_1.avif> "thumbs_-_4635125_-_Images_1.avif")
 
   
 

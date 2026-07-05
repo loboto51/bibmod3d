@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Collectors___Cursed_Elves___8mm [non dl]"
 date: "2024-12-07T02:22:30Z"
 toc: true
-image: "thumbs_-_collectors-cursed-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_collectors-cursed-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-talos"
 - "epic EN Eldars-talos"
 - "vehicules EN Eldars-talos"
-- "epic vehicules EN Eldars-talos"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EN NONDL"
 - "epic EN NONDL"
 - "vehicules EN NONDL"
-- "epic vehicules EN NONDL"
 - "Eldars-talos NONDL"
 - "epic Eldars-talos NONDL"
 - "vehicules Eldars-talos NONDL"
-- "epic vehicules Eldars-talos NONDL"
 - "EN Eldars-talos NONDL"
-- "epic EN Eldars-talos NONDL"
-- "vehicules EN Eldars-talos NONDL"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -43,29 +38,19 @@ tags:
 - "EN SUP"
 - "epic EN SUP"
 - "vehicules EN SUP"
-- "epic vehicules EN SUP"
 - "Eldars-talos SUP"
 - "epic Eldars-talos SUP"
 - "vehicules Eldars-talos SUP"
-- "epic vehicules Eldars-talos SUP"
 - "EN Eldars-talos SUP"
-- "epic EN Eldars-talos SUP"
-- "vehicules EN Eldars-talos SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "vehicules NONDL SUP"
-- "epic vehicules NONDL SUP"
 - "EN NONDL SUP"
-- "epic EN NONDL SUP"
-- "vehicules EN NONDL SUP"
 - "Eldars-talos NONDL SUP"
-- "epic Eldars-talos NONDL SUP"
-- "vehicules Eldars-talos NONDL SUP"
-- "EN Eldars-talos NONDL SUP"
 
 ---
 
-![](<thumbs_-_collectors-cursed-elves-8mm_-_Images_1.jpg> "thumbs_-_collectors-cursed-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_collectors-cursed-elves-8mm_-_Images_1.avif> "thumbs_-_collectors-cursed-elves-8mm_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > StrokeMyUnicornsUnihorn > Space_Bugs_of_Death_Terrornid_Guard [non dl]"
 date: "2021-10-20T22:19:13Z"
 toc: true
-image: "thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.jpg"
+image: "thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.avif"
 tags:
 - "StrokeMyUnicornsUnihorn"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.jpg> "thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.jpg")
+![](<thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.avif> "thumbs_-_space-bug-of-death-terrornid-guard_-_Images_1.avif")
 
-  ![](<thumbs_-_space-bug-of-death-terrornid-guard_-_Makes_1.jpg> "thumbs_-_space-bug-of-death-terrornid-guard_-_Makes_1.jpg")
+  ![](<thumbs_-_space-bug-of-death-terrornid-guard_-_Makes_1.avif> "thumbs_-_space-bug-of-death-terrornid-guard_-_Makes_1.avif")
 
   
 

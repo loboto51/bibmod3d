@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Enclave_Warden__18mm_scale_ [non dl]"
 date: "2016-03-04T21:38:07+00:00"
 toc: true
-image: "thumbs_-_1391541_-_Images_1.jpg"
+image: "thumbs_-_1391541_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HOMMES-BETES NONDL NONSUP"
-- "warmaster HOMMES-BETES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1391541_-_Images_1.jpg> "thumbs_-_1391541_-_Images_1.jpg")
+![](<thumbs_-_1391541_-_Images_1.avif> "thumbs_-_1391541_-_Images_1.avif")
 
-  ![](<thumbs_-_1391541_-_Makes_1.jpg> "thumbs_-_1391541_-_Makes_1.jpg")
+  ![](<thumbs_-_1391541_-_Makes_1.avif> "thumbs_-_1391541_-_Makes_1.avif")
 
   
 

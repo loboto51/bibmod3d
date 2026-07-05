@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Yasashii > Manticore___Tabletop_Miniature [non dl]"
 date: "2020-06-10T07:08:05+00:00"
 toc: true
-image: "thumbs_-_4441441_-_Images_1.jpg"
+image: "thumbs_-_4441441_-_Images_1.avif"
 tags:
 - "Yasashii"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Bits-créatures-géantes Manticores"
 - "warmaster Bits-créatures-géantes Manticores"
 - "Bits Bits-créatures-géantes Manticores"
-- "warmaster Bits Bits-créatures-géantes Manticores"
 - "NONDL"
 - "warmaster NONDL"
 - "Bits NONDL"
@@ -28,14 +27,10 @@ tags:
 - "Bits-créatures-géantes NONDL"
 - "warmaster Bits-créatures-géantes NONDL"
 - "Bits Bits-créatures-géantes NONDL"
-- "warmaster Bits Bits-créatures-géantes NONDL"
 - "Manticores NONDL"
 - "warmaster Manticores NONDL"
 - "Bits Manticores NONDL"
-- "warmaster Bits Manticores NONDL"
 - "Bits-créatures-géantes Manticores NONDL"
-- "warmaster Bits-créatures-géantes Manticores NONDL"
-- "Bits Bits-créatures-géantes Manticores NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "Bits NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "Bits-créatures-géantes NONSUP"
 - "warmaster Bits-créatures-géantes NONSUP"
 - "Bits Bits-créatures-géantes NONSUP"
-- "warmaster Bits Bits-créatures-géantes NONSUP"
 - "Manticores NONSUP"
 - "warmaster Manticores NONSUP"
 - "Bits Manticores NONSUP"
-- "warmaster Bits Manticores NONSUP"
 - "Bits-créatures-géantes Manticores NONSUP"
-- "warmaster Bits-créatures-géantes Manticores NONSUP"
-- "Bits Bits-créatures-géantes Manticores NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Bits NONDL NONSUP"
-- "warmaster Bits NONDL NONSUP"
 - "Bits-créatures-géantes NONDL NONSUP"
-- "warmaster Bits-créatures-géantes NONDL NONSUP"
-- "Bits Bits-créatures-géantes NONDL NONSUP"
 - "Manticores NONDL NONSUP"
-- "warmaster Manticores NONDL NONSUP"
-- "Bits Manticores NONDL NONSUP"
-- "Bits-créatures-géantes Manticores NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4441441_-_Images_1.jpg> "thumbs_-_4441441_-_Images_1.jpg")
+![](<thumbs_-_4441441_-_Images_1.avif> "thumbs_-_4441441_-_Images_1.avif")
 
-  ![](<thumbs_-_4441441_-_Makes_1.jpg> "thumbs_-_4441441_-_Makes_1.jpg")
+  ![](<thumbs_-_4441441_-_Makes_1.avif> "thumbs_-_4441441_-_Makes_1.avif")
 
   
 

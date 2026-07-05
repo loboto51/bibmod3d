@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ilhadiel > Medieval_infantry_miniatures__modular__32mm_ [dl]"
 date: "2022-06-08T11:21:10+00:00"
 toc: true
-image: "thumbs_-_5405890_-_Images_1.jpg"
+image: "thumbs_-_5405890_-_Images_1.avif"
 tags:
 - "Ilhadiel"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Medievaux"
 - "28mm HUMAINS Medievaux"
 - "ELFES HUMAINS Medievaux"
-- "28mm ELFES HUMAINS Medievaux"
 - "SUP"
 - "28mm SUP"
 - "ELFES SUP"
@@ -28,20 +27,16 @@ tags:
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "ELFES HUMAINS SUP"
-- "28mm ELFES HUMAINS SUP"
 - "Medievaux SUP"
 - "28mm Medievaux SUP"
 - "ELFES Medievaux SUP"
-- "28mm ELFES Medievaux SUP"
 - "HUMAINS Medievaux SUP"
-- "28mm HUMAINS Medievaux SUP"
-- "ELFES HUMAINS Medievaux SUP"
 
 ---
 
-![](<thumbs_-_5405890_-_Images_1.jpg> "thumbs_-_5405890_-_Images_1.jpg")
+![](<thumbs_-_5405890_-_Images_1.avif> "thumbs_-_5405890_-_Images_1.avif")
 
-  ![](<thumbs_-_5405890_-_ImagesSTL_1.jpg> "thumbs_-_5405890_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5405890_-_ImagesSTL_1.avif> "thumbs_-_5405890_-_ImagesSTL_1.avif")
 
   
 

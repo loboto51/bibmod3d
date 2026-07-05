@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onmioji > Demons [dl]"
 date: "2021-09-30T18:05:35+00:00"
 toc: true
-image: "thumbs_-_4978472_-_Images_1.jpg"
+image: "thumbs_-_4978472_-_Images_1.avif"
 tags:
 - "onmioji"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4978472_-_Images_1.jpg> "thumbs_-_4978472_-_Images_1.jpg")
+![](<thumbs_-_4978472_-_Images_1.avif> "thumbs_-_4978472_-_Images_1.avif")
 
-  ![](<thumbs_-_4978472_-_ImagesSTL_1.jpg> "thumbs_-_4978472_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4978472_-_ImagesSTL_1.avif> "thumbs_-_4978472_-_ImagesSTL_1.avif")
 
   
 

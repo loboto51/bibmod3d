@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Wamaster_High_Elf_Spearmen [non dl]"
 date: "2024-02-07T19:51:31+00:00"
 toc: true
-image: "thumbs_-_6473839_-_Images_1.jpg"
+image: "thumbs_-_6473839_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6473839_-_Images_1.jpg> "thumbs_-_6473839_-_Images_1.jpg")
+![](<thumbs_-_6473839_-_Images_1.avif> "thumbs_-_6473839_-_Images_1.avif")
 
   
 

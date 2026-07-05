@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Walkers___Tech_Elves___8mm [non dl]"
 date: "2024-05-05T00:58:50Z"
 toc: true
-image: "thumbs_-_tech-elves-walkers-8mm_-_Images_1.jpg"
+image: "thumbs_-_tech-elves-walkers-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-marcheurs-de-guerre"
 - "epic VM Eldars-marcheurs-de-guerre"
 - "marcheurs VM Eldars-marcheurs-de-guerre"
-- "epic marcheurs VM Eldars-marcheurs-de-guerre"
 - "NONDL"
 - "epic NONDL"
 - "marcheurs NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "marcheurs VM NONDL"
-- "epic marcheurs VM NONDL"
 - "Eldars-marcheurs-de-guerre NONDL"
 - "epic Eldars-marcheurs-de-guerre NONDL"
 - "marcheurs Eldars-marcheurs-de-guerre NONDL"
-- "epic marcheurs Eldars-marcheurs-de-guerre NONDL"
 - "VM Eldars-marcheurs-de-guerre NONDL"
-- "epic VM Eldars-marcheurs-de-guerre NONDL"
-- "marcheurs VM Eldars-marcheurs-de-guerre NONDL"
 - "SUP"
 - "epic SUP"
 - "marcheurs SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "marcheurs VM SUP"
-- "epic marcheurs VM SUP"
 - "Eldars-marcheurs-de-guerre SUP"
 - "epic Eldars-marcheurs-de-guerre SUP"
 - "marcheurs Eldars-marcheurs-de-guerre SUP"
-- "epic marcheurs Eldars-marcheurs-de-guerre SUP"
 - "VM Eldars-marcheurs-de-guerre SUP"
-- "epic VM Eldars-marcheurs-de-guerre SUP"
-- "marcheurs VM Eldars-marcheurs-de-guerre SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "marcheurs NONDL SUP"
-- "epic marcheurs NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "marcheurs VM NONDL SUP"
 - "Eldars-marcheurs-de-guerre NONDL SUP"
-- "epic Eldars-marcheurs-de-guerre NONDL SUP"
-- "marcheurs Eldars-marcheurs-de-guerre NONDL SUP"
-- "VM Eldars-marcheurs-de-guerre NONDL SUP"
 
 ---
 
-![](<thumbs_-_tech-elves-walkers-8mm_-_Images_1.jpg> "thumbs_-_tech-elves-walkers-8mm_-_Images_1.jpg")
+![](<thumbs_-_tech-elves-walkers-8mm_-_Images_1.avif> "thumbs_-_tech-elves-walkers-8mm_-_Images_1.avif")
 
   
 

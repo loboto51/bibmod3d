@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Yasashii > Giant_Boar___Tabletop_Miniature [non dl]"
 date: "2022-03-07T11:56:25+00:00"
 toc: true
-image: "thumbs_-_5276730_-_Images_1.jpg"
+image: "thumbs_-_5276730_-_Images_1.avif"
 tags:
 - "Yasashii"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Bits-créatures-géantes NONDL"
 - "warmaster Bits-créatures-géantes NONDL"
 - "Bits Bits-créatures-géantes NONDL"
-- "warmaster Bits Bits-créatures-géantes NONDL"
 - "SUP"
 - "warmaster SUP"
 - "Bits SUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits-créatures-géantes SUP"
 - "warmaster Bits-créatures-géantes SUP"
 - "Bits Bits-créatures-géantes SUP"
-- "warmaster Bits Bits-créatures-géantes SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "Bits NONDL SUP"
-- "warmaster Bits NONDL SUP"
 - "Bits-créatures-géantes NONDL SUP"
-- "warmaster Bits-créatures-géantes NONDL SUP"
-- "Bits Bits-créatures-géantes NONDL SUP"
 
 ---
 
-![](<thumbs_-_5276730_-_Images_1.jpg> "thumbs_-_5276730_-_Images_1.jpg")
+![](<thumbs_-_5276730_-_Images_1.avif> "thumbs_-_5276730_-_Images_1.avif")
 
-  ![](<thumbs_-_5276730_-_Makes_1.jpg> "thumbs_-_5276730_-_Makes_1.jpg")
+  ![](<thumbs_-_5276730_-_Makes_1.avif> "thumbs_-_5276730_-_Makes_1.avif")
 
   
 

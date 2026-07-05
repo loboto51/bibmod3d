@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > Pizzagrenadier > 6_8mm_Crates___Barrels [non dl]"
 date: "2024-06-03T17:27:19Z"
 toc: true
-image: "thumbs_-_6-8mm-crates-barrels_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-crates-barrels_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Barricades"
 - "epic IMP Barricades"
 - "decors IMP Barricades"
-- "epic decors IMP Barricades"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Barricades NONDL"
 - "epic Barricades NONDL"
 - "decors Barricades NONDL"
-- "epic decors Barricades NONDL"
 - "IMP Barricades NONDL"
-- "epic IMP Barricades NONDL"
-- "decors IMP Barricades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Barricades NONSUP"
 - "epic Barricades NONSUP"
 - "decors Barricades NONSUP"
-- "epic decors Barricades NONSUP"
 - "IMP Barricades NONSUP"
-- "epic IMP Barricades NONSUP"
-- "decors IMP Barricades NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Barricades NONDL NONSUP"
-- "epic Barricades NONDL NONSUP"
-- "decors Barricades NONDL NONSUP"
-- "IMP Barricades NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-crates-barrels_-_Images_1.jpg> "thumbs_-_6-8mm-crates-barrels_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-crates-barrels_-_Images_1.avif> "thumbs_-_6-8mm-crates-barrels_-_Images_1.avif")
 
   
 

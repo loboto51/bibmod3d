@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Lezeninjamon > Boarding_Armour_Jump_MK3_IW_LEGION__8MM [dl]"
 date: "2023-08-03T03:19:44Z"
 toc: true
-image: "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.jpg"
+image: "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.avif"
 tags:
 - "Lezeninjamon"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-assaut-volant"
 - "epic SMC Sm-assaut-volant"
 - "infanterie SMC Sm-assaut-volant"
-- "epic infanterie SMC Sm-assaut-volant"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SMC Sm-assaut-volant NONSUP"
-- "epic SMC Sm-assaut-volant NONSUP"
-- "infanterie SMC Sm-assaut-volant NONSUP"
 
 ---
 
-![](<thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.jpg> "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.jpg")
+![](<thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.avif> "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_ImagesSTL_1.jpg> "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_ImagesSTL_1.avif> "thumbs_-_boarding-armour-jump-mk3-iw-legion-8mm_-_ImagesSTL_1.avif")
 
   
 

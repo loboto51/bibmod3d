@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillMeForPrizes > IF_Terminator_Praetor__Galactic_Crusaders_Remix_ [dl]"
 date: "2021-05-29T15:21:36+00:00"
 toc: true
-image: "thumbs_-_4872753_-_Images_1.jpg"
+image: "thumbs_-_4872753_-_Images_1.avif"
 tags:
 - "KillMeForPrizes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 
 ---
 
-![](<thumbs_-_4872753_-_Images_1.jpg> "thumbs_-_4872753_-_Images_1.jpg")
+![](<thumbs_-_4872753_-_Images_1.avif> "thumbs_-_4872753_-_Images_1.avif")
 
-  ![](<thumbs_-_4872753_-_ImagesSTL_1.jpg> "thumbs_-_4872753_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4872753_-_ImagesSTL_1.avif> "thumbs_-_4872753_-_ImagesSTL_1.avif")
 
   
 

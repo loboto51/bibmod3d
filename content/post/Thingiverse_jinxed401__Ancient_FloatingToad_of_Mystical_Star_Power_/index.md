@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jinxed401 > _Ancient_FloatingToad_of_Mystical_Star_Power_ [non dl]"
 date: "2019-05-22T20:39:06+00:00"
 toc: true
-image: "thumbs_-_3647482_-_Images_1.jpg"
+image: "thumbs_-_3647482_-_Images_1.avif"
 tags:
 - "jinxed401"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "HOMMES-LEZARDS NONDL NONSUP"
-- "28mm HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3647482_-_Images_1.jpg> "thumbs_-_3647482_-_Images_1.jpg")
+![](<thumbs_-_3647482_-_Images_1.avif> "thumbs_-_3647482_-_Images_1.avif")
 
-  ![](<thumbs_-_3647482_-_Makes_1.jpg> "thumbs_-_3647482_-_Makes_1.jpg")
+  ![](<thumbs_-_3647482_-_Makes_1.avif> "thumbs_-_3647482_-_Makes_1.avif")
 
   
 

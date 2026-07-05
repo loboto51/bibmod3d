@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Scavvon > Crabby_Chaotic_Ogre_Wrought_Iron_Superstar [dl]"
 date: "2023-02-20T18:12:56Z"
 toc: true
-image: "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.jpg"
+image: "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.avif"
 tags:
 - "Scavvon"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.jpg> "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.jpg")
+![](<thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.avif> "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_Images_1.avif")
 
-  ![](<thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_ImagesSTL_1.jpg> "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_ImagesSTL_1.avif> "thumbs_-_crabby-chaotic-ogre-wrought-iron-superstar_-_ImagesSTL_1.avif")
 
   
 

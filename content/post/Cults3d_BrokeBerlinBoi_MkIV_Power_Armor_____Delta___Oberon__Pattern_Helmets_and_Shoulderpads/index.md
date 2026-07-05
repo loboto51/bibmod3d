@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > BrokeBerlinBoi > MkIV_Power_Armor_____Delta___Oberon__Pattern_Helmets_and_Shoulderpads [dl]"
 date: "2024-01-24T13:14:25Z"
 toc: true
-image: "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.jpg"
+image: "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.avif"
 tags:
 - "BrokeBerlinBoi"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "Bits Builders"
 - "28mm Bits Builders"
 - "SM30K Bits Builders"
-- "28mm SM30K Bits Builders"
 - "NONSUP"
 - "28mm NONSUP"
 - "SM30K NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits NONSUP"
 - "28mm Bits NONSUP"
 - "SM30K Bits NONSUP"
-- "28mm SM30K Bits NONSUP"
 - "Builders NONSUP"
 - "28mm Builders NONSUP"
 - "SM30K Builders NONSUP"
-- "28mm SM30K Builders NONSUP"
 - "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "SM30K Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.jpg> "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.jpg")
+![](<thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.avif> "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_Images_1.avif")
 
-  ![](<thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_ImagesSTL_1.jpg> "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_ImagesSTL_1.avif> "thumbs_-_mkiv-power-armour-delta-oberon-pattern-helmet_-_ImagesSTL_1.avif")
 
   
 

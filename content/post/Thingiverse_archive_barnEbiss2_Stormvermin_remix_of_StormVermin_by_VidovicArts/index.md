@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > barnEbiss2 > Stormvermin_remix_of_StormVermin_by_VidovicArts [dl]"
 date: "2019-05-14T11:48:36+00:00"
 toc: true
-image: "thumbs_-_3629523_-_Images_1.jpg"
+image: "thumbs_-_3629523_-_Images_1.avif"
 tags:
 - "barnEbiss2"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_3629523_-_Images_1.jpg> "thumbs_-_3629523_-_Images_1.jpg")
+![](<thumbs_-_3629523_-_Images_1.avif> "thumbs_-_3629523_-_Images_1.avif")
 
-  ![](<thumbs_-_3629523_-_ImagesSTL_1.jpg> "thumbs_-_3629523_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3629523_-_ImagesSTL_1.avif> "thumbs_-_3629523_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3629523_-_Makes_1.jpg> "thumbs_-_3629523_-_Makes_1.jpg")
+  ![](<thumbs_-_3629523_-_Makes_1.avif> "thumbs_-_3629523_-_Makes_1.avif")
 
   
 

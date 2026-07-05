@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Vohvel > 6mm_Tiny_Orky_Gargantuan_Robot [dl]"
 date: "2021-02-09T08:19:39+00:00"
 toc: true
-image: "thumbs_-_4755954_-_Images_1.jpg"
+image: "thumbs_-_4755954_-_Images_1.avif"
 tags:
 - "Vohvel"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-gargants"
 - "epic ORKS Orks-gargants"
 - "titans ORKS Orks-gargants"
-- "epic titans ORKS Orks-gargants"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "titans ORKS NONSUP"
-- "epic titans ORKS NONSUP"
 - "Orks-gargants NONSUP"
 - "epic Orks-gargants NONSUP"
 - "titans Orks-gargants NONSUP"
-- "epic titans Orks-gargants NONSUP"
 - "ORKS Orks-gargants NONSUP"
-- "epic ORKS Orks-gargants NONSUP"
-- "titans ORKS Orks-gargants NONSUP"
 
 ---
 
-![](<thumbs_-_4755954_-_Images_1.jpg> "thumbs_-_4755954_-_Images_1.jpg")
+![](<thumbs_-_4755954_-_Images_1.avif> "thumbs_-_4755954_-_Images_1.avif")
 
-  ![](<thumbs_-_4755954_-_ImagesSTL_1.jpg> "thumbs_-_4755954_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4755954_-_ImagesSTL_1.avif> "thumbs_-_4755954_-_ImagesSTL_1.avif")
 
   
 

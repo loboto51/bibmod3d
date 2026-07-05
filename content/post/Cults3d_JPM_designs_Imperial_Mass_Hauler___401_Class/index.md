@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > JPM_designs > Imperial_Mass_Hauler___401_Class [non dl]"
 date: "2025-10-15T01:35:43Z"
 toc: true
-image: "thumbs_-_imperial-mass-hauler-401-class_-_Images_1.jpg"
+image: "thumbs_-_imperial-mass-hauler-401-class_-_Images_1.avif"
 tags:
 - "JPM_designs"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
-- "bfg IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "SUP"
 - "bfg SUP"
 - "IMP SUP"
@@ -28,18 +27,14 @@ tags:
 - "Flottes-civiles-inquisition-vaisseaux-de-support SUP"
 - "bfg Flottes-civiles-inquisition-vaisseaux-de-support SUP"
 - "IMP Flottes-civiles-inquisition-vaisseaux-de-support SUP"
-- "bfg IMP Flottes-civiles-inquisition-vaisseaux-de-support SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "IMP NONDL SUP"
-- "bfg IMP NONDL SUP"
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONDL SUP"
-- "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONDL SUP"
-- "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL SUP"
 
 ---
 
-![](<thumbs_-_imperial-mass-hauler-401-class_-_Images_1.jpg> "thumbs_-_imperial-mass-hauler-401-class_-_Images_1.jpg")
+![](<thumbs_-_imperial-mass-hauler-401-class_-_Images_1.avif> "thumbs_-_imperial-mass-hauler-401-class_-_Images_1.avif")
 
   
 

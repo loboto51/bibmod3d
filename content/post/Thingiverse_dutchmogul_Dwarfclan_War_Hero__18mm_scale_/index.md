@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Dwarfclan_War_Hero__18mm_scale_ [non dl]"
 date: "2016-03-06T18:18:41+00:00"
 toc: true
-image: "thumbs_-_1395595_-_Images_1.jpg"
+image: "thumbs_-_1395595_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "warmaster NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1395595_-_Images_1.jpg> "thumbs_-_1395595_-_Images_1.jpg")
+![](<thumbs_-_1395595_-_Images_1.avif> "thumbs_-_1395595_-_Images_1.avif")
 
-  ![](<thumbs_-_1395595_-_Makes_1.jpg> "thumbs_-_1395595_-_Makes_1.jpg")
+  ![](<thumbs_-_1395595_-_Makes_1.avif> "thumbs_-_1395595_-_Makes_1.avif")
 
   
 

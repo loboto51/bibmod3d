@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > insanekane > Tyrannosaurus [non dl]"
 date: "2020-05-25T19:33:50Z"
 toc: true
-image: "thumbs_-_tyrannosaurus-insanekane_-_Images_1.jpg"
+image: "thumbs_-_tyrannosaurus-insanekane_-_Images_1.avif"
 tags:
 - "insanekane"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_tyrannosaurus-insanekane_-_Images_1.jpg> "thumbs_-_tyrannosaurus-insanekane_-_Images_1.jpg")
+![](<thumbs_-_tyrannosaurus-insanekane_-_Images_1.avif> "thumbs_-_tyrannosaurus-insanekane_-_Images_1.avif")
 
   
 

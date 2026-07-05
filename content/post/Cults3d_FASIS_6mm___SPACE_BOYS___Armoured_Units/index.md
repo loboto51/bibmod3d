@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > FASIS > 6mm___SPACE_BOYS___Armoured_Units [dl]"
 date: "2026-06-26T10:23:47Z"
 toc: true
-image: "thumbs_-_6mm-space-boys-armoured-units_-_Images_1.jpg"
+image: "thumbs_-_6mm-space-boys-armoured-units_-_Images_1.avif"
 tags:
 - "FASIS"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Land-raiders"
 - "epic SMI Land-raiders"
 - "vehicules SMI Land-raiders"
-- "epic vehicules SMI Land-raiders"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Land-raiders NONSUP"
 - "epic Land-raiders NONSUP"
 - "vehicules Land-raiders NONSUP"
-- "epic vehicules Land-raiders NONSUP"
 - "SMI Land-raiders NONSUP"
-- "epic SMI Land-raiders NONSUP"
-- "vehicules SMI Land-raiders NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -50,7 +45,6 @@ tags:
 - "SMI Predators"
 - "epic SMI Predators"
 - "vehicules SMI Predators"
-- "epic vehicules SMI Predators"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Predators NONSUP"
 - "epic Predators NONSUP"
 - "vehicules Predators NONSUP"
-- "epic vehicules Predators NONSUP"
 - "SMI Predators NONSUP"
-- "epic SMI Predators NONSUP"
-- "vehicules SMI Predators NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -80,7 +70,6 @@ tags:
 - "SMI Rhinos-canon-lourd"
 - "epic SMI Rhinos-canon-lourd"
 - "vehicules SMI Rhinos-canon-lourd"
-- "epic vehicules SMI Rhinos-canon-lourd"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -88,14 +77,10 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Rhinos-canon-lourd NONSUP"
 - "epic Rhinos-canon-lourd NONSUP"
 - "vehicules Rhinos-canon-lourd NONSUP"
-- "epic vehicules Rhinos-canon-lourd NONSUP"
 - "SMI Rhinos-canon-lourd NONSUP"
-- "epic SMI Rhinos-canon-lourd NONSUP"
-- "vehicules SMI Rhinos-canon-lourd NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -110,7 +95,6 @@ tags:
 - "SMI Rhinos"
 - "epic SMI Rhinos"
 - "vehicules SMI Rhinos"
-- "epic vehicules SMI Rhinos"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -118,20 +102,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Rhinos NONSUP"
 - "epic Rhinos NONSUP"
 - "vehicules Rhinos NONSUP"
-- "epic vehicules Rhinos NONSUP"
 - "SMI Rhinos NONSUP"
-- "epic SMI Rhinos NONSUP"
-- "vehicules SMI Rhinos NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-space-boys-armoured-units_-_Images_1.jpg> "thumbs_-_6mm-space-boys-armoured-units_-_Images_1.jpg")
+![](<thumbs_-_6mm-space-boys-armoured-units_-_Images_1.avif> "thumbs_-_6mm-space-boys-armoured-units_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.jpg> "thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.avif> "thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.avif")
 
   
 

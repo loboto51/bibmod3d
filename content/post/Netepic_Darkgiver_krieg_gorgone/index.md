@@ -3,7 +3,7 @@
 title: "[GRATUIT] Netepic > Darkgiver > krieg_gorgone [dl]"
 date: "2026-03-30"
 toc: true
-image: "thumbs_-_krieg_gorgone_-_Images_1.jpg"
+image: "thumbs_-_Darkgiver_-_krieg_gorgone_-_Images_1.avif"
 tags:
 - "Darkgiver"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "superlourds GI Imp-chars"
-- "epic superlourds GI Imp-chars"
 - "Imp-gorgones-crassus-etc"
 - "epic Imp-gorgones-crassus-etc"
 - "superlourds Imp-gorgones-crassus-etc"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-gorgones-crassus-etc"
 - "epic GI Imp-gorgones-crassus-etc"
 - "superlourds GI Imp-gorgones-crassus-etc"
-- "epic superlourds GI Imp-gorgones-crassus-etc"
 - "Imp-chars Imp-gorgones-crassus-etc"
 - "epic Imp-chars Imp-gorgones-crassus-etc"
 - "superlourds Imp-chars Imp-gorgones-crassus-etc"
-- "epic superlourds Imp-chars Imp-gorgones-crassus-etc"
 - "GI Imp-chars Imp-gorgones-crassus-etc"
-- "epic GI Imp-chars Imp-gorgones-crassus-etc"
-- "superlourds GI Imp-chars Imp-gorgones-crassus-etc"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Imp-chars NONSUP"
 - "epic Imp-chars NONSUP"
 - "superlourds Imp-chars NONSUP"
-- "epic superlourds Imp-chars NONSUP"
 - "GI Imp-chars NONSUP"
-- "epic GI Imp-chars NONSUP"
-- "superlourds GI Imp-chars NONSUP"
 - "Imp-gorgones-crassus-etc NONSUP"
 - "epic Imp-gorgones-crassus-etc NONSUP"
 - "superlourds Imp-gorgones-crassus-etc NONSUP"
-- "epic superlourds Imp-gorgones-crassus-etc NONSUP"
 - "GI Imp-gorgones-crassus-etc NONSUP"
-- "epic GI Imp-gorgones-crassus-etc NONSUP"
-- "superlourds GI Imp-gorgones-crassus-etc NONSUP"
 - "Imp-chars Imp-gorgones-crassus-etc NONSUP"
-- "epic Imp-chars Imp-gorgones-crassus-etc NONSUP"
-- "superlourds Imp-chars Imp-gorgones-crassus-etc NONSUP"
-- "GI Imp-chars Imp-gorgones-crassus-etc NONSUP"
 
 ---
 
-![](<thumbs_-_krieg_gorgone_-_Images_1.jpg> "thumbs_-_krieg_gorgone_-_Images_1.jpg")
+![](<thumbs_-_Darkgiver_-_krieg_gorgone_-_Images_1.avif> "thumbs_-_Darkgiver_-_krieg_gorgone_-_Images_1.avif")
 
-  ![](<thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg> "thumbs_-_krieg_gorgone_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Darkgiver_-_krieg_gorgone_-_ImagesSTL_1.avif> "thumbs_-_Darkgiver_-_krieg_gorgone_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_krieg_gorgone_-_Makes_1.jpg> "thumbs_-_krieg_gorgone_-_Makes_1.jpg")
+  ![](<thumbs_-_Darkgiver_-_krieg_gorgone_-_Makes_1.avif> "thumbs_-_Darkgiver_-_krieg_gorgone_-_Makes_1.avif")
 
   
 

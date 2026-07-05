@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > AxelFendersson > Epic_Warlord___Battleduke_Carapace_Turbolaser [dl]"
 date: "2022-11-02T22:58:25Z"
 toc: true
-image: "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg"
+image: "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.avif"
 tags:
 - "AxelFendersson"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-warlords"
 - "epic IMP Admech-titans-warlords"
 - "titans IMP Admech-titans-warlords"
-- "epic titans IMP Admech-titans-warlords"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-warlords NONSUP"
 - "epic Admech-titans-warlords NONSUP"
 - "titans Admech-titans-warlords NONSUP"
-- "epic titans Admech-titans-warlords NONSUP"
 - "IMP Admech-titans-warlords NONSUP"
-- "epic IMP Admech-titans-warlords NONSUP"
-- "titans IMP Admech-titans-warlords NONSUP"
 
 ---
 
-![](<thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg> "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.jpg")
+![](<thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.avif> "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_ImagesSTL_1.jpg> "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_ImagesSTL_1.avif> "thumbs_-_epic-warlord-battleduke-carapace-turbolaser_-_ImagesSTL_1.avif")
 
   
 

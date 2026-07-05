@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Goat_Riders [dl]"
 date: "2025-04-03T22:34:09+00:00"
 toc: true
-image: "thumbs_-_6999985_-_Images_1.jpg"
+image: "thumbs_-_6999985_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_6999985_-_Images_1.jpg> "thumbs_-_6999985_-_Images_1.jpg")
+![](<thumbs_-_6999985_-_Images_1.avif> "thumbs_-_6999985_-_Images_1.avif")
 
-  ![](<thumbs_-_6999985_-_ImagesSTL_1.jpg> "thumbs_-_6999985_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6999985_-_ImagesSTL_1.avif> "thumbs_-_6999985_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6999985_-_Makes_1.jpg> "thumbs_-_6999985_-_Makes_1.jpg")
+  ![](<thumbs_-_6999985_-_Makes_1.avif> "thumbs_-_6999985_-_Makes_1.avif")
 
   
 

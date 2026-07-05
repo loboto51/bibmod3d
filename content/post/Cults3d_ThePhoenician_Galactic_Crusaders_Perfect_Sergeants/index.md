@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ThePhoenician > Galactic_Crusaders_Perfect_Sergeants [dl]"
 date: "2023-12-23T18:54:45Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.avif"
 tags:
 - "ThePhoenician"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K SUP"
 - "epic SM30K SUP"
 - "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
 - "Sm-qg SUP"
 - "epic Sm-qg SUP"
 - "infanterie Sm-qg SUP"
-- "epic infanterie Sm-qg SUP"
 - "SM30K Sm-qg SUP"
-- "epic SM30K Sm-qg SUP"
-- "infanterie SM30K Sm-qg SUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.jpg> "thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.avif> "thumbs_-_galactic-crusaders-perfect-sergeants_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-perfect-sergeants_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-perfect-sergeants_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-perfect-sergeants_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-perfect-sergeants_-_ImagesSTL_1.avif")
 
   
 

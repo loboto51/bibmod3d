@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Cornixt > Bull_with_no_head [non dl]"
 date: "2026-02-21T01:33:08Z"
 toc: true
-image: "thumbs_-_bull-with-no-head_-_Images_1.jpg"
+image: "thumbs_-_bull-with-no-head_-_Images_1.avif"
 tags:
 - "Cornixt"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "warmaster NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bull-with-no-head_-_Images_1.jpg> "thumbs_-_bull-with-no-head_-_Images_1.jpg")
+![](<thumbs_-_bull-with-no-head_-_Images_1.avif> "thumbs_-_bull-with-no-head_-_Images_1.avif")
 
   
 

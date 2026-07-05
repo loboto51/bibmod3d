@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Vampire_spawn_male_FDM_supportless [non dl]"
 date: "2025-11-04T14:25:55+00:00"
 toc: true
-image: "thumbs_-_7190768_-_Images_1.jpg"
+image: "thumbs_-_7190768_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7190768_-_Images_1.jpg> "thumbs_-_7190768_-_Images_1.jpg")
+![](<thumbs_-_7190768_-_Images_1.avif> "thumbs_-_7190768_-_Images_1.avif")
 
   
 

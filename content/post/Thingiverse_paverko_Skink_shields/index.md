@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > paverko > Skink_shields [non dl]"
 date: "2019-06-03T17:11:09+00:00"
 toc: true
-image: "thumbs_-_3670420_-_Images_1.jpg"
+image: "thumbs_-_3670420_-_Images_1.avif"
 tags:
 - "paverko"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "HOMMES-LEZARDS NONDL NONSUP"
-- "28mm HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3670420_-_Images_1.jpg> "thumbs_-_3670420_-_Images_1.jpg")
+![](<thumbs_-_3670420_-_Images_1.avif> "thumbs_-_3670420_-_Images_1.avif")
 
   
 

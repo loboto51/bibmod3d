@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Morticai99 > Warmaster_ghoul_horde [dl]"
 date: "2025-12-08T00:24:09+00:00"
 toc: true
-image: "thumbs_-_7226539_-_Images_1.jpg"
+image: "thumbs_-_7226539_-_Images_1.avif"
 tags:
 - "Morticai99"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7226539_-_Images_1.jpg> "thumbs_-_7226539_-_Images_1.jpg")
+![](<thumbs_-_7226539_-_Images_1.avif> "thumbs_-_7226539_-_Images_1.avif")
 
-  ![](<thumbs_-_7226539_-_ImagesSTL_1.jpg> "thumbs_-_7226539_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7226539_-_ImagesSTL_1.avif> "thumbs_-_7226539_-_ImagesSTL_1.avif")
 
   
 

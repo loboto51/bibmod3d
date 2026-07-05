@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jagannath1985 > Space_Ogres_Without_Bayonets [dl]"
 date: "2019-07-21T22:17:16+00:00"
 toc: true
-image: "thumbs_-_3761763_-_Images_1.jpg"
+image: "thumbs_-_3761763_-_Images_1.avif"
 tags:
 - "Jagannath1985"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Ogryns"
 - "epic GI Ogryns"
 - "infanterie GI Ogryns"
-- "epic infanterie GI Ogryns"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Ogryns NONSUP"
 - "epic Ogryns NONSUP"
 - "infanterie Ogryns NONSUP"
-- "epic infanterie Ogryns NONSUP"
 - "GI Ogryns NONSUP"
-- "epic GI Ogryns NONSUP"
-- "infanterie GI Ogryns NONSUP"
 
 ---
 
-![](<thumbs_-_3761763_-_Images_1.jpg> "thumbs_-_3761763_-_Images_1.jpg")
+![](<thumbs_-_3761763_-_Images_1.avif> "thumbs_-_3761763_-_Images_1.avif")
 
-  ![](<thumbs_-_3761763_-_ImagesSTL_1.jpg> "thumbs_-_3761763_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3761763_-_ImagesSTL_1.avif> "thumbs_-_3761763_-_ImagesSTL_1.avif")
 
   
 

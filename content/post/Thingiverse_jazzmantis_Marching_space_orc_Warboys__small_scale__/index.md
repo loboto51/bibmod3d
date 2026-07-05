@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Marching_space_orc_Warboys__small_scale__ [dl]"
 date: "2022-03-10T19:46:06+00:00"
 toc: true
-image: "thumbs_-_5281260_-_Images_1.jpg"
+image: "thumbs_-_5281260_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
 - "Orks-boyz SUP"
 - "epic Orks-boyz SUP"
 - "infanterie Orks-boyz SUP"
-- "epic infanterie Orks-boyz SUP"
 - "ORKS Orks-boyz SUP"
-- "epic ORKS Orks-boyz SUP"
-- "infanterie ORKS Orks-boyz SUP"
 
 ---
 
-![](<thumbs_-_5281260_-_Images_1.jpg> "thumbs_-_5281260_-_Images_1.jpg")
+![](<thumbs_-_5281260_-_Images_1.avif> "thumbs_-_5281260_-_Images_1.avif")
 
-  ![](<thumbs_-_5281260_-_ImagesSTL_1.jpg> "thumbs_-_5281260_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5281260_-_ImagesSTL_1.avif> "thumbs_-_5281260_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] AutresSources > DaffMakes > Wizard_On_Disc_Courtesy_of_Varus_for_the_disc [dl]"
 date: "2025-04-30"
 toc: true
-image: "thumbs_-_DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.jpg"
+image: "thumbs_-_DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-qg"
 - "epic SMC Sm-qg"
 - "infanterie SMC Sm-qg"
-- "epic infanterie SMC Sm-qg"
 - "TZEENTCH"
 - "epic TZEENTCH"
 - "infanterie TZEENTCH"
@@ -28,14 +27,10 @@ tags:
 - "SMC TZEENTCH"
 - "epic SMC TZEENTCH"
 - "infanterie SMC TZEENTCH"
-- "epic infanterie SMC TZEENTCH"
 - "Sm-qg TZEENTCH"
 - "epic Sm-qg TZEENTCH"
 - "infanterie Sm-qg TZEENTCH"
-- "epic infanterie Sm-qg TZEENTCH"
 - "SMC Sm-qg TZEENTCH"
-- "epic SMC Sm-qg TZEENTCH"
-- "infanterie SMC Sm-qg TZEENTCH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SMC Sm-qg NONSUP"
-- "epic SMC Sm-qg NONSUP"
-- "infanterie SMC Sm-qg NONSUP"
 - "TZEENTCH NONSUP"
 - "epic TZEENTCH NONSUP"
 - "infanterie TZEENTCH NONSUP"
-- "epic infanterie TZEENTCH NONSUP"
 - "SMC TZEENTCH NONSUP"
-- "epic SMC TZEENTCH NONSUP"
-- "infanterie SMC TZEENTCH NONSUP"
 - "Sm-qg TZEENTCH NONSUP"
-- "epic Sm-qg TZEENTCH NONSUP"
-- "infanterie Sm-qg TZEENTCH NONSUP"
-- "SMC Sm-qg TZEENTCH NONSUP"
 
 ---
 
-![](<thumbs_-_DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.jpg> "thumbs_-_DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.jpg")
+![](<thumbs_-_DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.avif> "thumbs_-_DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_Images_1.avif")
 
-  ![](<thumbs_-_DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_ImagesSTL_1.jpg> "thumbs_-_DaffMakes-Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_ImagesSTL_1.avif> "thumbs_-_DaffMakes_-_Wizard_On_Disc_Courtesy_of_Varus_for_the_disc_-_ImagesSTL_1.avif")
 
   
 

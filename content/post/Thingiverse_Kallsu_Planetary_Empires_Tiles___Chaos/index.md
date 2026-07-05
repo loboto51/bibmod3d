@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kallsu > Planetary_Empires_Tiles___Chaos [non dl]"
 date: "2019-06-07T21:17:18+00:00"
 toc: true
-image: "thumbs_-_3677642_-_Images_1.jpg"
+image: "thumbs_-_3677642_-_Images_1.avif"
 tags:
 - "Kallsu"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3677642_-_Images_1.jpg> "thumbs_-_3677642_-_Images_1.jpg")
+![](<thumbs_-_3677642_-_Images_1.avif> "thumbs_-_3677642_-_Images_1.avif")
 
   
 

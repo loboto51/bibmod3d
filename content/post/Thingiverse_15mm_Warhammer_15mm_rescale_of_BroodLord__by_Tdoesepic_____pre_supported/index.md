@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > 15mm_Warhammer > 15mm_rescale_of_BroodLord__by_Tdoesepic_____pre_supported [dl]"
 date: "2021-07-11T12:49:34+00:00"
 toc: true
-image: "thumbs_-_4905879_-_Images_1.jpg"
+image: "thumbs_-_4905879_-_Images_1.avif"
 tags:
 - "15mm_Warhammer"
 - "15mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4905879_-_Images_1.jpg> "thumbs_-_4905879_-_Images_1.jpg")
+![](<thumbs_-_4905879_-_Images_1.avif> "thumbs_-_4905879_-_Images_1.avif")
 
-  ![](<thumbs_-_4905879_-_ImagesSTL_1.jpg> "thumbs_-_4905879_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4905879_-_ImagesSTL_1.avif> "thumbs_-_4905879_-_ImagesSTL_1.avif")
 
   
 

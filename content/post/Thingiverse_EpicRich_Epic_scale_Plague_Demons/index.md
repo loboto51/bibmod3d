@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > EpicRich > Epic_scale_Plague_Demons [dl]"
 date: "2020-12-11T19:11:11+00:00"
 toc: true
-image: "thumbs_-_4682482_-_Images_1.jpg"
+image: "thumbs_-_4682482_-_Images_1.avif"
 tags:
 - "EpicRich"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-portepestes-de-nurgle"
 - "epic CHAOS Chaos-portepestes-de-nurgle"
 - "infanterie CHAOS Chaos-portepestes-de-nurgle"
-- "epic infanterie CHAOS Chaos-portepestes-de-nurgle"
 - "NURGLE"
 - "epic NURGLE"
 - "infanterie NURGLE"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NURGLE"
 - "epic CHAOS NURGLE"
 - "infanterie CHAOS NURGLE"
-- "epic infanterie CHAOS NURGLE"
 - "Chaos-portepestes-de-nurgle NURGLE"
 - "epic Chaos-portepestes-de-nurgle NURGLE"
 - "infanterie Chaos-portepestes-de-nurgle NURGLE"
-- "epic infanterie Chaos-portepestes-de-nurgle NURGLE"
 - "CHAOS Chaos-portepestes-de-nurgle NURGLE"
-- "epic CHAOS Chaos-portepestes-de-nurgle NURGLE"
-- "infanterie CHAOS Chaos-portepestes-de-nurgle NURGLE"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,21 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "infanterie CHAOS NONSUP"
-- "epic infanterie CHAOS NONSUP"
 - "Chaos-portepestes-de-nurgle NONSUP"
 - "epic Chaos-portepestes-de-nurgle NONSUP"
 - "infanterie Chaos-portepestes-de-nurgle NONSUP"
-- "epic infanterie Chaos-portepestes-de-nurgle NONSUP"
 - "CHAOS Chaos-portepestes-de-nurgle NONSUP"
-- "epic CHAOS Chaos-portepestes-de-nurgle NONSUP"
-- "infanterie CHAOS Chaos-portepestes-de-nurgle NONSUP"
 - "NURGLE NONSUP"
 - "epic NURGLE NONSUP"
 - "infanterie NURGLE NONSUP"
-- "epic infanterie NURGLE NONSUP"
 - "CHAOS NURGLE NONSUP"
-- "epic CHAOS NURGLE NONSUP"
-- "infanterie CHAOS NURGLE NONSUP"
 - "Chaos-portepestes-de-nurgle NURGLE NONSUP"
-- "epic Chaos-portepestes-de-nurgle NURGLE NONSUP"
-- "infanterie Chaos-portepestes-de-nurgle NURGLE NONSUP"
-- "CHAOS Chaos-portepestes-de-nurgle NURGLE NONSUP"
 
 ---
 
-![](<thumbs_-_4682482_-_Images_1.jpg> "thumbs_-_4682482_-_Images_1.jpg")
+![](<thumbs_-_4682482_-_Images_1.avif> "thumbs_-_4682482_-_Images_1.avif")
+
+  ![](<thumbs_-_4682482_-_ImagesSTL_1.avif> "thumbs_-_4682482_-_ImagesSTL_1.avif")
 
   
 

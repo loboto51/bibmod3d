@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > nemononame > Blue_Space_Commies_Commerce_and_Exploration_Fleet [dl]"
 date: "2026-02-23T21:34:26Z"
 toc: true
-image: "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.jpg"
+image: "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.avif"
 tags:
 - "nemononame"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "TAU Flotte NONSUP"
-- "bfg TAU Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.jpg> "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.jpg")
+![](<thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.avif> "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_Images_1.avif")
 
-  ![](<thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_ImagesSTL_1.jpg> "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_ImagesSTL_1.avif> "thumbs_-_blue-space-commies-commerce-and-exploration-fleet_-_ImagesSTL_1.avif")
 
   
 

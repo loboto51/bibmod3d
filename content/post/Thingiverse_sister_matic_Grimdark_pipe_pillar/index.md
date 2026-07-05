@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > sister_matic > Grimdark_pipe_pillar [non dl]"
 date: "2025-02-26T19:01:24+00:00"
 toc: true
-image: "thumbs_-_6962564_-_Images_1.jpg"
+image: "thumbs_-_6962564_-_Images_1.avif"
 tags:
 - "sister_matic"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "necromunda NONDL"
 - "28mm necromunda NONDL"
 - "DECORS necromunda NONDL"
-- "28mm DECORS necromunda NONDL"
 - "SUP"
 - "28mm SUP"
 - "DECORS SUP"
@@ -28,18 +27,14 @@ tags:
 - "necromunda SUP"
 - "28mm necromunda SUP"
 - "DECORS necromunda SUP"
-- "28mm DECORS necromunda SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "DECORS NONDL SUP"
-- "28mm DECORS NONDL SUP"
 - "necromunda NONDL SUP"
-- "28mm necromunda NONDL SUP"
-- "DECORS necromunda NONDL SUP"
 
 ---
 
-![](<thumbs_-_6962564_-_Images_1.jpg> "thumbs_-_6962564_-_Images_1.jpg")
+![](<thumbs_-_6962564_-_Images_1.avif> "thumbs_-_6962564_-_Images_1.avif")
 
   
 

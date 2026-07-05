@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > EpicRich > Epic_Scale_Decimation_Robot [dl]"
 date: "2021-10-06T19:59:03Z"
 toc: true
-image: "thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-decimation-robot_-_Images_1.avif"
 tags:
 - "EpicRich"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-decimators"
 - "epic CHAOS Chaos-decimators"
 - "marcheurs CHAOS Chaos-decimators"
-- "epic marcheurs CHAOS Chaos-decimators"
 - "SUP"
 - "epic SUP"
 - "marcheurs SUP"
@@ -28,20 +27,16 @@ tags:
 - "CHAOS SUP"
 - "epic CHAOS SUP"
 - "marcheurs CHAOS SUP"
-- "epic marcheurs CHAOS SUP"
 - "Chaos-decimators SUP"
 - "epic Chaos-decimators SUP"
 - "marcheurs Chaos-decimators SUP"
-- "epic marcheurs Chaos-decimators SUP"
 - "CHAOS Chaos-decimators SUP"
-- "epic CHAOS Chaos-decimators SUP"
-- "marcheurs CHAOS Chaos-decimators SUP"
 
 ---
 
-![](<thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg> "thumbs_-_epic-scale-decimation-robot_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-decimation-robot_-_Images_1.avif> "thumbs_-_epic-scale-decimation-robot_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-decimation-robot_-_ImagesSTL_1.avif")
 
   
 

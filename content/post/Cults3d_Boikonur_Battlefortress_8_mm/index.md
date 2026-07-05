@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Boikonur > Battlefortress_8_mm [non dl]"
 date: "2025-01-14T14:48:01Z"
 toc: true
-image: "thumbs_-_battlefortress_-_Images_1.jpg"
+image: "thumbs_-_battlefortress_-_Images_1.avif"
 tags:
 - "Boikonur"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-forteresses"
 - "epic ORKS Orks-forteresses"
 - "superlourds ORKS Orks-forteresses"
-- "epic superlourds ORKS Orks-forteresses"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "superlourds ORKS NONDL"
-- "epic superlourds ORKS NONDL"
 - "Orks-forteresses NONDL"
 - "epic Orks-forteresses NONDL"
 - "superlourds Orks-forteresses NONDL"
-- "epic superlourds Orks-forteresses NONDL"
 - "ORKS Orks-forteresses NONDL"
-- "epic ORKS Orks-forteresses NONDL"
-- "superlourds ORKS Orks-forteresses NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "superlourds ORKS NONSUP"
-- "epic superlourds ORKS NONSUP"
 - "Orks-forteresses NONSUP"
 - "epic Orks-forteresses NONSUP"
 - "superlourds Orks-forteresses NONSUP"
-- "epic superlourds Orks-forteresses NONSUP"
 - "ORKS Orks-forteresses NONSUP"
-- "epic ORKS Orks-forteresses NONSUP"
-- "superlourds ORKS Orks-forteresses NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "superlourds ORKS NONDL NONSUP"
 - "Orks-forteresses NONDL NONSUP"
-- "epic Orks-forteresses NONDL NONSUP"
-- "superlourds Orks-forteresses NONDL NONSUP"
-- "ORKS Orks-forteresses NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_battlefortress_-_Images_1.jpg> "thumbs_-_battlefortress_-_Images_1.jpg")
+![](<thumbs_-_battlefortress_-_Images_1.avif> "thumbs_-_battlefortress_-_Images_1.avif")
 
   
 

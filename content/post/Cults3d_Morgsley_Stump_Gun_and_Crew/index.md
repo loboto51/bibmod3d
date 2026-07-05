@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Morgsley > Stump_Gun_and_Crew [non dl]"
 date: "2023-08-04T16:11:26Z"
 toc: true
-image: "thumbs_-_stump-gun-and-crew_-_Images_1.jpg"
+image: "thumbs_-_stump-gun-and-crew_-_Images_1.avif"
 tags:
 - "Morgsley"
 - "turnip28"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_stump-gun-and-crew_-_Images_1.jpg> "thumbs_-_stump-gun-and-crew_-_Images_1.jpg")
+![](<thumbs_-_stump-gun-and-crew_-_Images_1.avif> "thumbs_-_stump-gun-and-crew_-_Images_1.avif")
 
-  ![](<thumbs_-_stump-gun-and-crew_-_Makes_1.jpg> "thumbs_-_stump-gun-and-crew_-_Makes_1.jpg")
+  ![](<thumbs_-_stump-gun-and-crew_-_Makes_1.avif> "thumbs_-_stump-gun-and-crew_-_Makes_1.avif")
 
   
 

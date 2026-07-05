@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Davik_Designs > Harrifex [non dl]"
 date: "2020-04-24T14:45:33Z"
 toc: true
-image: "thumbs_-_harrifex_-_Images_1.jpg"
+image: "thumbs_-_harrifex_-_Images_1.avif"
 tags:
 - "Davik_Designs"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_harrifex_-_Images_1.jpg> "thumbs_-_harrifex_-_Images_1.jpg")
+![](<thumbs_-_harrifex_-_Images_1.avif> "thumbs_-_harrifex_-_Images_1.avif")
 
   
 

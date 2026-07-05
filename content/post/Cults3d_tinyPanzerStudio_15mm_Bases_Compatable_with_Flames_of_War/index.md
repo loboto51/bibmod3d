@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > tinyPanzerStudio > 15mm_Bases_Compatable_with_Flames_of_War [non dl]"
 date: "2022-01-02T17:44:20Z"
 toc: true
-image: "thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.jpg"
+image: "thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.avif"
 tags:
 - "tinyPanzerStudio"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.jpg> "thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.jpg")
+![](<thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.avif> "thumbs_-_15mm-bases-compatable-with-flames-of-war_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_High_Altitude_Reconnaissance_for_Human_Air_Forces [dl]"
 date: "2019-12-27T13:46:48Z"
 toc: true
-image: "thumbs_-_epic-scale-marauder-vigilant_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-marauder-vigilant_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Imp-bombardiers"
 - "epic IMP Imp-bombardiers"
 - "volants IMP Imp-bombardiers"
-- "epic volants IMP Imp-bombardiers"
 - "Maraudeurs"
 - "epic Maraudeurs"
 - "volants Maraudeurs"
@@ -28,14 +27,10 @@ tags:
 - "IMP Maraudeurs"
 - "epic IMP Maraudeurs"
 - "volants IMP Maraudeurs"
-- "epic volants IMP Maraudeurs"
 - "Imp-bombardiers Maraudeurs"
 - "epic Imp-bombardiers Maraudeurs"
 - "volants Imp-bombardiers Maraudeurs"
-- "epic volants Imp-bombardiers Maraudeurs"
 - "IMP Imp-bombardiers Maraudeurs"
-- "epic IMP Imp-bombardiers Maraudeurs"
-- "volants IMP Imp-bombardiers Maraudeurs"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
 - "Imp-bombardiers NONSUP"
 - "epic Imp-bombardiers NONSUP"
 - "volants Imp-bombardiers NONSUP"
-- "epic volants Imp-bombardiers NONSUP"
 - "IMP Imp-bombardiers NONSUP"
-- "epic IMP Imp-bombardiers NONSUP"
-- "volants IMP Imp-bombardiers NONSUP"
 - "Maraudeurs NONSUP"
 - "epic Maraudeurs NONSUP"
 - "volants Maraudeurs NONSUP"
-- "epic volants Maraudeurs NONSUP"
 - "IMP Maraudeurs NONSUP"
-- "epic IMP Maraudeurs NONSUP"
-- "volants IMP Maraudeurs NONSUP"
 - "Imp-bombardiers Maraudeurs NONSUP"
-- "epic Imp-bombardiers Maraudeurs NONSUP"
-- "volants Imp-bombardiers Maraudeurs NONSUP"
-- "IMP Imp-bombardiers Maraudeurs NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-marauder-vigilant_-_Images_1.jpg> "thumbs_-_epic-scale-marauder-vigilant_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-marauder-vigilant_-_Images_1.avif> "thumbs_-_epic-scale-marauder-vigilant_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-marauder-vigilant_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-marauder-vigilant_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-marauder-vigilant_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-marauder-vigilant_-_ImagesSTL_1.avif")
 
   
 

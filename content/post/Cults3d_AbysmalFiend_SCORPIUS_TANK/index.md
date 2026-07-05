@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > AbysmalFiend > SCORPIUS_TANK [non dl]"
 date: "2023-01-10T13:31:06Z"
 toc: true
-image: "thumbs_-_scorpius-tank_-_Images_1.jpg"
+image: "thumbs_-_scorpius-tank_-_Images_1.avif"
 tags:
 - "AbysmalFiend"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "CUSTODES NONDL"
 - "28mm CUSTODES NONDL"
 - "IMP CUSTODES NONDL"
-- "28mm IMP CUSTODES NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "CUSTODES NONSUP"
 - "28mm CUSTODES NONSUP"
 - "IMP CUSTODES NONSUP"
-- "28mm IMP CUSTODES NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "28mm IMP NONDL NONSUP"
 - "CUSTODES NONDL NONSUP"
-- "28mm CUSTODES NONDL NONSUP"
-- "IMP CUSTODES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_scorpius-tank_-_Images_1.jpg> "thumbs_-_scorpius-tank_-_Images_1.jpg")
+![](<thumbs_-_scorpius-tank_-_Images_1.avif> "thumbs_-_scorpius-tank_-_Images_1.avif")
 
-  ![](<thumbs_-_scorpius-tank_-_Makes_1.jpg> "thumbs_-_scorpius-tank_-_Makes_1.jpg")
+  ![](<thumbs_-_scorpius-tank_-_Makes_1.avif> "thumbs_-_scorpius-tank_-_Makes_1.avif")
 
   
 

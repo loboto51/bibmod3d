@@ -3,7 +3,7 @@
 title: "[GRATUIT] Gumroad > Varus_Miniatures > Dwarf_Miner_Engineer [dl]"
 date: ""
 toc: true
-image: "thumbs_-_Varus_Miniatures-Dwarf_Miner_Engineer_-_Images_1.jpg"
+image: "thumbs_-_Varus_Miniatures_-_Dwarf_Miner_Engineer_-_Images_1.avif"
 tags:
 - "Varus_Miniatures"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_Varus_Miniatures-Dwarf_Miner_Engineer_-_Images_1.jpg> "thumbs_-_Varus_Miniatures-Dwarf_Miner_Engineer_-_Images_1.jpg")
+![](<thumbs_-_Varus_Miniatures_-_Dwarf_Miner_Engineer_-_Images_1.avif> "thumbs_-_Varus_Miniatures_-_Dwarf_Miner_Engineer_-_Images_1.avif")
 
-  ![](<thumbs_-_Varus_Miniatures-Dwarf_Miner_Engineer_-_ImagesSTL_1.jpg> "thumbs_-_Varus_Miniatures-Dwarf_Miner_Engineer_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Varus_Miniatures_-_Dwarf_Miner_Engineer_-_ImagesSTL_1.avif> "thumbs_-_Varus_Miniatures_-_Dwarf_Miner_Engineer_-_ImagesSTL_1.avif")
 
   
 

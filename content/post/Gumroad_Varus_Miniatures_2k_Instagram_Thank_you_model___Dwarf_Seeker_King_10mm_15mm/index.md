@@ -3,7 +3,7 @@
 title: "[GRATUIT] Gumroad > Varus_Miniatures > 2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm [dl]"
 date: ""
 toc: true
-image: "thumbs_-_Varus_Miniatures-2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.jpg"
+image: "thumbs_-_Varus_Miniatures_-_2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.avif"
 tags:
 - "Varus_Miniatures"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_Varus_Miniatures-2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.jpg> "thumbs_-_Varus_Miniatures-2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.jpg")
+![](<thumbs_-_Varus_Miniatures_-_2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.avif> "thumbs_-_Varus_Miniatures_-_2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_Varus_Miniatures-2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_ImagesSTL_1.jpg> "thumbs_-_Varus_Miniatures-2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Varus_Miniatures_-_2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_ImagesSTL_1.avif> "thumbs_-_Varus_Miniatures_-_2k_Instagram_Thank_you_model___Dwarf_Seeker_King_10mm_15mm_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > imitationoflife > 15mm_Fantasy_Sample_Pack [non dl]"
 date: "2025-05-24T06:39:42Z"
 toc: true
-image: "thumbs_-_15mm-fantasy-sample-pack_-_Images_1.jpg"
+image: "thumbs_-_15mm-fantasy-sample-pack_-_Images_1.avif"
 tags:
 - "imitationoflife"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS NONDL"
 - "warmaster HUMAINS NONDL"
 - "EMPIRE HUMAINS NONDL"
-- "warmaster EMPIRE HUMAINS NONDL"
 - "SUP"
 - "warmaster SUP"
 - "EMPIRE SUP"
@@ -28,18 +27,14 @@ tags:
 - "HUMAINS SUP"
 - "warmaster HUMAINS SUP"
 - "EMPIRE HUMAINS SUP"
-- "warmaster EMPIRE HUMAINS SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "EMPIRE NONDL SUP"
-- "warmaster EMPIRE NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "warmaster HUMAINS NONDL SUP"
-- "EMPIRE HUMAINS NONDL SUP"
 
 ---
 
-![](<thumbs_-_15mm-fantasy-sample-pack_-_Images_1.jpg> "thumbs_-_15mm-fantasy-sample-pack_-_Images_1.jpg")
+![](<thumbs_-_15mm-fantasy-sample-pack_-_Images_1.avif> "thumbs_-_15mm-fantasy-sample-pack_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > enfenix > HeroQuest___Chaos_Warrior_with_Crossbow [non dl]"
 date: "2021-06-28T23:20:49Z"
 toc: true
-image: "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.jpg"
+image: "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.avif"
 tags:
 - "enfenix"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.jpg> "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.jpg")
+![](<thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.avif> "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Images_1.avif")
 
-  ![](<thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Makes_1.jpg> "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Makes_1.jpg")
+  ![](<thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Makes_1.avif> "thumbs_-_heroquest-chaos-warrior-with-crossbow_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > edible > Red_Auxiliaries_Urson_Heavy_Fighter [non dl]"
 date: "2023-12-08T20:05:37Z"
 toc: true
-image: "thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.jpg"
+image: "thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.avif"
 tags:
 - "edible"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-chassa-bombas"
 - "epic ORKS Orks-chassa-bombas"
 - "volants ORKS Orks-chassa-bombas"
-- "epic volants ORKS Orks-chassa-bombas"
 - "NONDL"
 - "epic NONDL"
 - "volants NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "volants ORKS NONDL"
-- "epic volants ORKS NONDL"
 - "Orks-chassa-bombas NONDL"
 - "epic Orks-chassa-bombas NONDL"
 - "volants Orks-chassa-bombas NONDL"
-- "epic volants Orks-chassa-bombas NONDL"
 - "ORKS Orks-chassa-bombas NONDL"
-- "epic ORKS Orks-chassa-bombas NONDL"
-- "volants ORKS Orks-chassa-bombas NONDL"
 - "SUP"
 - "epic SUP"
 - "volants SUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "volants ORKS SUP"
-- "epic volants ORKS SUP"
 - "Orks-chassa-bombas SUP"
 - "epic Orks-chassa-bombas SUP"
 - "volants Orks-chassa-bombas SUP"
-- "epic volants Orks-chassa-bombas SUP"
 - "ORKS Orks-chassa-bombas SUP"
-- "epic ORKS Orks-chassa-bombas SUP"
-- "volants ORKS Orks-chassa-bombas SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "volants NONDL SUP"
-- "epic volants NONDL SUP"
 - "ORKS NONDL SUP"
-- "epic ORKS NONDL SUP"
-- "volants ORKS NONDL SUP"
 - "Orks-chassa-bombas NONDL SUP"
-- "epic Orks-chassa-bombas NONDL SUP"
-- "volants Orks-chassa-bombas NONDL SUP"
-- "ORKS Orks-chassa-bombas NONDL SUP"
 
 ---
 
-![](<thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.jpg> "thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.jpg")
+![](<thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.avif> "thumbs_-_red-auxiliaries-urson-heavy-fighter_-_Images_1.avif")
 
   
 

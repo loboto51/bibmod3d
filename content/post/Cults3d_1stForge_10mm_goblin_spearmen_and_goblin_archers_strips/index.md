@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > 1stForge > 10mm_goblin_spearmen_and_goblin_archers_strips [non dl]"
 date: "2021-05-18T08:06:34Z"
 toc: true
-image: "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg"
+image: "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.avif"
 tags:
 - "1stForge"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "warmaster GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg> "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.jpg")
+![](<thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.avif> "thumbs_-_10mm-goblin-spearmen-and-goblin-archers-strips_-_Images_1.avif")
 
   
 

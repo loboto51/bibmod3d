@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tezca > Rat_Ships [non dl]"
 date: "2021-07-26T19:32:45+00:00"
 toc: true
-image: "thumbs_-_4917298_-_Images_1.jpg"
+image: "thumbs_-_4917298_-_Images_1.avif"
 tags:
 - "Tezca"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "manowar SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4917298_-_Images_1.jpg> "thumbs_-_4917298_-_Images_1.jpg")
+![](<thumbs_-_4917298_-_Images_1.avif> "thumbs_-_4917298_-_Images_1.avif")
 
   
 

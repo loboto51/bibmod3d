@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > enfenix > HeroQuest___Wizards_of_Morcar___Necromancer_Fanrax__Repaired_ [non dl]"
 date: "2021-06-28T23:20:36Z"
 toc: true
-image: "thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.jpg"
+image: "thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.avif"
 tags:
 - "enfenix"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.jpg> "thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.jpg")
+![](<thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.avif> "thumbs_-_heroquest-wizards-of-morcar-necromancer-fanrax-repaired_-_Images_1.avif")
 
   
 

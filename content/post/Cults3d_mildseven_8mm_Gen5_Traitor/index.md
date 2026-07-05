@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mildseven > 8mm_Gen5_Traitor [dl]"
 date: "2025-01-30T14:05:37Z"
 toc: true
-image: "thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.jpg"
+image: "thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.avif"
 tags:
 - "mildseven"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-tactiques"
 - "epic SM30K Sm-tactiques"
 - "infanterie SM30K Sm-tactiques"
-- "epic infanterie SM30K Sm-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K SUP"
 - "epic SM30K SUP"
 - "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
 - "Sm-tactiques SUP"
 - "epic Sm-tactiques SUP"
 - "infanterie Sm-tactiques SUP"
-- "epic infanterie Sm-tactiques SUP"
 - "SM30K Sm-tactiques SUP"
-- "epic SM30K Sm-tactiques SUP"
-- "infanterie SM30K Sm-tactiques SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SMC SM-tactiques"
 - "epic SMC SM-tactiques"
 - "infanterie SMC SM-tactiques"
-- "epic infanterie SMC SM-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -58,20 +52,16 @@ tags:
 - "SMC SUP"
 - "epic SMC SUP"
 - "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
 - "SM-tactiques SUP"
 - "epic SM-tactiques SUP"
 - "infanterie SM-tactiques SUP"
-- "epic infanterie SM-tactiques SUP"
 - "SMC SM-tactiques SUP"
-- "epic SMC SM-tactiques SUP"
-- "infanterie SMC SM-tactiques SUP"
 
 ---
 
-![](<thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.jpg> "thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.jpg")
+![](<thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.avif> "thumbs_-_8mm-gen5-traitor-mildseven_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-gen5-traitor-mildseven_-_ImagesSTL_1.jpg> "thumbs_-_8mm-gen5-traitor-mildseven_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-gen5-traitor-mildseven_-_ImagesSTL_1.avif> "thumbs_-_8mm-gen5-traitor-mildseven_-_ImagesSTL_1.avif")
 
   
 

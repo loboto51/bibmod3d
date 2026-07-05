@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Magos_Datasmith_Diodelosus > Female_Variant_Martian_Shock_Troopers [dl]"
 date: "2022-03-12T16:33:04Z"
 toc: true
-image: "thumbs_-_female-variant-martian-shock-troopers_-_Images_1.jpg"
+image: "thumbs_-_female-variant-martian-shock-troopers_-_Images_1.avif"
 tags:
 - "Magos_Datasmith_Diodelosus"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "AM HUMAINS"
 - "28mm AM HUMAINS"
 - "IMP AM HUMAINS"
-- "28mm IMP AM HUMAINS"
 - "Technopretres-et-serviteurs"
 - "28mm Technopretres-et-serviteurs"
 - "IMP Technopretres-et-serviteurs"
@@ -28,14 +27,10 @@ tags:
 - "AM Technopretres-et-serviteurs"
 - "28mm AM Technopretres-et-serviteurs"
 - "IMP AM Technopretres-et-serviteurs"
-- "28mm IMP AM Technopretres-et-serviteurs"
 - "HUMAINS Technopretres-et-serviteurs"
 - "28mm HUMAINS Technopretres-et-serviteurs"
 - "IMP HUMAINS Technopretres-et-serviteurs"
-- "28mm IMP HUMAINS Technopretres-et-serviteurs"
 - "AM HUMAINS Technopretres-et-serviteurs"
-- "28mm AM HUMAINS Technopretres-et-serviteurs"
-- "IMP AM HUMAINS Technopretres-et-serviteurs"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "AM NONSUP"
 - "28mm AM NONSUP"
 - "IMP AM NONSUP"
-- "28mm IMP AM NONSUP"
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "IMP HUMAINS NONSUP"
-- "28mm IMP HUMAINS NONSUP"
 - "AM HUMAINS NONSUP"
-- "28mm AM HUMAINS NONSUP"
-- "IMP AM HUMAINS NONSUP"
 - "Technopretres-et-serviteurs NONSUP"
 - "28mm Technopretres-et-serviteurs NONSUP"
 - "IMP Technopretres-et-serviteurs NONSUP"
-- "28mm IMP Technopretres-et-serviteurs NONSUP"
 - "AM Technopretres-et-serviteurs NONSUP"
-- "28mm AM Technopretres-et-serviteurs NONSUP"
-- "IMP AM Technopretres-et-serviteurs NONSUP"
 - "HUMAINS Technopretres-et-serviteurs NONSUP"
-- "28mm HUMAINS Technopretres-et-serviteurs NONSUP"
-- "IMP HUMAINS Technopretres-et-serviteurs NONSUP"
-- "AM HUMAINS Technopretres-et-serviteurs NONSUP"
 
 ---
 
-![](<thumbs_-_female-variant-martian-shock-troopers_-_Images_1.jpg> "thumbs_-_female-variant-martian-shock-troopers_-_Images_1.jpg")
+![](<thumbs_-_female-variant-martian-shock-troopers_-_Images_1.avif> "thumbs_-_female-variant-martian-shock-troopers_-_Images_1.avif")
 
-  ![](<thumbs_-_female-variant-martian-shock-troopers_-_ImagesSTL_1.jpg> "thumbs_-_female-variant-martian-shock-troopers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_female-variant-martian-shock-troopers_-_ImagesSTL_1.avif> "thumbs_-_female-variant-martian-shock-troopers_-_ImagesSTL_1.avif")
 
   
 

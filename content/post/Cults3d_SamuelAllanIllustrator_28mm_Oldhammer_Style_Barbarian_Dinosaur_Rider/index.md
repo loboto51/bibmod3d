@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > SamuelAllanIllustrator > 28mm_Oldhammer_Style_Barbarian_Dinosaur_Rider [non dl]"
 date: "2024-02-28T12:50:45Z"
 toc: true
-image: "thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.jpg"
+image: "thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.avif"
 tags:
 - "SamuelAllanIllustrator"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-squiggoths"
 - "epic ORKS Orks-squiggoths"
 - "superlourds ORKS Orks-squiggoths"
-- "epic superlourds ORKS Orks-squiggoths"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "superlourds ORKS NONDL"
-- "epic superlourds ORKS NONDL"
 - "Orks-squiggoths NONDL"
 - "epic Orks-squiggoths NONDL"
 - "superlourds Orks-squiggoths NONDL"
-- "epic superlourds Orks-squiggoths NONDL"
 - "ORKS Orks-squiggoths NONDL"
-- "epic ORKS Orks-squiggoths NONDL"
-- "superlourds ORKS Orks-squiggoths NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "superlourds ORKS NONSUP"
-- "epic superlourds ORKS NONSUP"
 - "Orks-squiggoths NONSUP"
 - "epic Orks-squiggoths NONSUP"
 - "superlourds Orks-squiggoths NONSUP"
-- "epic superlourds Orks-squiggoths NONSUP"
 - "ORKS Orks-squiggoths NONSUP"
-- "epic ORKS Orks-squiggoths NONSUP"
-- "superlourds ORKS Orks-squiggoths NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "superlourds ORKS NONDL NONSUP"
 - "Orks-squiggoths NONDL NONSUP"
-- "epic Orks-squiggoths NONDL NONSUP"
-- "superlourds Orks-squiggoths NONDL NONSUP"
-- "ORKS Orks-squiggoths NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.jpg> "thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.jpg")
+![](<thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.avif> "thumbs_-_28mm-oldhammer-style-barbarian-dinosaur-rider_-_Images_1.avif")
 
   
 

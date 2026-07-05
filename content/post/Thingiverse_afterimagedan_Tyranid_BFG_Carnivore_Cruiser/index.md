@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > afterimagedan > Tyranid_BFG_Carnivore_Cruiser [non dl]"
 date: "2020-02-16T04:42:35+00:00"
 toc: true
-image: "thumbs_-_4165624_-_Images_1.jpg"
+image: "thumbs_-_4165624_-_Images_1.avif"
 tags:
 - "afterimagedan"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "TYRANIDES Flotte NONDL"
-- "bfg TYRANIDES Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "TYRANIDES SUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "TYRANIDES Flotte SUP"
-- "bfg TYRANIDES Flotte SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "TYRANIDES NONDL SUP"
-- "bfg TYRANIDES NONDL SUP"
 - "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "TYRANIDES Flotte NONDL SUP"
 
 ---
 
-![](<thumbs_-_4165624_-_Images_1.jpg> "thumbs_-_4165624_-_Images_1.jpg")
+![](<thumbs_-_4165624_-_Images_1.avif> "thumbs_-_4165624_-_Images_1.avif")
 
   
 

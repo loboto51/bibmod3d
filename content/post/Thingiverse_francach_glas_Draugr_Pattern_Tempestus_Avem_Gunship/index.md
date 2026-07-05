@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Draugr_Pattern_Tempestus_Avem_Gunship [dl]"
 date: "2020-11-07T20:50:50+00:00"
 toc: true
-image: "thumbs_-_4646463_-_Images_1.jpg"
+image: "thumbs_-_4646463_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-stormbirds"
 - "epic SMI Sm-stormbirds"
 - "volants SMI Sm-stormbirds"
-- "epic volants SMI Sm-stormbirds"
 - "SUP"
 - "epic SUP"
 - "volants SUP"
@@ -28,22 +27,18 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "volants SMI SUP"
-- "epic volants SMI SUP"
 - "Sm-stormbirds SUP"
 - "epic Sm-stormbirds SUP"
 - "volants Sm-stormbirds SUP"
-- "epic volants Sm-stormbirds SUP"
 - "SMI Sm-stormbirds SUP"
-- "epic SMI Sm-stormbirds SUP"
-- "volants SMI Sm-stormbirds SUP"
 
 ---
 
-![](<thumbs_-_4646463_-_Images_1.jpg> "thumbs_-_4646463_-_Images_1.jpg")
+![](<thumbs_-_4646463_-_Images_1.avif> "thumbs_-_4646463_-_Images_1.avif")
 
-  ![](<thumbs_-_4646463_-_ImagesSTL_1.jpg> "thumbs_-_4646463_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4646463_-_ImagesSTL_1.avif> "thumbs_-_4646463_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4646463_-_Makes_1.jpg> "thumbs_-_4646463_-_Makes_1.jpg")
+  ![](<thumbs_-_4646463_-_Makes_1.avif> "thumbs_-_4646463_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > EpicRich > Epic_Scale_Evil_Marines_Crab_Walker [dl]"
 date: "2021-09-06T13:57:33+00:00"
 toc: true
-image: "thumbs_-_4950761_-_Images_1.jpg"
+image: "thumbs_-_4950761_-_Images_1.avif"
 tags:
 - "EpicRich"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Chaos-defilers"
 - "epic SMC Chaos-defilers"
 - "vehicules SMC Chaos-defilers"
-- "epic vehicules SMC Chaos-defilers"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC SUP"
 - "epic SMC SUP"
 - "vehicules SMC SUP"
-- "epic vehicules SMC SUP"
 - "Chaos-defilers SUP"
 - "epic Chaos-defilers SUP"
 - "vehicules Chaos-defilers SUP"
-- "epic vehicules Chaos-defilers SUP"
 - "SMC Chaos-defilers SUP"
-- "epic SMC Chaos-defilers SUP"
-- "vehicules SMC Chaos-defilers SUP"
 
 ---
 
-![](<thumbs_-_4950761_-_Images_1.jpg> "thumbs_-_4950761_-_Images_1.jpg")
+![](<thumbs_-_4950761_-_Images_1.avif> "thumbs_-_4950761_-_Images_1.avif")
 
-  ![](<thumbs_-_4950761_-_ImagesSTL_1.jpg> "thumbs_-_4950761_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4950761_-_ImagesSTL_1.avif> "thumbs_-_4950761_-_ImagesSTL_1.avif")
 
   
 

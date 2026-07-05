@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > PorbleGames > Citadel [non dl]"
 date: "2026-05-23T16:32:00Z"
 toc: true
-image: "thumbs_-_citadel_-_Images_1.jpg"
+image: "thumbs_-_citadel_-_Images_1.avif"
 tags:
 - "PorbleGames"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-forteresses"
 - "epic ORKS Orks-forteresses"
 - "superlourds ORKS Orks-forteresses"
-- "epic superlourds ORKS Orks-forteresses"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "superlourds ORKS NONDL"
-- "epic superlourds ORKS NONDL"
 - "Orks-forteresses NONDL"
 - "epic Orks-forteresses NONDL"
 - "superlourds Orks-forteresses NONDL"
-- "epic superlourds Orks-forteresses NONDL"
 - "ORKS Orks-forteresses NONDL"
-- "epic ORKS Orks-forteresses NONDL"
-- "superlourds ORKS Orks-forteresses NONDL"
 - "SUP"
 - "epic SUP"
 - "superlourds SUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "superlourds ORKS SUP"
-- "epic superlourds ORKS SUP"
 - "Orks-forteresses SUP"
 - "epic Orks-forteresses SUP"
 - "superlourds Orks-forteresses SUP"
-- "epic superlourds Orks-forteresses SUP"
 - "ORKS Orks-forteresses SUP"
-- "epic ORKS Orks-forteresses SUP"
-- "superlourds ORKS Orks-forteresses SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "superlourds NONDL SUP"
-- "epic superlourds NONDL SUP"
 - "ORKS NONDL SUP"
-- "epic ORKS NONDL SUP"
-- "superlourds ORKS NONDL SUP"
 - "Orks-forteresses NONDL SUP"
-- "epic Orks-forteresses NONDL SUP"
-- "superlourds Orks-forteresses NONDL SUP"
-- "ORKS Orks-forteresses NONDL SUP"
 
 ---
 
-![](<thumbs_-_citadel_-_Images_1.jpg> "thumbs_-_citadel_-_Images_1.jpg")
+![](<thumbs_-_citadel_-_Images_1.avif> "thumbs_-_citadel_-_Images_1.avif")
 
   
 

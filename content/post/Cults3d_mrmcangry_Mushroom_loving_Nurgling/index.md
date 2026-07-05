@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mrmcangry > Mushroom_loving_Nurgling [non dl]"
 date: "2020-03-06T15:18:01Z"
 toc: true
-image: "thumbs_-_mushroom-loving-nurgling_-_Images_1.jpg"
+image: "thumbs_-_mushroom-loving-nurgling_-_Images_1.avif"
 tags:
 - "mrmcangry"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_mushroom-loving-nurgling_-_Images_1.jpg> "thumbs_-_mushroom-loving-nurgling_-_Images_1.jpg")
+![](<thumbs_-_mushroom-loving-nurgling_-_Images_1.avif> "thumbs_-_mushroom-loving-nurgling_-_Images_1.avif")
 
-  ![](<thumbs_-_mushroom-loving-nurgling_-_Makes_1.jpg> "thumbs_-_mushroom-loving-nurgling_-_Makes_1.jpg")
+  ![](<thumbs_-_mushroom-loving-nurgling_-_Makes_1.avif> "thumbs_-_mushroom-loving-nurgling_-_Makes_1.avif")
 
   
 

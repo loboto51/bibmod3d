@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mz4250 > Vine_Troll_Skeleton [non dl]"
 date: "2024-10-16T17:42:42Z"
 toc: true
-image: "thumbs_-_vine-troll-skeleton_-_Images_1.jpg"
+image: "thumbs_-_vine-troll-skeleton_-_Images_1.avif"
 tags:
 - "mz4250"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_vine-troll-skeleton_-_Images_1.jpg> "thumbs_-_vine-troll-skeleton_-_Images_1.jpg")
+![](<thumbs_-_vine-troll-skeleton_-_Images_1.avif> "thumbs_-_vine-troll-skeleton_-_Images_1.avif")
 
   
 

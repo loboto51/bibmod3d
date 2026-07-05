@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblins_Snotling_Pump_Wagon [dl]"
 date: "2024-08-14T14:34:54+00:00"
 toc: true
-image: "thumbs_-_6730414_-_Images_1.jpg"
+image: "thumbs_-_6730414_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_6730414_-_Images_1.jpg> "thumbs_-_6730414_-_Images_1.jpg")
+![](<thumbs_-_6730414_-_Images_1.avif> "thumbs_-_6730414_-_Images_1.avif")
 
-  ![](<thumbs_-_6730414_-_ImagesSTL_1.jpg> "thumbs_-_6730414_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6730414_-_ImagesSTL_1.avif> "thumbs_-_6730414_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6730414_-_Makes_1.jpg> "thumbs_-_6730414_-_Makes_1.jpg")
+  ![](<thumbs_-_6730414_-_Makes_1.avif> "thumbs_-_6730414_-_Makes_1.avif")
 
   
 

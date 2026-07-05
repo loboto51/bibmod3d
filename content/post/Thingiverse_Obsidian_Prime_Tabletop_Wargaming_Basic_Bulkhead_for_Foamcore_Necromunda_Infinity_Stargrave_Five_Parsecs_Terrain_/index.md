@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Obsidian_Prime > Tabletop_Wargaming_Basic_Bulkhead_for_Foamcore_Necromunda_Infinity_Stargrave_Five_Parsecs_Terrain_ [non dl]"
 date: "2021-09-06T18:49:37+00:00"
 toc: true
-image: "thumbs_-_4950937_-_Images_1.jpg"
+image: "thumbs_-_4950937_-_Images_1.avif"
 tags:
 - "Obsidian_Prime"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "necromunda decors NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4950937_-_Images_1.jpg> "thumbs_-_4950937_-_Images_1.jpg")
+![](<thumbs_-_4950937_-_Images_1.avif> "thumbs_-_4950937_-_Images_1.avif")
 
   
 

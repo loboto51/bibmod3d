@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > MODERN_HEADS_COMPATIBLE_WITH_THE_ORIGINAL_WARRIOR [non dl]"
 date: "2023-10-24T20:44:00Z"
 toc: true
-image: "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.jpg"
+image: "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.jpg> "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.jpg")
+![](<thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.avif> "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Images_1.avif")
 
-  ![](<thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Makes_1.jpg> "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Makes_1.jpg")
+  ![](<thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Makes_1.avif> "thumbs_-_modern-heads-compatible-with-the-original-warrior_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > thebrade1 > Demon_Helm_2 [non dl]"
 date: "2026-06-20T13:12:23+00:00"
 toc: true
-image: "thumbs_-_7372353_-_Images_1.jpg"
+image: "thumbs_-_7372353_-_Images_1.avif"
 tags:
 - "thebrade1"
 - "turnip28"
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![](<thumbs_-_7372353_-_Images_1.jpg> "thumbs_-_7372353_-_Images_1.jpg")
+![](<thumbs_-_7372353_-_Images_1.avif> "thumbs_-_7372353_-_Images_1.avif")
 
   
 

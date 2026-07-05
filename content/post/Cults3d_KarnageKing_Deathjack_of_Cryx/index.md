@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KarnageKing > Deathjack_of_Cryx [non dl]"
 date: "2020-09-04T07:25:39Z"
 toc: true
-image: "thumbs_-_deathjack-of-cryx_-_Images_1.jpg"
+image: "thumbs_-_deathjack-of-cryx_-_Images_1.avif"
 tags:
 - "KarnageKing"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Admech-titans-warlords"
 - "epic CHAOS Admech-titans-warlords"
 - "titans CHAOS Admech-titans-warlords"
-- "epic titans CHAOS Admech-titans-warlords"
 - "NONDL"
 - "epic NONDL"
 - "titans NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NONDL"
 - "epic CHAOS NONDL"
 - "titans CHAOS NONDL"
-- "epic titans CHAOS NONDL"
 - "Admech-titans-warlords NONDL"
 - "epic Admech-titans-warlords NONDL"
 - "titans Admech-titans-warlords NONDL"
-- "epic titans Admech-titans-warlords NONDL"
 - "CHAOS Admech-titans-warlords NONDL"
-- "epic CHAOS Admech-titans-warlords NONDL"
-- "titans CHAOS Admech-titans-warlords NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "titans CHAOS NONSUP"
-- "epic titans CHAOS NONSUP"
 - "Admech-titans-warlords NONSUP"
 - "epic Admech-titans-warlords NONSUP"
 - "titans Admech-titans-warlords NONSUP"
-- "epic titans Admech-titans-warlords NONSUP"
 - "CHAOS Admech-titans-warlords NONSUP"
-- "epic CHAOS Admech-titans-warlords NONSUP"
-- "titans CHAOS Admech-titans-warlords NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
-- "epic titans NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "epic CHAOS NONDL NONSUP"
-- "titans CHAOS NONDL NONSUP"
 - "Admech-titans-warlords NONDL NONSUP"
-- "epic Admech-titans-warlords NONDL NONSUP"
-- "titans Admech-titans-warlords NONDL NONSUP"
-- "CHAOS Admech-titans-warlords NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_deathjack-of-cryx_-_Images_1.jpg> "thumbs_-_deathjack-of-cryx_-_Images_1.jpg")
+![](<thumbs_-_deathjack-of-cryx_-_Images_1.avif> "thumbs_-_deathjack-of-cryx_-_Images_1.avif")
 
-  ![](<thumbs_-_deathjack-of-cryx_-_Makes_1.jpg> "thumbs_-_deathjack-of-cryx_-_Makes_1.jpg")
+  ![](<thumbs_-_deathjack-of-cryx_-_Makes_1.avif> "thumbs_-_deathjack-of-cryx_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Fancy_Guard [dl]"
 date: "2025-02-01T17:08:38Z"
 toc: true
-image: "thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.jpg"
+image: "thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-terminators"
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
-- "epic infanterie SMC Sm-terminators"
 - "SLAANESH"
 - "epic SLAANESH"
 - "infanterie SLAANESH"
@@ -28,14 +27,10 @@ tags:
 - "SMC SLAANESH"
 - "epic SMC SLAANESH"
 - "infanterie SMC SLAANESH"
-- "epic infanterie SMC SLAANESH"
 - "Sm-terminators SLAANESH"
 - "epic Sm-terminators SLAANESH"
 - "infanterie Sm-terminators SLAANESH"
-- "epic infanterie Sm-terminators SLAANESH"
 - "SMC Sm-terminators SLAANESH"
-- "epic SMC Sm-terminators SLAANESH"
-- "infanterie SMC Sm-terminators SLAANESH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SMC Sm-terminators NONSUP"
-- "epic SMC Sm-terminators NONSUP"
-- "infanterie SMC Sm-terminators NONSUP"
 - "SLAANESH NONSUP"
 - "epic SLAANESH NONSUP"
 - "infanterie SLAANESH NONSUP"
-- "epic infanterie SLAANESH NONSUP"
 - "SMC SLAANESH NONSUP"
-- "epic SMC SLAANESH NONSUP"
-- "infanterie SMC SLAANESH NONSUP"
 - "Sm-terminators SLAANESH NONSUP"
-- "epic Sm-terminators SLAANESH NONSUP"
-- "infanterie Sm-terminators SLAANESH NONSUP"
-- "SMC Sm-terminators SLAANESH NONSUP"
 
 ---
 
-![](<thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.jpg> "thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.jpg")
+![](<thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.avif> "thumbs_-_fancy-guard-a31171930542ba349130_-_Images_1.avif")
 
-  ![](<thumbs_-_fancy-guard-a31171930542ba349130_-_ImagesSTL_1.jpg> "thumbs_-_fancy-guard-a31171930542ba349130_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_fancy-guard-a31171930542ba349130_-_ImagesSTL_1.avif> "thumbs_-_fancy-guard-a31171930542ba349130_-_ImagesSTL_1.avif")
 
   
 

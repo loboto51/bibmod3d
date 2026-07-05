@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lstar > StarBases_Basics___Epic_25mm_Round_Bases [non dl]"
 date: "2023-07-27T12:49:47Z"
 toc: true
-image: "thumbs_-_epic-25mm-round-bases-supported_-_Images_1.jpg"
+image: "thumbs_-_epic-25mm-round-bases-supported_-_Images_1.avif"
 tags:
 - "lstar"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "SUP"
 - "epic SUP"
 - "SOCLES SUP"
@@ -28,20 +27,16 @@ tags:
 - "DIVERS SUP"
 - "epic DIVERS SUP"
 - "SOCLES DIVERS SUP"
-- "epic SOCLES DIVERS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "SOCLES NONDL SUP"
-- "epic SOCLES NONDL SUP"
 - "DIVERS NONDL SUP"
-- "epic DIVERS NONDL SUP"
-- "SOCLES DIVERS NONDL SUP"
 
 ---
 
-![](<thumbs_-_epic-25mm-round-bases-supported_-_Images_1.jpg> "thumbs_-_epic-25mm-round-bases-supported_-_Images_1.jpg")
+![](<thumbs_-_epic-25mm-round-bases-supported_-_Images_1.avif> "thumbs_-_epic-25mm-round-bases-supported_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-25mm-round-bases-supported_-_Makes_1.jpg> "thumbs_-_epic-25mm-round-bases-supported_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-25mm-round-bases-supported_-_Makes_1.avif> "thumbs_-_epic-25mm-round-bases-supported_-_Makes_1.avif")
 
   
 

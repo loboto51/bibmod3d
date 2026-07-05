@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MGL89DK > Tau___Kroot_Warsphere [dl]"
 date: "2019-01-10T20:55:55+00:00"
 toc: true
-image: "thumbs_-_3347358_-_Images_1.jpg"
+image: "thumbs_-_3347358_-_Images_1.avif"
 tags:
 - "MGL89DK"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "TAU Flotte NONSUP"
-- "bfg TAU Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3347358_-_Images_1.jpg> "thumbs_-_3347358_-_Images_1.jpg")
+![](<thumbs_-_3347358_-_Images_1.avif> "thumbs_-_3347358_-_Images_1.avif")
 
-  ![](<thumbs_-_3347358_-_ImagesSTL_1.jpg> "thumbs_-_3347358_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3347358_-_ImagesSTL_1.avif> "thumbs_-_3347358_-_ImagesSTL_1.avif")
 
   
 

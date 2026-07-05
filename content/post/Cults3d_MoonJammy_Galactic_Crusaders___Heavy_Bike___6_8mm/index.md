@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MoonJammy > Galactic_Crusaders___Heavy_Bike___6_8mm [dl]"
 date: "2020-11-05T18:11:06Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.avif"
 tags:
 - "MoonJammy"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-motos"
 - "epic SMI Sm-motos"
 - "infanterie SMI Sm-motos"
-- "epic infanterie SMI Sm-motos"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Sm-motos SUP"
 - "epic Sm-motos SUP"
 - "infanterie Sm-motos SUP"
-- "epic infanterie Sm-motos SUP"
 - "SMI Sm-motos SUP"
-- "epic SMI Sm-motos SUP"
-- "infanterie SMI Sm-motos SUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.jpg> "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.avif> "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-heavy-bike-6-8mm_-_ImagesSTL_1.avif")
 
   
 

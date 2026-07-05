@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > moonsaber > Crested_Big_Alien_Heads [non dl]"
 date: "2025-06-17T20:33:12Z"
 toc: true
-image: "thumbs_-_crested-big-alien-heads_-_Images_1.jpg"
+image: "thumbs_-_crested-big-alien-heads_-_Images_1.avif"
 tags:
 - "moonsaber"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_crested-big-alien-heads_-_Images_1.jpg> "thumbs_-_crested-big-alien-heads_-_Images_1.jpg")
+![](<thumbs_-_crested-big-alien-heads_-_Images_1.avif> "thumbs_-_crested-big-alien-heads_-_Images_1.avif")
 
   
 

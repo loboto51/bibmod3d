@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Alario > The_Village_of_the_Knights___x6_Houses [non dl]"
 date: "2025-02-28T08:10:22Z"
 toc: true
-image: "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg"
+image: "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.avif"
 tags:
 - "Alario"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Decors-village-medieval NONDL"
 - "warmaster Decors-village-medieval NONDL"
 - "decors Decors-village-medieval NONDL"
-- "warmaster decors Decors-village-medieval NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "decors NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Decors-village-medieval NONSUP"
 - "warmaster Decors-village-medieval NONSUP"
 - "decors Decors-village-medieval NONSUP"
-- "warmaster decors Decors-village-medieval NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "warmaster decors NONDL NONSUP"
 - "Decors-village-medieval NONDL NONSUP"
-- "warmaster Decors-village-medieval NONDL NONSUP"
-- "decors Decors-village-medieval NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg> "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.jpg")
+![](<thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.avif> "thumbs_-_the-village-of-the-knights-x6-houses_-_Images_1.avif")
 
   
 

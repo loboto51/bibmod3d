@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > InspectorSnacc > Space_Dwarf_Epsilon_Base_helmet [non dl]"
 date: "2024-11-22T04:46:26Z"
 toc: true
-image: "thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.jpg"
+image: "thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.avif"
 tags:
 - "InspectorSnacc"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.jpg> "thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.jpg")
+![](<thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.avif> "thumbs_-_space-dwarf-epsilon-base-helmet_-_Images_1.avif")
 
   
 

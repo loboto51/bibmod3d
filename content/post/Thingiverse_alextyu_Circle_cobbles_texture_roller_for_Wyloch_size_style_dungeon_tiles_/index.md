@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > alextyu > Circle_cobbles_texture_roller_for_Wyloch_size_style_dungeon_tiles_ [non dl]"
 date: "2018-11-06T16:39:35+00:00"
 toc: true
-image: "thumbs_-_3199335_-_Images_1.jpg"
+image: "thumbs_-_3199335_-_Images_1.avif"
 tags:
 - "alextyu"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3199335_-_Images_1.jpg> "thumbs_-_3199335_-_Images_1.jpg")
+![](<thumbs_-_3199335_-_Images_1.avif> "thumbs_-_3199335_-_Images_1.avif")
 
   
 

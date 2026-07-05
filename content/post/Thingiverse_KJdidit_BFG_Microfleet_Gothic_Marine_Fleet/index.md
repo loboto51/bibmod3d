@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KJdidit > BFG_Microfleet_Gothic_Marine_Fleet [dl]"
 date: "2020-06-14T02:26:41+00:00"
 toc: true
-image: "thumbs_-_4459464_-_Images_1.jpg"
+image: "thumbs_-_4459464_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4459464_-_Images_1.jpg> "thumbs_-_4459464_-_Images_1.jpg")
+![](<thumbs_-_4459464_-_Images_1.avif> "thumbs_-_4459464_-_Images_1.avif")
 
-  ![](<thumbs_-_4459464_-_ImagesSTL_1.jpg> "thumbs_-_4459464_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4459464_-_ImagesSTL_1.avif> "thumbs_-_4459464_-_ImagesSTL_1.avif")
 
   
 

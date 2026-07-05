@@ -1,32 +1,26 @@
 
 ---
-title: "[GRATUIT] Cults3d > Nedius > Soul_Stealer_Purestrain___Poseable_arms [non dl]"
+title: "[GRATUIT] Cults3d > Nedius > Soul_Stealer_Purestrain___Poseable_arms [dl]"
 date: "2023-12-08T16:28:29Z"
 toc: true
-image: "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.jpg"
+image: "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.avif"
 tags:
 - "Nedius"
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TYRANIDES NONSUP"
 - "28mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.jpg> "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.jpg")
+![](<thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.avif> "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Images_1.avif")
 
-  ![](<thumbs_-_soul-stealer-purestrain-poseable-arms_-_Makes_1.jpg> "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Makes_1.jpg")
+  ![](<thumbs_-_soul-stealer-purestrain-poseable-arms_-_ImagesSTL_1.avif> "thumbs_-_soul-stealer-purestrain-poseable-arms_-_ImagesSTL_1.avif")
+
+  ![](<thumbs_-_soul-stealer-purestrain-poseable-arms_-_Makes_1.avif> "thumbs_-_soul-stealer-purestrain-poseable-arms_-_Makes_1.avif")
 
   
 
@@ -43,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES   NONSUP
 
 
 Description :

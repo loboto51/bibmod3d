@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Mouseling_druid_FDM_supportless [non dl]"
 date: "2025-09-16T21:37:34+00:00"
 toc: true
-image: "thumbs_-_7147415_-_Images_1.jpg"
+image: "thumbs_-_7147415_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7147415_-_Images_1.jpg> "thumbs_-_7147415_-_Images_1.jpg")
+![](<thumbs_-_7147415_-_Images_1.avif> "thumbs_-_7147415_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mewiththeface > Epic_Lictor [dl]"
 date: "2020-07-07T10:54:08Z"
 toc: true
-image: "thumbs_-_epic-lictor_-_Images_1.jpg"
+image: "thumbs_-_epic-lictor_-_Images_1.avif"
 tags:
 - "mewiththeface"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES Tyranides-lictors"
 - "epic TYRANIDES Tyranides-lictors"
 - "infanterie TYRANIDES Tyranides-lictors"
-- "epic infanterie TYRANIDES Tyranides-lictors"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "infanterie TYRANIDES NONSUP"
-- "epic infanterie TYRANIDES NONSUP"
 - "Tyranides-lictors NONSUP"
 - "epic Tyranides-lictors NONSUP"
 - "infanterie Tyranides-lictors NONSUP"
-- "epic infanterie Tyranides-lictors NONSUP"
 - "TYRANIDES Tyranides-lictors NONSUP"
-- "epic TYRANIDES Tyranides-lictors NONSUP"
-- "infanterie TYRANIDES Tyranides-lictors NONSUP"
 
 ---
 
-![](<thumbs_-_epic-lictor_-_Images_1.jpg> "thumbs_-_epic-lictor_-_Images_1.jpg")
+![](<thumbs_-_epic-lictor_-_Images_1.avif> "thumbs_-_epic-lictor_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-lictor_-_ImagesSTL_1.jpg> "thumbs_-_epic-lictor_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-lictor_-_ImagesSTL_1.avif> "thumbs_-_epic-lictor_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Hotstuff > Oozhu_Grand_Duc_of_Hashoot [non dl]"
 date: "2023-07-19T20:37:12Z"
 toc: true
-image: "thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.jpg"
+image: "thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.avif"
 tags:
 - "Hotstuff"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "28mm NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.jpg> "thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.jpg")
+![](<thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.avif> "thumbs_-_oozhu-grand-duc-of-hashoot_-_Images_1.avif")
 
   
 

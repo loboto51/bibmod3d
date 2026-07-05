@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Artael > Space_robot_necron_lord_destroyer__PRE_SUPPORTED [dl]"
 date: "2023-07-30T10:25:52Z"
 toc: true
-image: "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg"
+image: "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.avif"
 tags:
 - "Artael"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.jpg")
+![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.avif> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_Images_1.avif")
 
-  ![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.jpg> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.avif> "thumbs_-_necron-lord-destroyer-lord-customizable-with-supports-included_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > dantigibus > EPIQUE_buildings_for_greenskins [non dl]"
 date: "2026-03-12T13:40:53Z"
 toc: true
-image: "thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.jpg"
+image: "thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.avif"
 tags:
 - "dantigibus"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "decors ORKS NONDL"
-- "epic decors ORKS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "decors ORKS NONSUP"
-- "epic decors ORKS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "decors ORKS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.jpg> "thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.jpg")
+![](<thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.avif> "thumbs_-_batiments-epique-pour-peaux-vertes_-_Images_1.avif")
 
-  ![](<thumbs_-_batiments-epique-pour-peaux-vertes_-_Makes_1.jpg> "thumbs_-_batiments-epique-pour-peaux-vertes_-_Makes_1.jpg")
+  ![](<thumbs_-_batiments-epique-pour-peaux-vertes_-_Makes_1.avif> "thumbs_-_batiments-epique-pour-peaux-vertes_-_Makes_1.avif")
 
   
 

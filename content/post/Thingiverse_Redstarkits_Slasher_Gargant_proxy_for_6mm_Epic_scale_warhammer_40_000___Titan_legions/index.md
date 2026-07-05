@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Redstarkits > Slasher_Gargant_proxy_for_6mm_Epic_scale_warhammer_40_000___Titan_legions [non dl]"
 date: "2018-11-12T11:05:48+00:00"
 toc: true
-image: "thumbs_-_3210731_-_Images_1.jpg"
+image: "thumbs_-_3210731_-_Images_1.avif"
 tags:
 - "Redstarkits"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-gargants"
 - "epic ORKS Orks-gargants"
 - "titans ORKS Orks-gargants"
-- "epic titans ORKS Orks-gargants"
 - "NONDL"
 - "epic NONDL"
 - "titans NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "titans ORKS NONDL"
-- "epic titans ORKS NONDL"
 - "Orks-gargants NONDL"
 - "epic Orks-gargants NONDL"
 - "titans Orks-gargants NONDL"
-- "epic titans Orks-gargants NONDL"
 - "ORKS Orks-gargants NONDL"
-- "epic ORKS Orks-gargants NONDL"
-- "titans ORKS Orks-gargants NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "titans ORKS NONSUP"
-- "epic titans ORKS NONSUP"
 - "Orks-gargants NONSUP"
 - "epic Orks-gargants NONSUP"
 - "titans Orks-gargants NONSUP"
-- "epic titans Orks-gargants NONSUP"
 - "ORKS Orks-gargants NONSUP"
-- "epic ORKS Orks-gargants NONSUP"
-- "titans ORKS Orks-gargants NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
-- "epic titans NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "titans ORKS NONDL NONSUP"
 - "Orks-gargants NONDL NONSUP"
-- "epic Orks-gargants NONDL NONSUP"
-- "titans Orks-gargants NONDL NONSUP"
-- "ORKS Orks-gargants NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3210731_-_Images_1.jpg> "thumbs_-_3210731_-_Images_1.jpg")
+![](<thumbs_-_3210731_-_Images_1.avif> "thumbs_-_3210731_-_Images_1.avif")
 
-  ![](<thumbs_-_3210731_-_Makes_1.jpg> "thumbs_-_3210731_-_Makes_1.jpg")
+  ![](<thumbs_-_3210731_-_Makes_1.avif> "thumbs_-_3210731_-_Makes_1.avif")
 
   
 

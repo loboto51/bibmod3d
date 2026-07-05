@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Base_Department > Epic_Bug_Knights [dl]"
 date: "2023-07-10T20:01:43Z"
 toc: true
-image: "thumbs_-_epic-bug-knights_-_Images_1.jpg"
+image: "thumbs_-_epic-bug-knights_-_Images_1.avif"
 tags:
 - "Base_Department"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES Tyranides-Guerriers"
 - "epic TYRANIDES Tyranides-Guerriers"
 - "infanterie TYRANIDES Tyranides-Guerriers"
-- "epic infanterie TYRANIDES Tyranides-Guerriers"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "infanterie TYRANIDES NONSUP"
-- "epic infanterie TYRANIDES NONSUP"
 - "Tyranides-Guerriers NONSUP"
 - "epic Tyranides-Guerriers NONSUP"
 - "infanterie Tyranides-Guerriers NONSUP"
-- "epic infanterie Tyranides-Guerriers NONSUP"
 - "TYRANIDES Tyranides-Guerriers NONSUP"
-- "epic TYRANIDES Tyranides-Guerriers NONSUP"
-- "infanterie TYRANIDES Tyranides-Guerriers NONSUP"
 
 ---
 
-![](<thumbs_-_epic-bug-knights_-_Images_1.jpg> "thumbs_-_epic-bug-knights_-_Images_1.jpg")
+![](<thumbs_-_epic-bug-knights_-_Images_1.avif> "thumbs_-_epic-bug-knights_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-bug-knights_-_ImagesSTL_1.jpg> "thumbs_-_epic-bug-knights_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-bug-knights_-_ImagesSTL_1.avif> "thumbs_-_epic-bug-knights_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_epic-bug-knights_-_Makes_1.jpg> "thumbs_-_epic-bug-knights_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-bug-knights_-_Makes_1.avif> "thumbs_-_epic-bug-knights_-_Makes_1.avif")
 
   
 

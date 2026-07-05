@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Disordered_Galactic_Crusaders_Tactical [dl]"
 date: "2024-06-02T20:10:41Z"
 toc: true
-image: "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.jpg"
+image: "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC SM-tactiques"
 - "epic SMC SM-tactiques"
 - "infanterie SMC SM-tactiques"
-- "epic infanterie SMC SM-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,24 +27,20 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "SM-tactiques NONSUP"
 - "epic SM-tactiques NONSUP"
 - "infanterie SM-tactiques NONSUP"
-- "epic infanterie SM-tactiques NONSUP"
 - "SMC SM-tactiques NONSUP"
-- "epic SMC SM-tactiques NONSUP"
-- "infanterie SMC SM-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.jpg> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.jpg")
+![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.avif> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_Images_1.avif")
 
-  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_1.jpg> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_1.avif> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_2.jpg> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_2.avif> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_3.jpg> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_3.avif> "thumbs_-_disordered-galactic-crusaders-tactical-3e587f52aad20599ac4c_-_ImagesSTL_3.avif")
 
   
 

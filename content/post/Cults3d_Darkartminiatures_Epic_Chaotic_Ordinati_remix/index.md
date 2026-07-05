@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Darkartminiatures > Epic_Chaotic_Ordinati_remix [dl]"
 date: "2023-10-24T19:16:42Z"
 toc: true
-image: "thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.jpg"
+image: "thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.avif"
 tags:
 - "Darkartminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Admech-ordinatus"
 - "epic CHAOS Admech-ordinatus"
 - "superlourds CHAOS Admech-ordinatus"
-- "epic superlourds CHAOS Admech-ordinatus"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "superlourds CHAOS NONSUP"
-- "epic superlourds CHAOS NONSUP"
 - "Admech-ordinatus NONSUP"
 - "epic Admech-ordinatus NONSUP"
 - "superlourds Admech-ordinatus NONSUP"
-- "epic superlourds Admech-ordinatus NONSUP"
 - "CHAOS Admech-ordinatus NONSUP"
-- "epic CHAOS Admech-ordinatus NONSUP"
-- "superlourds CHAOS Admech-ordinatus NONSUP"
 
 ---
 
-![](<thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.jpg> "thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.jpg")
+![](<thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.avif> "thumbs_-_epic-chaotic-ordinati-remix_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-chaotic-ordinati-remix_-_ImagesSTL_1.jpg> "thumbs_-_epic-chaotic-ordinati-remix_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-chaotic-ordinati-remix_-_ImagesSTL_1.avif> "thumbs_-_epic-chaotic-ordinati-remix_-_ImagesSTL_1.avif")
 
   
 

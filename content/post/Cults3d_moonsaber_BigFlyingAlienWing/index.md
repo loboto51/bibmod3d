@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > moonsaber > BigFlyingAlienWing [non dl]"
 date: "2025-05-22T00:40:03Z"
 toc: true
-image: "thumbs_-_bigflyingalienwing_-_Images_1.jpg"
+image: "thumbs_-_bigflyingalienwing_-_Images_1.avif"
 tags:
 - "moonsaber"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bigflyingalienwing_-_Images_1.jpg> "thumbs_-_bigflyingalienwing_-_Images_1.jpg")
+![](<thumbs_-_bigflyingalienwing_-_Images_1.avif> "thumbs_-_bigflyingalienwing_-_Images_1.avif")
 
   
 

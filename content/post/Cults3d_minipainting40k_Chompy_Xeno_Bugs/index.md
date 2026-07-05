@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > minipainting40k > Chompy_Xeno_Bugs [non dl]"
 date: "2026-06-20T00:09:24Z"
 toc: true
-image: "thumbs_-_chompy-xeno-bugs_-_Images_1.jpg"
+image: "thumbs_-_chompy-xeno-bugs_-_Images_1.avif"
 tags:
 - "minipainting40k"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_chompy-xeno-bugs_-_Images_1.jpg> "thumbs_-_chompy-xeno-bugs_-_Images_1.jpg")
+![](<thumbs_-_chompy-xeno-bugs_-_Images_1.avif> "thumbs_-_chompy-xeno-bugs_-_Images_1.avif")
 
   
 

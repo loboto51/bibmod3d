@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Nedius > PLAGUE_RIDDEN_MAN_OF_WAR_SAILING_SHIP [non dl]"
 date: "2023-05-29T09:54:52+00:00"
 toc: true
-image: "thumbs_-_6050964_-_Images_1.jpg"
+image: "thumbs_-_6050964_-_Images_1.avif"
 tags:
 - "Nedius"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "manowar CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6050964_-_Images_1.jpg> "thumbs_-_6050964_-_Images_1.jpg")
+![](<thumbs_-_6050964_-_Images_1.avif> "thumbs_-_6050964_-_Images_1.avif")
 
   
 

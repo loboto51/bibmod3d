@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > FroglinMiniatures > Goblin_ [non dl]"
 date: "2020-01-19T11:54:35+00:00"
 toc: true
-image: "thumbs_-_4112975_-_Images_1.jpg"
+image: "thumbs_-_4112975_-_Images_1.avif"
 tags:
 - "FroglinMiniatures"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "28mm GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4112975_-_Images_1.jpg> "thumbs_-_4112975_-_Images_1.jpg")
+![](<thumbs_-_4112975_-_Images_1.avif> "thumbs_-_4112975_-_Images_1.avif")
 
-  ![](<thumbs_-_4112975_-_Makes_1.jpg> "thumbs_-_4112975_-_Makes_1.jpg")
+  ![](<thumbs_-_4112975_-_Makes_1.avif> "thumbs_-_4112975_-_Makes_1.avif")
 
   
 

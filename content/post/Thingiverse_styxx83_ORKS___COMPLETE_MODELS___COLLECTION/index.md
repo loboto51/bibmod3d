@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > styxx83 > ORKS___COMPLETE_MODELS___COLLECTION [dl]"
 date: "2020-05-18T19:42:06+00:00"
 toc: true
-image: "thumbs_-_4375538_-_Images_1.jpg"
+image: "thumbs_-_4375538_-_Images_1.avif"
 tags:
 - "styxx83"
 - "bfg"
@@ -20,15 +20,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4375538_-_Images_1.jpg> "thumbs_-_4375538_-_Images_1.jpg")
+![](<thumbs_-_4375538_-_Images_1.avif> "thumbs_-_4375538_-_Images_1.avif")
 
-  ![](<thumbs_-_4375538_-_ImagesSTL_1.jpg> "thumbs_-_4375538_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4375538_-_ImagesSTL_1.avif> "thumbs_-_4375538_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4375538_-_Makes_1.jpg> "thumbs_-_4375538_-_Makes_1.jpg")
+  ![](<thumbs_-_4375538_-_Makes_1.avif> "thumbs_-_4375538_-_Makes_1.avif")
 
   
 

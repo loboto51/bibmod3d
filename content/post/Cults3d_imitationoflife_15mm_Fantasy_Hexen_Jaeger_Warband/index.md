@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > imitationoflife > 15mm_Fantasy_Hexen_Jaeger_Warband [non dl]"
 date: "2025-12-26T11:37:43Z"
 toc: true
-image: "thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.jpg"
+image: "thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.avif"
 tags:
 - "imitationoflife"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "Mordheim NONDL"
 - "15mm Mordheim NONDL"
 - "HUMAINS Mordheim NONDL"
-- "15mm HUMAINS Mordheim NONDL"
 - "SUP"
 - "15mm SUP"
 - "HUMAINS SUP"
@@ -28,18 +27,14 @@ tags:
 - "Mordheim SUP"
 - "15mm Mordheim SUP"
 - "HUMAINS Mordheim SUP"
-- "15mm HUMAINS Mordheim SUP"
 - "NONDL SUP"
 - "15mm NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "15mm HUMAINS NONDL SUP"
 - "Mordheim NONDL SUP"
-- "15mm Mordheim NONDL SUP"
-- "HUMAINS Mordheim NONDL SUP"
 
 ---
 
-![](<thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.jpg> "thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.jpg")
+![](<thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.avif> "thumbs_-_15mm-fantasy-hexen-jaeger-warband-imitationoflife_-_Images_1.avif")
 
   
 

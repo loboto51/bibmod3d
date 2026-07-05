@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > dedareaper > Necron_Scarab [dl]"
 date: "2026-04-12T19:53:27Z"
 toc: true
-image: "thumbs_-_necron-scarab-dedareaper_-_Images_1.jpg"
+image: "thumbs_-_necron-scarab-dedareaper_-_Images_1.avif"
 tags:
 - "dedareaper"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_necron-scarab-dedareaper_-_Images_1.jpg> "thumbs_-_necron-scarab-dedareaper_-_Images_1.jpg")
+![](<thumbs_-_necron-scarab-dedareaper_-_Images_1.avif> "thumbs_-_necron-scarab-dedareaper_-_Images_1.avif")
 
-  ![](<thumbs_-_necron-scarab-dedareaper_-_ImagesSTL_1.jpg> "thumbs_-_necron-scarab-dedareaper_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_necron-scarab-dedareaper_-_ImagesSTL_1.avif> "thumbs_-_necron-scarab-dedareaper_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > louiskim92 > bloody_lesser_demon [non dl]"
 date: "2020-07-24T00:15:51Z"
 toc: true
-image: "thumbs_-_bloody-lesser-demon_-_Images_1.jpg"
+image: "thumbs_-_bloody-lesser-demon_-_Images_1.avif"
 tags:
 - "louiskim92"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bloody-lesser-demon_-_Images_1.jpg> "thumbs_-_bloody-lesser-demon_-_Images_1.jpg")
+![](<thumbs_-_bloody-lesser-demon_-_Images_1.avif> "thumbs_-_bloody-lesser-demon_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d_archive > Admiral_Four_Paws > Porphyry_Simulacrum_of_Great_Honor [dl]"
 date: "2025-11-08T22:07:11Z"
 toc: true
-image: "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg"
+image: "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.avif"
 tags:
 - "Admiral_Four_Paws"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "epic chevaliers IMP Admech-chevaliers"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
 - "Admech-chevaliers NONSUP"
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
-![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg> "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.jpg")
+![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.avif> "thumbs_-_porphyry-simulacrum-of-great-honor_-_Images_1.avif")
 
-  ![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.jpg> "thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.avif> "thumbs_-_porphyry-simulacrum-of-great-honor_-_ImagesSTL_1.avif")
 
   
 

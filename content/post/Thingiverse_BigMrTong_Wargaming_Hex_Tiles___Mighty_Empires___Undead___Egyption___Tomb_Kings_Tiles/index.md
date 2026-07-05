@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BigMrTong > Wargaming_Hex_Tiles___Mighty_Empires___Undead___Egyption___Tomb_Kings_Tiles [non dl]"
 date: "2019-05-22T17:57:51+00:00"
 toc: true
-image: "thumbs_-_3647098_-_Images_1.jpg"
+image: "thumbs_-_3647098_-_Images_1.avif"
 tags:
 - "BigMrTong"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3647098_-_Images_1.jpg> "thumbs_-_3647098_-_Images_1.jpg")
+![](<thumbs_-_3647098_-_Images_1.avif> "thumbs_-_3647098_-_Images_1.avif")
 
   
 

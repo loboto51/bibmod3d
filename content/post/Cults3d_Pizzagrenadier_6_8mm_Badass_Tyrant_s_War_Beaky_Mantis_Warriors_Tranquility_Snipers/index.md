@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Pizzagrenadier > 6_8mm_Badass_Tyrant_s_War_Beaky_Mantis_Warriors_Tranquility_Snipers [dl]"
 date: "2025-03-22T18:46:00Z"
 toc: true
-image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-scouts-snipers"
 - "epic SMI Sm-scouts-snipers"
 - "infanterie SMI Sm-scouts-snipers"
-- "epic infanterie SMI Sm-scouts-snipers"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-scouts-snipers NONSUP"
 - "epic Sm-scouts-snipers NONSUP"
 - "infanterie Sm-scouts-snipers NONSUP"
-- "epic infanterie Sm-scouts-snipers NONSUP"
 - "SMI Sm-scouts-snipers NONSUP"
-- "epic SMI Sm-scouts-snipers NONSUP"
-- "infanterie SMI Sm-scouts-snipers NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-mantis-warriors-tranquility-snipers_-_ImagesSTL_1.avif")
 
   
 

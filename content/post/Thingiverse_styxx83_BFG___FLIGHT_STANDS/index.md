@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > styxx83 > BFG___FLIGHT_STANDS [non dl]"
 date: "2020-03-27T18:49:09+00:00"
 toc: true
-image: "thumbs_-_4245073_-_Images_1.jpg"
+image: "thumbs_-_4245073_-_Images_1.avif"
 tags:
 - "styxx83"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4245073_-_Images_1.jpg> "thumbs_-_4245073_-_Images_1.jpg")
+![](<thumbs_-_4245073_-_Images_1.avif> "thumbs_-_4245073_-_Images_1.avif")
 
-  ![](<thumbs_-_4245073_-_Makes_1.jpg> "thumbs_-_4245073_-_Makes_1.jpg")
+  ![](<thumbs_-_4245073_-_Makes_1.avif> "thumbs_-_4245073_-_Makes_1.avif")
 
   
 

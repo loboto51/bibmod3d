@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > NofixedForge > Jaga_Space_Station [non dl]"
 date: "2022-06-14T19:11:10Z"
 toc: true
-image: "thumbs_-_jaga-space-station_-_Images_1.jpg"
+image: "thumbs_-_jaga-space-station_-_Images_1.avif"
 tags:
 - "NofixedForge"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Planètes-et-stations-spatiales NONDL"
 - "bfg Planètes-et-stations-spatiales NONDL"
 - "decors Planètes-et-stations-spatiales NONDL"
-- "bfg decors Planètes-et-stations-spatiales NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "decors NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Planètes-et-stations-spatiales NONSUP"
 - "bfg Planètes-et-stations-spatiales NONSUP"
 - "decors Planètes-et-stations-spatiales NONSUP"
-- "bfg decors Planètes-et-stations-spatiales NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "bfg decors NONDL NONSUP"
 - "Planètes-et-stations-spatiales NONDL NONSUP"
-- "bfg Planètes-et-stations-spatiales NONDL NONSUP"
-- "decors Planètes-et-stations-spatiales NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_jaga-space-station_-_Images_1.jpg> "thumbs_-_jaga-space-station_-_Images_1.jpg")
+![](<thumbs_-_jaga-space-station_-_Images_1.avif> "thumbs_-_jaga-space-station_-_Images_1.avif")
 
   
 

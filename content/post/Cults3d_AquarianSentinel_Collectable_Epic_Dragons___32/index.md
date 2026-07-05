@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > AquarianSentinel > Collectable_Epic_Dragons___32 [non dl]"
 date: "2025-08-29T14:52:29Z"
 toc: true
-image: "thumbs_-_collectable-epic-dragons-32_-_Images_1.jpg"
+image: "thumbs_-_collectable-epic-dragons-32_-_Images_1.avif"
 tags:
 - "AquarianSentinel"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Dragons NONDL NONSUP"
-- "warmaster Dragons NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_collectable-epic-dragons-32_-_Images_1.jpg> "thumbs_-_collectable-epic-dragons-32_-_Images_1.jpg")
+![](<thumbs_-_collectable-epic-dragons-32_-_Images_1.avif> "thumbs_-_collectable-epic-dragons-32_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > Tordominis > 3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138 [dl]"
 date: ""
 toc: true
-image: "thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.jpg"
+image: "thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.avif"
 tags:
 - "Tordominis"
 - "15mm"
@@ -27,7 +27,6 @@ tags:
 - "CHAOS Chaos-demonettes-de-slaanesh"
 - "epic CHAOS Chaos-demonettes-de-slaanesh"
 - "infanterie CHAOS Chaos-demonettes-de-slaanesh"
-- "epic infanterie CHAOS Chaos-demonettes-de-slaanesh"
 - "SLAANESH"
 - "epic SLAANESH"
 - "infanterie SLAANESH"
@@ -35,14 +34,10 @@ tags:
 - "CHAOS SLAANESH"
 - "epic CHAOS SLAANESH"
 - "infanterie CHAOS SLAANESH"
-- "epic infanterie CHAOS SLAANESH"
 - "Chaos-demonettes-de-slaanesh SLAANESH"
 - "epic Chaos-demonettes-de-slaanesh SLAANESH"
 - "infanterie Chaos-demonettes-de-slaanesh SLAANESH"
-- "epic infanterie Chaos-demonettes-de-slaanesh SLAANESH"
 - "CHAOS Chaos-demonettes-de-slaanesh SLAANESH"
-- "epic CHAOS Chaos-demonettes-de-slaanesh SLAANESH"
-- "infanterie CHAOS Chaos-demonettes-de-slaanesh SLAANESH"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -50,25 +45,15 @@ tags:
 - "CHAOS SUP"
 - "epic CHAOS SUP"
 - "infanterie CHAOS SUP"
-- "epic infanterie CHAOS SUP"
 - "Chaos-demonettes-de-slaanesh SUP"
 - "epic Chaos-demonettes-de-slaanesh SUP"
 - "infanterie Chaos-demonettes-de-slaanesh SUP"
-- "epic infanterie Chaos-demonettes-de-slaanesh SUP"
 - "CHAOS Chaos-demonettes-de-slaanesh SUP"
-- "epic CHAOS Chaos-demonettes-de-slaanesh SUP"
-- "infanterie CHAOS Chaos-demonettes-de-slaanesh SUP"
 - "SLAANESH SUP"
 - "epic SLAANESH SUP"
 - "infanterie SLAANESH SUP"
-- "epic infanterie SLAANESH SUP"
 - "CHAOS SLAANESH SUP"
-- "epic CHAOS SLAANESH SUP"
-- "infanterie CHAOS SLAANESH SUP"
 - "Chaos-demonettes-de-slaanesh SLAANESH SUP"
-- "epic Chaos-demonettes-de-slaanesh SLAANESH SUP"
-- "infanterie Chaos-demonettes-de-slaanesh SLAANESH SUP"
-- "CHAOS Chaos-demonettes-de-slaanesh SLAANESH SUP"
 - "warmaster"
 - "CHAOS"
 - "warmaster CHAOS"
@@ -79,13 +64,13 @@ tags:
 
 ---
 
-![](<thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.jpg> "thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.jpg")
+![](<thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.avif> "thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_2.jpg> "thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_2.avif> "thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Makes_1.jpg> "thumbs_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Makes_1.jpg")
+  ![](<thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Makes_1.avif> "thumbs_-_Tordominis_-_3d_print_excess_god_demonic_infantry_4_0_8_10_and_15mm_222138_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lstar > StarPorts___Stackable_Galactic_Crusader_Heavy_Siege_Infantry [dl]"
 date: "2024-02-25T13:46:48Z"
 toc: true
-image: "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.jpg"
+image: "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.avif"
 tags:
 - "lstar"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-terminators"
 - "epic SM30K Sm-terminators"
 - "infanterie SM30K Sm-terminators"
-- "epic infanterie SM30K Sm-terminators"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SM30K Sm-terminators NONSUP"
-- "epic SM30K Sm-terminators NONSUP"
-- "infanterie SM30K Sm-terminators NONSUP"
 
 ---
 
-![](<thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.jpg> "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.jpg")
+![](<thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.avif> "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_Images_1.avif")
 
-  ![](<thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_ImagesSTL_1.jpg> "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_ImagesSTL_1.avif> "thumbs_-_starports-stackable-galactic-crusader-heavy-siege-infantry_-_ImagesSTL_1.avif")
 
   
 

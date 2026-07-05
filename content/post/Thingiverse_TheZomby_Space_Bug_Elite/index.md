@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > Space_Bug_Elite [dl]"
 date: "2021-10-16T03:22:33+00:00"
 toc: true
-image: "thumbs_-_5022250_-_Images_1.jpg"
+image: "thumbs_-_5022250_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES Tyranides-guerriers"
 - "epic TYRANIDES Tyranides-guerriers"
 - "infanterie TYRANIDES Tyranides-guerriers"
-- "epic infanterie TYRANIDES Tyranides-guerriers"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "infanterie TYRANIDES NONSUP"
-- "epic infanterie TYRANIDES NONSUP"
 - "Tyranides-guerriers NONSUP"
 - "epic Tyranides-guerriers NONSUP"
 - "infanterie Tyranides-guerriers NONSUP"
-- "epic infanterie Tyranides-guerriers NONSUP"
 - "TYRANIDES Tyranides-guerriers NONSUP"
-- "epic TYRANIDES Tyranides-guerriers NONSUP"
-- "infanterie TYRANIDES Tyranides-guerriers NONSUP"
 
 ---
 
-![](<thumbs_-_5022250_-_Images_1.jpg> "thumbs_-_5022250_-_Images_1.jpg")
+![](<thumbs_-_5022250_-_Images_1.avif> "thumbs_-_5022250_-_Images_1.avif")
 
-  ![](<thumbs_-_5022250_-_ImagesSTL_1.jpg> "thumbs_-_5022250_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5022250_-_ImagesSTL_1.avif> "thumbs_-_5022250_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Valandar > Great_Wyvern_Statue [non dl]"
 date: "2022-02-15T15:47:53Z"
 toc: true
-image: "thumbs_-_great-wyvern-statue_-_Images_1.jpg"
+image: "thumbs_-_great-wyvern-statue_-_Images_1.avif"
 tags:
 - "Valandar"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Dragons NONDL NONSUP"
-- "warmaster Dragons NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_great-wyvern-statue_-_Images_1.jpg> "thumbs_-_great-wyvern-statue_-_Images_1.jpg")
+![](<thumbs_-_great-wyvern-statue_-_Images_1.avif> "thumbs_-_great-wyvern-statue_-_Images_1.avif")
 
   
 

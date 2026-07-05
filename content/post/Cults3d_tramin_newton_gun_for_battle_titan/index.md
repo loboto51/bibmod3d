@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > tramin > newton_gun_for_battle_titan [dl]"
 date: "2023-03-13T15:33:37Z"
 toc: true
-image: "thumbs_-_newton-gun-for-battle-titan_-_Images_1.jpg"
+image: "thumbs_-_newton-gun-for-battle-titan_-_Images_1.avif"
 tags:
 - "tramin"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-reavers"
 - "epic IMP Admech-titans-reavers"
 - "titans IMP Admech-titans-reavers"
-- "epic titans IMP Admech-titans-reavers"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-reavers NONSUP"
 - "epic Admech-titans-reavers NONSUP"
 - "titans Admech-titans-reavers NONSUP"
-- "epic titans Admech-titans-reavers NONSUP"
 - "IMP Admech-titans-reavers NONSUP"
-- "epic IMP Admech-titans-reavers NONSUP"
-- "titans IMP Admech-titans-reavers NONSUP"
 
 ---
 
-![](<thumbs_-_newton-gun-for-battle-titan_-_Images_1.jpg> "thumbs_-_newton-gun-for-battle-titan_-_Images_1.jpg")
+![](<thumbs_-_newton-gun-for-battle-titan_-_Images_1.avif> "thumbs_-_newton-gun-for-battle-titan_-_Images_1.avif")
 
   
 

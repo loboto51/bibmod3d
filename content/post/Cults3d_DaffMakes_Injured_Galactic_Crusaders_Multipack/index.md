@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Injured_Galactic_Crusaders_Multipack [dl]"
 date: "2025-02-19T01:16:59Z"
 toc: true
-image: "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.jpg"
+image: "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-tactiques"
 - "epic SM30K Sm-tactiques"
 - "infanterie SM30K Sm-tactiques"
-- "epic infanterie SM30K Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SM30K Sm-tactiques NONSUP"
-- "epic SM30K Sm-tactiques NONSUP"
-- "infanterie SM30K Sm-tactiques NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,20 +52,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.jpg> "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.jpg")
+![](<thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.avif> "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_Images_1.avif")
 
-  ![](<thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_ImagesSTL_1.jpg> "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_ImagesSTL_1.avif> "thumbs_-_injured-galactic-crusaders-multipack-6d2c4c5a4ca47fbe2d67_-_ImagesSTL_1.avif")
 
   
 

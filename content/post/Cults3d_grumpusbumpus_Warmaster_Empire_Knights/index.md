@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > grumpusbumpus > Warmaster_Empire_Knights [dl]"
 date: "2021-02-12T12:51:41Z"
 toc: true
-image: "thumbs_-_warmaster-empire-knights_-_Images_1.jpg"
+image: "thumbs_-_warmaster-empire-knights_-_Images_1.avif"
 tags:
 - "grumpusbumpus"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "HUMAINS SUP"
 - "warmaster HUMAINS SUP"
 - "EMPIRE HUMAINS SUP"
-- "warmaster EMPIRE HUMAINS SUP"
 
 ---
 
-![](<thumbs_-_warmaster-empire-knights_-_Images_1.jpg> "thumbs_-_warmaster-empire-knights_-_Images_1.jpg")
+![](<thumbs_-_warmaster-empire-knights_-_Images_1.avif> "thumbs_-_warmaster-empire-knights_-_Images_1.avif")
 
-  ![](<thumbs_-_warmaster-empire-knights_-_ImagesSTL_1.jpg> "thumbs_-_warmaster-empire-knights_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_warmaster-empire-knights_-_ImagesSTL_1.avif> "thumbs_-_warmaster-empire-knights_-_ImagesSTL_1.avif")
 
   
 

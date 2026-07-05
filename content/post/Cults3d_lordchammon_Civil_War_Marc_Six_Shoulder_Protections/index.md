@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lordchammon > Civil_War_Marc_Six_Shoulder_Protections [non dl]"
 date: "2022-09-18T22:28:53Z"
 toc: true
-image: "thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.jpg"
+image: "thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.avif"
 tags:
 - "lordchammon"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "Bits Builders"
 - "28mm Bits Builders"
 - "SM30K Bits Builders"
-- "28mm SM30K Bits Builders"
 - "NONDL"
 - "28mm NONDL"
 - "SM30K NONDL"
@@ -28,14 +27,10 @@ tags:
 - "Bits NONDL"
 - "28mm Bits NONDL"
 - "SM30K Bits NONDL"
-- "28mm SM30K Bits NONDL"
 - "Builders NONDL"
 - "28mm Builders NONDL"
 - "SM30K Builders NONDL"
-- "28mm SM30K Builders NONDL"
 - "Bits Builders NONDL"
-- "28mm Bits Builders NONDL"
-- "SM30K Bits Builders NONDL"
 - "SUP"
 - "28mm SUP"
 - "SM30K SUP"
@@ -43,29 +38,19 @@ tags:
 - "Bits SUP"
 - "28mm Bits SUP"
 - "SM30K Bits SUP"
-- "28mm SM30K Bits SUP"
 - "Builders SUP"
 - "28mm Builders SUP"
 - "SM30K Builders SUP"
-- "28mm SM30K Builders SUP"
 - "Bits Builders SUP"
-- "28mm Bits Builders SUP"
-- "SM30K Bits Builders SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "SM30K NONDL SUP"
-- "28mm SM30K NONDL SUP"
 - "Bits NONDL SUP"
-- "28mm Bits NONDL SUP"
-- "SM30K Bits NONDL SUP"
 - "Builders NONDL SUP"
-- "28mm Builders NONDL SUP"
-- "SM30K Builders NONDL SUP"
-- "Bits Builders NONDL SUP"
 
 ---
 
-![](<thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.jpg> "thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.jpg")
+![](<thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.avif> "thumbs_-_civil-war-marc-six-shoulder-protections_-_Images_1.avif")
 
   
 

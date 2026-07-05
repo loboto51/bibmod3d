@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Scavvon > Chaos_Cultist__12_Heavy_Specialist_with_Las_cutter [dl]"
 date: "2023-02-02T21:45:19Z"
 toc: true
-image: "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.jpg"
+image: "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.avif"
 tags:
 - "Scavvon"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "Chaos-cultistes SUP"
 - "28mm Chaos-cultistes SUP"
 - "CHAOS Chaos-cultistes SUP"
-- "28mm CHAOS Chaos-cultistes SUP"
 
 ---
 
-![](<thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.jpg> "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.jpg")
+![](<thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.avif> "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_Images_1.avif")
 
-  ![](<thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_ImagesSTL_1.jpg> "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_ImagesSTL_1.avif> "thumbs_-_chaos-cultist-12-heavy-specialist-with-las-cutter_-_ImagesSTL_1.avif")
 
   
 

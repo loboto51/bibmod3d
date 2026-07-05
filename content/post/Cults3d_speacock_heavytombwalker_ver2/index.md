@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > heavytombwalker_ver2 [dl]"
 date: "2025-10-19T09:49:36Z"
 toc: true
-image: "thumbs_-_heavytombwalker-ver2_-_Images_1.jpg"
+image: "thumbs_-_heavytombwalker-ver2_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-dreadnoughts"
 - "epic SMI Sm-dreadnoughts"
 - "marcheurs SMI Sm-dreadnoughts"
-- "epic marcheurs SMI Sm-dreadnoughts"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "marcheurs SMI NONSUP"
-- "epic marcheurs SMI NONSUP"
 - "Sm-dreadnoughts NONSUP"
 - "epic Sm-dreadnoughts NONSUP"
 - "marcheurs Sm-dreadnoughts NONSUP"
-- "epic marcheurs Sm-dreadnoughts NONSUP"
 - "SMI Sm-dreadnoughts NONSUP"
-- "epic SMI Sm-dreadnoughts NONSUP"
-- "marcheurs SMI Sm-dreadnoughts NONSUP"
 
 ---
 
-![](<thumbs_-_heavytombwalker-ver2_-_Images_1.jpg> "thumbs_-_heavytombwalker-ver2_-_Images_1.jpg")
+![](<thumbs_-_heavytombwalker-ver2_-_Images_1.avif> "thumbs_-_heavytombwalker-ver2_-_Images_1.avif")
 
-  ![](<thumbs_-_heavytombwalker-ver2_-_ImagesSTL_1.jpg> "thumbs_-_heavytombwalker-ver2_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_heavytombwalker-ver2_-_ImagesSTL_1.avif> "thumbs_-_heavytombwalker-ver2_-_ImagesSTL_1.avif")
 
   
 

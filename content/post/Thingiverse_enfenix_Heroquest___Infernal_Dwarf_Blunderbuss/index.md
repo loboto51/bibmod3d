@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > enfenix > Heroquest___Infernal_Dwarf_Blunderbuss [non dl]"
 date: "2020-04-07T22:31:53+00:00"
 toc: true
-image: "thumbs_-_4268908_-_Images_1.jpg"
+image: "thumbs_-_4268908_-_Images_1.avif"
 tags:
 - "enfenix"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "28mm NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4268908_-_Images_1.jpg> "thumbs_-_4268908_-_Images_1.jpg")
+![](<thumbs_-_4268908_-_Images_1.avif> "thumbs_-_4268908_-_Images_1.avif")
 
-  ![](<thumbs_-_4268908_-_Makes_1.jpg> "thumbs_-_4268908_-_Makes_1.jpg")
+  ![](<thumbs_-_4268908_-_Makes_1.avif> "thumbs_-_4268908_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Models4aEpicBody > PrettyFly4aWhiteGuy [dl]"
 date: "2019-03-18T11:46:02+00:00"
 toc: true
-image: "thumbs_-_3497696_-_Images_1.jpg"
+image: "thumbs_-_3497696_-_Images_1.avif"
 tags:
 - "Models4aEpicBody"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-corvus-blackstars"
 - "epic SMI Sm-corvus-blackstars"
 - "volants SMI Sm-corvus-blackstars"
-- "epic volants SMI Sm-corvus-blackstars"
 - "SMI-DW"
 - "epic SMI-DW"
 - "volants SMI-DW"
@@ -28,14 +27,10 @@ tags:
 - "SMI SMI-DW"
 - "epic SMI SMI-DW"
 - "volants SMI SMI-DW"
-- "epic volants SMI SMI-DW"
 - "Sm-corvus-blackstars SMI-DW"
 - "epic Sm-corvus-blackstars SMI-DW"
 - "volants Sm-corvus-blackstars SMI-DW"
-- "epic volants Sm-corvus-blackstars SMI-DW"
 - "SMI Sm-corvus-blackstars SMI-DW"
-- "epic SMI Sm-corvus-blackstars SMI-DW"
-- "volants SMI Sm-corvus-blackstars SMI-DW"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "volants SMI NONSUP"
-- "epic volants SMI NONSUP"
 - "Sm-corvus-blackstars NONSUP"
 - "epic Sm-corvus-blackstars NONSUP"
 - "volants Sm-corvus-blackstars NONSUP"
-- "epic volants Sm-corvus-blackstars NONSUP"
 - "SMI Sm-corvus-blackstars NONSUP"
-- "epic SMI Sm-corvus-blackstars NONSUP"
-- "volants SMI Sm-corvus-blackstars NONSUP"
 - "SMI-DW NONSUP"
 - "epic SMI-DW NONSUP"
 - "volants SMI-DW NONSUP"
-- "epic volants SMI-DW NONSUP"
 - "SMI SMI-DW NONSUP"
-- "epic SMI SMI-DW NONSUP"
-- "volants SMI SMI-DW NONSUP"
 - "Sm-corvus-blackstars SMI-DW NONSUP"
-- "epic Sm-corvus-blackstars SMI-DW NONSUP"
-- "volants Sm-corvus-blackstars SMI-DW NONSUP"
-- "SMI Sm-corvus-blackstars SMI-DW NONSUP"
 
 ---
 
-![](<thumbs_-_3497696_-_Images_1.jpg> "thumbs_-_3497696_-_Images_1.jpg")
+![](<thumbs_-_3497696_-_Images_1.avif> "thumbs_-_3497696_-_Images_1.avif")
 
-  ![](<thumbs_-_3497696_-_ImagesSTL_1.jpg> "thumbs_-_3497696_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3497696_-_ImagesSTL_1.avif> "thumbs_-_3497696_-_ImagesSTL_1.avif")
 
   
 

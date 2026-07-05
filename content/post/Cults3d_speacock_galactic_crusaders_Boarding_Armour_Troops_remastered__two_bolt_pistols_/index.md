@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > galactic_crusaders_Boarding_Armour_Troops_remastered__two_bolt_pistols_ [non dl]"
 date: "2024-01-06T01:22:48Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONDL"
 - "epic SM30K NONDL"
 - "infanterie SM30K NONDL"
-- "epic infanterie SM30K NONDL"
 - "Sm-assaut NONDL"
 - "epic Sm-assaut NONDL"
 - "infanterie Sm-assaut NONDL"
-- "epic infanterie Sm-assaut NONDL"
 - "SM30K Sm-assaut NONDL"
-- "epic SM30K Sm-assaut NONDL"
-- "infanterie SM30K Sm-assaut NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "SM30K NONDL NONSUP"
-- "epic SM30K NONDL NONSUP"
-- "infanterie SM30K NONDL NONSUP"
 - "Sm-assaut NONDL NONSUP"
-- "epic Sm-assaut NONDL NONSUP"
-- "infanterie Sm-assaut NONDL NONSUP"
-- "SM30K Sm-assaut NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.jpg> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-two-bolt-pistols_-_Images_1.avif")
 
   
 

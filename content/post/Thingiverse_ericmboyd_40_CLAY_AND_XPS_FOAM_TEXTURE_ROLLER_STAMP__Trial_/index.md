@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ericmboyd > 40_CLAY_AND_XPS_FOAM_TEXTURE_ROLLER_STAMP__Trial_ [non dl]"
 date: "2021-01-01T14:39:35+00:00"
 toc: true
-image: "thumbs_-_4705121_-_Images_1.jpg"
+image: "thumbs_-_4705121_-_Images_1.avif"
 tags:
 - "ericmboyd"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4705121_-_Images_1.jpg> "thumbs_-_4705121_-_Images_1.jpg")
+![](<thumbs_-_4705121_-_Images_1.avif> "thumbs_-_4705121_-_Images_1.avif")
 
   
 

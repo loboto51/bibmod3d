@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ge32 > Saurian_Skinks_Left_Hand [non dl]"
 date: "2020-05-03T21:38:59+00:00"
 toc: true
-image: "thumbs_-_4334966_-_Images_1.jpg"
+image: "thumbs_-_4334966_-_Images_1.avif"
 tags:
 - "Ge32"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "HOMMES-LEZARDS NONDL NONSUP"
-- "28mm HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4334966_-_Images_1.jpg> "thumbs_-_4334966_-_Images_1.jpg")
+![](<thumbs_-_4334966_-_Images_1.avif> "thumbs_-_4334966_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Wolf_Riders [dl]"
 date: "2024-10-20T00:54:13+00:00"
 toc: true
-image: "thumbs_-_6803191_-_Images_1.jpg"
+image: "thumbs_-_6803191_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_6803191_-_Images_1.jpg> "thumbs_-_6803191_-_Images_1.jpg")
+![](<thumbs_-_6803191_-_Images_1.avif> "thumbs_-_6803191_-_Images_1.avif")
 
-  ![](<thumbs_-_6803191_-_ImagesSTL_1.jpg> "thumbs_-_6803191_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6803191_-_ImagesSTL_1.avif> "thumbs_-_6803191_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6803191_-_Makes_1.jpg> "thumbs_-_6803191_-_Makes_1.jpg")
+  ![](<thumbs_-_6803191_-_Makes_1.avif> "thumbs_-_6803191_-_Makes_1.avif")
 
   
 

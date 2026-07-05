@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Posh_Tim > 15mm_Modular_Tiny_Tank_Predatory_MBT [non dl]"
 date: "2023-06-20T00:34:53Z"
 toc: true
-image: "thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.jpg"
+image: "thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.avif"
 tags:
 - "Posh_Tim"
 - "15mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "15mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.jpg> "thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.jpg")
+![](<thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.avif> "thumbs_-_15mm-modular-tiny-tank-predatory-mbt_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Hunadin > Vanguard_Strike_Cruiser_for_BFG [dl]"
 date: "2023-11-06T19:04:50Z"
 toc: true
-image: "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg"
+image: "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.avif"
 tags:
 - "Hunadin"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.jpg")
+![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.avif> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_Images_1.avif")
 
-  ![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.jpg> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.avif> "thumbs_-_vanguard-strike-cruiser-for-bfg_-_ImagesSTL_1.avif")
 
   
 

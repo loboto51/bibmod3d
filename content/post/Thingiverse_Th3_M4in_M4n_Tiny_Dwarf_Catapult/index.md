@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Dwarf_Catapult [dl]"
 date: "2025-07-11T17:31:04+00:00"
 toc: true
-image: "thumbs_-_7088864_-_Images_1.jpg"
+image: "thumbs_-_7088864_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7088864_-_Images_1.jpg> "thumbs_-_7088864_-_Images_1.jpg")
+![](<thumbs_-_7088864_-_Images_1.avif> "thumbs_-_7088864_-_Images_1.avif")
 
-  ![](<thumbs_-_7088864_-_ImagesSTL_1.jpg> "thumbs_-_7088864_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7088864_-_ImagesSTL_1.avif> "thumbs_-_7088864_-_ImagesSTL_1.avif")
 
   
 

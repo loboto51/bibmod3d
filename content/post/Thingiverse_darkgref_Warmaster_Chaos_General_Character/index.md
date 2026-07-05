@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Warmaster_Chaos_General_Character [dl]"
 date: "2021-08-16T07:03:47+00:00"
 toc: true
-image: "thumbs_-_4933737_-_Images_1.jpg"
+image: "thumbs_-_4933737_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4933737_-_Images_1.jpg> "thumbs_-_4933737_-_Images_1.jpg")
+![](<thumbs_-_4933737_-_Images_1.avif> "thumbs_-_4933737_-_Images_1.avif")
 
-  ![](<thumbs_-_4933737_-_ImagesSTL_1.jpg> "thumbs_-_4933737_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4933737_-_ImagesSTL_1.avif> "thumbs_-_4933737_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > VoyMakesMinis > Texture_Rollers_for_Wargaming [non dl]"
 date: "2023-01-30T17:54:19Z"
 toc: true
-image: "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.jpg"
+image: "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.avif"
 tags:
 - "VoyMakesMinis"
 - "DIVERS"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.jpg> "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.jpg")
+![](<thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.avif> "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Images_1.avif")
 
-  ![](<thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Makes_1.jpg> "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Makes_1.jpg")
+  ![](<thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Makes_1.avif> "thumbs_-_texture-rollers-for-wargaming-voymakesminis_-_Makes_1.avif")
 
   
 

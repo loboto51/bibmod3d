@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MGMoogii > Modular_Armored_Half_Trolls [non dl]"
 date: "2023-03-22T16:23:38Z"
 toc: true
-image: "thumbs_-_modular-armored-half-trolls_-_Images_1.jpg"
+image: "thumbs_-_modular-armored-half-trolls_-_Images_1.avif"
 tags:
 - "MGMoogii"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "ORCS Trolls"
 - "warmaster ORCS Trolls"
 - "GOBELINS ORCS Trolls"
-- "warmaster GOBELINS ORCS Trolls"
 - "NONDL"
 - "warmaster NONDL"
 - "GOBELINS NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORCS NONDL"
 - "warmaster ORCS NONDL"
 - "GOBELINS ORCS NONDL"
-- "warmaster GOBELINS ORCS NONDL"
 - "Trolls NONDL"
 - "warmaster Trolls NONDL"
 - "GOBELINS Trolls NONDL"
-- "warmaster GOBELINS Trolls NONDL"
 - "ORCS Trolls NONDL"
-- "warmaster ORCS Trolls NONDL"
-- "GOBELINS ORCS Trolls NONDL"
 - "SUP"
 - "warmaster SUP"
 - "GOBELINS SUP"
@@ -43,31 +38,21 @@ tags:
 - "ORCS SUP"
 - "warmaster ORCS SUP"
 - "GOBELINS ORCS SUP"
-- "warmaster GOBELINS ORCS SUP"
 - "Trolls SUP"
 - "warmaster Trolls SUP"
 - "GOBELINS Trolls SUP"
-- "warmaster GOBELINS Trolls SUP"
 - "ORCS Trolls SUP"
-- "warmaster ORCS Trolls SUP"
-- "GOBELINS ORCS Trolls SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "GOBELINS NONDL SUP"
-- "warmaster GOBELINS NONDL SUP"
 - "ORCS NONDL SUP"
-- "warmaster ORCS NONDL SUP"
-- "GOBELINS ORCS NONDL SUP"
 - "Trolls NONDL SUP"
-- "warmaster Trolls NONDL SUP"
-- "GOBELINS Trolls NONDL SUP"
-- "ORCS Trolls NONDL SUP"
 
 ---
 
-![](<thumbs_-_modular-armored-half-trolls_-_Images_1.jpg> "thumbs_-_modular-armored-half-trolls_-_Images_1.jpg")
+![](<thumbs_-_modular-armored-half-trolls_-_Images_1.avif> "thumbs_-_modular-armored-half-trolls_-_Images_1.avif")
 
-  ![](<thumbs_-_modular-armored-half-trolls_-_Makes_1.jpg> "thumbs_-_modular-armored-half-trolls_-_Makes_1.jpg")
+  ![](<thumbs_-_modular-armored-half-trolls_-_Makes_1.avif> "thumbs_-_modular-armored-half-trolls_-_Makes_1.avif")
 
   
 

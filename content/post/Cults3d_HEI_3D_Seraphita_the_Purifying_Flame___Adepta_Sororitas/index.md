@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > HEI_3D > Seraphita_the_Purifying_Flame___Adepta_Sororitas [non dl]"
 date: "2025-05-17T14:02:49Z"
 toc: true
-image: "thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.jpg"
+image: "thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.avif"
 tags:
 - "HEI_3D"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.jpg> "thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.jpg")
+![](<thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.avif> "thumbs_-_seraphita-the-purifying-flame-adepta-sororitas_-_Images_1.avif")
 
   
 

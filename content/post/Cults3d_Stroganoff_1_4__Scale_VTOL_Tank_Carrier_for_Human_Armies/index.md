@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_VTOL_Tank_Carrier_for_Human_Armies [dl]"
 date: "2019-12-27T14:22:11Z"
 toc: true
-image: "thumbs_-_epic-scale-sky-talon_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-sky-talon_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Vtol"
 - "epic IMP Vtol"
 - "volants IMP Vtol"
-- "epic volants IMP Vtol"
 - "Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants Imp-vtol-valkyries-vultures-skytalons-etc"
@@ -28,14 +27,10 @@ tags:
 - "IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
 - "Vtol NONSUP"
 - "epic Vtol NONSUP"
 - "volants Vtol NONSUP"
-- "epic volants Vtol NONSUP"
 - "IMP Vtol NONSUP"
-- "epic IMP Vtol NONSUP"
-- "volants IMP Vtol NONSUP"
 - "Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
 - "epic Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
 - "volants Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic volants Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
 - "IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
 - "Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-sky-talon_-_Images_1.jpg> "thumbs_-_epic-scale-sky-talon_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-sky-talon_-_Images_1.avif> "thumbs_-_epic-scale-sky-talon_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_epic-scale-sky-talon_-_Makes_1.jpg> "thumbs_-_epic-scale-sky-talon_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-scale-sky-talon_-_Makes_1.avif> "thumbs_-_epic-scale-sky-talon_-_Makes_1.avif")
 
   
 

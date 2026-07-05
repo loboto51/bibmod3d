@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > chris262 > Epic_Scale___Protector_Extra_Enhanced_Humans___Gun_Infantry [dl]"
 date: "2020-02-16T23:03:30+00:00"
 toc: true
-image: "thumbs_-_4167048_-_Images_1.jpg"
+image: "thumbs_-_4167048_-_Images_1.avif"
 tags:
 - "chris262"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CUSTODES Custodes-tactiques"
 - "epic CUSTODES Custodes-tactiques"
 - "infanterie CUSTODES Custodes-tactiques"
-- "epic infanterie CUSTODES Custodes-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "CUSTODES NONSUP"
 - "epic CUSTODES NONSUP"
 - "infanterie CUSTODES NONSUP"
-- "epic infanterie CUSTODES NONSUP"
 - "Custodes-tactiques NONSUP"
 - "epic Custodes-tactiques NONSUP"
 - "infanterie Custodes-tactiques NONSUP"
-- "epic infanterie Custodes-tactiques NONSUP"
 - "CUSTODES Custodes-tactiques NONSUP"
-- "epic CUSTODES Custodes-tactiques NONSUP"
-- "infanterie CUSTODES Custodes-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_4167048_-_Images_1.jpg> "thumbs_-_4167048_-_Images_1.jpg")
+![](<thumbs_-_4167048_-_Images_1.avif> "thumbs_-_4167048_-_Images_1.avif")
 
-  ![](<thumbs_-_4167048_-_ImagesSTL_1.jpg> "thumbs_-_4167048_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4167048_-_ImagesSTL_1.avif> "thumbs_-_4167048_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Anvil_of_Doom [dl]"
 date: "2026-02-16T21:52:09+00:00"
 toc: true
-image: "thumbs_-_7296993_-_Images_1.jpg"
+image: "thumbs_-_7296993_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7296993_-_Images_1.jpg> "thumbs_-_7296993_-_Images_1.jpg")
+![](<thumbs_-_7296993_-_Images_1.avif> "thumbs_-_7296993_-_Images_1.avif")
 
-  ![](<thumbs_-_7296993_-_ImagesSTL_1.jpg> "thumbs_-_7296993_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7296993_-_ImagesSTL_1.avif> "thumbs_-_7296993_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Hero_on_Wyvern [dl]"
 date: "2024-12-07T20:57:30+00:00"
 toc: true
-image: "thumbs_-_6862199_-_Images_1.jpg"
+image: "thumbs_-_6862199_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_6862199_-_Images_1.jpg> "thumbs_-_6862199_-_Images_1.jpg")
+![](<thumbs_-_6862199_-_Images_1.avif> "thumbs_-_6862199_-_Images_1.avif")
 
-  ![](<thumbs_-_6862199_-_ImagesSTL_1.jpg> "thumbs_-_6862199_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6862199_-_ImagesSTL_1.avif> "thumbs_-_6862199_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6862199_-_Makes_1.jpg> "thumbs_-_6862199_-_Makes_1.jpg")
+  ![](<thumbs_-_6862199_-_Makes_1.avif> "thumbs_-_6862199_-_Makes_1.avif")
 
   
 

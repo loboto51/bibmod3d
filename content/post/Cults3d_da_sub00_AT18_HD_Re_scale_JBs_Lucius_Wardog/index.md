@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > da_sub00 > AT18_HD_Re_scale_JBs_Lucius_Wardog [dl]"
 date: "2020-02-26T15:32:17Z"
 toc: true
-image: "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.jpg"
+image: "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.avif"
 tags:
 - "da_sub00"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-warhounds"
 - "epic IMP Admech-titans-warhounds"
 - "titans IMP Admech-titans-warhounds"
-- "epic titans IMP Admech-titans-warhounds"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-warhounds NONSUP"
 - "epic Admech-titans-warhounds NONSUP"
 - "titans Admech-titans-warhounds NONSUP"
-- "epic titans Admech-titans-warhounds NONSUP"
 - "IMP Admech-titans-warhounds NONSUP"
-- "epic IMP Admech-titans-warhounds NONSUP"
-- "titans IMP Admech-titans-warhounds NONSUP"
 
 ---
 
-![](<thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.jpg> "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.jpg")
+![](<thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.avif> "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_Images_1.avif")
 
-  ![](<thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_ImagesSTL_1.jpg> "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_ImagesSTL_1.avif> "thumbs_-_at18-hd-re-scale-jbs-lucius-wardog_-_ImagesSTL_1.avif")
 
   
 

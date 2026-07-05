@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Yasashii > Girallon___Tabletop_Miniature [non dl]"
 date: "2024-02-01T06:15:45+00:00"
 toc: true
-image: "thumbs_-_6462821_-_Images_1.jpg"
+image: "thumbs_-_6462821_-_Images_1.avif"
 tags:
 - "Yasashii"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Bits-créatures-géantes NONDL"
 - "warmaster Bits-créatures-géantes NONDL"
 - "Bits Bits-créatures-géantes NONDL"
-- "warmaster Bits Bits-créatures-géantes NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "Bits NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits-créatures-géantes NONSUP"
 - "warmaster Bits-créatures-géantes NONSUP"
 - "Bits Bits-créatures-géantes NONSUP"
-- "warmaster Bits Bits-créatures-géantes NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Bits NONDL NONSUP"
-- "warmaster Bits NONDL NONSUP"
 - "Bits-créatures-géantes NONDL NONSUP"
-- "warmaster Bits-créatures-géantes NONDL NONSUP"
-- "Bits Bits-créatures-géantes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6462821_-_Images_1.jpg> "thumbs_-_6462821_-_Images_1.jpg")
+![](<thumbs_-_6462821_-_Images_1.avif> "thumbs_-_6462821_-_Images_1.avif")
 
-  ![](<thumbs_-_6462821_-_Makes_1.jpg> "thumbs_-_6462821_-_Makes_1.jpg")
+  ![](<thumbs_-_6462821_-_Makes_1.avif> "thumbs_-_6462821_-_Makes_1.avif")
 
   
 

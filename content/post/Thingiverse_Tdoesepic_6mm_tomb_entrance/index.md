@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tdoesepic > 6mm_tomb_entrance [dl]"
 date: "2023-01-02T11:47:03+00:00"
 toc: true
-image: "thumbs_-_5759944_-_Images_1.jpg"
+image: "thumbs_-_5759944_-_Images_1.avif"
 tags:
 - "Tdoesepic"
 - "epic"
@@ -20,13 +20,12 @@ tags:
 - "NECRONS NONSUP"
 - "epic NECRONS NONSUP"
 - "decors NECRONS NONSUP"
-- "epic decors NECRONS NONSUP"
 
 ---
 
-![](<thumbs_-_5759944_-_Images_1.jpg> "thumbs_-_5759944_-_Images_1.jpg")
+![](<thumbs_-_5759944_-_Images_1.avif> "thumbs_-_5759944_-_Images_1.avif")
 
-  ![](<thumbs_-_5759944_-_ImagesSTL_1.jpg> "thumbs_-_5759944_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5759944_-_ImagesSTL_1.avif> "thumbs_-_5759944_-_ImagesSTL_1.avif")
 
   
 

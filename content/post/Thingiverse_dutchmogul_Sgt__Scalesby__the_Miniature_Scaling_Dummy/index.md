@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Sgt__Scalesby__the_Miniature_Scaling_Dummy [non dl]"
 date: "2016-04-04T20:11:41+00:00"
 toc: true
-image: "thumbs_-_1465372_-_Images_1.jpg"
+image: "thumbs_-_1465372_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "DIVERS"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1465372_-_Images_1.jpg> "thumbs_-_1465372_-_Images_1.jpg")
+![](<thumbs_-_1465372_-_Images_1.avif> "thumbs_-_1465372_-_Images_1.avif")
 
-  ![](<thumbs_-_1465372_-_Makes_1.jpg> "thumbs_-_1465372_-_Makes_1.jpg")
+  ![](<thumbs_-_1465372_-_Makes_1.avif> "thumbs_-_1465372_-_Makes_1.avif")
 
   
 

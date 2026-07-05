@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Assyrian_Frigate_2_Mk__1a [non dl]"
 date: "2024-10-27T11:06:01Z"
 toc: true
-image: "thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.jpg"
+image: "thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.jpg> "thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.jpg")
+![](<thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.avif> "thumbs_-_imperial-frigate-2-mk-1a_-_Images_1.avif")
 
   
 

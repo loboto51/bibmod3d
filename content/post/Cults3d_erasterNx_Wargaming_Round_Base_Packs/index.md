@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > erasterNx > Wargaming_Round_Base_Packs [non dl]"
 date: "2023-08-13T08:47:01Z"
 toc: true
-image: "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.jpg"
+image: "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.avif"
 tags:
 - "erasterNx"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.jpg> "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.jpg")
+![](<thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.avif> "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Images_1.avif")
 
-  ![](<thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Makes_1.jpg> "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Makes_1.jpg")
+  ![](<thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Makes_1.avif> "thumbs_-_paquete-de-peanas-redondas-para-wargames_-_Makes_1.avif")
 
   
 

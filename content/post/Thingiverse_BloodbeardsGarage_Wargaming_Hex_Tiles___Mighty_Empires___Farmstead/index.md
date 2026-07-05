@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BloodbeardsGarage > Wargaming_Hex_Tiles___Mighty_Empires___Farmstead [non dl]"
 date: "2025-01-10T08:46:01+00:00"
 toc: true
-image: "thumbs_-_6907008_-_Images_1.jpg"
+image: "thumbs_-_6907008_-_Images_1.avif"
 tags:
 - "BloodbeardsGarage"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6907008_-_Images_1.jpg> "thumbs_-_6907008_-_Images_1.jpg")
+![](<thumbs_-_6907008_-_Images_1.avif> "thumbs_-_6907008_-_Images_1.avif")
 
   
 

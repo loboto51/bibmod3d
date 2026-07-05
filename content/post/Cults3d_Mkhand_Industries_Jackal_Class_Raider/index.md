@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Mkhand_Industries > Jackal_Class_Raider [non dl]"
 date: "2019-06-21T13:38:57Z"
 toc: true
-image: "thumbs_-_necron-jackal-class-raider_-_Images_1.jpg"
+image: "thumbs_-_necron-jackal-class-raider_-_Images_1.avif"
 tags:
 - "Mkhand_Industries"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "NECRONS Flotte NONDL"
-- "bfg NECRONS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "NECRONS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "NECRONS Flotte NONSUP"
-- "bfg NECRONS Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "bfg NECRONS NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "NECRONS Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_necron-jackal-class-raider_-_Images_1.jpg> "thumbs_-_necron-jackal-class-raider_-_Images_1.jpg")
+![](<thumbs_-_necron-jackal-class-raider_-_Images_1.avif> "thumbs_-_necron-jackal-class-raider_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > pepespain > Mighty_Empires_Tile___Orc_Tile_ [non dl]"
 date: "2020-05-09T10:23:21+00:00"
 toc: true
-image: "thumbs_-_4349122_-_Images_1.jpg"
+image: "thumbs_-_4349122_-_Images_1.avif"
 tags:
 - "pepespain"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4349122_-_Images_1.jpg> "thumbs_-_4349122_-_Images_1.jpg")
+![](<thumbs_-_4349122_-_Images_1.avif> "thumbs_-_4349122_-_Images_1.avif")
 
   
 

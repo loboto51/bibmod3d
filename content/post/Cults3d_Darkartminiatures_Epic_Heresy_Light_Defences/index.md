@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Darkartminiatures > Epic_Heresy_Light_Defences [non dl]"
 date: "2023-11-29T12:07:47Z"
 toc: true
-image: "thumbs_-_epic-heresy-light-defences_-_Images_1.jpg"
+image: "thumbs_-_epic-heresy-light-defences_-_Images_1.avif"
 tags:
 - "Darkartminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Barricades"
 - "epic IMP Barricades"
 - "decors IMP Barricades"
-- "epic decors IMP Barricades"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Barricades NONDL"
 - "epic Barricades NONDL"
 - "decors Barricades NONDL"
-- "epic decors Barricades NONDL"
 - "IMP Barricades NONDL"
-- "epic IMP Barricades NONDL"
-- "decors IMP Barricades NONDL"
 - "SUP"
 - "epic SUP"
 - "decors SUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP SUP"
 - "epic IMP SUP"
 - "decors IMP SUP"
-- "epic decors IMP SUP"
 - "Barricades SUP"
 - "epic Barricades SUP"
 - "decors Barricades SUP"
-- "epic decors Barricades SUP"
 - "IMP Barricades SUP"
-- "epic IMP Barricades SUP"
-- "decors IMP Barricades SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "decors NONDL SUP"
-- "epic decors NONDL SUP"
 - "IMP NONDL SUP"
-- "epic IMP NONDL SUP"
-- "decors IMP NONDL SUP"
 - "Barricades NONDL SUP"
-- "epic Barricades NONDL SUP"
-- "decors Barricades NONDL SUP"
-- "IMP Barricades NONDL SUP"
 
 ---
 
-![](<thumbs_-_epic-heresy-light-defences_-_Images_1.jpg> "thumbs_-_epic-heresy-light-defences_-_Images_1.jpg")
+![](<thumbs_-_epic-heresy-light-defences_-_Images_1.avif> "thumbs_-_epic-heresy-light-defences_-_Images_1.avif")
 
   
 

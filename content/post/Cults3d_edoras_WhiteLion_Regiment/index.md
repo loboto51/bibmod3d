@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > WhiteLion_Regiment [non dl]"
 date: "2022-01-31T18:58:39Z"
 toc: true
-image: "thumbs_-_whitelion-regiment_-_Images_1.jpg"
+image: "thumbs_-_whitelion-regiment_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_whitelion-regiment_-_Images_1.jpg> "thumbs_-_whitelion-regiment_-_Images_1.jpg")
+![](<thumbs_-_whitelion-regiment_-_Images_1.avif> "thumbs_-_whitelion-regiment_-_Images_1.avif")
 
   
 

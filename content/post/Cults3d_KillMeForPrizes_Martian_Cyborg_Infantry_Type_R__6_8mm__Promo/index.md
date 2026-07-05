@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KillMeForPrizes > Martian_Cyborg_Infantry_Type_R__6_8mm__Promo [non dl]"
 date: "2022-10-07T15:55:51Z"
 toc: true
-image: "thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.jpg"
+image: "thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.avif"
 tags:
 - "KillMeForPrizes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Humains-tactiques"
 - "epic AM Humains-tactiques"
 - "infanterie AM Humains-tactiques"
-- "epic infanterie AM Humains-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "epic AM NONDL"
 - "infanterie AM NONDL"
-- "epic infanterie AM NONDL"
 - "Humains-tactiques NONDL"
 - "epic Humains-tactiques NONDL"
 - "infanterie Humains-tactiques NONDL"
-- "epic infanterie Humains-tactiques NONDL"
 - "AM Humains-tactiques NONDL"
-- "epic AM Humains-tactiques NONDL"
-- "infanterie AM Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
-- "epic infanterie AM NONSUP"
 - "Humains-tactiques NONSUP"
 - "epic Humains-tactiques NONSUP"
 - "infanterie Humains-tactiques NONSUP"
-- "epic infanterie Humains-tactiques NONSUP"
 - "AM Humains-tactiques NONSUP"
-- "epic AM Humains-tactiques NONSUP"
-- "infanterie AM Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "AM NONDL NONSUP"
-- "epic AM NONDL NONSUP"
-- "infanterie AM NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
-- "epic Humains-tactiques NONDL NONSUP"
-- "infanterie Humains-tactiques NONDL NONSUP"
-- "AM Humains-tactiques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.jpg> "thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.jpg")
+![](<thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.avif> "thumbs_-_martian-cyborg-infantry-type-r-6-8mm-promo_-_Images_1.avif")
 
   
 

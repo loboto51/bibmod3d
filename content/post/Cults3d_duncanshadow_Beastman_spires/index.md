@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > duncanshadow > Beastman_spires [non dl]"
 date: "2018-08-08T16:50:02Z"
 toc: true
-image: "thumbs_-_beastman-spires-duncanshadow_-_Images_1.jpg"
+image: "thumbs_-_beastman-spires-duncanshadow_-_Images_1.avif"
 tags:
 - "duncanshadow"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES NONDL"
 - "epic TYRANIDES NONDL"
 - "decors TYRANIDES NONDL"
-- "epic decors TYRANIDES NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "decors TYRANIDES NONSUP"
-- "epic decors TYRANIDES NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "epic TYRANIDES NONDL NONSUP"
-- "decors TYRANIDES NONDL NONSUP"
 - "warmaster"
 - "decors"
 - "warmaster decors"
@@ -50,7 +45,6 @@ tags:
 - "HOMMES-BETES NONDL"
 - "warmaster HOMMES-BETES NONDL"
 - "decors HOMMES-BETES NONDL"
-- "warmaster decors HOMMES-BETES NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "decors NONSUP"
@@ -58,18 +52,14 @@ tags:
 - "HOMMES-BETES NONSUP"
 - "warmaster HOMMES-BETES NONSUP"
 - "decors HOMMES-BETES NONSUP"
-- "warmaster decors HOMMES-BETES NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "warmaster decors NONDL NONSUP"
 - "HOMMES-BETES NONDL NONSUP"
-- "warmaster HOMMES-BETES NONDL NONSUP"
-- "decors HOMMES-BETES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_beastman-spires-duncanshadow_-_Images_1.jpg> "thumbs_-_beastman-spires-duncanshadow_-_Images_1.jpg")
+![](<thumbs_-_beastman-spires-duncanshadow_-_Images_1.avif> "thumbs_-_beastman-spires-duncanshadow_-_Images_1.avif")
 
   
 

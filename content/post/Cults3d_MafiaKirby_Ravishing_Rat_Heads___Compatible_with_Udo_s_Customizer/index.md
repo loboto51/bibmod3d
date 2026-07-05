@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MafiaKirby > Ravishing_Rat_Heads___Compatible_with_Udo_s_Customizer [non dl]"
 date: "2023-04-16T09:54:31Z"
 toc: true
-image: "thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.jpg"
+image: "thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.avif"
 tags:
 - "MafiaKirby"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.jpg> "thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.jpg")
+![](<thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.avif> "thumbs_-_ravishing-rat-heads-compatible-with-udo-s-customizer_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BenArch > Chaos_Warriors [dl]"
 date: "2020-03-09T13:18:04+00:00"
 toc: true
-image: "thumbs_-_4211168_-_Images_1.jpg"
+image: "thumbs_-_4211168_-_Images_1.avif"
 tags:
 - "BenArch"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_4211168_-_Images_1.jpg> "thumbs_-_4211168_-_Images_1.jpg")
+![](<thumbs_-_4211168_-_Images_1.avif> "thumbs_-_4211168_-_Images_1.avif")
 
-  ![](<thumbs_-_4211168_-_ImagesSTL_1.jpg> "thumbs_-_4211168_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4211168_-_ImagesSTL_1.avif> "thumbs_-_4211168_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4211168_-_Makes_1.jpg> "thumbs_-_4211168_-_Makes_1.jpg")
+  ![](<thumbs_-_4211168_-_Makes_1.avif> "thumbs_-_4211168_-_Makes_1.avif")
 
   
 

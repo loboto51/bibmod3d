@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > SeventhBasilisk > Lizardmen_Priestess_Toad [dl]"
 date: "2023-03-10T01:09:40Z"
 toc: true
-image: "thumbs_-_lizardmen-priestess-toad_-_Images_1.jpg"
+image: "thumbs_-_lizardmen-priestess-toad_-_Images_1.avif"
 tags:
 - "SeventhBasilisk"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_lizardmen-priestess-toad_-_Images_1.jpg> "thumbs_-_lizardmen-priestess-toad_-_Images_1.jpg")
+![](<thumbs_-_lizardmen-priestess-toad_-_Images_1.avif> "thumbs_-_lizardmen-priestess-toad_-_Images_1.avif")
 
-  ![](<thumbs_-_lizardmen-priestess-toad_-_ImagesSTL_1.jpg> "thumbs_-_lizardmen-priestess-toad_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_lizardmen-priestess-toad_-_ImagesSTL_1.avif> "thumbs_-_lizardmen-priestess-toad_-_ImagesSTL_1.avif")
 
   
 

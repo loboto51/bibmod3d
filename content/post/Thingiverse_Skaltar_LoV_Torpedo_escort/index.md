@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Skaltar > LoV_Torpedo_escort [non dl]"
 date: "2024-05-15T08:50:18+00:00"
 toc: true
-image: "thumbs_-_6622830_-_Images_1.jpg"
+image: "thumbs_-_6622830_-_Images_1.avif"
 tags:
 - "Skaltar"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "SQUATS Flotte NONDL"
-- "bfg SQUATS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "SQUATS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "SQUATS Flotte NONSUP"
-- "bfg SQUATS Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "bfg SQUATS NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "SQUATS Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6622830_-_Images_1.jpg> "thumbs_-_6622830_-_Images_1.jpg")
+![](<thumbs_-_6622830_-_Images_1.avif> "thumbs_-_6622830_-_Images_1.avif")
 
   
 

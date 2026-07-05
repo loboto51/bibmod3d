@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DoublebaseFanatic > Concrete_Road_Blockade_v2___8mm [non dl]"
 date: "2025-03-26T14:54:04Z"
 toc: true
-image: "thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.jpg"
+image: "thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.avif"
 tags:
 - "DoublebaseFanatic"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Barricades"
 - "epic IMP Barricades"
 - "decors IMP Barricades"
-- "epic decors IMP Barricades"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Barricades NONDL"
 - "epic Barricades NONDL"
 - "decors Barricades NONDL"
-- "epic decors Barricades NONDL"
 - "IMP Barricades NONDL"
-- "epic IMP Barricades NONDL"
-- "decors IMP Barricades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Barricades NONSUP"
 - "epic Barricades NONSUP"
 - "decors Barricades NONSUP"
-- "epic decors Barricades NONSUP"
 - "IMP Barricades NONSUP"
-- "epic IMP Barricades NONSUP"
-- "decors IMP Barricades NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Barricades NONDL NONSUP"
-- "epic Barricades NONDL NONSUP"
-- "decors Barricades NONDL NONSUP"
-- "IMP Barricades NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.jpg> "thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.jpg")
+![](<thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.avif> "thumbs_-_concrete-road-blockade-v2-8mm_-_Images_1.avif")
 
   
 

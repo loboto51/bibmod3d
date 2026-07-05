@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kallsu > Planetary_Empires___Terrain_Expansion_2 [non dl]"
 date: "2019-07-25T23:15:45+00:00"
 toc: true
-image: "thumbs_-_3770595_-_Images_1.jpg"
+image: "thumbs_-_3770595_-_Images_1.avif"
 tags:
 - "Kallsu"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3770595_-_Images_1.jpg> "thumbs_-_3770595_-_Images_1.jpg")
+![](<thumbs_-_3770595_-_Images_1.avif> "thumbs_-_3770595_-_Images_1.avif")
 
   
 

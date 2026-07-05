@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > PeculiarCompanions > Armed_Goblin_Peasant [non dl]"
 date: "2020-02-05T18:22:23+00:00"
 toc: true
-image: "thumbs_-_4146061_-_Images_1.jpg"
+image: "thumbs_-_4146061_-_Images_1.avif"
 tags:
 - "PeculiarCompanions"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "28mm GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4146061_-_Images_1.jpg> "thumbs_-_4146061_-_Images_1.jpg")
+![](<thumbs_-_4146061_-_Images_1.avif> "thumbs_-_4146061_-_Images_1.avif")
 
-  ![](<thumbs_-_4146061_-_Makes_1.jpg> "thumbs_-_4146061_-_Makes_1.jpg")
+  ![](<thumbs_-_4146061_-_Makes_1.avif> "thumbs_-_4146061_-_Makes_1.avif")
 
   
 

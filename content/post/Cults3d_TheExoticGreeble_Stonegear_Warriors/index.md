@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > TheExoticGreeble > Stonegear_Warriors [non dl]"
 date: "2024-04-16T22:36:32Z"
 toc: true
-image: "thumbs_-_stonegear-warriors_-_Images_1.jpg"
+image: "thumbs_-_stonegear-warriors_-_Images_1.avif"
 tags:
 - "TheExoticGreeble"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "SQUATS NONDL SUP"
-- "28mm SQUATS NONDL SUP"
 
 ---
 
-![](<thumbs_-_stonegear-warriors_-_Images_1.jpg> "thumbs_-_stonegear-warriors_-_Images_1.jpg")
+![](<thumbs_-_stonegear-warriors_-_Images_1.avif> "thumbs_-_stonegear-warriors_-_Images_1.avif")
 
   
 

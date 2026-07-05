@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nedius > Simple_Modular_Tile_Set_Base [non dl]"
 date: "2024-12-18T15:41:17Z"
 toc: true
-image: "thumbs_-_simple-modular-tile-set-base_-_Images_1.jpg"
+image: "thumbs_-_simple-modular-tile-set-base_-_Images_1.avif"
 tags:
 - "Nedius"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_simple-modular-tile-set-base_-_Images_1.jpg> "thumbs_-_simple-modular-tile-set-base_-_Images_1.jpg")
+![](<thumbs_-_simple-modular-tile-set-base_-_Images_1.avif> "thumbs_-_simple-modular-tile-set-base_-_Images_1.avif")
 
   
 

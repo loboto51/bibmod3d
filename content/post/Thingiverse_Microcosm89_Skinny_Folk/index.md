@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Microcosm89 > Skinny_Folk [dl]"
 date: "2026-05-30T14:18:43+00:00"
 toc: true
-image: "thumbs_-_7361800_-_Images_1.jpg"
+image: "thumbs_-_7361800_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7361800_-_Images_1.jpg> "thumbs_-_7361800_-_Images_1.jpg")
+![](<thumbs_-_7361800_-_Images_1.avif> "thumbs_-_7361800_-_Images_1.avif")
 
-  ![](<thumbs_-_7361800_-_ImagesSTL_1.jpg> "thumbs_-_7361800_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7361800_-_ImagesSTL_1.avif> "thumbs_-_7361800_-_ImagesSTL_1.avif")
 
   
 

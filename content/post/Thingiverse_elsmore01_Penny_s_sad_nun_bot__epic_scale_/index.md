@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > elsmore01 > Penny_s_sad_nun_bot__epic_scale_ [dl]"
 date: "2020-03-12T19:32:23+00:00"
 toc: true
-image: "thumbs_-_4218140_-_Images_1.jpg"
+image: "thumbs_-_4218140_-_Images_1.avif"
 tags:
 - "elsmore01"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SOB Sob-marcheurs"
 - "epic SOB Sob-marcheurs"
 - "marcheurs SOB Sob-marcheurs"
-- "epic marcheurs SOB Sob-marcheurs"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SOB NONSUP"
 - "epic SOB NONSUP"
 - "marcheurs SOB NONSUP"
-- "epic marcheurs SOB NONSUP"
 - "Sob-marcheurs NONSUP"
 - "epic Sob-marcheurs NONSUP"
 - "marcheurs Sob-marcheurs NONSUP"
-- "epic marcheurs Sob-marcheurs NONSUP"
 - "SOB Sob-marcheurs NONSUP"
-- "epic SOB Sob-marcheurs NONSUP"
-- "marcheurs SOB Sob-marcheurs NONSUP"
 
 ---
 
-![](<thumbs_-_4218140_-_Images_1.jpg> "thumbs_-_4218140_-_Images_1.jpg")
+![](<thumbs_-_4218140_-_Images_1.avif> "thumbs_-_4218140_-_Images_1.avif")
 
-  ![](<thumbs_-_4218140_-_ImagesSTL_1.jpg> "thumbs_-_4218140_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4218140_-_ImagesSTL_1.avif> "thumbs_-_4218140_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4218140_-_Makes_1.jpg> "thumbs_-_4218140_-_Makes_1.jpg")
+  ![](<thumbs_-_4218140_-_Makes_1.avif> "thumbs_-_4218140_-_Makes_1.avif")
 
   
 

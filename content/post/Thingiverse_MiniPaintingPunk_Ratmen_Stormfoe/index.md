@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MiniPaintingPunk > Ratmen_Stormfoe [dl]"
 date: "2020-02-13T19:29:48+00:00"
 toc: true
-image: "thumbs_-_4159979_-_Images_1.jpg"
+image: "thumbs_-_4159979_-_Images_1.avif"
 tags:
 - "MiniPaintingPunk"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_4159979_-_Images_1.jpg> "thumbs_-_4159979_-_Images_1.jpg")
+![](<thumbs_-_4159979_-_Images_1.avif> "thumbs_-_4159979_-_Images_1.avif")
 
-  ![](<thumbs_-_4159979_-_ImagesSTL_1.jpg> "thumbs_-_4159979_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4159979_-_ImagesSTL_1.avif> "thumbs_-_4159979_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4159979_-_Makes_1.jpg> "thumbs_-_4159979_-_Makes_1.jpg")
+  ![](<thumbs_-_4159979_-_Makes_1.avif> "thumbs_-_4159979_-_Makes_1.avif")
 
   
 

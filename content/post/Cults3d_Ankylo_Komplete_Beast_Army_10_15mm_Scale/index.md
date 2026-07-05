@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Ankylo > Komplete_Beast_Army_10_15mm_Scale [non dl]"
 date: "2023-08-19T09:09:46Z"
 toc: true
-image: "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg"
+image: "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.avif"
 tags:
 - "Ankylo"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "HOMMES-BETES NONDL SUP"
-- "warmaster HOMMES-BETES NONDL SUP"
 
 ---
 
-![](<thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg> "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.jpg")
+![](<thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.avif> "thumbs_-_komplete-beast-army-10-15mm-scale_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > FuegoCruzado > Epic_Ork_Buggy_1_0 [dl]"
 date: "2018-01-24T22:59:12+00:00"
 toc: true
-image: "thumbs_-_2769095_-_Images_1.jpg"
+image: "thumbs_-_2769095_-_Images_1.avif"
 tags:
 - "FuegoCruzado"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-buggys"
 - "epic ORKS Orks-buggys"
 - "vehicules ORKS Orks-buggys"
-- "epic vehicules ORKS Orks-buggys"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "vehicules ORKS NONSUP"
-- "epic vehicules ORKS NONSUP"
 - "Orks-buggys NONSUP"
 - "epic Orks-buggys NONSUP"
 - "vehicules Orks-buggys NONSUP"
-- "epic vehicules Orks-buggys NONSUP"
 - "ORKS Orks-buggys NONSUP"
-- "epic ORKS Orks-buggys NONSUP"
-- "vehicules ORKS Orks-buggys NONSUP"
 
 ---
 
-![](<thumbs_-_2769095_-_Images_1.jpg> "thumbs_-_2769095_-_Images_1.jpg")
+![](<thumbs_-_2769095_-_Images_1.avif> "thumbs_-_2769095_-_Images_1.avif")
 
-  ![](<thumbs_-_2769095_-_ImagesSTL_1.jpg> "thumbs_-_2769095_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_2769095_-_ImagesSTL_1.avif> "thumbs_-_2769095_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_2769095_-_Makes_1.jpg> "thumbs_-_2769095_-_Makes_1.jpg")
+  ![](<thumbs_-_2769095_-_Makes_1.avif> "thumbs_-_2769095_-_Makes_1.avif")
 
   
 

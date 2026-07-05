@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mewiththeface > Epic_Seraptek_Construct [dl]"
 date: "2020-07-07T11:01:48Z"
 toc: true
-image: "thumbs_-_epic-seraptek-construct_-_Images_1.jpg"
+image: "thumbs_-_epic-seraptek-construct_-_Images_1.avif"
 tags:
 - "mewiththeface"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "NEC Necrons-serapteks"
 - "epic NEC Necrons-serapteks"
 - "superlourds NEC Necrons-serapteks"
-- "epic superlourds NEC Necrons-serapteks"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "NEC NONSUP"
 - "epic NEC NONSUP"
 - "superlourds NEC NONSUP"
-- "epic superlourds NEC NONSUP"
 - "Necrons-serapteks NONSUP"
 - "epic Necrons-serapteks NONSUP"
 - "superlourds Necrons-serapteks NONSUP"
-- "epic superlourds Necrons-serapteks NONSUP"
 - "NEC Necrons-serapteks NONSUP"
-- "epic NEC Necrons-serapteks NONSUP"
-- "superlourds NEC Necrons-serapteks NONSUP"
 
 ---
 
-![](<thumbs_-_epic-seraptek-construct_-_Images_1.jpg> "thumbs_-_epic-seraptek-construct_-_Images_1.jpg")
+![](<thumbs_-_epic-seraptek-construct_-_Images_1.avif> "thumbs_-_epic-seraptek-construct_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-seraptek-construct_-_ImagesSTL_1.jpg> "thumbs_-_epic-seraptek-construct_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-seraptek-construct_-_ImagesSTL_1.avif> "thumbs_-_epic-seraptek-construct_-_ImagesSTL_1.avif")
 
   
 

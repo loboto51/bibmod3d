@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Toad35 > Dragonnier_exodites_v1_0 [non dl]"
 date: "2021-08-07T17:03:19Z"
 toc: true
-image: "thumbs_-_dragonnier-exodites-v1-0_-_Images_1.jpg"
+image: "thumbs_-_dragonnier-exodites-v1-0_-_Images_1.avif"
 tags:
 - "Toad35"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-cavalerie"
 - "epic EXO Eldars-cavalerie"
 - "infanterie EXO Eldars-cavalerie"
-- "epic infanterie EXO Eldars-cavalerie"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EXO NONDL"
 - "epic EXO NONDL"
 - "infanterie EXO NONDL"
-- "epic infanterie EXO NONDL"
 - "Eldars-cavalerie NONDL"
 - "epic Eldars-cavalerie NONDL"
 - "infanterie Eldars-cavalerie NONDL"
-- "epic infanterie Eldars-cavalerie NONDL"
 - "EXO Eldars-cavalerie NONDL"
-- "epic EXO Eldars-cavalerie NONDL"
-- "infanterie EXO Eldars-cavalerie NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "EXO SUP"
 - "epic EXO SUP"
 - "infanterie EXO SUP"
-- "epic infanterie EXO SUP"
 - "Eldars-cavalerie SUP"
 - "epic Eldars-cavalerie SUP"
 - "infanterie Eldars-cavalerie SUP"
-- "epic infanterie Eldars-cavalerie SUP"
 - "EXO Eldars-cavalerie SUP"
-- "epic EXO Eldars-cavalerie SUP"
-- "infanterie EXO Eldars-cavalerie SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "EXO NONDL SUP"
-- "epic EXO NONDL SUP"
-- "infanterie EXO NONDL SUP"
 - "Eldars-cavalerie NONDL SUP"
-- "epic Eldars-cavalerie NONDL SUP"
-- "infanterie Eldars-cavalerie NONDL SUP"
-- "EXO Eldars-cavalerie NONDL SUP"
 
 ---
 
-![](<thumbs_-_dragonnier-exodites-v1-0_-_Images_1.jpg> "thumbs_-_dragonnier-exodites-v1-0_-_Images_1.jpg")
+![](<thumbs_-_dragonnier-exodites-v1-0_-_Images_1.avif> "thumbs_-_dragonnier-exodites-v1-0_-_Images_1.avif")
 
   
 

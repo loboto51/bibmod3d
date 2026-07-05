@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nivek01 > The_little_purple [non dl]"
 date: "2024-11-16T07:24:28Z"
 toc: true
-image: "thumbs_-_the-little-purple_-_Images_1.jpg"
+image: "thumbs_-_the-little-purple_-_Images_1.avif"
 tags:
 - "Nivek01"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_the-little-purple_-_Images_1.jpg> "thumbs_-_the-little-purple_-_Images_1.jpg")
+![](<thumbs_-_the-little-purple_-_Images_1.avif> "thumbs_-_the-little-purple_-_Images_1.avif")
 
   
 

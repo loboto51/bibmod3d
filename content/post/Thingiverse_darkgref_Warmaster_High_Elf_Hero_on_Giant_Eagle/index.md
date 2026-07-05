@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Warmaster_High_Elf_Hero_on_Giant_Eagle [non dl]"
 date: "2021-08-07T08:13:06+00:00"
 toc: true
-image: "thumbs_-_4926814_-_Images_1.jpg"
+image: "thumbs_-_4926814_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4926814_-_Images_1.jpg> "thumbs_-_4926814_-_Images_1.jpg")
+![](<thumbs_-_4926814_-_Images_1.avif> "thumbs_-_4926814_-_Images_1.avif")
 
   
 

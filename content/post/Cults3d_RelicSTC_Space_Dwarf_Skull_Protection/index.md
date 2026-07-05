@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > RelicSTC > Space_Dwarf_Skull_Protection [non dl]"
 date: "2023-05-23T21:04:09Z"
 toc: true
-image: "thumbs_-_space-dwarf-skull-protection_-_Images_1.jpg"
+image: "thumbs_-_space-dwarf-skull-protection_-_Images_1.avif"
 tags:
 - "RelicSTC"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "SQUATS NONDL SUP"
-- "28mm SQUATS NONDL SUP"
 
 ---
 
-![](<thumbs_-_space-dwarf-skull-protection_-_Images_1.jpg> "thumbs_-_space-dwarf-skull-protection_-_Images_1.jpg")
+![](<thumbs_-_space-dwarf-skull-protection_-_Images_1.avif> "thumbs_-_space-dwarf-skull-protection_-_Images_1.avif")
 
   
 

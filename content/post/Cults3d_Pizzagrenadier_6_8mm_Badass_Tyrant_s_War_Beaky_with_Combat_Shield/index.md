@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Pizzagrenadier > 6_8mm_Badass_Tyrant_s_War_Beaky_with_Combat_Shield [dl]"
 date: "2025-02-19T03:46:21Z"
 toc: true
-image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut"
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
-- "epic infanterie SMI Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-combat-shield_-_ImagesSTL_1.avif")
 
   
 

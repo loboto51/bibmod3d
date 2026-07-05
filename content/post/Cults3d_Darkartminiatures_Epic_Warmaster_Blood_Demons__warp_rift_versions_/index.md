@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Darkartminiatures > Epic_Warmaster_Blood_Demons__warp_rift_versions_ [dl]"
 date: "2023-04-24T18:48:09Z"
 toc: true
-image: "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.jpg"
+image: "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.avif"
 tags:
 - "Darkartminiatures"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.jpg> "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.jpg")
+![](<thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.avif> "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_ImagesSTL_1.jpg> "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_ImagesSTL_1.avif> "thumbs_-_epic-warmaster-blood-demons-warp-rift-versions_-_ImagesSTL_1.avif")
 
   
 

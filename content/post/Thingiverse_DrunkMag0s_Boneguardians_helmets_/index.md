@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > DrunkMag0s > Boneguardians_helmets_ [non dl]"
 date: "2021-04-15T15:51:33+00:00"
 toc: true
-image: "thumbs_-_4828137_-_Images_1.jpg"
+image: "thumbs_-_4828137_-_Images_1.avif"
 tags:
 - "DrunkMag0s"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "ELDARS NONDL"
 - "28mm ELDARS NONDL"
 - "VM ELDARS NONDL"
-- "28mm VM ELDARS NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "VM NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "ELDARS NONSUP"
 - "28mm ELDARS NONSUP"
 - "VM ELDARS NONSUP"
-- "28mm VM ELDARS NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "VM NONDL NONSUP"
-- "28mm VM NONDL NONSUP"
 - "ELDARS NONDL NONSUP"
-- "28mm ELDARS NONDL NONSUP"
-- "VM ELDARS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4828137_-_Images_1.jpg> "thumbs_-_4828137_-_Images_1.jpg")
+![](<thumbs_-_4828137_-_Images_1.avif> "thumbs_-_4828137_-_Images_1.avif")
 
   
 

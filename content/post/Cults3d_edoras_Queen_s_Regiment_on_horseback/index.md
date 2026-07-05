@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > Queen_s_Regiment_on_horseback [non dl]"
 date: "2025-02-05T16:30:55Z"
 toc: true
-image: "thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.jpg"
+image: "thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.jpg> "thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.jpg")
+![](<thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.avif> "thumbs_-_regimiento-de-la-reina-a-caballo_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Brother_Arminius_Miniatures > Fanart_Chaoticons_Warriors_6mm_15mm [dl]"
 date: "2024-07-31T15:34:16Z"
 toc: true
-image: "thumbs_-_chaoticons-warriors_-_Images_1.jpg"
+image: "thumbs_-_chaoticons-warriors_-_Images_1.avif"
 tags:
 - "Brother_Arminius_Miniatures"
 - "15mm"
@@ -27,7 +27,6 @@ tags:
 - "NEC Necrons-tactiques"
 - "epic NEC Necrons-tactiques"
 - "infanterie NEC Necrons-tactiques"
-- "epic infanterie NEC Necrons-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -35,20 +34,16 @@ tags:
 - "NEC SUP"
 - "epic NEC SUP"
 - "infanterie NEC SUP"
-- "epic infanterie NEC SUP"
 - "Necrons-tactiques SUP"
 - "epic Necrons-tactiques SUP"
 - "infanterie Necrons-tactiques SUP"
-- "epic infanterie Necrons-tactiques SUP"
 - "NEC Necrons-tactiques SUP"
-- "epic NEC Necrons-tactiques SUP"
-- "infanterie NEC Necrons-tactiques SUP"
 
 ---
 
-![](<thumbs_-_chaoticons-warriors_-_Images_1.jpg> "thumbs_-_chaoticons-warriors_-_Images_1.jpg")
+![](<thumbs_-_chaoticons-warriors_-_Images_1.avif> "thumbs_-_chaoticons-warriors_-_Images_1.avif")
 
-  ![](<thumbs_-_chaoticons-warriors_-_ImagesSTL_1.jpg> "thumbs_-_chaoticons-warriors_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_chaoticons-warriors_-_ImagesSTL_1.avif> "thumbs_-_chaoticons-warriors_-_ImagesSTL_1.avif")
 
   
 

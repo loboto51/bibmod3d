@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > OSD_Big_Bike [dl]"
 date: "2022-01-10T02:07:45+00:00"
 toc: true
-image: "thumbs_-_5194145_-_Images_1.jpg"
+image: "thumbs_-_5194145_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-vypers"
 - "epic VM Eldars-vypers"
 - "vehicules VM Eldars-vypers"
-- "epic vehicules VM Eldars-vypers"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "vehicules VM NONSUP"
-- "epic vehicules VM NONSUP"
 - "Eldars-vypers NONSUP"
 - "epic Eldars-vypers NONSUP"
 - "vehicules Eldars-vypers NONSUP"
-- "epic vehicules Eldars-vypers NONSUP"
 - "VM Eldars-vypers NONSUP"
-- "epic VM Eldars-vypers NONSUP"
-- "vehicules VM Eldars-vypers NONSUP"
 
 ---
 
-![](<thumbs_-_5194145_-_Images_1.jpg> "thumbs_-_5194145_-_Images_1.jpg")
+![](<thumbs_-_5194145_-_Images_1.avif> "thumbs_-_5194145_-_Images_1.avif")
 
-  ![](<thumbs_-_5194145_-_ImagesSTL_1.jpg> "thumbs_-_5194145_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5194145_-_ImagesSTL_1.avif> "thumbs_-_5194145_-_ImagesSTL_1.avif")
 
   
 

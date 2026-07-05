@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Void_assault > Gloomy_Angels_Thicc_Shoulders [non dl]"
 date: "2020-01-20T11:08:13+00:00"
 toc: true
-image: "thumbs_-_4115337_-_Images_1.jpg"
+image: "thumbs_-_4115337_-_Images_1.avif"
 tags:
 - "Void_assault"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4115337_-_Images_1.jpg> "thumbs_-_4115337_-_Images_1.jpg")
+![](<thumbs_-_4115337_-_Images_1.avif> "thumbs_-_4115337_-_Images_1.avif")
 
   
 

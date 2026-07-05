@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny__relatively_speaking__Dwarf_Zeppelin__NOW_WITH_RULES__ [dl]"
 date: "2024-05-04T19:48:19+00:00"
 toc: true
-image: "thumbs_-_6608201_-_Images_1.jpg"
+image: "thumbs_-_6608201_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_6608201_-_Images_1.jpg> "thumbs_-_6608201_-_Images_1.jpg")
+![](<thumbs_-_6608201_-_Images_1.avif> "thumbs_-_6608201_-_Images_1.avif")
 
-  ![](<thumbs_-_6608201_-_ImagesSTL_1.jpg> "thumbs_-_6608201_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6608201_-_ImagesSTL_1.avif> "thumbs_-_6608201_-_ImagesSTL_1.avif")
 
   
 

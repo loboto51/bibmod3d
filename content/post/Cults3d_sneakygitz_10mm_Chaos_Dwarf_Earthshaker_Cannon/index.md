@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > sneakygitz > 10mm_Chaos_Dwarf_Earthshaker_Cannon [non dl]"
 date: "2022-08-03T16:22:06Z"
 toc: true
-image: "thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.jpg"
+image: "thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.avif"
 tags:
 - "sneakygitz"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "warmaster NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.jpg> "thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.jpg")
+![](<thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.avif> "thumbs_-_10mm-chaos-dwarf-earthshaker-cannon_-_Images_1.avif")
 
   
 

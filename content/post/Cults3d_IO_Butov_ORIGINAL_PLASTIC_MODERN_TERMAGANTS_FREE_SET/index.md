@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > ORIGINAL_PLASTIC_MODERN_TERMAGANTS_FREE_SET [non dl]"
 date: "2024-04-20T18:50:00Z"
 toc: true
-image: "thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.jpg"
+image: "thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.jpg> "thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.jpg")
+![](<thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.avif> "thumbs_-_original-plastic-modern-termagants-free-set_-_Images_1.avif")
 
   
 

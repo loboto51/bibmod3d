@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Tau_Modular_Fleet_Capital_Ships [non dl]"
 date: "2020-03-25T02:19:05Z"
 toc: true
-image: "thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.jpg"
+image: "thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "TAU Flotte NONDL"
-- "bfg TAU Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "TAU NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "TAU Flotte NONSUP"
-- "bfg TAU Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "TAU NONDL NONSUP"
-- "bfg TAU NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "TAU Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.jpg> "thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.jpg")
+![](<thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.avif> "thumbs_-_tau-modular-fleet-capital-ships_-_Images_1.avif")
 
-  ![](<thumbs_-_tau-modular-fleet-capital-ships_-_Makes_1.jpg> "thumbs_-_tau-modular-fleet-capital-ships_-_Makes_1.jpg")
+  ![](<thumbs_-_tau-modular-fleet-capital-ships_-_Makes_1.avif> "thumbs_-_tau-modular-fleet-capital-ships_-_Makes_1.avif")
 
   
 

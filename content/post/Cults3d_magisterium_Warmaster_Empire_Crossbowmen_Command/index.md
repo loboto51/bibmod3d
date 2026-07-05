@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > magisterium > Warmaster_Empire_Crossbowmen_Command [non dl]"
 date: "2023-06-05T15:09:01Z"
 toc: true
-image: "thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.jpg"
+image: "thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.avif"
 tags:
 - "magisterium"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS NONDL"
 - "warmaster HUMAINS NONDL"
 - "EMPIRE HUMAINS NONDL"
-- "warmaster EMPIRE HUMAINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "EMPIRE NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "HUMAINS NONSUP"
 - "warmaster HUMAINS NONSUP"
 - "EMPIRE HUMAINS NONSUP"
-- "warmaster EMPIRE HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "EMPIRE HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.jpg> "thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.jpg")
+![](<thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.avif> "thumbs_-_warmaster-empire-crossbowmen-command_-_Images_1.avif")
 
   
 

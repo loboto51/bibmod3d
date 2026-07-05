@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Miffles_Makes > 6mm_Empire_Star_Army__Dragoon_Shocktrooper_Infantry [dl]"
 date: "2020-06-09T08:44:59Z"
 toc: true
-image: "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.jpg"
+image: "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.avif"
 tags:
 - "Miffles_Makes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Troupes-de-choc"
 - "epic GI Troupes-de-choc"
 - "infanterie GI Troupes-de-choc"
-- "epic infanterie GI Troupes-de-choc"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Troupes-de-choc NONSUP"
 - "epic Troupes-de-choc NONSUP"
 - "infanterie Troupes-de-choc NONSUP"
-- "epic infanterie Troupes-de-choc NONSUP"
 - "GI Troupes-de-choc NONSUP"
-- "epic GI Troupes-de-choc NONSUP"
-- "infanterie GI Troupes-de-choc NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.jpg> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.jpg")
+![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.avif> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_ImagesSTL_1.jpg> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_ImagesSTL_1.avif> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Makes_1.jpg> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Makes_1.jpg")
+  ![](<thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Makes_1.avif> "thumbs_-_6mm-empire-star-army-dragoon-shocktrooper-infantry_-_Makes_1.avif")
 
   
 

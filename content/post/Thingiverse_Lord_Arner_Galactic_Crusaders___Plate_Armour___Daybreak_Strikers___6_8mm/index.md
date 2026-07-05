@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Lord_Arner > Galactic_Crusaders___Plate_Armour___Daybreak_Strikers___6_8mm [dl]"
 date: "2020-09-18T09:20:14+00:00"
 toc: true
-image: "thumbs_-_4599934_-_Images_1.jpg"
+image: "thumbs_-_4599934_-_Images_1.avif"
 tags:
 - "Lord_Arner"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut-volant"
 - "epic SM30K Sm-assaut-volant"
 - "infanterie SM30K Sm-assaut-volant"
-- "epic infanterie SM30K Sm-assaut-volant"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SM30K Sm-assaut-volant NONSUP"
-- "epic SM30K Sm-assaut-volant NONSUP"
-- "infanterie SM30K Sm-assaut-volant NONSUP"
 
 ---
 
-![](<thumbs_-_4599934_-_Images_1.jpg> "thumbs_-_4599934_-_Images_1.jpg")
+![](<thumbs_-_4599934_-_Images_1.avif> "thumbs_-_4599934_-_Images_1.avif")
 
-  ![](<thumbs_-_4599934_-_ImagesSTL_1.jpg> "thumbs_-_4599934_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4599934_-_ImagesSTL_1.avif> "thumbs_-_4599934_-_ImagesSTL_1.avif")
 
   
 

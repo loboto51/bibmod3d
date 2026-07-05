@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Victory_Pattern_Weapons_Pack_A [non dl]"
 date: "2025-08-10T09:41:21Z"
 toc: true
-image: "thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.jpg"
+image: "thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "IMP SUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "IMP Flotte SUP"
-- "bfg IMP Flotte SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "IMP NONDL SUP"
-- "bfg IMP NONDL SUP"
 - "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "IMP Flotte NONDL SUP"
 
 ---
 
-![](<thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.jpg> "thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.jpg")
+![](<thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.avif> "thumbs_-_victory-pattern-weapons-pack-a_-_Images_1.avif")
 
   
 

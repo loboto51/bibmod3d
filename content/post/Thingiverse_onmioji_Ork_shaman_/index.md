@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onmioji > Ork_shaman_ [non dl]"
 date: "2022-11-12T14:05:23+00:00"
 toc: true
-image: "thumbs_-_5624731_-_Images_1.jpg"
+image: "thumbs_-_5624731_-_Images_1.avif"
 tags:
 - "onmioji"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ORCS NONDL NONSUP"
-- "warmaster ORCS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5624731_-_Images_1.jpg> "thumbs_-_5624731_-_Images_1.jpg")
+![](<thumbs_-_5624731_-_Images_1.avif> "thumbs_-_5624731_-_Images_1.avif")
 
-  ![](<thumbs_-_5624731_-_Makes_1.jpg> "thumbs_-_5624731_-_Makes_1.jpg")
+  ![](<thumbs_-_5624731_-_Makes_1.avif> "thumbs_-_5624731_-_Makes_1.avif")
 
   
 

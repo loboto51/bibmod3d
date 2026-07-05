@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > DelaRosaMiniatures > Lord_Archarah_o [dl]"
 date: "2019-11-04T12:43:33+00:00"
 toc: true
-image: "thumbs_-_3955590_-_Images_1.jpg"
+image: "thumbs_-_3955590_-_Images_1.avif"
 tags:
 - "DelaRosaMiniatures"
 - "28mm"
@@ -20,15 +20,14 @@ tags:
 - "WFB NONSUP"
 - "28mm WFB NONSUP"
 - "CHAOS WFB NONSUP"
-- "28mm CHAOS WFB NONSUP"
 
 ---
 
-![](<thumbs_-_3955590_-_Images_1.jpg> "thumbs_-_3955590_-_Images_1.jpg")
+![](<thumbs_-_3955590_-_Images_1.avif> "thumbs_-_3955590_-_Images_1.avif")
 
-  ![](<thumbs_-_3955590_-_ImagesSTL_1.jpg> "thumbs_-_3955590_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3955590_-_ImagesSTL_1.avif> "thumbs_-_3955590_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3955590_-_Makes_1.jpg> "thumbs_-_3955590_-_Makes_1.jpg")
+  ![](<thumbs_-_3955590_-_Makes_1.avif> "thumbs_-_3955590_-_Makes_1.avif")
 
   
 

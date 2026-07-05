@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > esobzone > tamed_pet_hotdogs [non dl]"
 date: "2024-02-14T06:36:58Z"
 toc: true
-image: "thumbs_-_tamed-pet-hotdogs_-_Images_1.jpg"
+image: "thumbs_-_tamed-pet-hotdogs_-_Images_1.avif"
 tags:
 - "esobzone"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_tamed-pet-hotdogs_-_Images_1.jpg> "thumbs_-_tamed-pet-hotdogs_-_Images_1.jpg")
+![](<thumbs_-_tamed-pet-hotdogs_-_Images_1.avif> "thumbs_-_tamed-pet-hotdogs_-_Images_1.avif")
 
   
 

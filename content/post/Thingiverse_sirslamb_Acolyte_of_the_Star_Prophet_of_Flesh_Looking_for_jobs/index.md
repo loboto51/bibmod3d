@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > sirslamb > Acolyte_of_the_Star_Prophet_of_Flesh_Looking_for_jobs [non dl]"
 date: "2021-01-23T14:32:32+00:00"
 toc: true
-image: "thumbs_-_4732463_-_Images_1.jpg"
+image: "thumbs_-_4732463_-_Images_1.avif"
 tags:
 - "sirslamb"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS NONDL"
 - "28mm HUMAINS NONDL"
 - "CGEN HUMAINS NONDL"
-- "28mm CGEN HUMAINS NONDL"
 - "SUP"
 - "28mm SUP"
 - "CGEN SUP"
@@ -28,18 +27,14 @@ tags:
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "CGEN HUMAINS SUP"
-- "28mm CGEN HUMAINS SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "CGEN NONDL SUP"
-- "28mm CGEN NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "28mm HUMAINS NONDL SUP"
-- "CGEN HUMAINS NONDL SUP"
 
 ---
 
-![](<thumbs_-_4732463_-_Images_1.jpg> "thumbs_-_4732463_-_Images_1.jpg")
+![](<thumbs_-_4732463_-_Images_1.avif> "thumbs_-_4732463_-_Images_1.avif")
 
   
 

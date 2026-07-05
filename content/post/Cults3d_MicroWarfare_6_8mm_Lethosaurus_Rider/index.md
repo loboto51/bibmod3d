@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MicroWarfare > 6_8mm_Lethosaurus_Rider [non dl]"
 date: "2021-03-19T01:48:34Z"
 toc: true
-image: "thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.avif"
 tags:
 - "MicroWarfare"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-cavalerie"
 - "epic EXO Eldars-cavalerie"
 - "infanterie EXO Eldars-cavalerie"
-- "epic infanterie EXO Eldars-cavalerie"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EXO NONDL"
 - "epic EXO NONDL"
 - "infanterie EXO NONDL"
-- "epic infanterie EXO NONDL"
 - "Eldars-cavalerie NONDL"
 - "epic Eldars-cavalerie NONDL"
 - "infanterie Eldars-cavalerie NONDL"
-- "epic infanterie Eldars-cavalerie NONDL"
 - "EXO Eldars-cavalerie NONDL"
-- "epic EXO Eldars-cavalerie NONDL"
-- "infanterie EXO Eldars-cavalerie NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "EXO NONSUP"
 - "epic EXO NONSUP"
 - "infanterie EXO NONSUP"
-- "epic infanterie EXO NONSUP"
 - "Eldars-cavalerie NONSUP"
 - "epic Eldars-cavalerie NONSUP"
 - "infanterie Eldars-cavalerie NONSUP"
-- "epic infanterie Eldars-cavalerie NONSUP"
 - "EXO Eldars-cavalerie NONSUP"
-- "epic EXO Eldars-cavalerie NONSUP"
-- "infanterie EXO Eldars-cavalerie NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "EXO NONDL NONSUP"
-- "epic EXO NONDL NONSUP"
-- "infanterie EXO NONDL NONSUP"
 - "Eldars-cavalerie NONDL NONSUP"
-- "epic Eldars-cavalerie NONDL NONSUP"
-- "infanterie Eldars-cavalerie NONDL NONSUP"
-- "EXO Eldars-cavalerie NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.jpg> "thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.avif> "thumbs_-_6-8mm-lethosaurus-rider_-_Images_1.avif")
 
   
 

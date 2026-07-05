@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Expanded_Tactical_Galactic_Crusaders [dl]"
 date: "2024-04-26T00:02:00Z"
 toc: true
-image: "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.jpg"
+image: "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SM30K Sm-tactiques"
 - "epic SM30K Sm-tactiques"
 - "infanterie SM30K Sm-tactiques"
-- "epic infanterie SM30K Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SM30K Sm-tactiques NONSUP"
-- "epic SM30K Sm-tactiques NONSUP"
-- "infanterie SM30K Sm-tactiques NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -80,7 +70,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -88,40 +77,36 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.jpg")
+![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Images_1.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_10.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_10.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_10.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_10.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_1.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_1.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_2.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_2.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_3.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_3.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_3.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_4.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_4.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_4.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_4.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_5.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_5.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_5.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_5.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_6.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_6.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_6.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_6.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_7.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_7.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_7.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_7.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_8.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_8.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_8.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_8.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_9.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_9.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_9.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_ImagesSTL_9.avif")
 
-  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Makes_1.jpg> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Makes_1.jpg")
+  ![](<thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Makes_1.avif> "thumbs_-_expanded-tactical-galactic-crusaders-d362f9553ec5347bc3a5_-_Makes_1.avif")
 
   
 

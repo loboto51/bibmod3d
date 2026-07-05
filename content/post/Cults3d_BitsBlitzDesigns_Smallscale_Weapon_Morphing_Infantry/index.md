@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > BitsBlitzDesigns > Smallscale_Weapon_Morphing_Infantry [non dl]"
 date: "2024-05-27T22:07:49Z"
 toc: true
-image: "thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.jpg"
+image: "thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.avif"
 tags:
 - "BitsBlitzDesigns"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-obliterators"
 - "epic SMC Sm-obliterators"
 - "infanterie SMC Sm-obliterators"
-- "epic infanterie SMC Sm-obliterators"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SMC NONDL"
 - "epic SMC NONDL"
 - "infanterie SMC NONDL"
-- "epic infanterie SMC NONDL"
 - "Sm-obliterators NONDL"
 - "epic Sm-obliterators NONDL"
 - "infanterie Sm-obliterators NONDL"
-- "epic infanterie Sm-obliterators NONDL"
 - "SMC Sm-obliterators NONDL"
-- "epic SMC Sm-obliterators NONDL"
-- "infanterie SMC Sm-obliterators NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-obliterators NONSUP"
 - "epic Sm-obliterators NONSUP"
 - "infanterie Sm-obliterators NONSUP"
-- "epic infanterie Sm-obliterators NONSUP"
 - "SMC Sm-obliterators NONSUP"
-- "epic SMC Sm-obliterators NONSUP"
-- "infanterie SMC Sm-obliterators NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "SMC NONDL NONSUP"
-- "epic SMC NONDL NONSUP"
-- "infanterie SMC NONDL NONSUP"
 - "Sm-obliterators NONDL NONSUP"
-- "epic Sm-obliterators NONDL NONSUP"
-- "infanterie Sm-obliterators NONDL NONSUP"
-- "SMC Sm-obliterators NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.jpg> "thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.jpg")
+![](<thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.avif> "thumbs_-_smallscale-weapon-morphing-infantry_-_Images_1.avif")
 
-  ![](<thumbs_-_smallscale-weapon-morphing-infantry_-_Makes_1.jpg> "thumbs_-_smallscale-weapon-morphing-infantry_-_Makes_1.jpg")
+  ![](<thumbs_-_smallscale-weapon-morphing-infantry_-_Makes_1.avif> "thumbs_-_smallscale-weapon-morphing-infantry_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillMeForPrizes > Saturday_9_Armour_V2_6_8mm__Remix_ [dl]"
 date: "2021-06-03T04:36:51+00:00"
 toc: true
-image: "thumbs_-_4876641_-_Images_1.jpg"
+image: "thumbs_-_4876641_-_Images_1.avif"
 tags:
 - "KillMeForPrizes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-terminators"
 - "epic SM30K Sm-terminators"
 - "infanterie SM30K Sm-terminators"
-- "epic infanterie SM30K Sm-terminators"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SM30K Sm-terminators NONSUP"
-- "epic SM30K Sm-terminators NONSUP"
-- "infanterie SM30K Sm-terminators NONSUP"
 
 ---
 
-![](<thumbs_-_4876641_-_Images_1.jpg> "thumbs_-_4876641_-_Images_1.jpg")
+![](<thumbs_-_4876641_-_Images_1.avif> "thumbs_-_4876641_-_Images_1.avif")
 
-  ![](<thumbs_-_4876641_-_ImagesSTL_1.jpg> "thumbs_-_4876641_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4876641_-_ImagesSTL_1.avif> "thumbs_-_4876641_-_ImagesSTL_1.avif")
 
   
 

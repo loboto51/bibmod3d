@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BenArch > Imperial_Knights [non dl]"
 date: "2020-03-16T14:06:24+00:00"
 toc: true
-image: "thumbs_-_4225602_-_Images_1.jpg"
+image: "thumbs_-_4225602_-_Images_1.avif"
 tags:
 - "BenArch"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "EMPIRE NONDL"
 - "warmaster EMPIRE NONDL"
 - "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "HUMAINS EMPIRE NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4225602_-_Images_1.jpg> "thumbs_-_4225602_-_Images_1.jpg")
+![](<thumbs_-_4225602_-_Images_1.avif> "thumbs_-_4225602_-_Images_1.avif")
 
   
 

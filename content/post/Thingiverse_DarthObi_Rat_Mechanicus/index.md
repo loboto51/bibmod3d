@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > DarthObi > Rat_Mechanicus [non dl]"
 date: "2020-08-22T21:28:14+00:00"
 toc: true
-image: "thumbs_-_4577003_-_Images_1.jpg"
+image: "thumbs_-_4577003_-_Images_1.avif"
 tags:
 - "DarthObi"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4577003_-_Images_1.jpg> "thumbs_-_4577003_-_Images_1.jpg")
+![](<thumbs_-_4577003_-_Images_1.avif> "thumbs_-_4577003_-_Images_1.avif")
 
   
 

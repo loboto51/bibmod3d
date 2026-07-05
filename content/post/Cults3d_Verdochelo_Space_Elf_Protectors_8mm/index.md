@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Verdochelo > Space_Elf_Protectors_8mm [dl]"
 date: "2021-04-05T03:07:23Z"
 toc: true
-image: "thumbs_-_space-elf-protectors-8mm_-_Images_1.jpg"
+image: "thumbs_-_space-elf-protectors-8mm_-_Images_1.avif"
 tags:
 - "Verdochelo"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-tactiques"
 - "epic VM Eldars-tactiques"
 - "infanterie VM Eldars-tactiques"
-- "epic infanterie VM Eldars-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Eldars-tactiques NONSUP"
 - "epic Eldars-tactiques NONSUP"
 - "infanterie Eldars-tactiques NONSUP"
-- "epic infanterie Eldars-tactiques NONSUP"
 - "VM Eldars-tactiques NONSUP"
-- "epic VM Eldars-tactiques NONSUP"
-- "infanterie VM Eldars-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_space-elf-protectors-8mm_-_Images_1.jpg> "thumbs_-_space-elf-protectors-8mm_-_Images_1.jpg")
+![](<thumbs_-_space-elf-protectors-8mm_-_Images_1.avif> "thumbs_-_space-elf-protectors-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_space-elf-protectors-8mm_-_ImagesSTL_1.jpg> "thumbs_-_space-elf-protectors-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_space-elf-protectors-8mm_-_ImagesSTL_1.avif> "thumbs_-_space-elf-protectors-8mm_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_space-elf-protectors-8mm_-_Makes_1.jpg> "thumbs_-_space-elf-protectors-8mm_-_Makes_1.jpg")
+  ![](<thumbs_-_space-elf-protectors-8mm_-_Makes_1.avif> "thumbs_-_space-elf-protectors-8mm_-_Makes_1.avif")
 
   
 

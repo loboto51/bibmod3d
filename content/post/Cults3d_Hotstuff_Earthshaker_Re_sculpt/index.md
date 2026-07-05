@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Hotstuff > Earthshaker_Re_sculpt [non dl]"
 date: "2023-05-21T12:10:51Z"
 toc: true
-image: "thumbs_-_earthshaker-re-sculpt_-_Images_1.jpg"
+image: "thumbs_-_earthshaker-re-sculpt_-_Images_1.avif"
 tags:
 - "Hotstuff"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS-DU-CHAOS NONDL NONSUP"
-- "28mm NAINS-DU-CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_earthshaker-re-sculpt_-_Images_1.jpg> "thumbs_-_earthshaker-re-sculpt_-_Images_1.jpg")
+![](<thumbs_-_earthshaker-re-sculpt_-_Images_1.avif> "thumbs_-_earthshaker-re-sculpt_-_Images_1.avif")
 
   
 

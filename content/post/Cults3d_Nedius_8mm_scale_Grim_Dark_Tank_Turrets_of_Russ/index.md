@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Nedius > 8mm_scale_Grim_Dark_Tank_Turrets_of_Russ [dl]"
 date: "2024-01-29T20:36:03Z"
 toc: true
-image: "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.jpg"
+image: "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.avif"
 tags:
 - "Nedius"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "vehicules GI Imp-chars"
-- "epic vehicules GI Imp-chars"
 - "Imp-leman-russ"
 - "epic Imp-leman-russ"
 - "vehicules Imp-leman-russ"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-leman-russ"
 - "epic GI Imp-leman-russ"
 - "vehicules GI Imp-leman-russ"
-- "epic vehicules GI Imp-leman-russ"
 - "Imp-chars Imp-leman-russ"
 - "epic Imp-chars Imp-leman-russ"
 - "vehicules Imp-chars Imp-leman-russ"
-- "epic vehicules Imp-chars Imp-leman-russ"
 - "GI Imp-chars Imp-leman-russ"
-- "epic GI Imp-chars Imp-leman-russ"
-- "vehicules GI Imp-chars Imp-leman-russ"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "vehicules GI NONSUP"
-- "epic vehicules GI NONSUP"
 - "Imp-chars NONSUP"
 - "epic Imp-chars NONSUP"
 - "vehicules Imp-chars NONSUP"
-- "epic vehicules Imp-chars NONSUP"
 - "GI Imp-chars NONSUP"
-- "epic GI Imp-chars NONSUP"
-- "vehicules GI Imp-chars NONSUP"
 - "Imp-leman-russ NONSUP"
 - "epic Imp-leman-russ NONSUP"
 - "vehicules Imp-leman-russ NONSUP"
-- "epic vehicules Imp-leman-russ NONSUP"
 - "GI Imp-leman-russ NONSUP"
-- "epic GI Imp-leman-russ NONSUP"
-- "vehicules GI Imp-leman-russ NONSUP"
 - "Imp-chars Imp-leman-russ NONSUP"
-- "epic Imp-chars Imp-leman-russ NONSUP"
-- "vehicules Imp-chars Imp-leman-russ NONSUP"
-- "GI Imp-chars Imp-leman-russ NONSUP"
 
 ---
 
-![](<thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.jpg> "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.jpg")
+![](<thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.avif> "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_ImagesSTL_1.jpg> "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_ImagesSTL_1.avif> "thumbs_-_8mm-scale-grim-dark-tank-turrets-of-russ-nedius_-_ImagesSTL_1.avif")
 
   
 

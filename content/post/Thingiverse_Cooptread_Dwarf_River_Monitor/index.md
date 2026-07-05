@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Cooptread > Dwarf_River_Monitor [non dl]"
 date: "2023-09-20T20:51:14+00:00"
 toc: true
-image: "thumbs_-_6227532_-_Images_1.jpg"
+image: "thumbs_-_6227532_-_Images_1.avif"
 tags:
 - "Cooptread"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "manowar NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6227532_-_Images_1.jpg> "thumbs_-_6227532_-_Images_1.jpg")
+![](<thumbs_-_6227532_-_Images_1.avif> "thumbs_-_6227532_-_Images_1.avif")
 
   
 

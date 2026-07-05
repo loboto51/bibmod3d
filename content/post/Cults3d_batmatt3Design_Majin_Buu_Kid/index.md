@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > batmatt3Design > Majin_Buu_Kid [non dl]"
 date: "2021-03-13T10:54:15Z"
 toc: true
-image: "thumbs_-_majin-buu-kid_-_Images_1.jpg"
+image: "thumbs_-_majin-buu-kid_-_Images_1.avif"
 tags:
 - "batmatt3Design"
 - "autres-echelles"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_majin-buu-kid_-_Images_1.jpg> "thumbs_-_majin-buu-kid_-_Images_1.jpg")
+![](<thumbs_-_majin-buu-kid_-_Images_1.avif> "thumbs_-_majin-buu-kid_-_Images_1.avif")
 
-  ![](<thumbs_-_majin-buu-kid_-_Makes_1.jpg> "thumbs_-_majin-buu-kid_-_Makes_1.jpg")
+  ![](<thumbs_-_majin-buu-kid_-_Makes_1.avif> "thumbs_-_majin-buu-kid_-_Makes_1.avif")
 
   
 

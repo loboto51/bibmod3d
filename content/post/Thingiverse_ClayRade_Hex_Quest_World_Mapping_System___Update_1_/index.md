@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ClayRade > Hex_Quest_World_Mapping_System___Update_1_ [non dl]"
 date: "2019-07-05T20:02:51+00:00"
 toc: true
-image: "thumbs_-_3728353_-_Images_1.jpg"
+image: "thumbs_-_3728353_-_Images_1.avif"
 tags:
 - "ClayRade"
 - "necromunda"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3728353_-_Images_1.jpg> "thumbs_-_3728353_-_Images_1.jpg")
+![](<thumbs_-_3728353_-_Images_1.avif> "thumbs_-_3728353_-_Images_1.avif")
 
-  ![](<thumbs_-_3728353_-_Makes_1.jpg> "thumbs_-_3728353_-_Makes_1.jpg")
+  ![](<thumbs_-_3728353_-_Makes_1.avif> "thumbs_-_3728353_-_Makes_1.avif")
 
   
 

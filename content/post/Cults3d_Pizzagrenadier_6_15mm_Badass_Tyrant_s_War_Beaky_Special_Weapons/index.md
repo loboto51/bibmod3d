@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Pizzagrenadier > 6_15mm_Badass_Tyrant_s_War_Beaky_Special_Weapons [dl]"
 date: "2024-05-23T01:13:13Z"
 toc: true
-image: "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.jpg"
+image: "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.jpg> "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.jpg")
+![](<thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.avif> "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_Images_1.avif")
 
-  ![](<thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_ImagesSTL_1.jpg> "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_ImagesSTL_1.avif> "thumbs_-_6-15mm-badass-tyrant-s-war-beaky-special-weapons_-_ImagesSTL_1.avif")
 
   
 

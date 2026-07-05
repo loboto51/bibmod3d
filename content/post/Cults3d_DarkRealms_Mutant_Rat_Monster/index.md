@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DarkRealms > Mutant_Rat_Monster [non dl]"
 date: "2019-08-08T15:54:20Z"
 toc: true
-image: "thumbs_-_mutant-rat-monster_-_Images_1.jpg"
+image: "thumbs_-_mutant-rat-monster_-_Images_1.avif"
 tags:
 - "DarkRealms"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_mutant-rat-monster_-_Images_1.jpg> "thumbs_-_mutant-rat-monster_-_Images_1.jpg")
+![](<thumbs_-_mutant-rat-monster_-_Images_1.avif> "thumbs_-_mutant-rat-monster_-_Images_1.avif")
 
-  ![](<thumbs_-_mutant-rat-monster_-_Makes_1.jpg> "thumbs_-_mutant-rat-monster_-_Makes_1.jpg")
+  ![](<thumbs_-_mutant-rat-monster_-_Makes_1.avif> "thumbs_-_mutant-rat-monster_-_Makes_1.avif")
 
   
 

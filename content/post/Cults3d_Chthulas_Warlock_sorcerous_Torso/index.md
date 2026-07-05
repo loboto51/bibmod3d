@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Chthulas > Warlock_sorcerous_Torso [dl]"
 date: "2023-12-02T22:36:16Z"
 toc: true
-image: "thumbs_-_warlock-sorcerous-torso_-_Images_1.jpg"
+image: "thumbs_-_warlock-sorcerous-torso_-_Images_1.avif"
 tags:
 - "Chthulas"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_warlock-sorcerous-torso_-_Images_1.jpg> "thumbs_-_warlock-sorcerous-torso_-_Images_1.jpg")
+![](<thumbs_-_warlock-sorcerous-torso_-_Images_1.avif> "thumbs_-_warlock-sorcerous-torso_-_Images_1.avif")
 
-  ![](<thumbs_-_warlock-sorcerous-torso_-_ImagesSTL_1.jpg> "thumbs_-_warlock-sorcerous-torso_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_warlock-sorcerous-torso_-_ImagesSTL_1.avif> "thumbs_-_warlock-sorcerous-torso_-_ImagesSTL_1.avif")
 
   
 

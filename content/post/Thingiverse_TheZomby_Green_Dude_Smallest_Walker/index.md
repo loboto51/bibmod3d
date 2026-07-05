@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > Green_Dude_Smallest_Walker [dl]"
 date: "2021-04-01T03:48:49+00:00"
 toc: true
-image: "thumbs_-_4813237_-_Images_1.jpg"
+image: "thumbs_-_4813237_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-dreadnoughts"
 - "epic ORKS Orks-dreadnoughts"
 - "marcheurs ORKS Orks-dreadnoughts"
-- "epic marcheurs ORKS Orks-dreadnoughts"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "marcheurs ORKS NONSUP"
-- "epic marcheurs ORKS NONSUP"
 - "Orks-dreadnoughts NONSUP"
 - "epic Orks-dreadnoughts NONSUP"
 - "marcheurs Orks-dreadnoughts NONSUP"
-- "epic marcheurs Orks-dreadnoughts NONSUP"
 - "ORKS Orks-dreadnoughts NONSUP"
-- "epic ORKS Orks-dreadnoughts NONSUP"
-- "marcheurs ORKS Orks-dreadnoughts NONSUP"
 
 ---
 
-![](<thumbs_-_4813237_-_Images_1.jpg> "thumbs_-_4813237_-_Images_1.jpg")
+![](<thumbs_-_4813237_-_Images_1.avif> "thumbs_-_4813237_-_Images_1.avif")
 
-  ![](<thumbs_-_4813237_-_ImagesSTL_1.jpg> "thumbs_-_4813237_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4813237_-_ImagesSTL_1.avif> "thumbs_-_4813237_-_ImagesSTL_1.avif")
 
   
 

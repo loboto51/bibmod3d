@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Small_scale_Space_Orc_infantry_without_helmets [dl]"
 date: "2020-05-01T00:52:34+00:00"
 toc: true
-image: "thumbs_-_4327353_-_Images_1.jpg"
+image: "thumbs_-_4327353_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-boyz NONSUP"
 - "epic Orks-boyz NONSUP"
 - "infanterie Orks-boyz NONSUP"
-- "epic infanterie Orks-boyz NONSUP"
 - "ORKS Orks-boyz NONSUP"
-- "epic ORKS Orks-boyz NONSUP"
-- "infanterie ORKS Orks-boyz NONSUP"
 
 ---
 
-![](<thumbs_-_4327353_-_Images_1.jpg> "thumbs_-_4327353_-_Images_1.jpg")
+![](<thumbs_-_4327353_-_Images_1.avif> "thumbs_-_4327353_-_Images_1.avif")
 
-  ![](<thumbs_-_4327353_-_ImagesSTL_1.jpg> "thumbs_-_4327353_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4327353_-_ImagesSTL_1.avif> "thumbs_-_4327353_-_ImagesSTL_1.avif")
 
   
 

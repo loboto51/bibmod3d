@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > Old_Space_Dweller_Big_Tank_Destroyer [dl]"
 date: "2022-01-06T00:50:05+00:00"
 toc: true
-image: "thumbs_-_5188572_-_Images_1.jpg"
+image: "thumbs_-_5188572_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-superlourds"
 - "epic VM Eldars-superlourds"
 - "superlourds VM Eldars-superlourds"
-- "epic superlourds VM Eldars-superlourds"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "superlourds VM NONSUP"
-- "epic superlourds VM NONSUP"
 - "Eldars-superlourds NONSUP"
 - "epic Eldars-superlourds NONSUP"
 - "superlourds Eldars-superlourds NONSUP"
-- "epic superlourds Eldars-superlourds NONSUP"
 - "VM Eldars-superlourds NONSUP"
-- "epic VM Eldars-superlourds NONSUP"
-- "superlourds VM Eldars-superlourds NONSUP"
 
 ---
 
-![](<thumbs_-_5188572_-_Images_1.jpg> "thumbs_-_5188572_-_Images_1.jpg")
+![](<thumbs_-_5188572_-_Images_1.avif> "thumbs_-_5188572_-_Images_1.avif")
 
-  ![](<thumbs_-_5188572_-_ImagesSTL_1.jpg> "thumbs_-_5188572_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5188572_-_ImagesSTL_1.avif> "thumbs_-_5188572_-_ImagesSTL_1.avif")
 
   
 

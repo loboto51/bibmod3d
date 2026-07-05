@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kyte22 > Pyramid_Guard_Conversion_Kit [non dl]"
 date: "2021-02-04T17:07:34+00:00"
 toc: true
-image: "thumbs_-_4749916_-_Images_1.jpg"
+image: "thumbs_-_4749916_-_Images_1.avif"
 tags:
 - "Kyte22"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "HOMMES-LEZARDS NONDL NONSUP"
-- "28mm HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4749916_-_Images_1.jpg> "thumbs_-_4749916_-_Images_1.jpg")
+![](<thumbs_-_4749916_-_Images_1.avif> "thumbs_-_4749916_-_Images_1.avif")
 
   
 

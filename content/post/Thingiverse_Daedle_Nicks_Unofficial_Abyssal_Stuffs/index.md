@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Daedle > Nicks_Unofficial_Abyssal_Stuffs [dl]"
 date: "2018-05-03T15:04:49+00:00"
 toc: true
-image: "thumbs_-_2891489_-_Images_1.jpg"
+image: "thumbs_-_2891489_-_Images_1.avif"
 tags:
 - "Daedle"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-princes-demons"
 - "epic CHAOS Chaos-princes-demons"
 - "infanterie CHAOS Chaos-princes-demons"
-- "epic infanterie CHAOS Chaos-princes-demons"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "infanterie CHAOS NONSUP"
-- "epic infanterie CHAOS NONSUP"
 - "Chaos-princes-demons NONSUP"
 - "epic Chaos-princes-demons NONSUP"
 - "infanterie Chaos-princes-demons NONSUP"
-- "epic infanterie Chaos-princes-demons NONSUP"
 - "CHAOS Chaos-princes-demons NONSUP"
-- "epic CHAOS Chaos-princes-demons NONSUP"
-- "infanterie CHAOS Chaos-princes-demons NONSUP"
 
 ---
 
-![](<thumbs_-_2891489_-_Images_1.jpg> "thumbs_-_2891489_-_Images_1.jpg")
+![](<thumbs_-_2891489_-_Images_1.avif> "thumbs_-_2891489_-_Images_1.avif")
 
-  ![](<thumbs_-_2891489_-_ImagesSTL_1.jpg> "thumbs_-_2891489_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_2891489_-_ImagesSTL_1.avif> "thumbs_-_2891489_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lafigminiatures > Space_Beastmen___Lord [non dl]"
 date: "2026-01-23T14:08:48Z"
 toc: true
-image: "thumbs_-_space-beastmen-lord_-_Images_1.jpg"
+image: "thumbs_-_space-beastmen-lord_-_Images_1.avif"
 tags:
 - "lafigminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Hommes-betes"
 - "epic GI Hommes-betes"
 - "infanterie GI Hommes-betes"
-- "epic infanterie GI Hommes-betes"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
 - "Hommes-betes NONDL"
 - "epic Hommes-betes NONDL"
 - "infanterie Hommes-betes NONDL"
-- "epic infanterie Hommes-betes NONDL"
 - "GI Hommes-betes NONDL"
-- "epic GI Hommes-betes NONDL"
-- "infanterie GI Hommes-betes NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Hommes-betes SUP"
 - "epic Hommes-betes SUP"
 - "infanterie Hommes-betes SUP"
-- "epic infanterie Hommes-betes SUP"
 - "GI Hommes-betes SUP"
-- "epic GI Hommes-betes SUP"
-- "infanterie GI Hommes-betes SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "GI NONDL SUP"
-- "epic GI NONDL SUP"
-- "infanterie GI NONDL SUP"
 - "Hommes-betes NONDL SUP"
-- "epic Hommes-betes NONDL SUP"
-- "infanterie Hommes-betes NONDL SUP"
-- "GI Hommes-betes NONDL SUP"
 
 ---
 
-![](<thumbs_-_space-beastmen-lord_-_Images_1.jpg> "thumbs_-_space-beastmen-lord_-_Images_1.jpg")
+![](<thumbs_-_space-beastmen-lord_-_Images_1.avif> "thumbs_-_space-beastmen-lord_-_Images_1.avif")
 
   
 

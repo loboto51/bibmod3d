@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > MeshyMesh > Evil_Dwarf_Fire_Demon_Sorcerer_on_Palanquin_28mm [non dl]"
 date: "2024-02-26T08:22:40Z"
 toc: true
-image: "thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.jpg"
+image: "thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.avif"
 tags:
 - "MeshyMesh"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "NAINS-DU-CHAOS NONDL SUP"
-- "warmaster NAINS-DU-CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.jpg> "thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.jpg")
+![](<thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.avif> "thumbs_-_evil-dwarf-fire-demon-sorcerer-on-palanquin-28mm_-_Images_1.avif")
 
   
 

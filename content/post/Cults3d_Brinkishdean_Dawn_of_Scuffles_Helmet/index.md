@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Brinkishdean > Dawn_of_Scuffles_Helmet [non dl]"
 date: "2024-05-03T03:55:20Z"
 toc: true
-image: "thumbs_-_dawn-of-scuffles-helmet_-_Images_1.jpg"
+image: "thumbs_-_dawn-of-scuffles-helmet_-_Images_1.avif"
 tags:
 - "Brinkishdean"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_dawn-of-scuffles-helmet_-_Images_1.jpg> "thumbs_-_dawn-of-scuffles-helmet_-_Images_1.jpg")
+![](<thumbs_-_dawn-of-scuffles-helmet_-_Images_1.avif> "thumbs_-_dawn-of-scuffles-helmet_-_Images_1.avif")
 
   
 

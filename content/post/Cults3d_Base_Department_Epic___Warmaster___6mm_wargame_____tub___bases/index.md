@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Base_Department > Epic___Warmaster___6mm_wargame_____tub___bases [non dl]"
 date: "2023-07-10T20:01:05Z"
 toc: true
-image: "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg"
+image: "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.avif"
 tags:
 - "Base_Department"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 - "warmaster"
 - "SOCLES"
 - "warmaster SOCLES"
@@ -50,7 +45,6 @@ tags:
 - "DIVERS NONDL"
 - "warmaster DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "warmaster SOCLES DIVERS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "SOCLES NONSUP"
@@ -58,18 +52,14 @@ tags:
 - "DIVERS NONSUP"
 - "warmaster DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "warmaster SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "warmaster SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "warmaster DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg> "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.jpg")
+![](<thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.avif> "thumbs_-_epic-warmaster-6mm-wargame-tub-bases_-_Images_1.avif")
 
   
 

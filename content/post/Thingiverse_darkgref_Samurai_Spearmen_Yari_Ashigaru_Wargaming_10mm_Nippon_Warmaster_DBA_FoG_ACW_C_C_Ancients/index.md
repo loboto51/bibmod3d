@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Samurai_Spearmen_Yari_Ashigaru_Wargaming_10mm_Nippon_Warmaster_DBA_FoG_ACW_C_C_Ancients [non dl]"
 date: "2021-04-27T18:35:08+00:00"
 toc: true
-image: "thumbs_-_4841783_-_Images_1.jpg"
+image: "thumbs_-_4841783_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "NIPPON NONDL"
 - "warmaster NIPPON NONDL"
 - "HUMAINS NIPPON NONDL"
-- "warmaster HUMAINS NIPPON NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "NIPPON NONSUP"
 - "warmaster NIPPON NONSUP"
 - "HUMAINS NIPPON NONSUP"
-- "warmaster HUMAINS NIPPON NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "NIPPON NONDL NONSUP"
-- "warmaster NIPPON NONDL NONSUP"
-- "HUMAINS NIPPON NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4841783_-_Images_1.jpg> "thumbs_-_4841783_-_Images_1.jpg")
+![](<thumbs_-_4841783_-_Images_1.avif> "thumbs_-_4841783_-_Images_1.avif")
 
   
 

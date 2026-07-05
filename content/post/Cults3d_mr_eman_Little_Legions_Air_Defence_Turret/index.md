@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mr_eman > Little_Legions_Air_Defence_Turret [dl]"
 date: "2024-03-08T09:08:34Z"
 toc: true
-image: "thumbs_-_little-legions-air-defence-turret_-_Images_1.jpg"
+image: "thumbs_-_little-legions-air-defence-turret_-_Images_1.avif"
 tags:
 - "mr_eman"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Tarentules"
 - "epic SMI Tarentules"
 - "infanterie SMI Tarentules"
-- "epic infanterie SMI Tarentules"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Tarentules SUP"
 - "epic Tarentules SUP"
 - "infanterie Tarentules SUP"
-- "epic infanterie Tarentules SUP"
 - "SMI Tarentules SUP"
-- "epic SMI Tarentules SUP"
-- "infanterie SMI Tarentules SUP"
 
 ---
 
-![](<thumbs_-_little-legions-air-defence-turret_-_Images_1.jpg> "thumbs_-_little-legions-air-defence-turret_-_Images_1.jpg")
+![](<thumbs_-_little-legions-air-defence-turret_-_Images_1.avif> "thumbs_-_little-legions-air-defence-turret_-_Images_1.avif")
 
-  ![](<thumbs_-_little-legions-air-defence-turret_-_ImagesSTL_1.jpg> "thumbs_-_little-legions-air-defence-turret_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_little-legions-air-defence-turret_-_ImagesSTL_1.avif> "thumbs_-_little-legions-air-defence-turret_-_ImagesSTL_1.avif")
 
   
 

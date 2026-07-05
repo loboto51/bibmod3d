@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lordchammon > Magnusons_Dusty_Scarab_Band_Conversion_Kit [non dl]"
 date: "2024-08-08T18:42:39Z"
 toc: true
-image: "thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.jpg"
+image: "thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.avif"
 tags:
 - "lordchammon"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC NONDL"
 - "28mm SMC NONDL"
 - "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
@@ -28,18 +27,14 @@ tags:
 - "SMC SUP"
 - "28mm SMC SUP"
 - "CHAOS SMC SUP"
-- "28mm CHAOS SMC SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "CHAOS NONDL SUP"
-- "28mm CHAOS NONDL SUP"
 - "SMC NONDL SUP"
-- "28mm SMC NONDL SUP"
-- "CHAOS SMC NONDL SUP"
 
 ---
 
-![](<thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.jpg> "thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.jpg")
+![](<thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.avif> "thumbs_-_magnusons-dusty-scarab-band-conversion-kit_-_Images_1.avif")
 
   
 

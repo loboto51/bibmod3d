@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Pocket_Mordheim___Reikland_Mercenary_Warband [non dl]"
 date: "2025-01-01T23:36:46+00:00"
 toc: true
-image: "thumbs_-_6896848_-_Images_1.jpg"
+image: "thumbs_-_6896848_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "EMPIRE NONDL"
 - "warmaster EMPIRE NONDL"
 - "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
-- "HUMAINS EMPIRE NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6896848_-_Images_1.jpg> "thumbs_-_6896848_-_Images_1.jpg")
+![](<thumbs_-_6896848_-_Images_1.avif> "thumbs_-_6896848_-_Images_1.avif")
 
-  ![](<thumbs_-_6896848_-_Makes_1.jpg> "thumbs_-_6896848_-_Makes_1.jpg")
+  ![](<thumbs_-_6896848_-_Makes_1.avif> "thumbs_-_6896848_-_Makes_1.avif")
 
   
 

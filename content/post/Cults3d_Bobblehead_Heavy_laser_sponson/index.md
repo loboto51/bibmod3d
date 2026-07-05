@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bobblehead > Heavy_laser_sponson [dl]"
 date: "2024-04-21T08:44:35Z"
 toc: true
-image: "thumbs_-_heavy-laser-sponson_-_Images_1.jpg"
+image: "thumbs_-_heavy-laser-sponson_-_Images_1.avif"
 tags:
 - "Bobblehead"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Spartans"
 - "epic SMI Spartans"
 - "vehicules SMI Spartans"
-- "epic vehicules SMI Spartans"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Spartans NONSUP"
 - "epic Spartans NONSUP"
 - "vehicules Spartans NONSUP"
-- "epic vehicules Spartans NONSUP"
 - "SMI Spartans NONSUP"
-- "epic SMI Spartans NONSUP"
-- "vehicules SMI Spartans NONSUP"
 
 ---
 
-![](<thumbs_-_heavy-laser-sponson_-_Images_1.jpg> "thumbs_-_heavy-laser-sponson_-_Images_1.jpg")
+![](<thumbs_-_heavy-laser-sponson_-_Images_1.avif> "thumbs_-_heavy-laser-sponson_-_Images_1.avif")
 
-  ![](<thumbs_-_heavy-laser-sponson_-_ImagesSTL_1.jpg> "thumbs_-_heavy-laser-sponson_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_heavy-laser-sponson_-_ImagesSTL_1.avif> "thumbs_-_heavy-laser-sponson_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > Shadow_Rangers_Regiment [non dl]"
 date: "2022-03-28T17:36:21Z"
 toc: true
-image: "thumbs_-_shadow-rangers-regiment_-_Images_1.jpg"
+image: "thumbs_-_shadow-rangers-regiment_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_shadow-rangers-regiment_-_Images_1.jpg> "thumbs_-_shadow-rangers-regiment_-_Images_1.jpg")
+![](<thumbs_-_shadow-rangers-regiment_-_Images_1.avif> "thumbs_-_shadow-rangers-regiment_-_Images_1.avif")
 
   
 

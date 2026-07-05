@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > JanZizka > Epic_scale_Mechanized_infantry_vehicle [dl]"
 date: "2020-10-24T12:29:15+00:00"
 toc: true
-image: "thumbs_-_4632652_-_Images_1.jpg"
+image: "thumbs_-_4632652_-_Images_1.avif"
 tags:
 - "JanZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "vehicules GI Imp-chars"
-- "epic vehicules GI Imp-chars"
 - "Imp-chimeres"
 - "epic Imp-chimeres"
 - "vehicules Imp-chimeres"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-chimeres"
 - "epic GI Imp-chimeres"
 - "vehicules GI Imp-chimeres"
-- "epic vehicules GI Imp-chimeres"
 - "Imp-chars Imp-chimeres"
 - "epic Imp-chars Imp-chimeres"
 - "vehicules Imp-chars Imp-chimeres"
-- "epic vehicules Imp-chars Imp-chimeres"
 - "GI Imp-chars Imp-chimeres"
-- "epic GI Imp-chars Imp-chimeres"
-- "vehicules GI Imp-chars Imp-chimeres"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -43,31 +38,21 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "vehicules GI SUP"
-- "epic vehicules GI SUP"
 - "Imp-chars SUP"
 - "epic Imp-chars SUP"
 - "vehicules Imp-chars SUP"
-- "epic vehicules Imp-chars SUP"
 - "GI Imp-chars SUP"
-- "epic GI Imp-chars SUP"
-- "vehicules GI Imp-chars SUP"
 - "Imp-chimeres SUP"
 - "epic Imp-chimeres SUP"
 - "vehicules Imp-chimeres SUP"
-- "epic vehicules Imp-chimeres SUP"
 - "GI Imp-chimeres SUP"
-- "epic GI Imp-chimeres SUP"
-- "vehicules GI Imp-chimeres SUP"
 - "Imp-chars Imp-chimeres SUP"
-- "epic Imp-chars Imp-chimeres SUP"
-- "vehicules Imp-chars Imp-chimeres SUP"
-- "GI Imp-chars Imp-chimeres SUP"
 
 ---
 
-![](<thumbs_-_4632652_-_Images_1.jpg> "thumbs_-_4632652_-_Images_1.jpg")
+![](<thumbs_-_4632652_-_Images_1.avif> "thumbs_-_4632652_-_Images_1.avif")
 
-  ![](<thumbs_-_4632652_-_ImagesSTL_1.jpg> "thumbs_-_4632652_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4632652_-_ImagesSTL_1.avif> "thumbs_-_4632652_-_ImagesSTL_1.avif")
 
   
 

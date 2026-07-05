@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Doom_Diver [dl]"
 date: "2024-11-27T22:25:27+00:00"
 toc: true
-image: "thumbs_-_6848689_-_Images_1.jpg"
+image: "thumbs_-_6848689_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_6848689_-_Images_1.jpg> "thumbs_-_6848689_-_Images_1.jpg")
+![](<thumbs_-_6848689_-_Images_1.avif> "thumbs_-_6848689_-_Images_1.avif")
 
-  ![](<thumbs_-_6848689_-_ImagesSTL_1.jpg> "thumbs_-_6848689_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6848689_-_ImagesSTL_1.avif> "thumbs_-_6848689_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6848689_-_Makes_1.jpg> "thumbs_-_6848689_-_Makes_1.jpg")
+  ![](<thumbs_-_6848689_-_Makes_1.avif> "thumbs_-_6848689_-_Makes_1.avif")
 
   
 

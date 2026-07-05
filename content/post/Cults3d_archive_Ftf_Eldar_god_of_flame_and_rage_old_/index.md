@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d_archive > Ftf > Eldar_god_of_flame_and_rage_old_ [dl]"
 date: "2025-12-08T18:19:51Z"
 toc: true
-image: "thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.jpg"
+image: "thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.avif"
 tags:
 - "Ftf"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "VM NONSUP"
 - "28mm VM NONSUP"
 - "ELDARS VM NONSUP"
-- "28mm ELDARS VM NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -35,7 +34,6 @@ tags:
 - "VM Avatars"
 - "epic VM Avatars"
 - "infanterie VM Avatars"
-- "epic infanterie VM Avatars"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,20 +41,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Avatars NONSUP"
 - "epic Avatars NONSUP"
 - "infanterie Avatars NONSUP"
-- "epic infanterie Avatars NONSUP"
 - "VM Avatars NONSUP"
-- "epic VM Avatars NONSUP"
-- "infanterie VM Avatars NONSUP"
 
 ---
 
-![](<thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.jpg> "thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.jpg")
+![](<thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.avif> "thumbs_-_eldar-god-of-flame-and-rage-old_-_Images_1.avif")
 
-  ![](<thumbs_-_eldar-god-of-flame-and-rage-old_-_ImagesSTL_1.jpg> "thumbs_-_eldar-god-of-flame-and-rage-old_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_eldar-god-of-flame-and-rage-old_-_ImagesSTL_1.avif> "thumbs_-_eldar-god-of-flame-and-rage-old_-_ImagesSTL_1.avif")
 
   
 

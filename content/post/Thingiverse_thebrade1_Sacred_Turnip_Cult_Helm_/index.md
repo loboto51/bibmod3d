@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > thebrade1 > Sacred_Turnip_Cult_Helm_ [non dl]"
 date: "2026-04-05T08:14:25+00:00"
 toc: true
-image: "thumbs_-_7329326_-_Images_1.jpg"
+image: "thumbs_-_7329326_-_Images_1.avif"
 tags:
 - "thebrade1"
 - "turnip28"
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![](<thumbs_-_7329326_-_Images_1.jpg> "thumbs_-_7329326_-_Images_1.jpg")
+![](<thumbs_-_7329326_-_Images_1.avif> "thumbs_-_7329326_-_Images_1.avif")
 
   
 

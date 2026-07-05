@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > HB_3D > Grand_Cruisers__Assembled_ [non dl]"
 date: "2021-01-06T12:54:29Z"
 toc: true
-image: "thumbs_-_grand-cruisers-assembled_-_Images_1.jpg"
+image: "thumbs_-_grand-cruisers-assembled_-_Images_1.avif"
 tags:
 - "HB_3D"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "SMC Flotte"
 - "bfg SMC Flotte"
 - "CHAOS SMC Flotte"
-- "bfg CHAOS SMC Flotte"
 - "NONDL"
 - "bfg NONDL"
 - "CHAOS NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SMC NONDL"
 - "bfg SMC NONDL"
 - "CHAOS SMC NONDL"
-- "bfg CHAOS SMC NONDL"
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "CHAOS Flotte NONDL"
-- "bfg CHAOS Flotte NONDL"
 - "SMC Flotte NONDL"
-- "bfg SMC Flotte NONDL"
-- "CHAOS SMC Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "CHAOS NONSUP"
@@ -43,25 +38,15 @@ tags:
 - "SMC NONSUP"
 - "bfg SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "bfg CHAOS SMC NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "CHAOS Flotte NONSUP"
-- "bfg CHAOS Flotte NONSUP"
 - "SMC Flotte NONSUP"
-- "bfg SMC Flotte NONSUP"
-- "CHAOS SMC Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "bfg CHAOS NONDL NONSUP"
 - "SMC NONDL NONSUP"
-- "bfg SMC NONDL NONSUP"
-- "CHAOS SMC NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "CHAOS Flotte NONDL NONSUP"
-- "SMC Flotte NONDL NONSUP"
 - "bfg"
 - "IMP"
 - "bfg IMP"
@@ -76,7 +61,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -84,20 +68,16 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_grand-cruisers-assembled_-_Images_1.jpg> "thumbs_-_grand-cruisers-assembled_-_Images_1.jpg")
+![](<thumbs_-_grand-cruisers-assembled_-_Images_1.avif> "thumbs_-_grand-cruisers-assembled_-_Images_1.avif")
 
-  ![](<thumbs_-_grand-cruisers-assembled_-_Makes_1.jpg> "thumbs_-_grand-cruisers-assembled_-_Makes_1.jpg")
+  ![](<thumbs_-_grand-cruisers-assembled_-_Makes_1.avif> "thumbs_-_grand-cruisers-assembled_-_Makes_1.avif")
 
   
 

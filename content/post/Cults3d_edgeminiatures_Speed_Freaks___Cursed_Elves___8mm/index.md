@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Speed_Freaks___Cursed_Elves___8mm [non dl]"
 date: "2025-04-04T06:07:43Z"
 toc: true
-image: "thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-assaut-volant"
 - "epic EN Eldars-assaut-volant"
 - "infanterie EN Eldars-assaut-volant"
-- "epic infanterie EN Eldars-assaut-volant"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EN NONDL"
 - "epic EN NONDL"
 - "infanterie EN NONDL"
-- "epic infanterie EN NONDL"
 - "Eldars-assaut-volant NONDL"
 - "epic Eldars-assaut-volant NONDL"
 - "infanterie Eldars-assaut-volant NONDL"
-- "epic infanterie Eldars-assaut-volant NONDL"
 - "EN Eldars-assaut-volant NONDL"
-- "epic EN Eldars-assaut-volant NONDL"
-- "infanterie EN Eldars-assaut-volant NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "EN SUP"
 - "epic EN SUP"
 - "infanterie EN SUP"
-- "epic infanterie EN SUP"
 - "Eldars-assaut-volant SUP"
 - "epic Eldars-assaut-volant SUP"
 - "infanterie Eldars-assaut-volant SUP"
-- "epic infanterie Eldars-assaut-volant SUP"
 - "EN Eldars-assaut-volant SUP"
-- "epic EN Eldars-assaut-volant SUP"
-- "infanterie EN Eldars-assaut-volant SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "EN NONDL SUP"
-- "epic EN NONDL SUP"
-- "infanterie EN NONDL SUP"
 - "Eldars-assaut-volant NONDL SUP"
-- "epic Eldars-assaut-volant NONDL SUP"
-- "infanterie Eldars-assaut-volant NONDL SUP"
-- "EN Eldars-assaut-volant NONDL SUP"
 
 ---
 
-![](<thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.jpg> "thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.avif> "thumbs_-_speed-freaks-cursed-elves-8mm_-_Images_1.avif")
 
   
 

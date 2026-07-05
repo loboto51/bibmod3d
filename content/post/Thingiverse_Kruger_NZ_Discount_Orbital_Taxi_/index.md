@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kruger_NZ > Discount_Orbital_Taxi_ [non dl]"
 date: "2024-01-12T22:11:56+00:00"
 toc: true
-image: "thumbs_-_6430966_-_Images_1.jpg"
+image: "thumbs_-_6430966_-_Images_1.avif"
 tags:
 - "Kruger_NZ"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-thunderhawks"
 - "epic SMI Sm-thunderhawks"
 - "volants SMI Sm-thunderhawks"
-- "epic volants SMI Sm-thunderhawks"
 - "NONDL"
 - "epic NONDL"
 - "volants NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SMI NONDL"
 - "epic SMI NONDL"
 - "volants SMI NONDL"
-- "epic volants SMI NONDL"
 - "Sm-thunderhawks NONDL"
 - "epic Sm-thunderhawks NONDL"
 - "volants Sm-thunderhawks NONDL"
-- "epic volants Sm-thunderhawks NONDL"
 - "SMI Sm-thunderhawks NONDL"
-- "epic SMI Sm-thunderhawks NONDL"
-- "volants SMI Sm-thunderhawks NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "volants SMI NONSUP"
-- "epic volants SMI NONSUP"
 - "Sm-thunderhawks NONSUP"
 - "epic Sm-thunderhawks NONSUP"
 - "volants Sm-thunderhawks NONSUP"
-- "epic volants Sm-thunderhawks NONSUP"
 - "SMI Sm-thunderhawks NONSUP"
-- "epic SMI Sm-thunderhawks NONSUP"
-- "volants SMI Sm-thunderhawks NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "volants NONDL NONSUP"
-- "epic volants NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "epic SMI NONDL NONSUP"
-- "volants SMI NONDL NONSUP"
 - "Sm-thunderhawks NONDL NONSUP"
-- "epic Sm-thunderhawks NONDL NONSUP"
-- "volants Sm-thunderhawks NONDL NONSUP"
-- "SMI Sm-thunderhawks NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6430966_-_Images_1.jpg> "thumbs_-_6430966_-_Images_1.jpg")
+![](<thumbs_-_6430966_-_Images_1.avif> "thumbs_-_6430966_-_Images_1.avif")
 
   
 

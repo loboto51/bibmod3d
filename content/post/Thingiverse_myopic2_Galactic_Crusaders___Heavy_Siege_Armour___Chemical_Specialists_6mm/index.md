@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > myopic2 > Galactic_Crusaders___Heavy_Siege_Armour___Chemical_Specialists_6mm [dl]"
 date: "2020-07-05T23:10:09+00:00"
 toc: true
-image: "thumbs_-_4526158_-_Images_1.jpg"
+image: "thumbs_-_4526158_-_Images_1.avif"
 tags:
 - "myopic2"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-terminators"
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
-- "epic infanterie SMC Sm-terminators"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SMC Sm-terminators NONSUP"
-- "epic SMC Sm-terminators NONSUP"
-- "infanterie SMC Sm-terminators NONSUP"
 
 ---
 
-![](<thumbs_-_4526158_-_Images_1.jpg> "thumbs_-_4526158_-_Images_1.jpg")
+![](<thumbs_-_4526158_-_Images_1.avif> "thumbs_-_4526158_-_Images_1.avif")
 
-  ![](<thumbs_-_4526158_-_ImagesSTL_1.jpg> "thumbs_-_4526158_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4526158_-_ImagesSTL_1.avif> "thumbs_-_4526158_-_ImagesSTL_1.avif")
 
   
 

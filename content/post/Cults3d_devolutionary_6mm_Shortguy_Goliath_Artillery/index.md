@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > devolutionary > 6mm_Shortguy_Goliath_Artillery [dl]"
 date: "2023-02-05T23:34:09Z"
 toc: true
-image: "thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.jpg"
+image: "thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.avif"
 tags:
 - "devolutionary"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Squats-canons-goliaths"
 - "epic SQUATS Squats-canons-goliaths"
 - "superlourds SQUATS Squats-canons-goliaths"
-- "epic superlourds SQUATS Squats-canons-goliaths"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
-- "epic superlourds SQUATS NONSUP"
 - "Squats-canons-goliaths NONSUP"
 - "epic Squats-canons-goliaths NONSUP"
 - "superlourds Squats-canons-goliaths NONSUP"
-- "epic superlourds Squats-canons-goliaths NONSUP"
 - "SQUATS Squats-canons-goliaths NONSUP"
-- "epic SQUATS Squats-canons-goliaths NONSUP"
-- "superlourds SQUATS Squats-canons-goliaths NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.jpg> "thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.jpg")
+![](<thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.avif> "thumbs_-_6mm-shortguy-goliath-artillery_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-shortguy-goliath-artillery_-_ImagesSTL_1.jpg> "thumbs_-_6mm-shortguy-goliath-artillery_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-shortguy-goliath-artillery_-_ImagesSTL_1.avif> "thumbs_-_6mm-shortguy-goliath-artillery_-_ImagesSTL_1.avif")
 
   
 

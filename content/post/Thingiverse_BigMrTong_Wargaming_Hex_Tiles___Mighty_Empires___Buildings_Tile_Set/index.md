@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BigMrTong > Wargaming_Hex_Tiles___Mighty_Empires___Buildings_Tile_Set [non dl]"
 date: "2019-01-25T16:30:17+00:00"
 toc: true
-image: "thumbs_-_3380588_-_Images_1.jpg"
+image: "thumbs_-_3380588_-_Images_1.avif"
 tags:
 - "BigMrTong"
 - "necromunda"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3380588_-_Images_1.jpg> "thumbs_-_3380588_-_Images_1.jpg")
+![](<thumbs_-_3380588_-_Images_1.avif> "thumbs_-_3380588_-_Images_1.avif")
 
-  ![](<thumbs_-_3380588_-_Makes_1.jpg> "thumbs_-_3380588_-_Makes_1.jpg")
+  ![](<thumbs_-_3380588_-_Makes_1.avif> "thumbs_-_3380588_-_Makes_1.avif")
 
   
 

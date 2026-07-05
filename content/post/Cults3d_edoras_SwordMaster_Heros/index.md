@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > SwordMaster_Heros [non dl]"
 date: "2022-01-23T10:09:02Z"
 toc: true
-image: "thumbs_-_swordmaster-heros_-_Images_1.jpg"
+image: "thumbs_-_swordmaster-heros_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_swordmaster-heros_-_Images_1.jpg> "thumbs_-_swordmaster-heros_-_Images_1.jpg")
+![](<thumbs_-_swordmaster-heros_-_Images_1.avif> "thumbs_-_swordmaster-heros_-_Images_1.avif")
 
   
 

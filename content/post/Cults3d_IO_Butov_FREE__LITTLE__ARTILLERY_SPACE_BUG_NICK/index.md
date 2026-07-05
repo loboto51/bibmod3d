@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > FREE__LITTLE__ARTILLERY_SPACE_BUG_NICK [dl]"
 date: "2023-08-27T16:21:00Z"
 toc: true
-image: "thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.jpg"
+image: "thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.jpg> "thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.jpg")
+![](<thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.avif> "thumbs_-_free-little-artillery-space-bug-nick_-_Images_1.avif")
 
-  ![](<thumbs_-_free-little-artillery-space-bug-nick_-_ImagesSTL_1.jpg> "thumbs_-_free-little-artillery-space-bug-nick_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_free-little-artillery-space-bug-nick_-_ImagesSTL_1.avif> "thumbs_-_free-little-artillery-space-bug-nick_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_free-little-artillery-space-bug-nick_-_Makes_1.jpg> "thumbs_-_free-little-artillery-space-bug-nick_-_Makes_1.jpg")
+  ![](<thumbs_-_free-little-artillery-space-bug-nick_-_Makes_1.avif> "thumbs_-_free-little-artillery-space-bug-nick_-_Makes_1.avif")
 
   
 

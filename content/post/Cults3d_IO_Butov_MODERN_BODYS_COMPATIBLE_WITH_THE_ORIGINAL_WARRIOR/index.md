@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > MODERN_BODYS_COMPATIBLE_WITH_THE_ORIGINAL_WARRIOR [dl]"
 date: "2023-10-24T16:24:00Z"
 toc: true
-image: "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.jpg"
+image: "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.jpg> "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.jpg")
+![](<thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.avif> "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_Images_1.avif")
 
-  ![](<thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_ImagesSTL_1.jpg> "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_ImagesSTL_1.avif> "thumbs_-_modern-bodys-compatible-with-the-original-warrior_-_ImagesSTL_1.avif")
 
   
 

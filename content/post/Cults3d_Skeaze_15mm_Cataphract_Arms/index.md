@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Skeaze > 15mm_Cataphract_Arms [dl]"
 date: "2023-04-23T01:15:20Z"
 toc: true
-image: "thumbs_-_15mm-cataphract-arms_-_Images_1.jpg"
+image: "thumbs_-_15mm-cataphract-arms_-_Images_1.avif"
 tags:
 - "Skeaze"
 - "15mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_15mm-cataphract-arms_-_Images_1.jpg> "thumbs_-_15mm-cataphract-arms_-_Images_1.jpg")
+![](<thumbs_-_15mm-cataphract-arms_-_Images_1.avif> "thumbs_-_15mm-cataphract-arms_-_Images_1.avif")
 
-  ![](<thumbs_-_15mm-cataphract-arms_-_ImagesSTL_1.jpg> "thumbs_-_15mm-cataphract-arms_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_15mm-cataphract-arms_-_ImagesSTL_1.avif> "thumbs_-_15mm-cataphract-arms_-_ImagesSTL_1.avif")
 
   
 

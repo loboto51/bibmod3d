@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Pizzagrenadier > 6_8mm_Badass_Tyrant_s_War_Beaky_Stern_Guardians [dl]"
 date: "2025-03-22T18:50:25Z"
 toc: true
-image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-qg"
 - "epic SMI Sm-qg"
 - "infanterie SMI Sm-qg"
-- "epic infanterie SMI Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SMI Sm-qg NONSUP"
-- "epic SMI Sm-qg NONSUP"
-- "infanterie SMI Sm-qg NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-stern-guardians_-_ImagesSTL_1.avif")
 
   
 

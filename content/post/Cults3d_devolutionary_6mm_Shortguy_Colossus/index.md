@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > devolutionary > 6mm_Shortguy_Colossus [dl]"
 date: "2023-02-05T23:26:18Z"
 toc: true
-image: "thumbs_-_6mm-shortguy-colossus_-_Images_1.jpg"
+image: "thumbs_-_6mm-shortguy-colossus_-_Images_1.avif"
 tags:
 - "devolutionary"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Squats-colossus"
 - "epic SQUATS Squats-colossus"
 - "superlourds SQUATS Squats-colossus"
-- "epic superlourds SQUATS Squats-colossus"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
-- "epic superlourds SQUATS NONSUP"
 - "Squats-colossus NONSUP"
 - "epic Squats-colossus NONSUP"
 - "superlourds Squats-colossus NONSUP"
-- "epic superlourds Squats-colossus NONSUP"
 - "SQUATS Squats-colossus NONSUP"
-- "epic SQUATS Squats-colossus NONSUP"
-- "superlourds SQUATS Squats-colossus NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-shortguy-colossus_-_Images_1.jpg> "thumbs_-_6mm-shortguy-colossus_-_Images_1.jpg")
+![](<thumbs_-_6mm-shortguy-colossus_-_Images_1.avif> "thumbs_-_6mm-shortguy-colossus_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-shortguy-colossus_-_ImagesSTL_1.jpg> "thumbs_-_6mm-shortguy-colossus_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-shortguy-colossus_-_ImagesSTL_1.avif> "thumbs_-_6mm-shortguy-colossus_-_ImagesSTL_1.avif")
 
   
 

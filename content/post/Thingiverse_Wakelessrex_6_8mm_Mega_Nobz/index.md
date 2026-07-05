@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Wakelessrex > 6_8mm_Mega_Nobz [dl]"
 date: "2020-03-01T03:19:09+00:00"
 toc: true
-image: "thumbs_-_4193587_-_Images_1.jpg"
+image: "thumbs_-_4193587_-_Images_1.avif"
 tags:
 - "Wakelessrex"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-qg"
 - "epic ORKS Orks-qg"
 - "infanterie ORKS Orks-qg"
-- "epic infanterie ORKS Orks-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-qg NONSUP"
 - "epic Orks-qg NONSUP"
 - "infanterie Orks-qg NONSUP"
-- "epic infanterie Orks-qg NONSUP"
 - "ORKS Orks-qg NONSUP"
-- "epic ORKS Orks-qg NONSUP"
-- "infanterie ORKS Orks-qg NONSUP"
 
 ---
 
-![](<thumbs_-_4193587_-_Images_1.jpg> "thumbs_-_4193587_-_Images_1.jpg")
+![](<thumbs_-_4193587_-_Images_1.avif> "thumbs_-_4193587_-_Images_1.avif")
 
-  ![](<thumbs_-_4193587_-_ImagesSTL_1.jpg> "thumbs_-_4193587_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4193587_-_ImagesSTL_1.avif> "thumbs_-_4193587_-_ImagesSTL_1.avif")
 
   
 

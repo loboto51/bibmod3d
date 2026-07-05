@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Mangaratiba > MORUGETSOYO__BULLETMEN__for_miniature_wargame_terrain [non dl]"
 date: "2019-11-21T04:59:48+00:00"
 toc: true
-image: "thumbs_-_3990477_-_Images_1.jpg"
+image: "thumbs_-_3990477_-_Images_1.avif"
 tags:
 - "Mangaratiba"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Decors-statues"
 - "epic IMP Decors-statues"
 - "decors IMP Decors-statues"
-- "epic decors IMP Decors-statues"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Decors-statues NONDL"
 - "epic Decors-statues NONDL"
 - "decors Decors-statues NONDL"
-- "epic decors Decors-statues NONDL"
 - "IMP Decors-statues NONDL"
-- "epic IMP Decors-statues NONDL"
-- "decors IMP Decors-statues NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Decors-statues NONSUP"
 - "epic Decors-statues NONSUP"
 - "decors Decors-statues NONSUP"
-- "epic decors Decors-statues NONSUP"
 - "IMP Decors-statues NONSUP"
-- "epic IMP Decors-statues NONSUP"
-- "decors IMP Decors-statues NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Decors-statues NONDL NONSUP"
-- "epic Decors-statues NONDL NONSUP"
-- "decors Decors-statues NONDL NONSUP"
-- "IMP Decors-statues NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3990477_-_Images_1.jpg> "thumbs_-_3990477_-_Images_1.jpg")
+![](<thumbs_-_3990477_-_Images_1.avif> "thumbs_-_3990477_-_Images_1.avif")
 
   
 

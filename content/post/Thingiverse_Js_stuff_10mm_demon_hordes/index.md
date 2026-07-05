@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Js_stuff > 10mm_demon_hordes [non dl]"
 date: "2021-04-25T13:46:00+00:00"
 toc: true
-image: "thumbs_-_4839356_-_Images_1.jpg"
+image: "thumbs_-_4839356_-_Images_1.avif"
 tags:
 - "Js_stuff"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "CHAOS NONDL SUP"
-- "warmaster CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_4839356_-_Images_1.jpg> "thumbs_-_4839356_-_Images_1.jpg")
+![](<thumbs_-_4839356_-_Images_1.avif> "thumbs_-_4839356_-_Images_1.avif")
 
   
 

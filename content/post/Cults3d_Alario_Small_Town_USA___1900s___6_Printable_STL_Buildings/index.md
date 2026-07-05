@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Alario > Small_Town_USA___1900s___6_Printable_STL_Buildings [non dl]"
 date: "2025-06-24T15:07:09Z"
 toc: true
-image: "thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.jpg"
+image: "thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.avif"
 tags:
 - "Alario"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Batiments"
 - "epic IMP Batiments"
 - "decors IMP Batiments"
-- "epic decors IMP Batiments"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Batiments NONDL"
 - "epic Batiments NONDL"
 - "decors Batiments NONDL"
-- "epic decors Batiments NONDL"
 - "IMP Batiments NONDL"
-- "epic IMP Batiments NONDL"
-- "decors IMP Batiments NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Batiments NONSUP"
 - "epic Batiments NONSUP"
 - "decors Batiments NONSUP"
-- "epic decors Batiments NONSUP"
 - "IMP Batiments NONSUP"
-- "epic IMP Batiments NONSUP"
-- "decors IMP Batiments NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Batiments NONDL NONSUP"
-- "epic Batiments NONDL NONSUP"
-- "decors Batiments NONDL NONSUP"
-- "IMP Batiments NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.jpg> "thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.jpg")
+![](<thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.avif> "thumbs_-_small-town-usa-1900s-6-printable-stl-buildings_-_Images_1.avif")
 
   
 

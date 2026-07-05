@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jimmyzimms > Galactic_Crusaders_Very_Old_School_Space_Army [dl]"
 date: "2024-08-28T22:43:00Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.avif"
 tags:
 - "jimmyzimms"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Humains-tactiques NONSUP"
 - "epic Humains-tactiques NONSUP"
 - "infanterie Humains-tactiques NONSUP"
-- "epic infanterie Humains-tactiques NONSUP"
 - "GI Humains-tactiques NONSUP"
-- "epic GI Humains-tactiques NONSUP"
-- "infanterie GI Humains-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.jpg> "thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.avif> "thumbs_-_galactic-crusaders-very-old-school-space-army_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-very-old-school-space-army_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-very-old-school-space-army_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-very-old-school-space-army_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-very-old-school-space-army_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Ivito > Caballeria_Pesada_Warmaster [dl]"
 date: "2023-09-23T21:10:32Z"
 toc: true
-image: "thumbs_-_caballeria-pesada-warmaster_-_Images_1.jpg"
+image: "thumbs_-_caballeria-pesada-warmaster_-_Images_1.avif"
 tags:
 - "Ivito"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "HUMAINS NONSUP"
 - "warmaster HUMAINS NONSUP"
 - "EMPIRE HUMAINS NONSUP"
-- "warmaster EMPIRE HUMAINS NONSUP"
 
 ---
 
-![](<thumbs_-_caballeria-pesada-warmaster_-_Images_1.jpg> "thumbs_-_caballeria-pesada-warmaster_-_Images_1.jpg")
+![](<thumbs_-_caballeria-pesada-warmaster_-_Images_1.avif> "thumbs_-_caballeria-pesada-warmaster_-_Images_1.avif")
 
-  ![](<thumbs_-_caballeria-pesada-warmaster_-_ImagesSTL_1.jpg> "thumbs_-_caballeria-pesada-warmaster_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_caballeria-pesada-warmaster_-_ImagesSTL_1.avif> "thumbs_-_caballeria-pesada-warmaster_-_ImagesSTL_1.avif")
 
   
 

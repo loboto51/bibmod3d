@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Derare > Hex_Quest_Interlocking_Tile_Grid_v2 [non dl]"
 date: "2019-12-31T10:59:32+00:00"
 toc: true
-image: "thumbs_-_4076694_-_Images_1.jpg"
+image: "thumbs_-_4076694_-_Images_1.avif"
 tags:
 - "Derare"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4076694_-_Images_1.jpg> "thumbs_-_4076694_-_Images_1.jpg")
+![](<thumbs_-_4076694_-_Images_1.avif> "thumbs_-_4076694_-_Images_1.avif")
 
   
 

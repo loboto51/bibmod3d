@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > Vikingos_10mm_Infanteria [non dl]"
 date: "2025-03-10T17:04:38Z"
 toc: true
-image: "thumbs_-_vikingos-10mm-infanteria_-_Images_1.jpg"
+image: "thumbs_-_vikingos-10mm-infanteria_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "VIKINGS HUMAINS"
 - "warmaster VIKINGS HUMAINS"
 - "NORDIQUES VIKINGS HUMAINS"
-- "warmaster NORDIQUES VIKINGS HUMAINS"
 - "NONDL"
 - "warmaster NONDL"
 - "NORDIQUES NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VIKINGS NONDL"
 - "warmaster VIKINGS NONDL"
 - "NORDIQUES VIKINGS NONDL"
-- "warmaster NORDIQUES VIKINGS NONDL"
 - "HUMAINS NONDL"
 - "warmaster HUMAINS NONDL"
 - "NORDIQUES HUMAINS NONDL"
-- "warmaster NORDIQUES HUMAINS NONDL"
 - "VIKINGS HUMAINS NONDL"
-- "warmaster VIKINGS HUMAINS NONDL"
-- "NORDIQUES VIKINGS HUMAINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "NORDIQUES NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "VIKINGS NONSUP"
 - "warmaster VIKINGS NONSUP"
 - "NORDIQUES VIKINGS NONSUP"
-- "warmaster NORDIQUES VIKINGS NONSUP"
 - "HUMAINS NONSUP"
 - "warmaster HUMAINS NONSUP"
 - "NORDIQUES HUMAINS NONSUP"
-- "warmaster NORDIQUES HUMAINS NONSUP"
 - "VIKINGS HUMAINS NONSUP"
-- "warmaster VIKINGS HUMAINS NONSUP"
-- "NORDIQUES VIKINGS HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NORDIQUES NONDL NONSUP"
-- "warmaster NORDIQUES NONDL NONSUP"
 - "VIKINGS NONDL NONSUP"
-- "warmaster VIKINGS NONDL NONSUP"
-- "NORDIQUES VIKINGS NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "NORDIQUES HUMAINS NONDL NONSUP"
-- "VIKINGS HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_vikingos-10mm-infanteria_-_Images_1.jpg> "thumbs_-_vikingos-10mm-infanteria_-_Images_1.jpg")
+![](<thumbs_-_vikingos-10mm-infanteria_-_Images_1.avif> "thumbs_-_vikingos-10mm-infanteria_-_Images_1.avif")
 
   
 

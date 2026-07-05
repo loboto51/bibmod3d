@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Microcosm89 > Queer_Demons [dl]"
 date: "2025-09-04T21:19:24+00:00"
 toc: true
-image: "thumbs_-_7136436_-_Images_1.jpg"
+image: "thumbs_-_7136436_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7136436_-_Images_1.jpg> "thumbs_-_7136436_-_Images_1.jpg")
+![](<thumbs_-_7136436_-_Images_1.avif> "thumbs_-_7136436_-_Images_1.avif")
 
-  ![](<thumbs_-_7136436_-_ImagesSTL_1.jpg> "thumbs_-_7136436_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7136436_-_ImagesSTL_1.avif> "thumbs_-_7136436_-_ImagesSTL_1.avif")
 
   
 

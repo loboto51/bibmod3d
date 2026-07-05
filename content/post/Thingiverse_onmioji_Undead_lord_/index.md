@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onmioji > Undead_lord_ [non dl]"
 date: "2022-12-24T07:23:34+00:00"
 toc: true
-image: "thumbs_-_5739741_-_Images_1.jpg"
+image: "thumbs_-_5739741_-_Images_1.avif"
 tags:
 - "onmioji"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5739741_-_Images_1.jpg> "thumbs_-_5739741_-_Images_1.jpg")
+![](<thumbs_-_5739741_-_Images_1.avif> "thumbs_-_5739741_-_Images_1.avif")
 
-  ![](<thumbs_-_5739741_-_Makes_1.jpg> "thumbs_-_5739741_-_Makes_1.jpg")
+  ![](<thumbs_-_5739741_-_Makes_1.avif> "thumbs_-_5739741_-_Makes_1.avif")
 
   
 

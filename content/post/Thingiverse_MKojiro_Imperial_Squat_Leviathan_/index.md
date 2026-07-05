@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MKojiro > Imperial_Squat_Leviathan_ [non dl]"
 date: "2018-06-09T09:21:00+00:00"
 toc: true
-image: "thumbs_-_2953260_-_Images_1.jpg"
+image: "thumbs_-_2953260_-_Images_1.avif"
 tags:
 - "MKojiro"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Léviathans"
 - "epic GI Léviathans"
 - "superlourds GI Léviathans"
-- "epic superlourds GI Léviathans"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "superlourds GI NONDL"
-- "epic superlourds GI NONDL"
 - "Léviathans NONDL"
 - "epic Léviathans NONDL"
 - "superlourds Léviathans NONDL"
-- "epic superlourds Léviathans NONDL"
 - "GI Léviathans NONDL"
-- "epic GI Léviathans NONDL"
-- "superlourds GI Léviathans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Léviathans NONSUP"
 - "epic Léviathans NONSUP"
 - "superlourds Léviathans NONSUP"
-- "epic superlourds Léviathans NONSUP"
 - "GI Léviathans NONSUP"
-- "epic GI Léviathans NONSUP"
-- "superlourds GI Léviathans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "superlourds GI NONDL NONSUP"
 - "Léviathans NONDL NONSUP"
-- "epic Léviathans NONDL NONSUP"
-- "superlourds Léviathans NONDL NONSUP"
-- "GI Léviathans NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_2953260_-_Images_1.jpg> "thumbs_-_2953260_-_Images_1.jpg")
+![](<thumbs_-_2953260_-_Images_1.avif> "thumbs_-_2953260_-_Images_1.avif")
 
   
 

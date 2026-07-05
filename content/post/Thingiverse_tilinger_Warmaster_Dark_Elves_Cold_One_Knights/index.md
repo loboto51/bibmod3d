@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dark_Elves_Cold_One_Knights [dl]"
 date: "2026-02-22T21:49:39+00:00"
 toc: true
-image: "thumbs_-_7301307_-_Images_1.jpg"
+image: "thumbs_-_7301307_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7301307_-_Images_1.jpg> "thumbs_-_7301307_-_Images_1.jpg")
+![](<thumbs_-_7301307_-_Images_1.avif> "thumbs_-_7301307_-_Images_1.avif")
 
-  ![](<thumbs_-_7301307_-_ImagesSTL_1.jpg> "thumbs_-_7301307_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7301307_-_ImagesSTL_1.avif> "thumbs_-_7301307_-_ImagesSTL_1.avif")
 
   
 

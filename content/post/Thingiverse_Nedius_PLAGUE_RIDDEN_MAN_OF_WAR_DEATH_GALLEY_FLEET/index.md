@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Nedius > PLAGUE_RIDDEN_MAN_OF_WAR_DEATH_GALLEY_FLEET [non dl]"
 date: "2024-01-12T14:05:59+00:00"
 toc: true
-image: "thumbs_-_6430244_-_Images_1.jpg"
+image: "thumbs_-_6430244_-_Images_1.avif"
 tags:
 - "Nedius"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "manowar CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6430244_-_Images_1.jpg> "thumbs_-_6430244_-_Images_1.jpg")
+![](<thumbs_-_6430244_-_Images_1.avif> "thumbs_-_6430244_-_Images_1.avif")
 
   
 

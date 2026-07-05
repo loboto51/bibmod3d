@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Drones___Tech_Elves___8mm [non dl]"
 date: "2024-05-05T00:45:45Z"
 toc: true
-image: "thumbs_-_tech-elves-drones-8mm_-_Images_1.jpg"
+image: "thumbs_-_tech-elves-drones-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-canons"
 - "epic VM Eldars-canons"
 - "infanterie VM Eldars-canons"
-- "epic infanterie VM Eldars-canons"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Eldars-canons NONDL"
 - "epic Eldars-canons NONDL"
 - "infanterie Eldars-canons NONDL"
-- "epic infanterie Eldars-canons NONDL"
 - "VM Eldars-canons NONDL"
-- "epic VM Eldars-canons NONDL"
-- "infanterie VM Eldars-canons NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-canons SUP"
 - "epic Eldars-canons SUP"
 - "infanterie Eldars-canons SUP"
-- "epic infanterie Eldars-canons SUP"
 - "VM Eldars-canons SUP"
-- "epic VM Eldars-canons SUP"
-- "infanterie VM Eldars-canons SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Eldars-canons NONDL SUP"
-- "epic Eldars-canons NONDL SUP"
-- "infanterie Eldars-canons NONDL SUP"
-- "VM Eldars-canons NONDL SUP"
 
 ---
 
-![](<thumbs_-_tech-elves-drones-8mm_-_Images_1.jpg> "thumbs_-_tech-elves-drones-8mm_-_Images_1.jpg")
+![](<thumbs_-_tech-elves-drones-8mm_-_Images_1.avif> "thumbs_-_tech-elves-drones-8mm_-_Images_1.avif")
 
   
 

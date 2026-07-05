@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Vampire_Count_Zombies [non dl]"
 date: "2025-04-20T17:40:58+00:00"
 toc: true
-image: "thumbs_-_7015752_-_Images_1.jpg"
+image: "thumbs_-_7015752_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7015752_-_Images_1.jpg> "thumbs_-_7015752_-_Images_1.jpg")
+![](<thumbs_-_7015752_-_Images_1.avif> "thumbs_-_7015752_-_Images_1.avif")
 
   
 

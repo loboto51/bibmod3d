@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > Tordominis > 3d_print_crimsom_sisterhood_slave_infantry_10mm_15mm_597836 [dl]"
 date: "2025-06-10"
 toc: true
-image: "thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg"
+image: "thumbs_-_Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.avif"
 tags:
 - "Tordominis"
 - "warmaster"
@@ -23,9 +23,9 @@ tags:
 
 ---
 
-![](<thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg> "thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.jpg")
+![](<thumbs_-_Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.avif> "thumbs_-_Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_Images_1.avif")
 
-  ![](<thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_ImagesSTL_1.jpg> "thumbs_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_3d-print-crimsom-sisterhood-slave-infantry-10mm-15mm-597836_-_ImagesSTL_1.avif")
 
   
 

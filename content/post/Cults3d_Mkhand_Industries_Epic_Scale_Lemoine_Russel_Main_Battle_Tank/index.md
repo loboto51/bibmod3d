@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Mkhand_Industries > Epic_Scale_Lemoine_Russel_Main_Battle_Tank [dl]"
 date: "2020-04-04T15:47:12Z"
 toc: true
-image: "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.avif"
 tags:
 - "Mkhand_Industries"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "vehicules GI Imp-chars"
-- "epic vehicules GI Imp-chars"
 - "Imp-leman-russ"
 - "epic Imp-leman-russ"
 - "vehicules Imp-leman-russ"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-leman-russ"
 - "epic GI Imp-leman-russ"
 - "vehicules GI Imp-leman-russ"
-- "epic vehicules GI Imp-leman-russ"
 - "Imp-chars Imp-leman-russ"
 - "epic Imp-chars Imp-leman-russ"
 - "vehicules Imp-chars Imp-leman-russ"
-- "epic vehicules Imp-chars Imp-leman-russ"
 - "GI Imp-chars Imp-leman-russ"
-- "epic GI Imp-chars Imp-leman-russ"
-- "vehicules GI Imp-chars Imp-leman-russ"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "vehicules GI NONSUP"
-- "epic vehicules GI NONSUP"
 - "Imp-chars NONSUP"
 - "epic Imp-chars NONSUP"
 - "vehicules Imp-chars NONSUP"
-- "epic vehicules Imp-chars NONSUP"
 - "GI Imp-chars NONSUP"
-- "epic GI Imp-chars NONSUP"
-- "vehicules GI Imp-chars NONSUP"
 - "Imp-leman-russ NONSUP"
 - "epic Imp-leman-russ NONSUP"
 - "vehicules Imp-leman-russ NONSUP"
-- "epic vehicules Imp-leman-russ NONSUP"
 - "GI Imp-leman-russ NONSUP"
-- "epic GI Imp-leman-russ NONSUP"
-- "vehicules GI Imp-leman-russ NONSUP"
 - "Imp-chars Imp-leman-russ NONSUP"
-- "epic Imp-chars Imp-leman-russ NONSUP"
-- "vehicules Imp-chars Imp-leman-russ NONSUP"
-- "GI Imp-chars Imp-leman-russ NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.jpg> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.avif> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Makes_1.jpg> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Makes_1.avif> "thumbs_-_epic-scale-lemoine-russel-main-battle-tank-mkhand_industries_-_Makes_1.avif")
 
   
 

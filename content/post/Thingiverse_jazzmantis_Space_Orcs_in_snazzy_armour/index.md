@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Space_Orcs_in_snazzy_armour [non dl]"
 date: "2020-08-14T20:18:08+00:00"
 toc: true
-image: "thumbs_-_4569764_-_Images_1.jpg"
+image: "thumbs_-_4569764_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-stompas"
 - "epic ORKS Orks-stompas"
 - "chevaliers ORKS Orks-stompas"
-- "epic chevaliers ORKS Orks-stompas"
 - "NONDL"
 - "epic NONDL"
 - "chevaliers NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "chevaliers ORKS NONDL"
-- "epic chevaliers ORKS NONDL"
 - "Orks-stompas NONDL"
 - "epic Orks-stompas NONDL"
 - "chevaliers Orks-stompas NONDL"
-- "epic chevaliers Orks-stompas NONDL"
 - "ORKS Orks-stompas NONDL"
-- "epic ORKS Orks-stompas NONDL"
-- "chevaliers ORKS Orks-stompas NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "chevaliers ORKS NONSUP"
-- "epic chevaliers ORKS NONSUP"
 - "Orks-stompas NONSUP"
 - "epic Orks-stompas NONSUP"
 - "chevaliers Orks-stompas NONSUP"
-- "epic chevaliers Orks-stompas NONSUP"
 - "ORKS Orks-stompas NONSUP"
-- "epic ORKS Orks-stompas NONSUP"
-- "chevaliers ORKS Orks-stompas NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "chevaliers NONDL NONSUP"
-- "epic chevaliers NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "chevaliers ORKS NONDL NONSUP"
 - "Orks-stompas NONDL NONSUP"
-- "epic Orks-stompas NONDL NONSUP"
-- "chevaliers Orks-stompas NONDL NONSUP"
-- "ORKS Orks-stompas NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4569764_-_Images_1.jpg> "thumbs_-_4569764_-_Images_1.jpg")
+![](<thumbs_-_4569764_-_Images_1.avif> "thumbs_-_4569764_-_Images_1.avif")
 
-  ![](<thumbs_-_4569764_-_Makes_1.jpg> "thumbs_-_4569764_-_Makes_1.jpg")
+  ![](<thumbs_-_4569764_-_Makes_1.avif> "thumbs_-_4569764_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > ORIGINAL_FREE_PLASTIC_CLASSIC_EXOCRINE [dl]"
 date: "2024-05-14T09:58:00Z"
 toc: true
-image: "thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.jpg"
+image: "thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.jpg> "thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.jpg")
+![](<thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.avif> "thumbs_-_original-free-plastic-classic-exocrine_-_Images_1.avif")
 
-  ![](<thumbs_-_original-free-plastic-classic-exocrine_-_ImagesSTL_1.jpg> "thumbs_-_original-free-plastic-classic-exocrine_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_original-free-plastic-classic-exocrine_-_ImagesSTL_1.avif> "thumbs_-_original-free-plastic-classic-exocrine_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_original-free-plastic-classic-exocrine_-_Makes_1.jpg> "thumbs_-_original-free-plastic-classic-exocrine_-_Makes_1.jpg")
+  ![](<thumbs_-_original-free-plastic-classic-exocrine_-_Makes_1.avif> "thumbs_-_original-free-plastic-classic-exocrine_-_Makes_1.avif")
 
   
 

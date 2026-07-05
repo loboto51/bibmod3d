@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Jetbike_Squadrons___TechPirates___8mm [non dl]"
 date: "2025-09-02T21:52:31Z"
 toc: true
-image: "thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.jpg"
+image: "thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-motojets"
 - "epic EN Eldars-motojets"
 - "infanterie EN Eldars-motojets"
-- "epic infanterie EN Eldars-motojets"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EN NONDL"
 - "epic EN NONDL"
 - "infanterie EN NONDL"
-- "epic infanterie EN NONDL"
 - "Eldars-motojets NONDL"
 - "epic Eldars-motojets NONDL"
 - "infanterie Eldars-motojets NONDL"
-- "epic infanterie Eldars-motojets NONDL"
 - "EN Eldars-motojets NONDL"
-- "epic EN Eldars-motojets NONDL"
-- "infanterie EN Eldars-motojets NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "EN SUP"
 - "epic EN SUP"
 - "infanterie EN SUP"
-- "epic infanterie EN SUP"
 - "Eldars-motojets SUP"
 - "epic Eldars-motojets SUP"
 - "infanterie Eldars-motojets SUP"
-- "epic infanterie Eldars-motojets SUP"
 - "EN Eldars-motojets SUP"
-- "epic EN Eldars-motojets SUP"
-- "infanterie EN Eldars-motojets SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "EN NONDL SUP"
-- "epic EN NONDL SUP"
-- "infanterie EN NONDL SUP"
 - "Eldars-motojets NONDL SUP"
-- "epic Eldars-motojets NONDL SUP"
-- "infanterie Eldars-motojets NONDL SUP"
-- "EN Eldars-motojets NONDL SUP"
 
 ---
 
-![](<thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.jpg> "thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.jpg")
+![](<thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.avif> "thumbs_-_jetbike-squadrons-techpirates-8mm_-_Images_1.avif")
 
   
 

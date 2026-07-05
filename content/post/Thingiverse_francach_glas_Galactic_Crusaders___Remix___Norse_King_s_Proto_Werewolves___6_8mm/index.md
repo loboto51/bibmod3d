@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Galactic_Crusaders___Remix___Norse_King_s_Proto_Werewolves___6_8mm [dl]"
 date: "2020-07-20T00:33:37+00:00"
 toc: true
-image: "thumbs_-_4547266_-_Images_1.jpg"
+image: "thumbs_-_4547266_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_4547266_-_Images_1.jpg> "thumbs_-_4547266_-_Images_1.jpg")
+![](<thumbs_-_4547266_-_Images_1.avif> "thumbs_-_4547266_-_Images_1.avif")
 
-  ![](<thumbs_-_4547266_-_ImagesSTL_1.jpg> "thumbs_-_4547266_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4547266_-_ImagesSTL_1.avif> "thumbs_-_4547266_-_ImagesSTL_1.avif")
 
   
 

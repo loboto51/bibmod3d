@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > DuncanShadow > The_Sorcerer_ [non dl]"
 date: "2018-07-26T11:15:21+00:00"
 toc: true
-image: "thumbs_-_3019261_-_Images_1.jpg"
+image: "thumbs_-_3019261_-_Images_1.avif"
 tags:
 - "DuncanShadow"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC NONDL"
 - "28mm SMC NONDL"
 - "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 - "SMC NONDL NONSUP"
-- "28mm SMC NONDL NONSUP"
-- "CHAOS SMC NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3019261_-_Images_1.jpg> "thumbs_-_3019261_-_Images_1.jpg")
+![](<thumbs_-_3019261_-_Images_1.avif> "thumbs_-_3019261_-_Images_1.avif")
 
-  ![](<thumbs_-_3019261_-_Makes_1.jpg> "thumbs_-_3019261_-_Makes_1.jpg")
+  ![](<thumbs_-_3019261_-_Makes_1.avif> "thumbs_-_3019261_-_Makes_1.avif")
 
   
 

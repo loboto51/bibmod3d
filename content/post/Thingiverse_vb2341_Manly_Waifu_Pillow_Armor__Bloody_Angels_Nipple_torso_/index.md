@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > vb2341 > Manly_Waifu_Pillow_Armor__Bloody_Angels_Nipple_torso_ [non dl]"
 date: "2020-03-21T03:38:29+00:00"
 toc: true
-image: "thumbs_-_4234080_-_Images_1.jpg"
+image: "thumbs_-_4234080_-_Images_1.avif"
 tags:
 - "vb2341"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4234080_-_Images_1.jpg> "thumbs_-_4234080_-_Images_1.jpg")
+![](<thumbs_-_4234080_-_Images_1.avif> "thumbs_-_4234080_-_Images_1.avif")
 
-  ![](<thumbs_-_4234080_-_Makes_1.jpg> "thumbs_-_4234080_-_Makes_1.jpg")
+  ![](<thumbs_-_4234080_-_Makes_1.avif> "thumbs_-_4234080_-_Makes_1.avif")
 
   
 

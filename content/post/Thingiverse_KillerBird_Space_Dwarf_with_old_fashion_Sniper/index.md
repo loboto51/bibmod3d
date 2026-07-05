@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillerBird > Space_Dwarf_with_old_fashion_Sniper [non dl]"
 date: "2022-12-06T15:03:48+00:00"
 toc: true
-image: "thumbs_-_5686357_-_Images_1.jpg"
+image: "thumbs_-_5686357_-_Images_1.avif"
 tags:
 - "KillerBird"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5686357_-_Images_1.jpg> "thumbs_-_5686357_-_Images_1.jpg")
+![](<thumbs_-_5686357_-_Images_1.avif> "thumbs_-_5686357_-_Images_1.avif")
 
-  ![](<thumbs_-_5686357_-_Makes_1.jpg> "thumbs_-_5686357_-_Makes_1.jpg")
+  ![](<thumbs_-_5686357_-_Makes_1.avif> "thumbs_-_5686357_-_Makes_1.avif")
 
   
 

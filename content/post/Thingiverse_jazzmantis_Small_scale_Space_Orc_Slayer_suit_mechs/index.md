@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jazzmantis > Small_scale_Space_Orc_Slayer_suit_mechs [dl]"
 date: "2020-05-01T13:13:36+00:00"
 toc: true
-image: "thumbs_-_4328390_-_Images_1.jpg"
+image: "thumbs_-_4328390_-_Images_1.avif"
 tags:
 - "jazzmantis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-dreadnoughts"
 - "epic ORKS Orks-dreadnoughts"
 - "marcheurs ORKS Orks-dreadnoughts"
-- "epic marcheurs ORKS Orks-dreadnoughts"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "marcheurs ORKS NONSUP"
-- "epic marcheurs ORKS NONSUP"
 - "Orks-dreadnoughts NONSUP"
 - "epic Orks-dreadnoughts NONSUP"
 - "marcheurs Orks-dreadnoughts NONSUP"
-- "epic marcheurs Orks-dreadnoughts NONSUP"
 - "ORKS Orks-dreadnoughts NONSUP"
-- "epic ORKS Orks-dreadnoughts NONSUP"
-- "marcheurs ORKS Orks-dreadnoughts NONSUP"
 
 ---
 
-![](<thumbs_-_4328390_-_Images_1.jpg> "thumbs_-_4328390_-_Images_1.jpg")
+![](<thumbs_-_4328390_-_Images_1.avif> "thumbs_-_4328390_-_Images_1.avif")
 
-  ![](<thumbs_-_4328390_-_ImagesSTL_1.jpg> "thumbs_-_4328390_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4328390_-_ImagesSTL_1.avif> "thumbs_-_4328390_-_ImagesSTL_1.avif")
 
   
 

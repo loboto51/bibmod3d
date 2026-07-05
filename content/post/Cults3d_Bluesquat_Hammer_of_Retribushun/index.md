@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bluesquat > Hammer_of_Retribushun [dl]"
 date: "2023-12-24T11:57:42Z"
 toc: true
-image: "thumbs_-_hammer-of-retribushun_-_Images_1.jpg"
+image: "thumbs_-_hammer-of-retribushun_-_Images_1.avif"
 tags:
 - "Bluesquat"
 - "bfg"
@@ -20,15 +20,14 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "ORKS Flotte SUP"
-- "bfg ORKS Flotte SUP"
 
 ---
 
-![](<thumbs_-_hammer-of-retribushun_-_Images_1.jpg> "thumbs_-_hammer-of-retribushun_-_Images_1.jpg")
+![](<thumbs_-_hammer-of-retribushun_-_Images_1.avif> "thumbs_-_hammer-of-retribushun_-_Images_1.avif")
 
-  ![](<thumbs_-_hammer-of-retribushun_-_ImagesSTL_1.jpg> "thumbs_-_hammer-of-retribushun_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_hammer-of-retribushun_-_ImagesSTL_1.avif> "thumbs_-_hammer-of-retribushun_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_hammer-of-retribushun_-_Makes_1.jpg> "thumbs_-_hammer-of-retribushun_-_Makes_1.jpg")
+  ![](<thumbs_-_hammer-of-retribushun_-_Makes_1.avif> "thumbs_-_hammer-of-retribushun_-_Makes_1.avif")
 
   
 

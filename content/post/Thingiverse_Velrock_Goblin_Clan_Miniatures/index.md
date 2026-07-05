@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Velrock > Goblin_Clan_Miniatures [non dl]"
 date: "2019-06-03T03:08:45+00:00"
 toc: true
-image: "thumbs_-_3669484_-_Images_1.jpg"
+image: "thumbs_-_3669484_-_Images_1.avif"
 tags:
 - "Velrock"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "28mm GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3669484_-_Images_1.jpg> "thumbs_-_3669484_-_Images_1.jpg")
+![](<thumbs_-_3669484_-_Images_1.avif> "thumbs_-_3669484_-_Images_1.avif")
 
-  ![](<thumbs_-_3669484_-_Makes_1.jpg> "thumbs_-_3669484_-_Makes_1.jpg")
+  ![](<thumbs_-_3669484_-_Makes_1.avif> "thumbs_-_3669484_-_Makes_1.avif")
 
   
 

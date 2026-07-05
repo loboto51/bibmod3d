@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Igotnuked > RG_Captain_Winged_shoulder_guards [dl]"
 date: "2026-05-19T00:31:12Z"
 toc: true
-image: "thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.jpg"
+image: "thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.avif"
 tags:
 - "Igotnuked"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMI NONSUP"
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
 
 ---
 
-![](<thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.jpg> "thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.jpg")
+![](<thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.avif> "thumbs_-_rg-captain-winged-shoulder-guards_-_Images_1.avif")
 
-  ![](<thumbs_-_rg-captain-winged-shoulder-guards_-_ImagesSTL_1.jpg> "thumbs_-_rg-captain-winged-shoulder-guards_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_rg-captain-winged-shoulder-guards_-_ImagesSTL_1.avif> "thumbs_-_rg-captain-winged-shoulder-guards_-_ImagesSTL_1.avif")
 
   
 

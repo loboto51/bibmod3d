@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > TheLazyForger > 3d_print_bases_and_basing_elements_304434 [dl]"
 date: "2023-06-19"
 toc: true
-image: "thumbs_-_3d_print_bases_and_basing_elements_304434_-_Images_1.jpg"
+image: "thumbs_-_TheLazyForger_-_3d_print_bases_and_basing_elements_304434_-_Images_1.avif"
 tags:
 - "TheLazyForger"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP ORKS"
 - "epic IMP ORKS"
 - "decors IMP ORKS"
-- "epic decors IMP ORKS"
 - "Bidonvilles-barricades-improvisees-epaves"
 - "epic Bidonvilles-barricades-improvisees-epaves"
 - "decors Bidonvilles-barricades-improvisees-epaves"
@@ -28,14 +27,10 @@ tags:
 - "IMP Bidonvilles-barricades-improvisees-epaves"
 - "epic IMP Bidonvilles-barricades-improvisees-epaves"
 - "decors IMP Bidonvilles-barricades-improvisees-epaves"
-- "epic decors IMP Bidonvilles-barricades-improvisees-epaves"
 - "ORKS Bidonvilles-barricades-improvisees-epaves"
 - "epic ORKS Bidonvilles-barricades-improvisees-epaves"
 - "decors ORKS Bidonvilles-barricades-improvisees-epaves"
-- "epic decors ORKS Bidonvilles-barricades-improvisees-epaves"
 - "IMP ORKS Bidonvilles-barricades-improvisees-epaves"
-- "epic IMP ORKS Bidonvilles-barricades-improvisees-epaves"
-- "decors IMP ORKS Bidonvilles-barricades-improvisees-epaves"
 - "SUP"
 - "epic SUP"
 - "decors SUP"
@@ -43,31 +38,21 @@ tags:
 - "IMP SUP"
 - "epic IMP SUP"
 - "decors IMP SUP"
-- "epic decors IMP SUP"
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "decors ORKS SUP"
-- "epic decors ORKS SUP"
 - "IMP ORKS SUP"
-- "epic IMP ORKS SUP"
-- "decors IMP ORKS SUP"
 - "Bidonvilles-barricades-improvisees-epaves SUP"
 - "epic Bidonvilles-barricades-improvisees-epaves SUP"
 - "decors Bidonvilles-barricades-improvisees-epaves SUP"
-- "epic decors Bidonvilles-barricades-improvisees-epaves SUP"
 - "IMP Bidonvilles-barricades-improvisees-epaves SUP"
-- "epic IMP Bidonvilles-barricades-improvisees-epaves SUP"
-- "decors IMP Bidonvilles-barricades-improvisees-epaves SUP"
 - "ORKS Bidonvilles-barricades-improvisees-epaves SUP"
-- "epic ORKS Bidonvilles-barricades-improvisees-epaves SUP"
-- "decors ORKS Bidonvilles-barricades-improvisees-epaves SUP"
-- "IMP ORKS Bidonvilles-barricades-improvisees-epaves SUP"
 
 ---
 
-![](<thumbs_-_3d_print_bases_and_basing_elements_304434_-_Images_1.jpg> "thumbs_-_3d_print_bases_and_basing_elements_304434_-_Images_1.jpg")
+![](<thumbs_-_TheLazyForger_-_3d_print_bases_and_basing_elements_304434_-_Images_1.avif> "thumbs_-_TheLazyForger_-_3d_print_bases_and_basing_elements_304434_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_bases_and_basing_elements_304434_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_bases_and_basing_elements_304434_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_TheLazyForger_-_3d_print_bases_and_basing_elements_304434_-_ImagesSTL_1.avif> "thumbs_-_TheLazyForger_-_3d_print_bases_and_basing_elements_304434_-_ImagesSTL_1.avif")
 
   
 

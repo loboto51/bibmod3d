@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Orc_Spearmen [dl]"
 date: "2024-02-10T06:43:39+00:00"
 toc: true
-image: "thumbs_-_6477628_-_Images_1.jpg"
+image: "thumbs_-_6477628_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_6477628_-_Images_1.jpg> "thumbs_-_6477628_-_Images_1.jpg")
+![](<thumbs_-_6477628_-_Images_1.avif> "thumbs_-_6477628_-_Images_1.avif")
 
-  ![](<thumbs_-_6477628_-_ImagesSTL_1.jpg> "thumbs_-_6477628_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6477628_-_ImagesSTL_1.avif> "thumbs_-_6477628_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Brinkishdean > Beast_Helmet [non dl]"
 date: "2024-11-23T07:44:40Z"
 toc: true
-image: "thumbs_-_beast-helmet_-_Images_1.jpg"
+image: "thumbs_-_beast-helmet_-_Images_1.avif"
 tags:
 - "Brinkishdean"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_beast-helmet_-_Images_1.jpg> "thumbs_-_beast-helmet_-_Images_1.jpg")
+![](<thumbs_-_beast-helmet_-_Images_1.avif> "thumbs_-_beast-helmet_-_Images_1.avif")
 
   
 

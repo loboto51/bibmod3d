@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > Hero_riding_on_Leon [non dl]"
 date: "2025-01-22T17:21:12Z"
 toc: true
-image: "thumbs_-_hero-riding-on-leon_-_Images_1.jpg"
+image: "thumbs_-_hero-riding-on-leon_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_hero-riding-on-leon_-_Images_1.jpg> "thumbs_-_hero-riding-on-leon_-_Images_1.jpg")
+![](<thumbs_-_hero-riding-on-leon_-_Images_1.avif> "thumbs_-_hero-riding-on-leon_-_Images_1.avif")
 
   
 

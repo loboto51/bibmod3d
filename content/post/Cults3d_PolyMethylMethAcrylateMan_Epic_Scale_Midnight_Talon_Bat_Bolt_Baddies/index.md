@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > PolyMethylMethAcrylateMan > Epic_Scale_Midnight_Talon_Bat_Bolt_Baddies [dl]"
 date: "2025-10-07T05:20:39Z"
 toc: true
-image: "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.avif"
 tags:
 - "PolyMethylMethAcrylateMan"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-tactiques"
 - "epic SMC Sm-tactiques"
 - "infanterie SMC Sm-tactiques"
-- "epic infanterie SMC Sm-tactiques"
 - "SMC-NL"
 - "epic SMC-NL"
 - "infanterie SMC-NL"
@@ -28,14 +27,10 @@ tags:
 - "SMC SMC-NL"
 - "epic SMC SMC-NL"
 - "infanterie SMC SMC-NL"
-- "epic infanterie SMC SMC-NL"
 - "Sm-tactiques SMC-NL"
 - "epic Sm-tactiques SMC-NL"
 - "infanterie Sm-tactiques SMC-NL"
-- "epic infanterie Sm-tactiques SMC-NL"
 - "SMC Sm-tactiques SMC-NL"
-- "epic SMC Sm-tactiques SMC-NL"
-- "infanterie SMC Sm-tactiques SMC-NL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC SUP"
 - "epic SMC SUP"
 - "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
 - "Sm-tactiques SUP"
 - "epic Sm-tactiques SUP"
 - "infanterie Sm-tactiques SUP"
-- "epic infanterie Sm-tactiques SUP"
 - "SMC Sm-tactiques SUP"
-- "epic SMC Sm-tactiques SUP"
-- "infanterie SMC Sm-tactiques SUP"
 - "SMC-NL SUP"
 - "epic SMC-NL SUP"
 - "infanterie SMC-NL SUP"
-- "epic infanterie SMC-NL SUP"
 - "SMC SMC-NL SUP"
-- "epic SMC SMC-NL SUP"
-- "infanterie SMC SMC-NL SUP"
 - "Sm-tactiques SMC-NL SUP"
-- "epic Sm-tactiques SMC-NL SUP"
-- "infanterie Sm-tactiques SMC-NL SUP"
-- "SMC Sm-tactiques SMC-NL SUP"
 
 ---
 
-![](<thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.jpg> "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.avif> "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-midnight-talon-bat-bolt-baddies_-_ImagesSTL_1.avif")
 
   
 

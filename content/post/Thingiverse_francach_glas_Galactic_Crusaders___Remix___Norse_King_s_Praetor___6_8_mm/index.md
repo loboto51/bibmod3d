@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Galactic_Crusaders___Remix___Norse_King_s_Praetor___6_8_mm [dl]"
 date: "2021-05-29T16:34:56+00:00"
 toc: true
-image: "thumbs_-_4872779_-_Images_1.jpg"
+image: "thumbs_-_4872779_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K SUP"
 - "epic SM30K SUP"
 - "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
 - "Sm-assaut SUP"
 - "epic Sm-assaut SUP"
 - "infanterie Sm-assaut SUP"
-- "epic infanterie Sm-assaut SUP"
 - "SM30K Sm-assaut SUP"
-- "epic SM30K Sm-assaut SUP"
-- "infanterie SM30K Sm-assaut SUP"
 
 ---
 
-![](<thumbs_-_4872779_-_Images_1.jpg> "thumbs_-_4872779_-_Images_1.jpg")
+![](<thumbs_-_4872779_-_Images_1.avif> "thumbs_-_4872779_-_Images_1.avif")
 
-  ![](<thumbs_-_4872779_-_ImagesSTL_1.jpg> "thumbs_-_4872779_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4872779_-_ImagesSTL_1.avif> "thumbs_-_4872779_-_ImagesSTL_1.avif")
 
   
 

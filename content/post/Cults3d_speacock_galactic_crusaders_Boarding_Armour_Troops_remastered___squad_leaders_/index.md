@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > galactic_crusaders_Boarding_Armour_Troops_remastered___squad_leaders_ [dl]"
 date: "2023-12-19T11:52:00Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,20 +52,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.jpg> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-squad-leaders_-_ImagesSTL_1.avif")
 
   
 

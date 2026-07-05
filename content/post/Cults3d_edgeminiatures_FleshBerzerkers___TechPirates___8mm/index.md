@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > FleshBerzerkers___TechPirates___8mm [non dl]"
 date: "2026-01-06T05:33:05Z"
 toc: true
-image: "thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.jpg"
+image: "thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-assaut"
 - "epic EN Eldars-assaut"
 - "infanterie EN Eldars-assaut"
-- "epic infanterie EN Eldars-assaut"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EN NONDL"
 - "epic EN NONDL"
 - "infanterie EN NONDL"
-- "epic infanterie EN NONDL"
 - "Eldars-assaut NONDL"
 - "epic Eldars-assaut NONDL"
 - "infanterie Eldars-assaut NONDL"
-- "epic infanterie Eldars-assaut NONDL"
 - "EN Eldars-assaut NONDL"
-- "epic EN Eldars-assaut NONDL"
-- "infanterie EN Eldars-assaut NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "EN SUP"
 - "epic EN SUP"
 - "infanterie EN SUP"
-- "epic infanterie EN SUP"
 - "Eldars-assaut SUP"
 - "epic Eldars-assaut SUP"
 - "infanterie Eldars-assaut SUP"
-- "epic infanterie Eldars-assaut SUP"
 - "EN Eldars-assaut SUP"
-- "epic EN Eldars-assaut SUP"
-- "infanterie EN Eldars-assaut SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "EN NONDL SUP"
-- "epic EN NONDL SUP"
-- "infanterie EN NONDL SUP"
 - "Eldars-assaut NONDL SUP"
-- "epic Eldars-assaut NONDL SUP"
-- "infanterie Eldars-assaut NONDL SUP"
-- "EN Eldars-assaut NONDL SUP"
 
 ---
 
-![](<thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.jpg> "thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.jpg")
+![](<thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.avif> "thumbs_-_fleshberzerkers-techpirates-8mm-edgeminiatures_-_Images_1.avif")
 
   
 

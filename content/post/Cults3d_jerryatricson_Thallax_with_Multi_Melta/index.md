@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jerryatricson > Thallax_with_Multi_Melta [dl]"
 date: "2021-08-19T07:01:01Z"
 toc: true
-image: "thumbs_-_thallax-with-multi-melta_-_Images_1.jpg"
+image: "thumbs_-_thallax-with-multi-melta_-_Images_1.avif"
 tags:
 - "jerryatricson"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Thallax"
 - "epic AM Thallax"
 - "infanterie AM Thallax"
-- "epic infanterie AM Thallax"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
-- "epic infanterie AM NONSUP"
 - "Thallax NONSUP"
 - "epic Thallax NONSUP"
 - "infanterie Thallax NONSUP"
-- "epic infanterie Thallax NONSUP"
 - "AM Thallax NONSUP"
-- "epic AM Thallax NONSUP"
-- "infanterie AM Thallax NONSUP"
 
 ---
 
-![](<thumbs_-_thallax-with-multi-melta_-_Images_1.jpg> "thumbs_-_thallax-with-multi-melta_-_Images_1.jpg")
+![](<thumbs_-_thallax-with-multi-melta_-_Images_1.avif> "thumbs_-_thallax-with-multi-melta_-_Images_1.avif")
 
-  ![](<thumbs_-_thallax-with-multi-melta_-_ImagesSTL_1.jpg> "thumbs_-_thallax-with-multi-melta_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_thallax-with-multi-melta_-_ImagesSTL_1.avif> "thumbs_-_thallax-with-multi-melta_-_ImagesSTL_1.avif")
 
   
 

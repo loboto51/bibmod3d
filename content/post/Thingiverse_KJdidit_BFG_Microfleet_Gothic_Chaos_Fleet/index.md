@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KJdidit > BFG_Microfleet_Gothic_Chaos_Fleet [dl]"
 date: "2020-06-14T02:39:52+00:00"
 toc: true
-image: "thumbs_-_4459475_-_Images_1.jpg"
+image: "thumbs_-_4459475_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "SMC Flotte"
 - "bfg SMC Flotte"
 - "CHAOS SMC Flotte"
-- "bfg CHAOS SMC Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "CHAOS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "bfg SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "bfg CHAOS SMC NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "CHAOS Flotte NONSUP"
-- "bfg CHAOS Flotte NONSUP"
 - "SMC Flotte NONSUP"
-- "bfg SMC Flotte NONSUP"
-- "CHAOS SMC Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4459475_-_Images_1.jpg> "thumbs_-_4459475_-_Images_1.jpg")
+![](<thumbs_-_4459475_-_Images_1.avif> "thumbs_-_4459475_-_Images_1.avif")
 
-  ![](<thumbs_-_4459475_-_ImagesSTL_1.jpg> "thumbs_-_4459475_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4459475_-_ImagesSTL_1.avif> "thumbs_-_4459475_-_ImagesSTL_1.avif")
 
   
 

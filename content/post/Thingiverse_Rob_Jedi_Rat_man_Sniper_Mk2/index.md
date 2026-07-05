@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rob_Jedi > Rat_man_Sniper_Mk2 [dl]"
 date: "2019-06-04T03:45:03+00:00"
 toc: true
-image: "thumbs_-_3671331_-_Images_1.jpg"
+image: "thumbs_-_3671331_-_Images_1.avif"
 tags:
 - "Rob_Jedi"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_3671331_-_Images_1.jpg> "thumbs_-_3671331_-_Images_1.jpg")
+![](<thumbs_-_3671331_-_Images_1.avif> "thumbs_-_3671331_-_Images_1.avif")
 
-  ![](<thumbs_-_3671331_-_ImagesSTL_1.jpg> "thumbs_-_3671331_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3671331_-_ImagesSTL_1.avif> "thumbs_-_3671331_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3671331_-_Makes_1.jpg> "thumbs_-_3671331_-_Makes_1.jpg")
+  ![](<thumbs_-_3671331_-_Makes_1.avif> "thumbs_-_3671331_-_Makes_1.avif")
 
   
 

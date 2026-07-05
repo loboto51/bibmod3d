@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Morticai99 > Warmaster_Skeleton_Hordes [non dl]"
 date: "2025-11-17T19:27:38+00:00"
 toc: true
-image: "thumbs_-_7203727_-_Images_1.jpg"
+image: "thumbs_-_7203727_-_Images_1.avif"
 tags:
 - "Morticai99"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "MORTS-VIVANTS NONDL SUP"
-- "warmaster MORTS-VIVANTS NONDL SUP"
 
 ---
 
-![](<thumbs_-_7203727_-_Images_1.jpg> "thumbs_-_7203727_-_Images_1.jpg")
+![](<thumbs_-_7203727_-_Images_1.avif> "thumbs_-_7203727_-_Images_1.avif")
 
   
 

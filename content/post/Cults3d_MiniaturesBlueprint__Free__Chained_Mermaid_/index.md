@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MiniaturesBlueprint > _Free__Chained_Mermaid_ [non dl]"
 date: "2022-04-04T20:00:55Z"
 toc: true
-image: "thumbs_-_free-chained-mermaid_-_Images_1.jpg"
+image: "thumbs_-_free-chained-mermaid_-_Images_1.avif"
 tags:
 - "MiniaturesBlueprint"
 - "autres-echelles"
@@ -20,13 +20,12 @@ tags:
 - "NONDL SUP"
 - "autres-echelles NONDL SUP"
 - "Figurines-et-statuettes NONDL SUP"
-- "autres-echelles Figurines-et-statuettes NONDL SUP"
 
 ---
 
-![](<thumbs_-_free-chained-mermaid_-_Images_1.jpg> "thumbs_-_free-chained-mermaid_-_Images_1.jpg")
+![](<thumbs_-_free-chained-mermaid_-_Images_1.avif> "thumbs_-_free-chained-mermaid_-_Images_1.avif")
 
-  ![](<thumbs_-_free-chained-mermaid_-_Makes_1.jpg> "thumbs_-_free-chained-mermaid_-_Makes_1.jpg")
+  ![](<thumbs_-_free-chained-mermaid_-_Makes_1.avif> "thumbs_-_free-chained-mermaid_-_Makes_1.avif")
 
   
 

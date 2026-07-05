@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > sister_matic > Fronteris_Exhaust_Belfry [non dl]"
 date: "2025-04-06T12:23:14+00:00"
 toc: true
-image: "thumbs_-_7000804_-_Images_1.jpg"
+image: "thumbs_-_7000804_-_Images_1.avif"
 tags:
 - "sister_matic"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Bâtiments"
 - "epic IMP Bâtiments"
 - "decors IMP Bâtiments"
-- "epic decors IMP Bâtiments"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Bâtiments NONDL"
 - "epic Bâtiments NONDL"
 - "decors Bâtiments NONDL"
-- "epic decors Bâtiments NONDL"
 - "IMP Bâtiments NONDL"
-- "epic IMP Bâtiments NONDL"
-- "decors IMP Bâtiments NONDL"
 - "SUP"
 - "epic SUP"
 - "decors SUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP SUP"
 - "epic IMP SUP"
 - "decors IMP SUP"
-- "epic decors IMP SUP"
 - "Bâtiments SUP"
 - "epic Bâtiments SUP"
 - "decors Bâtiments SUP"
-- "epic decors Bâtiments SUP"
 - "IMP Bâtiments SUP"
-- "epic IMP Bâtiments SUP"
-- "decors IMP Bâtiments SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "decors NONDL SUP"
-- "epic decors NONDL SUP"
 - "IMP NONDL SUP"
-- "epic IMP NONDL SUP"
-- "decors IMP NONDL SUP"
 - "Bâtiments NONDL SUP"
-- "epic Bâtiments NONDL SUP"
-- "decors Bâtiments NONDL SUP"
-- "IMP Bâtiments NONDL SUP"
 
 ---
 
-![](<thumbs_-_7000804_-_Images_1.jpg> "thumbs_-_7000804_-_Images_1.jpg")
+![](<thumbs_-_7000804_-_Images_1.avif> "thumbs_-_7000804_-_Images_1.avif")
 
   
 

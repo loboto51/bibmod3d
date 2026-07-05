@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > DaGoN > Battlefleet_Gothic_Stands [non dl]"
 date: "2020-08-04T15:20:32Z"
 toc: true
-image: "thumbs_-_battlefleet-gothic-stands_-_Images_1.jpg"
+image: "thumbs_-_battlefleet-gothic-stands_-_Images_1.avif"
 tags:
 - "DaGoN"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "bfg DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "bfg SOCLES DIVERS NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "bfg DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "bfg SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "bfg SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "bfg DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_battlefleet-gothic-stands_-_Images_1.jpg> "thumbs_-_battlefleet-gothic-stands_-_Images_1.jpg")
+![](<thumbs_-_battlefleet-gothic-stands_-_Images_1.avif> "thumbs_-_battlefleet-gothic-stands_-_Images_1.avif")
 
   
 

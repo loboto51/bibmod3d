@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bluesquat > Looted_Kutters [dl]"
 date: "2023-12-13T11:46:03Z"
 toc: true
-image: "thumbs_-_looted-kutters_-_Images_1.jpg"
+image: "thumbs_-_looted-kutters_-_Images_1.avif"
 tags:
 - "Bluesquat"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "ORKS Flotte SUP"
-- "bfg ORKS Flotte SUP"
 
 ---
 
-![](<thumbs_-_looted-kutters_-_Images_1.jpg> "thumbs_-_looted-kutters_-_Images_1.jpg")
+![](<thumbs_-_looted-kutters_-_Images_1.avif> "thumbs_-_looted-kutters_-_Images_1.avif")
 
-  ![](<thumbs_-_looted-kutters_-_ImagesSTL_1.jpg> "thumbs_-_looted-kutters_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_looted-kutters_-_ImagesSTL_1.avif> "thumbs_-_looted-kutters_-_ImagesSTL_1.avif")
 
   
 

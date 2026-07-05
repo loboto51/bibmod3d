@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jw7007 > Necromunda_Status_Markers [non dl]"
 date: "2020-07-02T09:26:39Z"
 toc: true
-image: "thumbs_-_necromunda-status-markers_-_Images_1.jpg"
+image: "thumbs_-_necromunda-status-markers_-_Images_1.avif"
 tags:
 - "jw7007"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_necromunda-status-markers_-_Images_1.jpg> "thumbs_-_necromunda-status-markers_-_Images_1.jpg")
+![](<thumbs_-_necromunda-status-markers_-_Images_1.avif> "thumbs_-_necromunda-status-markers_-_Images_1.avif")
 
   
 

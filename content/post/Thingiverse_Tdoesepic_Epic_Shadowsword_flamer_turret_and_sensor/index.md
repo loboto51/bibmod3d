@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tdoesepic > Epic_Shadowsword_flamer_turret_and_sensor [non dl]"
 date: "2018-08-14T15:36:50+00:00"
 toc: true
-image: "thumbs_-_3047395_-_Images_1.jpg"
+image: "thumbs_-_3047395_-_Images_1.avif"
 tags:
 - "Tdoesepic"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Baneblades"
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
-- "epic superlourds GI Baneblades"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "superlourds GI NONDL"
-- "epic superlourds GI NONDL"
 - "Baneblades NONDL"
 - "epic Baneblades NONDL"
 - "superlourds Baneblades NONDL"
-- "epic superlourds Baneblades NONDL"
 - "GI Baneblades NONDL"
-- "epic GI Baneblades NONDL"
-- "superlourds GI Baneblades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades NONSUP"
 - "epic Baneblades NONSUP"
 - "superlourds Baneblades NONSUP"
-- "epic superlourds Baneblades NONSUP"
 - "GI Baneblades NONSUP"
-- "epic GI Baneblades NONSUP"
-- "superlourds GI Baneblades NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "superlourds GI NONDL NONSUP"
 - "Baneblades NONDL NONSUP"
-- "epic Baneblades NONDL NONSUP"
-- "superlourds Baneblades NONDL NONSUP"
-- "GI Baneblades NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3047395_-_Images_1.jpg> "thumbs_-_3047395_-_Images_1.jpg")
+![](<thumbs_-_3047395_-_Images_1.avif> "thumbs_-_3047395_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Expanded_Eagle_Tactical_Galactic_Crusaders [dl]"
 date: "2025-05-25T14:33:42Z"
 toc: true
-image: "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.jpg"
+image: "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,34 +27,30 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.jpg")
+![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_Images_1.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_1.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_1.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_2.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_2.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_3.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_3.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_3.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_4.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_4.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_4.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_4.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_5.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_5.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_5.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_5.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_6.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_6.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_6.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_6.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_7.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_7.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_7.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_7.avif")
 
-  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_8.jpg> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_8.jpg")
+  ![](<thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_8.avif> "thumbs_-_expanded-eagle-galactic-crusaders-af7185a8d3a9df61b1a4_-_ImagesSTL_8.avif")
 
   
 

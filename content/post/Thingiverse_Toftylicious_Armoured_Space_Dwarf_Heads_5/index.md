@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Toftylicious > Armoured_Space_Dwarf_Heads_5 [non dl]"
 date: "2023-11-30T18:14:36+00:00"
 toc: true
-image: "thumbs_-_6344091_-_Images_1.jpg"
+image: "thumbs_-_6344091_-_Images_1.avif"
 tags:
 - "Toftylicious"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6344091_-_Images_1.jpg> "thumbs_-_6344091_-_Images_1.jpg")
+![](<thumbs_-_6344091_-_Images_1.avif> "thumbs_-_6344091_-_Images_1.avif")
 
   
 

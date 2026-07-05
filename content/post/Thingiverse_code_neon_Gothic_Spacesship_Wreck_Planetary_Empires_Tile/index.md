@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > code_neon > Gothic_Spacesship_Wreck_Planetary_Empires_Tile [non dl]"
 date: "2021-06-29T14:53:52+00:00"
 toc: true
-image: "thumbs_-_4896937_-_Images_1.jpg"
+image: "thumbs_-_4896937_-_Images_1.avif"
 tags:
 - "code_neon"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4896937_-_Images_1.jpg> "thumbs_-_4896937_-_Images_1.jpg")
+![](<thumbs_-_4896937_-_Images_1.avif> "thumbs_-_4896937_-_Images_1.avif")
 
   
 

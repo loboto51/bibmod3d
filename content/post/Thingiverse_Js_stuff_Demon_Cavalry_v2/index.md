@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Js_stuff > Demon_Cavalry_v2 [non dl]"
 date: "2022-03-16T16:08:54+00:00"
 toc: true
-image: "thumbs_-_5319872_-_Images_1.jpg"
+image: "thumbs_-_5319872_-_Images_1.avif"
 tags:
 - "Js_stuff"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "CHAOS NONDL SUP"
-- "warmaster CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_5319872_-_Images_1.jpg> "thumbs_-_5319872_-_Images_1.jpg")
+![](<thumbs_-_5319872_-_Images_1.avif> "thumbs_-_5319872_-_Images_1.avif")
 
   
 

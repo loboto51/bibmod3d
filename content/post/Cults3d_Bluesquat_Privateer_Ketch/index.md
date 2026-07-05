@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > Bluesquat > Privateer_Ketch [non dl]"
 date: "2023-02-08T08:15:41Z"
 toc: true
-image: "thumbs_-_privateer-ketch_-_Images_1.jpg"
+image: "thumbs_-_privateer-ketch_-_Images_1.avif"
 tags:
 - "Bluesquat"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "IMP SUP"
@@ -28,20 +27,16 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "IMP Flotte SUP"
-- "bfg IMP Flotte SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "IMP NONDL SUP"
-- "bfg IMP NONDL SUP"
 - "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "IMP Flotte NONDL SUP"
 
 ---
 
-![](<thumbs_-_privateer-ketch_-_Images_1.jpg> "thumbs_-_privateer-ketch_-_Images_1.jpg")
+![](<thumbs_-_privateer-ketch_-_Images_1.avif> "thumbs_-_privateer-ketch_-_Images_1.avif")
 
-  ![](<thumbs_-_privateer-ketch_-_Makes_1.jpg> "thumbs_-_privateer-ketch_-_Makes_1.jpg")
+  ![](<thumbs_-_privateer-ketch_-_Makes_1.avif> "thumbs_-_privateer-ketch_-_Makes_1.avif")
 
   
 

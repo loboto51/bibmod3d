@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kemlar > Starbrood_Slasher__Repositioned_ [dl]"
 date: "2021-09-04T01:02:25+00:00"
 toc: true
-image: "thumbs_-_4948905_-_Images_1.jpg"
+image: "thumbs_-_4948905_-_Images_1.avif"
 tags:
 - "Kemlar"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "15mm 28mm SFDIV Aliens-divers"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SFDIV NONSUP"
 - "15mm SFDIV NONSUP"
 - "28mm SFDIV NONSUP"
-- "15mm 28mm SFDIV NONSUP"
 - "Aliens-divers NONSUP"
 - "15mm Aliens-divers NONSUP"
 - "28mm Aliens-divers NONSUP"
-- "15mm 28mm Aliens-divers NONSUP"
 - "SFDIV Aliens-divers NONSUP"
-- "15mm SFDIV Aliens-divers NONSUP"
-- "28mm SFDIV Aliens-divers NONSUP"
 
 ---
 
-![](<thumbs_-_4948905_-_Images_1.jpg> "thumbs_-_4948905_-_Images_1.jpg")
+![](<thumbs_-_4948905_-_Images_1.avif> "thumbs_-_4948905_-_Images_1.avif")
 
-  ![](<thumbs_-_4948905_-_ImagesSTL_1.jpg> "thumbs_-_4948905_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4948905_-_ImagesSTL_1.avif> "thumbs_-_4948905_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > ricardazo > SAURUS_WARRIORS_WARMASTER__10mm_ [non dl]"
 date: "2024-09-27T09:12:41Z"
 toc: true
-image: "thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.jpg"
+image: "thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.avif"
 tags:
 - "ricardazo"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HOMMES-LEZARDS NONDL NONSUP"
-- "warmaster HOMMES-LEZARDS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.jpg> "thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.jpg")
+![](<thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.avif> "thumbs_-_saurus-warriors-warmaster-10mm_-_Images_1.avif")
 
   
 

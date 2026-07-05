@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > galactic_crusaders_Boarding_Armour_Troops_remastered___despoiler_troops_ [dl]"
 date: "2023-12-24T10:39:39Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.jpg> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-despoiler-troops_-_ImagesSTL_1.avif")
 
   
 

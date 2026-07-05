@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > wolfkeeper > Basilica_Ruins_in_Pieces [dl]"
 date: "2021-06-02T23:06:35Z"
 toc: true
-image: "thumbs_-_basilica-ruins-in-pieces_-_Images_1.jpg"
+image: "thumbs_-_basilica-ruins-in-pieces_-_Images_1.avif"
 tags:
 - "wolfkeeper"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Decors-ruines"
 - "epic IMP Decors-ruines"
 - "decors IMP Decors-ruines"
-- "epic decors IMP Decors-ruines"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Decors-ruines NONSUP"
 - "epic Decors-ruines NONSUP"
 - "decors Decors-ruines NONSUP"
-- "epic decors Decors-ruines NONSUP"
 - "IMP Decors-ruines NONSUP"
-- "epic IMP Decors-ruines NONSUP"
-- "decors IMP Decors-ruines NONSUP"
 
 ---
 
-![](<thumbs_-_basilica-ruins-in-pieces_-_Images_1.jpg> "thumbs_-_basilica-ruins-in-pieces_-_Images_1.jpg")
+![](<thumbs_-_basilica-ruins-in-pieces_-_Images_1.avif> "thumbs_-_basilica-ruins-in-pieces_-_Images_1.avif")
 
-  ![](<thumbs_-_basilica-ruins-in-pieces_-_ImagesSTL_1.jpg> "thumbs_-_basilica-ruins-in-pieces_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_basilica-ruins-in-pieces_-_ImagesSTL_1.avif> "thumbs_-_basilica-ruins-in-pieces_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_basilica-ruins-in-pieces_-_Makes_1.jpg> "thumbs_-_basilica-ruins-in-pieces_-_Makes_1.jpg")
+  ![](<thumbs_-_basilica-ruins-in-pieces_-_Makes_1.avif> "thumbs_-_basilica-ruins-in-pieces_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > CygnusM > SpookyMechs [non dl]"
 date: "2022-06-12T00:09:56Z"
 toc: true
-image: "thumbs_-_spookymechs_-_Images_1.jpg"
+image: "thumbs_-_spookymechs_-_Images_1.avif"
 tags:
 - "CygnusM"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TAU Tau-chevaliers"
 - "epic TAU Tau-chevaliers"
 - "chevaliers TAU Tau-chevaliers"
-- "epic chevaliers TAU Tau-chevaliers"
 - "NONDL"
 - "epic NONDL"
 - "chevaliers NONDL"
@@ -28,14 +27,10 @@ tags:
 - "TAU NONDL"
 - "epic TAU NONDL"
 - "chevaliers TAU NONDL"
-- "epic chevaliers TAU NONDL"
 - "Tau-chevaliers NONDL"
 - "epic Tau-chevaliers NONDL"
 - "chevaliers Tau-chevaliers NONDL"
-- "epic chevaliers Tau-chevaliers NONDL"
 - "TAU Tau-chevaliers NONDL"
-- "epic TAU Tau-chevaliers NONDL"
-- "chevaliers TAU Tau-chevaliers NONDL"
 - "SUP"
 - "epic SUP"
 - "chevaliers SUP"
@@ -43,31 +38,21 @@ tags:
 - "TAU SUP"
 - "epic TAU SUP"
 - "chevaliers TAU SUP"
-- "epic chevaliers TAU SUP"
 - "Tau-chevaliers SUP"
 - "epic Tau-chevaliers SUP"
 - "chevaliers Tau-chevaliers SUP"
-- "epic chevaliers Tau-chevaliers SUP"
 - "TAU Tau-chevaliers SUP"
-- "epic TAU Tau-chevaliers SUP"
-- "chevaliers TAU Tau-chevaliers SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "chevaliers NONDL SUP"
-- "epic chevaliers NONDL SUP"
 - "TAU NONDL SUP"
-- "epic TAU NONDL SUP"
-- "chevaliers TAU NONDL SUP"
 - "Tau-chevaliers NONDL SUP"
-- "epic Tau-chevaliers NONDL SUP"
-- "chevaliers Tau-chevaliers NONDL SUP"
-- "TAU Tau-chevaliers NONDL SUP"
 
 ---
 
-![](<thumbs_-_spookymechs_-_Images_1.jpg> "thumbs_-_spookymechs_-_Images_1.jpg")
+![](<thumbs_-_spookymechs_-_Images_1.avif> "thumbs_-_spookymechs_-_Images_1.avif")
 
-  ![](<thumbs_-_spookymechs_-_Makes_1.jpg> "thumbs_-_spookymechs_-_Makes_1.jpg")
+  ![](<thumbs_-_spookymechs_-_Makes_1.avif> "thumbs_-_spookymechs_-_Makes_1.avif")
 
   
 

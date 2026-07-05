@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > styxx83 > BFG___ORKS___ESCORTS___MODULAR [dl]"
 date: "2020-04-25T17:11:46+00:00"
 toc: true
-image: "thumbs_-_4313061_-_Images_1.jpg"
+image: "thumbs_-_4313061_-_Images_1.avif"
 tags:
 - "styxx83"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4313061_-_Images_1.jpg> "thumbs_-_4313061_-_Images_1.jpg")
+![](<thumbs_-_4313061_-_Images_1.avif> "thumbs_-_4313061_-_Images_1.avif")
 
-  ![](<thumbs_-_4313061_-_ImagesSTL_1.jpg> "thumbs_-_4313061_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4313061_-_ImagesSTL_1.avif> "thumbs_-_4313061_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Karadryel > Elderly_Battle_Strider [dl]"
 date: "2021-05-05T19:59:00Z"
 toc: true
-image: "thumbs_-_elderly-battle-strider_-_Images_1.jpg"
+image: "thumbs_-_elderly-battle-strider_-_Images_1.avif"
 tags:
 - "Karadryel"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "VM NONSUP"
 - "28mm VM NONSUP"
 - "ELDARS VM NONSUP"
-- "28mm ELDARS VM NONSUP"
 
 ---
 
-![](<thumbs_-_elderly-battle-strider_-_Images_1.jpg> "thumbs_-_elderly-battle-strider_-_Images_1.jpg")
+![](<thumbs_-_elderly-battle-strider_-_Images_1.avif> "thumbs_-_elderly-battle-strider_-_Images_1.avif")
 
-  ![](<thumbs_-_elderly-battle-strider_-_ImagesSTL_1.jpg> "thumbs_-_elderly-battle-strider_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_elderly-battle-strider_-_ImagesSTL_1.avif> "thumbs_-_elderly-battle-strider_-_ImagesSTL_1.avif")
 
   
 

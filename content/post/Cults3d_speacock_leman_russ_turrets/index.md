@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > leman_russ_turrets [dl]"
 date: "2024-01-01T10:15:23Z"
 toc: true
-image: "thumbs_-_leman-russ-turrets_-_Images_1.jpg"
+image: "thumbs_-_leman-russ-turrets_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "vehicules GI Imp-chars"
-- "epic vehicules GI Imp-chars"
 - "Imp-leman-russ"
 - "epic Imp-leman-russ"
 - "vehicules Imp-leman-russ"
@@ -28,14 +27,10 @@ tags:
 - "GI Imp-leman-russ"
 - "epic GI Imp-leman-russ"
 - "vehicules GI Imp-leman-russ"
-- "epic vehicules GI Imp-leman-russ"
 - "Imp-chars Imp-leman-russ"
 - "epic Imp-chars Imp-leman-russ"
 - "vehicules Imp-chars Imp-leman-russ"
-- "epic vehicules Imp-chars Imp-leman-russ"
 - "GI Imp-chars Imp-leman-russ"
-- "epic GI Imp-chars Imp-leman-russ"
-- "vehicules GI Imp-chars Imp-leman-russ"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "vehicules GI NONSUP"
-- "epic vehicules GI NONSUP"
 - "Imp-chars NONSUP"
 - "epic Imp-chars NONSUP"
 - "vehicules Imp-chars NONSUP"
-- "epic vehicules Imp-chars NONSUP"
 - "GI Imp-chars NONSUP"
-- "epic GI Imp-chars NONSUP"
-- "vehicules GI Imp-chars NONSUP"
 - "Imp-leman-russ NONSUP"
 - "epic Imp-leman-russ NONSUP"
 - "vehicules Imp-leman-russ NONSUP"
-- "epic vehicules Imp-leman-russ NONSUP"
 - "GI Imp-leman-russ NONSUP"
-- "epic GI Imp-leman-russ NONSUP"
-- "vehicules GI Imp-leman-russ NONSUP"
 - "Imp-chars Imp-leman-russ NONSUP"
-- "epic Imp-chars Imp-leman-russ NONSUP"
-- "vehicules Imp-chars Imp-leman-russ NONSUP"
-- "GI Imp-chars Imp-leman-russ NONSUP"
 
 ---
 
-![](<thumbs_-_leman-russ-turrets_-_Images_1.jpg> "thumbs_-_leman-russ-turrets_-_Images_1.jpg")
+![](<thumbs_-_leman-russ-turrets_-_Images_1.avif> "thumbs_-_leman-russ-turrets_-_Images_1.avif")
 
-  ![](<thumbs_-_leman-russ-turrets_-_ImagesSTL_1.jpg> "thumbs_-_leman-russ-turrets_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_leman-russ-turrets_-_ImagesSTL_1.avif> "thumbs_-_leman-russ-turrets_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > 3D_Print_Cleric > Skaven_Warp_Grinder [non dl]"
 date: "2020-04-02T07:18:18+00:00"
 toc: true
-image: "thumbs_-_4251586_-_Images_1.jpg"
+image: "thumbs_-_4251586_-_Images_1.avif"
 tags:
 - "3D_Print_Cleric"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4251586_-_Images_1.jpg> "thumbs_-_4251586_-_Images_1.jpg")
+![](<thumbs_-_4251586_-_Images_1.avif> "thumbs_-_4251586_-_Images_1.avif")
 
   
 

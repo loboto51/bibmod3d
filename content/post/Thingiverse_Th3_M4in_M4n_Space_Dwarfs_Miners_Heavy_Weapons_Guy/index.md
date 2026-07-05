@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Space_Dwarfs_Miners_Heavy_Weapons_Guy [non dl]"
 date: "2023-12-03T23:59:42+00:00"
 toc: true
-image: "thumbs_-_6351236_-_Images_1.jpg"
+image: "thumbs_-_6351236_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6351236_-_Images_1.jpg> "thumbs_-_6351236_-_Images_1.jpg")
+![](<thumbs_-_6351236_-_Images_1.avif> "thumbs_-_6351236_-_Images_1.avif")
 
   
 

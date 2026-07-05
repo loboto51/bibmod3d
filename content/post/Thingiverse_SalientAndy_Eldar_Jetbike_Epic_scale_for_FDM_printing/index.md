@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Jetbike_Epic_scale_for_FDM_printing [dl]"
 date: "2026-06-11T08:08:19+00:00"
 toc: true
-image: "thumbs_-_7367886_-_Images_1.jpg"
+image: "thumbs_-_7367886_-_Images_1.avif"
 tags:
 - "SalientAndy"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-motojets"
 - "epic VM Eldars-motojets"
 - "infanterie VM Eldars-motojets"
-- "epic infanterie VM Eldars-motojets"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Eldars-motojets NONSUP"
 - "epic Eldars-motojets NONSUP"
 - "infanterie Eldars-motojets NONSUP"
-- "epic infanterie Eldars-motojets NONSUP"
 - "VM Eldars-motojets NONSUP"
-- "epic VM Eldars-motojets NONSUP"
-- "infanterie VM Eldars-motojets NONSUP"
 
 ---
 
-![](<thumbs_-_7367886_-_Images_1.jpg> "thumbs_-_7367886_-_Images_1.jpg")
+![](<thumbs_-_7367886_-_Images_1.avif> "thumbs_-_7367886_-_Images_1.avif")
 
-  ![](<thumbs_-_7367886_-_ImagesSTL_1.jpg> "thumbs_-_7367886_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7367886_-_ImagesSTL_1.avif> "thumbs_-_7367886_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Bishok > Raider_of_Cendre___Base_warrior [non dl]"
 date: "2024-04-07T20:09:35Z"
 toc: true
-image: "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg"
+image: "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.avif"
 tags:
 - "Bishok"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "infanterie ORKS NONDL"
-- "epic infanterie ORKS NONDL"
 - "Orks-boyz NONDL"
 - "epic Orks-boyz NONDL"
 - "infanterie Orks-boyz NONDL"
-- "epic infanterie Orks-boyz NONDL"
 - "ORKS Orks-boyz NONDL"
-- "epic ORKS Orks-boyz NONDL"
-- "infanterie ORKS Orks-boyz NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "infanterie ORKS NONSUP"
-- "epic infanterie ORKS NONSUP"
 - "Orks-boyz NONSUP"
 - "epic Orks-boyz NONSUP"
 - "infanterie Orks-boyz NONSUP"
-- "epic infanterie Orks-boyz NONSUP"
 - "ORKS Orks-boyz NONSUP"
-- "epic ORKS Orks-boyz NONSUP"
-- "infanterie ORKS Orks-boyz NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "epic ORKS NONDL NONSUP"
-- "infanterie ORKS NONDL NONSUP"
 - "Orks-boyz NONDL NONSUP"
-- "epic Orks-boyz NONDL NONSUP"
-- "infanterie Orks-boyz NONDL NONSUP"
-- "ORKS Orks-boyz NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg> "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.jpg")
+![](<thumbs_-_raider-of-cendre-base-warrior_-_Images_1.avif> "thumbs_-_raider-of-cendre-base-warrior_-_Images_1.avif")
 
   
 

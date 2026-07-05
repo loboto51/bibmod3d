@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > alextyu > Tiled_texture_stamps_for_foam_ [non dl]"
 date: "2018-11-02T21:23:58+00:00"
 toc: true
-image: "thumbs_-_3192343_-_Images_1.jpg"
+image: "thumbs_-_3192343_-_Images_1.avif"
 tags:
 - "alextyu"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3192343_-_Images_1.jpg> "thumbs_-_3192343_-_Images_1.jpg")
+![](<thumbs_-_3192343_-_Images_1.avif> "thumbs_-_3192343_-_Images_1.avif")
 
   
 

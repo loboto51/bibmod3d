@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > WolfsForge > Militia_Weaponteam [dl]"
 date: "2022-06-19T23:55:15Z"
 toc: true
-image: "thumbs_-_militia-weaponteam_-_Images_1.jpg"
+image: "thumbs_-_militia-weaponteam_-_Images_1.avif"
 tags:
 - "WolfsForge"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Humains-divers-pour-kitbash"
 - "15mm HUMAINS Humains-divers-pour-kitbash"
 - "28mm HUMAINS Humains-divers-pour-kitbash"
-- "15mm 28mm HUMAINS Humains-divers-pour-kitbash"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "HUMAINS NONSUP"
 - "15mm HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
-- "15mm 28mm HUMAINS NONSUP"
 - "Humains-divers-pour-kitbash NONSUP"
 - "15mm Humains-divers-pour-kitbash NONSUP"
 - "28mm Humains-divers-pour-kitbash NONSUP"
-- "15mm 28mm Humains-divers-pour-kitbash NONSUP"
 - "HUMAINS Humains-divers-pour-kitbash NONSUP"
-- "15mm HUMAINS Humains-divers-pour-kitbash NONSUP"
-- "28mm HUMAINS Humains-divers-pour-kitbash NONSUP"
 
 ---
 
-![](<thumbs_-_militia-weaponteam_-_Images_1.jpg> "thumbs_-_militia-weaponteam_-_Images_1.jpg")
+![](<thumbs_-_militia-weaponteam_-_Images_1.avif> "thumbs_-_militia-weaponteam_-_Images_1.avif")
 
-  ![](<thumbs_-_militia-weaponteam_-_ImagesSTL_1.jpg> "thumbs_-_militia-weaponteam_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_militia-weaponteam_-_ImagesSTL_1.avif> "thumbs_-_militia-weaponteam_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_militia-weaponteam_-_Makes_1.jpg> "thumbs_-_militia-weaponteam_-_Makes_1.jpg")
+  ![](<thumbs_-_militia-weaponteam_-_Makes_1.avif> "thumbs_-_militia-weaponteam_-_Makes_1.avif")
 
   
 

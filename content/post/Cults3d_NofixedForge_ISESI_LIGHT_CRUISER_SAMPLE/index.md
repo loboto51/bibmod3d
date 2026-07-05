@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > NofixedForge > ISESI_LIGHT_CRUISER_SAMPLE [non dl]"
 date: "2023-02-09T21:01:17Z"
 toc: true
-image: "thumbs_-_isesi-light-cruiser-sample_-_Images_1.jpg"
+image: "thumbs_-_isesi-light-cruiser-sample_-_Images_1.avif"
 tags:
 - "NofixedForge"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "NECRONS Flotte NONDL"
-- "bfg NECRONS Flotte NONDL"
 - "SUP"
 - "bfg SUP"
 - "NECRONS SUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte SUP"
 - "bfg Flotte SUP"
 - "NECRONS Flotte SUP"
-- "bfg NECRONS Flotte SUP"
 - "NONDL SUP"
 - "bfg NONDL SUP"
 - "NECRONS NONDL SUP"
-- "bfg NECRONS NONDL SUP"
 - "Flotte NONDL SUP"
-- "bfg Flotte NONDL SUP"
-- "NECRONS Flotte NONDL SUP"
 
 ---
 
-![](<thumbs_-_isesi-light-cruiser-sample_-_Images_1.jpg> "thumbs_-_isesi-light-cruiser-sample_-_Images_1.jpg")
+![](<thumbs_-_isesi-light-cruiser-sample_-_Images_1.avif> "thumbs_-_isesi-light-cruiser-sample_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Gumroad > Varus_Miniatures > Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm [dl]"
 date: ""
 toc: true
-image: "thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.jpg"
+image: "thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.avif"
 tags:
 - "Varus_Miniatures"
 - "warmaster"
@@ -20,15 +20,14 @@ tags:
 - "HUMAINS SUP"
 - "warmaster HUMAINS SUP"
 - "EMPIRE HUMAINS SUP"
-- "warmaster EMPIRE HUMAINS SUP"
 
 ---
 
-![](<thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.jpg> "thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.jpg")
+![](<thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.avif> "thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_ImagesSTL_1.jpg> "thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_ImagesSTL_1.avif> "thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Makes_1.jpg> "thumbs_-_Varus_Miniatures-Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Makes_1.jpg")
+  ![](<thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Makes_1.avif> "thumbs_-_Varus_Miniatures_-_Holiday_Character_model_Tzaritza_Anna_Sorceress_of_Ethernal_Winter_10mm_15mm_-_Makes_1.avif")
 
   
 

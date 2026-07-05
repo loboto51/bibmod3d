@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BrazenMammoth > Ruins_of_Mammutal [non dl]"
 date: "2019-11-23T23:23:25+00:00"
 toc: true
-image: "thumbs_-_3996354_-_Images_1.jpg"
+image: "thumbs_-_3996354_-_Images_1.avif"
 tags:
 - "BrazenMammoth"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "decors Decors-ruines"
 - "epic decors Decors-ruines"
 - "warmaster decors Decors-ruines"
-- "epic warmaster decors Decors-ruines"
 - "NONDL"
 - "epic NONDL"
 - "warmaster NONDL"
@@ -28,14 +27,10 @@ tags:
 - "decors NONDL"
 - "epic decors NONDL"
 - "warmaster decors NONDL"
-- "epic warmaster decors NONDL"
 - "Decors-ruines NONDL"
 - "epic Decors-ruines NONDL"
 - "warmaster Decors-ruines NONDL"
-- "epic warmaster Decors-ruines NONDL"
 - "decors Decors-ruines NONDL"
-- "epic decors Decors-ruines NONDL"
-- "warmaster decors Decors-ruines NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "warmaster NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "decors NONSUP"
 - "epic decors NONSUP"
 - "warmaster decors NONSUP"
-- "epic warmaster decors NONSUP"
 - "Decors-ruines NONSUP"
 - "epic Decors-ruines NONSUP"
 - "warmaster Decors-ruines NONSUP"
-- "epic warmaster Decors-ruines NONSUP"
 - "decors Decors-ruines NONSUP"
-- "epic decors Decors-ruines NONSUP"
-- "warmaster decors Decors-ruines NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "warmaster NONDL NONSUP"
-- "epic warmaster NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
-- "warmaster decors NONDL NONSUP"
 - "Decors-ruines NONDL NONSUP"
-- "epic Decors-ruines NONDL NONSUP"
-- "warmaster Decors-ruines NONDL NONSUP"
-- "decors Decors-ruines NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3996354_-_Images_1.jpg> "thumbs_-_3996354_-_Images_1.jpg")
+![](<thumbs_-_3996354_-_Images_1.avif> "thumbs_-_3996354_-_Images_1.avif")
 
-  ![](<thumbs_-_3996354_-_Makes_1.jpg> "thumbs_-_3996354_-_Makes_1.jpg")
+  ![](<thumbs_-_3996354_-_Makes_1.avif> "thumbs_-_3996354_-_Makes_1.avif")
 
   
 

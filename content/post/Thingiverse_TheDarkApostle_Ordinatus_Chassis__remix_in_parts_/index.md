@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheDarkApostle > Ordinatus_Chassis__remix_in_parts_ [dl]"
 date: "2021-01-21T00:38:14+00:00"
 toc: true
-image: "thumbs_-_4731239_-_Images_1.jpg"
+image: "thumbs_-_4731239_-_Images_1.avif"
 tags:
 - "TheDarkApostle"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Admech-ordinatus"
 - "epic AM Admech-ordinatus"
 - "superlourds AM Admech-ordinatus"
-- "epic superlourds AM Admech-ordinatus"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "superlourds AM NONSUP"
-- "epic superlourds AM NONSUP"
 - "Admech-ordinatus NONSUP"
 - "epic Admech-ordinatus NONSUP"
 - "superlourds Admech-ordinatus NONSUP"
-- "epic superlourds Admech-ordinatus NONSUP"
 - "AM Admech-ordinatus NONSUP"
-- "epic AM Admech-ordinatus NONSUP"
-- "superlourds AM Admech-ordinatus NONSUP"
 
 ---
 
-![](<thumbs_-_4731239_-_Images_1.jpg> "thumbs_-_4731239_-_Images_1.jpg")
+![](<thumbs_-_4731239_-_Images_1.avif> "thumbs_-_4731239_-_Images_1.avif")
 
-  ![](<thumbs_-_4731239_-_ImagesSTL_1.jpg> "thumbs_-_4731239_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4731239_-_ImagesSTL_1.avif> "thumbs_-_4731239_-_ImagesSTL_1.avif")
 
   
 

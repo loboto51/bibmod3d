@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > JanZizka > Epic_scale_heavy_weapon_teams [dl]"
 date: "2020-12-05T10:24:06+00:00"
 toc: true
-image: "thumbs_-_4675400_-_Images_1.jpg"
+image: "thumbs_-_4675400_-_Images_1.avif"
 tags:
 - "JanZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Canons"
 - "epic GI Canons"
 - "infanterie GI Canons"
-- "epic infanterie GI Canons"
 - "GI-CADIENS"
 - "epic GI-CADIENS"
 - "infanterie GI-CADIENS"
@@ -28,14 +27,10 @@ tags:
 - "GI GI-CADIENS"
 - "epic GI GI-CADIENS"
 - "infanterie GI GI-CADIENS"
-- "epic infanterie GI GI-CADIENS"
 - "Canons GI-CADIENS"
 - "epic Canons GI-CADIENS"
 - "infanterie Canons GI-CADIENS"
-- "epic infanterie Canons GI-CADIENS"
 - "GI Canons GI-CADIENS"
-- "epic GI Canons GI-CADIENS"
-- "infanterie GI Canons GI-CADIENS"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,31 +38,21 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Canons SUP"
 - "epic Canons SUP"
 - "infanterie Canons SUP"
-- "epic infanterie Canons SUP"
 - "GI Canons SUP"
-- "epic GI Canons SUP"
-- "infanterie GI Canons SUP"
 - "GI-CADIENS SUP"
 - "epic GI-CADIENS SUP"
 - "infanterie GI-CADIENS SUP"
-- "epic infanterie GI-CADIENS SUP"
 - "GI GI-CADIENS SUP"
-- "epic GI GI-CADIENS SUP"
-- "infanterie GI GI-CADIENS SUP"
 - "Canons GI-CADIENS SUP"
-- "epic Canons GI-CADIENS SUP"
-- "infanterie Canons GI-CADIENS SUP"
-- "GI Canons GI-CADIENS SUP"
 
 ---
 
-![](<thumbs_-_4675400_-_Images_1.jpg> "thumbs_-_4675400_-_Images_1.jpg")
+![](<thumbs_-_4675400_-_Images_1.avif> "thumbs_-_4675400_-_Images_1.avif")
 
-  ![](<thumbs_-_4675400_-_ImagesSTL_1.jpg> "thumbs_-_4675400_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4675400_-_ImagesSTL_1.avif> "thumbs_-_4675400_-_ImagesSTL_1.avif")
 
   
 

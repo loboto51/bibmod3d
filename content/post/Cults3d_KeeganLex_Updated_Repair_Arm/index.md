@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KeeganLex > Updated_Repair_Arm [non dl]"
 date: "2025-02-07T01:25:08Z"
 toc: true
-image: "thumbs_-_updated-repair-arm_-_Images_1.jpg"
+image: "thumbs_-_updated-repair-arm_-_Images_1.avif"
 tags:
 - "KeeganLex"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "Bits NONDL"
 - "28mm Bits NONDL"
 - "IMP Bits NONDL"
-- "28mm IMP Bits NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Bits NONSUP"
 - "28mm Bits NONSUP"
 - "IMP Bits NONSUP"
-- "28mm IMP Bits NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "28mm IMP NONDL NONSUP"
 - "Bits NONDL NONSUP"
-- "28mm Bits NONDL NONSUP"
-- "IMP Bits NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_updated-repair-arm_-_Images_1.jpg> "thumbs_-_updated-repair-arm_-_Images_1.jpg")
+![](<thumbs_-_updated-repair-arm_-_Images_1.avif> "thumbs_-_updated-repair-arm_-_Images_1.avif")
 
   
 

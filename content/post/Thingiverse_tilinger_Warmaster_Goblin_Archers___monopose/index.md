@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Goblin_Archers___monopose [non dl]"
 date: "2025-08-20T21:34:37+00:00"
 toc: true
-image: "thumbs_-_7123338_-_Images_1.jpg"
+image: "thumbs_-_7123338_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "warmaster GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7123338_-_Images_1.jpg> "thumbs_-_7123338_-_Images_1.jpg")
+![](<thumbs_-_7123338_-_Images_1.avif> "thumbs_-_7123338_-_Images_1.avif")
 
   
 

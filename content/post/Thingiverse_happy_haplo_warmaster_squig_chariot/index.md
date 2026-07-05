@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > happy_haplo > warmaster_squig_chariot [non dl]"
 date: "2021-07-19T21:01:39+00:00"
 toc: true
-image: "thumbs_-_4912541_-_Images_1.jpg"
+image: "thumbs_-_4912541_-_Images_1.avif"
 tags:
 - "happy_haplo"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "GOBELINS NONDL SUP"
-- "warmaster GOBELINS NONDL SUP"
 
 ---
 
-![](<thumbs_-_4912541_-_Images_1.jpg> "thumbs_-_4912541_-_Images_1.jpg")
+![](<thumbs_-_4912541_-_Images_1.avif> "thumbs_-_4912541_-_Images_1.avif")
 
-  ![](<thumbs_-_4912541_-_Makes_1.jpg> "thumbs_-_4912541_-_Makes_1.jpg")
+  ![](<thumbs_-_4912541_-_Makes_1.avif> "thumbs_-_4912541_-_Makes_1.avif")
 
   
 

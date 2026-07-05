@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > EPIC_SPACE_DWARFS_BERSERKERS [non dl]"
 date: "2023-11-16T20:15:46+00:00"
 toc: true
-image: "thumbs_-_6318109_-_Images_1.jpg"
+image: "thumbs_-_6318109_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Squats-assaut"
 - "epic SQUATS Squats-assaut"
 - "infanterie SQUATS Squats-assaut"
-- "epic infanterie SQUATS Squats-assaut"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SQUATS NONDL"
 - "epic SQUATS NONDL"
 - "infanterie SQUATS NONDL"
-- "epic infanterie SQUATS NONDL"
 - "Squats-assaut NONDL"
 - "epic Squats-assaut NONDL"
 - "infanterie Squats-assaut NONDL"
-- "epic infanterie Squats-assaut NONDL"
 - "SQUATS Squats-assaut NONDL"
-- "epic SQUATS Squats-assaut NONDL"
-- "infanterie SQUATS Squats-assaut NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "infanterie SQUATS NONSUP"
-- "epic infanterie SQUATS NONSUP"
 - "Squats-assaut NONSUP"
 - "epic Squats-assaut NONSUP"
 - "infanterie Squats-assaut NONSUP"
-- "epic infanterie Squats-assaut NONSUP"
 - "SQUATS Squats-assaut NONSUP"
-- "epic SQUATS Squats-assaut NONSUP"
-- "infanterie SQUATS Squats-assaut NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "epic SQUATS NONDL NONSUP"
-- "infanterie SQUATS NONDL NONSUP"
 - "Squats-assaut NONDL NONSUP"
-- "epic Squats-assaut NONDL NONSUP"
-- "infanterie Squats-assaut NONDL NONSUP"
-- "SQUATS Squats-assaut NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6318109_-_Images_1.jpg> "thumbs_-_6318109_-_Images_1.jpg")
+![](<thumbs_-_6318109_-_Images_1.avif> "thumbs_-_6318109_-_Images_1.avif")
 
   
 

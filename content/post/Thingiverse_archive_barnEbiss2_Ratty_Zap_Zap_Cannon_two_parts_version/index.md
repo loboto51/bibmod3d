@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > barnEbiss2 > Ratty_Zap_Zap_Cannon_two_parts_version [dl]"
 date: "2019-04-18T23:25:24+00:00"
 toc: true
-image: "thumbs_-_3573427_-_Images_1.jpg"
+image: "thumbs_-_3573427_-_Images_1.avif"
 tags:
 - "barnEbiss2"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_3573427_-_Images_1.jpg> "thumbs_-_3573427_-_Images_1.jpg")
+![](<thumbs_-_3573427_-_Images_1.avif> "thumbs_-_3573427_-_Images_1.avif")
 
-  ![](<thumbs_-_3573427_-_ImagesSTL_1.jpg> "thumbs_-_3573427_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3573427_-_ImagesSTL_1.avif> "thumbs_-_3573427_-_ImagesSTL_1.avif")
 
   
 

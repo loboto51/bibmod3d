@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > High_Elf_Queen_s_Regiment [non dl]"
 date: "2023-03-28T15:56:44Z"
 toc: true
-image: "thumbs_-_high-elf-queen-s-regiment_-_Images_1.jpg"
+image: "thumbs_-_high-elf-queen-s-regiment_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_high-elf-queen-s-regiment_-_Images_1.jpg> "thumbs_-_high-elf-queen-s-regiment_-_Images_1.jpg")
+![](<thumbs_-_high-elf-queen-s-regiment_-_Images_1.avif> "thumbs_-_high-elf-queen-s-regiment_-_Images_1.avif")
 
-  ![](<thumbs_-_high-elf-queen-s-regiment_-_Makes_1.jpg> "thumbs_-_high-elf-queen-s-regiment_-_Makes_1.jpg")
+  ![](<thumbs_-_high-elf-queen-s-regiment_-_Makes_1.avif> "thumbs_-_high-elf-queen-s-regiment_-_Makes_1.avif")
 
   
 

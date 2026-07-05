@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > GALACTIC_CRUSADERS_FL_CHEOWN_SUPER_HEAVY_TANK_DESTROYER__EARLY_WAR__VERSION [dl]"
 date: "2025-12-09T11:34:52Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Fellblades-canon-lourd-falchions"
 - "epic SMI Fellblades-canon-lourd-falchions"
 - "superlourds SMI Fellblades-canon-lourd-falchions"
-- "epic superlourds SMI Fellblades-canon-lourd-falchions"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "superlourds SMI NONSUP"
-- "epic superlourds SMI NONSUP"
 - "Fellblades-canon-lourd-falchions NONSUP"
 - "epic Fellblades-canon-lourd-falchions NONSUP"
 - "superlourds Fellblades-canon-lourd-falchions NONSUP"
-- "epic superlourds Fellblades-canon-lourd-falchions NONSUP"
 - "SMI Fellblades-canon-lourd-falchions NONSUP"
-- "epic SMI Fellblades-canon-lourd-falchions NONSUP"
-- "superlourds SMI Fellblades-canon-lourd-falchions NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.jpg> "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.avif> "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-fl-cheown-super-heavy-tank-destroyer-early-war-version_-_ImagesSTL_1.avif")
 
   
 

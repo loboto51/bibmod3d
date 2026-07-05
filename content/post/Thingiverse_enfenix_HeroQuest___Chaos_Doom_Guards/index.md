@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > enfenix > HeroQuest___Chaos_Doom_Guards [dl]"
 date: "2020-03-01T01:11:57+00:00"
 toc: true
-image: "thumbs_-_4193450_-_Images_1.jpg"
+image: "thumbs_-_4193450_-_Images_1.avif"
 tags:
 - "enfenix"
 - "28mm"
@@ -20,15 +20,14 @@ tags:
 - "WFB NONSUP"
 - "28mm WFB NONSUP"
 - "CHAOS WFB NONSUP"
-- "28mm CHAOS WFB NONSUP"
 
 ---
 
-![](<thumbs_-_4193450_-_Images_1.jpg> "thumbs_-_4193450_-_Images_1.jpg")
+![](<thumbs_-_4193450_-_Images_1.avif> "thumbs_-_4193450_-_Images_1.avif")
 
-  ![](<thumbs_-_4193450_-_ImagesSTL_1.jpg> "thumbs_-_4193450_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4193450_-_ImagesSTL_1.avif> "thumbs_-_4193450_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4193450_-_Makes_1.jpg> "thumbs_-_4193450_-_Makes_1.jpg")
+  ![](<thumbs_-_4193450_-_Makes_1.avif> "thumbs_-_4193450_-_Makes_1.avif")
 
   
 

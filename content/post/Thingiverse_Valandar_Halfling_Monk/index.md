@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Valandar > Halfling_Monk [non dl]"
 date: "2018-07-20T03:08:43+00:00"
 toc: true
-image: "thumbs_-_3011577_-_Images_1.jpg"
+image: "thumbs_-_3011577_-_Images_1.avif"
 tags:
 - "Valandar"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "CATHAY NONDL"
 - "warmaster CATHAY NONDL"
 - "HUMAINS CATHAY NONDL"
-- "warmaster HUMAINS CATHAY NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "CATHAY NONSUP"
 - "warmaster CATHAY NONSUP"
 - "HUMAINS CATHAY NONSUP"
-- "warmaster HUMAINS CATHAY NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "CATHAY NONDL NONSUP"
-- "warmaster CATHAY NONDL NONSUP"
-- "HUMAINS CATHAY NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3011577_-_Images_1.jpg> "thumbs_-_3011577_-_Images_1.jpg")
+![](<thumbs_-_3011577_-_Images_1.avif> "thumbs_-_3011577_-_Images_1.avif")
 
-  ![](<thumbs_-_3011577_-_Makes_1.jpg> "thumbs_-_3011577_-_Makes_1.jpg")
+  ![](<thumbs_-_3011577_-_Makes_1.avif> "thumbs_-_3011577_-_Makes_1.avif")
 
   
 

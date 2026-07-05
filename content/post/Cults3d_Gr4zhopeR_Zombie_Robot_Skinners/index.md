@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Gr4zhopeR > Zombie_Robot_Skinners [non dl]"
 date: "2020-02-29T19:19:36Z"
 toc: true
-image: "thumbs_-_zombie-robot-skinners_-_Images_1.jpg"
+image: "thumbs_-_zombie-robot-skinners_-_Images_1.avif"
 tags:
 - "Gr4zhopeR"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "28mm NECRONS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_zombie-robot-skinners_-_Images_1.jpg> "thumbs_-_zombie-robot-skinners_-_Images_1.jpg")
+![](<thumbs_-_zombie-robot-skinners_-_Images_1.avif> "thumbs_-_zombie-robot-skinners_-_Images_1.avif")
 
   
 

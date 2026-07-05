@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > Epic_Sentinel_ [dl]"
 date: "2020-01-20T05:36:11+00:00"
 toc: true
-image: "thumbs_-_4114989_-_ImagesSTL_1.jpg"
+image: "thumbs_-_4114989_-_ImagesSTL_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Sentinelles"
 - "epic GI Sentinelles"
 - "marcheurs GI Sentinelles"
-- "epic marcheurs GI Sentinelles"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "marcheurs GI NONSUP"
-- "epic marcheurs GI NONSUP"
 - "Sentinelles NONSUP"
 - "epic Sentinelles NONSUP"
 - "marcheurs Sentinelles NONSUP"
-- "epic marcheurs Sentinelles NONSUP"
 - "GI Sentinelles NONSUP"
-- "epic GI Sentinelles NONSUP"
-- "marcheurs GI Sentinelles NONSUP"
 
 ---
 
-![](<thumbs_-_4114989_-_ImagesSTL_1.jpg> "thumbs_-_4114989_-_ImagesSTL_1.jpg")
+![](<thumbs_-_4114989_-_ImagesSTL_1.avif> "thumbs_-_4114989_-_ImagesSTL_1.avif")
 
   
 

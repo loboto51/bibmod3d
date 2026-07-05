@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > thebrade1 > Royal_Grumeau_Helm_ [non dl]"
 date: "2026-01-23T04:54:16+00:00"
 toc: true
-image: "thumbs_-_7278718_-_Images_1.jpg"
+image: "thumbs_-_7278718_-_Images_1.avif"
 tags:
 - "thebrade1"
 - "turnip28"
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![](<thumbs_-_7278718_-_Images_1.jpg> "thumbs_-_7278718_-_Images_1.jpg")
+![](<thumbs_-_7278718_-_Images_1.avif> "thumbs_-_7278718_-_Images_1.avif")
 
   
 

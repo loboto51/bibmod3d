@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > thesiegetower > Warmaster_Bases [non dl]"
 date: "2021-02-14T03:03:47+00:00"
 toc: true
-image: "thumbs_-_4761684_-_Images_1.jpg"
+image: "thumbs_-_4761684_-_Images_1.avif"
 tags:
 - "thesiegetower"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4761684_-_Images_1.jpg> "thumbs_-_4761684_-_Images_1.jpg")
+![](<thumbs_-_4761684_-_Images_1.avif> "thumbs_-_4761684_-_Images_1.avif")
 
   
 

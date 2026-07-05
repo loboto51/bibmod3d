@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DasModell > HEADS_PACK [dl]"
 date: "2025-12-17T02:54:56Z"
 toc: true
-image: "thumbs_-_heads-pack_-_Images_1.jpg"
+image: "thumbs_-_heads-pack_-_Images_1.avif"
 tags:
 - "DasModell"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Humains-divers-pour-kitbash"
 - "15mm HUMAINS Humains-divers-pour-kitbash"
 - "28mm HUMAINS Humains-divers-pour-kitbash"
-- "15mm 28mm HUMAINS Humains-divers-pour-kitbash"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS NONSUP"
 - "15mm HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
-- "15mm 28mm HUMAINS NONSUP"
 - "Humains-divers-pour-kitbash NONSUP"
 - "15mm Humains-divers-pour-kitbash NONSUP"
 - "28mm Humains-divers-pour-kitbash NONSUP"
-- "15mm 28mm Humains-divers-pour-kitbash NONSUP"
 - "HUMAINS Humains-divers-pour-kitbash NONSUP"
-- "15mm HUMAINS Humains-divers-pour-kitbash NONSUP"
-- "28mm HUMAINS Humains-divers-pour-kitbash NONSUP"
 - "28mm"
 - "IMP"
 - "28mm IMP"
@@ -50,7 +45,6 @@ tags:
 - "SMI NONSUP"
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
 - "28mm"
 - "SM30K"
 - "28mm SM30K"
@@ -65,7 +59,6 @@ tags:
 - "Bits Builders"
 - "28mm Bits Builders"
 - "SM30K Bits Builders"
-- "28mm SM30K Bits Builders"
 - "NONSUP"
 - "28mm NONSUP"
 - "SM30K NONSUP"
@@ -73,20 +66,16 @@ tags:
 - "Bits NONSUP"
 - "28mm Bits NONSUP"
 - "SM30K Bits NONSUP"
-- "28mm SM30K Bits NONSUP"
 - "Builders NONSUP"
 - "28mm Builders NONSUP"
 - "SM30K Builders NONSUP"
-- "28mm SM30K Builders NONSUP"
 - "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "SM30K Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_heads-pack_-_Images_1.jpg> "thumbs_-_heads-pack_-_Images_1.jpg")
+![](<thumbs_-_heads-pack_-_Images_1.avif> "thumbs_-_heads-pack_-_Images_1.avif")
 
-  ![](<thumbs_-_heads-pack_-_ImagesSTL_1.jpg> "thumbs_-_heads-pack_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_heads-pack_-_ImagesSTL_1.avif> "thumbs_-_heads-pack_-_ImagesSTL_1.avif")
 
   
 

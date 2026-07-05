@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Ankylo > Epic_Bases_for_small_scale_wargaming [non dl]"
 date: "2023-07-24T08:53:29Z"
 toc: true
-image: "thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.jpg"
+image: "thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.avif"
 tags:
 - "Ankylo"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.jpg> "thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.jpg")
+![](<thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.avif> "thumbs_-_epic-bases-for-small-scale-wargaming_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > LordKallsu > Sacred_Holy_Knights [non dl]"
 date: "2021-07-23T20:00:34Z"
 toc: true
-image: "thumbs_-_sacred-holy-knights_-_Images_1.jpg"
+image: "thumbs_-_sacred-holy-knights_-_Images_1.avif"
 tags:
 - "LordKallsu"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SOB HUMAINS"
 - "28mm SOB HUMAINS"
 - "IMP SOB HUMAINS"
-- "28mm IMP SOB HUMAINS"
 - "NONDL"
 - "28mm NONDL"
 - "IMP NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SOB NONDL"
 - "28mm SOB NONDL"
 - "IMP SOB NONDL"
-- "28mm IMP SOB NONDL"
 - "HUMAINS NONDL"
 - "28mm HUMAINS NONDL"
 - "IMP HUMAINS NONDL"
-- "28mm IMP HUMAINS NONDL"
 - "SOB HUMAINS NONDL"
-- "28mm SOB HUMAINS NONDL"
-- "IMP SOB HUMAINS NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -43,31 +38,21 @@ tags:
 - "SOB SUP"
 - "28mm SOB SUP"
 - "IMP SOB SUP"
-- "28mm IMP SOB SUP"
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
 - "SOB HUMAINS SUP"
-- "28mm SOB HUMAINS SUP"
-- "IMP SOB HUMAINS SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "IMP NONDL SUP"
-- "28mm IMP NONDL SUP"
 - "SOB NONDL SUP"
-- "28mm SOB NONDL SUP"
-- "IMP SOB NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "28mm HUMAINS NONDL SUP"
-- "IMP HUMAINS NONDL SUP"
-- "SOB HUMAINS NONDL SUP"
 
 ---
 
-![](<thumbs_-_sacred-holy-knights_-_Images_1.jpg> "thumbs_-_sacred-holy-knights_-_Images_1.jpg")
+![](<thumbs_-_sacred-holy-knights_-_Images_1.avif> "thumbs_-_sacred-holy-knights_-_Images_1.avif")
 
-  ![](<thumbs_-_sacred-holy-knights_-_Makes_1.jpg> "thumbs_-_sacred-holy-knights_-_Makes_1.jpg")
+  ![](<thumbs_-_sacred-holy-knights_-_Makes_1.avif> "thumbs_-_sacred-holy-knights_-_Makes_1.avif")
 
   
 

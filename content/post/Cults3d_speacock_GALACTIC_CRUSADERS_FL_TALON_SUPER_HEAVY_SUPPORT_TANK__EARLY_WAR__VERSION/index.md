@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > GALACTIC_CRUSADERS_FL_TALON_SUPER_HEAVY_SUPPORT_TANK__EARLY_WAR__VERSION [dl]"
 date: "2025-12-09T11:41:07Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Fellblades"
 - "epic SMI Fellblades"
 - "superlourds SMI Fellblades"
-- "epic superlourds SMI Fellblades"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "superlourds SMI NONSUP"
-- "epic superlourds SMI NONSUP"
 - "Fellblades NONSUP"
 - "epic Fellblades NONSUP"
 - "superlourds Fellblades NONSUP"
-- "epic superlourds Fellblades NONSUP"
 - "SMI Fellblades NONSUP"
-- "epic SMI Fellblades NONSUP"
-- "superlourds SMI Fellblades NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.jpg> "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.avif> "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-fl-talon-super-heavy-support-tank-early-war-version_-_ImagesSTL_1.avif")
 
   
 

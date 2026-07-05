@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > AngryTiki > Magna_Soror___Big_Sister [dl]"
 date: "2026-05-21T18:34:26Z"
 toc: true
-image: "thumbs_-_magna-soror-big-sister_-_Images_1.jpg"
+image: "thumbs_-_magna-soror-big-sister_-_Images_1.avif"
 tags:
 - "AngryTiki"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SOB HUMAINS"
 - "28mm SOB HUMAINS"
 - "IMP SOB HUMAINS"
-- "28mm IMP SOB HUMAINS"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SOB NONSUP"
 - "28mm SOB NONSUP"
 - "IMP SOB NONSUP"
-- "28mm IMP SOB NONSUP"
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "IMP HUMAINS NONSUP"
-- "28mm IMP HUMAINS NONSUP"
 - "SOB HUMAINS NONSUP"
-- "28mm SOB HUMAINS NONSUP"
-- "IMP SOB HUMAINS NONSUP"
 
 ---
 
-![](<thumbs_-_magna-soror-big-sister_-_Images_1.jpg> "thumbs_-_magna-soror-big-sister_-_Images_1.jpg")
+![](<thumbs_-_magna-soror-big-sister_-_Images_1.avif> "thumbs_-_magna-soror-big-sister_-_Images_1.avif")
 
-  ![](<thumbs_-_magna-soror-big-sister_-_ImagesSTL_1.jpg> "thumbs_-_magna-soror-big-sister_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_magna-soror-big-sister_-_ImagesSTL_1.avif> "thumbs_-_magna-soror-big-sister_-_ImagesSTL_1.avif")
 
   
 

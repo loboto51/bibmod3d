@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MGL89DK > Tau___Demiurg_Bastion_Class_Commerce_Vessel [dl]"
 date: "2019-01-10T19:40:03+00:00"
 toc: true
-image: "thumbs_-_3347210_-_Images_1.jpg"
+image: "thumbs_-_3347210_-_Images_1.avif"
 tags:
 - "MGL89DK"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "SQUATS Flotte NONSUP"
-- "bfg SQUATS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3347210_-_Images_1.jpg> "thumbs_-_3347210_-_Images_1.jpg")
+![](<thumbs_-_3347210_-_Images_1.avif> "thumbs_-_3347210_-_Images_1.avif")
 
-  ![](<thumbs_-_3347210_-_ImagesSTL_1.jpg> "thumbs_-_3347210_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3347210_-_ImagesSTL_1.avif> "thumbs_-_3347210_-_ImagesSTL_1.avif")
 
   
 

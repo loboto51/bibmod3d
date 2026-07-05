@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Dataliss > Tiny_Epic_Battlemen_Vehicle_and_Infantry_Painting_Holders [non dl]"
 date: "2024-01-04T16:00:48Z"
 toc: true
-image: "thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.jpg"
+image: "thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.avif"
 tags:
 - "Dataliss"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.jpg> "thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.jpg")
+![](<thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.avif> "thumbs_-_tiny-epic-battlemen-vehicle-and-infantry-painting-holders_-_Images_1.avif")
 
   
 

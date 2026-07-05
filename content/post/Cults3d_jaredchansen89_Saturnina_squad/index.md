@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jaredchansen89 > Saturnina_squad [dl]"
 date: "2026-03-24T23:44:05Z"
 toc: true
-image: "thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.jpg"
+image: "thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.avif"
 tags:
 - "jaredchansen89"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMI NONSUP"
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
 
 ---
 
-![](<thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.jpg> "thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.jpg")
+![](<thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.avif> "thumbs_-_saturnina-squad-jaredchansen89_-_Images_1.avif")
 
-  ![](<thumbs_-_saturnina-squad-jaredchansen89_-_ImagesSTL_1.jpg> "thumbs_-_saturnina-squad-jaredchansen89_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_saturnina-squad-jaredchansen89_-_ImagesSTL_1.avif> "thumbs_-_saturnina-squad-jaredchansen89_-_ImagesSTL_1.avif")
 
   
 

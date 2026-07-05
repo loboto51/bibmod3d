@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MicroWarfare > 6_8mm_Robotic_Undeads_Royal_Guards [dl]"
 date: "2023-05-24T18:23:25Z"
 toc: true
-image: "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.avif"
 tags:
 - "MicroWarfare"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "NEC Necrons-assaut"
 - "epic NEC Necrons-assaut"
 - "infanterie NEC Necrons-assaut"
-- "epic infanterie NEC Necrons-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "NEC NONSUP"
 - "epic NEC NONSUP"
 - "infanterie NEC NONSUP"
-- "epic infanterie NEC NONSUP"
 - "Necrons-assaut NONSUP"
 - "epic Necrons-assaut NONSUP"
 - "infanterie Necrons-assaut NONSUP"
-- "epic infanterie Necrons-assaut NONSUP"
 - "NEC Necrons-assaut NONSUP"
-- "epic NEC Necrons-assaut NONSUP"
-- "infanterie NEC Necrons-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.jpg> "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.avif> "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-robotic-undeads-royal-guards_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-robotic-undeads-royal-guards_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-robotic-undeads-royal-guards_-_ImagesSTL_1.avif")
 
   
 

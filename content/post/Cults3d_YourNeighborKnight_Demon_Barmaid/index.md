@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > YourNeighborKnight > Demon_Barmaid [non dl]"
 date: "2024-11-05T09:30:31Z"
 toc: true
-image: "thumbs_-_demon-barmaid_-_Images_1.jpg"
+image: "thumbs_-_demon-barmaid_-_Images_1.avif"
 tags:
 - "YourNeighborKnight"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "autres-echelles NONDL SUP"
 - "Figurines-et-statuettes NONDL SUP"
-- "autres-echelles Figurines-et-statuettes NONDL SUP"
 
 ---
 
-![](<thumbs_-_demon-barmaid_-_Images_1.jpg> "thumbs_-_demon-barmaid_-_Images_1.jpg")
+![](<thumbs_-_demon-barmaid_-_Images_1.avif> "thumbs_-_demon-barmaid_-_Images_1.avif")
 
   
 

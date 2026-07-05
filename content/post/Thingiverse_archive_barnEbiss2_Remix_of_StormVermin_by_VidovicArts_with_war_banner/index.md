@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > barnEbiss2 > Remix_of_StormVermin_by_VidovicArts_with_war_banner [dl]"
 date: "2019-05-15T03:31:23+00:00"
 toc: true
-image: "thumbs_-_3631265_-_Images_1.jpg"
+image: "thumbs_-_3631265_-_Images_1.avif"
 tags:
 - "barnEbiss2"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_3631265_-_Images_1.jpg> "thumbs_-_3631265_-_Images_1.jpg")
+![](<thumbs_-_3631265_-_Images_1.avif> "thumbs_-_3631265_-_Images_1.avif")
 
-  ![](<thumbs_-_3631265_-_ImagesSTL_1.jpg> "thumbs_-_3631265_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3631265_-_ImagesSTL_1.avif> "thumbs_-_3631265_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3631265_-_Makes_1.jpg> "thumbs_-_3631265_-_Makes_1.jpg")
+  ![](<thumbs_-_3631265_-_Makes_1.avif> "thumbs_-_3631265_-_Makes_1.avif")
 
   
 

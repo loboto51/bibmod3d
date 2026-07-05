@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lstar > StarDials_Basics___Legions_Imperialis [non dl]"
 date: "2023-11-21T17:53:57Z"
 toc: true
-image: "thumbs_-_stardials-basics-legions-imperialis_-_Images_1.jpg"
+image: "thumbs_-_stardials-basics-legions-imperialis_-_Images_1.avif"
 tags:
 - "lstar"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "JETONS DIVERS NONDL"
-- "epic JETONS DIVERS NONDL"
 - "SUP"
 - "epic SUP"
 - "JETONS SUP"
@@ -28,20 +27,16 @@ tags:
 - "DIVERS SUP"
 - "epic DIVERS SUP"
 - "JETONS DIVERS SUP"
-- "epic JETONS DIVERS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "JETONS NONDL SUP"
-- "epic JETONS NONDL SUP"
 - "DIVERS NONDL SUP"
-- "epic DIVERS NONDL SUP"
-- "JETONS DIVERS NONDL SUP"
 
 ---
 
-![](<thumbs_-_stardials-basics-legions-imperialis_-_Images_1.jpg> "thumbs_-_stardials-basics-legions-imperialis_-_Images_1.jpg")
+![](<thumbs_-_stardials-basics-legions-imperialis_-_Images_1.avif> "thumbs_-_stardials-basics-legions-imperialis_-_Images_1.avif")
 
-  ![](<thumbs_-_stardials-basics-legions-imperialis_-_Makes_1.jpg> "thumbs_-_stardials-basics-legions-imperialis_-_Makes_1.jpg")
+  ![](<thumbs_-_stardials-basics-legions-imperialis_-_Makes_1.avif> "thumbs_-_stardials-basics-legions-imperialis_-_Makes_1.avif")
 
   
 

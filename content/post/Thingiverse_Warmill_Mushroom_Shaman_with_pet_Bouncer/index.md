@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Warmill > Mushroom_Shaman_with_pet_Bouncer [non dl]"
 date: "2019-08-05T21:39:08+00:00"
 toc: true
-image: "thumbs_-_3791443_-_Images_1.jpg"
+image: "thumbs_-_3791443_-_Images_1.avif"
 tags:
 - "Warmill"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "28mm GOBELINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3791443_-_Images_1.jpg> "thumbs_-_3791443_-_Images_1.jpg")
+![](<thumbs_-_3791443_-_Images_1.avif> "thumbs_-_3791443_-_Images_1.avif")
 
-  ![](<thumbs_-_3791443_-_Makes_1.jpg> "thumbs_-_3791443_-_Makes_1.jpg")
+  ![](<thumbs_-_3791443_-_Makes_1.avif> "thumbs_-_3791443_-_Makes_1.avif")
 
   
 

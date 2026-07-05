@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Daylight_Gang___Galactic_Crusader_Assault_Squad [dl]"
 date: "2025-02-03T22:41:49Z"
 toc: true
-image: "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.jpg"
+image: "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut-volant"
 - "epic SMI Sm-assaut-volant"
 - "infanterie SMI Sm-assaut-volant"
-- "epic infanterie SMI Sm-assaut-volant"
 - "SMI-BA"
 - "epic SMI-BA"
 - "infanterie SMI-BA"
@@ -28,14 +27,10 @@ tags:
 - "SMI SMI-BA"
 - "epic SMI SMI-BA"
 - "infanterie SMI SMI-BA"
-- "epic infanterie SMI SMI-BA"
 - "Sm-assaut-volant SMI-BA"
 - "epic Sm-assaut-volant SMI-BA"
 - "infanterie Sm-assaut-volant SMI-BA"
-- "epic infanterie Sm-assaut-volant SMI-BA"
 - "SMI Sm-assaut-volant SMI-BA"
-- "epic SMI Sm-assaut-volant SMI-BA"
-- "infanterie SMI Sm-assaut-volant SMI-BA"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SMI Sm-assaut-volant NONSUP"
-- "epic SMI Sm-assaut-volant NONSUP"
-- "infanterie SMI Sm-assaut-volant NONSUP"
 - "SMI-BA NONSUP"
 - "epic SMI-BA NONSUP"
 - "infanterie SMI-BA NONSUP"
-- "epic infanterie SMI-BA NONSUP"
 - "SMI SMI-BA NONSUP"
-- "epic SMI SMI-BA NONSUP"
-- "infanterie SMI SMI-BA NONSUP"
 - "Sm-assaut-volant SMI-BA NONSUP"
-- "epic Sm-assaut-volant SMI-BA NONSUP"
-- "infanterie Sm-assaut-volant SMI-BA NONSUP"
-- "SMI Sm-assaut-volant SMI-BA NONSUP"
 
 ---
 
-![](<thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.jpg> "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.jpg")
+![](<thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.avif> "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_Images_1.avif")
 
-  ![](<thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_ImagesSTL_1.jpg> "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_ImagesSTL_1.avif> "thumbs_-_daylight-gang-galactic-crusader-assault-squad-5508e28916ee9a64c97e_-_ImagesSTL_1.avif")
 
   
 

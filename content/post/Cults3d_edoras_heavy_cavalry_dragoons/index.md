@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > heavy_cavalry_dragoons [non dl]"
 date: "2022-06-21T10:44:17Z"
 toc: true
-image: "thumbs_-_heavy-cavalry-dragoons_-_Images_1.jpg"
+image: "thumbs_-_heavy-cavalry-dragoons_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heavy-cavalry-dragoons_-_Images_1.jpg> "thumbs_-_heavy-cavalry-dragoons_-_Images_1.jpg")
+![](<thumbs_-_heavy-cavalry-dragoons_-_Images_1.avif> "thumbs_-_heavy-cavalry-dragoons_-_Images_1.avif")
 
   
 

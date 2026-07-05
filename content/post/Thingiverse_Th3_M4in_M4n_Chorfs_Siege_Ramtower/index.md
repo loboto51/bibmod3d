@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Chorfs_Siege_Ramtower [non dl]"
 date: "2026-03-15T16:05:16+00:00"
 toc: true
-image: "thumbs_-_7315909_-_Images_1.jpg"
+image: "thumbs_-_7315909_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "NAINS-DU-CHAOS NONDL SUP"
-- "warmaster NAINS-DU-CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_7315909_-_Images_1.jpg> "thumbs_-_7315909_-_Images_1.jpg")
+![](<thumbs_-_7315909_-_Images_1.avif> "thumbs_-_7315909_-_Images_1.avif")
 
   
 

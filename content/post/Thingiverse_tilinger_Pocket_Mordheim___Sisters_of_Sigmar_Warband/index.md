@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Pocket_Mordheim___Sisters_of_Sigmar_Warband [dl]"
 date: "2025-02-12T22:20:32+00:00"
 toc: true
-image: "thumbs_-_6947364_-_Images_1.jpg"
+image: "thumbs_-_6947364_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,15 +20,14 @@ tags:
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
 
 ---
 
-![](<thumbs_-_6947364_-_Images_1.jpg> "thumbs_-_6947364_-_Images_1.jpg")
+![](<thumbs_-_6947364_-_Images_1.avif> "thumbs_-_6947364_-_Images_1.avif")
 
-  ![](<thumbs_-_6947364_-_ImagesSTL_1.jpg> "thumbs_-_6947364_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6947364_-_ImagesSTL_1.avif> "thumbs_-_6947364_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6947364_-_Makes_1.jpg> "thumbs_-_6947364_-_Makes_1.jpg")
+  ![](<thumbs_-_6947364_-_Makes_1.avif> "thumbs_-_6947364_-_Makes_1.avif")
 
   
 

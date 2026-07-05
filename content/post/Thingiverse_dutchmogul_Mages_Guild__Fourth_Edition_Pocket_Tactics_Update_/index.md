@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Mages_Guild__Fourth_Edition_Pocket_Tactics_Update_ [non dl]"
 date: "2016-11-20T19:49:00+00:00"
 toc: true
-image: "thumbs_-_1902657_-_Images_1.jpg"
+image: "thumbs_-_1902657_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CCH Humains-qg"
 - "epic CCH Humains-qg"
 - "infanterie CCH Humains-qg"
-- "epic infanterie CCH Humains-qg"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CCH NONDL"
 - "epic CCH NONDL"
 - "infanterie CCH NONDL"
-- "epic infanterie CCH NONDL"
 - "Humains-qg NONDL"
 - "epic Humains-qg NONDL"
 - "infanterie Humains-qg NONDL"
-- "epic infanterie Humains-qg NONDL"
 - "CCH Humains-qg NONDL"
-- "epic CCH Humains-qg NONDL"
-- "infanterie CCH Humains-qg NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "CCH NONSUP"
 - "epic CCH NONSUP"
 - "infanterie CCH NONSUP"
-- "epic infanterie CCH NONSUP"
 - "Humains-qg NONSUP"
 - "epic Humains-qg NONSUP"
 - "infanterie Humains-qg NONSUP"
-- "epic infanterie Humains-qg NONSUP"
 - "CCH Humains-qg NONSUP"
-- "epic CCH Humains-qg NONSUP"
-- "infanterie CCH Humains-qg NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "CCH NONDL NONSUP"
-- "epic CCH NONDL NONSUP"
-- "infanterie CCH NONDL NONSUP"
 - "Humains-qg NONDL NONSUP"
-- "epic Humains-qg NONDL NONSUP"
-- "infanterie Humains-qg NONDL NONSUP"
-- "CCH Humains-qg NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1902657_-_Images_1.jpg> "thumbs_-_1902657_-_Images_1.jpg")
+![](<thumbs_-_1902657_-_Images_1.avif> "thumbs_-_1902657_-_Images_1.avif")
 
-  ![](<thumbs_-_1902657_-_Makes_1.jpg> "thumbs_-_1902657_-_Makes_1.jpg")
+  ![](<thumbs_-_1902657_-_Makes_1.avif> "thumbs_-_1902657_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MoonJammy > Galactic_Crusaders___Plate_Armour_Troop___6_8mm [dl]"
 date: "2020-11-05T16:55:24Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.avif"
 tags:
 - "MoonJammy"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -80,7 +70,6 @@ tags:
 - "SM30K Sm-tactiques"
 - "epic SM30K Sm-tactiques"
 - "infanterie SM30K Sm-tactiques"
-- "epic infanterie SM30K Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -88,22 +77,18 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SM30K Sm-tactiques NONSUP"
-- "epic SM30K Sm-tactiques NONSUP"
-- "infanterie SM30K Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.jpg> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.avif> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Makes_1.jpg> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Makes_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Makes_1.avif> "thumbs_-_galactic-crusaders-plate-armour-troop-6-8mm_-_Makes_1.avif")
 
   
 

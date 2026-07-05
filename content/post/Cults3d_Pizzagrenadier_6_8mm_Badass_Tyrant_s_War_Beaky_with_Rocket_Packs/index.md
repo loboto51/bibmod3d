@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Pizzagrenadier > 6_8mm_Badass_Tyrant_s_War_Beaky_with_Rocket_Packs [dl]"
 date: "2024-12-08T05:23:52Z"
 toc: true
-image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.avif"
 tags:
 - "Pizzagrenadier"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut-volant"
 - "epic SMI Sm-assaut-volant"
 - "infanterie SMI Sm-assaut-volant"
-- "epic infanterie SMI Sm-assaut-volant"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SMI Sm-assaut-volant NONSUP"
-- "epic SMI Sm-assaut-volant NONSUP"
-- "infanterie SMI Sm-assaut-volant NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-badass-tyrant-s-war-beaky-with-rocket-packs_-_ImagesSTL_1.avif")
 
   
 

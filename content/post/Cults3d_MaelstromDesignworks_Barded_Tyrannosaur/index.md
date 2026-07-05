@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MaelstromDesignworks > Barded_Tyrannosaur [non dl]"
 date: "2022-12-28T03:08:38Z"
 toc: true
-image: "thumbs_-_barded-tyrannosaur_-_Images_1.jpg"
+image: "thumbs_-_barded-tyrannosaur_-_Images_1.avif"
 tags:
 - "MaelstromDesignworks"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-carnosaures"
 - "epic EXO Eldars-carnosaures"
 - "superlourds EXO Eldars-carnosaures"
-- "epic superlourds EXO Eldars-carnosaures"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EXO NONDL"
 - "epic EXO NONDL"
 - "superlourds EXO NONDL"
-- "epic superlourds EXO NONDL"
 - "Eldars-carnosaures NONDL"
 - "epic Eldars-carnosaures NONDL"
 - "superlourds Eldars-carnosaures NONDL"
-- "epic superlourds Eldars-carnosaures NONDL"
 - "EXO Eldars-carnosaures NONDL"
-- "epic EXO Eldars-carnosaures NONDL"
-- "superlourds EXO Eldars-carnosaures NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "EXO NONSUP"
 - "epic EXO NONSUP"
 - "superlourds EXO NONSUP"
-- "epic superlourds EXO NONSUP"
 - "Eldars-carnosaures NONSUP"
 - "epic Eldars-carnosaures NONSUP"
 - "superlourds Eldars-carnosaures NONSUP"
-- "epic superlourds Eldars-carnosaures NONSUP"
 - "EXO Eldars-carnosaures NONSUP"
-- "epic EXO Eldars-carnosaures NONSUP"
-- "superlourds EXO Eldars-carnosaures NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "EXO NONDL NONSUP"
-- "epic EXO NONDL NONSUP"
-- "superlourds EXO NONDL NONSUP"
 - "Eldars-carnosaures NONDL NONSUP"
-- "epic Eldars-carnosaures NONDL NONSUP"
-- "superlourds Eldars-carnosaures NONDL NONSUP"
-- "EXO Eldars-carnosaures NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_barded-tyrannosaur_-_Images_1.jpg> "thumbs_-_barded-tyrannosaur_-_Images_1.jpg")
+![](<thumbs_-_barded-tyrannosaur_-_Images_1.avif> "thumbs_-_barded-tyrannosaur_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tezca > Man_O_War_Hellhammer_and_Ironfist [non dl]"
 date: "2020-05-09T23:59:56+00:00"
 toc: true
-image: "thumbs_-_4351094_-_Images_1.jpg"
+image: "thumbs_-_4351094_-_Images_1.avif"
 tags:
 - "Tezca"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "EMPIRE NONDL NONSUP"
-- "manowar EMPIRE NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4351094_-_Images_1.jpg> "thumbs_-_4351094_-_Images_1.jpg")
+![](<thumbs_-_4351094_-_Images_1.avif> "thumbs_-_4351094_-_Images_1.avif")
 
   
 

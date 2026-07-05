@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Brother_Arminius_Miniatures > Ogre_Marines_6_8MM_15MM [non dl]"
 date: "2024-07-16T10:38:42Z"
 toc: true
-image: "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg"
+image: "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.avif"
 tags:
 - "Brother_Arminius_Miniatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Ogryns"
 - "epic GI Ogryns"
 - "infanterie GI Ogryns"
-- "epic infanterie GI Ogryns"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
 - "Ogryns NONDL"
 - "epic Ogryns NONDL"
 - "infanterie Ogryns NONDL"
-- "epic infanterie Ogryns NONDL"
 - "GI Ogryns NONDL"
-- "epic GI Ogryns NONDL"
-- "infanterie GI Ogryns NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Ogryns NONSUP"
 - "epic Ogryns NONSUP"
 - "infanterie Ogryns NONSUP"
-- "epic infanterie Ogryns NONSUP"
 - "GI Ogryns NONSUP"
-- "epic GI Ogryns NONSUP"
-- "infanterie GI Ogryns NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "infanterie GI NONDL NONSUP"
 - "Ogryns NONDL NONSUP"
-- "epic Ogryns NONDL NONSUP"
-- "infanterie Ogryns NONDL NONSUP"
-- "GI Ogryns NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg> "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.jpg")
+![](<thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.avif> "thumbs_-_ogre-marines-6-8mm-15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_ogre-marines-6-8mm-15mm_-_Makes_1.jpg> "thumbs_-_ogre-marines-6-8mm-15mm_-_Makes_1.jpg")
+  ![](<thumbs_-_ogre-marines-6-8mm-15mm_-_Makes_1.avif> "thumbs_-_ogre-marines-6-8mm-15mm_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nosmo_King > Dwarf_with_Axe [non dl]"
 date: "2024-09-12T13:54:21Z"
 toc: true
-image: "thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.jpg"
+image: "thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.avif"
 tags:
 - "Nosmo_King"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.jpg> "thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.jpg")
+![](<thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.avif> "thumbs_-_dwarf-with-axe-nosmo-king_-_Images_1.avif")
 
   
 

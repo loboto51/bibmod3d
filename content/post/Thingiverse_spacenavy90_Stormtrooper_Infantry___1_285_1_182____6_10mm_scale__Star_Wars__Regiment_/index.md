@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > spacenavy90 > Stormtrooper_Infantry___1_285_1_182____6_10mm_scale__Star_Wars__Regiment_ [non dl]"
 date: "2025-08-18T02:21:04+00:00"
 toc: true
-image: "thumbs_-_7120848_-_Images_1.jpg"
+image: "thumbs_-_7120848_-_Images_1.avif"
 tags:
 - "spacenavy90"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "STAR-WARS NONDL"
 - "epic STAR-WARS NONDL"
 - "infanterie STAR-WARS NONDL"
-- "epic infanterie STAR-WARS NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,18 +27,14 @@ tags:
 - "STAR-WARS SUP"
 - "epic STAR-WARS SUP"
 - "infanterie STAR-WARS SUP"
-- "epic infanterie STAR-WARS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "STAR-WARS NONDL SUP"
-- "epic STAR-WARS NONDL SUP"
-- "infanterie STAR-WARS NONDL SUP"
 
 ---
 
-![](<thumbs_-_7120848_-_Images_1.jpg> "thumbs_-_7120848_-_Images_1.jpg")
+![](<thumbs_-_7120848_-_Images_1.avif> "thumbs_-_7120848_-_Images_1.avif")
 
   
 

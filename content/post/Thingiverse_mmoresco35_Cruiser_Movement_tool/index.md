@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > mmoresco35 > Cruiser_Movement_tool [non dl]"
 date: "2019-12-07T16:54:44+00:00"
 toc: true
-image: "thumbs_-_4028438_-_Images_1.jpg"
+image: "thumbs_-_4028438_-_Images_1.avif"
 tags:
 - "mmoresco35"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "bfg DIVERS NONDL"
 - "JETONS DIVERS NONDL"
-- "bfg JETONS DIVERS NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "JETONS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "bfg DIVERS NONSUP"
 - "JETONS DIVERS NONSUP"
-- "bfg JETONS DIVERS NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "JETONS NONDL NONSUP"
-- "bfg JETONS NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "bfg DIVERS NONDL NONSUP"
-- "JETONS DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4028438_-_Images_1.jpg> "thumbs_-_4028438_-_Images_1.jpg")
+![](<thumbs_-_4028438_-_Images_1.avif> "thumbs_-_4028438_-_Images_1.avif")
 
   
 

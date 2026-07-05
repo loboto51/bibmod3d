@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jimmyzimms > Tech_Support_Factory_Ship [dl]"
 date: "2020-07-23T18:28:12+00:00"
 toc: true
-image: "thumbs_-_4550450_-_ImagesSTL_1.jpg"
+image: "thumbs_-_4550450_-_ImagesSTL_1.avif"
 tags:
 - "Jimmyzimms"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "AM Flotte"
 - "bfg AM Flotte"
 - "IMP AM Flotte"
-- "bfg IMP AM Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "bfg AM NONSUP"
 - "IMP AM NONSUP"
-- "bfg IMP AM NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "AM Flotte NONSUP"
-- "bfg AM Flotte NONSUP"
-- "IMP AM Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4550450_-_ImagesSTL_1.jpg> "thumbs_-_4550450_-_ImagesSTL_1.jpg")
+![](<thumbs_-_4550450_-_ImagesSTL_1.avif> "thumbs_-_4550450_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4550450_-_Makes_1.jpg> "thumbs_-_4550450_-_Makes_1.jpg")
+  ![](<thumbs_-_4550450_-_Makes_1.avif> "thumbs_-_4550450_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Pootmann > Epic_Scale_Retro_Guardsmen [non dl]"
 date: "2025-09-14T09:35:10+00:00"
 toc: true
-image: "thumbs_-_7144871_-_Images_1.jpg"
+image: "thumbs_-_7144871_-_Images_1.avif"
 tags:
 - "Pootmann"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "GI NONDL"
 - "epic GI NONDL"
 - "infanterie GI NONDL"
-- "epic infanterie GI NONDL"
 - "Humains-tactiques NONDL"
 - "epic Humains-tactiques NONDL"
 - "infanterie Humains-tactiques NONDL"
-- "epic infanterie Humains-tactiques NONDL"
 - "GI Humains-tactiques NONDL"
-- "epic GI Humains-tactiques NONDL"
-- "infanterie GI Humains-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Humains-tactiques NONSUP"
 - "epic Humains-tactiques NONSUP"
 - "infanterie Humains-tactiques NONSUP"
-- "epic infanterie Humains-tactiques NONSUP"
 - "GI Humains-tactiques NONSUP"
-- "epic GI Humains-tactiques NONSUP"
-- "infanterie GI Humains-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "infanterie GI NONDL NONSUP"
 - "Humains-tactiques NONDL NONSUP"
-- "epic Humains-tactiques NONDL NONSUP"
-- "infanterie Humains-tactiques NONDL NONSUP"
-- "GI Humains-tactiques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7144871_-_Images_1.jpg> "thumbs_-_7144871_-_Images_1.jpg")
+![](<thumbs_-_7144871_-_Images_1.avif> "thumbs_-_7144871_-_Images_1.avif")
 
   
 

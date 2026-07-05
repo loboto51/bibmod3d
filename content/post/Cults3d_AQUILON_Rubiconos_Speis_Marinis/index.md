@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > AQUILON > Rubiconos_Speis_Marinis [dl]"
 date: "2022-04-05T16:43:43Z"
 toc: true
-image: "thumbs_-_aquilon-7fc9_-_Images_1.jpg"
+image: "thumbs_-_aquilon-7fc9_-_Images_1.avif"
 tags:
 - "AQUILON"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_aquilon-7fc9_-_Images_1.jpg> "thumbs_-_aquilon-7fc9_-_Images_1.jpg")
+![](<thumbs_-_aquilon-7fc9_-_Images_1.avif> "thumbs_-_aquilon-7fc9_-_Images_1.avif")
 
-  ![](<thumbs_-_aquilon-7fc9_-_ImagesSTL_1.jpg> "thumbs_-_aquilon-7fc9_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_aquilon-7fc9_-_ImagesSTL_1.avif> "thumbs_-_aquilon-7fc9_-_ImagesSTL_1.avif")
 
   
 

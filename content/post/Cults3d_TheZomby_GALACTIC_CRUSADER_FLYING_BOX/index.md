@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > TheZomby > GALACTIC_CRUSADER_FLYING_BOX [dl]"
 date: "2023-12-19T04:00:56Z"
 toc: true
-image: "thumbs_-_galactic-crusader-flying-box_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusader-flying-box_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-thunderhawks"
 - "epic SMI Sm-thunderhawks"
 - "volants SMI Sm-thunderhawks"
-- "epic volants SMI Sm-thunderhawks"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "volants SMI NONSUP"
-- "epic volants SMI NONSUP"
 - "Sm-thunderhawks NONSUP"
 - "epic Sm-thunderhawks NONSUP"
 - "volants Sm-thunderhawks NONSUP"
-- "epic volants Sm-thunderhawks NONSUP"
 - "SMI Sm-thunderhawks NONSUP"
-- "epic SMI Sm-thunderhawks NONSUP"
-- "volants SMI Sm-thunderhawks NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusader-flying-box_-_Images_1.jpg> "thumbs_-_galactic-crusader-flying-box_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusader-flying-box_-_Images_1.avif> "thumbs_-_galactic-crusader-flying-box_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusader-flying-box_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusader-flying-box_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusader-flying-box_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusader-flying-box_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_galactic-crusader-flying-box_-_Makes_1.jpg> "thumbs_-_galactic-crusader-flying-box_-_Makes_1.jpg")
+  ![](<thumbs_-_galactic-crusader-flying-box_-_Makes_1.avif> "thumbs_-_galactic-crusader-flying-box_-_Makes_1.avif")
 
   
 

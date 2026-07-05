@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > FASIS > 6mm___OBJECTIVE_MARKERS___Bunkers [dl]"
 date: "2026-06-26T10:34:04Z"
 toc: true
-image: "thumbs_-_6mm-objective-markers-bunkers_-_Images_1.jpg"
+image: "thumbs_-_6mm-objective-markers-bunkers_-_Images_1.avif"
 tags:
 - "FASIS"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Batiments"
 - "epic IMP Batiments"
 - "decors IMP Batiments"
-- "epic decors IMP Batiments"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Batiments NONSUP"
 - "epic Batiments NONSUP"
 - "decors Batiments NONSUP"
-- "epic decors Batiments NONSUP"
 - "IMP Batiments NONSUP"
-- "epic IMP Batiments NONSUP"
-- "decors IMP Batiments NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-objective-markers-bunkers_-_Images_1.jpg> "thumbs_-_6mm-objective-markers-bunkers_-_Images_1.jpg")
+![](<thumbs_-_6mm-objective-markers-bunkers_-_Images_1.avif> "thumbs_-_6mm-objective-markers-bunkers_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-objective-markers-bunkers_-_ImagesSTL_1.jpg> "thumbs_-_6mm-objective-markers-bunkers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-objective-markers-bunkers_-_ImagesSTL_1.avif> "thumbs_-_6mm-objective-markers-bunkers_-_ImagesSTL_1.avif")
 
   
 

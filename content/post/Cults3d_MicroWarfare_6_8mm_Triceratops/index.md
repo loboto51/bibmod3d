@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MicroWarfare > 6_8mm_Triceratops [non dl]"
 date: "2021-03-19T03:15:24Z"
 toc: true
-image: "thumbs_-_6-8mm-triceratops_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-triceratops_-_Images_1.avif"
 tags:
 - "MicroWarfare"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-pentasaures"
 - "epic EXO Eldars-pentasaures"
 - "vehicules EXO Eldars-pentasaures"
-- "epic vehicules EXO Eldars-pentasaures"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EXO NONDL"
 - "epic EXO NONDL"
 - "vehicules EXO NONDL"
-- "epic vehicules EXO NONDL"
 - "Eldars-pentasaures NONDL"
 - "epic Eldars-pentasaures NONDL"
 - "vehicules Eldars-pentasaures NONDL"
-- "epic vehicules Eldars-pentasaures NONDL"
 - "EXO Eldars-pentasaures NONDL"
-- "epic EXO Eldars-pentasaures NONDL"
-- "vehicules EXO Eldars-pentasaures NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "EXO NONSUP"
 - "epic EXO NONSUP"
 - "vehicules EXO NONSUP"
-- "epic vehicules EXO NONSUP"
 - "Eldars-pentasaures NONSUP"
 - "epic Eldars-pentasaures NONSUP"
 - "vehicules Eldars-pentasaures NONSUP"
-- "epic vehicules Eldars-pentasaures NONSUP"
 - "EXO Eldars-pentasaures NONSUP"
-- "epic EXO Eldars-pentasaures NONSUP"
-- "vehicules EXO Eldars-pentasaures NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
 - "EXO NONDL NONSUP"
-- "epic EXO NONDL NONSUP"
-- "vehicules EXO NONDL NONSUP"
 - "Eldars-pentasaures NONDL NONSUP"
-- "epic Eldars-pentasaures NONDL NONSUP"
-- "vehicules Eldars-pentasaures NONDL NONSUP"
-- "EXO Eldars-pentasaures NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-triceratops_-_Images_1.jpg> "thumbs_-_6-8mm-triceratops_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-triceratops_-_Images_1.avif> "thumbs_-_6-8mm-triceratops_-_Images_1.avif")
 
   
 

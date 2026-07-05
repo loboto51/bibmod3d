@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > JanZizka > Epic_Armageddon_order_dice_and_tokens [non dl]"
 date: "2021-01-19T15:14:43+00:00"
 toc: true
-image: "thumbs_-_4729265_-_Images_1.jpg"
+image: "thumbs_-_4729265_-_Images_1.avif"
 tags:
 - "JanZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "JETONS DIVERS NONDL"
-- "epic JETONS DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "JETONS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "JETONS DIVERS NONSUP"
-- "epic JETONS DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "JETONS NONDL NONSUP"
-- "epic JETONS NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "JETONS DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4729265_-_Images_1.jpg> "thumbs_-_4729265_-_Images_1.jpg")
+![](<thumbs_-_4729265_-_Images_1.avif> "thumbs_-_4729265_-_Images_1.avif")
 
   
 

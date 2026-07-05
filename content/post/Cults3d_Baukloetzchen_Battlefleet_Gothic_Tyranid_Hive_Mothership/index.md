@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > Baukloetzchen > Battlefleet_Gothic_Tyranid_Hive_Mothership [non dl]"
 date: "2023-07-13T18:59:05Z"
 toc: true
-image: "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.jpg"
+image: "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.avif"
 tags:
 - "Baukloetzchen"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "TYRANIDES Flotte NONDL"
-- "bfg TYRANIDES Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "TYRANIDES NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "TYRANIDES Flotte NONSUP"
-- "bfg TYRANIDES Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "bfg TYRANIDES NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "TYRANIDES Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.jpg> "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.jpg")
+![](<thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.avif> "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Images_1.avif")
 
-  ![](<thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Makes_1.jpg> "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Makes_1.jpg")
+  ![](<thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Makes_1.avif> "thumbs_-_battlefleet-gothic-tyranid-hive-mothership_-_Makes_1.avif")
 
   
 

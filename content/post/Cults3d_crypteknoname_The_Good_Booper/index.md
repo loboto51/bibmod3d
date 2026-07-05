@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > crypteknoname > The_Good_Booper [dl]"
 date: "2023-07-14T23:41:22Z"
 toc: true
-image: "thumbs_-_the-good-booper_-_Images_1.jpg"
+image: "thumbs_-_the-good-booper_-_Images_1.avif"
 tags:
 - "crypteknoname"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_the-good-booper_-_Images_1.jpg> "thumbs_-_the-good-booper_-_Images_1.jpg")
+![](<thumbs_-_the-good-booper_-_Images_1.avif> "thumbs_-_the-good-booper_-_Images_1.avif")
 
-  ![](<thumbs_-_the-good-booper_-_ImagesSTL_1.jpg> "thumbs_-_the-good-booper_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_the-good-booper_-_ImagesSTL_1.avif> "thumbs_-_the-good-booper_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_the-good-booper_-_Makes_1.jpg> "thumbs_-_the-good-booper_-_Makes_1.jpg")
+  ![](<thumbs_-_the-good-booper_-_Makes_1.avif> "thumbs_-_the-good-booper_-_Makes_1.avif")
 
   
 

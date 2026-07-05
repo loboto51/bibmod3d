@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Lich_FDM_supportless [non dl]"
 date: "2026-04-24T17:22:10+00:00"
 toc: true
-image: "thumbs_-_7341388_-_Images_1.jpg"
+image: "thumbs_-_7341388_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7341388_-_Images_1.jpg> "thumbs_-_7341388_-_Images_1.jpg")
+![](<thumbs_-_7341388_-_Images_1.avif> "thumbs_-_7341388_-_Images_1.avif")
 
-  ![](<thumbs_-_7341388_-_Makes_1.jpg> "thumbs_-_7341388_-_Makes_1.jpg")
+  ![](<thumbs_-_7341388_-_Makes_1.avif> "thumbs_-_7341388_-_Makes_1.avif")
 
   
 

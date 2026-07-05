@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Ankylo > Blight_Warriors___10mm_scale [non dl]"
 date: "2024-04-02T09:08:20Z"
 toc: true
-image: "thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg"
+image: "thumbs_-_blight-warriors-10mm-scale_-_Images_1.avif"
 tags:
 - "Ankylo"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "CHAOS NONDL SUP"
-- "warmaster CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg> "thumbs_-_blight-warriors-10mm-scale_-_Images_1.jpg")
+![](<thumbs_-_blight-warriors-10mm-scale_-_Images_1.avif> "thumbs_-_blight-warriors-10mm-scale_-_Images_1.avif")
 
   
 

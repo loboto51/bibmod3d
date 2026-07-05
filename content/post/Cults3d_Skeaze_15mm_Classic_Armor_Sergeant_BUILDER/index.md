@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Skeaze > 15mm_Classic_Armor_Sergeant_BUILDER [dl]"
 date: "2024-03-18T16:04:40Z"
 toc: true
-image: "thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.jpg"
+image: "thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.avif"
 tags:
 - "Skeaze"
 - "15mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.jpg> "thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.jpg")
+![](<thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.avif> "thumbs_-_15mm-classic-armor-sergeant-builder_-_Images_1.avif")
 
-  ![](<thumbs_-_15mm-classic-armor-sergeant-builder_-_ImagesSTL_1.jpg> "thumbs_-_15mm-classic-armor-sergeant-builder_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_15mm-classic-armor-sergeant-builder_-_ImagesSTL_1.avif> "thumbs_-_15mm-classic-armor-sergeant-builder_-_ImagesSTL_1.avif")
 
   
 

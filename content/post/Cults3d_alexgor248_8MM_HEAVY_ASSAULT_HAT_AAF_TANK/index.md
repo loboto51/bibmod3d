@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > alexgor248 > 8MM_HEAVY_ASSAULT_HAT_AAF_TANK [non dl]"
 date: "2025-02-15T17:44:15Z"
 toc: true
-image: "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg"
+image: "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.avif"
 tags:
 - "alexgor248"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Kratos"
 - "epic SMI Kratos"
 - "vehicules SMI Kratos"
-- "epic vehicules SMI Kratos"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SMI NONDL"
 - "epic SMI NONDL"
 - "vehicules SMI NONDL"
-- "epic vehicules SMI NONDL"
 - "Kratos NONDL"
 - "epic Kratos NONDL"
 - "vehicules Kratos NONDL"
-- "epic vehicules Kratos NONDL"
 - "SMI Kratos NONDL"
-- "epic SMI Kratos NONDL"
-- "vehicules SMI Kratos NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Kratos NONSUP"
 - "epic Kratos NONSUP"
 - "vehicules Kratos NONSUP"
-- "epic vehicules Kratos NONSUP"
 - "SMI Kratos NONSUP"
-- "epic SMI Kratos NONSUP"
-- "vehicules SMI Kratos NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "epic SMI NONDL NONSUP"
-- "vehicules SMI NONDL NONSUP"
 - "Kratos NONDL NONSUP"
-- "epic Kratos NONDL NONSUP"
-- "vehicules Kratos NONDL NONSUP"
-- "SMI Kratos NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg> "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.jpg")
+![](<thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.avif> "thumbs_-_8mm-heavy-assault-hat-aaf-tank_-_Images_1.avif")
 
   
 

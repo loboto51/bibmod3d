@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > rs_77 > Ork_shoulder_plates_bits [dl]"
 date: "2020-01-01T22:10:32+00:00"
 toc: true
-image: "thumbs_-_4079032_-_Images_1.jpg"
+image: "thumbs_-_4079032_-_Images_1.avif"
 tags:
 - "rs_77"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "ORKS GOBELINS"
 - "28mm ORKS GOBELINS"
 - "ORCS ORKS GOBELINS"
-- "28mm ORCS ORKS GOBELINS"
 - "Gretchins"
 - "28mm Gretchins"
 - "ORCS Gretchins"
@@ -28,14 +27,10 @@ tags:
 - "ORKS Gretchins"
 - "28mm ORKS Gretchins"
 - "ORCS ORKS Gretchins"
-- "28mm ORCS ORKS Gretchins"
 - "GOBELINS Gretchins"
 - "28mm GOBELINS Gretchins"
 - "ORCS GOBELINS Gretchins"
-- "28mm ORCS GOBELINS Gretchins"
 - "ORKS GOBELINS Gretchins"
-- "28mm ORKS GOBELINS Gretchins"
-- "ORCS ORKS GOBELINS Gretchins"
 - "NONSUP"
 - "28mm NONSUP"
 - "ORCS NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "ORKS NONSUP"
 - "28mm ORKS NONSUP"
 - "ORCS ORKS NONSUP"
-- "28mm ORCS ORKS NONSUP"
 - "GOBELINS NONSUP"
 - "28mm GOBELINS NONSUP"
 - "ORCS GOBELINS NONSUP"
-- "28mm ORCS GOBELINS NONSUP"
 - "ORKS GOBELINS NONSUP"
-- "28mm ORKS GOBELINS NONSUP"
-- "ORCS ORKS GOBELINS NONSUP"
 - "Gretchins NONSUP"
 - "28mm Gretchins NONSUP"
 - "ORCS Gretchins NONSUP"
-- "28mm ORCS Gretchins NONSUP"
 - "ORKS Gretchins NONSUP"
-- "28mm ORKS Gretchins NONSUP"
-- "ORCS ORKS Gretchins NONSUP"
 - "GOBELINS Gretchins NONSUP"
-- "28mm GOBELINS Gretchins NONSUP"
-- "ORCS GOBELINS Gretchins NONSUP"
-- "ORKS GOBELINS Gretchins NONSUP"
 
 ---
 
-![](<thumbs_-_4079032_-_Images_1.jpg> "thumbs_-_4079032_-_Images_1.jpg")
+![](<thumbs_-_4079032_-_Images_1.avif> "thumbs_-_4079032_-_Images_1.avif")
 
-  ![](<thumbs_-_4079032_-_ImagesSTL_1.jpg> "thumbs_-_4079032_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4079032_-_ImagesSTL_1.avif> "thumbs_-_4079032_-_ImagesSTL_1.avif")
 
   
 

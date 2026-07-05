@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > andersklahr > Stackable_Underhive_3D_Church_and_more [non dl]"
 date: "2022-02-22T08:04:05+00:00"
 toc: true
-image: "thumbs_-_5257701_-_Images_1.jpg"
+image: "thumbs_-_5257701_-_Images_1.avif"
 tags:
 - "andersklahr"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "necromunda NONDL"
 - "28mm necromunda NONDL"
 - "DECORS necromunda NONDL"
-- "28mm DECORS necromunda NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "DECORS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "necromunda NONSUP"
 - "28mm necromunda NONSUP"
 - "DECORS necromunda NONSUP"
-- "28mm DECORS necromunda NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "DECORS NONDL NONSUP"
-- "28mm DECORS NONDL NONSUP"
 - "necromunda NONDL NONSUP"
-- "28mm necromunda NONDL NONSUP"
-- "DECORS necromunda NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5257701_-_Images_1.jpg> "thumbs_-_5257701_-_Images_1.jpg")
+![](<thumbs_-_5257701_-_Images_1.avif> "thumbs_-_5257701_-_Images_1.avif")
 
   
 

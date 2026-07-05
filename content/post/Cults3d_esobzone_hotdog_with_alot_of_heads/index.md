@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > esobzone > hotdog_with_alot_of_heads [non dl]"
 date: "2024-02-06T05:05:59Z"
 toc: true
-image: "thumbs_-_hotdog-with-alot-of-heads_-_Images_1.jpg"
+image: "thumbs_-_hotdog-with-alot-of-heads_-_Images_1.avif"
 tags:
 - "esobzone"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_hotdog-with-alot-of-heads_-_Images_1.jpg> "thumbs_-_hotdog-with-alot-of-heads_-_Images_1.jpg")
+![](<thumbs_-_hotdog-with-alot-of-heads_-_Images_1.avif> "thumbs_-_hotdog-with-alot-of-heads_-_Images_1.avif")
 
   
 

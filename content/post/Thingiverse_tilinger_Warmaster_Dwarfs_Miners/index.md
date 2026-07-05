@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Miners [dl]"
 date: "2025-12-07T13:23:51+00:00"
 toc: true
-image: "thumbs_-_7225649_-_Images_1.jpg"
+image: "thumbs_-_7225649_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7225649_-_Images_1.jpg> "thumbs_-_7225649_-_Images_1.jpg")
+![](<thumbs_-_7225649_-_Images_1.avif> "thumbs_-_7225649_-_Images_1.avif")
 
-  ![](<thumbs_-_7225649_-_ImagesSTL_1.jpg> "thumbs_-_7225649_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7225649_-_ImagesSTL_1.avif> "thumbs_-_7225649_-_ImagesSTL_1.avif")
 
   
 

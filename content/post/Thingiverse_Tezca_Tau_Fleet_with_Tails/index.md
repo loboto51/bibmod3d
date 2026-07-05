@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tezca > Tau_Fleet_with_Tails [non dl]"
 date: "2019-04-03T01:40:03+00:00"
 toc: true
-image: "thumbs_-_3536786_-_Images_1.jpg"
+image: "thumbs_-_3536786_-_Images_1.avif"
 tags:
 - "Tezca"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "TAU Flotte NONDL"
-- "bfg TAU Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "TAU NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "TAU Flotte NONSUP"
-- "bfg TAU Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "TAU NONDL NONSUP"
-- "bfg TAU NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "TAU Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3536786_-_Images_1.jpg> "thumbs_-_3536786_-_Images_1.jpg")
+![](<thumbs_-_3536786_-_Images_1.avif> "thumbs_-_3536786_-_Images_1.avif")
 
-  ![](<thumbs_-_3536786_-_Makes_1.jpg> "thumbs_-_3536786_-_Makes_1.jpg")
+  ![](<thumbs_-_3536786_-_Makes_1.avif> "thumbs_-_3536786_-_Makes_1.avif")
 
   
 

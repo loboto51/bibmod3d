@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ilhadiel > Ghoul_Miniatures [non dl]"
 date: "2019-06-29T13:45:33+00:00"
 toc: true
-image: "thumbs_-_3719957_-_Images_1.jpg"
+image: "thumbs_-_3719957_-_Images_1.avif"
 tags:
 - "Ilhadiel"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3719957_-_Images_1.jpg> "thumbs_-_3719957_-_Images_1.jpg")
+![](<thumbs_-_3719957_-_Images_1.avif> "thumbs_-_3719957_-_Images_1.avif")
 
-  ![](<thumbs_-_3719957_-_Makes_1.jpg> "thumbs_-_3719957_-_Makes_1.jpg")
+  ![](<thumbs_-_3719957_-_Makes_1.avif> "thumbs_-_3719957_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Disordered_Galactic_Crusaders_Characters [dl]"
 date: "2024-12-26T21:39:30Z"
 toc: true
-image: "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.jpg"
+image: "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-qg"
 - "epic SMC Sm-qg"
 - "infanterie SMC Sm-qg"
-- "epic infanterie SMC Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SMC Sm-qg NONSUP"
-- "epic SMC Sm-qg NONSUP"
-- "infanterie SMC Sm-qg NONSUP"
 
 ---
 
-![](<thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.jpg> "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.jpg")
+![](<thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.avif> "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_Images_1.avif")
 
-  ![](<thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_ImagesSTL_1.jpg> "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_ImagesSTL_1.avif> "thumbs_-_disordered-galactic-crusaders-characters-87881035d869899c1346_-_ImagesSTL_1.avif")
 
   
 

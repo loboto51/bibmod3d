@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > speacock > Galactic_Crusaders_quad_cannon_platform [dl]"
 date: "2025-11-23T10:41:00Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.avif"
 tags:
 - "speacock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Tarentules"
 - "epic SMI Tarentules"
 - "infanterie SMI Tarentules"
-- "epic infanterie SMI Tarentules"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Tarentules NONSUP"
 - "epic Tarentules NONSUP"
 - "infanterie Tarentules NONSUP"
-- "epic infanterie Tarentules NONSUP"
 - "SMI Tarentules NONSUP"
-- "epic SMI Tarentules NONSUP"
-- "infanterie SMI Tarentules NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.jpg> "thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.avif> "thumbs_-_galactic-crusaders-quad-cannon-platform_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-quad-cannon-platform_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-quad-cannon-platform_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-quad-cannon-platform_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-quad-cannon-platform_-_ImagesSTL_1.avif")
 
   
 

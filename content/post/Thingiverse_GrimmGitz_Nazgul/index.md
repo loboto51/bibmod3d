@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > GrimmGitz > Nazgul [non dl]"
 date: "2018-11-13T10:07:44+00:00"
 toc: true
-image: "thumbs_-_3212985_-_Images_1.jpg"
+image: "thumbs_-_3212985_-_Images_1.avif"
 tags:
 - "GrimmGitz"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "LOTR-MORDOR NONDL NONSUP"
-- "warmaster LOTR-MORDOR NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3212985_-_Images_1.jpg> "thumbs_-_3212985_-_Images_1.jpg")
+![](<thumbs_-_3212985_-_Images_1.avif> "thumbs_-_3212985_-_Images_1.avif")
 
-  ![](<thumbs_-_3212985_-_Makes_1.jpg> "thumbs_-_3212985_-_Makes_1.jpg")
+  ![](<thumbs_-_3212985_-_Makes_1.avif> "thumbs_-_3212985_-_Makes_1.avif")
 
   
 

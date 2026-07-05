@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mildseven > 8mm_gen5_jumpers [dl]"
 date: "2025-01-31T08:35:40Z"
 toc: true
-image: "thumbs_-_8mm-gen5-jumpers_-_Images_1.jpg"
+image: "thumbs_-_8mm-gen5-jumpers_-_Images_1.avif"
 tags:
 - "mildseven"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut-volant"
 - "epic SM30K Sm-assaut-volant"
 - "infanterie SM30K Sm-assaut-volant"
-- "epic infanterie SM30K Sm-assaut-volant"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K SUP"
 - "epic SM30K SUP"
 - "infanterie SM30K SUP"
-- "epic infanterie SM30K SUP"
 - "Sm-assaut-volant SUP"
 - "epic Sm-assaut-volant SUP"
 - "infanterie Sm-assaut-volant SUP"
-- "epic infanterie Sm-assaut-volant SUP"
 - "SM30K Sm-assaut-volant SUP"
-- "epic SM30K Sm-assaut-volant SUP"
-- "infanterie SM30K Sm-assaut-volant SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SMC Sm-assaut-volant"
 - "epic SMC Sm-assaut-volant"
 - "infanterie SMC Sm-assaut-volant"
-- "epic infanterie SMC Sm-assaut-volant"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -58,14 +52,10 @@ tags:
 - "SMC SUP"
 - "epic SMC SUP"
 - "infanterie SMC SUP"
-- "epic infanterie SMC SUP"
 - "Sm-assaut-volant SUP"
 - "epic Sm-assaut-volant SUP"
 - "infanterie Sm-assaut-volant SUP"
-- "epic infanterie Sm-assaut-volant SUP"
 - "SMC Sm-assaut-volant SUP"
-- "epic SMC Sm-assaut-volant SUP"
-- "infanterie SMC Sm-assaut-volant SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -80,7 +70,6 @@ tags:
 - "SMI Sm-assaut-volant"
 - "epic SMI Sm-assaut-volant"
 - "infanterie SMI Sm-assaut-volant"
-- "epic infanterie SMI Sm-assaut-volant"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -88,20 +77,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Sm-assaut-volant SUP"
 - "epic Sm-assaut-volant SUP"
 - "infanterie Sm-assaut-volant SUP"
-- "epic infanterie Sm-assaut-volant SUP"
 - "SMI Sm-assaut-volant SUP"
-- "epic SMI Sm-assaut-volant SUP"
-- "infanterie SMI Sm-assaut-volant SUP"
 
 ---
 
-![](<thumbs_-_8mm-gen5-jumpers_-_Images_1.jpg> "thumbs_-_8mm-gen5-jumpers_-_Images_1.jpg")
+![](<thumbs_-_8mm-gen5-jumpers_-_Images_1.avif> "thumbs_-_8mm-gen5-jumpers_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-gen5-jumpers_-_ImagesSTL_1.jpg> "thumbs_-_8mm-gen5-jumpers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-gen5-jumpers_-_ImagesSTL_1.avif> "thumbs_-_8mm-gen5-jumpers_-_ImagesSTL_1.avif")
 
   
 

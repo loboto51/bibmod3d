@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Implacable [dl]"
 date: "2025-05-03T19:37:49+00:00"
 toc: true
-image: "thumbs_-_7027922_-_Images_1.jpg"
+image: "thumbs_-_7027922_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "EMPIRE NONSUP"
 - "warmaster EMPIRE NONSUP"
 - "HUMAINS EMPIRE NONSUP"
-- "warmaster HUMAINS EMPIRE NONSUP"
 
 ---
 
-![](<thumbs_-_7027922_-_Images_1.jpg> "thumbs_-_7027922_-_Images_1.jpg")
+![](<thumbs_-_7027922_-_Images_1.avif> "thumbs_-_7027922_-_Images_1.avif")
 
-  ![](<thumbs_-_7027922_-_ImagesSTL_1.jpg> "thumbs_-_7027922_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7027922_-_ImagesSTL_1.avif> "thumbs_-_7027922_-_ImagesSTL_1.avif")
 
   
 

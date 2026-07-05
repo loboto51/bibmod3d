@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > AdelSd > 15mm_Tao_Warriors___Grimdark_Future [non dl]"
 date: "2020-06-23T12:04:34+00:00"
 toc: true
-image: "thumbs_-_4494200_-_Images_1.jpg"
+image: "thumbs_-_4494200_-_Images_1.avif"
 tags:
 - "AdelSd"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TAU Tau-tactiques"
 - "epic TAU Tau-tactiques"
 - "infanterie TAU Tau-tactiques"
-- "epic infanterie TAU Tau-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "TAU NONDL"
 - "epic TAU NONDL"
 - "infanterie TAU NONDL"
-- "epic infanterie TAU NONDL"
 - "Tau-tactiques NONDL"
 - "epic Tau-tactiques NONDL"
 - "infanterie Tau-tactiques NONDL"
-- "epic infanterie Tau-tactiques NONDL"
 - "TAU Tau-tactiques NONDL"
-- "epic TAU Tau-tactiques NONDL"
-- "infanterie TAU Tau-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "TAU NONSUP"
 - "epic TAU NONSUP"
 - "infanterie TAU NONSUP"
-- "epic infanterie TAU NONSUP"
 - "Tau-tactiques NONSUP"
 - "epic Tau-tactiques NONSUP"
 - "infanterie Tau-tactiques NONSUP"
-- "epic infanterie Tau-tactiques NONSUP"
 - "TAU Tau-tactiques NONSUP"
-- "epic TAU Tau-tactiques NONSUP"
-- "infanterie TAU Tau-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "TAU NONDL NONSUP"
-- "epic TAU NONDL NONSUP"
-- "infanterie TAU NONDL NONSUP"
 - "Tau-tactiques NONDL NONSUP"
-- "epic Tau-tactiques NONDL NONSUP"
-- "infanterie Tau-tactiques NONDL NONSUP"
-- "TAU Tau-tactiques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4494200_-_Images_1.jpg> "thumbs_-_4494200_-_Images_1.jpg")
+![](<thumbs_-_4494200_-_Images_1.avif> "thumbs_-_4494200_-_Images_1.avif")
 
   
 

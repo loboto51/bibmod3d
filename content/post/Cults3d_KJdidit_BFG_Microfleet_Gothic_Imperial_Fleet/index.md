@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Imperial_Fleet [dl]"
 date: "2021-02-03T05:37:04Z"
 toc: true
-image: "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.jpg"
+image: "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,15 +20,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.jpg")
+![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.avif> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Images_1.avif")
 
-  ![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_ImagesSTL_1.avif> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Makes_1.jpg> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Makes_1.jpg")
+  ![](<thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Makes_1.avif> "thumbs_-_bfg-microfleet-gothic-imperial-fleet_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rengald > Fellowship_of_the_Ring_in_Boats_10mm [non dl]"
 date: "2026-02-22T13:47:12+00:00"
 toc: true
-image: "thumbs_-_7297073_-_Images_1.jpg"
+image: "thumbs_-_7297073_-_Images_1.avif"
 tags:
 - "Rengald"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "HALFLINGS NONDL"
 - "warmaster HALFLINGS NONDL"
 - "LOTR-HOBBITS HALFLINGS NONDL"
-- "warmaster LOTR-HOBBITS HALFLINGS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "LOTR-HOBBITS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "HALFLINGS NONSUP"
 - "warmaster HALFLINGS NONSUP"
 - "LOTR-HOBBITS HALFLINGS NONSUP"
-- "warmaster LOTR-HOBBITS HALFLINGS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "LOTR-HOBBITS NONDL NONSUP"
-- "warmaster LOTR-HOBBITS NONDL NONSUP"
 - "HALFLINGS NONDL NONSUP"
-- "warmaster HALFLINGS NONDL NONSUP"
-- "LOTR-HOBBITS HALFLINGS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7297073_-_Images_1.jpg> "thumbs_-_7297073_-_Images_1.jpg")
+![](<thumbs_-_7297073_-_Images_1.avif> "thumbs_-_7297073_-_Images_1.avif")
 
   
 

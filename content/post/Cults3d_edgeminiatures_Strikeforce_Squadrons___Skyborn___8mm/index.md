@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Strikeforce_Squadrons___Skyborn___8mm [non dl]"
 date: "2026-02-04T05:32:27Z"
 toc: true
-image: "thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.jpg"
+image: "thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TAU Tau-tactiques"
 - "epic TAU Tau-tactiques"
 - "infanterie TAU Tau-tactiques"
-- "epic infanterie TAU Tau-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "TAU NONDL"
 - "epic TAU NONDL"
 - "infanterie TAU NONDL"
-- "epic infanterie TAU NONDL"
 - "Tau-tactiques NONDL"
 - "epic Tau-tactiques NONDL"
 - "infanterie Tau-tactiques NONDL"
-- "epic infanterie Tau-tactiques NONDL"
 - "TAU Tau-tactiques NONDL"
-- "epic TAU Tau-tactiques NONDL"
-- "infanterie TAU Tau-tactiques NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "TAU SUP"
 - "epic TAU SUP"
 - "infanterie TAU SUP"
-- "epic infanterie TAU SUP"
 - "Tau-tactiques SUP"
 - "epic Tau-tactiques SUP"
 - "infanterie Tau-tactiques SUP"
-- "epic infanterie Tau-tactiques SUP"
 - "TAU Tau-tactiques SUP"
-- "epic TAU Tau-tactiques SUP"
-- "infanterie TAU Tau-tactiques SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "TAU NONDL SUP"
-- "epic TAU NONDL SUP"
-- "infanterie TAU NONDL SUP"
 - "Tau-tactiques NONDL SUP"
-- "epic Tau-tactiques NONDL SUP"
-- "infanterie Tau-tactiques NONDL SUP"
-- "TAU Tau-tactiques NONDL SUP"
 
 ---
 
-![](<thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.jpg> "thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.jpg")
+![](<thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.avif> "thumbs_-_strikeforce-squadrons-skyborn-8mm_-_Images_1.avif")
 
   
 

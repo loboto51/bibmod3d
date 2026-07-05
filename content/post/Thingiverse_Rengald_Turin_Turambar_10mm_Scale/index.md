@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rengald > Turin_Turambar_10mm_Scale [non dl]"
 date: "2025-09-02T00:55:48+00:00"
 toc: true
-image: "thumbs_-_7134012_-_Images_1.jpg"
+image: "thumbs_-_7134012_-_Images_1.avif"
 tags:
 - "Rengald"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "LOTR-HUMAINS NONDL NONSUP"
-- "warmaster LOTR-HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7134012_-_Images_1.jpg> "thumbs_-_7134012_-_Images_1.jpg")
+![](<thumbs_-_7134012_-_Images_1.avif> "thumbs_-_7134012_-_Images_1.avif")
 
   
 

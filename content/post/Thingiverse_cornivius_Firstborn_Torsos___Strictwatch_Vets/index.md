@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > cornivius > Firstborn_Torsos___Strictwatch_Vets [non dl]"
 date: "2020-04-12T00:36:03+00:00"
 toc: true
-image: "thumbs_-_4278980_-_Images_1.jpg"
+image: "thumbs_-_4278980_-_Images_1.avif"
 tags:
 - "cornivius"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4278980_-_Images_1.jpg> "thumbs_-_4278980_-_Images_1.jpg")
+![](<thumbs_-_4278980_-_Images_1.avif> "thumbs_-_4278980_-_Images_1.avif")
 
-  ![](<thumbs_-_4278980_-_Makes_1.jpg> "thumbs_-_4278980_-_Makes_1.jpg")
+  ![](<thumbs_-_4278980_-_Makes_1.avif> "thumbs_-_4278980_-_Makes_1.avif")
 
   
 

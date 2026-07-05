@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mrmcangry > Nigel_and_the_wee_beastie_Bitey [non dl]"
 date: "2021-01-19T10:02:00Z"
 toc: true
-image: "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.jpg"
+image: "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.avif"
 tags:
 - "mrmcangry"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.jpg> "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.jpg")
+![](<thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.avif> "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Images_1.avif")
 
-  ![](<thumbs_-_nigel-and-the-wee-beastie-bitey_-_Makes_1.jpg> "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Makes_1.jpg")
+  ![](<thumbs_-_nigel-and-the-wee-beastie-bitey_-_Makes_1.avif> "thumbs_-_nigel-and-the-wee-beastie-bitey_-_Makes_1.avif")
 
   
 

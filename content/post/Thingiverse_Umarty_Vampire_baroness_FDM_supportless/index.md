@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Vampire_baroness_FDM_supportless [non dl]"
 date: "2026-03-07T09:40:46+00:00"
 toc: true
-image: "thumbs_-_7309820_-_Images_1.jpg"
+image: "thumbs_-_7309820_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7309820_-_Images_1.jpg> "thumbs_-_7309820_-_Images_1.jpg")
+![](<thumbs_-_7309820_-_Images_1.avif> "thumbs_-_7309820_-_Images_1.avif")
 
   
 

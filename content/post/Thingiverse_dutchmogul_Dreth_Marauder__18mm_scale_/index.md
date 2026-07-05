@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Dreth_Marauder__18mm_scale_ [non dl]"
 date: "2016-07-20T01:33:39+00:00"
 toc: true
-image: "thumbs_-_1681176_-_Images_1.jpg"
+image: "thumbs_-_1681176_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1681176_-_Images_1.jpg> "thumbs_-_1681176_-_Images_1.jpg")
+![](<thumbs_-_1681176_-_Images_1.avif> "thumbs_-_1681176_-_Images_1.avif")
 
-  ![](<thumbs_-_1681176_-_Makes_1.jpg> "thumbs_-_1681176_-_Makes_1.jpg")
+  ![](<thumbs_-_1681176_-_Makes_1.avif> "thumbs_-_1681176_-_Makes_1.avif")
 
   
 

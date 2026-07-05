@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > God___Tech_Elves___8mm [non dl]"
 date: "2024-10-03T03:30:04Z"
 toc: true
-image: "thumbs_-_god-tech-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_god-tech-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Avatars"
 - "epic VM Avatars"
 - "infanterie VM Avatars"
-- "epic infanterie VM Avatars"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Avatars NONDL"
 - "epic Avatars NONDL"
 - "infanterie Avatars NONDL"
-- "epic infanterie Avatars NONDL"
 - "VM Avatars NONDL"
-- "epic VM Avatars NONDL"
-- "infanterie VM Avatars NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Avatars SUP"
 - "epic Avatars SUP"
 - "infanterie Avatars SUP"
-- "epic infanterie Avatars SUP"
 - "VM Avatars SUP"
-- "epic VM Avatars SUP"
-- "infanterie VM Avatars SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Avatars NONDL SUP"
-- "epic Avatars NONDL SUP"
-- "infanterie Avatars NONDL SUP"
-- "VM Avatars NONDL SUP"
 
 ---
 
-![](<thumbs_-_god-tech-elves-8mm_-_Images_1.jpg> "thumbs_-_god-tech-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_god-tech-elves-8mm_-_Images_1.avif> "thumbs_-_god-tech-elves-8mm_-_Images_1.avif")
 
   
 

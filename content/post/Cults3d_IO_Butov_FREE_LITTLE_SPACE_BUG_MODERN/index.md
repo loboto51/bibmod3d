@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > FREE_LITTLE_SPACE_BUG_MODERN [dl]"
 date: "2023-03-25T19:56:00Z"
 toc: true
-image: "thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg"
+image: "thumbs_-_little-free-space-bugs-modern_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_Images_1.jpg")
+![](<thumbs_-_little-free-space-bugs-modern_-_Images_1.avif> "thumbs_-_little-free-space-bugs-modern_-_Images_1.avif")
 
-  ![](<thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.avif> "thumbs_-_little-free-space-bugs-modern_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_little-free-space-bugs-modern_-_Makes_1.jpg> "thumbs_-_little-free-space-bugs-modern_-_Makes_1.jpg")
+  ![](<thumbs_-_little-free-space-bugs-modern_-_Makes_1.avif> "thumbs_-_little-free-space-bugs-modern_-_Makes_1.avif")
 
   
 

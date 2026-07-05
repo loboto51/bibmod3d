@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > NofixedForge > Heavy_cargo__armed_freighter [non dl]"
 date: "2022-05-15T08:30:26Z"
 toc: true
-image: "thumbs_-_heavy-cargo-armed-freighter_-_Images_1.jpg"
+image: "thumbs_-_heavy-cargo-armed-freighter_-_Images_1.avif"
 tags:
 - "NofixedForge"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
-- "bfg IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 - "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 - "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
-- "bfg IMP Flottes-civiles-inquisition-vaisseaux-de-support NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flottes-civiles-inquisition-vaisseaux-de-support NONDL NONSUP"
-- "bfg Flottes-civiles-inquisition-vaisseaux-de-support NONDL NONSUP"
-- "IMP Flottes-civiles-inquisition-vaisseaux-de-support NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_heavy-cargo-armed-freighter_-_Images_1.jpg> "thumbs_-_heavy-cargo-armed-freighter_-_Images_1.jpg")
+![](<thumbs_-_heavy-cargo-armed-freighter_-_Images_1.avif> "thumbs_-_heavy-cargo-armed-freighter_-_Images_1.avif")
 
   
 

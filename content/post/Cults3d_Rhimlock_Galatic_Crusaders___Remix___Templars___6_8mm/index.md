@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Rhimlock > Galatic_Crusaders___Remix___Templars___6_8mm [dl]"
 date: "2021-03-06T00:52:11Z"
 toc: true
-image: "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.jpg"
+image: "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.avif"
 tags:
 - "Rhimlock"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI SM-Assaut"
 - "epic SMI SM-Assaut"
 - "infanterie SMI SM-Assaut"
-- "epic infanterie SMI SM-Assaut"
 - "SMI-BT"
 - "epic SMI-BT"
 - "infanterie SMI-BT"
@@ -28,14 +27,10 @@ tags:
 - "SMI SMI-BT"
 - "epic SMI SMI-BT"
 - "infanterie SMI SMI-BT"
-- "epic infanterie SMI SMI-BT"
 - "SM-Assaut SMI-BT"
 - "epic SM-Assaut SMI-BT"
 - "infanterie SM-Assaut SMI-BT"
-- "epic infanterie SM-Assaut SMI-BT"
 - "SMI SM-Assaut SMI-BT"
-- "epic SMI SM-Assaut SMI-BT"
-- "infanterie SMI SM-Assaut SMI-BT"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "SM-Assaut NONSUP"
 - "epic SM-Assaut NONSUP"
 - "infanterie SM-Assaut NONSUP"
-- "epic infanterie SM-Assaut NONSUP"
 - "SMI SM-Assaut NONSUP"
-- "epic SMI SM-Assaut NONSUP"
-- "infanterie SMI SM-Assaut NONSUP"
 - "SMI-BT NONSUP"
 - "epic SMI-BT NONSUP"
 - "infanterie SMI-BT NONSUP"
-- "epic infanterie SMI-BT NONSUP"
 - "SMI SMI-BT NONSUP"
-- "epic SMI SMI-BT NONSUP"
-- "infanterie SMI SMI-BT NONSUP"
 - "SM-Assaut SMI-BT NONSUP"
-- "epic SM-Assaut SMI-BT NONSUP"
-- "infanterie SM-Assaut SMI-BT NONSUP"
-- "SMI SM-Assaut SMI-BT NONSUP"
 
 ---
 
-![](<thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.jpg> "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.jpg")
+![](<thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.avif> "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_ImagesSTL_1.jpg> "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_ImagesSTL_1.avif> "thumbs_-_galatic-crusaders-remix-templars-6-8mm_-_ImagesSTL_1.avif")
 
   
 

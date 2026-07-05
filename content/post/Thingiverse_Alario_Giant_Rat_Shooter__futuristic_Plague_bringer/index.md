@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Alario > Giant_Rat_Shooter__futuristic_Plague_bringer [non dl]"
 date: "2023-05-11T11:55:20+00:00"
 toc: true
-image: "thumbs_-_6019621_-_Images_1.jpg"
+image: "thumbs_-_6019621_-_Images_1.avif"
 tags:
 - "Alario"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "SKAVENS NONDL SUP"
-- "28mm SKAVENS NONDL SUP"
 
 ---
 
-![](<thumbs_-_6019621_-_Images_1.jpg> "thumbs_-_6019621_-_Images_1.jpg")
+![](<thumbs_-_6019621_-_Images_1.avif> "thumbs_-_6019621_-_Images_1.avif")
 
   
 

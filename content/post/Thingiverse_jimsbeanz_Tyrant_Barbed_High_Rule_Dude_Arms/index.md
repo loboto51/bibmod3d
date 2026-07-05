@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > jimsbeanz > Tyrant_Barbed_High_Rule_Dude_Arms [dl]"
 date: "2019-04-09T05:47:16+00:00"
 toc: true
-image: "thumbs_-_3551295_-_Images_1.jpg"
+image: "thumbs_-_3551295_-_Images_1.avif"
 tags:
 - "jimsbeanz"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES Tyranides-titans-hierophants"
 - "epic TYRANIDES Tyranides-titans-hierophants"
 - "titans TYRANIDES Tyranides-titans-hierophants"
-- "epic titans TYRANIDES Tyranides-titans-hierophants"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "titans TYRANIDES NONSUP"
-- "epic titans TYRANIDES NONSUP"
 - "Tyranides-titans-hierophants NONSUP"
 - "epic Tyranides-titans-hierophants NONSUP"
 - "titans Tyranides-titans-hierophants NONSUP"
-- "epic titans Tyranides-titans-hierophants NONSUP"
 - "TYRANIDES Tyranides-titans-hierophants NONSUP"
-- "epic TYRANIDES Tyranides-titans-hierophants NONSUP"
-- "titans TYRANIDES Tyranides-titans-hierophants NONSUP"
 
 ---
 
-![](<thumbs_-_3551295_-_Images_1.jpg> "thumbs_-_3551295_-_Images_1.jpg")
+![](<thumbs_-_3551295_-_Images_1.avif> "thumbs_-_3551295_-_Images_1.avif")
 
-  ![](<thumbs_-_3551295_-_ImagesSTL_1.jpg> "thumbs_-_3551295_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3551295_-_ImagesSTL_1.avif> "thumbs_-_3551295_-_ImagesSTL_1.avif")
 
   
 

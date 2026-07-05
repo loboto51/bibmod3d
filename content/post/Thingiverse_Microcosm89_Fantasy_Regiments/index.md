@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Microcosm89 > Fantasy_Regiments [non dl]"
 date: "2025-07-08T22:51:46+00:00"
 toc: true
-image: "thumbs_-_7086470_-_Images_1.jpg"
+image: "thumbs_-_7086470_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7086470_-_Images_1.jpg> "thumbs_-_7086470_-_Images_1.jpg")
+![](<thumbs_-_7086470_-_Images_1.avif> "thumbs_-_7086470_-_Images_1.avif")
 
   
 

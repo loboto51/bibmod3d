@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillMeForPrizes > Metal_Hand_Marines_6_8mm__Remix_ [dl]"
 date: "2021-08-03T20:48:22+00:00"
 toc: true
-image: "thumbs_-_4924039_-_Images_1.jpg"
+image: "thumbs_-_4924039_-_Images_1.avif"
 tags:
 - "KillMeForPrizes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI SMI-IH"
 - "epic SMI SMI-IH"
 - "infanterie SMI SMI-IH"
-- "epic infanterie SMI SMI-IH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "SMI-IH NONSUP"
 - "epic SMI-IH NONSUP"
 - "infanterie SMI-IH NONSUP"
-- "epic infanterie SMI-IH NONSUP"
 - "SMI SMI-IH NONSUP"
-- "epic SMI SMI-IH NONSUP"
-- "infanterie SMI SMI-IH NONSUP"
 
 ---
 
-![](<thumbs_-_4924039_-_Images_1.jpg> "thumbs_-_4924039_-_Images_1.jpg")
+![](<thumbs_-_4924039_-_Images_1.avif> "thumbs_-_4924039_-_Images_1.avif")
 
-  ![](<thumbs_-_4924039_-_ImagesSTL_1.jpg> "thumbs_-_4924039_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4924039_-_ImagesSTL_1.avif> "thumbs_-_4924039_-_ImagesSTL_1.avif")
 
   
 

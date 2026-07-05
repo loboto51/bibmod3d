@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Dreadnought13 > GrimDark_Planetary_Empires_Hive_City_40k [non dl]"
 date: "2019-08-08T20:57:57+00:00"
 toc: true
-image: "thumbs_-_3798317_-_Images_1.jpg"
+image: "thumbs_-_3798317_-_Images_1.avif"
 tags:
 - "Dreadnought13"
 - "necromunda"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3798317_-_Images_1.jpg> "thumbs_-_3798317_-_Images_1.jpg")
+![](<thumbs_-_3798317_-_Images_1.avif> "thumbs_-_3798317_-_Images_1.avif")
 
-  ![](<thumbs_-_3798317_-_Makes_1.jpg> "thumbs_-_3798317_-_Makes_1.jpg")
+  ![](<thumbs_-_3798317_-_Makes_1.avif> "thumbs_-_3798317_-_Makes_1.avif")
 
   
 

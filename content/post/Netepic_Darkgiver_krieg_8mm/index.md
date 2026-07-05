@@ -3,7 +3,7 @@
 title: "[GRATUIT] Netepic > Darkgiver > krieg_8mm [dl]"
 date: "2026-03-19"
 toc: true
-image: "thumbs_-_krieg_8mm_-_Images_1.jpg"
+image: "thumbs_-_Darkgiver_-_krieg_8mm_-_Images_1.avif"
 tags:
 - "Darkgiver"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-qg"
 - "epic GI Humains-qg"
 - "infanterie GI Humains-qg"
-- "epic infanterie GI Humains-qg"
 - "GI-DKOK"
 - "epic GI-DKOK"
 - "infanterie GI-DKOK"
@@ -28,14 +27,10 @@ tags:
 - "GI GI-DKOK"
 - "epic GI GI-DKOK"
 - "infanterie GI GI-DKOK"
-- "epic infanterie GI GI-DKOK"
 - "Humains-qg GI-DKOK"
 - "epic Humains-qg GI-DKOK"
 - "infanterie Humains-qg GI-DKOK"
-- "epic infanterie Humains-qg GI-DKOK"
 - "GI Humains-qg GI-DKOK"
-- "epic GI Humains-qg GI-DKOK"
-- "infanterie GI Humains-qg GI-DKOK"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,25 +38,15 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-qg SUP"
 - "epic Humains-qg SUP"
 - "infanterie Humains-qg SUP"
-- "epic infanterie Humains-qg SUP"
 - "GI Humains-qg SUP"
-- "epic GI Humains-qg SUP"
-- "infanterie GI Humains-qg SUP"
 - "GI-DKOK SUP"
 - "epic GI-DKOK SUP"
 - "infanterie GI-DKOK SUP"
-- "epic infanterie GI-DKOK SUP"
 - "GI GI-DKOK SUP"
-- "epic GI GI-DKOK SUP"
-- "infanterie GI GI-DKOK SUP"
 - "Humains-qg GI-DKOK SUP"
-- "epic Humains-qg GI-DKOK SUP"
-- "infanterie Humains-qg GI-DKOK SUP"
-- "GI Humains-qg GI-DKOK SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -76,7 +61,6 @@ tags:
 - "GI Humains-tactiques"
 - "epic GI Humains-tactiques"
 - "infanterie GI Humains-tactiques"
-- "epic infanterie GI Humains-tactiques"
 - "GI-DKOK"
 - "epic GI-DKOK"
 - "infanterie GI-DKOK"
@@ -84,14 +68,10 @@ tags:
 - "GI GI-DKOK"
 - "epic GI GI-DKOK"
 - "infanterie GI GI-DKOK"
-- "epic infanterie GI GI-DKOK"
 - "Humains-tactiques GI-DKOK"
 - "epic Humains-tactiques GI-DKOK"
 - "infanterie Humains-tactiques GI-DKOK"
-- "epic infanterie Humains-tactiques GI-DKOK"
 - "GI Humains-tactiques GI-DKOK"
-- "epic GI Humains-tactiques GI-DKOK"
-- "infanterie GI Humains-tactiques GI-DKOK"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -99,33 +79,23 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-tactiques SUP"
 - "epic Humains-tactiques SUP"
 - "infanterie Humains-tactiques SUP"
-- "epic infanterie Humains-tactiques SUP"
 - "GI Humains-tactiques SUP"
-- "epic GI Humains-tactiques SUP"
-- "infanterie GI Humains-tactiques SUP"
 - "GI-DKOK SUP"
 - "epic GI-DKOK SUP"
 - "infanterie GI-DKOK SUP"
-- "epic infanterie GI-DKOK SUP"
 - "GI GI-DKOK SUP"
-- "epic GI GI-DKOK SUP"
-- "infanterie GI GI-DKOK SUP"
 - "Humains-tactiques GI-DKOK SUP"
-- "epic Humains-tactiques GI-DKOK SUP"
-- "infanterie Humains-tactiques GI-DKOK SUP"
-- "GI Humains-tactiques GI-DKOK SUP"
 
 ---
 
-![](<thumbs_-_krieg_8mm_-_Images_1.jpg> "thumbs_-_krieg_8mm_-_Images_1.jpg")
+![](<thumbs_-_Darkgiver_-_krieg_8mm_-_Images_1.avif> "thumbs_-_Darkgiver_-_krieg_8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_krieg_8mm_-_ImagesSTL_1.jpg> "thumbs_-_krieg_8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Darkgiver_-_krieg_8mm_-_ImagesSTL_1.avif> "thumbs_-_Darkgiver_-_krieg_8mm_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_krieg_8mm_-_Makes_1.jpg> "thumbs_-_krieg_8mm_-_Makes_1.jpg")
+  ![](<thumbs_-_Darkgiver_-_krieg_8mm_-_Makes_1.avif> "thumbs_-_Darkgiver_-_krieg_8mm_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Bishok > Epic_Tank_6mm [dl]"
 date: "2023-04-06T16:06:24Z"
 toc: true
-image: "thumbs_-_epic-tank-6mm_-_Images_1.jpg"
+image: "thumbs_-_epic-tank-6mm_-_Images_1.avif"
 tags:
 - "Bishok"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-tanks"
 - "epic ORKS Orks-tanks"
 - "vehicules ORKS Orks-tanks"
-- "epic vehicules ORKS Orks-tanks"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "vehicules ORKS NONSUP"
-- "epic vehicules ORKS NONSUP"
 - "Orks-tanks NONSUP"
 - "epic Orks-tanks NONSUP"
 - "vehicules Orks-tanks NONSUP"
-- "epic vehicules Orks-tanks NONSUP"
 - "ORKS Orks-tanks NONSUP"
-- "epic ORKS Orks-tanks NONSUP"
-- "vehicules ORKS Orks-tanks NONSUP"
 
 ---
 
-![](<thumbs_-_epic-tank-6mm_-_Images_1.jpg> "thumbs_-_epic-tank-6mm_-_Images_1.jpg")
+![](<thumbs_-_epic-tank-6mm_-_Images_1.avif> "thumbs_-_epic-tank-6mm_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-tank-6mm_-_ImagesSTL_1.jpg> "thumbs_-_epic-tank-6mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-tank-6mm_-_ImagesSTL_1.avif> "thumbs_-_epic-tank-6mm_-_ImagesSTL_1.avif")
 
   
 

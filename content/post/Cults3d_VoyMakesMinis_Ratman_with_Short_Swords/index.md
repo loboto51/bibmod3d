@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > VoyMakesMinis > Ratman_with_Short_Swords [dl]"
 date: "2026-04-06T10:20:29Z"
 toc: true
-image: "thumbs_-_ratman-with-short-swords_-_Images_1.jpg"
+image: "thumbs_-_ratman-with-short-swords_-_Images_1.avif"
 tags:
 - "VoyMakesMinis"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_ratman-with-short-swords_-_Images_1.jpg> "thumbs_-_ratman-with-short-swords_-_Images_1.jpg")
+![](<thumbs_-_ratman-with-short-swords_-_Images_1.avif> "thumbs_-_ratman-with-short-swords_-_Images_1.avif")
 
-  ![](<thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.jpg> "thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.avif> "thumbs_-_ratman-with-short-swords_-_ImagesSTL_1.avif")
 
   
 

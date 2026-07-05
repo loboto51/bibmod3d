@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Lordogre > Eoxian_starships_for_Starfinder_ [non dl]"
 date: "2020-09-18T16:44:12+00:00"
 toc: true
-image: "thumbs_-_4600230_-_Images_1.jpg"
+image: "thumbs_-_4600230_-_Images_1.avif"
 tags:
 - "Lordogre"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Vaisseaux-divers NONDL"
 - "bfg Vaisseaux-divers NONDL"
 - "ALIENS-DIVERS Vaisseaux-divers NONDL"
-- "bfg ALIENS-DIVERS Vaisseaux-divers NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "ALIENS-DIVERS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Vaisseaux-divers NONSUP"
 - "bfg Vaisseaux-divers NONSUP"
 - "ALIENS-DIVERS Vaisseaux-divers NONSUP"
-- "bfg ALIENS-DIVERS Vaisseaux-divers NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "ALIENS-DIVERS NONDL NONSUP"
-- "bfg ALIENS-DIVERS NONDL NONSUP"
 - "Vaisseaux-divers NONDL NONSUP"
-- "bfg Vaisseaux-divers NONDL NONSUP"
-- "ALIENS-DIVERS Vaisseaux-divers NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4600230_-_Images_1.jpg> "thumbs_-_4600230_-_Images_1.jpg")
+![](<thumbs_-_4600230_-_Images_1.avif> "thumbs_-_4600230_-_Images_1.avif")
 
   
 

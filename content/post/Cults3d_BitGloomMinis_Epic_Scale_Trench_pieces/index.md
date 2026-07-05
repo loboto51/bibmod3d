@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > BitGloomMinis > Epic_Scale_Trench_pieces [non dl]"
 date: "2023-04-16T12:30:15Z"
 toc: true
-image: "thumbs_-_epic-scale-trench-pieces_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-trench-pieces_-_Images_1.avif"
 tags:
 - "BitGloomMinis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Barricades"
 - "epic IMP Barricades"
 - "decors IMP Barricades"
-- "epic decors IMP Barricades"
 - "NONDL"
 - "epic NONDL"
 - "decors NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "decors IMP NONDL"
-- "epic decors IMP NONDL"
 - "Barricades NONDL"
 - "epic Barricades NONDL"
 - "decors Barricades NONDL"
-- "epic decors Barricades NONDL"
 - "IMP Barricades NONDL"
-- "epic IMP Barricades NONDL"
-- "decors IMP Barricades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "decors IMP NONSUP"
-- "epic decors IMP NONSUP"
 - "Barricades NONSUP"
 - "epic Barricades NONSUP"
 - "decors Barricades NONSUP"
-- "epic decors Barricades NONSUP"
 - "IMP Barricades NONSUP"
-- "epic IMP Barricades NONSUP"
-- "decors IMP Barricades NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Barricades NONDL NONSUP"
-- "epic Barricades NONDL NONSUP"
-- "decors Barricades NONDL NONSUP"
-- "IMP Barricades NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-trench-pieces_-_Images_1.jpg> "thumbs_-_epic-scale-trench-pieces_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-trench-pieces_-_Images_1.avif> "thumbs_-_epic-scale-trench-pieces_-_Images_1.avif")
 
   
 

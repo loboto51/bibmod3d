@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Expanded_Tactical_Robed_Galactic_Crusaders [dl]"
 date: "2024-05-27T00:09:21Z"
 toc: true
-image: "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.jpg"
+image: "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC SM-tactiques"
 - "epic SMC SM-tactiques"
 - "infanterie SMC SM-tactiques"
-- "epic infanterie SMC SM-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "SM-tactiques NONSUP"
 - "epic SM-tactiques NONSUP"
 - "infanterie SM-tactiques NONSUP"
-- "epic infanterie SM-tactiques NONSUP"
 - "SMC SM-tactiques NONSUP"
-- "epic SMC SM-tactiques NONSUP"
-- "infanterie SMC SM-tactiques NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -80,7 +70,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "SMI-DA"
 - "epic SMI-DA"
 - "infanterie SMI-DA"
@@ -88,14 +77,10 @@ tags:
 - "SMI SMI-DA"
 - "epic SMI SMI-DA"
 - "infanterie SMI SMI-DA"
-- "epic infanterie SMI SMI-DA"
 - "Sm-tactiques SMI-DA"
 - "epic Sm-tactiques SMI-DA"
 - "infanterie Sm-tactiques SMI-DA"
-- "epic infanterie Sm-tactiques SMI-DA"
 - "SMI Sm-tactiques SMI-DA"
-- "epic SMI Sm-tactiques SMI-DA"
-- "infanterie SMI Sm-tactiques SMI-DA"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -103,81 +88,71 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 - "SMI-DA NONSUP"
 - "epic SMI-DA NONSUP"
 - "infanterie SMI-DA NONSUP"
-- "epic infanterie SMI-DA NONSUP"
 - "SMI SMI-DA NONSUP"
-- "epic SMI SMI-DA NONSUP"
-- "infanterie SMI SMI-DA NONSUP"
 - "Sm-tactiques SMI-DA NONSUP"
-- "epic Sm-tactiques SMI-DA NONSUP"
-- "infanterie Sm-tactiques SMI-DA NONSUP"
-- "SMI Sm-tactiques SMI-DA NONSUP"
 
 ---
 
-![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.jpg")
+![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_Images_1.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_10.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_10.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_10.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_10.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_11.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_11.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_11.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_11.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_12.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_12.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_12.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_12.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_13.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_13.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_13.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_13.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_14.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_14.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_14.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_14.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_15.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_15.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_15.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_15.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_16.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_16.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_16.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_16.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_17.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_17.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_17.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_17.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_18.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_18.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_18.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_18.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_19.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_19.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_19.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_19.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_1.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_1.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_20.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_20.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_20.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_20.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_21.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_21.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_21.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_21.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_22.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_22.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_22.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_22.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_23.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_23.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_23.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_23.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_24.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_24.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_24.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_24.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_25.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_25.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_25.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_25.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_26.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_26.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_26.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_26.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_2.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_2.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_3.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_3.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_3.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_4.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_4.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_4.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_4.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_5.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_5.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_5.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_5.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_6.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_6.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_6.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_6.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_7.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_7.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_7.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_7.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_8.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_8.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_8.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_8.avif")
 
-  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_9.jpg> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_9.jpg")
+  ![](<thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_9.avif> "thumbs_-_expanded-tactical-robed-galactic-crusaders-38141c0d0d9e10cd6bda_-_ImagesSTL_9.avif")
 
   
 

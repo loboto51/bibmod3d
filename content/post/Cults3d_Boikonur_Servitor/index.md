@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Boikonur > Servitor [non dl]"
 date: "2025-02-28T12:45:12Z"
 toc: true
-image: "thumbs_-_servitor-boikonur_-_Images_1.jpg"
+image: "thumbs_-_servitor-boikonur_-_Images_1.avif"
 tags:
 - "Boikonur"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Serviteurs"
 - "epic AM Serviteurs"
 - "infanterie AM Serviteurs"
-- "epic infanterie AM Serviteurs"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "epic AM NONDL"
 - "infanterie AM NONDL"
-- "epic infanterie AM NONDL"
 - "Serviteurs NONDL"
 - "epic Serviteurs NONDL"
 - "infanterie Serviteurs NONDL"
-- "epic infanterie Serviteurs NONDL"
 - "AM Serviteurs NONDL"
-- "epic AM Serviteurs NONDL"
-- "infanterie AM Serviteurs NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
-- "epic infanterie AM NONSUP"
 - "Serviteurs NONSUP"
 - "epic Serviteurs NONSUP"
 - "infanterie Serviteurs NONSUP"
-- "epic infanterie Serviteurs NONSUP"
 - "AM Serviteurs NONSUP"
-- "epic AM Serviteurs NONSUP"
-- "infanterie AM Serviteurs NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "AM NONDL NONSUP"
-- "epic AM NONDL NONSUP"
-- "infanterie AM NONDL NONSUP"
 - "Serviteurs NONDL NONSUP"
-- "epic Serviteurs NONDL NONSUP"
-- "infanterie Serviteurs NONDL NONSUP"
-- "AM Serviteurs NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_servitor-boikonur_-_Images_1.jpg> "thumbs_-_servitor-boikonur_-_Images_1.jpg")
+![](<thumbs_-_servitor-boikonur_-_Images_1.avif> "thumbs_-_servitor-boikonur_-_Images_1.avif")
 
   
 

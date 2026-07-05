@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > The_Tiny_Slayer_and_the_Tiny_Poet [dl]"
 date: "2024-03-29T14:00:51+00:00"
 toc: true
-image: "thumbs_-_6555043_-_Images_1.jpg"
+image: "thumbs_-_6555043_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "MERCENAIRES NONSUP"
 - "warmaster MERCENAIRES NONSUP"
 - "HUMAINS MERCENAIRES NONSUP"
-- "warmaster HUMAINS MERCENAIRES NONSUP"
 
 ---
 
-![](<thumbs_-_6555043_-_Images_1.jpg> "thumbs_-_6555043_-_Images_1.jpg")
+![](<thumbs_-_6555043_-_Images_1.avif> "thumbs_-_6555043_-_Images_1.avif")
 
-  ![](<thumbs_-_6555043_-_ImagesSTL_1.jpg> "thumbs_-_6555043_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6555043_-_ImagesSTL_1.avif> "thumbs_-_6555043_-_ImagesSTL_1.avif")
 
   
 

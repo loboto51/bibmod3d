@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > TJ_Tessalated > Glider_for_beast_wrangler [dl]"
 date: "2023-08-27T17:14:03Z"
 toc: true
-image: "thumbs_-_glider-for-beast-wrangler_-_Images_1.jpg"
+image: "thumbs_-_glider-for-beast-wrangler_-_Images_1.avif"
 tags:
 - "TJ_Tessalated"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "EN NONSUP"
 - "28mm EN NONSUP"
 - "ELDARS EN NONSUP"
-- "28mm ELDARS EN NONSUP"
 
 ---
 
-![](<thumbs_-_glider-for-beast-wrangler_-_Images_1.jpg> "thumbs_-_glider-for-beast-wrangler_-_Images_1.jpg")
+![](<thumbs_-_glider-for-beast-wrangler_-_Images_1.avif> "thumbs_-_glider-for-beast-wrangler_-_Images_1.avif")
 
-  ![](<thumbs_-_glider-for-beast-wrangler_-_ImagesSTL_1.jpg> "thumbs_-_glider-for-beast-wrangler_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_glider-for-beast-wrangler_-_ImagesSTL_1.avif> "thumbs_-_glider-for-beast-wrangler_-_ImagesSTL_1.avif")
 
   
 

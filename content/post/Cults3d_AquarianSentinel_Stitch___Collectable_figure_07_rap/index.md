@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > AquarianSentinel > Stitch___Collectable_figure_07_rap [non dl]"
 date: "2025-09-09T04:16:06Z"
 toc: true
-image: "thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.jpg"
+image: "thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.avif"
 tags:
 - "AquarianSentinel"
 - "autres-echelles"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.jpg> "thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.jpg")
+![](<thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.avif> "thumbs_-_stitch-collectable-figure-07-rap_-_Images_1.avif")
 
   
 

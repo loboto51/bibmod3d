@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DasModell > Putrid_bodyguard_bilder [dl]"
 date: "2024-11-02T07:27:00Z"
 toc: true
-image: "thumbs_-_putrid-bodyguard_-_Images_1.jpg"
+image: "thumbs_-_putrid-bodyguard_-_Images_1.avif"
 tags:
 - "DasModell"
 - "28mm"
@@ -20,15 +20,14 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_putrid-bodyguard_-_Images_1.jpg> "thumbs_-_putrid-bodyguard_-_Images_1.jpg")
+![](<thumbs_-_putrid-bodyguard_-_Images_1.avif> "thumbs_-_putrid-bodyguard_-_Images_1.avif")
 
-  ![](<thumbs_-_putrid-bodyguard_-_ImagesSTL_1.jpg> "thumbs_-_putrid-bodyguard_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_putrid-bodyguard_-_ImagesSTL_1.avif> "thumbs_-_putrid-bodyguard_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_putrid-bodyguard_-_Makes_1.jpg> "thumbs_-_putrid-bodyguard_-_Makes_1.jpg")
+  ![](<thumbs_-_putrid-bodyguard_-_Makes_1.avif> "thumbs_-_putrid-bodyguard_-_Makes_1.avif")
 
   
 

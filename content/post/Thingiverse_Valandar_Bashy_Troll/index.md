@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Valandar > Bashy_Troll [non dl]"
 date: "2018-07-25T03:19:10+00:00"
 toc: true
-image: "thumbs_-_3018963_-_Images_1.jpg"
+image: "thumbs_-_3018963_-_Images_1.avif"
 tags:
 - "Valandar"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "ORCS Trolls"
 - "warmaster ORCS Trolls"
 - "GOBELINS ORCS Trolls"
-- "warmaster GOBELINS ORCS Trolls"
 - "NONDL"
 - "warmaster NONDL"
 - "GOBELINS NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORCS NONDL"
 - "warmaster ORCS NONDL"
 - "GOBELINS ORCS NONDL"
-- "warmaster GOBELINS ORCS NONDL"
 - "Trolls NONDL"
 - "warmaster Trolls NONDL"
 - "GOBELINS Trolls NONDL"
-- "warmaster GOBELINS Trolls NONDL"
 - "ORCS Trolls NONDL"
-- "warmaster ORCS Trolls NONDL"
-- "GOBELINS ORCS Trolls NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "GOBELINS NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "ORCS NONSUP"
 - "warmaster ORCS NONSUP"
 - "GOBELINS ORCS NONSUP"
-- "warmaster GOBELINS ORCS NONSUP"
 - "Trolls NONSUP"
 - "warmaster Trolls NONSUP"
 - "GOBELINS Trolls NONSUP"
-- "warmaster GOBELINS Trolls NONSUP"
 - "ORCS Trolls NONSUP"
-- "warmaster ORCS Trolls NONSUP"
-- "GOBELINS ORCS Trolls NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "GOBELINS NONDL NONSUP"
-- "warmaster GOBELINS NONDL NONSUP"
 - "ORCS NONDL NONSUP"
-- "warmaster ORCS NONDL NONSUP"
-- "GOBELINS ORCS NONDL NONSUP"
 - "Trolls NONDL NONSUP"
-- "warmaster Trolls NONDL NONSUP"
-- "GOBELINS Trolls NONDL NONSUP"
-- "ORCS Trolls NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3018963_-_Images_1.jpg> "thumbs_-_3018963_-_Images_1.jpg")
+![](<thumbs_-_3018963_-_Images_1.avif> "thumbs_-_3018963_-_Images_1.avif")
 
-  ![](<thumbs_-_3018963_-_Makes_1.jpg> "thumbs_-_3018963_-_Makes_1.jpg")
+  ![](<thumbs_-_3018963_-_Makes_1.avif> "thumbs_-_3018963_-_Makes_1.avif")
 
   
 

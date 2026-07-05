@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > NyanCommissar > 8mm_Space_Elves_Smallwraith_Pack [dl]"
 date: "2023-08-14T06:42:50Z"
 toc: true
-image: "thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.jpg"
+image: "thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.avif"
 tags:
 - "NyanCommissar"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-Gardes-Fantômes"
 - "epic VM Eldars-Gardes-Fantômes"
 - "infanterie VM Eldars-Gardes-Fantômes"
-- "epic infanterie VM Eldars-Gardes-Fantômes"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-Gardes-Fantômes SUP"
 - "epic Eldars-Gardes-Fantômes SUP"
 - "infanterie Eldars-Gardes-Fantômes SUP"
-- "epic infanterie Eldars-Gardes-Fantômes SUP"
 - "VM Eldars-Gardes-Fantômes SUP"
-- "epic VM Eldars-Gardes-Fantômes SUP"
-- "infanterie VM Eldars-Gardes-Fantômes SUP"
 
 ---
 
-![](<thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.jpg> "thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.jpg")
+![](<thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.avif> "thumbs_-_8mm-space-elves-smallwraith-pack_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-space-elves-smallwraith-pack_-_ImagesSTL_1.jpg> "thumbs_-_8mm-space-elves-smallwraith-pack_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-space-elves-smallwraith-pack_-_ImagesSTL_1.avif> "thumbs_-_8mm-space-elves-smallwraith-pack_-_ImagesSTL_1.avif")
 
   
 

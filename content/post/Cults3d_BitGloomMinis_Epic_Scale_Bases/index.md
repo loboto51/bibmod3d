@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > BitGloomMinis > Epic_Scale_Bases [non dl]"
 date: "2023-06-04T20:40:04Z"
 toc: true
-image: "thumbs_-_epic-scale-bases_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-bases_-_Images_1.avif"
 tags:
 - "BitGloomMinis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "SUP"
 - "epic SUP"
 - "SOCLES SUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS SUP"
 - "epic DIVERS SUP"
 - "SOCLES DIVERS SUP"
-- "epic SOCLES DIVERS SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "SOCLES NONDL SUP"
-- "epic SOCLES NONDL SUP"
 - "DIVERS NONDL SUP"
-- "epic DIVERS NONDL SUP"
-- "SOCLES DIVERS NONDL SUP"
 
 ---
 
-![](<thumbs_-_epic-scale-bases_-_Images_1.jpg> "thumbs_-_epic-scale-bases_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-bases_-_Images_1.avif> "thumbs_-_epic-scale-bases_-_Images_1.avif")
 
   
 

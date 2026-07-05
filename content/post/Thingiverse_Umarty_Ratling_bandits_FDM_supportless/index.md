@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Ratling_bandits_FDM_supportless [non dl]"
 date: "2025-10-17T07:11:23+00:00"
 toc: true
-image: "thumbs_-_7173409_-_Images_1.jpg"
+image: "thumbs_-_7173409_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7173409_-_Images_1.jpg> "thumbs_-_7173409_-_Images_1.jpg")
+![](<thumbs_-_7173409_-_Images_1.avif> "thumbs_-_7173409_-_Images_1.avif")
 
   
 

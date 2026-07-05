@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Yurasaka > Angry_Bunnyheads____heads [dl]"
 date: "2022-09-06T17:59:35Z"
 toc: true
-image: "thumbs_-_angry-bunnyheads-heads_-_Images_1.jpg"
+image: "thumbs_-_angry-bunnyheads-heads_-_Images_1.avif"
 tags:
 - "Yurasaka"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_angry-bunnyheads-heads_-_Images_1.jpg> "thumbs_-_angry-bunnyheads-heads_-_Images_1.jpg")
+![](<thumbs_-_angry-bunnyheads-heads_-_Images_1.avif> "thumbs_-_angry-bunnyheads-heads_-_Images_1.avif")
 
-  ![](<thumbs_-_angry-bunnyheads-heads_-_ImagesSTL_1.jpg> "thumbs_-_angry-bunnyheads-heads_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_angry-bunnyheads-heads_-_ImagesSTL_1.avif> "thumbs_-_angry-bunnyheads-heads_-_ImagesSTL_1.avif")
 
   
 

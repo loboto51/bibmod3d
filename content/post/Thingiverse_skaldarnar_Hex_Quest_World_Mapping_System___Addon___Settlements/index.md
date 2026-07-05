@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > skaldarnar > Hex_Quest_World_Mapping_System___Addon___Settlements [non dl]"
 date: "2020-01-25T17:56:42+00:00"
 toc: true
-image: "thumbs_-_4126808_-_Images_1.jpg"
+image: "thumbs_-_4126808_-_Images_1.avif"
 tags:
 - "skaldarnar"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4126808_-_Images_1.jpg> "thumbs_-_4126808_-_Images_1.jpg")
+![](<thumbs_-_4126808_-_Images_1.avif> "thumbs_-_4126808_-_Images_1.avif")
 
   
 

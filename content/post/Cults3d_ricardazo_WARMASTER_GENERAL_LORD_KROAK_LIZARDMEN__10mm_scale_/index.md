@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > ricardazo > WARMASTER_GENERAL_LORD_KROAK_LIZARDMEN__10mm_scale_ [non dl]"
 date: "2024-08-01T23:43:56Z"
 toc: true
-image: "thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.jpg"
+image: "thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.avif"
 tags:
 - "ricardazo"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "HOMMES-LEZARDS NONDL SUP"
-- "warmaster HOMMES-LEZARDS NONDL SUP"
 
 ---
 
-![](<thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.jpg> "thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.jpg")
+![](<thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.avif> "thumbs_-_warmaster-lord-kroak-lizardmen-10mm-scale_-_Images_1.avif")
 
   
 

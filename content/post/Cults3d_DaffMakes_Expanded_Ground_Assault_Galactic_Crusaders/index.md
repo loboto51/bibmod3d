@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Expanded_Ground_Assault_Galactic_Crusaders [dl]"
 date: "2024-06-09T22:01:40Z"
 toc: true
-image: "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.jpg"
+image: "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -80,7 +70,6 @@ tags:
 - "SMC Sm-assaut"
 - "epic SMC Sm-assaut"
 - "infanterie SMC Sm-assaut"
-- "epic infanterie SMC Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -88,14 +77,10 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMC Sm-assaut NONSUP"
-- "epic SMC Sm-assaut NONSUP"
-- "infanterie SMC Sm-assaut NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -110,7 +95,6 @@ tags:
 - "SMI Sm-assaut"
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
-- "epic infanterie SMI Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -118,38 +102,34 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.jpg")
+![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_Images_1.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_10.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_10.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_10.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_10.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_1.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_1.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_2.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_2.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_3.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_3.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_3.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_4.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_4.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_4.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_4.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_5.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_5.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_5.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_5.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_6.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_6.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_6.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_6.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_7.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_7.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_7.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_7.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_8.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_8.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_8.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_8.avif")
 
-  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_9.jpg> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_9.jpg")
+  ![](<thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_9.avif> "thumbs_-_expanded-ground-assault-galactic-crusaders-8d85b2d28dbd5f8e2c62_-_ImagesSTL_9.avif")
 
   
 

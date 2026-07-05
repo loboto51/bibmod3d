@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Gyrocopter [dl]"
 date: "2025-08-12T22:05:45+00:00"
 toc: true
-image: "thumbs_-_7116605_-_Images_1.jpg"
+image: "thumbs_-_7116605_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_7116605_-_Images_1.jpg> "thumbs_-_7116605_-_Images_1.jpg")
+![](<thumbs_-_7116605_-_Images_1.avif> "thumbs_-_7116605_-_Images_1.avif")
 
-  ![](<thumbs_-_7116605_-_ImagesSTL_1.jpg> "thumbs_-_7116605_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7116605_-_ImagesSTL_1.avif> "thumbs_-_7116605_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_7116605_-_Makes_1.jpg> "thumbs_-_7116605_-_Makes_1.jpg")
+  ![](<thumbs_-_7116605_-_Makes_1.avif> "thumbs_-_7116605_-_Makes_1.avif")
 
   
 

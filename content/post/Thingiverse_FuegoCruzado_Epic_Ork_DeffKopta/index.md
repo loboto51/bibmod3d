@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > FuegoCruzado > Epic_Ork_DeffKopta [dl]"
 date: "2018-01-27T16:01:55+00:00"
 toc: true
-image: "thumbs_-_2771943_-_Images_1.jpg"
+image: "thumbs_-_2771943_-_Images_1.avif"
 tags:
 - "FuegoCruzado"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-kopters"
 - "epic ORKS Orks-kopters"
 - "vehicules ORKS Orks-kopters"
-- "epic vehicules ORKS Orks-kopters"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "vehicules ORKS NONSUP"
-- "epic vehicules ORKS NONSUP"
 - "Orks-kopters NONSUP"
 - "epic Orks-kopters NONSUP"
 - "vehicules Orks-kopters NONSUP"
-- "epic vehicules Orks-kopters NONSUP"
 - "ORKS Orks-kopters NONSUP"
-- "epic ORKS Orks-kopters NONSUP"
-- "vehicules ORKS Orks-kopters NONSUP"
 
 ---
 
-![](<thumbs_-_2771943_-_Images_1.jpg> "thumbs_-_2771943_-_Images_1.jpg")
+![](<thumbs_-_2771943_-_Images_1.avif> "thumbs_-_2771943_-_Images_1.avif")
 
-  ![](<thumbs_-_2771943_-_ImagesSTL_1.jpg> "thumbs_-_2771943_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_2771943_-_ImagesSTL_1.avif> "thumbs_-_2771943_-_ImagesSTL_1.avif")
 
   
 

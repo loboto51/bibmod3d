@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lishainik > Tiny_Alien_Coalition_Calamity_Armor_Test_Figure [dl]"
 date: "2026-04-25T21:06:39Z"
 toc: true
-image: "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg"
+image: "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.avif"
 tags:
 - "lishainik"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TAU Armures"
 - "epic TAU Armures"
 - "infanterie TAU Armures"
-- "epic infanterie TAU Armures"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "TAU NONSUP"
 - "epic TAU NONSUP"
 - "infanterie TAU NONSUP"
-- "epic infanterie TAU NONSUP"
 - "Armures NONSUP"
 - "epic Armures NONSUP"
 - "infanterie Armures NONSUP"
-- "epic infanterie Armures NONSUP"
 - "TAU Armures NONSUP"
-- "epic TAU Armures NONSUP"
-- "infanterie TAU Armures NONSUP"
 
 ---
 
-![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.jpg")
+![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.avif> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_Images_1.avif")
 
-  ![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.jpg> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.avif> "thumbs_-_tiny-alien-coalition-calamity-armor-test-figure_-_ImagesSTL_1.avif")
 
   
 

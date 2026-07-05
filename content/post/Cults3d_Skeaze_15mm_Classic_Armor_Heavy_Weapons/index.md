@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Skeaze > 15mm_Classic_Armor_Heavy_Weapons [non dl]"
 date: "2024-02-19T17:49:24Z"
 toc: true
-image: "thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.jpg"
+image: "thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.avif"
 tags:
 - "Skeaze"
 - "15mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "15mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.jpg> "thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.jpg")
+![](<thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.avif> "thumbs_-_15mm-classic-armor-heavy-weapons_-_Images_1.avif")
 
   
 

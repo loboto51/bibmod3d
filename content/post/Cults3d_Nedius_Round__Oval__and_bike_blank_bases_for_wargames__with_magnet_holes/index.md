@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nedius > Round__Oval__and_bike_blank_bases_for_wargames__with_magnet_holes [non dl]"
 date: "2025-02-17T16:41:27Z"
 toc: true
-image: "thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.jpg"
+image: "thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.avif"
 tags:
 - "Nedius"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.jpg> "thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.jpg")
+![](<thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.avif> "thumbs_-_round-oval-and-bike-blank-bases-for-wargames-with-magnets_-_Images_1.avif")
 
   
 

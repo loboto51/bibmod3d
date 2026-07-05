@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ClayRade > Zombies___All_of_them_ [non dl]"
 date: "2023-01-06T00:57:55+00:00"
 toc: true
-image: "thumbs_-_5768192_-_Images_1.jpg"
+image: "thumbs_-_5768192_-_Images_1.avif"
 tags:
 - "ClayRade"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5768192_-_Images_1.jpg> "thumbs_-_5768192_-_Images_1.jpg")
+![](<thumbs_-_5768192_-_Images_1.avif> "thumbs_-_5768192_-_Images_1.avif")
 
   
 

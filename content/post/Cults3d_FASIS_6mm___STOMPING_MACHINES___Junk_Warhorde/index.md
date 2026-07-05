@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > FASIS > 6mm___STOMPING_MACHINES___Junk_Warhorde [dl]"
 date: "2026-06-29T07:55:27Z"
 toc: true
-image: "thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.jpg"
+image: "thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.avif"
 tags:
 - "FASIS"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-stompas"
 - "epic ORKS Orks-stompas"
 - "chevaliers ORKS Orks-stompas"
-- "epic chevaliers ORKS Orks-stompas"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "chevaliers ORKS NONSUP"
-- "epic chevaliers ORKS NONSUP"
 - "Orks-stompas NONSUP"
 - "epic Orks-stompas NONSUP"
 - "chevaliers Orks-stompas NONSUP"
-- "epic chevaliers Orks-stompas NONSUP"
 - "ORKS Orks-stompas NONSUP"
-- "epic ORKS Orks-stompas NONSUP"
-- "chevaliers ORKS Orks-stompas NONSUP"
 - "epic"
 - "titans"
 - "epic titans"
@@ -50,7 +45,6 @@ tags:
 - "ORKS Orks-gargants"
 - "epic ORKS Orks-gargants"
 - "titans ORKS Orks-gargants"
-- "epic titans ORKS Orks-gargants"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -58,20 +52,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "titans ORKS NONSUP"
-- "epic titans ORKS NONSUP"
 - "Orks-gargants NONSUP"
 - "epic Orks-gargants NONSUP"
 - "titans Orks-gargants NONSUP"
-- "epic titans Orks-gargants NONSUP"
 - "ORKS Orks-gargants NONSUP"
-- "epic ORKS Orks-gargants NONSUP"
-- "titans ORKS Orks-gargants NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.jpg> "thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.jpg")
+![](<thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.avif> "thumbs_-_6mm-stomping-machines-junk-warhorde_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-stomping-machines-junk-warhorde_-_ImagesSTL_1.jpg> "thumbs_-_6mm-stomping-machines-junk-warhorde_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-stomping-machines-junk-warhorde_-_ImagesSTL_1.avif> "thumbs_-_6mm-stomping-machines-junk-warhorde_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > __Ygreck__ > GASMASK_COMPANY___PANZER_GRENADIERS__FREE_SAMPLE [dl]"
 date: "2025-12-07T17:34:27Z"
 toc: true
-image: "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.jpg"
+image: "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.avif"
 tags:
 - "__Ygreck__"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "ARBITES GI"
 - "28mm ARBITES GI"
 - "IMP ARBITES GI"
-- "28mm IMP ARBITES GI"
 - "HUMAINS"
 - "28mm HUMAINS"
 - "IMP HUMAINS"
@@ -28,14 +27,10 @@ tags:
 - "ARBITES HUMAINS"
 - "28mm ARBITES HUMAINS"
 - "IMP ARBITES HUMAINS"
-- "28mm IMP ARBITES HUMAINS"
 - "GI HUMAINS"
 - "28mm GI HUMAINS"
 - "IMP GI HUMAINS"
-- "28mm IMP GI HUMAINS"
 - "ARBITES GI HUMAINS"
-- "28mm ARBITES GI HUMAINS"
-- "IMP ARBITES GI HUMAINS"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -43,31 +38,21 @@ tags:
 - "ARBITES SUP"
 - "28mm ARBITES SUP"
 - "IMP ARBITES SUP"
-- "28mm IMP ARBITES SUP"
 - "GI SUP"
 - "28mm GI SUP"
 - "IMP GI SUP"
-- "28mm IMP GI SUP"
 - "ARBITES GI SUP"
-- "28mm ARBITES GI SUP"
-- "IMP ARBITES GI SUP"
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
 - "ARBITES HUMAINS SUP"
-- "28mm ARBITES HUMAINS SUP"
-- "IMP ARBITES HUMAINS SUP"
 - "GI HUMAINS SUP"
-- "28mm GI HUMAINS SUP"
-- "IMP GI HUMAINS SUP"
-- "ARBITES GI HUMAINS SUP"
 
 ---
 
-![](<thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.jpg> "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.jpg")
+![](<thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.avif> "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_Images_1.avif")
 
-  ![](<thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_ImagesSTL_1.jpg> "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_ImagesSTL_1.avif> "thumbs_-_gasmask-company-panzer-grenadiers-free-sample_-_ImagesSTL_1.avif")
 
   
 

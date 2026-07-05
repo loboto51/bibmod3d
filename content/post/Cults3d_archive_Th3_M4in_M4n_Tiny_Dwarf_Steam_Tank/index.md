@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d_archive > Th3_M4in_M4n > Tiny_Dwarf_Steam_Tank [dl]"
 date: "2024-09-20T21:31:12Z"
 toc: true
-image: "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.jpg"
+image: "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.jpg> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.jpg")
+![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.avif> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Images_1.avif")
 
-  ![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_ImagesSTL_1.jpg> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_ImagesSTL_1.avif> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Makes_1.jpg> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Makes_1.jpg")
+  ![](<thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Makes_1.avif> "thumbs_-_tiny-dwarf-steam-tank-juantastic_-_Makes_1.avif")
 
   
 

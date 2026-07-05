@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Toad35 > Socle_wargame_6_7_8mm [non dl]"
 date: "2021-08-09T12:30:24Z"
 toc: true
-image: "thumbs_-_socle-wargame-6-7-8mm_-_Images_1.jpg"
+image: "thumbs_-_socle-wargame-6-7-8mm_-_Images_1.avif"
 tags:
 - "Toad35"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_socle-wargame-6-7-8mm_-_Images_1.jpg> "thumbs_-_socle-wargame-6-7-8mm_-_Images_1.jpg")
+![](<thumbs_-_socle-wargame-6-7-8mm_-_Images_1.avif> "thumbs_-_socle-wargame-6-7-8mm_-_Images_1.avif")
 
   
 

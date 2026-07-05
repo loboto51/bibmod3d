@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Pocket_HeroQuest_Minions_of_the_Witch_Lord [non dl]"
 date: "2024-10-11T23:35:34+00:00"
 toc: true
-image: "thumbs_-_6794787_-_Images_1.jpg"
+image: "thumbs_-_6794787_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6794787_-_Images_1.jpg> "thumbs_-_6794787_-_Images_1.jpg")
+![](<thumbs_-_6794787_-_Images_1.avif> "thumbs_-_6794787_-_Images_1.avif")
 
   
 

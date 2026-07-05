@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > MeshyMesh > Evil_Dwarf_Skullsplitter_28mm___10mm [non dl]"
 date: "2024-01-09T11:34:04Z"
 toc: true
-image: "thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.jpg"
+image: "thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.avif"
 tags:
 - "MeshyMesh"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "NAINS-DU-CHAOS NONDL SUP"
-- "warmaster NAINS-DU-CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.jpg> "thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.jpg")
+![](<thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.avif> "thumbs_-_evil-dwarf-skullsplitter-28mm_-_Images_1.avif")
 
   
 

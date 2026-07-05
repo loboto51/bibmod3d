@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Brother_Arminius_Miniatures > Fanart_Chaoticons_Highlord_6mm_15mm [dl]"
 date: "2024-07-31T15:37:06Z"
 toc: true
-image: "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.jpg"
+image: "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.avif"
 tags:
 - "Brother_Arminius_Miniatures"
 - "15mm"
@@ -27,7 +27,6 @@ tags:
 - "NEC Necrons-qg"
 - "epic NEC Necrons-qg"
 - "infanterie NEC Necrons-qg"
-- "epic infanterie NEC Necrons-qg"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -35,20 +34,16 @@ tags:
 - "NEC SUP"
 - "epic NEC SUP"
 - "infanterie NEC SUP"
-- "epic infanterie NEC SUP"
 - "Necrons-qg SUP"
 - "epic Necrons-qg SUP"
 - "infanterie Necrons-qg SUP"
-- "epic infanterie Necrons-qg SUP"
 - "NEC Necrons-qg SUP"
-- "epic NEC Necrons-qg SUP"
-- "infanterie NEC Necrons-qg SUP"
 
 ---
 
-![](<thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.jpg> "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.jpg")
+![](<thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.avif> "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_ImagesSTL_1.jpg> "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_ImagesSTL_1.avif> "thumbs_-_fanart-chaoticons-highlord-6mm-15mm_-_ImagesSTL_1.avif")
 
   
 

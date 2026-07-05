@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > Old_Space_Dweller_Citizen [dl]"
 date: "2021-05-22T15:05:22+00:00"
 toc: true
-image: "thumbs_-_4866095_-_Images_1.jpg"
+image: "thumbs_-_4866095_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-canons"
 - "epic VM Eldars-canons"
 - "infanterie VM Eldars-canons"
-- "epic infanterie VM Eldars-canons"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Eldars-canons NONSUP"
 - "epic Eldars-canons NONSUP"
 - "infanterie Eldars-canons NONSUP"
-- "epic infanterie Eldars-canons NONSUP"
 - "VM Eldars-canons NONSUP"
-- "epic VM Eldars-canons NONSUP"
-- "infanterie VM Eldars-canons NONSUP"
 
 ---
 
-![](<thumbs_-_4866095_-_Images_1.jpg> "thumbs_-_4866095_-_Images_1.jpg")
+![](<thumbs_-_4866095_-_Images_1.avif> "thumbs_-_4866095_-_Images_1.avif")
 
-  ![](<thumbs_-_4866095_-_ImagesSTL_1.jpg> "thumbs_-_4866095_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4866095_-_ImagesSTL_1.avif> "thumbs_-_4866095_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Phantom_Warriors___Tech_Elves___8mm [non dl]"
 date: "2024-10-03T03:30:02Z"
 toc: true
-image: "thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-assaut-volants"
 - "epic VM Eldars-assaut-volants"
 - "infanterie VM Eldars-assaut-volants"
-- "epic infanterie VM Eldars-assaut-volants"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Eldars-assaut-volants NONDL"
 - "epic Eldars-assaut-volants NONDL"
 - "infanterie Eldars-assaut-volants NONDL"
-- "epic infanterie Eldars-assaut-volants NONDL"
 - "VM Eldars-assaut-volants NONDL"
-- "epic VM Eldars-assaut-volants NONDL"
-- "infanterie VM Eldars-assaut-volants NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-assaut-volants SUP"
 - "epic Eldars-assaut-volants SUP"
 - "infanterie Eldars-assaut-volants SUP"
-- "epic infanterie Eldars-assaut-volants SUP"
 - "VM Eldars-assaut-volants SUP"
-- "epic VM Eldars-assaut-volants SUP"
-- "infanterie VM Eldars-assaut-volants SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Eldars-assaut-volants NONDL SUP"
-- "epic Eldars-assaut-volants NONDL SUP"
-- "infanterie Eldars-assaut-volants NONDL SUP"
-- "VM Eldars-assaut-volants NONDL SUP"
 
 ---
 
-![](<thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.jpg> "thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.avif> "thumbs_-_phantom-warriors-tech-elves-8mm_-_Images_1.avif")
 
   
 

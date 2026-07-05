@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KJdidit > Epic_Generic_Star_God [non dl]"
 date: "2020-04-20T07:38:24+00:00"
 toc: true
-image: "thumbs_-_4300312_-_Images_1.jpg"
+image: "thumbs_-_4300312_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "NEC Necrons-ctans"
 - "epic NEC Necrons-ctans"
 - "chevaliers NEC Necrons-ctans"
-- "epic chevaliers NEC Necrons-ctans"
 - "NONDL"
 - "epic NONDL"
 - "chevaliers NONDL"
@@ -28,14 +27,10 @@ tags:
 - "NEC NONDL"
 - "epic NEC NONDL"
 - "chevaliers NEC NONDL"
-- "epic chevaliers NEC NONDL"
 - "Necrons-ctans NONDL"
 - "epic Necrons-ctans NONDL"
 - "chevaliers Necrons-ctans NONDL"
-- "epic chevaliers Necrons-ctans NONDL"
 - "NEC Necrons-ctans NONDL"
-- "epic NEC Necrons-ctans NONDL"
-- "chevaliers NEC Necrons-ctans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "NEC NONSUP"
 - "epic NEC NONSUP"
 - "chevaliers NEC NONSUP"
-- "epic chevaliers NEC NONSUP"
 - "Necrons-ctans NONSUP"
 - "epic Necrons-ctans NONSUP"
 - "chevaliers Necrons-ctans NONSUP"
-- "epic chevaliers Necrons-ctans NONSUP"
 - "NEC Necrons-ctans NONSUP"
-- "epic NEC Necrons-ctans NONSUP"
-- "chevaliers NEC Necrons-ctans NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "chevaliers NONDL NONSUP"
-- "epic chevaliers NONDL NONSUP"
 - "NEC NONDL NONSUP"
-- "epic NEC NONDL NONSUP"
-- "chevaliers NEC NONDL NONSUP"
 - "Necrons-ctans NONDL NONSUP"
-- "epic Necrons-ctans NONDL NONSUP"
-- "chevaliers Necrons-ctans NONDL NONSUP"
-- "NEC Necrons-ctans NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4300312_-_Images_1.jpg> "thumbs_-_4300312_-_Images_1.jpg")
+![](<thumbs_-_4300312_-_Images_1.avif> "thumbs_-_4300312_-_Images_1.avif")
 
   
 

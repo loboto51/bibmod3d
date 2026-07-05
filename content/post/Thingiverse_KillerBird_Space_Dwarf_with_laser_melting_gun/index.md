@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KillerBird > Space_Dwarf_with_laser_melting_gun [non dl]"
 date: "2022-12-08T00:56:56+00:00"
 toc: true
-image: "thumbs_-_5691662_-_Images_1.jpg"
+image: "thumbs_-_5691662_-_Images_1.avif"
 tags:
 - "KillerBird"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5691662_-_Images_1.jpg> "thumbs_-_5691662_-_Images_1.jpg")
+![](<thumbs_-_5691662_-_Images_1.avif> "thumbs_-_5691662_-_Images_1.avif")
 
   
 

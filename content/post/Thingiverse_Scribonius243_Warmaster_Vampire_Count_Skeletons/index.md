@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Vampire_Count_Skeletons [dl]"
 date: "2025-06-27T21:46:16+00:00"
 toc: true
-image: "thumbs_-_7077742_-_Images_1.jpg"
+image: "thumbs_-_7077742_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7077742_-_Images_1.jpg> "thumbs_-_7077742_-_Images_1.jpg")
+![](<thumbs_-_7077742_-_Images_1.avif> "thumbs_-_7077742_-_Images_1.avif")
 
-  ![](<thumbs_-_7077742_-_ImagesSTL_1.jpg> "thumbs_-_7077742_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7077742_-_ImagesSTL_1.avif> "thumbs_-_7077742_-_ImagesSTL_1.avif")
 
   
 

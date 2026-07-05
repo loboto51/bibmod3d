@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > Verdochelo > Epic_Space_Aelf_Defenders_Squad [dl]"
 date: ""
 toc: true
-image: "thumbs_-_4539820_-_Images_1.jpg"
+image: "thumbs_-_4539820_-_Images_1.avif"
 tags:
 - "Verdochelo"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-tactiques"
 - "epic VM Eldars-tactiques"
 - "infanterie VM Eldars-tactiques"
-- "epic infanterie VM Eldars-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Eldars-tactiques NONSUP"
 - "epic Eldars-tactiques NONSUP"
 - "infanterie Eldars-tactiques NONSUP"
-- "epic infanterie Eldars-tactiques NONSUP"
 - "VM Eldars-tactiques NONSUP"
-- "epic VM Eldars-tactiques NONSUP"
-- "infanterie VM Eldars-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_4539820_-_Images_1.jpg> "thumbs_-_4539820_-_Images_1.jpg")
+![](<thumbs_-_4539820_-_Images_1.avif> "thumbs_-_4539820_-_Images_1.avif")
 
-  ![](<thumbs_-_4539820_-_ImagesSTL_1.jpg> "thumbs_-_4539820_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4539820_-_ImagesSTL_1.avif> "thumbs_-_4539820_-_ImagesSTL_1.avif")
 
   
 

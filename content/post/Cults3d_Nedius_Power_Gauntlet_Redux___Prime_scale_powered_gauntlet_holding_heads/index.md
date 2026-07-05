@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nedius > Power_Gauntlet_Redux___Prime_scale_powered_gauntlet_holding_heads [non dl]"
 date: "2025-08-16T21:29:01Z"
 toc: true
-image: "thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.jpg"
+image: "thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.avif"
 tags:
 - "Nedius"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMI NONDL"
 - "28mm SMI NONDL"
 - "IMP SMI NONDL"
-- "28mm IMP SMI NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -28,18 +27,14 @@ tags:
 - "SMI SUP"
 - "28mm SMI SUP"
 - "IMP SMI SUP"
-- "28mm IMP SMI SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "IMP NONDL SUP"
-- "28mm IMP NONDL SUP"
 - "SMI NONDL SUP"
-- "28mm SMI NONDL SUP"
-- "IMP SMI NONDL SUP"
 
 ---
 
-![](<thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.jpg> "thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.jpg")
+![](<thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.avif> "thumbs_-_power-gauntlet-redux-prime-scale-powered-gauntlet-holding-heads_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Urzan_Soldier__Painting_Contest_Model__28mm_32mm_scale_ [non dl]"
 date: "2019-04-19T19:31:46+00:00"
 toc: true
-image: "thumbs_-_3575240_-_Images_1.jpg"
+image: "thumbs_-_3575240_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "autres-echelles"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "autres-echelles NONDL NONSUP"
 - "Figurines-et-statuettes NONDL NONSUP"
-- "autres-echelles Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3575240_-_Images_1.jpg> "thumbs_-_3575240_-_Images_1.jpg")
+![](<thumbs_-_3575240_-_Images_1.avif> "thumbs_-_3575240_-_Images_1.avif")
 
-  ![](<thumbs_-_3575240_-_Makes_1.jpg> "thumbs_-_3575240_-_Makes_1.jpg")
+  ![](<thumbs_-_3575240_-_Makes_1.avif> "thumbs_-_3575240_-_Makes_1.avif")
 
   
 

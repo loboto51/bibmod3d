@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Skeaze > Punk_Infantry__15_18mm_ [non dl]"
 date: "2025-09-24T03:49:19Z"
 toc: true
-image: "thumbs_-_punk-infantry-15-18mm_-_Images_1.jpg"
+image: "thumbs_-_punk-infantry-15-18mm_-_Images_1.avif"
 tags:
 - "Skeaze"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Sf-tous-types-humains"
 - "15mm HUMAINS Sf-tous-types-humains"
 - "SFDIV HUMAINS Sf-tous-types-humains"
-- "15mm SFDIV HUMAINS Sf-tous-types-humains"
 - "NONDL"
 - "15mm NONDL"
 - "SFDIV NONDL"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS NONDL"
 - "15mm HUMAINS NONDL"
 - "SFDIV HUMAINS NONDL"
-- "15mm SFDIV HUMAINS NONDL"
 - "Sf-tous-types-humains NONDL"
 - "15mm Sf-tous-types-humains NONDL"
 - "SFDIV Sf-tous-types-humains NONDL"
-- "15mm SFDIV Sf-tous-types-humains NONDL"
 - "HUMAINS Sf-tous-types-humains NONDL"
-- "15mm HUMAINS Sf-tous-types-humains NONDL"
-- "SFDIV HUMAINS Sf-tous-types-humains NONDL"
 - "SUP"
 - "15mm SUP"
 - "SFDIV SUP"
@@ -43,29 +38,19 @@ tags:
 - "HUMAINS SUP"
 - "15mm HUMAINS SUP"
 - "SFDIV HUMAINS SUP"
-- "15mm SFDIV HUMAINS SUP"
 - "Sf-tous-types-humains SUP"
 - "15mm Sf-tous-types-humains SUP"
 - "SFDIV Sf-tous-types-humains SUP"
-- "15mm SFDIV Sf-tous-types-humains SUP"
 - "HUMAINS Sf-tous-types-humains SUP"
-- "15mm HUMAINS Sf-tous-types-humains SUP"
-- "SFDIV HUMAINS Sf-tous-types-humains SUP"
 - "NONDL SUP"
 - "15mm NONDL SUP"
 - "SFDIV NONDL SUP"
-- "15mm SFDIV NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "15mm HUMAINS NONDL SUP"
-- "SFDIV HUMAINS NONDL SUP"
 - "Sf-tous-types-humains NONDL SUP"
-- "15mm Sf-tous-types-humains NONDL SUP"
-- "SFDIV Sf-tous-types-humains NONDL SUP"
-- "HUMAINS Sf-tous-types-humains NONDL SUP"
 
 ---
 
-![](<thumbs_-_punk-infantry-15-18mm_-_Images_1.jpg> "thumbs_-_punk-infantry-15-18mm_-_Images_1.jpg")
+![](<thumbs_-_punk-infantry-15-18mm_-_Images_1.avif> "thumbs_-_punk-infantry-15-18mm_-_Images_1.avif")
 
   
 

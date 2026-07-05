@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > ORIGINAL_PLASTIC_CLASSIC_WARRIOR_FREE_SET [dl]"
 date: "2023-10-30T19:51:00Z"
 toc: true
-image: "thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.jpg"
+image: "thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.jpg> "thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.jpg")
+![](<thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.avif> "thumbs_-_original-plastic-classic-warrior-free-set_-_Images_1.avif")
 
-  ![](<thumbs_-_original-plastic-classic-warrior-free-set_-_ImagesSTL_1.jpg> "thumbs_-_original-plastic-classic-warrior-free-set_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_original-plastic-classic-warrior-free-set_-_ImagesSTL_1.avif> "thumbs_-_original-plastic-classic-warrior-free-set_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_original-plastic-classic-warrior-free-set_-_Makes_1.jpg> "thumbs_-_original-plastic-classic-warrior-free-set_-_Makes_1.jpg")
+  ![](<thumbs_-_original-plastic-classic-warrior-free-set_-_Makes_1.avif> "thumbs_-_original-plastic-classic-warrior-free-set_-_Makes_1.avif")
 
   
 

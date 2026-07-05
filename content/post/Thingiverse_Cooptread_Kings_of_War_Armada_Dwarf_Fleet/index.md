@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Cooptread > Kings_of_War_Armada_Dwarf_Fleet [non dl]"
 date: "2023-07-28T20:52:46+00:00"
 toc: true
-image: "thumbs_-_6144969_-_Images_1.jpg"
+image: "thumbs_-_6144969_-_Images_1.avif"
 tags:
 - "Cooptread"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "manowar NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6144969_-_Images_1.jpg> "thumbs_-_6144969_-_Images_1.jpg")
+![](<thumbs_-_6144969_-_Images_1.avif> "thumbs_-_6144969_-_Images_1.avif")
 
   
 

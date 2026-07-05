@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BaseDepartment > Epic___Warmaster___6mm_wargame_____tub___bases [non dl]"
 date: "2020-08-19T10:42:45+00:00"
 toc: true
-image: "thumbs_-_4574114_-_Images_1.jpg"
+image: "thumbs_-_4574114_-_Images_1.avif"
 tags:
 - "BaseDepartment"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4574114_-_Images_1.jpg> "thumbs_-_4574114_-_Images_1.jpg")
+![](<thumbs_-_4574114_-_Images_1.avif> "thumbs_-_4574114_-_Images_1.avif")
 
   
 

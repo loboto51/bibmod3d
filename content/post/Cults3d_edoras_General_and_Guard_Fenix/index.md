@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > General_and_Guard_Fenix [non dl]"
 date: "2022-02-22T17:03:21Z"
 toc: true
-image: "thumbs_-_general-and-guard-fenix_-_Images_1.jpg"
+image: "thumbs_-_general-and-guard-fenix_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_general-and-guard-fenix_-_Images_1.jpg> "thumbs_-_general-and-guard-fenix_-_Images_1.jpg")
+![](<thumbs_-_general-and-guard-fenix_-_Images_1.avif> "thumbs_-_general-and-guard-fenix_-_Images_1.avif")
 
   
 

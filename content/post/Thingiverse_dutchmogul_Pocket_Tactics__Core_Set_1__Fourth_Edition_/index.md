@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Pocket_Tactics__Core_Set_1__Fourth_Edition_ [non dl]"
 date: "2016-10-11T18:53:17+00:00"
 toc: true
-image: "thumbs_-_1820557_-_Images_1.jpg"
+image: "thumbs_-_1820557_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "necromunda"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1820557_-_Images_1.jpg> "thumbs_-_1820557_-_Images_1.jpg")
+![](<thumbs_-_1820557_-_Images_1.avif> "thumbs_-_1820557_-_Images_1.avif")
 
-  ![](<thumbs_-_1820557_-_Makes_1.jpg> "thumbs_-_1820557_-_Makes_1.jpg")
+  ![](<thumbs_-_1820557_-_Makes_1.avif> "thumbs_-_1820557_-_Makes_1.avif")
 
   
 

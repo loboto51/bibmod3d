@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > grumpusbumpus > Warmaster_Undead_Ethereal_Host [dl]"
 date: "2021-02-12T13:21:57Z"
 toc: true
-image: "thumbs_-_warmaster-undead-ethereal-host_-_Images_1.jpg"
+image: "thumbs_-_warmaster-undead-ethereal-host_-_Images_1.avif"
 tags:
 - "grumpusbumpus"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_warmaster-undead-ethereal-host_-_Images_1.jpg> "thumbs_-_warmaster-undead-ethereal-host_-_Images_1.jpg")
+![](<thumbs_-_warmaster-undead-ethereal-host_-_Images_1.avif> "thumbs_-_warmaster-undead-ethereal-host_-_Images_1.avif")
 
-  ![](<thumbs_-_warmaster-undead-ethereal-host_-_ImagesSTL_1.jpg> "thumbs_-_warmaster-undead-ethereal-host_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_warmaster-undead-ethereal-host_-_ImagesSTL_1.avif> "thumbs_-_warmaster-undead-ethereal-host_-_ImagesSTL_1.avif")
 
   
 

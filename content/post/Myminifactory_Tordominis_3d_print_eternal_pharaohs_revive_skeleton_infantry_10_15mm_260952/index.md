@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > Tordominis > 3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952 [dl]"
 date: "2022-12-28"
 toc: true
-image: "thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.jpg"
+image: "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif"
 tags:
 - "Tordominis"
 - "15mm"
@@ -23,9 +23,9 @@ tags:
 
 ---
 
-![](<thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.jpg> "thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.jpg")
+![](<thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif> "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.avif")
 
   
 

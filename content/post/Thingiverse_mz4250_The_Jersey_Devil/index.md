@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > mz4250 > The_Jersey_Devil [non dl]"
 date: "2023-01-20T16:07:03+00:00"
 toc: true
-image: "thumbs_-_5800790_-_Images_1.jpg"
+image: "thumbs_-_5800790_-_Images_1.avif"
 tags:
 - "mz4250"
 - "warmaster"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5800790_-_Images_1.jpg> "thumbs_-_5800790_-_Images_1.jpg")
+![](<thumbs_-_5800790_-_Images_1.avif> "thumbs_-_5800790_-_Images_1.avif")
 
-  ![](<thumbs_-_5800790_-_Makes_1.jpg> "thumbs_-_5800790_-_Makes_1.jpg")
+  ![](<thumbs_-_5800790_-_Makes_1.avif> "thumbs_-_5800790_-_Makes_1.avif")
 
   
 

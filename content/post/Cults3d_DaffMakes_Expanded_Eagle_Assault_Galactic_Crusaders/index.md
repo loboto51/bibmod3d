@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Expanded_Eagle_Assault_Galactic_Crusaders [dl]"
 date: "2025-05-27T20:12:05Z"
 toc: true
-image: "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.jpg"
+image: "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut"
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
-- "epic infanterie SMI Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,56 +27,52 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.jpg")
+![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_Images_1.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_10.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_10.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_10.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_10.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_11.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_11.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_11.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_11.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_12.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_12.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_12.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_12.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_13.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_13.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_13.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_13.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_14.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_14.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_14.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_14.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_15.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_15.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_15.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_15.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_16.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_16.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_16.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_16.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_17.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_17.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_17.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_17.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_18.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_18.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_18.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_18.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_19.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_19.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_19.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_19.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_1.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_1.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_2.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_2.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_3.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_3.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_3.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_4.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_4.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_4.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_4.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_5.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_5.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_5.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_5.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_6.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_6.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_6.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_6.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_7.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_7.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_7.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_7.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_8.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_8.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_8.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_8.avif")
 
-  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_9.jpg> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_9.jpg")
+  ![](<thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_9.avif> "thumbs_-_expanded-eagle-assault-galactic-crusaders-ded27883cce201f165f2_-_ImagesSTL_9.avif")
 
   
 

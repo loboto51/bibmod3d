@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > j4roid > angry_dinosaur_with_guns [non dl]"
 date: "2021-09-07T22:34:00Z"
 toc: true
-image: "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.jpg"
+image: "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.avif"
 tags:
 - "j4roid"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "28mm TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.jpg> "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.jpg")
+![](<thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.avif> "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Images_1.avif")
 
-  ![](<thumbs_-_angry-dinosaur-with-guns-j4roid_-_Makes_1.jpg> "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Makes_1.jpg")
+  ![](<thumbs_-_angry-dinosaur-with-guns-j4roid_-_Makes_1.avif> "thumbs_-_angry-dinosaur-with-guns-j4roid_-_Makes_1.avif")
 
   
 

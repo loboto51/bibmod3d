@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > grumpusbumpus > Warmaster_Empire_Knights [non dl]"
 date: "2020-07-31T19:53:19+00:00"
 toc: true
-image: "thumbs_-_4558069_-_Images_1.jpg"
+image: "thumbs_-_4558069_-_Images_1.avif"
 tags:
 - "grumpusbumpus"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "EMPIRE NONDL"
 - "warmaster EMPIRE NONDL"
 - "HUMAINS EMPIRE NONDL"
-- "warmaster HUMAINS EMPIRE NONDL"
 - "SUP"
 - "warmaster SUP"
 - "HUMAINS SUP"
@@ -28,20 +27,16 @@ tags:
 - "EMPIRE SUP"
 - "warmaster EMPIRE SUP"
 - "HUMAINS EMPIRE SUP"
-- "warmaster HUMAINS EMPIRE SUP"
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "warmaster HUMAINS NONDL SUP"
 - "EMPIRE NONDL SUP"
-- "warmaster EMPIRE NONDL SUP"
-- "HUMAINS EMPIRE NONDL SUP"
 
 ---
 
-![](<thumbs_-_4558069_-_Images_1.jpg> "thumbs_-_4558069_-_Images_1.jpg")
+![](<thumbs_-_4558069_-_Images_1.avif> "thumbs_-_4558069_-_Images_1.avif")
 
-  ![](<thumbs_-_4558069_-_Makes_1.jpg> "thumbs_-_4558069_-_Makes_1.jpg")
+  ![](<thumbs_-_4558069_-_Makes_1.avif> "thumbs_-_4558069_-_Makes_1.avif")
 
   
 

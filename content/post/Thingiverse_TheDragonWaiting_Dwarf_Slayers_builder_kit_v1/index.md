@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheDragonWaiting > Dwarf_Slayers_builder_kit_v1 [non dl]"
 date: "2024-11-17T00:38:10+00:00"
 toc: true
-image: "thumbs_-_6834619_-_Images_1.jpg"
+image: "thumbs_-_6834619_-_Images_1.avif"
 tags:
 - "TheDragonWaiting"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6834619_-_Images_1.jpg> "thumbs_-_6834619_-_Images_1.jpg")
+![](<thumbs_-_6834619_-_Images_1.avif> "thumbs_-_6834619_-_Images_1.avif")
 
   
 

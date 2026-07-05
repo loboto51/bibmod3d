@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > JahnZizka > Epic_scale_human_attack_VTOL [non dl]"
+title: "[GRATUIT] Cults3d > JahnZizka > Epic_scale_human_attack_VTOL [dl]"
 date: "2021-04-12T00:58:19Z"
 toc: true
-image: "thumbs_-_epic-scale-human-attack-vtol_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-human-attack-vtol_-_Images_1.avif"
 tags:
 - "JahnZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Vtol"
 - "epic IMP Vtol"
 - "volants IMP Vtol"
-- "epic volants IMP Vtol"
 - "Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants Imp-vtol-valkyries-vultures-skytalons-etc"
@@ -28,86 +27,32 @@ tags:
 - "IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic volants IMP Imp-vtol-valkyries-vultures-skytalons-etc"
 - "Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
 - "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "epic IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
-- "NONDL"
-- "epic NONDL"
-- "volants NONDL"
-- "epic volants NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "volants IMP NONDL"
-- "epic volants IMP NONDL"
-- "Vtol NONDL"
-- "epic Vtol NONDL"
-- "volants Vtol NONDL"
-- "epic volants Vtol NONDL"
-- "IMP Vtol NONDL"
-- "epic IMP Vtol NONDL"
-- "volants IMP Vtol NONDL"
-- "Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "epic Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "volants Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "epic volants Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL"
-- "NONSUP"
-- "epic NONSUP"
-- "volants NONSUP"
-- "epic volants NONSUP"
-- "IMP NONSUP"
-- "epic IMP NONSUP"
-- "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
-- "Vtol NONSUP"
-- "epic Vtol NONSUP"
-- "volants Vtol NONSUP"
-- "epic volants Vtol NONSUP"
-- "IMP Vtol NONSUP"
-- "epic IMP Vtol NONSUP"
-- "volants IMP Vtol NONSUP"
-- "Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "volants Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic volants Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "volants NONDL NONSUP"
-- "epic volants NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "volants IMP NONDL NONSUP"
-- "Vtol NONDL NONSUP"
-- "epic Vtol NONDL NONSUP"
-- "volants Vtol NONDL NONSUP"
-- "IMP Vtol NONDL NONSUP"
-- "Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP"
-- "epic Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP"
-- "volants Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP"
-- "IMP Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP"
-- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP"
+- "SUP"
+- "epic SUP"
+- "volants SUP"
+- "epic volants SUP"
+- "IMP SUP"
+- "epic IMP SUP"
+- "volants IMP SUP"
+- "Vtol SUP"
+- "epic Vtol SUP"
+- "volants Vtol SUP"
+- "IMP Vtol SUP"
+- "Imp-vtol-valkyries-vultures-skytalons-etc SUP"
+- "epic Imp-vtol-valkyries-vultures-skytalons-etc SUP"
+- "volants Imp-vtol-valkyries-vultures-skytalons-etc SUP"
+- "IMP Imp-vtol-valkyries-vultures-skytalons-etc SUP"
+- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc SUP"
 
 ---
 
-![](<thumbs_-_epic-scale-human-attack-vtol_-_Images_1.jpg> "thumbs_-_epic-scale-human-attack-vtol_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-human-attack-vtol_-_Images_1.avif> "thumbs_-_epic-scale-human-attack-vtol_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-human-attack-vtol_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-human-attack-vtol_-_ImagesSTL_1.avif")
 
   
 
@@ -124,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONDL NONSUP
+- epic volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc  SUP
 
 
 Description :
@@ -145,6 +90,12 @@ Imperial Aquila - Two headed eagle by vsaari http://www.thingiverse.com/thing:13
 
 NOTE: Not yet test printed, if you find any issues please message me, if not, please post your makes. Have fun!
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_epic-scale-human-attack-vtol20210412-15980-1ylqppr_zip_unpack_JahnZizka_epic-scale-human-attack-vtol_Vulture_no_insignias_unsupported_stl_.jpg
+ImagesSTL_-_epic-scale-human-attack-vtol20210412-15980-1ylqppr_zip_unpack_JahnZizka_epic-scale-human-attack-vtol_Vulture_unsupported_stl_.jpg
 
 
 

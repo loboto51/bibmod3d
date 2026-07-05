@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > KillMeForPrizes > Sekhmet_Terminator_Cabal_6mm__Galactic_Crusader_Remix_ [dl]"
 date: ""
 toc: true
-image: "thumbs_-_4855237_-_Images_1.jpg"
+image: "thumbs_-_4855237_-_Images_1.avif"
 tags:
 - "KillMeForPrizes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-terminators"
 - "epic SMC Sm-terminators"
 - "infanterie SMC Sm-terminators"
-- "epic infanterie SMC Sm-terminators"
 - "TZEENTCH"
 - "epic TZEENTCH"
 - "infanterie TZEENTCH"
@@ -28,14 +27,10 @@ tags:
 - "SMC TZEENTCH"
 - "epic SMC TZEENTCH"
 - "infanterie SMC TZEENTCH"
-- "epic infanterie SMC TZEENTCH"
 - "Sm-terminators TZEENTCH"
 - "epic Sm-terminators TZEENTCH"
 - "infanterie Sm-terminators TZEENTCH"
-- "epic infanterie Sm-terminators TZEENTCH"
 - "SMC Sm-terminators TZEENTCH"
-- "epic SMC Sm-terminators TZEENTCH"
-- "infanterie SMC Sm-terminators TZEENTCH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-terminators NONSUP"
 - "epic Sm-terminators NONSUP"
 - "infanterie Sm-terminators NONSUP"
-- "epic infanterie Sm-terminators NONSUP"
 - "SMC Sm-terminators NONSUP"
-- "epic SMC Sm-terminators NONSUP"
-- "infanterie SMC Sm-terminators NONSUP"
 - "TZEENTCH NONSUP"
 - "epic TZEENTCH NONSUP"
 - "infanterie TZEENTCH NONSUP"
-- "epic infanterie TZEENTCH NONSUP"
 - "SMC TZEENTCH NONSUP"
-- "epic SMC TZEENTCH NONSUP"
-- "infanterie SMC TZEENTCH NONSUP"
 - "Sm-terminators TZEENTCH NONSUP"
-- "epic Sm-terminators TZEENTCH NONSUP"
-- "infanterie Sm-terminators TZEENTCH NONSUP"
-- "SMC Sm-terminators TZEENTCH NONSUP"
 
 ---
 
-![](<thumbs_-_4855237_-_Images_1.jpg> "thumbs_-_4855237_-_Images_1.jpg")
+![](<thumbs_-_4855237_-_Images_1.avif> "thumbs_-_4855237_-_Images_1.avif")
 
-  ![](<thumbs_-_4855237_-_ImagesSTL_1.jpg> "thumbs_-_4855237_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4855237_-_ImagesSTL_1.avif> "thumbs_-_4855237_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > FuegoCruzado > Epic_Ork_Skorcha_2_0 [dl]"
 date: "2018-04-02T10:04:59+00:00"
 toc: true
-image: "thumbs_-_2847605_-_Images_1.jpg"
+image: "thumbs_-_2847605_-_Images_1.avif"
 tags:
 - "FuegoCruzado"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-buggys"
 - "epic ORKS Orks-buggys"
 - "vehicules ORKS Orks-buggys"
-- "epic vehicules ORKS Orks-buggys"
 - "Lance-flammes"
 - "epic Lance-flammes"
 - "vehicules Lance-flammes"
@@ -28,14 +27,10 @@ tags:
 - "ORKS Lance-flammes"
 - "epic ORKS Lance-flammes"
 - "vehicules ORKS Lance-flammes"
-- "epic vehicules ORKS Lance-flammes"
 - "Orks-buggys Lance-flammes"
 - "epic Orks-buggys Lance-flammes"
 - "vehicules Orks-buggys Lance-flammes"
-- "epic vehicules Orks-buggys Lance-flammes"
 - "ORKS Orks-buggys Lance-flammes"
-- "epic ORKS Orks-buggys Lance-flammes"
-- "vehicules ORKS Orks-buggys Lance-flammes"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "vehicules ORKS NONSUP"
-- "epic vehicules ORKS NONSUP"
 - "Orks-buggys NONSUP"
 - "epic Orks-buggys NONSUP"
 - "vehicules Orks-buggys NONSUP"
-- "epic vehicules Orks-buggys NONSUP"
 - "ORKS Orks-buggys NONSUP"
-- "epic ORKS Orks-buggys NONSUP"
-- "vehicules ORKS Orks-buggys NONSUP"
 - "Lance-flammes NONSUP"
 - "epic Lance-flammes NONSUP"
 - "vehicules Lance-flammes NONSUP"
-- "epic vehicules Lance-flammes NONSUP"
 - "ORKS Lance-flammes NONSUP"
-- "epic ORKS Lance-flammes NONSUP"
-- "vehicules ORKS Lance-flammes NONSUP"
 - "Orks-buggys Lance-flammes NONSUP"
-- "epic Orks-buggys Lance-flammes NONSUP"
-- "vehicules Orks-buggys Lance-flammes NONSUP"
-- "ORKS Orks-buggys Lance-flammes NONSUP"
 
 ---
 
-![](<thumbs_-_2847605_-_Images_1.jpg> "thumbs_-_2847605_-_Images_1.jpg")
+![](<thumbs_-_2847605_-_Images_1.avif> "thumbs_-_2847605_-_Images_1.avif")
 
-  ![](<thumbs_-_2847605_-_ImagesSTL_1.jpg> "thumbs_-_2847605_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_2847605_-_ImagesSTL_1.avif> "thumbs_-_2847605_-_ImagesSTL_1.avif")
 
   
 

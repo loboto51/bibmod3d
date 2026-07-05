@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > SevenUnited > Scifi_Machines_5___Workshop [non dl]"
 date: "2024-07-28T18:25:37+00:00"
 toc: true
-image: "thumbs_-_6712454_-_Images_1.jpg"
+image: "thumbs_-_6712454_-_Images_1.avif"
 tags:
 - "SevenUnited"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "necromunda NONDL"
 - "28mm necromunda NONDL"
 - "DECORS necromunda NONDL"
-- "28mm DECORS necromunda NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "DECORS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "necromunda NONSUP"
 - "28mm necromunda NONSUP"
 - "DECORS necromunda NONSUP"
-- "28mm DECORS necromunda NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "DECORS NONDL NONSUP"
-- "28mm DECORS NONDL NONSUP"
 - "necromunda NONDL NONSUP"
-- "28mm necromunda NONDL NONSUP"
-- "DECORS necromunda NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6712454_-_Images_1.jpg> "thumbs_-_6712454_-_Images_1.jpg")
+![](<thumbs_-_6712454_-_Images_1.avif> "thumbs_-_6712454_-_Images_1.avif")
 
   
 

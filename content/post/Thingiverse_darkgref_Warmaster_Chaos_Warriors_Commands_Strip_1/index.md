@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Warmaster_Chaos_Warriors_Commands_Strip_1 [dl]"
 date: "2021-08-01T15:34:48+00:00"
 toc: true
-image: "thumbs_-_4922147_-_Images_1.jpg"
+image: "thumbs_-_4922147_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4922147_-_Images_1.jpg> "thumbs_-_4922147_-_Images_1.jpg")
+![](<thumbs_-_4922147_-_Images_1.avif> "thumbs_-_4922147_-_Images_1.avif")
 
-  ![](<thumbs_-_4922147_-_ImagesSTL_1.jpg> "thumbs_-_4922147_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4922147_-_ImagesSTL_1.avif> "thumbs_-_4922147_-_ImagesSTL_1.avif")
 
   
 

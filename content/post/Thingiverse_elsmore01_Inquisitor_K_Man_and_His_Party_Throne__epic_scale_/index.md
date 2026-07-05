@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > elsmore01 > Inquisitor_K_Man_and_His_Party_Throne__epic_scale_ [dl]"
 date: "2020-03-13T14:13:17+00:00"
 toc: true
-image: "thumbs_-_4219340_-_Images_1.jpg"
+image: "thumbs_-_4219340_-_Images_1.avif"
 tags:
 - "elsmore01"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SOB Inquisiteurs"
 - "epic SOB Inquisiteurs"
 - "infanterie SOB Inquisiteurs"
-- "epic infanterie SOB Inquisiteurs"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SOB NONSUP"
 - "epic SOB NONSUP"
 - "infanterie SOB NONSUP"
-- "epic infanterie SOB NONSUP"
 - "Inquisiteurs NONSUP"
 - "epic Inquisiteurs NONSUP"
 - "infanterie Inquisiteurs NONSUP"
-- "epic infanterie Inquisiteurs NONSUP"
 - "SOB Inquisiteurs NONSUP"
-- "epic SOB Inquisiteurs NONSUP"
-- "infanterie SOB Inquisiteurs NONSUP"
 
 ---
 
-![](<thumbs_-_4219340_-_Images_1.jpg> "thumbs_-_4219340_-_Images_1.jpg")
+![](<thumbs_-_4219340_-_Images_1.avif> "thumbs_-_4219340_-_Images_1.avif")
 
-  ![](<thumbs_-_4219340_-_ImagesSTL_1.jpg> "thumbs_-_4219340_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4219340_-_ImagesSTL_1.avif> "thumbs_-_4219340_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4219340_-_Makes_1.jpg> "thumbs_-_4219340_-_Makes_1.jpg")
+  ![](<thumbs_-_4219340_-_Makes_1.avif> "thumbs_-_4219340_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BrazenMammoth > Sci_Fi_Greeblies [non dl]"
 date: "2021-08-15T22:09:12+00:00"
 toc: true
-image: "thumbs_-_4933380_-_Images_1.jpg"
+image: "thumbs_-_4933380_-_Images_1.avif"
 tags:
 - "BrazenMammoth"
 - "decors"
@@ -20,7 +20,6 @@ tags:
 - "Bits-sf-pour-decors-maison-greebles NONDL"
 - "decors Bits-sf-pour-decors-maison-greebles NONDL"
 - "IMP Bits-sf-pour-decors-maison-greebles NONDL"
-- "decors IMP Bits-sf-pour-decors-maison-greebles NONDL"
 - "NONSUP"
 - "decors NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits-sf-pour-decors-maison-greebles NONSUP"
 - "decors Bits-sf-pour-decors-maison-greebles NONSUP"
 - "IMP Bits-sf-pour-decors-maison-greebles NONSUP"
-- "decors IMP Bits-sf-pour-decors-maison-greebles NONSUP"
 - "NONDL NONSUP"
 - "decors NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "decors IMP NONDL NONSUP"
 - "Bits-sf-pour-decors-maison-greebles NONDL NONSUP"
-- "decors Bits-sf-pour-decors-maison-greebles NONDL NONSUP"
-- "IMP Bits-sf-pour-decors-maison-greebles NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4933380_-_Images_1.jpg> "thumbs_-_4933380_-_Images_1.jpg")
+![](<thumbs_-_4933380_-_Images_1.avif> "thumbs_-_4933380_-_Images_1.avif")
 
-  ![](<thumbs_-_4933380_-_Makes_1.jpg> "thumbs_-_4933380_-_Makes_1.jpg")
+  ![](<thumbs_-_4933380_-_Makes_1.avif> "thumbs_-_4933380_-_Makes_1.avif")
 
   
 

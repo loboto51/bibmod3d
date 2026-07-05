@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > BeastRiders___Skyborn___8mm [non dl]"
 date: "2025-11-04T06:25:43Z"
 toc: true
-image: "thumbs_-_beastriders-skyborn-8mm_-_Images_1.jpg"
+image: "thumbs_-_beastriders-skyborn-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TAU Kroots"
 - "epic TAU Kroots"
 - "infanterie TAU Kroots"
-- "epic infanterie TAU Kroots"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "TAU NONDL"
 - "epic TAU NONDL"
 - "infanterie TAU NONDL"
-- "epic infanterie TAU NONDL"
 - "Kroots NONDL"
 - "epic Kroots NONDL"
 - "infanterie Kroots NONDL"
-- "epic infanterie Kroots NONDL"
 - "TAU Kroots NONDL"
-- "epic TAU Kroots NONDL"
-- "infanterie TAU Kroots NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "TAU SUP"
 - "epic TAU SUP"
 - "infanterie TAU SUP"
-- "epic infanterie TAU SUP"
 - "Kroots SUP"
 - "epic Kroots SUP"
 - "infanterie Kroots SUP"
-- "epic infanterie Kroots SUP"
 - "TAU Kroots SUP"
-- "epic TAU Kroots SUP"
-- "infanterie TAU Kroots SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "TAU NONDL SUP"
-- "epic TAU NONDL SUP"
-- "infanterie TAU NONDL SUP"
 - "Kroots NONDL SUP"
-- "epic Kroots NONDL SUP"
-- "infanterie Kroots NONDL SUP"
-- "TAU Kroots NONDL SUP"
 
 ---
 
-![](<thumbs_-_beastriders-skyborn-8mm_-_Images_1.jpg> "thumbs_-_beastriders-skyborn-8mm_-_Images_1.jpg")
+![](<thumbs_-_beastriders-skyborn-8mm_-_Images_1.avif> "thumbs_-_beastriders-skyborn-8mm_-_Images_1.avif")
 
   
 

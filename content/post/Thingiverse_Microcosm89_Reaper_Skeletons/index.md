@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Microcosm89 > Reaper_Skeletons [non dl]"
 date: "2025-09-04T21:12:47+00:00"
 toc: true
-image: "thumbs_-_7136434_-_Images_1.jpg"
+image: "thumbs_-_7136434_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7136434_-_Images_1.jpg> "thumbs_-_7136434_-_Images_1.jpg")
+![](<thumbs_-_7136434_-_Images_1.avif> "thumbs_-_7136434_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jimmyzimms > Galactic_Crusader_Weapon_Asset_Pack_Remaster [dl]"
 date: "2024-02-14T14:09:20Z"
 toc: true
-image: "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.avif"
 tags:
 - "jimmyzimms"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SOB Bits"
 - "epic SOB Bits"
 - "infanterie SOB Bits"
-- "epic infanterie SOB Bits"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SOB NONSUP"
 - "epic SOB NONSUP"
 - "infanterie SOB NONSUP"
-- "epic infanterie SOB NONSUP"
 - "Bits NONSUP"
 - "epic Bits NONSUP"
 - "infanterie Bits NONSUP"
-- "epic infanterie Bits NONSUP"
 - "SOB Bits NONSUP"
-- "epic SOB Bits NONSUP"
-- "infanterie SOB Bits NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "SQUATS Bits"
 - "epic SQUATS Bits"
 - "infanterie SQUATS Bits"
-- "epic infanterie SQUATS Bits"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "infanterie SQUATS NONSUP"
-- "epic infanterie SQUATS NONSUP"
 - "Bits NONSUP"
 - "epic Bits NONSUP"
 - "infanterie Bits NONSUP"
-- "epic infanterie Bits NONSUP"
 - "SQUATS Bits NONSUP"
-- "epic SQUATS Bits NONSUP"
-- "infanterie SQUATS Bits NONSUP"
 - "epic"
 - "SMI"
 - "epic SMI"
@@ -80,7 +70,6 @@ tags:
 - "Bits Builders"
 - "epic Bits Builders"
 - "SMI Bits Builders"
-- "epic SMI Bits Builders"
 - "NONSUP"
 - "epic NONSUP"
 - "SMI NONSUP"
@@ -88,20 +77,16 @@ tags:
 - "Bits NONSUP"
 - "epic Bits NONSUP"
 - "SMI Bits NONSUP"
-- "epic SMI Bits NONSUP"
 - "Builders NONSUP"
 - "epic Builders NONSUP"
 - "SMI Builders NONSUP"
-- "epic SMI Builders NONSUP"
 - "Bits Builders NONSUP"
-- "epic Bits Builders NONSUP"
-- "SMI Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.jpg> "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.avif> "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusader-weapon-asset-pack-remaster-jimmyzimms_-_ImagesSTL_1.avif")
 
   
 

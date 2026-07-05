@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ThatWhakaPrints > Bone_Banshee [dl]"
 date: "2022-10-31T11:20:48Z"
 toc: true
-image: "thumbs_-_bone-banshee_-_Images_1.jpg"
+image: "thumbs_-_bone-banshee_-_Images_1.avif"
 tags:
 - "ThatWhakaPrints"
 - "28mm"
@@ -20,15 +20,14 @@ tags:
 - "VM SUP"
 - "28mm VM SUP"
 - "ELDARS VM SUP"
-- "28mm ELDARS VM SUP"
 
 ---
 
-![](<thumbs_-_bone-banshee_-_Images_1.jpg> "thumbs_-_bone-banshee_-_Images_1.jpg")
+![](<thumbs_-_bone-banshee_-_Images_1.avif> "thumbs_-_bone-banshee_-_Images_1.avif")
 
-  ![](<thumbs_-_bone-banshee_-_ImagesSTL_1.jpg> "thumbs_-_bone-banshee_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bone-banshee_-_ImagesSTL_1.avif> "thumbs_-_bone-banshee_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_bone-banshee_-_Makes_1.jpg> "thumbs_-_bone-banshee_-_Makes_1.jpg")
+  ![](<thumbs_-_bone-banshee_-_Makes_1.avif> "thumbs_-_bone-banshee_-_Makes_1.avif")
 
   
 

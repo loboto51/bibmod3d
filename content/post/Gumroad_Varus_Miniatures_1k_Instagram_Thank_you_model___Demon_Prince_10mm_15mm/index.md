@@ -3,7 +3,7 @@
 title: "[GRATUIT] Gumroad > Varus_Miniatures > 1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm [dl]"
 date: ""
 toc: true
-image: "thumbs_-_Varus_Miniatures-1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.jpg"
+image: "thumbs_-_Varus_Miniatures_-_1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.avif"
 tags:
 - "Varus_Miniatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Chaos-princes-demons"
 - "epic CHAOS Chaos-princes-demons"
 - "infanterie CHAOS Chaos-princes-demons"
-- "epic infanterie CHAOS Chaos-princes-demons"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS SUP"
 - "epic CHAOS SUP"
 - "infanterie CHAOS SUP"
-- "epic infanterie CHAOS SUP"
 - "Chaos-princes-demons SUP"
 - "epic Chaos-princes-demons SUP"
 - "infanterie Chaos-princes-demons SUP"
-- "epic infanterie Chaos-princes-demons SUP"
 - "CHAOS Chaos-princes-demons SUP"
-- "epic CHAOS Chaos-princes-demons SUP"
-- "infanterie CHAOS Chaos-princes-demons SUP"
 - "warmaster"
 - "CHAOS"
 - "warmaster CHAOS"
@@ -46,9 +41,9 @@ tags:
 
 ---
 
-![](<thumbs_-_Varus_Miniatures-1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.jpg> "thumbs_-_Varus_Miniatures-1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.jpg")
+![](<thumbs_-_Varus_Miniatures_-_1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.avif> "thumbs_-_Varus_Miniatures_-_1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_Varus_Miniatures-1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_ImagesSTL_1.jpg> "thumbs_-_Varus_Miniatures-1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Varus_Miniatures_-_1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_ImagesSTL_1.avif> "thumbs_-_Varus_Miniatures_-_1k_Instagram_Thank_you_model___Demon_Prince_10mm_15mm_-_ImagesSTL_1.avif")
 
   
 

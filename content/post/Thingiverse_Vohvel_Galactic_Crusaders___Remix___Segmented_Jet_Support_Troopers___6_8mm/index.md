@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Vohvel > Galactic_Crusaders___Remix___Segmented_Jet_Support_Troopers___6_8mm [dl]"
 date: "2020-12-30T15:20:47+00:00"
 toc: true
-image: "thumbs_-_4702714_-_Images_1.jpg"
+image: "thumbs_-_4702714_-_Images_1.avif"
 tags:
 - "Vohvel"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut-volant"
 - "epic SM30K Sm-assaut-volant"
 - "infanterie SM30K Sm-assaut-volant"
-- "epic infanterie SM30K Sm-assaut-volant"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SM30K Sm-assaut-volant NONSUP"
-- "epic SM30K Sm-assaut-volant NONSUP"
-- "infanterie SM30K Sm-assaut-volant NONSUP"
 
 ---
 
-![](<thumbs_-_4702714_-_Images_1.jpg> "thumbs_-_4702714_-_Images_1.jpg")
+![](<thumbs_-_4702714_-_Images_1.avif> "thumbs_-_4702714_-_Images_1.avif")
 
-  ![](<thumbs_-_4702714_-_ImagesSTL_1.jpg> "thumbs_-_4702714_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4702714_-_ImagesSTL_1.avif> "thumbs_-_4702714_-_ImagesSTL_1.avif")
 
   
 

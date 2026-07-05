@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mildseven > 8mm_gen7_Jumpers [dl]"
 date: "2025-01-27T14:15:25Z"
 toc: true
-image: "thumbs_-_8mm-gen7-jumpers_-_Images_1.jpg"
+image: "thumbs_-_8mm-gen7-jumpers_-_Images_1.avif"
 tags:
 - "mildseven"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut-volant"
 - "epic SMI Sm-assaut-volant"
 - "infanterie SMI Sm-assaut-volant"
-- "epic infanterie SMI Sm-assaut-volant"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Sm-assaut-volant SUP"
 - "epic Sm-assaut-volant SUP"
 - "infanterie Sm-assaut-volant SUP"
-- "epic infanterie Sm-assaut-volant SUP"
 - "SMI Sm-assaut-volant SUP"
-- "epic SMI Sm-assaut-volant SUP"
-- "infanterie SMI Sm-assaut-volant SUP"
 
 ---
 
-![](<thumbs_-_8mm-gen7-jumpers_-_Images_1.jpg> "thumbs_-_8mm-gen7-jumpers_-_Images_1.jpg")
+![](<thumbs_-_8mm-gen7-jumpers_-_Images_1.avif> "thumbs_-_8mm-gen7-jumpers_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-gen7-jumpers_-_ImagesSTL_1.jpg> "thumbs_-_8mm-gen7-jumpers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-gen7-jumpers_-_ImagesSTL_1.avif> "thumbs_-_8mm-gen7-jumpers_-_ImagesSTL_1.avif")
 
   
 

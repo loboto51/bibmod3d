@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Dwarf_barbarian_FDM_supportless [non dl]"
 date: "2025-11-19T17:53:31+00:00"
 toc: true
-image: "thumbs_-_7205471_-_Images_1.jpg"
+image: "thumbs_-_7205471_-_Images_1.avif"
 tags:
 - "Umarty"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7205471_-_Images_1.jpg> "thumbs_-_7205471_-_Images_1.jpg")
+![](<thumbs_-_7205471_-_Images_1.avif> "thumbs_-_7205471_-_Images_1.avif")
 
-  ![](<thumbs_-_7205471_-_Makes_1.jpg> "thumbs_-_7205471_-_Makes_1.jpg")
+  ![](<thumbs_-_7205471_-_Makes_1.avif> "thumbs_-_7205471_-_Makes_1.avif")
 
   
 

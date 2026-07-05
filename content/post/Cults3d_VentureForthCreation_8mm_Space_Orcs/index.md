@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > VentureForthCreation > 8mm_Space_Orcs [dl]"
 date: "2025-07-08T01:00:52Z"
 toc: true
-image: "thumbs_-_8mm-space-orcs_-_Images_1.jpg"
+image: "thumbs_-_8mm-space-orcs_-_Images_1.avif"
 tags:
 - "VentureForthCreation"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-boyz"
 - "epic ORKS Orks-boyz"
 - "infanterie ORKS Orks-boyz"
-- "epic infanterie ORKS Orks-boyz"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,14 +27,10 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
 - "Orks-boyz SUP"
 - "epic Orks-boyz SUP"
 - "infanterie Orks-boyz SUP"
-- "epic infanterie Orks-boyz SUP"
 - "ORKS Orks-boyz SUP"
-- "epic ORKS Orks-boyz SUP"
-- "infanterie ORKS Orks-boyz SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -50,7 +45,6 @@ tags:
 - "ORKS Orks-qg"
 - "epic ORKS Orks-qg"
 - "infanterie ORKS Orks-qg"
-- "epic infanterie ORKS Orks-qg"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -58,20 +52,16 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
 - "Orks-qg SUP"
 - "epic Orks-qg SUP"
 - "infanterie Orks-qg SUP"
-- "epic infanterie Orks-qg SUP"
 - "ORKS Orks-qg SUP"
-- "epic ORKS Orks-qg SUP"
-- "infanterie ORKS Orks-qg SUP"
 
 ---
 
-![](<thumbs_-_8mm-space-orcs_-_Images_1.jpg> "thumbs_-_8mm-space-orcs_-_Images_1.jpg")
+![](<thumbs_-_8mm-space-orcs_-_Images_1.avif> "thumbs_-_8mm-space-orcs_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-space-orcs_-_ImagesSTL_1.jpg> "thumbs_-_8mm-space-orcs_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-space-orcs_-_ImagesSTL_1.avif> "thumbs_-_8mm-space-orcs_-_ImagesSTL_1.avif")
 
   
 

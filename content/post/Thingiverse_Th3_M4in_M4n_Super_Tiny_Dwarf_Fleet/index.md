@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Super_Tiny_Dwarf_Fleet [non dl]"
 date: "2026-04-16T15:44:28+00:00"
 toc: true
-image: "thumbs_-_7336413_-_Images_1.jpg"
+image: "thumbs_-_7336413_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "manowar"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "manowar NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "manowar NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7336413_-_Images_1.jpg> "thumbs_-_7336413_-_Images_1.jpg")
+![](<thumbs_-_7336413_-_Images_1.avif> "thumbs_-_7336413_-_Images_1.avif")
 
   
 

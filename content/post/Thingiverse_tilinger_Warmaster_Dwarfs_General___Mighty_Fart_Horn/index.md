@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_General___Mighty_Fart_Horn [dl]"
 date: "2025-07-16T21:58:49+00:00"
 toc: true
-image: "thumbs_-_7093576_-_Images_1.jpg"
+image: "thumbs_-_7093576_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_7093576_-_Images_1.jpg> "thumbs_-_7093576_-_Images_1.jpg")
+![](<thumbs_-_7093576_-_Images_1.avif> "thumbs_-_7093576_-_Images_1.avif")
 
-  ![](<thumbs_-_7093576_-_ImagesSTL_1.jpg> "thumbs_-_7093576_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7093576_-_ImagesSTL_1.avif> "thumbs_-_7093576_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_7093576_-_Makes_1.jpg> "thumbs_-_7093576_-_Makes_1.jpg")
+  ![](<thumbs_-_7093576_-_Makes_1.avif> "thumbs_-_7093576_-_Makes_1.avif")
 
   
 

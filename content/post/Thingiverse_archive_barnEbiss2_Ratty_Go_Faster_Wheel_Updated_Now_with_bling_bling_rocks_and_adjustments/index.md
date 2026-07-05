@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > barnEbiss2 > Ratty_Go_Faster_Wheel_Updated_Now_with_bling_bling_rocks_and_adjustments [dl]"
 date: "2019-05-09T14:11:37+00:00"
 toc: true
-image: "thumbs_-_3618477_-_Images_1.jpg"
+image: "thumbs_-_3618477_-_Images_1.avif"
 tags:
 - "barnEbiss2"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_3618477_-_Images_1.jpg> "thumbs_-_3618477_-_Images_1.jpg")
+![](<thumbs_-_3618477_-_Images_1.avif> "thumbs_-_3618477_-_Images_1.avif")
 
-  ![](<thumbs_-_3618477_-_ImagesSTL_1.jpg> "thumbs_-_3618477_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3618477_-_ImagesSTL_1.avif> "thumbs_-_3618477_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3618477_-_Makes_1.jpg> "thumbs_-_3618477_-_Makes_1.jpg")
+  ![](<thumbs_-_3618477_-_Makes_1.avif> "thumbs_-_3618477_-_Makes_1.avif")
 
   
 

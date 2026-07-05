@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_Inquisition_ships [dl]"
 date: "2021-02-03T05:27:43Z"
 toc: true
-image: "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.jpg"
+image: "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.jpg")
+![](<thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.avif> "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_Images_1.avif")
 
-  ![](<thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_ImagesSTL_1.avif> "thumbs_-_bfg-microfleet-gothic-inquisition-ships_-_ImagesSTL_1.avif")
 
   
 

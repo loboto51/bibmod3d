@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Sirbats > Necromunda_Bulkhead___01 [non dl]"
 date: "2017-01-27T15:26:21+00:00"
 toc: true
-image: "thumbs_-_2066771_-_Images_1.jpg"
+image: "thumbs_-_2066771_-_Images_1.avif"
 tags:
 - "Sirbats"
 - "necromunda"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "necromunda decors NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_2066771_-_Images_1.jpg> "thumbs_-_2066771_-_Images_1.jpg")
+![](<thumbs_-_2066771_-_Images_1.avif> "thumbs_-_2066771_-_Images_1.avif")
 
-  ![](<thumbs_-_2066771_-_Makes_1.jpg> "thumbs_-_2066771_-_Makes_1.jpg")
+  ![](<thumbs_-_2066771_-_Makes_1.avif> "thumbs_-_2066771_-_Makes_1.avif")
 
   
 

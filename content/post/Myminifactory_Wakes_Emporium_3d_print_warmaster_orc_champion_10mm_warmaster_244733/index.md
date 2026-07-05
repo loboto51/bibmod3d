@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > Wakes_Emporium > 3d_print_warmaster_orc_champion_10mm_warmaster_244733 [dl]"
 date: "2022-09-13"
 toc: true
-image: "thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg"
+image: "thumbs_-_Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.avif"
 tags:
 - "Wakes_Emporium"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg> "thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.jpg")
+![](<thumbs_-_Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.avif> "thumbs_-_Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_ImagesSTL_1.avif> "thumbs_-_Wakes_Emporium_-_3d_print_warmaster_orc_champion_10mm_warmaster_244733_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ApproxiMakes > Dragon [non dl]"
 date: "2020-10-28T04:29:09Z"
 toc: true
-image: "thumbs_-_dragon-vidovicarts_-_Images_1.jpg"
+image: "thumbs_-_dragon-vidovicarts_-_Images_1.avif"
 tags:
 - "ApproxiMakes"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Dragons NONDL NONSUP"
-- "warmaster Dragons NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_dragon-vidovicarts_-_Images_1.jpg> "thumbs_-_dragon-vidovicarts_-_Images_1.jpg")
+![](<thumbs_-_dragon-vidovicarts_-_Images_1.avif> "thumbs_-_dragon-vidovicarts_-_Images_1.avif")
 
   
 

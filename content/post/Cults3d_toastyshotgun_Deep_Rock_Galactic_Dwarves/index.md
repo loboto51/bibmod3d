@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > toastyshotgun > Deep_Rock_Galactic_Dwarves [non dl]"
 date: "2025-06-01T15:46:10Z"
 toc: true
-image: "thumbs_-_deep-rock-galactic-dwarves_-_Images_1.jpg"
+image: "thumbs_-_deep-rock-galactic-dwarves_-_Images_1.avif"
 tags:
 - "toastyshotgun"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_deep-rock-galactic-dwarves_-_Images_1.jpg> "thumbs_-_deep-rock-galactic-dwarves_-_Images_1.jpg")
+![](<thumbs_-_deep-rock-galactic-dwarves_-_Images_1.avif> "thumbs_-_deep-rock-galactic-dwarves_-_Images_1.avif")
 
   
 

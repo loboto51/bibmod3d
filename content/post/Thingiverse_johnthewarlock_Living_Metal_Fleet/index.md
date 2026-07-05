@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > johnthewarlock > Living_Metal_Fleet [non dl]"
 date: "2020-01-15T02:43:26+00:00"
 toc: true
-image: "thumbs_-_4103757_-_Images_1.jpg"
+image: "thumbs_-_4103757_-_Images_1.avif"
 tags:
 - "johnthewarlock"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "NECRONS Flotte NONDL"
-- "bfg NECRONS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "NECRONS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "NECRONS Flotte NONSUP"
-- "bfg NECRONS Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "bfg NECRONS NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "NECRONS Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4103757_-_Images_1.jpg> "thumbs_-_4103757_-_Images_1.jpg")
+![](<thumbs_-_4103757_-_Images_1.avif> "thumbs_-_4103757_-_Images_1.avif")
 
   
 

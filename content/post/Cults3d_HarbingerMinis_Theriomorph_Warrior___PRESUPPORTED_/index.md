@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > HarbingerMinis > Theriomorph_Warrior___PRESUPPORTED_ [dl]"
 date: "2025-01-22T20:16:28Z"
 toc: true
-image: "thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg"
+image: "thumbs_-_theriomorph-warrior-presupported_-_Images_1.avif"
 tags:
 - "HarbingerMinis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Hommes-betes"
 - "epic GI Hommes-betes"
 - "infanterie GI Hommes-betes"
-- "epic infanterie GI Hommes-betes"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Hommes-betes NONSUP"
 - "epic Hommes-betes NONSUP"
 - "infanterie Hommes-betes NONSUP"
-- "epic infanterie Hommes-betes NONSUP"
 - "GI Hommes-betes NONSUP"
-- "epic GI Hommes-betes NONSUP"
-- "infanterie GI Hommes-betes NONSUP"
 - "warmaster"
 - "HOMMES-BETES"
 - "warmaster HOMMES-BETES"
@@ -46,11 +41,11 @@ tags:
 
 ---
 
-![](<thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_Images_1.jpg")
+![](<thumbs_-_theriomorph-warrior-presupported_-_Images_1.avif> "thumbs_-_theriomorph-warrior-presupported_-_Images_1.avif")
 
-  ![](<thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.avif> "thumbs_-_theriomorph-warrior-presupported_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_theriomorph-warrior-presupported_-_Makes_1.jpg> "thumbs_-_theriomorph-warrior-presupported_-_Makes_1.jpg")
+  ![](<thumbs_-_theriomorph-warrior-presupported_-_Makes_1.avif> "thumbs_-_theriomorph-warrior-presupported_-_Makes_1.avif")
 
   
 

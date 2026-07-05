@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Kingdoms_of_Ind_Tigermen [non dl]"
 date: "2025-03-30T22:40:56+00:00"
 toc: true
-image: "thumbs_-_6996180_-_Images_1.jpg"
+image: "thumbs_-_6996180_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "IND NONDL"
 - "warmaster IND NONDL"
 - "HUMAINS IND NONDL"
-- "warmaster HUMAINS IND NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "IND NONSUP"
 - "warmaster IND NONSUP"
 - "HUMAINS IND NONSUP"
-- "warmaster HUMAINS IND NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "IND NONDL NONSUP"
-- "warmaster IND NONDL NONSUP"
-- "HUMAINS IND NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6996180_-_Images_1.jpg> "thumbs_-_6996180_-_Images_1.jpg")
+![](<thumbs_-_6996180_-_Images_1.avif> "thumbs_-_6996180_-_Images_1.avif")
 
   
 

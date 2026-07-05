@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Gorbag_s_Revenge_Battleship [dl]"
 date: "2019-01-15T13:18:51+00:00"
 toc: true
-image: "thumbs_-_3357728_-_Images_1.jpg"
+image: "thumbs_-_3357728_-_Images_1.avif"
 tags:
 - "MGL89DK"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3357728_-_Images_1.jpg> "thumbs_-_3357728_-_Images_1.jpg")
+![](<thumbs_-_3357728_-_Images_1.avif> "thumbs_-_3357728_-_Images_1.avif")
 
-  ![](<thumbs_-_3357728_-_ImagesSTL_1.jpg> "thumbs_-_3357728_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3357728_-_ImagesSTL_1.avif> "thumbs_-_3357728_-_ImagesSTL_1.avif")
 
   
 

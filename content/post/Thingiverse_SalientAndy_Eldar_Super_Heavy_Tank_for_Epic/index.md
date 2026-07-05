@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > SalientAndy > Eldar_Super_Heavy_Tank_for_Epic [dl]"
 date: "2026-06-17T11:18:09+00:00"
 toc: true
-image: "thumbs_-_7370951_-_Images_1.jpg"
+image: "thumbs_-_7370951_-_Images_1.avif"
 tags:
 - "SalientAndy"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-superlourds"
 - "epic VM Eldars-superlourds"
 - "superlourds VM Eldars-superlourds"
-- "epic superlourds VM Eldars-superlourds"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "superlourds VM NONSUP"
-- "epic superlourds VM NONSUP"
 - "Eldars-superlourds NONSUP"
 - "epic Eldars-superlourds NONSUP"
 - "superlourds Eldars-superlourds NONSUP"
-- "epic superlourds Eldars-superlourds NONSUP"
 - "VM Eldars-superlourds NONSUP"
-- "epic VM Eldars-superlourds NONSUP"
-- "superlourds VM Eldars-superlourds NONSUP"
 
 ---
 
-![](<thumbs_-_7370951_-_Images_1.jpg> "thumbs_-_7370951_-_Images_1.jpg")
+![](<thumbs_-_7370951_-_Images_1.avif> "thumbs_-_7370951_-_Images_1.avif")
 
-  ![](<thumbs_-_7370951_-_ImagesSTL_1.jpg> "thumbs_-_7370951_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7370951_-_ImagesSTL_1.avif> "thumbs_-_7370951_-_ImagesSTL_1.avif")
 
   
 

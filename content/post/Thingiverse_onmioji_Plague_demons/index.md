@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onmioji > Plague_demons [dl]"
 date: "2021-12-12T23:29:18+00:00"
 toc: true
-image: "thumbs_-_5162979_-_Images_1.jpg"
+image: "thumbs_-_5162979_-_Images_1.avif"
 tags:
 - "onmioji"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_5162979_-_Images_1.jpg> "thumbs_-_5162979_-_Images_1.jpg")
+![](<thumbs_-_5162979_-_Images_1.avif> "thumbs_-_5162979_-_Images_1.avif")
 
-  ![](<thumbs_-_5162979_-_ImagesSTL_1.jpg> "thumbs_-_5162979_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5162979_-_ImagesSTL_1.avif> "thumbs_-_5162979_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_5162979_-_Makes_1.jpg> "thumbs_-_5162979_-_Makes_1.jpg")
+  ![](<thumbs_-_5162979_-_Makes_1.avif> "thumbs_-_5162979_-_Makes_1.avif")
 
   
 

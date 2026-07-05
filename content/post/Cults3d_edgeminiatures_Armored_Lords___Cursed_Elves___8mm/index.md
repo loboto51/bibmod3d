@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Armored_Lords___Cursed_Elves___8mm [non dl]"
 date: "2025-07-05T21:56:50Z"
 toc: true
-image: "thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-qg"
 - "epic EN Eldars-qg"
 - "infanterie EN Eldars-qg"
-- "epic infanterie EN Eldars-qg"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EN NONDL"
 - "epic EN NONDL"
 - "infanterie EN NONDL"
-- "epic infanterie EN NONDL"
 - "Eldars-qg NONDL"
 - "epic Eldars-qg NONDL"
 - "infanterie Eldars-qg NONDL"
-- "epic infanterie Eldars-qg NONDL"
 - "EN Eldars-qg NONDL"
-- "epic EN Eldars-qg NONDL"
-- "infanterie EN Eldars-qg NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "EN SUP"
 - "epic EN SUP"
 - "infanterie EN SUP"
-- "epic infanterie EN SUP"
 - "Eldars-qg SUP"
 - "epic Eldars-qg SUP"
 - "infanterie Eldars-qg SUP"
-- "epic infanterie Eldars-qg SUP"
 - "EN Eldars-qg SUP"
-- "epic EN Eldars-qg SUP"
-- "infanterie EN Eldars-qg SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "EN NONDL SUP"
-- "epic EN NONDL SUP"
-- "infanterie EN NONDL SUP"
 - "Eldars-qg NONDL SUP"
-- "epic Eldars-qg NONDL SUP"
-- "infanterie Eldars-qg NONDL SUP"
-- "EN Eldars-qg NONDL SUP"
 
 ---
 
-![](<thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.jpg> "thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.avif> "thumbs_-_armored-lords-cursed-elves-8mm_-_Images_1.avif")
 
   
 

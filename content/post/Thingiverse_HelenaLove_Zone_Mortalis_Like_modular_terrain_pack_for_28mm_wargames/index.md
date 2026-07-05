@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > HelenaLove > Zone_Mortalis_Like_modular_terrain_pack_for_28mm_wargames [non dl]"
 date: "2024-09-20T14:50:33+00:00"
 toc: true
-image: "thumbs_-_6772882_-_Images_1.jpg"
+image: "thumbs_-_6772882_-_Images_1.avif"
 tags:
 - "HelenaLove"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "necromunda NONDL"
 - "28mm necromunda NONDL"
 - "DECORS necromunda NONDL"
-- "28mm DECORS necromunda NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "DECORS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "necromunda NONSUP"
 - "28mm necromunda NONSUP"
 - "DECORS necromunda NONSUP"
-- "28mm DECORS necromunda NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "DECORS NONDL NONSUP"
-- "28mm DECORS NONDL NONSUP"
 - "necromunda NONDL NONSUP"
-- "28mm necromunda NONDL NONSUP"
-- "DECORS necromunda NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6772882_-_Images_1.jpg> "thumbs_-_6772882_-_Images_1.jpg")
+![](<thumbs_-_6772882_-_Images_1.avif> "thumbs_-_6772882_-_Images_1.avif")
 
-  ![](<thumbs_-_6772882_-_Makes_1.jpg> "thumbs_-_6772882_-_Makes_1.jpg")
+  ![](<thumbs_-_6772882_-_Makes_1.avif> "thumbs_-_6772882_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > thesiegetower > War_Mammoth [non dl]"
 date: "2021-02-16T01:38:45+00:00"
 toc: true
-image: "thumbs_-_4764182_-_Images_1.jpg"
+image: "thumbs_-_4764182_-_Images_1.avif"
 tags:
 - "thesiegetower"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4764182_-_Images_1.jpg> "thumbs_-_4764182_-_Images_1.jpg")
+![](<thumbs_-_4764182_-_Images_1.avif> "thumbs_-_4764182_-_Images_1.avif")
 
   
 

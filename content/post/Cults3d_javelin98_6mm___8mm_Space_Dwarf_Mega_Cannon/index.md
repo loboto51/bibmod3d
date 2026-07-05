@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > javelin98 > 6mm___8mm_Space_Dwarf_Mega_Cannon [non dl]"
 date: "2025-06-05T01:19:55Z"
 toc: true
-image: "thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.jpg"
+image: "thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.avif"
 tags:
 - "javelin98"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Squats-canons-goliaths"
 - "epic SQUATS Squats-canons-goliaths"
 - "superlourds SQUATS Squats-canons-goliaths"
-- "epic superlourds SQUATS Squats-canons-goliaths"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SQUATS NONDL"
 - "epic SQUATS NONDL"
 - "superlourds SQUATS NONDL"
-- "epic superlourds SQUATS NONDL"
 - "Squats-canons-goliaths NONDL"
 - "epic Squats-canons-goliaths NONDL"
 - "superlourds Squats-canons-goliaths NONDL"
-- "epic superlourds Squats-canons-goliaths NONDL"
 - "SQUATS Squats-canons-goliaths NONDL"
-- "epic SQUATS Squats-canons-goliaths NONDL"
-- "superlourds SQUATS Squats-canons-goliaths NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
-- "epic superlourds SQUATS NONSUP"
 - "Squats-canons-goliaths NONSUP"
 - "epic Squats-canons-goliaths NONSUP"
 - "superlourds Squats-canons-goliaths NONSUP"
-- "epic superlourds Squats-canons-goliaths NONSUP"
 - "SQUATS Squats-canons-goliaths NONSUP"
-- "epic SQUATS Squats-canons-goliaths NONSUP"
-- "superlourds SQUATS Squats-canons-goliaths NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "epic SQUATS NONDL NONSUP"
-- "superlourds SQUATS NONDL NONSUP"
 - "Squats-canons-goliaths NONDL NONSUP"
-- "epic Squats-canons-goliaths NONDL NONSUP"
-- "superlourds Squats-canons-goliaths NONDL NONSUP"
-- "SQUATS Squats-canons-goliaths NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.jpg> "thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.jpg")
+![](<thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.avif> "thumbs_-_6mm-8mm-space-dwarf-mega-cannon_-_Images_1.avif")
 
   
 

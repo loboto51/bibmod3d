@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Super_Heavy_Tanks___Tech_Elves___8mm [non dl]"
 date: "2024-11-03T19:23:00Z"
 toc: true
-image: "thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.jpg"
+image: "thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-superlourds"
 - "epic VM Eldars-superlourds"
 - "superlourds VM Eldars-superlourds"
-- "epic superlourds VM Eldars-superlourds"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "superlourds VM NONDL"
-- "epic superlourds VM NONDL"
 - "Eldars-superlourds NONDL"
 - "epic Eldars-superlourds NONDL"
 - "superlourds Eldars-superlourds NONDL"
-- "epic superlourds Eldars-superlourds NONDL"
 - "VM Eldars-superlourds NONDL"
-- "epic VM Eldars-superlourds NONDL"
-- "superlourds VM Eldars-superlourds NONDL"
 - "SUP"
 - "epic SUP"
 - "superlourds SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "superlourds VM SUP"
-- "epic superlourds VM SUP"
 - "Eldars-superlourds SUP"
 - "epic Eldars-superlourds SUP"
 - "superlourds Eldars-superlourds SUP"
-- "epic superlourds Eldars-superlourds SUP"
 - "VM Eldars-superlourds SUP"
-- "epic VM Eldars-superlourds SUP"
-- "superlourds VM Eldars-superlourds SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "superlourds NONDL SUP"
-- "epic superlourds NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "superlourds VM NONDL SUP"
 - "Eldars-superlourds NONDL SUP"
-- "epic Eldars-superlourds NONDL SUP"
-- "superlourds Eldars-superlourds NONDL SUP"
-- "VM Eldars-superlourds NONDL SUP"
 
 ---
 
-![](<thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.jpg> "thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.jpg")
+![](<thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.avif> "thumbs_-_super-heavy-tanks-tech-elves-8mm_-_Images_1.avif")
 
   
 

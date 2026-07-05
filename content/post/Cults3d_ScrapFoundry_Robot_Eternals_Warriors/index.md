@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ScrapFoundry > Robot_Eternals_Warriors [dl]"
 date: "2023-04-12T18:02:48Z"
 toc: true
-image: "thumbs_-_robot-eternals-warriors_-_Images_1.jpg"
+image: "thumbs_-_robot-eternals-warriors_-_Images_1.avif"
 tags:
 - "ScrapFoundry"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "15mm 28mm SFDIV Aliens-divers"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SFDIV NONSUP"
 - "15mm SFDIV NONSUP"
 - "28mm SFDIV NONSUP"
-- "15mm 28mm SFDIV NONSUP"
 - "Aliens-divers NONSUP"
 - "15mm Aliens-divers NONSUP"
 - "28mm Aliens-divers NONSUP"
-- "15mm 28mm Aliens-divers NONSUP"
 - "SFDIV Aliens-divers NONSUP"
-- "15mm SFDIV Aliens-divers NONSUP"
-- "28mm SFDIV Aliens-divers NONSUP"
 
 ---
 
-![](<thumbs_-_robot-eternals-warriors_-_Images_1.jpg> "thumbs_-_robot-eternals-warriors_-_Images_1.jpg")
+![](<thumbs_-_robot-eternals-warriors_-_Images_1.avif> "thumbs_-_robot-eternals-warriors_-_Images_1.avif")
 
-  ![](<thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.jpg> "thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.avif> "thumbs_-_robot-eternals-warriors_-_ImagesSTL_1.avif")
 
   
 

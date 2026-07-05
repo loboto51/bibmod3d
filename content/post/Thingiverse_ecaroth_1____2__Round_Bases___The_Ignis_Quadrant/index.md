@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ecaroth > 1____2__Round_Bases___The_Ignis_Quadrant [non dl]"
 date: "2020-03-21T17:57:19+00:00"
 toc: true
-image: "thumbs_-_4234848_-_Images_1.jpg"
+image: "thumbs_-_4234848_-_Images_1.avif"
 tags:
 - "ecaroth"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "28mm DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "28mm SOCLES DIVERS NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "SOCLES NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "DIVERS NONSUP"
 - "28mm DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "28mm SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "28mm SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "28mm DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4234848_-_Images_1.jpg> "thumbs_-_4234848_-_Images_1.jpg")
+![](<thumbs_-_4234848_-_Images_1.avif> "thumbs_-_4234848_-_Images_1.avif")
 
-  ![](<thumbs_-_4234848_-_Makes_1.jpg> "thumbs_-_4234848_-_Makes_1.jpg")
+  ![](<thumbs_-_4234848_-_Makes_1.avif> "thumbs_-_4234848_-_Makes_1.avif")
 
   
 

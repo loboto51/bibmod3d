@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > jimmyzimms > Legionary_Banner_Jarhead_Builder [dl]"
 date: "2022-06-10T10:59:46Z"
 toc: true
-image: "thumbs_-_legionary-banner-jarheads_-_Images_1.jpg"
+image: "thumbs_-_legionary-banner-jarheads_-_Images_1.avif"
 tags:
 - "jimmyzimms"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "Bits Builders"
 - "epic Bits Builders"
 - "SMI Bits Builders"
-- "epic SMI Bits Builders"
 - "NONSUP"
 - "epic NONSUP"
 - "SMI NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Bits NONSUP"
 - "epic Bits NONSUP"
 - "SMI Bits NONSUP"
-- "epic SMI Bits NONSUP"
 - "Builders NONSUP"
 - "epic Builders NONSUP"
 - "SMI Builders NONSUP"
-- "epic SMI Builders NONSUP"
 - "Bits Builders NONSUP"
-- "epic Bits Builders NONSUP"
-- "SMI Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_legionary-banner-jarheads_-_Images_1.jpg> "thumbs_-_legionary-banner-jarheads_-_Images_1.jpg")
+![](<thumbs_-_legionary-banner-jarheads_-_Images_1.avif> "thumbs_-_legionary-banner-jarheads_-_Images_1.avif")
 
-  ![](<thumbs_-_legionary-banner-jarheads_-_ImagesSTL_1.jpg> "thumbs_-_legionary-banner-jarheads_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_legionary-banner-jarheads_-_ImagesSTL_1.avif> "thumbs_-_legionary-banner-jarheads_-_ImagesSTL_1.avif")
 
   
 

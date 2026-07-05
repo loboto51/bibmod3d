@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > happyfarm > 6mm_Sci_fi_Scout_Walker [dl]"
 date: "2026-06-22T13:41:16Z"
 toc: true
-image: "thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.jpg"
+image: "thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.avif"
 tags:
 - "happyfarm"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Sentinelles"
 - "epic GI Sentinelles"
 - "marcheurs GI Sentinelles"
-- "epic marcheurs GI Sentinelles"
 - "SUP"
 - "epic SUP"
 - "marcheurs SUP"
@@ -28,20 +27,16 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "marcheurs GI SUP"
-- "epic marcheurs GI SUP"
 - "Sentinelles SUP"
 - "epic Sentinelles SUP"
 - "marcheurs Sentinelles SUP"
-- "epic marcheurs Sentinelles SUP"
 - "GI Sentinelles SUP"
-- "epic GI Sentinelles SUP"
-- "marcheurs GI Sentinelles SUP"
 
 ---
 
-![](<thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.jpg> "thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.jpg")
+![](<thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.avif> "thumbs_-_6mm-sci-fi-scout-walker_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-sci-fi-scout-walker_-_ImagesSTL_1.jpg> "thumbs_-_6mm-sci-fi-scout-walker_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-sci-fi-scout-walker_-_ImagesSTL_1.avif> "thumbs_-_6mm-sci-fi-scout-walker_-_ImagesSTL_1.avif")
 
   
 

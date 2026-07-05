@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Artael > Space_robot_necron_lokhust_destroyer_cultist [non dl]"
 date: "2023-07-30T16:07:37Z"
 toc: true
-image: "thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.jpg"
+image: "thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.avif"
 tags:
 - "Artael"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "28mm NECRONS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.jpg> "thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.jpg")
+![](<thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.avif> "thumbs_-_space-robot-necron-lokhust-destroyer-cultist_-_Images_1.avif")
 
   
 

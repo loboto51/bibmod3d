@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheZomby > OSD_Armored_Scout [dl]"
 date: "2022-01-19T03:57:27+00:00"
 toc: true
-image: "thumbs_-_5206521_-_Images_1.jpg"
+image: "thumbs_-_5206521_-_Images_1.avif"
 tags:
 - "TheZomby"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-marcheurs-de-guerre"
 - "epic VM Eldars-marcheurs-de-guerre"
 - "marcheurs VM Eldars-marcheurs-de-guerre"
-- "epic marcheurs VM Eldars-marcheurs-de-guerre"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "marcheurs VM NONSUP"
-- "epic marcheurs VM NONSUP"
 - "Eldars-marcheurs-de-guerre NONSUP"
 - "epic Eldars-marcheurs-de-guerre NONSUP"
 - "marcheurs Eldars-marcheurs-de-guerre NONSUP"
-- "epic marcheurs Eldars-marcheurs-de-guerre NONSUP"
 - "VM Eldars-marcheurs-de-guerre NONSUP"
-- "epic VM Eldars-marcheurs-de-guerre NONSUP"
-- "marcheurs VM Eldars-marcheurs-de-guerre NONSUP"
 
 ---
 
-![](<thumbs_-_5206521_-_Images_1.jpg> "thumbs_-_5206521_-_Images_1.jpg")
+![](<thumbs_-_5206521_-_Images_1.avif> "thumbs_-_5206521_-_Images_1.avif")
 
-  ![](<thumbs_-_5206521_-_ImagesSTL_1.jpg> "thumbs_-_5206521_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5206521_-_ImagesSTL_1.avif> "thumbs_-_5206521_-_ImagesSTL_1.avif")
 
   
 

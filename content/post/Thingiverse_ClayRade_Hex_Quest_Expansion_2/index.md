@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ClayRade > Hex_Quest_Expansion_2 [non dl]"
 date: "2020-06-27T00:21:01+00:00"
 toc: true
-image: "thumbs_-_4502920_-_Images_1.jpg"
+image: "thumbs_-_4502920_-_Images_1.avif"
 tags:
 - "ClayRade"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4502920_-_Images_1.jpg> "thumbs_-_4502920_-_Images_1.jpg")
+![](<thumbs_-_4502920_-_Images_1.avif> "thumbs_-_4502920_-_Images_1.avif")
 
   
 

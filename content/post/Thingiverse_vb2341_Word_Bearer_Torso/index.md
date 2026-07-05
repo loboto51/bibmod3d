@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > vb2341 > Word_Bearer_Torso [non dl]"
 date: "2020-08-16T19:41:55+00:00"
 toc: true
-image: "thumbs_-_4571747_-_Images_1.jpg"
+image: "thumbs_-_4571747_-_Images_1.avif"
 tags:
 - "vb2341"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4571747_-_Images_1.jpg> "thumbs_-_4571747_-_Images_1.jpg")
+![](<thumbs_-_4571747_-_Images_1.avif> "thumbs_-_4571747_-_Images_1.avif")
 
   
 

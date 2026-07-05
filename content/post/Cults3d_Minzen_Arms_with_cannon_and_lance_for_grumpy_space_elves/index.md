@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Minzen > Arms_with_cannon_and_lance_for_grumpy_space_elves [non dl]"
 date: "2025-03-14T02:57:22Z"
 toc: true
-image: "thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.jpg"
+image: "thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.avif"
 tags:
 - "Minzen"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "EN NONDL"
 - "28mm EN NONDL"
 - "ELDARS EN NONDL"
-- "28mm ELDARS EN NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "ELDARS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "EN NONSUP"
 - "28mm EN NONSUP"
 - "ELDARS EN NONSUP"
-- "28mm ELDARS EN NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "ELDARS NONDL NONSUP"
-- "28mm ELDARS NONDL NONSUP"
 - "EN NONDL NONSUP"
-- "28mm EN NONDL NONSUP"
-- "ELDARS EN NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.jpg> "thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.jpg")
+![](<thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.avif> "thumbs_-_arms-with-cannon-and-lance-for-grumpy-space-elves_-_Images_1.avif")
 
   
 

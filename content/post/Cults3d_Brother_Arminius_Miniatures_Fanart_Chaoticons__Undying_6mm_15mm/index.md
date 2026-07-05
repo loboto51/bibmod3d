@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Brother_Arminius_Miniatures > Fanart_Chaoticons__Undying_6mm_15mm [dl]"
 date: "2025-08-11T10:48:16Z"
 toc: true
-image: "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.jpg"
+image: "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.avif"
 tags:
 - "Brother_Arminius_Miniatures"
 - "15mm"
@@ -27,7 +27,6 @@ tags:
 - "NEC Necrons-armes-lourdes"
 - "epic NEC Necrons-armes-lourdes"
 - "infanterie NEC Necrons-armes-lourdes"
-- "epic infanterie NEC Necrons-armes-lourdes"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -35,14 +34,10 @@ tags:
 - "NEC SUP"
 - "epic NEC SUP"
 - "infanterie NEC SUP"
-- "epic infanterie NEC SUP"
 - "Necrons-armes-lourdes SUP"
 - "epic Necrons-armes-lourdes SUP"
 - "infanterie Necrons-armes-lourdes SUP"
-- "epic infanterie Necrons-armes-lourdes SUP"
 - "NEC Necrons-armes-lourdes SUP"
-- "epic NEC Necrons-armes-lourdes SUP"
-- "infanterie NEC Necrons-armes-lourdes SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -57,7 +52,6 @@ tags:
 - "NEC Necrons-tactiques"
 - "epic NEC Necrons-tactiques"
 - "infanterie NEC Necrons-tactiques"
-- "epic infanterie NEC Necrons-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -65,20 +59,16 @@ tags:
 - "NEC SUP"
 - "epic NEC SUP"
 - "infanterie NEC SUP"
-- "epic infanterie NEC SUP"
 - "Necrons-tactiques SUP"
 - "epic Necrons-tactiques SUP"
 - "infanterie Necrons-tactiques SUP"
-- "epic infanterie Necrons-tactiques SUP"
 - "NEC Necrons-tactiques SUP"
-- "epic NEC Necrons-tactiques SUP"
-- "infanterie NEC Necrons-tactiques SUP"
 
 ---
 
-![](<thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.jpg> "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.jpg")
+![](<thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.avif> "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_Images_1.avif")
 
-  ![](<thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_ImagesSTL_1.jpg> "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_ImagesSTL_1.avif> "thumbs_-_fanart-chaoticons-undying-6mm-15mm_-_ImagesSTL_1.avif")
 
   
 

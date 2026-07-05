@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Nerdyalien > Undead_Wyvern_Set [non dl]"
 date: "2023-09-06T21:11:06Z"
 toc: true
-image: "thumbs_-_undead-wyvern-set_-_Images_1.jpg"
+image: "thumbs_-_undead-wyvern-set_-_Images_1.avif"
 tags:
 - "Nerdyalien"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "warmaster MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_undead-wyvern-set_-_Images_1.jpg> "thumbs_-_undead-wyvern-set_-_Images_1.jpg")
+![](<thumbs_-_undead-wyvern-set_-_Images_1.avif> "thumbs_-_undead-wyvern-set_-_Images_1.avif")
 
   
 

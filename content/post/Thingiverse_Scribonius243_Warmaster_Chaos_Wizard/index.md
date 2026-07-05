@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Scribonius243 > Warmaster_Chaos_Wizard [dl]"
 date: "2025-01-04T18:32:17+00:00"
 toc: true
-image: "thumbs_-_6900451_-_Images_1.jpg"
+image: "thumbs_-_6900451_-_Images_1.avif"
 tags:
 - "Scribonius243"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_6900451_-_Images_1.jpg> "thumbs_-_6900451_-_Images_1.jpg")
+![](<thumbs_-_6900451_-_Images_1.avif> "thumbs_-_6900451_-_Images_1.avif")
 
-  ![](<thumbs_-_6900451_-_ImagesSTL_1.jpg> "thumbs_-_6900451_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6900451_-_ImagesSTL_1.avif> "thumbs_-_6900451_-_ImagesSTL_1.avif")
 
   
 

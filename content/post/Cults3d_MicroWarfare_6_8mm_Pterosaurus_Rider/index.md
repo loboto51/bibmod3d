@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MicroWarfare > 6_8mm_Pterosaurus_Rider [dl]"
 date: "2021-03-19T02:13:22Z"
 toc: true
-image: "thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.avif"
 tags:
 - "MicroWarfare"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-pterosaures"
 - "epic EXO Eldars-pterosaures"
 - "vehicules EXO Eldars-pterosaures"
-- "epic vehicules EXO Eldars-pterosaures"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "EXO NONSUP"
 - "epic EXO NONSUP"
 - "vehicules EXO NONSUP"
-- "epic vehicules EXO NONSUP"
 - "Eldars-pterosaures NONSUP"
 - "epic Eldars-pterosaures NONSUP"
 - "vehicules Eldars-pterosaures NONSUP"
-- "epic vehicules Eldars-pterosaures NONSUP"
 - "EXO Eldars-pterosaures NONSUP"
-- "epic EXO Eldars-pterosaures NONSUP"
-- "vehicules EXO Eldars-pterosaures NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.jpg> "thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.avif> "thumbs_-_6-8mm-pterosaurus-rider_-_Images_1.avif")
 
-  ![](<thumbs_-_6-8mm-pterosaurus-rider_-_ImagesSTL_1.jpg> "thumbs_-_6-8mm-pterosaurus-rider_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6-8mm-pterosaurus-rider_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-pterosaurus-rider_-_ImagesSTL_1.avif")
 
   
 

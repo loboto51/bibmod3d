@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MatttKing > Jade_Coalition___Juggernauts [non dl]"
 date: "2023-05-05T22:37:11+00:00"
 toc: true
-image: "thumbs_-_6009740_-_Images_1.jpg"
+image: "thumbs_-_6009740_-_Images_1.avif"
 tags:
 - "MatttKing"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "Ogryns NONDL"
 - "28mm Ogryns NONDL"
 - "IMP Ogryns NONDL"
-- "28mm IMP Ogryns NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -28,20 +27,16 @@ tags:
 - "Ogryns SUP"
 - "28mm Ogryns SUP"
 - "IMP Ogryns SUP"
-- "28mm IMP Ogryns SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "IMP NONDL SUP"
-- "28mm IMP NONDL SUP"
 - "Ogryns NONDL SUP"
-- "28mm Ogryns NONDL SUP"
-- "IMP Ogryns NONDL SUP"
 
 ---
 
-![](<thumbs_-_6009740_-_Images_1.jpg> "thumbs_-_6009740_-_Images_1.jpg")
+![](<thumbs_-_6009740_-_Images_1.avif> "thumbs_-_6009740_-_Images_1.avif")
 
-  ![](<thumbs_-_6009740_-_Makes_1.jpg> "thumbs_-_6009740_-_Makes_1.jpg")
+  ![](<thumbs_-_6009740_-_Makes_1.avif> "thumbs_-_6009740_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Patreon > Tordominis > Barbarian_Champion_10mm [dl]"
 date: "2026-05-11"
 toc: true
-image: "thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.jpg"
+image: "thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.avif"
 tags:
 - "Tordominis"
 - "warmaster"
@@ -16,7 +16,7 @@ tags:
 
 ---
 
-![](<thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.jpg> "thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.jpg")
+![](<thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_Barbarian_Champion_10mm_-_ImagesSTL_1.avif")
 
   
 

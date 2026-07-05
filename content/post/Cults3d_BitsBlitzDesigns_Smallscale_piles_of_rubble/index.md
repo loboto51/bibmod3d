@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > BitsBlitzDesigns > Smallscale_piles_of_rubble [non dl]"
 date: "2024-08-07T12:18:04Z"
 toc: true
-image: "thumbs_-_smallscale-piles-of-rubble_-_Images_1.jpg"
+image: "thumbs_-_smallscale-piles-of-rubble_-_Images_1.avif"
 tags:
 - "BitsBlitzDesigns"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "Decors-sol-SF NONDL"
 - "15mm Decors-sol-SF NONDL"
 - "decors Decors-sol-SF NONDL"
-- "15mm decors Decors-sol-SF NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Decors-sol-SF NONSUP"
 - "15mm Decors-sol-SF NONSUP"
 - "decors Decors-sol-SF NONSUP"
-- "15mm decors Decors-sol-SF NONSUP"
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "15mm decors NONDL NONSUP"
 - "Decors-sol-SF NONDL NONSUP"
-- "15mm Decors-sol-SF NONDL NONSUP"
-- "decors Decors-sol-SF NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_smallscale-piles-of-rubble_-_Images_1.jpg> "thumbs_-_smallscale-piles-of-rubble_-_Images_1.jpg")
+![](<thumbs_-_smallscale-piles-of-rubble_-_Images_1.avif> "thumbs_-_smallscale-piles-of-rubble_-_Images_1.avif")
 
-  ![](<thumbs_-_smallscale-piles-of-rubble_-_Makes_1.jpg> "thumbs_-_smallscale-piles-of-rubble_-_Makes_1.jpg")
+  ![](<thumbs_-_smallscale-piles-of-rubble_-_Makes_1.avif> "thumbs_-_smallscale-piles-of-rubble_-_Makes_1.avif")
 
   
 

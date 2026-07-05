@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ssmigielski > Martian_Glory_Dominion_Crusader_Titanic_Knight_for_8mm_Scale [dl]"
 date: "2021-05-17T16:17:07+00:00"
 toc: true
-image: "thumbs_-_4861593_-_Images_1.jpg"
+image: "thumbs_-_4861593_-_Images_1.avif"
 tags:
 - "Ssmigielski"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "epic chevaliers IMP Admech-chevaliers"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
 - "Admech-chevaliers NONSUP"
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
-![](<thumbs_-_4861593_-_Images_1.jpg> "thumbs_-_4861593_-_Images_1.jpg")
+![](<thumbs_-_4861593_-_Images_1.avif> "thumbs_-_4861593_-_Images_1.avif")
 
-  ![](<thumbs_-_4861593_-_ImagesSTL_1.jpg> "thumbs_-_4861593_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4861593_-_ImagesSTL_1.avif> "thumbs_-_4861593_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4861593_-_Makes_1.jpg> "thumbs_-_4861593_-_Makes_1.jpg")
+  ![](<thumbs_-_4861593_-_Makes_1.avif> "thumbs_-_4861593_-_Makes_1.avif")
 
   
 

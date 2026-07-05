@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > HoovyDundy > Space_Rats___Sci_Fi_Vermin_Troopers [non dl]"
 date: "2026-05-04T03:44:52+00:00"
 toc: true
-image: "thumbs_-_7347016_-_Images_1.jpg"
+image: "thumbs_-_7347016_-_Images_1.avif"
 tags:
 - "HoovyDundy"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SKAVENS NONDL NONSUP"
-- "28mm SKAVENS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7347016_-_Images_1.jpg> "thumbs_-_7347016_-_Images_1.jpg")
+![](<thumbs_-_7347016_-_Images_1.avif> "thumbs_-_7347016_-_Images_1.avif")
 
   
 

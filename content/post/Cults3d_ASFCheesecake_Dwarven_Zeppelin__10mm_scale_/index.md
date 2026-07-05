@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ASFCheesecake > Dwarven_Zeppelin__10mm_scale_ [non dl]"
 date: "2023-08-05T14:23:23Z"
 toc: true
-image: "thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.jpg"
+image: "thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.avif"
 tags:
 - "ASFCheesecake"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "warmaster NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.jpg> "thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.jpg")
+![](<thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.avif> "thumbs_-_dwarven-zeppelin-10mm-scale_-_Images_1.avif")
 
   
 

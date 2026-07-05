@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MaximumKharnage > Big_Bad_Guys [dl]"
 date: "2026-05-16T01:39:20Z"
 toc: true
-image: "thumbs_-_big-bad-guys_-_Images_1.jpg"
+image: "thumbs_-_big-bad-guys_-_Images_1.avif"
 tags:
 - "MaximumKharnage"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_big-bad-guys_-_Images_1.jpg> "thumbs_-_big-bad-guys_-_Images_1.jpg")
+![](<thumbs_-_big-bad-guys_-_Images_1.avif> "thumbs_-_big-bad-guys_-_Images_1.avif")
 
-  ![](<thumbs_-_big-bad-guys_-_ImagesSTL_1.jpg> "thumbs_-_big-bad-guys_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_big-bad-guys_-_ImagesSTL_1.avif> "thumbs_-_big-bad-guys_-_ImagesSTL_1.avif")
 
   
 

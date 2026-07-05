@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > FelixTheCrazy > Kombat_and_Kommand__Cannibal_Chicken_hand_poses_ [non dl]"
 date: "2020-05-22T22:21:01+00:00"
 toc: true
-image: "thumbs_-_4365130_-_Images_1.jpg"
+image: "thumbs_-_4365130_-_Images_1.avif"
 tags:
 - "FelixTheCrazy"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "TAU NONDL NONSUP"
-- "28mm TAU NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4365130_-_Images_1.jpg> "thumbs_-_4365130_-_Images_1.jpg")
+![](<thumbs_-_4365130_-_Images_1.avif> "thumbs_-_4365130_-_Images_1.avif")
 
   
 

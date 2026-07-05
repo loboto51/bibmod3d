@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rengald > Witch_King_in_10mm_Scale [non dl]"
 date: "2025-09-02T01:02:05+00:00"
 toc: true
-image: "thumbs_-_7134018_-_Images_1.jpg"
+image: "thumbs_-_7134018_-_Images_1.avif"
 tags:
 - "Rengald"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "LOTR-MORDOR NONDL NONSUP"
-- "warmaster LOTR-MORDOR NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7134018_-_Images_1.jpg> "thumbs_-_7134018_-_Images_1.jpg")
+![](<thumbs_-_7134018_-_Images_1.avif> "thumbs_-_7134018_-_Images_1.avif")
 
   
 

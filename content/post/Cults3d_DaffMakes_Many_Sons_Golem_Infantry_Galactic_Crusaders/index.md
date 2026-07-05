@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Many_Sons_Golem_Infantry_Galactic_Crusaders [dl]"
 date: "2025-03-02T01:51:24Z"
 toc: true
-image: "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.jpg"
+image: "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-tactiques"
 - "epic SMC Sm-tactiques"
 - "infanterie SMC Sm-tactiques"
-- "epic infanterie SMC Sm-tactiques"
 - "TZEENTCH"
 - "epic TZEENTCH"
 - "infanterie TZEENTCH"
@@ -28,14 +27,10 @@ tags:
 - "SMC TZEENTCH"
 - "epic SMC TZEENTCH"
 - "infanterie SMC TZEENTCH"
-- "epic infanterie SMC TZEENTCH"
 - "Sm-tactiques TZEENTCH"
 - "epic Sm-tactiques TZEENTCH"
 - "infanterie Sm-tactiques TZEENTCH"
-- "epic infanterie Sm-tactiques TZEENTCH"
 - "SMC Sm-tactiques TZEENTCH"
-- "epic SMC Sm-tactiques TZEENTCH"
-- "infanterie SMC Sm-tactiques TZEENTCH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMC Sm-tactiques NONSUP"
-- "epic SMC Sm-tactiques NONSUP"
-- "infanterie SMC Sm-tactiques NONSUP"
 - "TZEENTCH NONSUP"
 - "epic TZEENTCH NONSUP"
 - "infanterie TZEENTCH NONSUP"
-- "epic infanterie TZEENTCH NONSUP"
 - "SMC TZEENTCH NONSUP"
-- "epic SMC TZEENTCH NONSUP"
-- "infanterie SMC TZEENTCH NONSUP"
 - "Sm-tactiques TZEENTCH NONSUP"
-- "epic Sm-tactiques TZEENTCH NONSUP"
-- "infanterie Sm-tactiques TZEENTCH NONSUP"
-- "SMC Sm-tactiques TZEENTCH NONSUP"
 
 ---
 
-![](<thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.jpg> "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.jpg")
+![](<thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.avif> "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_Images_1.avif")
 
-  ![](<thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_ImagesSTL_1.jpg> "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_ImagesSTL_1.avif> "thumbs_-_many-sons-golem-infantry-galactic-crusaders-d04fabc646c440bdee99_-_ImagesSTL_1.avif")
 
   
 

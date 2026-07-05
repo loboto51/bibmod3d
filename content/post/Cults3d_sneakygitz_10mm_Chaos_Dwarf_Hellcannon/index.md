@@ -3,7 +3,7 @@
 title: "[BON-MARCHE] Cults3d > sneakygitz > 10mm_Chaos_Dwarf_Hellcannon [non dl]"
 date: "2022-01-31T17:00:40Z"
 toc: true
-image: "thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.jpg"
+image: "thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.avif"
 tags:
 - "sneakygitz"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "NAINS-DU-CHAOS NONDL SUP"
-- "warmaster NAINS-DU-CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.jpg> "thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.jpg")
+![](<thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.avif> "thumbs_-_10mm-chaos-dwarf-hellcannon_-_Images_1.avif")
 
   
 

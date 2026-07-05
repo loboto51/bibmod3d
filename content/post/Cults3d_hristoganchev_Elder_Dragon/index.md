@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > hristoganchev > Elder_Dragon [non dl]"
 date: "2025-08-16T14:01:28Z"
 toc: true
-image: "thumbs_-_elder-dragon_-_Images_1.jpg"
+image: "thumbs_-_elder-dragon_-_Images_1.avif"
 tags:
 - "hristoganchev"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Dragons NONDL NONSUP"
-- "warmaster Dragons NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_elder-dragon_-_Images_1.jpg> "thumbs_-_elder-dragon_-_Images_1.jpg")
+![](<thumbs_-_elder-dragon_-_Images_1.avif> "thumbs_-_elder-dragon_-_Images_1.avif")
 
   
 

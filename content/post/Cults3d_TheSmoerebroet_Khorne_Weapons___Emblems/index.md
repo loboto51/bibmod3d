@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > TheSmoerebroet > Khorne_Weapons___Emblems [dl]"
 date: "2022-02-24T00:04:28Z"
 toc: true
-image: "thumbs_-_khorne-weapons-emblems_-_Images_1.jpg"
+image: "thumbs_-_khorne-weapons-emblems_-_Images_1.avif"
 tags:
 - "TheSmoerebroet"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_khorne-weapons-emblems_-_Images_1.jpg> "thumbs_-_khorne-weapons-emblems_-_Images_1.jpg")
+![](<thumbs_-_khorne-weapons-emblems_-_Images_1.avif> "thumbs_-_khorne-weapons-emblems_-_Images_1.avif")
 
-  ![](<thumbs_-_khorne-weapons-emblems_-_ImagesSTL_1.jpg> "thumbs_-_khorne-weapons-emblems_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_khorne-weapons-emblems_-_ImagesSTL_1.avif> "thumbs_-_khorne-weapons-emblems_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TheDragonWaiting > Dwarf_Miner_Builder_kit_v1 [non dl]"
 date: "2024-09-06T03:41:36+00:00"
 toc: true
-image: "thumbs_-_6756592_-_Images_1.jpg"
+image: "thumbs_-_6756592_-_Images_1.avif"
 tags:
 - "TheDragonWaiting"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6756592_-_Images_1.jpg> "thumbs_-_6756592_-_Images_1.jpg")
+![](<thumbs_-_6756592_-_Images_1.avif> "thumbs_-_6756592_-_Images_1.avif")
 
   
 

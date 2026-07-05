@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ilhadiel > Knight_Infantry_Miniatures_with_2_handed_weapon [dl]"
 date: "2020-04-21T17:36:31+00:00"
 toc: true
-image: "thumbs_-_4303630_-_Images_1.jpg"
+image: "thumbs_-_4303630_-_Images_1.avif"
 tags:
 - "Ilhadiel"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Medievaux"
 - "28mm HUMAINS Medievaux"
 - "ELFES HUMAINS Medievaux"
-- "28mm ELFES HUMAINS Medievaux"
 - "NONSUP"
 - "28mm NONSUP"
 - "ELFES NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "ELFES HUMAINS NONSUP"
-- "28mm ELFES HUMAINS NONSUP"
 - "Medievaux NONSUP"
 - "28mm Medievaux NONSUP"
 - "ELFES Medievaux NONSUP"
-- "28mm ELFES Medievaux NONSUP"
 - "HUMAINS Medievaux NONSUP"
-- "28mm HUMAINS Medievaux NONSUP"
-- "ELFES HUMAINS Medievaux NONSUP"
 
 ---
 
-![](<thumbs_-_4303630_-_Images_1.jpg> "thumbs_-_4303630_-_Images_1.jpg")
+![](<thumbs_-_4303630_-_Images_1.avif> "thumbs_-_4303630_-_Images_1.avif")
 
-  ![](<thumbs_-_4303630_-_ImagesSTL_1.jpg> "thumbs_-_4303630_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4303630_-_ImagesSTL_1.avif> "thumbs_-_4303630_-_ImagesSTL_1.avif")
 
   
 

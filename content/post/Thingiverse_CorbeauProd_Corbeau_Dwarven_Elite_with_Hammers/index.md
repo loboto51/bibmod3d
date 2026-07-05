@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > CorbeauProd > Corbeau_Dwarven_Elite_with_Hammers [non dl]"
 date: "2021-01-31T12:28:17+00:00"
 toc: true
-image: "thumbs_-_4735149_-_Images_1.jpg"
+image: "thumbs_-_4735149_-_Images_1.avif"
 tags:
 - "CorbeauProd"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "28mm NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4735149_-_Images_1.jpg> "thumbs_-_4735149_-_Images_1.jpg")
+![](<thumbs_-_4735149_-_Images_1.avif> "thumbs_-_4735149_-_Images_1.avif")
 
   
 

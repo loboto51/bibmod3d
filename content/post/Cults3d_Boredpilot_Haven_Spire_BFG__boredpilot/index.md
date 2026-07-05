@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > Boredpilot > Haven_Spire_BFG__boredpilot [non dl]"
 date: "2021-11-17T06:59:36Z"
 toc: true
-image: "thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.jpg"
+image: "thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.avif"
 tags:
 - "Boredpilot"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Planètes-et-stations-spatiales NONDL"
 - "bfg Planètes-et-stations-spatiales NONDL"
 - "decors Planètes-et-stations-spatiales NONDL"
-- "bfg decors Planètes-et-stations-spatiales NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "decors NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Planètes-et-stations-spatiales NONSUP"
 - "bfg Planètes-et-stations-spatiales NONSUP"
 - "decors Planètes-et-stations-spatiales NONSUP"
-- "bfg decors Planètes-et-stations-spatiales NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "bfg decors NONDL NONSUP"
 - "Planètes-et-stations-spatiales NONDL NONSUP"
-- "bfg Planètes-et-stations-spatiales NONDL NONSUP"
-- "decors Planètes-et-stations-spatiales NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.jpg> "thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.jpg")
+![](<thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.avif> "thumbs_-_haven-spire-bfg-boredpilot_-_Images_1.avif")
 
   
 

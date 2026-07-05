@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Stroganoff > Epic_Scale_Marauder_Vigilant [dl]"
 date: "2018-02-24T05:05:19+00:00"
 toc: true
-image: "thumbs_-_2804838_-_Images_1.jpg"
+image: "thumbs_-_2804838_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Imp-bombardiers"
 - "epic IMP Imp-bombardiers"
 - "volants IMP Imp-bombardiers"
-- "epic volants IMP Imp-bombardiers"
 - "Maraudeurs"
 - "epic Maraudeurs"
 - "volants Maraudeurs"
@@ -28,14 +27,10 @@ tags:
 - "IMP Maraudeurs"
 - "epic IMP Maraudeurs"
 - "volants IMP Maraudeurs"
-- "epic volants IMP Maraudeurs"
 - "Imp-bombardiers Maraudeurs"
 - "epic Imp-bombardiers Maraudeurs"
 - "volants Imp-bombardiers Maraudeurs"
-- "epic volants Imp-bombardiers Maraudeurs"
 - "IMP Imp-bombardiers Maraudeurs"
-- "epic IMP Imp-bombardiers Maraudeurs"
-- "volants IMP Imp-bombardiers Maraudeurs"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
 - "Imp-bombardiers NONSUP"
 - "epic Imp-bombardiers NONSUP"
 - "volants Imp-bombardiers NONSUP"
-- "epic volants Imp-bombardiers NONSUP"
 - "IMP Imp-bombardiers NONSUP"
-- "epic IMP Imp-bombardiers NONSUP"
-- "volants IMP Imp-bombardiers NONSUP"
 - "Maraudeurs NONSUP"
 - "epic Maraudeurs NONSUP"
 - "volants Maraudeurs NONSUP"
-- "epic volants Maraudeurs NONSUP"
 - "IMP Maraudeurs NONSUP"
-- "epic IMP Maraudeurs NONSUP"
-- "volants IMP Maraudeurs NONSUP"
 - "Imp-bombardiers Maraudeurs NONSUP"
-- "epic Imp-bombardiers Maraudeurs NONSUP"
-- "volants Imp-bombardiers Maraudeurs NONSUP"
-- "IMP Imp-bombardiers Maraudeurs NONSUP"
 
 ---
 
-![](<thumbs_-_2804838_-_Images_1.jpg> "thumbs_-_2804838_-_Images_1.jpg")
+![](<thumbs_-_2804838_-_Images_1.avif> "thumbs_-_2804838_-_Images_1.avif")
 
-  ![](<thumbs_-_2804838_-_ImagesSTL_1.jpg> "thumbs_-_2804838_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_2804838_-_ImagesSTL_1.avif> "thumbs_-_2804838_-_ImagesSTL_1.avif")
 
   
 

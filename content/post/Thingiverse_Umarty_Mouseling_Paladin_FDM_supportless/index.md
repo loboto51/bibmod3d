@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Umarty > Mouseling_Paladin_FDM_supportless [non dl]"
 date: "2025-10-03T18:27:35+00:00"
 toc: true
-image: "thumbs_-_7161913_-_Images_1.jpg"
+image: "thumbs_-_7161913_-_Images_1.avif"
 tags:
 - "Umarty"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Medievaux"
 - "15mm HUMAINS Medievaux"
 - "ELFES HUMAINS Medievaux"
-- "15mm ELFES HUMAINS Medievaux"
 - "NONDL"
 - "15mm NONDL"
 - "ELFES NONDL"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS NONDL"
 - "15mm HUMAINS NONDL"
 - "ELFES HUMAINS NONDL"
-- "15mm ELFES HUMAINS NONDL"
 - "Medievaux NONDL"
 - "15mm Medievaux NONDL"
 - "ELFES Medievaux NONDL"
-- "15mm ELFES Medievaux NONDL"
 - "HUMAINS Medievaux NONDL"
-- "15mm HUMAINS Medievaux NONDL"
-- "ELFES HUMAINS Medievaux NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "ELFES NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "HUMAINS NONSUP"
 - "15mm HUMAINS NONSUP"
 - "ELFES HUMAINS NONSUP"
-- "15mm ELFES HUMAINS NONSUP"
 - "Medievaux NONSUP"
 - "15mm Medievaux NONSUP"
 - "ELFES Medievaux NONSUP"
-- "15mm ELFES Medievaux NONSUP"
 - "HUMAINS Medievaux NONSUP"
-- "15mm HUMAINS Medievaux NONSUP"
-- "ELFES HUMAINS Medievaux NONSUP"
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "15mm ELFES NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "15mm HUMAINS NONDL NONSUP"
-- "ELFES HUMAINS NONDL NONSUP"
 - "Medievaux NONDL NONSUP"
-- "15mm Medievaux NONDL NONSUP"
-- "ELFES Medievaux NONDL NONSUP"
-- "HUMAINS Medievaux NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7161913_-_Images_1.jpg> "thumbs_-_7161913_-_Images_1.jpg")
+![](<thumbs_-_7161913_-_Images_1.avif> "thumbs_-_7161913_-_Images_1.avif")
 
   
 

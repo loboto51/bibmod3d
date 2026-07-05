@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > FASIS > 6mm___GEORGE___Alien_Empire [dl]"
 date: "2026-06-25T12:41:40Z"
 toc: true
-image: "thumbs_-_6mm-george-alien-empire_-_Images_1.jpg"
+image: "thumbs_-_6mm-george-alien-empire_-_Images_1.avif"
 tags:
 - "FASIS"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-revenants"
 - "epic VM Eldars-revenants"
 - "titans VM Eldars-revenants"
-- "epic titans VM Eldars-revenants"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "titans VM NONSUP"
-- "epic titans VM NONSUP"
 - "Eldars-revenants NONSUP"
 - "epic Eldars-revenants NONSUP"
 - "titans Eldars-revenants NONSUP"
-- "epic titans Eldars-revenants NONSUP"
 - "VM Eldars-revenants NONSUP"
-- "epic VM Eldars-revenants NONSUP"
-- "titans VM Eldars-revenants NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-george-alien-empire_-_Images_1.jpg> "thumbs_-_6mm-george-alien-empire_-_Images_1.jpg")
+![](<thumbs_-_6mm-george-alien-empire_-_Images_1.avif> "thumbs_-_6mm-george-alien-empire_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-george-alien-empire_-_ImagesSTL_1.jpg> "thumbs_-_6mm-george-alien-empire_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-george-alien-empire_-_ImagesSTL_1.avif> "thumbs_-_6mm-george-alien-empire_-_ImagesSTL_1.avif")
 
   
 

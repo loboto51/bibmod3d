@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > JPM_designs > STC_Towers_and_Statue_Pack__NEW_Bits_for_Voidships_ [non dl]"
 date: "2025-11-13T18:40:12Z"
 toc: true
-image: "thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.jpg"
+image: "thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.avif"
 tags:
 - "JPM_designs"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.jpg> "thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.jpg")
+![](<thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.avif> "thumbs_-_stc-towers-and-statue-pack-new-bits-for-voidships_-_Images_1.avif")
 
   
 

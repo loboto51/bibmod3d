@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > SCYTHING_TALONS_COMPATIBLE_WITH_MODERN_DIGITAL_HORMAGAUNTS__NOT_COMPATIBLE_WITH_PLASTIC_ [dl]"
 date: "2023-11-17T19:56:00Z"
 toc: true
-image: "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.jpg"
+image: "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.jpg> "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.jpg")
+![](<thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.avif> "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_Images_1.avif")
 
-  ![](<thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_ImagesSTL_1.jpg> "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_ImagesSTL_1.avif> "thumbs_-_scything-talons-compatible-with-modern-digital-hormagaunts-not-compatible-with_-_ImagesSTL_1.avif")
 
   
 

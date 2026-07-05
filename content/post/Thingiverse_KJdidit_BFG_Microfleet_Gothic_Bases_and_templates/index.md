@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KJdidit > BFG_Microfleet_Gothic_Bases_and_templates [dl]"
 date: "2020-06-14T02:19:08+00:00"
 toc: true
-image: "thumbs_-_4459459_-_Images_1.jpg"
+image: "thumbs_-_4459459_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "epic"
@@ -20,13 +20,12 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 
 ---
 
-![](<thumbs_-_4459459_-_Images_1.jpg> "thumbs_-_4459459_-_Images_1.jpg")
+![](<thumbs_-_4459459_-_Images_1.avif> "thumbs_-_4459459_-_Images_1.avif")
 
-  ![](<thumbs_-_4459459_-_ImagesSTL_1.jpg> "thumbs_-_4459459_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4459459_-_ImagesSTL_1.avif> "thumbs_-_4459459_-_ImagesSTL_1.avif")
 
   
 

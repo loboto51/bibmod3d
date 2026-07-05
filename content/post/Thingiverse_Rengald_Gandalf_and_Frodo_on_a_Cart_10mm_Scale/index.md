@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rengald > Gandalf_and_Frodo_on_a_Cart_10mm_Scale [non dl]"
 date: "2025-06-20T01:55:33+00:00"
 toc: true
-image: "thumbs_-_7070878_-_Images_1.jpg"
+image: "thumbs_-_7070878_-_Images_1.avif"
 tags:
 - "Rengald"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "HALFLINGS NONDL"
 - "warmaster HALFLINGS NONDL"
 - "LOTR-HOBBITS HALFLINGS NONDL"
-- "warmaster LOTR-HOBBITS HALFLINGS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "LOTR-HOBBITS NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "HALFLINGS NONSUP"
 - "warmaster HALFLINGS NONSUP"
 - "LOTR-HOBBITS HALFLINGS NONSUP"
-- "warmaster LOTR-HOBBITS HALFLINGS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "LOTR-HOBBITS NONDL NONSUP"
-- "warmaster LOTR-HOBBITS NONDL NONSUP"
 - "HALFLINGS NONDL NONSUP"
-- "warmaster HALFLINGS NONDL NONSUP"
-- "LOTR-HOBBITS HALFLINGS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7070878_-_Images_1.jpg> "thumbs_-_7070878_-_Images_1.jpg")
+![](<thumbs_-_7070878_-_Images_1.avif> "thumbs_-_7070878_-_Images_1.avif")
 
-  ![](<thumbs_-_7070878_-_Makes_1.jpg> "thumbs_-_7070878_-_Makes_1.jpg")
+  ![](<thumbs_-_7070878_-_Makes_1.avif> "thumbs_-_7070878_-_Makes_1.avif")
 
   
 

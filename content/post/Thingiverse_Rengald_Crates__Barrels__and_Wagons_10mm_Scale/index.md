@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Rengald > Crates__Barrels__and_Wagons_10mm_Scale [non dl]"
 date: "2025-06-21T18:46:53+00:00"
 toc: true
-image: "thumbs_-_7072336_-_Images_1.jpg"
+image: "thumbs_-_7072336_-_Images_1.avif"
 tags:
 - "Rengald"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Decors-divers-lotr NONDL"
 - "warmaster Decors-divers-lotr NONDL"
 - "decors Decors-divers-lotr NONDL"
-- "warmaster decors Decors-divers-lotr NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "decors NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Decors-divers-lotr NONSUP"
 - "warmaster Decors-divers-lotr NONSUP"
 - "decors Decors-divers-lotr NONSUP"
-- "warmaster decors Decors-divers-lotr NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "warmaster decors NONDL NONSUP"
 - "Decors-divers-lotr NONDL NONSUP"
-- "warmaster Decors-divers-lotr NONDL NONSUP"
-- "decors Decors-divers-lotr NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7072336_-_Images_1.jpg> "thumbs_-_7072336_-_Images_1.jpg")
+![](<thumbs_-_7072336_-_Images_1.avif> "thumbs_-_7072336_-_Images_1.avif")
 
   
 

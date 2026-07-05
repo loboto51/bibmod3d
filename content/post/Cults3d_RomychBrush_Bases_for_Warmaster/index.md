@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > RomychBrush > Bases_for_Warmaster [non dl]"
 date: "2022-10-13T13:37:56Z"
 toc: true
-image: "thumbs_-_bases-for-warmaster_-_Images_1.jpg"
+image: "thumbs_-_bases-for-warmaster_-_Images_1.avif"
 tags:
 - "RomychBrush"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "warmaster DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "warmaster SOCLES DIVERS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "warmaster DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "warmaster SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "warmaster SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "warmaster DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bases-for-warmaster_-_Images_1.jpg> "thumbs_-_bases-for-warmaster_-_Images_1.jpg")
+![](<thumbs_-_bases-for-warmaster_-_Images_1.avif> "thumbs_-_bases-for-warmaster_-_Images_1.avif")
 
   
 

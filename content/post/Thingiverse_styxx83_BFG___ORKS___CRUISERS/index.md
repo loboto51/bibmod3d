@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > styxx83 > BFG___ORKS___CRUISERS [dl]"
 date: "2020-04-14T12:33:39+00:00"
 toc: true
-image: "thumbs_-_4271100_-_Images_1.jpg"
+image: "thumbs_-_4271100_-_Images_1.avif"
 tags:
 - "styxx83"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4271100_-_Images_1.jpg> "thumbs_-_4271100_-_Images_1.jpg")
+![](<thumbs_-_4271100_-_Images_1.avif> "thumbs_-_4271100_-_Images_1.avif")
 
-  ![](<thumbs_-_4271100_-_ImagesSTL_1.jpg> "thumbs_-_4271100_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4271100_-_ImagesSTL_1.avif> "thumbs_-_4271100_-_ImagesSTL_1.avif")
 
   
 

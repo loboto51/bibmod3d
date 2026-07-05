@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > DungeonCubed > NetherForge_Dwarves_ [non dl]"
 date: "2024-01-03T04:46:20+00:00"
 toc: true
-image: "thumbs_-_6414179_-_Images_1.jpg"
+image: "thumbs_-_6414179_-_Images_1.avif"
 tags:
 - "DungeonCubed"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "NAINS NONDL NONSUP"
-- "warmaster NAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6414179_-_Images_1.jpg> "thumbs_-_6414179_-_Images_1.jpg")
+![](<thumbs_-_6414179_-_Images_1.avif> "thumbs_-_6414179_-_Images_1.avif")
 
   
 

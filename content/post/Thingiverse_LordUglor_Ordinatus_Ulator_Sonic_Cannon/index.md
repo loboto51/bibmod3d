@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > LordUglor > Ordinatus_Ulator_Sonic_Cannon [non dl]"
 date: "2020-05-09T19:24:46+00:00"
 toc: true
-image: "thumbs_-_4350465_-_Images_1.jpg"
+image: "thumbs_-_4350465_-_Images_1.avif"
 tags:
 - "LordUglor"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Admech-ordinatus"
 - "epic AM Admech-ordinatus"
 - "superlourds AM Admech-ordinatus"
-- "epic superlourds AM Admech-ordinatus"
 - "NONDL"
 - "epic NONDL"
 - "superlourds NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "epic AM NONDL"
 - "superlourds AM NONDL"
-- "epic superlourds AM NONDL"
 - "Admech-ordinatus NONDL"
 - "epic Admech-ordinatus NONDL"
 - "superlourds Admech-ordinatus NONDL"
-- "epic superlourds Admech-ordinatus NONDL"
 - "AM Admech-ordinatus NONDL"
-- "epic AM Admech-ordinatus NONDL"
-- "superlourds AM Admech-ordinatus NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "superlourds AM NONSUP"
-- "epic superlourds AM NONSUP"
 - "Admech-ordinatus NONSUP"
 - "epic Admech-ordinatus NONSUP"
 - "superlourds Admech-ordinatus NONSUP"
-- "epic superlourds Admech-ordinatus NONSUP"
 - "AM Admech-ordinatus NONSUP"
-- "epic AM Admech-ordinatus NONSUP"
-- "superlourds AM Admech-ordinatus NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
 - "AM NONDL NONSUP"
-- "epic AM NONDL NONSUP"
-- "superlourds AM NONDL NONSUP"
 - "Admech-ordinatus NONDL NONSUP"
-- "epic Admech-ordinatus NONDL NONSUP"
-- "superlourds Admech-ordinatus NONDL NONSUP"
-- "AM Admech-ordinatus NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4350465_-_Images_1.jpg> "thumbs_-_4350465_-_Images_1.jpg")
+![](<thumbs_-_4350465_-_Images_1.avif> "thumbs_-_4350465_-_Images_1.avif")
 
   
 

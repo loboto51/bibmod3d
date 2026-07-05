@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ogemo1 > Small_BFG_space_station_on_asteroid [non dl]"
 date: "2020-06-16T15:29:05+00:00"
 toc: true
-image: "thumbs_-_4462318_-_Images_1.jpg"
+image: "thumbs_-_4462318_-_Images_1.avif"
 tags:
 - "Ogemo1"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Planètes-et-stations-spatiales NONDL"
 - "bfg Planètes-et-stations-spatiales NONDL"
 - "decors Planètes-et-stations-spatiales NONDL"
-- "bfg decors Planètes-et-stations-spatiales NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "Planètes-et-stations-spatiales NONSUP"
 - "bfg Planètes-et-stations-spatiales NONSUP"
 - "decors Planètes-et-stations-spatiales NONSUP"
-- "bfg decors Planètes-et-stations-spatiales NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "bfg decors NONDL NONSUP"
 - "Planètes-et-stations-spatiales NONDL NONSUP"
-- "bfg Planètes-et-stations-spatiales NONDL NONSUP"
-- "decors Planètes-et-stations-spatiales NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4462318_-_Images_1.jpg> "thumbs_-_4462318_-_Images_1.jpg")
+![](<thumbs_-_4462318_-_Images_1.avif> "thumbs_-_4462318_-_Images_1.avif")
 
-  ![](<thumbs_-_4462318_-_Makes_1.jpg> "thumbs_-_4462318_-_Makes_1.jpg")
+  ![](<thumbs_-_4462318_-_Makes_1.avif> "thumbs_-_4462318_-_Makes_1.avif")
 
   
 

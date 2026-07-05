@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > MeshyMesh > Evil_Dwarfs_2_Demonic_Bulls_10mm [non dl]"
 date: "2023-05-07T01:46:10Z"
 toc: true
-image: "thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.jpg"
+image: "thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.avif"
 tags:
 - "MeshyMesh"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "warmaster NONDL SUP"
 - "NAINS-DU-CHAOS NONDL SUP"
-- "warmaster NAINS-DU-CHAOS NONDL SUP"
 
 ---
 
-![](<thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.jpg> "thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.jpg")
+![](<thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.avif> "thumbs_-_evil-dwarfs-2-demonic-bulls-10mm_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MaximumKharnage > Butcher_Boss [dl]"
 date: "2026-05-17T05:39:00Z"
 toc: true
-image: "thumbs_-_butcher-boss_-_Images_1.jpg"
+image: "thumbs_-_butcher-boss_-_Images_1.avif"
 tags:
 - "MaximumKharnage"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_butcher-boss_-_Images_1.jpg> "thumbs_-_butcher-boss_-_Images_1.jpg")
+![](<thumbs_-_butcher-boss_-_Images_1.avif> "thumbs_-_butcher-boss_-_Images_1.avif")
 
-  ![](<thumbs_-_butcher-boss_-_ImagesSTL_1.jpg> "thumbs_-_butcher-boss_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_butcher-boss_-_ImagesSTL_1.avif> "thumbs_-_butcher-boss_-_ImagesSTL_1.avif")
 
   
 

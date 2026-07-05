@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Havoc_Class_Frigate [non dl]"
 date: "2020-03-28T19:42:20Z"
 toc: true
-image: "thumbs_-_havoc-class-frigate_-_Images_1.jpg"
+image: "thumbs_-_havoc-class-frigate_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_havoc-class-frigate_-_Images_1.jpg> "thumbs_-_havoc-class-frigate_-_Images_1.jpg")
+![](<thumbs_-_havoc-class-frigate_-_Images_1.avif> "thumbs_-_havoc-class-frigate_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tsobisia > GK_Silver_Paladins_Torso___12_versions_ [non dl]"
 date: "2020-04-28T21:13:05+00:00"
 toc: true
-image: "thumbs_-_4322095_-_Images_1.jpg"
+image: "thumbs_-_4322095_-_Images_1.avif"
 tags:
 - "tsobisia"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4322095_-_Images_1.jpg> "thumbs_-_4322095_-_Images_1.jpg")
+![](<thumbs_-_4322095_-_Images_1.avif> "thumbs_-_4322095_-_Images_1.avif")
 
   
 

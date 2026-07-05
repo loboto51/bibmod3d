@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Dwarfs_Fire_Throwers [dl]"
 date: "2026-01-16T20:48:44+00:00"
 toc: true
-image: "thumbs_-_7273363_-_Images_1.jpg"
+image: "thumbs_-_7273363_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7273363_-_Images_1.jpg> "thumbs_-_7273363_-_Images_1.jpg")
+![](<thumbs_-_7273363_-_Images_1.avif> "thumbs_-_7273363_-_Images_1.avif")
 
-  ![](<thumbs_-_7273363_-_ImagesSTL_1.jpg> "thumbs_-_7273363_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7273363_-_ImagesSTL_1.avif> "thumbs_-_7273363_-_ImagesSTL_1.avif")
 
   
 

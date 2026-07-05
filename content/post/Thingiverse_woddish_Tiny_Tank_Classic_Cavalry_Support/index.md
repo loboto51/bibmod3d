@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > woddish > Tiny_Tank_Classic_Cavalry_Support [dl]"
 date: "2021-04-25T01:37:10+00:00"
 toc: true
-image: "thumbs_-_4838862_-_Images_1.jpg"
+image: "thumbs_-_4838862_-_Images_1.avif"
 tags:
 - "woddish"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Rhinos-canon-lourd"
 - "epic SMI Rhinos-canon-lourd"
 - "vehicules SMI Rhinos-canon-lourd"
-- "epic vehicules SMI Rhinos-canon-lourd"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "vehicules SMI NONSUP"
-- "epic vehicules SMI NONSUP"
 - "Rhinos-canon-lourd NONSUP"
 - "epic Rhinos-canon-lourd NONSUP"
 - "vehicules Rhinos-canon-lourd NONSUP"
-- "epic vehicules Rhinos-canon-lourd NONSUP"
 - "SMI Rhinos-canon-lourd NONSUP"
-- "epic SMI Rhinos-canon-lourd NONSUP"
-- "vehicules SMI Rhinos-canon-lourd NONSUP"
 
 ---
 
-![](<thumbs_-_4838862_-_Images_1.jpg> "thumbs_-_4838862_-_Images_1.jpg")
+![](<thumbs_-_4838862_-_Images_1.avif> "thumbs_-_4838862_-_Images_1.avif")
 
-  ![](<thumbs_-_4838862_-_ImagesSTL_1.jpg> "thumbs_-_4838862_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4838862_-_ImagesSTL_1.avif> "thumbs_-_4838862_-_ImagesSTL_1.avif")
 
   
 

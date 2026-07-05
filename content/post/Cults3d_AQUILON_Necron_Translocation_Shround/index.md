@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > AQUILON > Necron_Translocation_Shround [non dl]"
 date: "2023-12-07T00:06:58Z"
 toc: true
-image: "thumbs_-_necron-translocation-shround-aquilon_-_Images_1.jpg"
+image: "thumbs_-_necron-translocation-shround-aquilon_-_Images_1.avif"
 tags:
 - "AQUILON"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "NECRONS NONDL NONSUP"
-- "28mm NECRONS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_necron-translocation-shround-aquilon_-_Images_1.jpg> "thumbs_-_necron-translocation-shround-aquilon_-_Images_1.jpg")
+![](<thumbs_-_necron-translocation-shround-aquilon_-_Images_1.avif> "thumbs_-_necron-translocation-shround-aquilon_-_Images_1.avif")
 
   
 

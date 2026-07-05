@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Epic_Space_Dwarfs_Warriors__Revised_ [non dl]"
 date: "2023-10-04T20:42:03+00:00"
 toc: true
-image: "thumbs_-_6249786_-_Images_1.jpg"
+image: "thumbs_-_6249786_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Squats-tactiques"
 - "epic SQUATS Squats-tactiques"
 - "infanterie SQUATS Squats-tactiques"
-- "epic infanterie SQUATS Squats-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SQUATS NONDL"
 - "epic SQUATS NONDL"
 - "infanterie SQUATS NONDL"
-- "epic infanterie SQUATS NONDL"
 - "Squats-tactiques NONDL"
 - "epic Squats-tactiques NONDL"
 - "infanterie Squats-tactiques NONDL"
-- "epic infanterie Squats-tactiques NONDL"
 - "SQUATS Squats-tactiques NONDL"
-- "epic SQUATS Squats-tactiques NONDL"
-- "infanterie SQUATS Squats-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "infanterie SQUATS NONSUP"
-- "epic infanterie SQUATS NONSUP"
 - "Squats-tactiques NONSUP"
 - "epic Squats-tactiques NONSUP"
 - "infanterie Squats-tactiques NONSUP"
-- "epic infanterie Squats-tactiques NONSUP"
 - "SQUATS Squats-tactiques NONSUP"
-- "epic SQUATS Squats-tactiques NONSUP"
-- "infanterie SQUATS Squats-tactiques NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "epic SQUATS NONDL NONSUP"
-- "infanterie SQUATS NONDL NONSUP"
 - "Squats-tactiques NONDL NONSUP"
-- "epic Squats-tactiques NONDL NONSUP"
-- "infanterie Squats-tactiques NONDL NONSUP"
-- "SQUATS Squats-tactiques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6249786_-_Images_1.jpg> "thumbs_-_6249786_-_Images_1.jpg")
+![](<thumbs_-_6249786_-_Images_1.avif> "thumbs_-_6249786_-_Images_1.avif")
 
   
 

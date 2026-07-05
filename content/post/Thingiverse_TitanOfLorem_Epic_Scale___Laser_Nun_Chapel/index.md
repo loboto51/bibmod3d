@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TitanOfLorem > Epic_Scale___Laser_Nun_Chapel [dl]"
 date: "2022-08-14T23:56:04+00:00"
 toc: true
-image: "thumbs_-_5462799_-_Images_1.jpg"
+image: "thumbs_-_5462799_-_Images_1.avif"
 tags:
 - "TitanOfLorem"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SOB Sob-forteresses"
 - "epic SOB Sob-forteresses"
 - "superlourds SOB Sob-forteresses"
-- "epic superlourds SOB Sob-forteresses"
 - "SUP"
 - "epic SUP"
 - "superlourds SUP"
@@ -28,20 +27,16 @@ tags:
 - "SOB SUP"
 - "epic SOB SUP"
 - "superlourds SOB SUP"
-- "epic superlourds SOB SUP"
 - "Sob-forteresses SUP"
 - "epic Sob-forteresses SUP"
 - "superlourds Sob-forteresses SUP"
-- "epic superlourds Sob-forteresses SUP"
 - "SOB Sob-forteresses SUP"
-- "epic SOB Sob-forteresses SUP"
-- "superlourds SOB Sob-forteresses SUP"
 
 ---
 
-![](<thumbs_-_5462799_-_Images_1.jpg> "thumbs_-_5462799_-_Images_1.jpg")
+![](<thumbs_-_5462799_-_Images_1.avif> "thumbs_-_5462799_-_Images_1.avif")
 
-  ![](<thumbs_-_5462799_-_ImagesSTL_1.jpg> "thumbs_-_5462799_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5462799_-_ImagesSTL_1.avif> "thumbs_-_5462799_-_ImagesSTL_1.avif")
 
   
 

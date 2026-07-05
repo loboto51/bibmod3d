@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Beastmen_Centaur_Horned_Centaurs [non dl]"
 date: "2024-04-05T07:39:50+00:00"
 toc: true
-image: "thumbs_-_6564992_-_Images_1.jpg"
+image: "thumbs_-_6564992_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HOMMES-BETES NONDL NONSUP"
-- "warmaster HOMMES-BETES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6564992_-_Images_1.jpg> "thumbs_-_6564992_-_Images_1.jpg")
+![](<thumbs_-_6564992_-_Images_1.avif> "thumbs_-_6564992_-_Images_1.avif")
 
   
 

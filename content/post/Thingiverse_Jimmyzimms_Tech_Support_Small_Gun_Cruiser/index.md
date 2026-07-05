@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jimmyzimms > Tech_Support_Small_Gun_Cruiser [dl]"
 date: "2021-05-02T17:51:03+00:00"
 toc: true
-image: "thumbs_-_4846932_-_Images_1.jpg"
+image: "thumbs_-_4846932_-_Images_1.avif"
 tags:
 - "Jimmyzimms"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "AM Flotte"
 - "bfg AM Flotte"
 - "IMP AM Flotte"
-- "bfg IMP AM Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "bfg AM NONSUP"
 - "IMP AM NONSUP"
-- "bfg IMP AM NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "AM Flotte NONSUP"
-- "bfg AM Flotte NONSUP"
-- "IMP AM Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_4846932_-_Images_1.jpg> "thumbs_-_4846932_-_Images_1.jpg")
+![](<thumbs_-_4846932_-_Images_1.avif> "thumbs_-_4846932_-_Images_1.avif")
 
-  ![](<thumbs_-_4846932_-_ImagesSTL_1.jpg> "thumbs_-_4846932_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4846932_-_ImagesSTL_1.avif> "thumbs_-_4846932_-_ImagesSTL_1.avif")
 
   
 

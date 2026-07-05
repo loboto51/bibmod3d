@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > DaffMakes > Rotating_Paint_Handle_for_Epic_Miniatures [non dl]"
 date: "2025-01-16T20:07:51Z"
 toc: true
-image: "thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.jpg"
+image: "thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.jpg> "thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.jpg")
+![](<thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.avif> "thumbs_-_rotating-paint-handle-for-epic-miniatures_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > RALCVSAE3D > Gen_4_Legion_Champion_Body [non dl]"
 date: "2023-08-08T21:27:15Z"
 toc: true
-image: "thumbs_-_gen-4-legion-champion-body_-_Images_1.jpg"
+image: "thumbs_-_gen-4-legion-champion-body_-_Images_1.avif"
 tags:
 - "RALCVSAE3D"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMI NONDL"
 - "28mm SMI NONDL"
 - "IMP SMI NONDL"
-- "28mm IMP SMI NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "28mm SMI NONSUP"
 - "IMP SMI NONSUP"
-- "28mm IMP SMI NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "28mm IMP NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
-- "IMP SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_gen-4-legion-champion-body_-_Images_1.jpg> "thumbs_-_gen-4-legion-champion-body_-_Images_1.jpg")
+![](<thumbs_-_gen-4-legion-champion-body_-_Images_1.avif> "thumbs_-_gen-4-legion-champion-body_-_Images_1.avif")
 
-  ![](<thumbs_-_gen-4-legion-champion-body_-_Makes_1.jpg> "thumbs_-_gen-4-legion-champion-body_-_Makes_1.jpg")
+  ![](<thumbs_-_gen-4-legion-champion-body_-_Makes_1.avif> "thumbs_-_gen-4-legion-champion-body_-_Makes_1.avif")
 
   
 

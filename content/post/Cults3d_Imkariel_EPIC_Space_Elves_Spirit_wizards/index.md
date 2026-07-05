@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Imkariel > EPIC_Space_Elves_Spirit_wizards [dl]"
 date: "2026-06-19T02:17:15Z"
 toc: true
-image: "thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.jpg"
+image: "thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.avif"
 tags:
 - "Imkariel"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-qg"
 - "epic VM Eldars-qg"
 - "infanterie VM Eldars-qg"
-- "epic infanterie VM Eldars-qg"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "infanterie VM NONSUP"
-- "epic infanterie VM NONSUP"
 - "Eldars-qg NONSUP"
 - "epic Eldars-qg NONSUP"
 - "infanterie Eldars-qg NONSUP"
-- "epic infanterie Eldars-qg NONSUP"
 - "VM Eldars-qg NONSUP"
-- "epic VM Eldars-qg NONSUP"
-- "infanterie VM Eldars-qg NONSUP"
 
 ---
 
-![](<thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.jpg> "thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.jpg")
+![](<thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.avif> "thumbs_-_epic-space-elves-spirit-wizards_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-space-elves-spirit-wizards_-_ImagesSTL_1.jpg> "thumbs_-_epic-space-elves-spirit-wizards_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-space-elves-spirit-wizards_-_ImagesSTL_1.avif> "thumbs_-_epic-space-elves-spirit-wizards_-_ImagesSTL_1.avif")
 
   
 

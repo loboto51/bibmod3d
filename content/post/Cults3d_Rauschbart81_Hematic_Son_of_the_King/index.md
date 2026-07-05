@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Rauschbart81 > Hematic_Son_of_the_King [non dl]"
 date: "2022-10-11T20:15:34Z"
 toc: true
-image: "thumbs_-_hematic-son-of-the-king_-_Images_1.jpg"
+image: "thumbs_-_hematic-son-of-the-king_-_Images_1.avif"
 tags:
 - "Rauschbart81"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC NONDL"
 - "28mm SMC NONDL"
 - "CHAOS SMC NONDL"
-- "28mm CHAOS SMC NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
@@ -28,18 +27,14 @@ tags:
 - "SMC SUP"
 - "28mm SMC SUP"
 - "CHAOS SMC SUP"
-- "28mm CHAOS SMC SUP"
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "CHAOS NONDL SUP"
-- "28mm CHAOS NONDL SUP"
 - "SMC NONDL SUP"
-- "28mm SMC NONDL SUP"
-- "CHAOS SMC NONDL SUP"
 
 ---
 
-![](<thumbs_-_hematic-son-of-the-king_-_Images_1.jpg> "thumbs_-_hematic-son-of-the-king_-_Images_1.jpg")
+![](<thumbs_-_hematic-son-of-the-king_-_Images_1.avif> "thumbs_-_hematic-son-of-the-king_-_Images_1.avif")
 
   
 

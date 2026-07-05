@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > WindhamGraves > 15mm_scale_Combat_Drones [non dl]"
 date: "2021-02-03T00:06:08+00:00"
 toc: true
-image: "thumbs_-_4747995_-_Images_1.jpg"
+image: "thumbs_-_4747995_-_Images_1.avif"
 tags:
 - "WindhamGraves"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "AM HUMAINS"
 - "15mm AM HUMAINS"
 - "IMP AM HUMAINS"
-- "15mm IMP AM HUMAINS"
 - "NONDL"
 - "15mm NONDL"
 - "IMP NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "15mm AM NONDL"
 - "IMP AM NONDL"
-- "15mm IMP AM NONDL"
 - "HUMAINS NONDL"
 - "15mm HUMAINS NONDL"
 - "IMP HUMAINS NONDL"
-- "15mm IMP HUMAINS NONDL"
 - "AM HUMAINS NONDL"
-- "15mm AM HUMAINS NONDL"
-- "IMP AM HUMAINS NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "IMP NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "AM NONSUP"
 - "15mm AM NONSUP"
 - "IMP AM NONSUP"
-- "15mm IMP AM NONSUP"
 - "HUMAINS NONSUP"
 - "15mm HUMAINS NONSUP"
 - "IMP HUMAINS NONSUP"
-- "15mm IMP HUMAINS NONSUP"
 - "AM HUMAINS NONSUP"
-- "15mm AM HUMAINS NONSUP"
-- "IMP AM HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "15mm NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "15mm IMP NONDL NONSUP"
 - "AM NONDL NONSUP"
-- "15mm AM NONDL NONSUP"
-- "IMP AM NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "15mm HUMAINS NONDL NONSUP"
-- "IMP HUMAINS NONDL NONSUP"
-- "AM HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4747995_-_Images_1.jpg> "thumbs_-_4747995_-_Images_1.jpg")
+![](<thumbs_-_4747995_-_Images_1.avif> "thumbs_-_4747995_-_Images_1.avif")
 
   
 

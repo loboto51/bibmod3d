@@ -3,7 +3,7 @@
 title: "[GRATUIT] Myminifactory > IrrblossMiniatures > 3d_print_gothic_ruin_185114 [dl]"
 date: "2021-09-13"
 toc: true
-image: "thumbs_-_3d_print_gothic_ruin_185114_-_Images_1.jpg"
+image: "thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_Images_1.avif"
 tags:
 - "IrrblossMiniatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Decors-ruines"
 - "epic IMP Decors-ruines"
 - "decors IMP Decors-ruines"
-- "epic decors IMP Decors-ruines"
 - "SUP"
 - "epic SUP"
 - "decors SUP"
@@ -28,14 +27,10 @@ tags:
 - "IMP SUP"
 - "epic IMP SUP"
 - "decors IMP SUP"
-- "epic decors IMP SUP"
 - "Decors-ruines SUP"
 - "epic Decors-ruines SUP"
 - "decors Decors-ruines SUP"
-- "epic decors Decors-ruines SUP"
 - "IMP Decors-ruines SUP"
-- "epic IMP Decors-ruines SUP"
-- "decors IMP Decors-ruines SUP"
 - "epic"
 - "warmaster"
 - "epic warmaster"
@@ -50,7 +45,6 @@ tags:
 - "decors Decors-ruines"
 - "epic decors Decors-ruines"
 - "warmaster decors Decors-ruines"
-- "epic warmaster decors Decors-ruines"
 - "SUP"
 - "epic SUP"
 - "warmaster SUP"
@@ -58,22 +52,18 @@ tags:
 - "decors SUP"
 - "epic decors SUP"
 - "warmaster decors SUP"
-- "epic warmaster decors SUP"
 - "Decors-ruines SUP"
 - "epic Decors-ruines SUP"
 - "warmaster Decors-ruines SUP"
-- "epic warmaster Decors-ruines SUP"
 - "decors Decors-ruines SUP"
-- "epic decors Decors-ruines SUP"
-- "warmaster decors Decors-ruines SUP"
 
 ---
 
-![](<thumbs_-_3d_print_gothic_ruin_185114_-_Images_1.jpg> "thumbs_-_3d_print_gothic_ruin_185114_-_Images_1.jpg")
+![](<thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_Images_1.avif> "thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_Images_1.avif")
 
-  ![](<thumbs_-_3d_print_gothic_ruin_185114_-_ImagesSTL_1.jpg> "thumbs_-_3d_print_gothic_ruin_185114_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_ImagesSTL_1.avif> "thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3d_print_gothic_ruin_185114_-_Makes_1.jpg> "thumbs_-_3d_print_gothic_ruin_185114_-_Makes_1.jpg")
+  ![](<thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_Makes_1.avif> "thumbs_-_IrrblossMiniatures_-_3d_print_gothic_ruin_185114_-_Makes_1.avif")
 
   
 

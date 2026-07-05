@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Microcosm89 > LOTR_bad_guys [non dl]"
 date: "2025-06-29T04:28:43+00:00"
 toc: true
-image: "thumbs_-_7077528_-_Images_1.jpg"
+image: "thumbs_-_7077528_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "MORTS-VIVANTS NONDL NONSUP"
-- "28mm MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7077528_-_Images_1.jpg> "thumbs_-_7077528_-_Images_1.jpg")
+![](<thumbs_-_7077528_-_Images_1.avif> "thumbs_-_7077528_-_Images_1.avif")
 
   
 

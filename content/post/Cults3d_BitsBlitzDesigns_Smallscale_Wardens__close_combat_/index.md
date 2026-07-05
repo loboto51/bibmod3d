@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > BitsBlitzDesigns > Smallscale_Wardens__close_combat_ [non dl]"
 date: "2024-12-09T13:40:55Z"
 toc: true
-image: "thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg"
+image: "thumbs_-_smallscale-wardens-close-combat_-_Images_1.avif"
 tags:
 - "BitsBlitzDesigns"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Thallax"
 - "epic AM Thallax"
 - "infanterie AM Thallax"
-- "epic infanterie AM Thallax"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "AM NONDL"
 - "epic AM NONDL"
 - "infanterie AM NONDL"
-- "epic infanterie AM NONDL"
 - "Thallax NONDL"
 - "epic Thallax NONDL"
 - "infanterie Thallax NONDL"
-- "epic infanterie Thallax NONDL"
 - "AM Thallax NONDL"
-- "epic AM Thallax NONDL"
-- "infanterie AM Thallax NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
-- "epic infanterie AM NONSUP"
 - "Thallax NONSUP"
 - "epic Thallax NONSUP"
 - "infanterie Thallax NONSUP"
-- "epic infanterie Thallax NONSUP"
 - "AM Thallax NONSUP"
-- "epic AM Thallax NONSUP"
-- "infanterie AM Thallax NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "AM NONDL NONSUP"
-- "epic AM NONDL NONSUP"
-- "infanterie AM NONDL NONSUP"
 - "Thallax NONDL NONSUP"
-- "epic Thallax NONDL NONSUP"
-- "infanterie Thallax NONDL NONSUP"
-- "AM Thallax NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg> "thumbs_-_smallscale-wardens-close-combat_-_Images_1.jpg")
+![](<thumbs_-_smallscale-wardens-close-combat_-_Images_1.avif> "thumbs_-_smallscale-wardens-close-combat_-_Images_1.avif")
 
   
 

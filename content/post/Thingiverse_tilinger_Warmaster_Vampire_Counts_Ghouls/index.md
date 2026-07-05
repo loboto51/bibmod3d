@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Vampire_Counts_Ghouls [dl]"
 date: "2025-09-28T16:47:33+00:00"
 toc: true
-image: "thumbs_-_7157563_-_Images_1.jpg"
+image: "thumbs_-_7157563_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7157563_-_Images_1.jpg> "thumbs_-_7157563_-_Images_1.jpg")
+![](<thumbs_-_7157563_-_Images_1.avif> "thumbs_-_7157563_-_Images_1.avif")
 
-  ![](<thumbs_-_7157563_-_ImagesSTL_1.jpg> "thumbs_-_7157563_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7157563_-_ImagesSTL_1.avif> "thumbs_-_7157563_-_ImagesSTL_1.avif")
 
   
 

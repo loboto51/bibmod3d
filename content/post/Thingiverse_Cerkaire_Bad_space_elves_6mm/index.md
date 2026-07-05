@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Cerkaire > Bad_space_elves_6mm [dl]"
 date: "2022-02-18T13:29:09+00:00"
 toc: true
-image: "thumbs_-_5252364_-_Images_1.jpg"
+image: "thumbs_-_5252364_-_Images_1.avif"
 tags:
 - "Cerkaire"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EN Eldars-tactiques"
 - "epic EN Eldars-tactiques"
 - "infanterie EN Eldars-tactiques"
-- "epic infanterie EN Eldars-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "EN NONSUP"
 - "epic EN NONSUP"
 - "infanterie EN NONSUP"
-- "epic infanterie EN NONSUP"
 - "Eldars-tactiques NONSUP"
 - "epic Eldars-tactiques NONSUP"
 - "infanterie Eldars-tactiques NONSUP"
-- "epic infanterie Eldars-tactiques NONSUP"
 - "EN Eldars-tactiques NONSUP"
-- "epic EN Eldars-tactiques NONSUP"
-- "infanterie EN Eldars-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_5252364_-_Images_1.jpg> "thumbs_-_5252364_-_Images_1.jpg")
+![](<thumbs_-_5252364_-_Images_1.avif> "thumbs_-_5252364_-_Images_1.avif")
 
-  ![](<thumbs_-_5252364_-_ImagesSTL_1.jpg> "thumbs_-_5252364_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5252364_-_ImagesSTL_1.avif> "thumbs_-_5252364_-_ImagesSTL_1.avif")
 
   
 

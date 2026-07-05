@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MGMoogii > Modular_Sturm_Troopa [dl]"
 date: "2024-01-14T17:58:13Z"
 toc: true
-image: "thumbs_-_modular-sturm-troopa_-_Images_1.jpg"
+image: "thumbs_-_modular-sturm-troopa_-_Images_1.avif"
 tags:
 - "MGMoogii"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "ARBITES GI"
 - "28mm ARBITES GI"
 - "IMP ARBITES GI"
-- "28mm IMP ARBITES GI"
 - "HUMAINS"
 - "28mm HUMAINS"
 - "IMP HUMAINS"
@@ -28,14 +27,10 @@ tags:
 - "ARBITES HUMAINS"
 - "28mm ARBITES HUMAINS"
 - "IMP ARBITES HUMAINS"
-- "28mm IMP ARBITES HUMAINS"
 - "GI HUMAINS"
 - "28mm GI HUMAINS"
 - "IMP GI HUMAINS"
-- "28mm IMP GI HUMAINS"
 - "ARBITES GI HUMAINS"
-- "28mm ARBITES GI HUMAINS"
-- "IMP ARBITES GI HUMAINS"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -43,35 +38,25 @@ tags:
 - "ARBITES SUP"
 - "28mm ARBITES SUP"
 - "IMP ARBITES SUP"
-- "28mm IMP ARBITES SUP"
 - "GI SUP"
 - "28mm GI SUP"
 - "IMP GI SUP"
-- "28mm IMP GI SUP"
 - "ARBITES GI SUP"
-- "28mm ARBITES GI SUP"
-- "IMP ARBITES GI SUP"
 - "HUMAINS SUP"
 - "28mm HUMAINS SUP"
 - "IMP HUMAINS SUP"
-- "28mm IMP HUMAINS SUP"
 - "ARBITES HUMAINS SUP"
-- "28mm ARBITES HUMAINS SUP"
-- "IMP ARBITES HUMAINS SUP"
 - "GI HUMAINS SUP"
-- "28mm GI HUMAINS SUP"
-- "IMP GI HUMAINS SUP"
-- "ARBITES GI HUMAINS SUP"
 
 ---
 
-![](<thumbs_-_modular-sturm-troopa_-_Images_1.jpg> "thumbs_-_modular-sturm-troopa_-_Images_1.jpg")
+![](<thumbs_-_modular-sturm-troopa_-_Images_1.avif> "thumbs_-_modular-sturm-troopa_-_Images_1.avif")
 
-  ![](<thumbs_-_modular-sturm-troopa_-_ImagesSTL_1.jpg> "thumbs_-_modular-sturm-troopa_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_modular-sturm-troopa_-_ImagesSTL_1.avif> "thumbs_-_modular-sturm-troopa_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_modular-sturm-troopa_-_ImagesSTL_2.jpg> "thumbs_-_modular-sturm-troopa_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_modular-sturm-troopa_-_ImagesSTL_2.avif> "thumbs_-_modular-sturm-troopa_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_modular-sturm-troopa_-_Makes_1.jpg> "thumbs_-_modular-sturm-troopa_-_Makes_1.jpg")
+  ![](<thumbs_-_modular-sturm-troopa_-_Makes_1.avif> "thumbs_-_modular-sturm-troopa_-_Makes_1.avif")
 
   
 

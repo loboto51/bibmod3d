@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Wakelessrex > 6_8mm_Skitarii_Soldiers [dl]"
 date: "2020-02-21T23:11:32+00:00"
 toc: true
-image: "thumbs_-_4176073_-_Images_1.jpg"
+image: "thumbs_-_4176073_-_Images_1.avif"
 tags:
 - "Wakelessrex"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "AM Humains-tactiques"
 - "epic AM Humains-tactiques"
 - "infanterie AM Humains-tactiques"
-- "epic infanterie AM Humains-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "epic AM NONSUP"
 - "infanterie AM NONSUP"
-- "epic infanterie AM NONSUP"
 - "Humains-tactiques NONSUP"
 - "epic Humains-tactiques NONSUP"
 - "infanterie Humains-tactiques NONSUP"
-- "epic infanterie Humains-tactiques NONSUP"
 - "AM Humains-tactiques NONSUP"
-- "epic AM Humains-tactiques NONSUP"
-- "infanterie AM Humains-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_4176073_-_Images_1.jpg> "thumbs_-_4176073_-_Images_1.jpg")
+![](<thumbs_-_4176073_-_Images_1.avif> "thumbs_-_4176073_-_Images_1.avif")
 
-  ![](<thumbs_-_4176073_-_ImagesSTL_1.jpg> "thumbs_-_4176073_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4176073_-_ImagesSTL_1.avif> "thumbs_-_4176073_-_ImagesSTL_1.avif")
 
   
 

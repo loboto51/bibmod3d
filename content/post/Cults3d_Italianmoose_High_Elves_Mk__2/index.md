@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > High_Elves_Mk__2 [non dl]"
 date: "2021-11-07T21:53:05Z"
 toc: true
-image: "thumbs_-_high-elves-mk-2_-_Images_1.jpg"
+image: "thumbs_-_high-elves-mk-2_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_high-elves-mk-2_-_Images_1.jpg> "thumbs_-_high-elves-mk-2_-_Images_1.jpg")
+![](<thumbs_-_high-elves-mk-2_-_Images_1.avif> "thumbs_-_high-elves-mk-2_-_Images_1.avif")
 
   
 

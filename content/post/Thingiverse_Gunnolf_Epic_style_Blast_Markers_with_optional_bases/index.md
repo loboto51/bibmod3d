@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Gunnolf > Epic_style_Blast_Markers_with_optional_bases [non dl]"
 date: "2026-04-30T07:51:05+00:00"
 toc: true
-image: "thumbs_-_7344652_-_Images_1.jpg"
+image: "thumbs_-_7344652_-_Images_1.avif"
 tags:
 - "Gunnolf"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_7344652_-_Images_1.jpg> "thumbs_-_7344652_-_Images_1.jpg")
+![](<thumbs_-_7344652_-_Images_1.avif> "thumbs_-_7344652_-_Images_1.avif")
 
   
 

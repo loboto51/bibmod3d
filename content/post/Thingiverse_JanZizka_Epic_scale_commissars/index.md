@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > JanZizka > Epic_scale_commissars [dl]"
 date: "2021-01-15T11:27:23+00:00"
 toc: true
-image: "thumbs_-_4723793_-_Images_1.jpg"
+image: "thumbs_-_4723793_-_Images_1.avif"
 tags:
 - "JanZizka"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-qg"
 - "epic GI Humains-qg"
 - "infanterie GI Humains-qg"
-- "epic infanterie GI Humains-qg"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "infanterie GI SUP"
-- "epic infanterie GI SUP"
 - "Humains-qg SUP"
 - "epic Humains-qg SUP"
 - "infanterie Humains-qg SUP"
-- "epic infanterie Humains-qg SUP"
 - "GI Humains-qg SUP"
-- "epic GI Humains-qg SUP"
-- "infanterie GI Humains-qg SUP"
 
 ---
 
-![](<thumbs_-_4723793_-_Images_1.jpg> "thumbs_-_4723793_-_Images_1.jpg")
+![](<thumbs_-_4723793_-_Images_1.avif> "thumbs_-_4723793_-_Images_1.avif")
 
-  ![](<thumbs_-_4723793_-_ImagesSTL_1.jpg> "thumbs_-_4723793_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4723793_-_ImagesSTL_1.avif> "thumbs_-_4723793_-_ImagesSTL_1.avif")
 
   
 

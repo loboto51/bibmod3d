@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Keiler > BFG_Waepon_Battery_Imperial_Navy__supported_ [non dl]"
 date: "2021-12-01T20:50:46Z"
 toc: true
-image: "thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.jpg"
+image: "thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.avif"
 tags:
 - "Keiler"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.jpg> "thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.jpg")
+![](<thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.avif> "thumbs_-_bfg-waepon-battery-imperial-navy-supported_-_Images_1.avif")
 
   
 

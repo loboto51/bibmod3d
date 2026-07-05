@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Js_stuff > 10mm_demon_beasts [non dl]"
 date: "2021-04-25T14:00:15+00:00"
 toc: true
-image: "thumbs_-_4839368_-_Images_1.jpg"
+image: "thumbs_-_4839368_-_Images_1.avif"
 tags:
 - "Js_stuff"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "warmaster CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4839368_-_Images_1.jpg> "thumbs_-_4839368_-_Images_1.jpg")
+![](<thumbs_-_4839368_-_Images_1.avif> "thumbs_-_4839368_-_Images_1.avif")
 
   
 

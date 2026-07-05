@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > ErrantMiniatures > Veteran_Imperial_Bounty_Hunter [non dl]"
 date: "2023-01-10T01:31:05Z"
 toc: true
-image: "thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.jpg"
+image: "thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.avif"
 tags:
 - "ErrantMiniatures"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Humains-divers-pour-kitbash"
 - "15mm HUMAINS Humains-divers-pour-kitbash"
 - "28mm HUMAINS Humains-divers-pour-kitbash"
-- "15mm 28mm HUMAINS Humains-divers-pour-kitbash"
 - "NONDL"
 - "15mm NONDL"
 - "28mm NONDL"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS NONDL"
 - "15mm HUMAINS NONDL"
 - "28mm HUMAINS NONDL"
-- "15mm 28mm HUMAINS NONDL"
 - "Humains-divers-pour-kitbash NONDL"
 - "15mm Humains-divers-pour-kitbash NONDL"
 - "28mm Humains-divers-pour-kitbash NONDL"
-- "15mm 28mm Humains-divers-pour-kitbash NONDL"
 - "HUMAINS Humains-divers-pour-kitbash NONDL"
-- "15mm HUMAINS Humains-divers-pour-kitbash NONDL"
-- "28mm HUMAINS Humains-divers-pour-kitbash NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -43,29 +38,19 @@ tags:
 - "HUMAINS SUP"
 - "15mm HUMAINS SUP"
 - "28mm HUMAINS SUP"
-- "15mm 28mm HUMAINS SUP"
 - "Humains-divers-pour-kitbash SUP"
 - "15mm Humains-divers-pour-kitbash SUP"
 - "28mm Humains-divers-pour-kitbash SUP"
-- "15mm 28mm Humains-divers-pour-kitbash SUP"
 - "HUMAINS Humains-divers-pour-kitbash SUP"
-- "15mm HUMAINS Humains-divers-pour-kitbash SUP"
-- "28mm HUMAINS Humains-divers-pour-kitbash SUP"
 - "NONDL SUP"
 - "15mm NONDL SUP"
 - "28mm NONDL SUP"
-- "15mm 28mm NONDL SUP"
 - "HUMAINS NONDL SUP"
-- "15mm HUMAINS NONDL SUP"
-- "28mm HUMAINS NONDL SUP"
 - "Humains-divers-pour-kitbash NONDL SUP"
-- "15mm Humains-divers-pour-kitbash NONDL SUP"
-- "28mm Humains-divers-pour-kitbash NONDL SUP"
-- "HUMAINS Humains-divers-pour-kitbash NONDL SUP"
 
 ---
 
-![](<thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.jpg> "thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.jpg")
+![](<thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.avif> "thumbs_-_veteran-imperial-bounty-hunter_-_Images_1.avif")
 
   
 

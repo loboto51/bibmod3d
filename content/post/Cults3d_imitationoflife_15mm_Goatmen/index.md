@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > imitationoflife > 15mm_Goatmen [non dl]"
 date: "2026-02-08T13:56:31Z"
 toc: true
-image: "thumbs_-_15mm-goatmen_-_Images_1.jpg"
+image: "thumbs_-_15mm-goatmen_-_Images_1.avif"
 tags:
 - "imitationoflife"
 - "15mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "15mm NONDL SUP"
 - "HOMMES-BETES NONDL SUP"
-- "15mm HOMMES-BETES NONDL SUP"
 
 ---
 
-![](<thumbs_-_15mm-goatmen_-_Images_1.jpg> "thumbs_-_15mm-goatmen_-_Images_1.jpg")
+![](<thumbs_-_15mm-goatmen_-_Images_1.avif> "thumbs_-_15mm-goatmen_-_Images_1.avif")
 
   
 

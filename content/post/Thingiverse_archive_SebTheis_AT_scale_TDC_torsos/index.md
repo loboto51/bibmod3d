@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse_archive > SebTheis > AT_scale_TDC_torsos [dl]"
 date: "2020-04-09T22:17:30+00:00"
 toc: true
-image: "thumbs_-_4273533_-_Images_1.jpg"
+image: "thumbs_-_4273533_-_Images_1.avif"
 tags:
 - "SebTheis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "epic chevaliers IMP Admech-chevaliers"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "chevaliers IMP NONSUP"
-- "epic chevaliers IMP NONSUP"
 - "Admech-chevaliers NONSUP"
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
-- "epic chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "epic IMP Admech-chevaliers NONSUP"
-- "chevaliers IMP Admech-chevaliers NONSUP"
 
 ---
 
-![](<thumbs_-_4273533_-_Images_1.jpg> "thumbs_-_4273533_-_Images_1.jpg")
+![](<thumbs_-_4273533_-_Images_1.avif> "thumbs_-_4273533_-_Images_1.avif")
 
-  ![](<thumbs_-_4273533_-_ImagesSTL_1.jpg> "thumbs_-_4273533_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4273533_-_ImagesSTL_1.avif> "thumbs_-_4273533_-_ImagesSTL_1.avif")
 
   
 

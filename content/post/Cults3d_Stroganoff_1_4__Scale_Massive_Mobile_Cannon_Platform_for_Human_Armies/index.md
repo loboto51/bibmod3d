@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_Massive_Mobile_Cannon_Platform_for_Human_Armies [dl]"
 date: "2019-12-27T14:56:52Z"
 toc: true
-image: "thumbs_-_epic-scale-shadowsword_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-shadowsword_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Baneblades-canon-long"
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
-- "epic superlourds GI Baneblades-canon-long"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades-canon-long NONSUP"
 - "epic Baneblades-canon-long NONSUP"
 - "superlourds Baneblades-canon-long NONSUP"
-- "epic superlourds Baneblades-canon-long NONSUP"
 - "GI Baneblades-canon-long NONSUP"
-- "epic GI Baneblades-canon-long NONSUP"
-- "superlourds GI Baneblades-canon-long NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-shadowsword_-_Images_1.jpg> "thumbs_-_epic-scale-shadowsword_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-shadowsword_-_Images_1.avif> "thumbs_-_epic-scale-shadowsword_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-shadowsword_-_ImagesSTL_1.jpg> "thumbs_-_epic-scale-shadowsword_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_epic-scale-shadowsword_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-shadowsword_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_epic-scale-shadowsword_-_Makes_1.jpg> "thumbs_-_epic-scale-shadowsword_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-scale-shadowsword_-_Makes_1.avif> "thumbs_-_epic-scale-shadowsword_-_Makes_1.avif")
 
   
 

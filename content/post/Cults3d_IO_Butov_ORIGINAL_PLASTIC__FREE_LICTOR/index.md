@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > IO_Butov > ORIGINAL_PLASTIC__FREE_LICTOR [dl]"
 date: "2024-02-05T15:14:00Z"
 toc: true
-image: "thumbs_-_original-plastic-free-lictor_-_Images_1.jpg"
+image: "thumbs_-_original-plastic-free-lictor_-_Images_1.avif"
 tags:
 - "IO_Butov"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_original-plastic-free-lictor_-_Images_1.jpg> "thumbs_-_original-plastic-free-lictor_-_Images_1.jpg")
+![](<thumbs_-_original-plastic-free-lictor_-_Images_1.avif> "thumbs_-_original-plastic-free-lictor_-_Images_1.avif")
 
-  ![](<thumbs_-_original-plastic-free-lictor_-_ImagesSTL_1.jpg> "thumbs_-_original-plastic-free-lictor_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_original-plastic-free-lictor_-_ImagesSTL_1.avif> "thumbs_-_original-plastic-free-lictor_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_original-plastic-free-lictor_-_Makes_1.jpg> "thumbs_-_original-plastic-free-lictor_-_Makes_1.jpg")
+  ![](<thumbs_-_original-plastic-free-lictor_-_Makes_1.avif> "thumbs_-_original-plastic-free-lictor_-_Makes_1.avif")
 
   
 

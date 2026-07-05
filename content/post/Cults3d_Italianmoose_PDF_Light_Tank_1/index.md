@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > PDF_Light_Tank_1 [dl]"
 date: "2021-12-12T21:06:12Z"
 toc: true
-image: "thumbs_-_pdf-light-tank-1_-_Images_1.jpg"
+image: "thumbs_-_pdf-light-tank-1_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars"
 - "epic GI Imp-chars"
 - "vehicules GI Imp-chars"
-- "epic vehicules GI Imp-chars"
 - "Chars-fdp-divers"
 - "epic Chars-fdp-divers"
 - "vehicules Chars-fdp-divers"
@@ -28,14 +27,10 @@ tags:
 - "GI Chars-fdp-divers"
 - "epic GI Chars-fdp-divers"
 - "vehicules GI Chars-fdp-divers"
-- "epic vehicules GI Chars-fdp-divers"
 - "Imp-chars Chars-fdp-divers"
 - "epic Imp-chars Chars-fdp-divers"
 - "vehicules Imp-chars Chars-fdp-divers"
-- "epic vehicules Imp-chars Chars-fdp-divers"
 - "GI Imp-chars Chars-fdp-divers"
-- "epic GI Imp-chars Chars-fdp-divers"
-- "vehicules GI Imp-chars Chars-fdp-divers"
 - "SUP"
 - "epic SUP"
 - "vehicules SUP"
@@ -43,31 +38,21 @@ tags:
 - "GI SUP"
 - "epic GI SUP"
 - "vehicules GI SUP"
-- "epic vehicules GI SUP"
 - "Imp-chars SUP"
 - "epic Imp-chars SUP"
 - "vehicules Imp-chars SUP"
-- "epic vehicules Imp-chars SUP"
 - "GI Imp-chars SUP"
-- "epic GI Imp-chars SUP"
-- "vehicules GI Imp-chars SUP"
 - "Chars-fdp-divers SUP"
 - "epic Chars-fdp-divers SUP"
 - "vehicules Chars-fdp-divers SUP"
-- "epic vehicules Chars-fdp-divers SUP"
 - "GI Chars-fdp-divers SUP"
-- "epic GI Chars-fdp-divers SUP"
-- "vehicules GI Chars-fdp-divers SUP"
 - "Imp-chars Chars-fdp-divers SUP"
-- "epic Imp-chars Chars-fdp-divers SUP"
-- "vehicules Imp-chars Chars-fdp-divers SUP"
-- "GI Imp-chars Chars-fdp-divers SUP"
 
 ---
 
-![](<thumbs_-_pdf-light-tank-1_-_Images_1.jpg> "thumbs_-_pdf-light-tank-1_-_Images_1.jpg")
+![](<thumbs_-_pdf-light-tank-1_-_Images_1.avif> "thumbs_-_pdf-light-tank-1_-_Images_1.avif")
 
-  ![](<thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.jpg> "thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.avif> "thumbs_-_pdf-light-tank-1_-_ImagesSTL_1.avif")
 
   
 

@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_Self_Propelled_Artillery_for_Human_Armies [non dl]"
+title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_Self_Propelled_Artillery_for_Human_Armies [dl]"
 date: "2019-12-27T11:07:36Z"
 toc: true
-image: "thumbs_-_epic-scale-minotaur_-_Images_1.jpg"
+image: "thumbs_-_epic-scale-minotaur_-_Images_1.avif"
 tags:
 - "Stroganoff"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Imp-chars-artillerie"
 - "epic GI Imp-chars-artillerie"
 - "vehicules GI Imp-chars-artillerie"
-- "epic vehicules GI Imp-chars-artillerie"
 - "Imp-minotaurs"
 - "epic Imp-minotaurs"
 - "vehicules Imp-minotaurs"
@@ -28,40 +27,10 @@ tags:
 - "GI Imp-minotaurs"
 - "epic GI Imp-minotaurs"
 - "vehicules GI Imp-minotaurs"
-- "epic vehicules GI Imp-minotaurs"
 - "Imp-chars-artillerie Imp-minotaurs"
 - "epic Imp-chars-artillerie Imp-minotaurs"
 - "vehicules Imp-chars-artillerie Imp-minotaurs"
-- "epic vehicules Imp-chars-artillerie Imp-minotaurs"
 - "GI Imp-chars-artillerie Imp-minotaurs"
-- "epic GI Imp-chars-artillerie Imp-minotaurs"
-- "vehicules GI Imp-chars-artillerie Imp-minotaurs"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "vehicules GI NONDL"
-- "epic vehicules GI NONDL"
-- "Imp-chars-artillerie NONDL"
-- "epic Imp-chars-artillerie NONDL"
-- "vehicules Imp-chars-artillerie NONDL"
-- "epic vehicules Imp-chars-artillerie NONDL"
-- "GI Imp-chars-artillerie NONDL"
-- "epic GI Imp-chars-artillerie NONDL"
-- "vehicules GI Imp-chars-artillerie NONDL"
-- "Imp-minotaurs NONDL"
-- "epic Imp-minotaurs NONDL"
-- "vehicules Imp-minotaurs NONDL"
-- "epic vehicules Imp-minotaurs NONDL"
-- "GI Imp-minotaurs NONDL"
-- "epic GI Imp-minotaurs NONDL"
-- "vehicules GI Imp-minotaurs NONDL"
-- "Imp-chars-artillerie Imp-minotaurs NONDL"
-- "epic Imp-chars-artillerie Imp-minotaurs NONDL"
-- "vehicules Imp-chars-artillerie Imp-minotaurs NONDL"
-- "GI Imp-chars-artillerie Imp-minotaurs NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -69,47 +38,23 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "vehicules GI NONSUP"
-- "epic vehicules GI NONSUP"
 - "Imp-chars-artillerie NONSUP"
 - "epic Imp-chars-artillerie NONSUP"
 - "vehicules Imp-chars-artillerie NONSUP"
-- "epic vehicules Imp-chars-artillerie NONSUP"
 - "GI Imp-chars-artillerie NONSUP"
-- "epic GI Imp-chars-artillerie NONSUP"
-- "vehicules GI Imp-chars-artillerie NONSUP"
 - "Imp-minotaurs NONSUP"
 - "epic Imp-minotaurs NONSUP"
 - "vehicules Imp-minotaurs NONSUP"
-- "epic vehicules Imp-minotaurs NONSUP"
 - "GI Imp-minotaurs NONSUP"
-- "epic GI Imp-minotaurs NONSUP"
-- "vehicules GI Imp-minotaurs NONSUP"
 - "Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "epic Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "vehicules Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "GI Imp-chars-artillerie Imp-minotaurs NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "vehicules GI NONDL NONSUP"
-- "Imp-chars-artillerie NONDL NONSUP"
-- "epic Imp-chars-artillerie NONDL NONSUP"
-- "vehicules Imp-chars-artillerie NONDL NONSUP"
-- "GI Imp-chars-artillerie NONDL NONSUP"
-- "Imp-minotaurs NONDL NONSUP"
-- "epic Imp-minotaurs NONDL NONSUP"
-- "vehicules Imp-minotaurs NONDL NONSUP"
-- "GI Imp-minotaurs NONDL NONSUP"
-- "Imp-chars-artillerie Imp-minotaurs NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_epic-scale-minotaur_-_Images_1.jpg> "thumbs_-_epic-scale-minotaur_-_Images_1.jpg")
+![](<thumbs_-_epic-scale-minotaur_-_Images_1.avif> "thumbs_-_epic-scale-minotaur_-_Images_1.avif")
 
-  ![](<thumbs_-_epic-scale-minotaur_-_Makes_1.jpg> "thumbs_-_epic-scale-minotaur_-_Makes_1.jpg")
+  ![](<thumbs_-_epic-scale-minotaur_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-minotaur_-_ImagesSTL_1.avif")
+
+  ![](<thumbs_-_epic-scale-minotaur_-_Makes_1.avif> "thumbs_-_epic-scale-minotaur_-_Makes_1.avif")
 
   
 
@@ -126,7 +71,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars-artillerie Imp-minotaurs NONDL NONSUP
+- epic vehicules GI Imp-chars-artillerie Imp-minotaurs  NONSUP
 
 
 Description :

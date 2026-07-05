@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > ElectricOstritch > Hobbit_sized_Mortar [non dl]"
 date: "2021-09-26T23:16:30+00:00"
 toc: true
-image: "thumbs_-_4975483_-_Images_1.jpg"
+image: "thumbs_-_4975483_-_Images_1.avif"
 tags:
 - "ElectricOstritch"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Machines-de-guerre-génériques NONDL NONSUP"
-- "warmaster Machines-de-guerre-génériques NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4975483_-_Images_1.jpg> "thumbs_-_4975483_-_Images_1.jpg")
+![](<thumbs_-_4975483_-_Images_1.avif> "thumbs_-_4975483_-_Images_1.avif")
 
   
 

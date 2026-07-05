@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MrOrangeJumper > Space_Dwarf_Rangers_ [non dl]"
 date: "2019-01-27T20:08:01+00:00"
 toc: true
-image: "thumbs_-_3385224_-_Images_1.jpg"
+image: "thumbs_-_3385224_-_Images_1.avif"
 tags:
 - "MrOrangeJumper"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SQUATS NONDL NONSUP"
-- "28mm SQUATS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3385224_-_Images_1.jpg> "thumbs_-_3385224_-_Images_1.jpg")
+![](<thumbs_-_3385224_-_Images_1.avif> "thumbs_-_3385224_-_Images_1.avif")
 
-  ![](<thumbs_-_3385224_-_Makes_1.jpg> "thumbs_-_3385224_-_Makes_1.jpg")
+  ![](<thumbs_-_3385224_-_Makes_1.avif> "thumbs_-_3385224_-_Makes_1.avif")
 
   
 

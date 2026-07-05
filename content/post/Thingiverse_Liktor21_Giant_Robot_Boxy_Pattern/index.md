@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Liktor21 > Giant_Robot_Boxy_Pattern [dl]"
 date: "2019-05-17T11:43:53+00:00"
 toc: true
-image: "thumbs_-_3636315_-_Images_1.jpg"
+image: "thumbs_-_3636315_-_Images_1.avif"
 tags:
 - "Liktor21"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Admech-titans-imperators"
 - "epic IMP Admech-titans-imperators"
 - "titans IMP Admech-titans-imperators"
-- "epic titans IMP Admech-titans-imperators"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "titans IMP NONSUP"
-- "epic titans IMP NONSUP"
 - "Admech-titans-imperators NONSUP"
 - "epic Admech-titans-imperators NONSUP"
 - "titans Admech-titans-imperators NONSUP"
-- "epic titans Admech-titans-imperators NONSUP"
 - "IMP Admech-titans-imperators NONSUP"
-- "epic IMP Admech-titans-imperators NONSUP"
-- "titans IMP Admech-titans-imperators NONSUP"
 
 ---
 
-![](<thumbs_-_3636315_-_Images_1.jpg> "thumbs_-_3636315_-_Images_1.jpg")
+![](<thumbs_-_3636315_-_Images_1.avif> "thumbs_-_3636315_-_Images_1.avif")
 
-  ![](<thumbs_-_3636315_-_ImagesSTL_1.jpg> "thumbs_-_3636315_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3636315_-_ImagesSTL_1.avif> "thumbs_-_3636315_-_ImagesSTL_1.avif")
 
   
 

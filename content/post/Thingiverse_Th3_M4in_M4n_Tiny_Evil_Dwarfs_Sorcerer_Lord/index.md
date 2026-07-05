@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > Tiny_Evil_Dwarfs_Sorcerer_Lord [dl]"
 date: "2024-03-21T17:46:46+00:00"
 toc: true
-image: "thumbs_-_6543289_-_Images_1.jpg"
+image: "thumbs_-_6543289_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_6543289_-_Images_1.jpg> "thumbs_-_6543289_-_Images_1.jpg")
+![](<thumbs_-_6543289_-_Images_1.avif> "thumbs_-_6543289_-_Images_1.avif")
 
-  ![](<thumbs_-_6543289_-_ImagesSTL_1.jpg> "thumbs_-_6543289_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6543289_-_ImagesSTL_1.avif> "thumbs_-_6543289_-_ImagesSTL_1.avif")
 
   
 

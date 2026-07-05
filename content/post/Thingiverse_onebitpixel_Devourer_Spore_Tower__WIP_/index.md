@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > onebitpixel > Devourer_Spore_Tower__WIP_ [non dl]"
 date: "2016-07-21T04:24:59+00:00"
 toc: true
-image: "thumbs_-_1682164_-_Images_1.jpg"
+image: "thumbs_-_1682164_-_Images_1.avif"
 tags:
 - "onebitpixel"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "TYRANIDES NONDL"
 - "epic TYRANIDES NONDL"
 - "decors TYRANIDES NONDL"
-- "epic decors TYRANIDES NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "TYRANIDES NONSUP"
 - "epic TYRANIDES NONSUP"
 - "decors TYRANIDES NONSUP"
-- "epic decors TYRANIDES NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "TYRANIDES NONDL NONSUP"
-- "epic TYRANIDES NONDL NONSUP"
-- "decors TYRANIDES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_1682164_-_Images_1.jpg> "thumbs_-_1682164_-_Images_1.jpg")
+![](<thumbs_-_1682164_-_Images_1.avif> "thumbs_-_1682164_-_Images_1.avif")
 
-  ![](<thumbs_-_1682164_-_Makes_1.jpg> "thumbs_-_1682164_-_Makes_1.jpg")
+  ![](<thumbs_-_1682164_-_Makes_1.avif> "thumbs_-_1682164_-_Makes_1.avif")
 
   
 

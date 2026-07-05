@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Onmioji > Demons [dl]"
 date: "2021-09-30T23:31:04Z"
 toc: true
-image: "thumbs_-_demons-onmioji_-_Images_1.jpg"
+image: "thumbs_-_demons-onmioji_-_Images_1.avif"
 tags:
 - "Onmioji"
 - "warmaster"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_demons-onmioji_-_Images_1.jpg> "thumbs_-_demons-onmioji_-_Images_1.jpg")
+![](<thumbs_-_demons-onmioji_-_Images_1.avif> "thumbs_-_demons-onmioji_-_Images_1.avif")
 
-  ![](<thumbs_-_demons-onmioji_-_ImagesSTL_1.jpg> "thumbs_-_demons-onmioji_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_demons-onmioji_-_ImagesSTL_1.avif> "thumbs_-_demons-onmioji_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_demons-onmioji_-_Makes_1.jpg> "thumbs_-_demons-onmioji_-_Makes_1.jpg")
+  ![](<thumbs_-_demons-onmioji_-_Makes_1.avif> "thumbs_-_demons-onmioji_-_Makes_1.avif")
 
   
 

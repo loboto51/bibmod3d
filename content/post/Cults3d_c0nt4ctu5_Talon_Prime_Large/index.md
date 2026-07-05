@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > c0nt4ctu5 > Talon_Prime_Large [non dl]"
 date: "2025-10-02T02:16:43Z"
 toc: true
-image: "thumbs_-_talon-prime-large_-_Images_1.jpg"
+image: "thumbs_-_talon-prime-large_-_Images_1.avif"
 tags:
 - "c0nt4ctu5"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL SUP"
 - "28mm NONDL SUP"
 - "TYRANIDES NONDL SUP"
-- "28mm TYRANIDES NONDL SUP"
 
 ---
 
-![](<thumbs_-_talon-prime-large_-_Images_1.jpg> "thumbs_-_talon-prime-large_-_Images_1.jpg")
+![](<thumbs_-_talon-prime-large_-_Images_1.avif> "thumbs_-_talon-prime-large_-_Images_1.avif")
 
   
 

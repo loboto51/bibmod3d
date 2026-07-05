@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > sparkie740 > epic_40k_vehicle_bases [non dl]"
 date: "2018-07-08T17:43:08+00:00"
 toc: true
-image: "thumbs_-_2995170_-_Images_1.jpg"
+image: "thumbs_-_2995170_-_Images_1.avif"
 tags:
 - "sparkie740"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "DIVERS NONDL"
 - "epic DIVERS NONDL"
 - "SOCLES DIVERS NONDL"
-- "epic SOCLES DIVERS NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "SOCLES NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "DIVERS NONSUP"
 - "epic DIVERS NONSUP"
 - "SOCLES DIVERS NONSUP"
-- "epic SOCLES DIVERS NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "SOCLES NONDL NONSUP"
-- "epic SOCLES NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
-- "epic DIVERS NONDL NONSUP"
-- "SOCLES DIVERS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_2995170_-_Images_1.jpg> "thumbs_-_2995170_-_Images_1.jpg")
+![](<thumbs_-_2995170_-_Images_1.avif> "thumbs_-_2995170_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d_archive > GrandAdmiralThrawn > Great_Heroes_of_the_Flaying_Lords [dl]"
 date: "2026-01-05T16:35:48Z"
 toc: true
-image: "thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.jpg"
+image: "thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.avif"
 tags:
 - "GrandAdmiralThrawn"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SMC Bits"
 - "28mm SMC Bits"
 - "CHAOS SMC Bits"
-- "28mm CHAOS SMC Bits"
 - "Builders"
 - "28mm Builders"
 - "CHAOS Builders"
@@ -28,14 +27,10 @@ tags:
 - "SMC Builders"
 - "28mm SMC Builders"
 - "CHAOS SMC Builders"
-- "28mm CHAOS SMC Builders"
 - "Bits Builders"
 - "28mm Bits Builders"
 - "CHAOS Bits Builders"
-- "28mm CHAOS Bits Builders"
 - "SMC Bits Builders"
-- "28mm SMC Bits Builders"
-- "CHAOS SMC Bits Builders"
 - "NONSUP"
 - "28mm NONSUP"
 - "CHAOS NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 - "Bits NONSUP"
 - "28mm Bits NONSUP"
 - "CHAOS Bits NONSUP"
-- "28mm CHAOS Bits NONSUP"
 - "SMC Bits NONSUP"
-- "28mm SMC Bits NONSUP"
-- "CHAOS SMC Bits NONSUP"
 - "Builders NONSUP"
 - "28mm Builders NONSUP"
 - "CHAOS Builders NONSUP"
-- "28mm CHAOS Builders NONSUP"
 - "SMC Builders NONSUP"
-- "28mm SMC Builders NONSUP"
-- "CHAOS SMC Builders NONSUP"
 - "Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "CHAOS Bits Builders NONSUP"
-- "SMC Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.jpg> "thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.jpg")
+![](<thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.avif> "thumbs_-_great-heroes-of-the-flaying-lords_-_Images_1.avif")
 
-  ![](<thumbs_-_great-heroes-of-the-flaying-lords_-_ImagesSTL_1.jpg> "thumbs_-_great-heroes-of-the-flaying-lords_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_great-heroes-of-the-flaying-lords_-_ImagesSTL_1.avif> "thumbs_-_great-heroes-of-the-flaying-lords_-_ImagesSTL_1.avif")
 
   
 

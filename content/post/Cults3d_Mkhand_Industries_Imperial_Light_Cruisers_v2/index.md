@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Mkhand_Industries > Imperial_Light_Cruisers_v2 [non dl]"
 date: "2019-06-21T13:39:57Z"
 toc: true
-image: "thumbs_-_imperial-light-cruisers-v2_-_Images_1.jpg"
+image: "thumbs_-_imperial-light-cruisers-v2_-_Images_1.avif"
 tags:
 - "Mkhand_Industries"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_imperial-light-cruisers-v2_-_Images_1.jpg> "thumbs_-_imperial-light-cruisers-v2_-_Images_1.jpg")
+![](<thumbs_-_imperial-light-cruisers-v2_-_Images_1.avif> "thumbs_-_imperial-light-cruisers-v2_-_Images_1.avif")
 
   
 

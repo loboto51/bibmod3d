@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > 3D_Print_Cleric > Skaven_Stormvermin [dl]"
 date: "2020-09-18T05:12:42+00:00"
 toc: true
-image: "thumbs_-_4599849_-_Images_1.jpg"
+image: "thumbs_-_4599849_-_Images_1.avif"
 tags:
 - "3D_Print_Cleric"
 - "28mm"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_4599849_-_Images_1.jpg> "thumbs_-_4599849_-_Images_1.jpg")
+![](<thumbs_-_4599849_-_Images_1.avif> "thumbs_-_4599849_-_Images_1.avif")
 
-  ![](<thumbs_-_4599849_-_ImagesSTL_1.jpg> "thumbs_-_4599849_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4599849_-_ImagesSTL_1.avif> "thumbs_-_4599849_-_ImagesSTL_1.avif")
 
   
 

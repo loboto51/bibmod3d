@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > waterwarlock182 > Inquisitor__for_inq28_ [dl]"
 date: "2021-02-07T00:00:21+00:00"
 toc: true
-image: "thumbs_-_4752672_-_Images_1.jpg"
+image: "thumbs_-_4752672_-_Images_1.avif"
 tags:
 - "waterwarlock182"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS Personnalites"
 - "28mm HUMAINS Personnalites"
 - "IMP HUMAINS Personnalites"
-- "28mm IMP HUMAINS Personnalites"
 - "Inquisiteurs"
 - "28mm Inquisiteurs"
 - "IMP Inquisiteurs"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS Inquisiteurs"
 - "28mm HUMAINS Inquisiteurs"
 - "IMP HUMAINS Inquisiteurs"
-- "28mm IMP HUMAINS Inquisiteurs"
 - "Personnalites Inquisiteurs"
 - "28mm Personnalites Inquisiteurs"
 - "IMP Personnalites Inquisiteurs"
-- "28mm IMP Personnalites Inquisiteurs"
 - "HUMAINS Personnalites Inquisiteurs"
-- "28mm HUMAINS Personnalites Inquisiteurs"
-- "IMP HUMAINS Personnalites Inquisiteurs"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "IMP HUMAINS NONSUP"
-- "28mm IMP HUMAINS NONSUP"
 - "Personnalites NONSUP"
 - "28mm Personnalites NONSUP"
 - "IMP Personnalites NONSUP"
-- "28mm IMP Personnalites NONSUP"
 - "HUMAINS Personnalites NONSUP"
-- "28mm HUMAINS Personnalites NONSUP"
-- "IMP HUMAINS Personnalites NONSUP"
 - "Inquisiteurs NONSUP"
 - "28mm Inquisiteurs NONSUP"
 - "IMP Inquisiteurs NONSUP"
-- "28mm IMP Inquisiteurs NONSUP"
 - "HUMAINS Inquisiteurs NONSUP"
-- "28mm HUMAINS Inquisiteurs NONSUP"
-- "IMP HUMAINS Inquisiteurs NONSUP"
 - "Personnalites Inquisiteurs NONSUP"
-- "28mm Personnalites Inquisiteurs NONSUP"
-- "IMP Personnalites Inquisiteurs NONSUP"
-- "HUMAINS Personnalites Inquisiteurs NONSUP"
 
 ---
 
-![](<thumbs_-_4752672_-_Images_1.jpg> "thumbs_-_4752672_-_Images_1.jpg")
+![](<thumbs_-_4752672_-_Images_1.avif> "thumbs_-_4752672_-_Images_1.avif")
 
-  ![](<thumbs_-_4752672_-_ImagesSTL_1.jpg> "thumbs_-_4752672_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4752672_-_ImagesSTL_1.avif> "thumbs_-_4752672_-_ImagesSTL_1.avif")
 
   
 

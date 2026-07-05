@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MoonJammy > Galactic_Crusaders___Pillagers___6_8mm [dl]"
 date: "2020-11-07T14:47:40Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.avif"
 tags:
 - "MoonJammy"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-assaut"
 - "epic SM30K Sm-assaut"
 - "infanterie SM30K Sm-assaut"
-- "epic infanterie SM30K Sm-assaut"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SM30K Sm-assaut NONSUP"
-- "epic SM30K Sm-assaut NONSUP"
-- "infanterie SM30K Sm-assaut NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.jpg> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.avif> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Images_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_ImagesSTL_1.jpg> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Makes_1.jpg> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Makes_1.jpg")
+  ![](<thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Makes_1.avif> "thumbs_-_galactic-crusaders-pillagers-6-8mm_-_Makes_1.avif")
 
   
 

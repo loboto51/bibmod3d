@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Scorched_Warriors___Tech_Elves___8mm [non dl]"
 date: "2024-06-04T01:18:45Z"
 toc: true
-image: "thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.jpg"
+image: "thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-tactiques"
 - "epic VM Eldars-tactiques"
 - "infanterie VM Eldars-tactiques"
-- "epic infanterie VM Eldars-tactiques"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Eldars-tactiques NONDL"
 - "epic Eldars-tactiques NONDL"
 - "infanterie Eldars-tactiques NONDL"
-- "epic infanterie Eldars-tactiques NONDL"
 - "VM Eldars-tactiques NONDL"
-- "epic VM Eldars-tactiques NONDL"
-- "infanterie VM Eldars-tactiques NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-tactiques SUP"
 - "epic Eldars-tactiques SUP"
 - "infanterie Eldars-tactiques SUP"
-- "epic infanterie Eldars-tactiques SUP"
 - "VM Eldars-tactiques SUP"
-- "epic VM Eldars-tactiques SUP"
-- "infanterie VM Eldars-tactiques SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Eldars-tactiques NONDL SUP"
-- "epic Eldars-tactiques NONDL SUP"
-- "infanterie Eldars-tactiques NONDL SUP"
-- "VM Eldars-tactiques NONDL SUP"
 
 ---
 
-![](<thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.jpg> "thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.jpg")
+![](<thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.avif> "thumbs_-_tech-elves-scorched-warriors-8mm_-_Images_1.avif")
 
   
 

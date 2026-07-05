@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Kybynn > BFG_Imperial_Navy_Tyrant_Class_Cruiser [non dl]"
 date: "2019-05-08T17:38:46+00:00"
 toc: true
-image: "thumbs_-_3616606_-_Images_1.jpg"
+image: "thumbs_-_3616606_-_Images_1.avif"
 tags:
 - "Kybynn"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "IMP Flotte NONDL"
-- "bfg IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "bfg IMP NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "IMP Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3616606_-_Images_1.jpg> "thumbs_-_3616606_-_Images_1.jpg")
+![](<thumbs_-_3616606_-_Images_1.avif> "thumbs_-_3616606_-_Images_1.avif")
 
   
 

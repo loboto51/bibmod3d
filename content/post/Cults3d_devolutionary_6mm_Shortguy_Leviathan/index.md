@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > devolutionary > 6mm_Shortguy_Leviathan [dl]"
 date: "2023-02-05T23:29:18Z"
 toc: true
-image: "thumbs_-_6mm-shortguy-leviathan_-_Images_1.jpg"
+image: "thumbs_-_6mm-shortguy-leviathan_-_Images_1.avif"
 tags:
 - "devolutionary"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SQUATS Leviathans"
 - "epic SQUATS Leviathans"
 - "superlourds SQUATS Leviathans"
-- "epic superlourds SQUATS Leviathans"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SQUATS NONSUP"
 - "epic SQUATS NONSUP"
 - "superlourds SQUATS NONSUP"
-- "epic superlourds SQUATS NONSUP"
 - "Leviathans NONSUP"
 - "epic Leviathans NONSUP"
 - "superlourds Leviathans NONSUP"
-- "epic superlourds Leviathans NONSUP"
 - "SQUATS Leviathans NONSUP"
-- "epic SQUATS Leviathans NONSUP"
-- "superlourds SQUATS Leviathans NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-shortguy-leviathan_-_Images_1.jpg> "thumbs_-_6mm-shortguy-leviathan_-_Images_1.jpg")
+![](<thumbs_-_6mm-shortguy-leviathan_-_Images_1.avif> "thumbs_-_6mm-shortguy-leviathan_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-shortguy-leviathan_-_ImagesSTL_1.jpg> "thumbs_-_6mm-shortguy-leviathan_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-shortguy-leviathan_-_ImagesSTL_1.avif> "thumbs_-_6mm-shortguy-leviathan_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Jimmyzimms > Epic_Scale_Interstellar_Viking_Best_Friends [dl]"
 date: "2021-09-14T23:03:04+00:00"
 toc: true
-image: "thumbs_-_4965325_-_Images_1.jpg"
+image: "thumbs_-_4965325_-_Images_1.avif"
 tags:
 - "Jimmyzimms"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut"
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
-- "epic infanterie SMI Sm-assaut"
 - "SMI-SW"
 - "epic SMI-SW"
 - "infanterie SMI-SW"
@@ -28,14 +27,10 @@ tags:
 - "SMI SMI-SW"
 - "epic SMI SMI-SW"
 - "infanterie SMI SMI-SW"
-- "epic infanterie SMI SMI-SW"
 - "Sm-assaut SMI-SW"
 - "epic Sm-assaut SMI-SW"
 - "infanterie Sm-assaut SMI-SW"
-- "epic infanterie Sm-assaut SMI-SW"
 - "SMI Sm-assaut SMI-SW"
-- "epic SMI Sm-assaut SMI-SW"
-- "infanterie SMI Sm-assaut SMI-SW"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMI Sm-assaut NONSUP"
-- "epic SMI Sm-assaut NONSUP"
-- "infanterie SMI Sm-assaut NONSUP"
 - "SMI-SW NONSUP"
 - "epic SMI-SW NONSUP"
 - "infanterie SMI-SW NONSUP"
-- "epic infanterie SMI-SW NONSUP"
 - "SMI SMI-SW NONSUP"
-- "epic SMI SMI-SW NONSUP"
-- "infanterie SMI SMI-SW NONSUP"
 - "Sm-assaut SMI-SW NONSUP"
-- "epic Sm-assaut SMI-SW NONSUP"
-- "infanterie Sm-assaut SMI-SW NONSUP"
-- "SMI Sm-assaut SMI-SW NONSUP"
 
 ---
 
-![](<thumbs_-_4965325_-_Images_1.jpg> "thumbs_-_4965325_-_Images_1.jpg")
+![](<thumbs_-_4965325_-_Images_1.avif> "thumbs_-_4965325_-_Images_1.avif")
 
-  ![](<thumbs_-_4965325_-_ImagesSTL_1.jpg> "thumbs_-_4965325_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4965325_-_ImagesSTL_1.avif> "thumbs_-_4965325_-_ImagesSTL_1.avif")
 
   
 

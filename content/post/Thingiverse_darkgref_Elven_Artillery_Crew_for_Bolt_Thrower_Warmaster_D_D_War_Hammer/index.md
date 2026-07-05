@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Elven_Artillery_Crew_for_Bolt_Thrower_Warmaster_D_D_War_Hammer [non dl]"
 date: "2021-08-02T16:51:18+00:00"
 toc: true
-image: "thumbs_-_4923018_-_Images_1.jpg"
+image: "thumbs_-_4923018_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4923018_-_Images_1.jpg> "thumbs_-_4923018_-_Images_1.jpg")
+![](<thumbs_-_4923018_-_Images_1.avif> "thumbs_-_4923018_-_Images_1.avif")
 
   
 

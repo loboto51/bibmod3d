@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MicroWarfare > 6_8mm_Salamander [non dl]"
 date: "2021-03-19T03:08:31Z"
 toc: true
-image: "thumbs_-_6-8mm-salamander_-_Images_1.jpg"
+image: "thumbs_-_6-8mm-salamander_-_Images_1.avif"
 tags:
 - "MicroWarfare"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "EXO Eldars-salamandres"
 - "epic EXO Eldars-salamandres"
 - "vehicules EXO Eldars-salamandres"
-- "epic vehicules EXO Eldars-salamandres"
 - "NONDL"
 - "epic NONDL"
 - "vehicules NONDL"
@@ -28,14 +27,10 @@ tags:
 - "EXO NONDL"
 - "epic EXO NONDL"
 - "vehicules EXO NONDL"
-- "epic vehicules EXO NONDL"
 - "Eldars-salamandres NONDL"
 - "epic Eldars-salamandres NONDL"
 - "vehicules Eldars-salamandres NONDL"
-- "epic vehicules Eldars-salamandres NONDL"
 - "EXO Eldars-salamandres NONDL"
-- "epic EXO Eldars-salamandres NONDL"
-- "vehicules EXO Eldars-salamandres NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "EXO NONSUP"
 - "epic EXO NONSUP"
 - "vehicules EXO NONSUP"
-- "epic vehicules EXO NONSUP"
 - "Eldars-salamandres NONSUP"
 - "epic Eldars-salamandres NONSUP"
 - "vehicules Eldars-salamandres NONSUP"
-- "epic vehicules Eldars-salamandres NONSUP"
 - "EXO Eldars-salamandres NONSUP"
-- "epic EXO Eldars-salamandres NONSUP"
-- "vehicules EXO Eldars-salamandres NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "vehicules NONDL NONSUP"
-- "epic vehicules NONDL NONSUP"
 - "EXO NONDL NONSUP"
-- "epic EXO NONDL NONSUP"
-- "vehicules EXO NONDL NONSUP"
 - "Eldars-salamandres NONDL NONSUP"
-- "epic Eldars-salamandres NONDL NONSUP"
-- "vehicules Eldars-salamandres NONDL NONSUP"
-- "EXO Eldars-salamandres NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6-8mm-salamander_-_Images_1.jpg> "thumbs_-_6-8mm-salamander_-_Images_1.jpg")
+![](<thumbs_-_6-8mm-salamander_-_Images_1.avif> "thumbs_-_6-8mm-salamander_-_Images_1.avif")
 
   
 

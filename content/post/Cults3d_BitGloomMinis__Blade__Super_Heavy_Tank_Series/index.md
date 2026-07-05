@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > BitGloomMinis > _Blade__Super_Heavy_Tank_Series [dl]"
 date: "2024-04-01T00:06:01Z"
 toc: true
-image: "thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg"
+image: "thumbs_-_blade-super-heavy-tank-series_-_Images_1.avif"
 tags:
 - "BitGloomMinis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Baneblades-canon-court-arrière"
 - "epic GI Baneblades-canon-court-arrière"
 - "superlourds GI Baneblades-canon-court-arrière"
-- "epic superlourds GI Baneblades-canon-court-arrière"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades-canon-court-arrière NONSUP"
 - "epic Baneblades-canon-court-arrière NONSUP"
 - "superlourds Baneblades-canon-court-arrière NONSUP"
-- "epic superlourds Baneblades-canon-court-arrière NONSUP"
 - "GI Baneblades-canon-court-arrière NONSUP"
-- "epic GI Baneblades-canon-court-arrière NONSUP"
-- "superlourds GI Baneblades-canon-court-arrière NONSUP"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -50,7 +45,6 @@ tags:
 - "GI Baneblades-canon-long"
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
-- "epic superlourds GI Baneblades-canon-long"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades-canon-long NONSUP"
 - "epic Baneblades-canon-long NONSUP"
 - "superlourds Baneblades-canon-long NONSUP"
-- "epic superlourds Baneblades-canon-long NONSUP"
 - "GI Baneblades-canon-long NONSUP"
-- "epic GI Baneblades-canon-long NONSUP"
-- "superlourds GI Baneblades-canon-long NONSUP"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -80,7 +70,6 @@ tags:
 - "GI Baneblades"
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
-- "epic superlourds GI Baneblades"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -88,20 +77,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades NONSUP"
 - "epic Baneblades NONSUP"
 - "superlourds Baneblades NONSUP"
-- "epic superlourds Baneblades NONSUP"
 - "GI Baneblades NONSUP"
-- "epic GI Baneblades NONSUP"
-- "superlourds GI Baneblades NONSUP"
 
 ---
 
-![](<thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg> "thumbs_-_blade-super-heavy-tank-series_-_Images_1.jpg")
+![](<thumbs_-_blade-super-heavy-tank-series_-_Images_1.avif> "thumbs_-_blade-super-heavy-tank-series_-_Images_1.avif")
 
-  ![](<thumbs_-_blade-super-heavy-tank-series_-_ImagesSTL_1.jpg> "thumbs_-_blade-super-heavy-tank-series_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_blade-super-heavy-tank-series_-_ImagesSTL_1.avif> "thumbs_-_blade-super-heavy-tank-series_-_ImagesSTL_1.avif")
 
   
 

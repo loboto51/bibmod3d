@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tezca > Eldar_Void_Stalker [dl]"
 date: "2019-04-21T18:18:45+00:00"
 toc: true
-image: "thumbs_-_3579166_-_Images_1.jpg"
+image: "thumbs_-_3579166_-_Images_1.avif"
 tags:
 - "Tezca"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "VM Flotte"
 - "bfg VM Flotte"
 - "ELDARS VM Flotte"
-- "bfg ELDARS VM Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "ELDARS NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "VM NONSUP"
 - "bfg VM NONSUP"
 - "ELDARS VM NONSUP"
-- "bfg ELDARS VM NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ELDARS Flotte NONSUP"
-- "bfg ELDARS Flotte NONSUP"
 - "VM Flotte NONSUP"
-- "bfg VM Flotte NONSUP"
-- "ELDARS VM Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3579166_-_Images_1.jpg> "thumbs_-_3579166_-_Images_1.jpg")
+![](<thumbs_-_3579166_-_Images_1.avif> "thumbs_-_3579166_-_Images_1.avif")
 
-  ![](<thumbs_-_3579166_-_ImagesSTL_1.jpg> "thumbs_-_3579166_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3579166_-_ImagesSTL_1.avif> "thumbs_-_3579166_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3579166_-_Makes_1.jpg> "thumbs_-_3579166_-_Makes_1.jpg")
+  ![](<thumbs_-_3579166_-_Makes_1.avif> "thumbs_-_3579166_-_Makes_1.avif")
 
   
 

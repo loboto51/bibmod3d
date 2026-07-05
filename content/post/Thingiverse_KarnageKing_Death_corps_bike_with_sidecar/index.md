@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > KarnageKing > Death_corps_bike_with_sidecar [dl]"
 date: "2019-05-09T04:04:13+00:00"
 toc: true
-image: "thumbs_-_3617700_-_Images_1.jpg"
+image: "thumbs_-_3617700_-_Images_1.avif"
 tags:
 - "KarnageKing"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "Motos-diverses-pour-kitbash Bits"
 - "15mm Motos-diverses-pour-kitbash Bits"
 - "28mm Motos-diverses-pour-kitbash Bits"
-- "15mm 28mm Motos-diverses-pour-kitbash Bits"
 - "Builders"
 - "15mm Builders"
 - "28mm Builders"
@@ -28,14 +27,10 @@ tags:
 - "Motos-diverses-pour-kitbash Builders"
 - "15mm Motos-diverses-pour-kitbash Builders"
 - "28mm Motos-diverses-pour-kitbash Builders"
-- "15mm 28mm Motos-diverses-pour-kitbash Builders"
 - "Bits Builders"
 - "15mm Bits Builders"
 - "28mm Bits Builders"
-- "15mm 28mm Bits Builders"
 - "Motos-diverses-pour-kitbash Bits Builders"
-- "15mm Motos-diverses-pour-kitbash Bits Builders"
-- "28mm Motos-diverses-pour-kitbash Bits Builders"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "Motos-diverses-pour-kitbash NONSUP"
 - "15mm Motos-diverses-pour-kitbash NONSUP"
 - "28mm Motos-diverses-pour-kitbash NONSUP"
-- "15mm 28mm Motos-diverses-pour-kitbash NONSUP"
 - "Bits NONSUP"
 - "15mm Bits NONSUP"
 - "28mm Bits NONSUP"
-- "15mm 28mm Bits NONSUP"
 - "Motos-diverses-pour-kitbash Bits NONSUP"
-- "15mm Motos-diverses-pour-kitbash Bits NONSUP"
-- "28mm Motos-diverses-pour-kitbash Bits NONSUP"
 - "Builders NONSUP"
 - "15mm Builders NONSUP"
 - "28mm Builders NONSUP"
-- "15mm 28mm Builders NONSUP"
 - "Motos-diverses-pour-kitbash Builders NONSUP"
-- "15mm Motos-diverses-pour-kitbash Builders NONSUP"
-- "28mm Motos-diverses-pour-kitbash Builders NONSUP"
 - "Bits Builders NONSUP"
-- "15mm Bits Builders NONSUP"
-- "28mm Bits Builders NONSUP"
-- "Motos-diverses-pour-kitbash Bits Builders NONSUP"
 
 ---
 
-![](<thumbs_-_3617700_-_Images_1.jpg> "thumbs_-_3617700_-_Images_1.jpg")
+![](<thumbs_-_3617700_-_Images_1.avif> "thumbs_-_3617700_-_Images_1.avif")
 
-  ![](<thumbs_-_3617700_-_ImagesSTL_1.jpg> "thumbs_-_3617700_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3617700_-_ImagesSTL_1.avif> "thumbs_-_3617700_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_3617700_-_Makes_1.jpg> "thumbs_-_3617700_-_Makes_1.jpg")
+  ![](<thumbs_-_3617700_-_Makes_1.avif> "thumbs_-_3617700_-_Makes_1.avif")
 
   
 

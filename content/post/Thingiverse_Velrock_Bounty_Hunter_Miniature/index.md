@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Velrock > Bounty_Hunter_Miniature [non dl]"
 date: "2019-03-26T15:56:12+00:00"
 toc: true
-image: "thumbs_-_3519314_-_Images_1.jpg"
+image: "thumbs_-_3519314_-_Images_1.avif"
 tags:
 - "Velrock"
 - "28mm"
@@ -20,13 +20,12 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "STAR-WARS NONDL NONSUP"
-- "28mm STAR-WARS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3519314_-_Images_1.jpg> "thumbs_-_3519314_-_Images_1.jpg")
+![](<thumbs_-_3519314_-_Images_1.avif> "thumbs_-_3519314_-_Images_1.avif")
 
-  ![](<thumbs_-_3519314_-_Makes_1.jpg> "thumbs_-_3519314_-_Makes_1.jpg")
+  ![](<thumbs_-_3519314_-_Makes_1.avif> "thumbs_-_3519314_-_Makes_1.avif")
 
   
 

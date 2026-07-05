@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > VoyMakesMinis > Small_Necron_Obelisks [non dl]"
 date: "2023-04-25T10:33:50Z"
 toc: true
-image: "thumbs_-_small-necron-obelisks_-_Images_1.jpg"
+image: "thumbs_-_small-necron-obelisks_-_Images_1.avif"
 tags:
 - "VoyMakesMinis"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "NEC NONDL"
 - "epic NEC NONDL"
 - "decors NEC NONDL"
-- "epic decors NEC NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "decors NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "NEC NONSUP"
 - "epic NEC NONSUP"
 - "decors NEC NONSUP"
-- "epic decors NEC NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "decors NONDL NONSUP"
-- "epic decors NONDL NONSUP"
 - "NEC NONDL NONSUP"
-- "epic NEC NONDL NONSUP"
-- "decors NEC NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_small-necron-obelisks_-_Images_1.jpg> "thumbs_-_small-necron-obelisks_-_Images_1.jpg")
+![](<thumbs_-_small-necron-obelisks_-_Images_1.avif> "thumbs_-_small-necron-obelisks_-_Images_1.avif")
 
-  ![](<thumbs_-_small-necron-obelisks_-_Makes_1.jpg> "thumbs_-_small-necron-obelisks_-_Makes_1.jpg")
+  ![](<thumbs_-_small-necron-obelisks_-_Makes_1.avif> "thumbs_-_small-necron-obelisks_-_Makes_1.avif")
 
   
 

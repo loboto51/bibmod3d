@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > MaximumKharnage > butchers [dl]"
 date: "2023-05-21T01:55:00Z"
 toc: true
-image: "thumbs_-_butchers_-_Images_1.jpg"
+image: "thumbs_-_butchers_-_Images_1.avif"
 tags:
 - "MaximumKharnage"
 - "28mm"
@@ -20,15 +20,14 @@ tags:
 - "SMC NONSUP"
 - "28mm SMC NONSUP"
 - "CHAOS SMC NONSUP"
-- "28mm CHAOS SMC NONSUP"
 
 ---
 
-![](<thumbs_-_butchers_-_Images_1.jpg> "thumbs_-_butchers_-_Images_1.jpg")
+![](<thumbs_-_butchers_-_Images_1.avif> "thumbs_-_butchers_-_Images_1.avif")
 
-  ![](<thumbs_-_butchers_-_ImagesSTL_1.jpg> "thumbs_-_butchers_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_butchers_-_ImagesSTL_1.avif> "thumbs_-_butchers_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_butchers_-_Makes_1.jpg> "thumbs_-_butchers_-_Makes_1.jpg")
+  ![](<thumbs_-_butchers_-_Makes_1.avif> "thumbs_-_butchers_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Samurai_Cavalry_Horsemen_10mm_Wargaming_Spear_and_Sword_Katana_Warmaster_Horse_Nippon_ [non dl]"
 date: "2021-05-12T16:11:54+00:00"
 toc: true
-image: "thumbs_-_4856803_-_Images_1.jpg"
+image: "thumbs_-_4856803_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "NIPPON NONDL"
 - "warmaster NIPPON NONDL"
 - "HUMAINS NIPPON NONDL"
-- "warmaster HUMAINS NIPPON NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "NIPPON NONSUP"
 - "warmaster NIPPON NONSUP"
 - "HUMAINS NIPPON NONSUP"
-- "warmaster HUMAINS NIPPON NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "NIPPON NONDL NONSUP"
-- "warmaster NIPPON NONDL NONSUP"
-- "HUMAINS NIPPON NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4856803_-_Images_1.jpg> "thumbs_-_4856803_-_Images_1.jpg")
+![](<thumbs_-_4856803_-_Images_1.avif> "thumbs_-_4856803_-_Images_1.avif")
 
   
 

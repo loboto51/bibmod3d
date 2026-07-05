@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > sirslamb > Space_nun_heads_with_Breathing_apparatus [dl]"
 date: "2020-10-20T21:17:01+00:00"
 toc: true
-image: "thumbs_-_4629490_-_Images_1.jpg"
+image: "thumbs_-_4629490_-_Images_1.avif"
 tags:
 - "sirslamb"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "SOB HUMAINS"
 - "28mm SOB HUMAINS"
 - "IMP SOB HUMAINS"
-- "28mm IMP SOB HUMAINS"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SOB NONSUP"
 - "28mm SOB NONSUP"
 - "IMP SOB NONSUP"
-- "28mm IMP SOB NONSUP"
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "IMP HUMAINS NONSUP"
-- "28mm IMP HUMAINS NONSUP"
 - "SOB HUMAINS NONSUP"
-- "28mm SOB HUMAINS NONSUP"
-- "IMP SOB HUMAINS NONSUP"
 
 ---
 
-![](<thumbs_-_4629490_-_Images_1.jpg> "thumbs_-_4629490_-_Images_1.jpg")
+![](<thumbs_-_4629490_-_Images_1.avif> "thumbs_-_4629490_-_Images_1.avif")
 
-  ![](<thumbs_-_4629490_-_ImagesSTL_1.jpg> "thumbs_-_4629490_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4629490_-_ImagesSTL_1.avif> "thumbs_-_4629490_-_ImagesSTL_1.avif")
 
   
 

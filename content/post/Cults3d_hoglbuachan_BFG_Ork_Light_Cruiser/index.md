@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > hoglbuachan > BFG_Ork_Light_Cruiser [non dl]"
 date: "2021-01-11T23:50:57Z"
 toc: true
-image: "thumbs_-_bfg-ork-light-cruiser_-_Images_1.jpg"
+image: "thumbs_-_bfg-ork-light-cruiser_-_Images_1.avif"
 tags:
 - "hoglbuachan"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "Flotte NONDL"
 - "bfg Flotte NONDL"
 - "ORKS Flotte NONDL"
-- "bfg ORKS Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "ORKS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 - "NONDL NONSUP"
 - "bfg NONDL NONSUP"
 - "ORKS NONDL NONSUP"
-- "bfg ORKS NONDL NONSUP"
 - "Flotte NONDL NONSUP"
-- "bfg Flotte NONDL NONSUP"
-- "ORKS Flotte NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-ork-light-cruiser_-_Images_1.jpg> "thumbs_-_bfg-ork-light-cruiser_-_Images_1.jpg")
+![](<thumbs_-_bfg-ork-light-cruiser_-_Images_1.avif> "thumbs_-_bfg-ork-light-cruiser_-_Images_1.avif")
 
   
 

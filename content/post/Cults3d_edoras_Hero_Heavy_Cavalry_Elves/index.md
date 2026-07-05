@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edoras > Hero_Heavy_Cavalry_Elves [non dl]"
 date: "2022-06-13T10:24:19Z"
 toc: true
-image: "thumbs_-_hero-heavy-cavalry-elves_-_Images_1.jpg"
+image: "thumbs_-_hero-heavy-cavalry-elves_-_Images_1.avif"
 tags:
 - "edoras"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "ELFES NONDL NONSUP"
-- "warmaster ELFES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_hero-heavy-cavalry-elves_-_Images_1.jpg> "thumbs_-_hero-heavy-cavalry-elves_-_Images_1.jpg")
+![](<thumbs_-_hero-heavy-cavalry-elves_-_Images_1.avif> "thumbs_-_hero-heavy-cavalry-elves_-_Images_1.avif")
 
   
 

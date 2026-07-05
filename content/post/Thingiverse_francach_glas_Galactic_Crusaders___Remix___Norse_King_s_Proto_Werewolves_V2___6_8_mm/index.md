@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > francach_glas > Galactic_Crusaders___Remix___Norse_King_s_Proto_Werewolves_V2___6_8_mm [dl]"
 date: "2021-07-23T11:05:55+00:00"
 toc: true
-image: "thumbs_-_4915106_-_Images_1.jpg"
+image: "thumbs_-_4915106_-_Images_1.avif"
 tags:
 - "francach_glas"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut"
 - "epic SMI Sm-assaut"
 - "infanterie SMI Sm-assaut"
-- "epic infanterie SMI Sm-assaut"
 - "SMI-SW"
 - "epic SMI-SW"
 - "infanterie SMI-SW"
@@ -28,14 +27,10 @@ tags:
 - "SMI SMI-SW"
 - "epic SMI SMI-SW"
 - "infanterie SMI SMI-SW"
-- "epic infanterie SMI SMI-SW"
 - "Sm-assaut SMI-SW"
 - "epic Sm-assaut SMI-SW"
 - "infanterie Sm-assaut SMI-SW"
-- "epic infanterie Sm-assaut SMI-SW"
 - "SMI Sm-assaut SMI-SW"
-- "epic SMI Sm-assaut SMI-SW"
-- "infanterie SMI Sm-assaut SMI-SW"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,31 +38,21 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Sm-assaut SUP"
 - "epic Sm-assaut SUP"
 - "infanterie Sm-assaut SUP"
-- "epic infanterie Sm-assaut SUP"
 - "SMI Sm-assaut SUP"
-- "epic SMI Sm-assaut SUP"
-- "infanterie SMI Sm-assaut SUP"
 - "SMI-SW SUP"
 - "epic SMI-SW SUP"
 - "infanterie SMI-SW SUP"
-- "epic infanterie SMI-SW SUP"
 - "SMI SMI-SW SUP"
-- "epic SMI SMI-SW SUP"
-- "infanterie SMI SMI-SW SUP"
 - "Sm-assaut SMI-SW SUP"
-- "epic Sm-assaut SMI-SW SUP"
-- "infanterie Sm-assaut SMI-SW SUP"
-- "SMI Sm-assaut SMI-SW SUP"
 
 ---
 
-![](<thumbs_-_4915106_-_Images_1.jpg> "thumbs_-_4915106_-_Images_1.jpg")
+![](<thumbs_-_4915106_-_Images_1.avif> "thumbs_-_4915106_-_Images_1.avif")
 
-  ![](<thumbs_-_4915106_-_ImagesSTL_1.jpg> "thumbs_-_4915106_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4915106_-_ImagesSTL_1.avif> "thumbs_-_4915106_-_ImagesSTL_1.avif")
 
   
 

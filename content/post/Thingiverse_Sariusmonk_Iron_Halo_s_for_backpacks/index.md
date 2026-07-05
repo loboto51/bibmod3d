@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Sariusmonk > Iron_Halo_s_for_backpacks [non dl]"
 date: "2020-05-28T19:06:14+00:00"
 toc: true
-image: "thumbs_-_4405305_-_Images_1.jpg"
+image: "thumbs_-_4405305_-_Images_1.avif"
 tags:
 - "Sariusmonk"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "SMI NONDL NONSUP"
-- "28mm SMI NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_4405305_-_Images_1.jpg> "thumbs_-_4405305_-_Images_1.jpg")
+![](<thumbs_-_4405305_-_Images_1.avif> "thumbs_-_4405305_-_Images_1.avif")
 
   
 

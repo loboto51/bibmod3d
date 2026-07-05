@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > KJdidit > BFG_Microfleet_Gothic_AdMech_Fleet [dl]"
 date: "2021-02-03T05:25:52Z"
 toc: true
-image: "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.jpg"
+image: "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.avif"
 tags:
 - "KJdidit"
 - "bfg"
@@ -20,7 +20,6 @@ tags:
 - "AM Flotte"
 - "bfg AM Flotte"
 - "IMP AM Flotte"
-- "bfg IMP AM Flotte"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "AM NONSUP"
 - "bfg AM NONSUP"
 - "IMP AM NONSUP"
-- "bfg IMP AM NONSUP"
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "bfg IMP Flotte NONSUP"
 - "AM Flotte NONSUP"
-- "bfg AM Flotte NONSUP"
-- "IMP AM Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.jpg> "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.jpg")
+![](<thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.avif> "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_Images_1.avif")
 
-  ![](<thumbs_-_bfg-microfleet-gothic-admech-fleet_-_ImagesSTL_1.jpg> "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_bfg-microfleet-gothic-admech-fleet_-_ImagesSTL_1.avif> "thumbs_-_bfg-microfleet-gothic-admech-fleet_-_ImagesSTL_1.avif")
 
   
 

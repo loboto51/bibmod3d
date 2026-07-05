@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Kill_Kroozer [dl]"
 date: "2019-01-10T11:27:28+00:00"
 toc: true
-image: "thumbs_-_3346238_-_Images_1.jpg"
+image: "thumbs_-_3346238_-_Images_1.avif"
 tags:
 - "MGL89DK"
 - "bfg"
@@ -20,13 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "ORKS Flotte NONSUP"
-- "bfg ORKS Flotte NONSUP"
 
 ---
 
-![](<thumbs_-_3346238_-_Images_1.jpg> "thumbs_-_3346238_-_Images_1.jpg")
+![](<thumbs_-_3346238_-_Images_1.avif> "thumbs_-_3346238_-_Images_1.avif")
 
-  ![](<thumbs_-_3346238_-_ImagesSTL_1.jpg> "thumbs_-_3346238_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_3346238_-_ImagesSTL_1.avif> "thumbs_-_3346238_-_ImagesSTL_1.avif")
 
   
 

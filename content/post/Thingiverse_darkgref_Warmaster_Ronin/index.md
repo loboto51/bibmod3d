@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > darkgref > Warmaster_Ronin [non dl]"
 date: "2024-05-07T16:20:54+00:00"
 toc: true
-image: "thumbs_-_6612184_-_Images_1.jpg"
+image: "thumbs_-_6612184_-_Images_1.avif"
 tags:
 - "darkgref"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "NIPPON NONDL"
 - "warmaster NIPPON NONDL"
 - "HUMAINS NIPPON NONDL"
-- "warmaster HUMAINS NIPPON NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "HUMAINS NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "NIPPON NONSUP"
 - "warmaster NIPPON NONSUP"
 - "HUMAINS NIPPON NONSUP"
-- "warmaster HUMAINS NIPPON NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
 - "NIPPON NONDL NONSUP"
-- "warmaster NIPPON NONDL NONSUP"
-- "HUMAINS NIPPON NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_6612184_-_Images_1.jpg> "thumbs_-_6612184_-_Images_1.jpg")
+![](<thumbs_-_6612184_-_Images_1.avif> "thumbs_-_6612184_-_Images_1.avif")
 
   
 

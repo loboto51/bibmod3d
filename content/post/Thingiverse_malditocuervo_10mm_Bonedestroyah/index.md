@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > malditocuervo > 10mm_Bonedestroyah [non dl]"
 date: "2021-10-30T16:56:45+00:00"
 toc: true
-image: "thumbs_-_5061437_-_Images_1.jpg"
+image: "thumbs_-_5061437_-_Images_1.avif"
 tags:
 - "malditocuervo"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "Bits-créatures-géantes NONDL"
 - "warmaster Bits-créatures-géantes NONDL"
 - "Bits Bits-créatures-géantes NONDL"
-- "warmaster Bits Bits-créatures-géantes NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "Bits NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "Bits-créatures-géantes NONSUP"
 - "warmaster Bits-créatures-géantes NONSUP"
 - "Bits Bits-créatures-géantes NONSUP"
-- "warmaster Bits Bits-créatures-géantes NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "Bits NONDL NONSUP"
-- "warmaster Bits NONDL NONSUP"
 - "Bits-créatures-géantes NONDL NONSUP"
-- "warmaster Bits-créatures-géantes NONDL NONSUP"
-- "Bits Bits-créatures-géantes NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5061437_-_Images_1.jpg> "thumbs_-_5061437_-_Images_1.jpg")
+![](<thumbs_-_5061437_-_Images_1.avif> "thumbs_-_5061437_-_Images_1.avif")
 
   
 

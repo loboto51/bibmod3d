@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Leesedrenfort > TZ_Beastmen [non dl]"
 date: "2019-09-17T17:20:35Z"
 toc: true
-image: "thumbs_-_tz-beastmen_-_Images_1.jpg"
+image: "thumbs_-_tz-beastmen_-_Images_1.avif"
 tags:
 - "Leesedrenfort"
 - "28mm"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "28mm CHAOS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_tz-beastmen_-_Images_1.jpg> "thumbs_-_tz-beastmen_-_Images_1.jpg")
+![](<thumbs_-_tz-beastmen_-_Images_1.avif> "thumbs_-_tz-beastmen_-_Images_1.avif")
 
   
 

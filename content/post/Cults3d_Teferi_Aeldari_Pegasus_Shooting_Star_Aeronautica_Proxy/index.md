@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Teferi > Aeldari_Pegasus_Shooting_Star_Aeronautica_Proxy [dl]"
 date: "2022-10-18T17:55:09Z"
 toc: true
-image: "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.jpg"
+image: "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.avif"
 tags:
 - "Teferi"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-chasseurs-bombardiers"
 - "epic VM Eldars-chasseurs-bombardiers"
 - "volants VM Eldars-chasseurs-bombardiers"
-- "epic volants VM Eldars-chasseurs-bombardiers"
 - "Eldars-vampires"
 - "epic Eldars-vampires"
 - "volants Eldars-vampires"
@@ -28,14 +27,10 @@ tags:
 - "VM Eldars-vampires"
 - "epic VM Eldars-vampires"
 - "volants VM Eldars-vampires"
-- "epic volants VM Eldars-vampires"
 - "Eldars-chasseurs-bombardiers Eldars-vampires"
 - "epic Eldars-chasseurs-bombardiers Eldars-vampires"
 - "volants Eldars-chasseurs-bombardiers Eldars-vampires"
-- "epic volants Eldars-chasseurs-bombardiers Eldars-vampires"
 - "VM Eldars-chasseurs-bombardiers Eldars-vampires"
-- "epic VM Eldars-chasseurs-bombardiers Eldars-vampires"
-- "volants VM Eldars-chasseurs-bombardiers Eldars-vampires"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,31 +38,21 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "volants VM NONSUP"
-- "epic volants VM NONSUP"
 - "Eldars-chasseurs-bombardiers NONSUP"
 - "epic Eldars-chasseurs-bombardiers NONSUP"
 - "volants Eldars-chasseurs-bombardiers NONSUP"
-- "epic volants Eldars-chasseurs-bombardiers NONSUP"
 - "VM Eldars-chasseurs-bombardiers NONSUP"
-- "epic VM Eldars-chasseurs-bombardiers NONSUP"
-- "volants VM Eldars-chasseurs-bombardiers NONSUP"
 - "Eldars-vampires NONSUP"
 - "epic Eldars-vampires NONSUP"
 - "volants Eldars-vampires NONSUP"
-- "epic volants Eldars-vampires NONSUP"
 - "VM Eldars-vampires NONSUP"
-- "epic VM Eldars-vampires NONSUP"
-- "volants VM Eldars-vampires NONSUP"
 - "Eldars-chasseurs-bombardiers Eldars-vampires NONSUP"
-- "epic Eldars-chasseurs-bombardiers Eldars-vampires NONSUP"
-- "volants Eldars-chasseurs-bombardiers Eldars-vampires NONSUP"
-- "VM Eldars-chasseurs-bombardiers Eldars-vampires NONSUP"
 
 ---
 
-![](<thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.jpg> "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.jpg")
+![](<thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.avif> "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_Images_1.avif")
 
-  ![](<thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_ImagesSTL_1.jpg> "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_ImagesSTL_1.avif> "thumbs_-_aeldari-pegasus-shooting-star-aeronautica-proxy_-_ImagesSTL_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > EpicRich > Epic_Ork_Big_Guns [non dl]"
 date: "2021-08-21T12:48:32Z"
 toc: true
-image: "thumbs_-_epic-ork-big-guns_-_Images_1.jpg"
+image: "thumbs_-_epic-ork-big-guns_-_Images_1.avif"
 tags:
 - "EpicRich"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-canons"
 - "epic ORKS Orks-canons"
 - "infanterie ORKS Orks-canons"
-- "epic infanterie ORKS Orks-canons"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "ORKS NONDL"
 - "epic ORKS NONDL"
 - "infanterie ORKS NONDL"
-- "epic infanterie ORKS NONDL"
 - "Orks-canons NONDL"
 - "epic Orks-canons NONDL"
 - "infanterie Orks-canons NONDL"
-- "epic infanterie Orks-canons NONDL"
 - "ORKS Orks-canons NONDL"
-- "epic ORKS Orks-canons NONDL"
-- "infanterie ORKS Orks-canons NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "ORKS SUP"
 - "epic ORKS SUP"
 - "infanterie ORKS SUP"
-- "epic infanterie ORKS SUP"
 - "Orks-canons SUP"
 - "epic Orks-canons SUP"
 - "infanterie Orks-canons SUP"
-- "epic infanterie Orks-canons SUP"
 - "ORKS Orks-canons SUP"
-- "epic ORKS Orks-canons SUP"
-- "infanterie ORKS Orks-canons SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "ORKS NONDL SUP"
-- "epic ORKS NONDL SUP"
-- "infanterie ORKS NONDL SUP"
 - "Orks-canons NONDL SUP"
-- "epic Orks-canons NONDL SUP"
-- "infanterie Orks-canons NONDL SUP"
-- "ORKS Orks-canons NONDL SUP"
 
 ---
 
-![](<thumbs_-_epic-ork-big-guns_-_Images_1.jpg> "thumbs_-_epic-ork-big-guns_-_Images_1.jpg")
+![](<thumbs_-_epic-ork-big-guns_-_Images_1.avif> "thumbs_-_epic-ork-big-guns_-_Images_1.avif")
 
   
 

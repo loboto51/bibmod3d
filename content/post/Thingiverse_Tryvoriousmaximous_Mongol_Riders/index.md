@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tryvoriousmaximous > Mongol_Riders [dl]"
 date: "2023-10-30T01:54:16+00:00"
 toc: true
-image: "thumbs_-_6289065_-_Images_1.jpg"
+image: "thumbs_-_6289065_-_Images_1.avif"
 tags:
 - "Tryvoriousmaximous"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Humains-cavalerie"
 - "epic GI Humains-cavalerie"
 - "infanterie GI Humains-cavalerie"
-- "epic infanterie GI Humains-cavalerie"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "infanterie GI NONSUP"
-- "epic infanterie GI NONSUP"
 - "Humains-cavalerie NONSUP"
 - "epic Humains-cavalerie NONSUP"
 - "infanterie Humains-cavalerie NONSUP"
-- "epic infanterie Humains-cavalerie NONSUP"
 - "GI Humains-cavalerie NONSUP"
-- "epic GI Humains-cavalerie NONSUP"
-- "infanterie GI Humains-cavalerie NONSUP"
 
 ---
 
-![](<thumbs_-_6289065_-_Images_1.jpg> "thumbs_-_6289065_-_Images_1.jpg")
+![](<thumbs_-_6289065_-_Images_1.avif> "thumbs_-_6289065_-_Images_1.avif")
 
-  ![](<thumbs_-_6289065_-_ImagesSTL_1.jpg> "thumbs_-_6289065_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6289065_-_ImagesSTL_1.avif> "thumbs_-_6289065_-_ImagesSTL_1.avif")
 
   
 

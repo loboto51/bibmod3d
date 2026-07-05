@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Prime_Tactical_Galactic_Crusaders [dl]"
 date: "2025-05-28T19:33:23Z"
 toc: true
-image: "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.jpg"
+image: "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMI Sm-tactiques NONSUP"
-- "epic SMI Sm-tactiques NONSUP"
-- "infanterie SMI Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.jpg> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.jpg")
+![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.avif> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_Images_1.avif")
 
-  ![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_1.jpg> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_1.avif> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_2.jpg> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_2.avif> "thumbs_-_prime-tactical-galactic-crusaders-b698894e3b89b631e663_-_ImagesSTL_2.avif")
 
   
 

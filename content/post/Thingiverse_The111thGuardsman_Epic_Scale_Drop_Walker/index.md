@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > The111thGuardsman > Epic_Scale_Drop_Walker [dl]"
 date: "2022-08-12T20:53:24+00:00"
 toc: true
-image: "thumbs_-_5459660_-_Images_1.jpg"
+image: "thumbs_-_5459660_-_Images_1.avif"
 tags:
 - "The111thGuardsman"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "GI Sentinelles"
 - "epic GI Sentinelles"
 - "marcheurs GI Sentinelles"
-- "epic marcheurs GI Sentinelles"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "marcheurs GI NONSUP"
-- "epic marcheurs GI NONSUP"
 - "Sentinelles NONSUP"
 - "epic Sentinelles NONSUP"
 - "marcheurs Sentinelles NONSUP"
-- "epic marcheurs Sentinelles NONSUP"
 - "GI Sentinelles NONSUP"
-- "epic GI Sentinelles NONSUP"
-- "marcheurs GI Sentinelles NONSUP"
 
 ---
 
-![](<thumbs_-_5459660_-_Images_1.jpg> "thumbs_-_5459660_-_Images_1.jpg")
+![](<thumbs_-_5459660_-_Images_1.avif> "thumbs_-_5459660_-_Images_1.avif")
 
-  ![](<thumbs_-_5459660_-_ImagesSTL_1.jpg> "thumbs_-_5459660_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_5459660_-_ImagesSTL_1.avif> "thumbs_-_5459660_-_ImagesSTL_1.avif")
 
   
 

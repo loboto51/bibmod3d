@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > J3D_Tech > J3D_Tech_s_Build_Plate_Calibration [non dl]"
 date: "2023-07-15T06:18:41Z"
 toc: true
-image: "thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.jpg"
+image: "thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.avif"
 tags:
 - "J3D_Tech"
 - "DIVERS"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "DIVERS NONDL NONSUP"
 - "Materiel-et-outils-de-modelisme NONDL NONSUP"
-- "DIVERS Materiel-et-outils-de-modelisme NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.jpg> "thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.jpg")
+![](<thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.avif> "thumbs_-_j3d-tech-s-bed-of-calibration_-_Images_1.avif")
 
   
 

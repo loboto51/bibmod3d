@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > dk123456147852 > GALACTIC_CRUSADERS___VEXILLA_BOARDING_ARMOUR_TROOPS___6_8MM [non dl]"
 date: "2021-01-12T20:19:09Z"
 toc: true
-image: "thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.jpg"
+image: "thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.avif"
 tags:
 - "dk123456147852"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SM30K Sm-qg"
 - "epic SM30K Sm-qg"
 - "infanterie SM30K Sm-qg"
-- "epic infanterie SM30K Sm-qg"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "SM30K NONDL"
 - "epic SM30K NONDL"
 - "infanterie SM30K NONDL"
-- "epic infanterie SM30K NONDL"
 - "Sm-qg NONDL"
 - "epic Sm-qg NONDL"
 - "infanterie Sm-qg NONDL"
-- "epic infanterie Sm-qg NONDL"
 - "SM30K Sm-qg NONDL"
-- "epic SM30K Sm-qg NONDL"
-- "infanterie SM30K Sm-qg NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "SM30K NONSUP"
 - "epic SM30K NONSUP"
 - "infanterie SM30K NONSUP"
-- "epic infanterie SM30K NONSUP"
 - "Sm-qg NONSUP"
 - "epic Sm-qg NONSUP"
 - "infanterie Sm-qg NONSUP"
-- "epic infanterie Sm-qg NONSUP"
 - "SM30K Sm-qg NONSUP"
-- "epic SM30K Sm-qg NONSUP"
-- "infanterie SM30K Sm-qg NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "infanterie NONDL NONSUP"
-- "epic infanterie NONDL NONSUP"
 - "SM30K NONDL NONSUP"
-- "epic SM30K NONDL NONSUP"
-- "infanterie SM30K NONDL NONSUP"
 - "Sm-qg NONDL NONSUP"
-- "epic Sm-qg NONDL NONSUP"
-- "infanterie Sm-qg NONDL NONSUP"
-- "SM30K Sm-qg NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.jpg> "thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.jpg")
+![](<thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.avif> "thumbs_-_galactic-crusaders-vexilla-boarding-armour-troops-6-8mm_-_Images_1.avif")
 
   
 

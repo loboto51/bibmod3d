@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Th3_M4in_M4n > The_Tiny_Doomed_Regiment_of_Richard_Kruger [dl]"
 date: "2025-01-24T12:13:33+00:00"
 toc: true
-image: "thumbs_-_6924099_-_Images_1.jpg"
+image: "thumbs_-_6924099_-_Images_1.avif"
 tags:
 - "Th3_M4in_M4n"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_6924099_-_Images_1.jpg> "thumbs_-_6924099_-_Images_1.jpg")
+![](<thumbs_-_6924099_-_Images_1.avif> "thumbs_-_6924099_-_Images_1.avif")
 
-  ![](<thumbs_-_6924099_-_ImagesSTL_1.jpg> "thumbs_-_6924099_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6924099_-_ImagesSTL_1.avif> "thumbs_-_6924099_-_ImagesSTL_1.avif")
 
   
 

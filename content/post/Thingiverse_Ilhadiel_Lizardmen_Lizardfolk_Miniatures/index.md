@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Ilhadiel > Lizardmen_Lizardfolk_Miniatures [dl]"
 date: "2020-02-26T17:11:02+00:00"
 toc: true
-image: "thumbs_-_4186125_-_Images_1.jpg"
+image: "thumbs_-_4186125_-_Images_1.avif"
 tags:
 - "Ilhadiel"
 - "28mm"
@@ -16,11 +16,11 @@ tags:
 
 ---
 
-![](<thumbs_-_4186125_-_Images_1.jpg> "thumbs_-_4186125_-_Images_1.jpg")
+![](<thumbs_-_4186125_-_Images_1.avif> "thumbs_-_4186125_-_Images_1.avif")
 
-  ![](<thumbs_-_4186125_-_ImagesSTL_1.jpg> "thumbs_-_4186125_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_4186125_-_ImagesSTL_1.avif> "thumbs_-_4186125_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_4186125_-_Makes_1.jpg> "thumbs_-_4186125_-_Makes_1.jpg")
+  ![](<thumbs_-_4186125_-_Makes_1.avif> "thumbs_-_4186125_-_Makes_1.avif")
 
   
 

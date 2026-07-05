@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Vampire_Counts_Black_Coach [dl]"
 date: "2025-11-29T22:32:04+00:00"
 toc: true
-image: "thumbs_-_7216942_-_Images_1.jpg"
+image: "thumbs_-_7216942_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -16,9 +16,9 @@ tags:
 
 ---
 
-![](<thumbs_-_7216942_-_Images_1.jpg> "thumbs_-_7216942_-_Images_1.jpg")
+![](<thumbs_-_7216942_-_Images_1.avif> "thumbs_-_7216942_-_Images_1.avif")
 
-  ![](<thumbs_-_7216942_-_ImagesSTL_1.jpg> "thumbs_-_7216942_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_7216942_-_ImagesSTL_1.avif> "thumbs_-_7216942_-_ImagesSTL_1.avif")
 
   
 

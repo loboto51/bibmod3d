@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > mildseven > 8mm_gen7_Eagle [dl]"
 date: "2025-01-27T13:36:50Z"
 toc: true
-image: "thumbs_-_8mm-gen7-eagle_-_Images_1.jpg"
+image: "thumbs_-_8mm-gen7-eagle_-_Images_1.avif"
 tags:
 - "mildseven"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-tactiques"
 - "epic SMI Sm-tactiques"
 - "infanterie SMI Sm-tactiques"
-- "epic infanterie SMI Sm-tactiques"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI SUP"
 - "epic SMI SUP"
 - "infanterie SMI SUP"
-- "epic infanterie SMI SUP"
 - "Sm-tactiques SUP"
 - "epic Sm-tactiques SUP"
 - "infanterie Sm-tactiques SUP"
-- "epic infanterie Sm-tactiques SUP"
 - "SMI Sm-tactiques SUP"
-- "epic SMI Sm-tactiques SUP"
-- "infanterie SMI Sm-tactiques SUP"
 
 ---
 
-![](<thumbs_-_8mm-gen7-eagle_-_Images_1.jpg> "thumbs_-_8mm-gen7-eagle_-_Images_1.jpg")
+![](<thumbs_-_8mm-gen7-eagle_-_Images_1.avif> "thumbs_-_8mm-gen7-eagle_-_Images_1.avif")
 
-  ![](<thumbs_-_8mm-gen7-eagle_-_ImagesSTL_1.jpg> "thumbs_-_8mm-gen7-eagle_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_8mm-gen7-eagle_-_ImagesSTL_1.avif> "thumbs_-_8mm-gen7-eagle_-_ImagesSTL_1.avif")
 
   
 

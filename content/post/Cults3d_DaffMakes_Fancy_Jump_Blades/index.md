@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Fancy_Jump_Blades [dl]"
 date: "2025-02-01T17:33:10Z"
 toc: true
-image: "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.jpg"
+image: "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-assaut-volant"
 - "epic SMC Sm-assaut-volant"
 - "infanterie SMC Sm-assaut-volant"
-- "epic infanterie SMC Sm-assaut-volant"
 - "SLAANESH"
 - "epic SLAANESH"
 - "infanterie SLAANESH"
@@ -28,14 +27,10 @@ tags:
 - "SMC SLAANESH"
 - "epic SMC SLAANESH"
 - "infanterie SMC SLAANESH"
-- "epic infanterie SMC SLAANESH"
 - "Sm-assaut-volant SLAANESH"
 - "epic Sm-assaut-volant SLAANESH"
 - "infanterie Sm-assaut-volant SLAANESH"
-- "epic infanterie Sm-assaut-volant SLAANESH"
 - "SMC Sm-assaut-volant SLAANESH"
-- "epic SMC Sm-assaut-volant SLAANESH"
-- "infanterie SMC Sm-assaut-volant SLAANESH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,35 +38,25 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SMC Sm-assaut-volant NONSUP"
-- "epic SMC Sm-assaut-volant NONSUP"
-- "infanterie SMC Sm-assaut-volant NONSUP"
 - "SLAANESH NONSUP"
 - "epic SLAANESH NONSUP"
 - "infanterie SLAANESH NONSUP"
-- "epic infanterie SLAANESH NONSUP"
 - "SMC SLAANESH NONSUP"
-- "epic SMC SLAANESH NONSUP"
-- "infanterie SMC SLAANESH NONSUP"
 - "Sm-assaut-volant SLAANESH NONSUP"
-- "epic Sm-assaut-volant SLAANESH NONSUP"
-- "infanterie Sm-assaut-volant SLAANESH NONSUP"
-- "SMC Sm-assaut-volant SLAANESH NONSUP"
 
 ---
 
-![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.jpg> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.jpg")
+![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.avif> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_Images_1.avif")
 
-  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_1.jpg> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_1.avif> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_2.jpg> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_2.avif> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_2.avif")
 
-  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_3.jpg> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_3.jpg")
+  ![](<thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_3.avif> "thumbs_-_fancy-jump-blades-379e133341bdf22fa794_-_ImagesSTL_3.avif")
 
   
 

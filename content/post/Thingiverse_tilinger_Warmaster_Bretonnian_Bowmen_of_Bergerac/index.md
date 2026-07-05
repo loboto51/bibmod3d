@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Bretonnian_Bowmen_of_Bergerac [dl]"
 date: "2025-01-24T20:00:59+00:00"
 toc: true
-image: "thumbs_-_6924609_-_Images_1.jpg"
+image: "thumbs_-_6924609_-_Images_1.avif"
 tags:
 - "tilinger"
 - "warmaster"
@@ -20,15 +20,14 @@ tags:
 - "BRETONNIENS NONSUP"
 - "warmaster BRETONNIENS NONSUP"
 - "HUMAINS BRETONNIENS NONSUP"
-- "warmaster HUMAINS BRETONNIENS NONSUP"
 
 ---
 
-![](<thumbs_-_6924609_-_Images_1.jpg> "thumbs_-_6924609_-_Images_1.jpg")
+![](<thumbs_-_6924609_-_Images_1.avif> "thumbs_-_6924609_-_Images_1.avif")
 
-  ![](<thumbs_-_6924609_-_ImagesSTL_1.jpg> "thumbs_-_6924609_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6924609_-_ImagesSTL_1.avif> "thumbs_-_6924609_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_6924609_-_Makes_1.jpg> "thumbs_-_6924609_-_Makes_1.jpg")
+  ![](<thumbs_-_6924609_-_Makes_1.avif> "thumbs_-_6924609_-_Makes_1.avif")
 
   
 

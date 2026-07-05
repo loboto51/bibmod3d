@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > lstar > StarPorts___Stackable_Galactic_Crusader_Jet_Infantry [dl]"
 date: "2024-02-25T13:33:31Z"
 toc: true
-image: "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.jpg"
+image: "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.avif"
 tags:
 - "lstar"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMI Sm-assaut-volant"
 - "epic SMI Sm-assaut-volant"
 - "infanterie SMI Sm-assaut-volant"
-- "epic infanterie SMI Sm-assaut-volant"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMI NONSUP"
 - "epic SMI NONSUP"
 - "infanterie SMI NONSUP"
-- "epic infanterie SMI NONSUP"
 - "Sm-assaut-volant NONSUP"
 - "epic Sm-assaut-volant NONSUP"
 - "infanterie Sm-assaut-volant NONSUP"
-- "epic infanterie Sm-assaut-volant NONSUP"
 - "SMI Sm-assaut-volant NONSUP"
-- "epic SMI Sm-assaut-volant NONSUP"
-- "infanterie SMI Sm-assaut-volant NONSUP"
 
 ---
 
-![](<thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.jpg> "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.jpg")
+![](<thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.avif> "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_Images_1.avif")
 
-  ![](<thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_ImagesSTL_1.jpg> "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_ImagesSTL_1.avif> "thumbs_-_starports-stackable-galactic-crusader-jet-infantry_-_ImagesSTL_1.avif")
 
   
 

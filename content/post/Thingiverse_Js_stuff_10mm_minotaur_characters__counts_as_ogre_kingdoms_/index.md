@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Js_stuff > 10mm_minotaur_characters__counts_as_ogre_kingdoms_ [non dl]"
 date: "2022-03-19T09:53:03+00:00"
 toc: true
-image: "thumbs_-_5322904_-_Images_1.jpg"
+image: "thumbs_-_5322904_-_Images_1.avif"
 tags:
 - "Js_stuff"
 - "warmaster"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "HOMMES-BETES NONDL NONSUP"
-- "warmaster HOMMES-BETES NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5322904_-_Images_1.jpg> "thumbs_-_5322904_-_Images_1.jpg")
+![](<thumbs_-_5322904_-_Images_1.avif> "thumbs_-_5322904_-_Images_1.avif")
 
   
 

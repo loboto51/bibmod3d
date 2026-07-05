@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > LeytoVera1987 > Tile_Ash_Wastes_Necromunda [non dl]"
 date: "2022-08-05T19:35:15+00:00"
 toc: true
-image: "thumbs_-_5449980_-_Images_1.jpg"
+image: "thumbs_-_5449980_-_Images_1.avif"
 tags:
 - "LeytoVera1987"
 - "necromunda"
@@ -20,11 +20,10 @@ tags:
 - "NONDL NONSUP"
 - "necromunda NONDL NONSUP"
 - "Hex-tiles-map-campagne NONDL NONSUP"
-- "necromunda Hex-tiles-map-campagne NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5449980_-_Images_1.jpg> "thumbs_-_5449980_-_Images_1.jpg")
+![](<thumbs_-_5449980_-_Images_1.avif> "thumbs_-_5449980_-_Images_1.avif")
 
   
 

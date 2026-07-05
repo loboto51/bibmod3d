@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > MadBits > Colossus_Heads [non dl]"
 date: "2024-09-22T18:13:26Z"
 toc: true
-image: "thumbs_-_colossus-heads_-_Images_1.jpg"
+image: "thumbs_-_colossus-heads_-_Images_1.avif"
 tags:
 - "MadBits"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "CHAOS Admech-titans-reavers"
 - "epic CHAOS Admech-titans-reavers"
 - "titans CHAOS Admech-titans-reavers"
-- "epic titans CHAOS Admech-titans-reavers"
 - "NONDL"
 - "epic NONDL"
 - "titans NONDL"
@@ -28,14 +27,10 @@ tags:
 - "CHAOS NONDL"
 - "epic CHAOS NONDL"
 - "titans CHAOS NONDL"
-- "epic titans CHAOS NONDL"
 - "Admech-titans-reavers NONDL"
 - "epic Admech-titans-reavers NONDL"
 - "titans Admech-titans-reavers NONDL"
-- "epic titans Admech-titans-reavers NONDL"
 - "CHAOS Admech-titans-reavers NONDL"
-- "epic CHAOS Admech-titans-reavers NONDL"
-- "titans CHAOS Admech-titans-reavers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "CHAOS NONSUP"
 - "epic CHAOS NONSUP"
 - "titans CHAOS NONSUP"
-- "epic titans CHAOS NONSUP"
 - "Admech-titans-reavers NONSUP"
 - "epic Admech-titans-reavers NONSUP"
 - "titans Admech-titans-reavers NONSUP"
-- "epic titans Admech-titans-reavers NONSUP"
 - "CHAOS Admech-titans-reavers NONSUP"
-- "epic CHAOS Admech-titans-reavers NONSUP"
-- "titans CHAOS Admech-titans-reavers NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "titans NONDL NONSUP"
-- "epic titans NONDL NONSUP"
 - "CHAOS NONDL NONSUP"
-- "epic CHAOS NONDL NONSUP"
-- "titans CHAOS NONDL NONSUP"
 - "Admech-titans-reavers NONDL NONSUP"
-- "epic Admech-titans-reavers NONDL NONSUP"
-- "titans Admech-titans-reavers NONDL NONSUP"
-- "CHAOS Admech-titans-reavers NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_colossus-heads_-_Images_1.jpg> "thumbs_-_colossus-heads_-_Images_1.jpg")
+![](<thumbs_-_colossus-heads_-_Images_1.avif> "thumbs_-_colossus-heads_-_Images_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > edgeminiatures > Astromancer_Command_Squad___Tech_Elves___8mm [non dl]"
 date: "2024-05-05T00:54:41Z"
 toc: true
-image: "thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.jpg"
+image: "thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.avif"
 tags:
 - "edgeminiatures"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "VM Eldars-qg"
 - "epic VM Eldars-qg"
 - "infanterie VM Eldars-qg"
-- "epic infanterie VM Eldars-qg"
 - "NONDL"
 - "epic NONDL"
 - "infanterie NONDL"
@@ -28,14 +27,10 @@ tags:
 - "VM NONDL"
 - "epic VM NONDL"
 - "infanterie VM NONDL"
-- "epic infanterie VM NONDL"
 - "Eldars-qg NONDL"
 - "epic Eldars-qg NONDL"
 - "infanterie Eldars-qg NONDL"
-- "epic infanterie Eldars-qg NONDL"
 - "VM Eldars-qg NONDL"
-- "epic VM Eldars-qg NONDL"
-- "infanterie VM Eldars-qg NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -43,29 +38,19 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "epic infanterie VM SUP"
 - "Eldars-qg SUP"
 - "epic Eldars-qg SUP"
 - "infanterie Eldars-qg SUP"
-- "epic infanterie Eldars-qg SUP"
 - "VM Eldars-qg SUP"
-- "epic VM Eldars-qg SUP"
-- "infanterie VM Eldars-qg SUP"
 - "NONDL SUP"
 - "epic NONDL SUP"
 - "infanterie NONDL SUP"
-- "epic infanterie NONDL SUP"
 - "VM NONDL SUP"
-- "epic VM NONDL SUP"
-- "infanterie VM NONDL SUP"
 - "Eldars-qg NONDL SUP"
-- "epic Eldars-qg NONDL SUP"
-- "infanterie Eldars-qg NONDL SUP"
-- "VM Eldars-qg NONDL SUP"
 
 ---
 
-![](<thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.jpg> "thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.jpg")
+![](<thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.avif> "thumbs_-_tech-elves-astromancer-command-squad-8mm_-_Images_1.avif")
 
   
 

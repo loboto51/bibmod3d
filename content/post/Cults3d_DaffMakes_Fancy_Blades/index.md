@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > DaffMakes > Fancy_Blades [dl]"
 date: "2025-02-01T17:16:16Z"
 toc: true
-image: "thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.jpg"
+image: "thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.avif"
 tags:
 - "DaffMakes"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-assaut"
 - "epic SMC Sm-assaut"
 - "infanterie SMC Sm-assaut"
-- "epic infanterie SMC Sm-assaut"
 - "SLAANESH"
 - "epic SLAANESH"
 - "infanterie SLAANESH"
@@ -28,14 +27,10 @@ tags:
 - "SMC SLAANESH"
 - "epic SMC SLAANESH"
 - "infanterie SMC SLAANESH"
-- "epic infanterie SMC SLAANESH"
 - "Sm-assaut SLAANESH"
 - "epic Sm-assaut SLAANESH"
 - "infanterie Sm-assaut SLAANESH"
-- "epic infanterie Sm-assaut SLAANESH"
 - "SMC Sm-assaut SLAANESH"
-- "epic SMC Sm-assaut SLAANESH"
-- "infanterie SMC Sm-assaut SLAANESH"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -43,33 +38,23 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-assaut NONSUP"
 - "epic Sm-assaut NONSUP"
 - "infanterie Sm-assaut NONSUP"
-- "epic infanterie Sm-assaut NONSUP"
 - "SMC Sm-assaut NONSUP"
-- "epic SMC Sm-assaut NONSUP"
-- "infanterie SMC Sm-assaut NONSUP"
 - "SLAANESH NONSUP"
 - "epic SLAANESH NONSUP"
 - "infanterie SLAANESH NONSUP"
-- "epic infanterie SLAANESH NONSUP"
 - "SMC SLAANESH NONSUP"
-- "epic SMC SLAANESH NONSUP"
-- "infanterie SMC SLAANESH NONSUP"
 - "Sm-assaut SLAANESH NONSUP"
-- "epic Sm-assaut SLAANESH NONSUP"
-- "infanterie Sm-assaut SLAANESH NONSUP"
-- "SMC Sm-assaut SLAANESH NONSUP"
 
 ---
 
-![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.jpg> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.jpg")
+![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.avif> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_Images_1.avif")
 
-  ![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_1.jpg> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_1.avif> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_2.jpg> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_2.jpg")
+  ![](<thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_2.avif> "thumbs_-_fancy-blades-68abf23c7b795debb017_-_ImagesSTL_2.avif")
 
   
 

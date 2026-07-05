@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Pietia1 > Lord_of_Storms_Tank [non dl]"
+title: "[GRATUIT] Thingiverse > Pietia1 > Lord_of_Storms_Tank [dl]"
 date: "2019-04-07T14:51:47+00:00"
 toc: true
-image: ""
+image: "thumbs_-_3547179_-_ImagesSTL_1.avif"
 tags:
 - "Pietia1"
 - "epic"
@@ -20,22 +20,6 @@ tags:
 - "GI Baneblades-canon-court-avant"
 - "epic GI Baneblades-canon-court-avant"
 - "superlourds GI Baneblades-canon-court-avant"
-- "epic superlourds GI Baneblades-canon-court-avant"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "superlourds GI NONDL"
-- "epic superlourds GI NONDL"
-- "Baneblades-canon-court-avant NONDL"
-- "epic Baneblades-canon-court-avant NONDL"
-- "superlourds Baneblades-canon-court-avant NONDL"
-- "epic superlourds Baneblades-canon-court-avant NONDL"
-- "GI Baneblades-canon-court-avant NONDL"
-- "epic GI Baneblades-canon-court-avant NONDL"
-- "superlourds GI Baneblades-canon-court-avant NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -43,29 +27,16 @@ tags:
 - "GI NONSUP"
 - "epic GI NONSUP"
 - "superlourds GI NONSUP"
-- "epic superlourds GI NONSUP"
 - "Baneblades-canon-court-avant NONSUP"
 - "epic Baneblades-canon-court-avant NONSUP"
 - "superlourds Baneblades-canon-court-avant NONSUP"
-- "epic superlourds Baneblades-canon-court-avant NONSUP"
 - "GI Baneblades-canon-court-avant NONSUP"
-- "epic GI Baneblades-canon-court-avant NONSUP"
-- "superlourds GI Baneblades-canon-court-avant NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "epic superlourds NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "epic GI NONDL NONSUP"
-- "superlourds GI NONDL NONSUP"
-- "Baneblades-canon-court-avant NONDL NONSUP"
-- "epic Baneblades-canon-court-avant NONDL NONSUP"
-- "superlourds Baneblades-canon-court-avant NONDL NONSUP"
-- "GI Baneblades-canon-court-avant NONDL NONSUP"
 
 ---
 
+![](<thumbs_-_3547179_-_ImagesSTL_1.avif> "thumbs_-_3547179_-_ImagesSTL_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:3547179](https://www.thingiverse.com/thing:3547179)
 
@@ -80,7 +51,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-court-avant NONDL NONSUP
+- epic superlourds GI Baneblades-canon-court-avant  NONSUP
 
 
 Description :

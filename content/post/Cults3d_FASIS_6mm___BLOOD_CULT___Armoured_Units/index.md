@@ -3,7 +3,7 @@
 title: "[PAYANT] Cults3d > FASIS > 6mm___BLOOD_CULT___Armoured_Units [dl]"
 date: "2026-06-26T08:03:28Z"
 toc: true
-image: "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg"
+image: "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.avif"
 tags:
 - "FASIS"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Land-raiders"
 - "epic SMC Land-raiders"
 - "vehicules SMC Land-raiders"
-- "epic vehicules SMC Land-raiders"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "vehicules SMC NONSUP"
-- "epic vehicules SMC NONSUP"
 - "Land-raiders NONSUP"
 - "epic Land-raiders NONSUP"
 - "vehicules Land-raiders NONSUP"
-- "epic vehicules Land-raiders NONSUP"
 - "SMC Land-raiders NONSUP"
-- "epic SMC Land-raiders NONSUP"
-- "vehicules SMC Land-raiders NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -50,7 +45,6 @@ tags:
 - "SMC Predators"
 - "epic SMC Predators"
 - "vehicules SMC Predators"
-- "epic vehicules SMC Predators"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -58,14 +52,10 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "vehicules SMC NONSUP"
-- "epic vehicules SMC NONSUP"
 - "Predators NONSUP"
 - "epic Predators NONSUP"
 - "vehicules Predators NONSUP"
-- "epic vehicules Predators NONSUP"
 - "SMC Predators NONSUP"
-- "epic SMC Predators NONSUP"
-- "vehicules SMC Predators NONSUP"
 - "epic"
 - "vehicules"
 - "epic vehicules"
@@ -80,7 +70,6 @@ tags:
 - "SMC Rhinos"
 - "epic SMC Rhinos"
 - "vehicules SMC Rhinos"
-- "epic vehicules SMC Rhinos"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -88,20 +77,16 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "vehicules SMC NONSUP"
-- "epic vehicules SMC NONSUP"
 - "Rhinos NONSUP"
 - "epic Rhinos NONSUP"
 - "vehicules Rhinos NONSUP"
-- "epic vehicules Rhinos NONSUP"
 - "SMC Rhinos NONSUP"
-- "epic SMC Rhinos NONSUP"
-- "vehicules SMC Rhinos NONSUP"
 
 ---
 
-![](<thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg> "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.jpg")
+![](<thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.avif> "thumbs_-_6mm-blood-cult-armoured-units_-_Images_1.avif")
 
-  ![](<thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.jpg> "thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.avif> "thumbs_-_6mm-blood-cult-armoured-units_-_ImagesSTL_1.avif")
 
   
 

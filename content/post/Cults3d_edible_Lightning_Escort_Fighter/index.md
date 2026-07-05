@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > edible > Lightning_Escort_Fighter [non dl]"
 date: "2023-10-29T16:51:15Z"
 toc: true
-image: "thumbs_-_lightning-escort-fighter_-_Images_1.jpg"
+image: "thumbs_-_lightning-escort-fighter_-_Images_1.avif"
 tags:
 - "edible"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "IMP Imp-chasseurs-bombardiers"
 - "epic IMP Imp-chasseurs-bombardiers"
 - "volants IMP Imp-chasseurs-bombardiers"
-- "epic volants IMP Imp-chasseurs-bombardiers"
 - "NONDL"
 - "epic NONDL"
 - "volants NONDL"
@@ -28,14 +27,10 @@ tags:
 - "IMP NONDL"
 - "epic IMP NONDL"
 - "volants IMP NONDL"
-- "epic volants IMP NONDL"
 - "Imp-chasseurs-bombardiers NONDL"
 - "epic Imp-chasseurs-bombardiers NONDL"
 - "volants Imp-chasseurs-bombardiers NONDL"
-- "epic volants Imp-chasseurs-bombardiers NONDL"
 - "IMP Imp-chasseurs-bombardiers NONDL"
-- "epic IMP Imp-chasseurs-bombardiers NONDL"
-- "volants IMP Imp-chasseurs-bombardiers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -43,29 +38,19 @@ tags:
 - "IMP NONSUP"
 - "epic IMP NONSUP"
 - "volants IMP NONSUP"
-- "epic volants IMP NONSUP"
 - "Imp-chasseurs-bombardiers NONSUP"
 - "epic Imp-chasseurs-bombardiers NONSUP"
 - "volants Imp-chasseurs-bombardiers NONSUP"
-- "epic volants Imp-chasseurs-bombardiers NONSUP"
 - "IMP Imp-chasseurs-bombardiers NONSUP"
-- "epic IMP Imp-chasseurs-bombardiers NONSUP"
-- "volants IMP Imp-chasseurs-bombardiers NONSUP"
 - "NONDL NONSUP"
 - "epic NONDL NONSUP"
 - "volants NONDL NONSUP"
-- "epic volants NONDL NONSUP"
 - "IMP NONDL NONSUP"
-- "epic IMP NONDL NONSUP"
-- "volants IMP NONDL NONSUP"
 - "Imp-chasseurs-bombardiers NONDL NONSUP"
-- "epic Imp-chasseurs-bombardiers NONDL NONSUP"
-- "volants Imp-chasseurs-bombardiers NONDL NONSUP"
-- "IMP Imp-chasseurs-bombardiers NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_lightning-escort-fighter_-_Images_1.jpg> "thumbs_-_lightning-escort-fighter_-_Images_1.jpg")
+![](<thumbs_-_lightning-escort-fighter_-_Images_1.avif> "thumbs_-_lightning-escort-fighter_-_Images_1.avif")
 
   
 

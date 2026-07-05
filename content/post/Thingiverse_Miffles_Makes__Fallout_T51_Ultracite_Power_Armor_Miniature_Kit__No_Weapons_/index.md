@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Miffles_Makes > _Fallout_T51_Ultracite_Power_Armor_Miniature_Kit__No_Weapons_ [non dl]"
 date: "2023-01-05T02:18:49+00:00"
 toc: true
-image: "thumbs_-_5765820_-_Images_1.jpg"
+image: "thumbs_-_5765820_-_Images_1.avif"
 tags:
 - "Miffles_Makes"
 - "28mm"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS NONDL"
 - "28mm HUMAINS NONDL"
 - "FALLOUT HUMAINS NONDL"
-- "28mm FALLOUT HUMAINS NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "FALLOUT NONSUP"
@@ -28,18 +27,14 @@ tags:
 - "HUMAINS NONSUP"
 - "28mm HUMAINS NONSUP"
 - "FALLOUT HUMAINS NONSUP"
-- "28mm FALLOUT HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "28mm NONDL NONSUP"
 - "FALLOUT NONDL NONSUP"
-- "28mm FALLOUT NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "28mm HUMAINS NONDL NONSUP"
-- "FALLOUT HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_5765820_-_Images_1.jpg> "thumbs_-_5765820_-_Images_1.jpg")
+![](<thumbs_-_5765820_-_Images_1.avif> "thumbs_-_5765820_-_Images_1.avif")
 
   
 

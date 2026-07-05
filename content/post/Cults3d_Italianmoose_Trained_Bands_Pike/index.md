@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Italianmoose > Trained_Bands_Pike [non dl]"
 date: "2022-01-03T16:41:20Z"
 toc: true
-image: "thumbs_-_trained-bands-pike_-_Images_1.jpg"
+image: "thumbs_-_trained-bands-pike_-_Images_1.avif"
 tags:
 - "Italianmoose"
 - "warmaster"
@@ -20,7 +20,6 @@ tags:
 - "HUMAINS NONDL"
 - "warmaster HUMAINS NONDL"
 - "EMPIRE HUMAINS NONDL"
-- "warmaster EMPIRE HUMAINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "EMPIRE NONSUP"
@@ -28,14 +27,10 @@ tags:
 - "HUMAINS NONSUP"
 - "warmaster HUMAINS NONSUP"
 - "EMPIRE HUMAINS NONSUP"
-- "warmaster EMPIRE HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "EMPIRE NONDL NONSUP"
-- "warmaster EMPIRE NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "EMPIRE HUMAINS NONDL NONSUP"
 - "warmaster"
 - "MERCENAIRES"
 - "warmaster MERCENAIRES"
@@ -50,7 +45,6 @@ tags:
 - "HUMAINS NONDL"
 - "warmaster HUMAINS NONDL"
 - "MERCENAIRES HUMAINS NONDL"
-- "warmaster MERCENAIRES HUMAINS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "MERCENAIRES NONSUP"
@@ -58,18 +52,14 @@ tags:
 - "HUMAINS NONSUP"
 - "warmaster HUMAINS NONSUP"
 - "MERCENAIRES HUMAINS NONSUP"
-- "warmaster MERCENAIRES HUMAINS NONSUP"
 - "NONDL NONSUP"
 - "warmaster NONDL NONSUP"
 - "MERCENAIRES NONDL NONSUP"
-- "warmaster MERCENAIRES NONDL NONSUP"
 - "HUMAINS NONDL NONSUP"
-- "warmaster HUMAINS NONDL NONSUP"
-- "MERCENAIRES HUMAINS NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_trained-bands-pike_-_Images_1.jpg> "thumbs_-_trained-bands-pike_-_Images_1.jpg")
+![](<thumbs_-_trained-bands-pike_-_Images_1.avif> "thumbs_-_trained-bands-pike_-_Images_1.avif")
 
   
 

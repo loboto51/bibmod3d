@@ -3,7 +3,7 @@
 title: "[GRATUIT] Cults3d > Boikonur > ganfortress_8mm [dl]"
 date: "2025-01-17T15:15:15Z"
 toc: true
-image: "thumbs_-_ganfortress-boikonur_-_Images_1.jpg"
+image: "thumbs_-_ganfortress-boikonur_-_Images_1.avif"
 tags:
 - "Boikonur"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "ORKS Orks-forteresses"
 - "epic ORKS Orks-forteresses"
 - "superlourds ORKS Orks-forteresses"
-- "epic superlourds ORKS Orks-forteresses"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "ORKS NONSUP"
 - "epic ORKS NONSUP"
 - "superlourds ORKS NONSUP"
-- "epic superlourds ORKS NONSUP"
 - "Orks-forteresses NONSUP"
 - "epic Orks-forteresses NONSUP"
 - "superlourds Orks-forteresses NONSUP"
-- "epic superlourds Orks-forteresses NONSUP"
 - "ORKS Orks-forteresses NONSUP"
-- "epic ORKS Orks-forteresses NONSUP"
-- "superlourds ORKS Orks-forteresses NONSUP"
 
 ---
 
-![](<thumbs_-_ganfortress-boikonur_-_Images_1.jpg> "thumbs_-_ganfortress-boikonur_-_Images_1.jpg")
+![](<thumbs_-_ganfortress-boikonur_-_Images_1.avif> "thumbs_-_ganfortress-boikonur_-_Images_1.avif")
 
-  ![](<thumbs_-_ganfortress-boikonur_-_ImagesSTL_1.jpg> "thumbs_-_ganfortress-boikonur_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_ganfortress-boikonur_-_ImagesSTL_1.avif> "thumbs_-_ganfortress-boikonur_-_ImagesSTL_1.avif")
 
   
 

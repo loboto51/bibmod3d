@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > dutchmogul > Hunting_Lizard__15mm_scale_ [dl]"
 date: "2016-08-22T18:53:02+00:00"
 toc: true
-image: "thumbs_-_1731870_-_Images_1.jpg"
+image: "thumbs_-_1731870_-_Images_1.avif"
 tags:
 - "dutchmogul"
 - "15mm"
@@ -20,7 +20,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "15mm 28mm SFDIV Aliens-divers"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -28,22 +27,18 @@ tags:
 - "SFDIV NONSUP"
 - "15mm SFDIV NONSUP"
 - "28mm SFDIV NONSUP"
-- "15mm 28mm SFDIV NONSUP"
 - "Aliens-divers NONSUP"
 - "15mm Aliens-divers NONSUP"
 - "28mm Aliens-divers NONSUP"
-- "15mm 28mm Aliens-divers NONSUP"
 - "SFDIV Aliens-divers NONSUP"
-- "15mm SFDIV Aliens-divers NONSUP"
-- "28mm SFDIV Aliens-divers NONSUP"
 
 ---
 
-![](<thumbs_-_1731870_-_Images_1.jpg> "thumbs_-_1731870_-_Images_1.jpg")
+![](<thumbs_-_1731870_-_Images_1.avif> "thumbs_-_1731870_-_Images_1.avif")
 
-  ![](<thumbs_-_1731870_-_ImagesSTL_1.jpg> "thumbs_-_1731870_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_1731870_-_ImagesSTL_1.avif> "thumbs_-_1731870_-_ImagesSTL_1.avif")
 
-  ![](<thumbs_-_1731870_-_Makes_1.jpg> "thumbs_-_1731870_-_Makes_1.jpg")
+  ![](<thumbs_-_1731870_-_Makes_1.avif> "thumbs_-_1731870_-_Makes_1.avif")
 
   
 

@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Tryvoriousmaximous > Infantry_with_Rejected_Doctrines_ [dl]"
 date: "2023-11-25T17:10:32+00:00"
 toc: true
-image: "thumbs_-_6333854_-_Images_1.jpg"
+image: "thumbs_-_6333854_-_Images_1.avif"
 tags:
 - "Tryvoriousmaximous"
 - "epic"
@@ -20,7 +20,6 @@ tags:
 - "SMC Sm-tactiques"
 - "epic SMC Sm-tactiques"
 - "infanterie SMC Sm-tactiques"
-- "epic infanterie SMC Sm-tactiques"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -28,20 +27,16 @@ tags:
 - "SMC NONSUP"
 - "epic SMC NONSUP"
 - "infanterie SMC NONSUP"
-- "epic infanterie SMC NONSUP"
 - "Sm-tactiques NONSUP"
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
-- "epic infanterie Sm-tactiques NONSUP"
 - "SMC Sm-tactiques NONSUP"
-- "epic SMC Sm-tactiques NONSUP"
-- "infanterie SMC Sm-tactiques NONSUP"
 
 ---
 
-![](<thumbs_-_6333854_-_Images_1.jpg> "thumbs_-_6333854_-_Images_1.jpg")
+![](<thumbs_-_6333854_-_Images_1.avif> "thumbs_-_6333854_-_Images_1.avif")
 
-  ![](<thumbs_-_6333854_-_ImagesSTL_1.jpg> "thumbs_-_6333854_-_ImagesSTL_1.jpg")
+  ![](<thumbs_-_6333854_-_ImagesSTL_1.avif> "thumbs_-_6333854_-_ImagesSTL_1.avif")
 
   
 
