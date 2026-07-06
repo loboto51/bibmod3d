@@ -1,0 +1,69 @@
+
+---
+title: "[GRATUIT] Myminifactory > Tordominis > 3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952 [dl]"
+date: "2022-12-28"
+toc: true
+image: "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif"
+tags:
+- "Tordominis"
+- "15mm"
+- "MORTS-VIVANTS"
+- "15mm MORTS-VIVANTS"
+- "SUP"
+- "15mm SUP"
+- "MORTS-VIVANTS SUP"
+- "15mm MORTS-VIVANTS SUP"
+- "warmaster"
+- "MORTS-VIVANTS"
+- "warmaster MORTS-VIVANTS"
+- "SUP"
+- "warmaster SUP"
+- "MORTS-VIVANTS SUP"
+- "warmaster MORTS-VIVANTS SUP"
+
+---
+
+![](<thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif> "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_Images_1.avif")
+
+  ![](<thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.avif> "thumbs_-_Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952_-_ImagesSTL_1.avif")
+
+  
+
+Source : [https://www.myminifactory.com/object/3d-print-eternal-pharaohs-revive-skeleton-infantry-10-15mm-260952](https://www.myminifactory.com/object/3d-print-eternal-pharaohs-revive-skeleton-infantry-10-15mm-260952)
+
+Id objet : Tordominis_-_3d_print_eternal_pharaohs_revive_skeleton_infantry_10_15mm_260952
+
+Prix : 0 euros
+
+Collections :
+
+- 15mm MORTS-VIVANTS
+- warmaster MORTS-VIVANTS
+
+
+Collections pour tags :
+
+- 15mm MORTS-VIVANTS  SUP
+- warmaster MORTS-VIVANTS  SUP
+
+
+Description :
+
+~~~
+21 single models (music, leader and standart options included) ready to print and go. avail on 10 and 15mm with square bases. 
+6 strips all presuported and also unbased and unsupported models also available.
+~~~
+
+Justification du tag SUP :
+
+6 strips all presuported and also unbased and unsupported models also available.
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_C_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_a_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_Command_b_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_D_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_E_lys_.jpg
+ImagesSTL_-_strips_10mm_zip_unpack_strips_10mm_F_lys_.jpg
+
+
+
+

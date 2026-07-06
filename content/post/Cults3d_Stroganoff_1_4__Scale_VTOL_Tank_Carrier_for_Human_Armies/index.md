@@ -1,0 +1,89 @@
+
+---
+title: "[GRATUIT] Cults3d > Stroganoff > 1_4__Scale_VTOL_Tank_Carrier_for_Human_Armies [dl]"
+date: "2019-12-27T14:22:11Z"
+toc: true
+image: "thumbs_-_epic-scale-sky-talon_-_Images_1.avif"
+tags:
+- "Stroganoff"
+- "epic"
+- "volants"
+- "epic volants"
+- "IMP"
+- "epic IMP"
+- "volants IMP"
+- "epic volants IMP"
+- "Vtol"
+- "epic Vtol"
+- "volants Vtol"
+- "epic volants Vtol"
+- "IMP Vtol"
+- "epic IMP Vtol"
+- "volants IMP Vtol"
+- "Imp-vtol-valkyries-vultures-skytalons-etc"
+- "epic Imp-vtol-valkyries-vultures-skytalons-etc"
+- "volants Imp-vtol-valkyries-vultures-skytalons-etc"
+- "epic volants Imp-vtol-valkyries-vultures-skytalons-etc"
+- "IMP Imp-vtol-valkyries-vultures-skytalons-etc"
+- "epic IMP Imp-vtol-valkyries-vultures-skytalons-etc"
+- "volants IMP Imp-vtol-valkyries-vultures-skytalons-etc"
+- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
+- "epic Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
+- "volants Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
+- "IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc"
+- "NONSUP"
+- "epic NONSUP"
+- "volants NONSUP"
+- "epic volants NONSUP"
+- "IMP NONSUP"
+- "epic IMP NONSUP"
+- "volants IMP NONSUP"
+- "Vtol NONSUP"
+- "epic Vtol NONSUP"
+- "volants Vtol NONSUP"
+- "IMP Vtol NONSUP"
+- "Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
+- "epic Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
+- "volants Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
+- "IMP Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
+- "Vtol Imp-vtol-valkyries-vultures-skytalons-etc NONSUP"
+
+---
+
+![](<thumbs_-_epic-scale-sky-talon_-_Images_1.avif> "thumbs_-_epic-scale-sky-talon_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-sky-talon_-_ImagesSTL_1.avif")
+
+  ![](<thumbs_-_epic-scale-sky-talon_-_Makes_1.avif> "thumbs_-_epic-scale-sky-talon_-_Makes_1.avif")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/game/epic-scale-sky-talon](https://cults3d.com/en/3d-model/game/epic-scale-sky-talon)
+
+Id objet : epic-scale-sky-talon
+
+Prix : 0 euros
+
+Collections :
+
+- epic volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc
+
+
+Collections pour tags :
+
+- epic volants IMP Vtol Imp-vtol-valkyries-vultures-skytalons-etc  NONSUP
+
+
+Description :
+
+~~~
+Originally produced by Games Workshop for their 6mm scale table top wargame, Epic 40,000 (and precessors/successors). They have since abandoned all support for Epic, so I modeled this in Autodesk Inventor for any avid wargamers.
+
+Modelled at true-scale 1:300 so it is larger than the official GW models; It may match the FW models since they care about scale!
+
+Epic has been re-released as a titans-only game called Adeptus Titanicus. It is nominally 8mm scale instead of 6mm, so I suggest that anyone wanting to print this for AT scenery or to play 8mm Epic should upscale it by 125%.
+~~~
+
+
+
+

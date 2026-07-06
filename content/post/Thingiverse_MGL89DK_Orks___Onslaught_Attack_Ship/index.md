@@ -1,0 +1,62 @@
+
+---
+title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Onslaught_Attack_Ship [dl]"
+date: "2019-01-10T11:26:43+00:00"
+toc: true
+image: "thumbs_-_3346255_-_Images_1.avif"
+tags:
+- "MGL89DK"
+- "bfg"
+- "ORKS"
+- "bfg ORKS"
+- "Flotte"
+- "bfg Flotte"
+- "ORKS Flotte"
+- "bfg ORKS Flotte"
+- "NONSUP"
+- "bfg NONSUP"
+- "ORKS NONSUP"
+- "bfg ORKS NONSUP"
+- "Flotte NONSUP"
+- "bfg Flotte NONSUP"
+- "ORKS Flotte NONSUP"
+
+---
+
+![](<thumbs_-_3346255_-_Images_1.avif> "thumbs_-_3346255_-_Images_1.avif")
+
+  ![](<thumbs_-_3346255_-_ImagesSTL_1.avif> "thumbs_-_3346255_-_ImagesSTL_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:3346255](https://www.thingiverse.com/thing:3346255)
+
+Id objet : 3346255
+
+Prix : 0 euros
+
+Collections :
+
+- bfg ORKS Flotte
+
+
+Collections pour tags :
+
+- bfg ORKS Flotte  NONSUP
+
+
+Description :
+
+~~~
+My own take on a possible proxy for BFG, is not made to be an complete copy. The model have not been cut, or test printed. 
+
+The model may be changede in the future.
+
+
+
+This thing was made with Tinkercad.
+~~~
+
+
+
+

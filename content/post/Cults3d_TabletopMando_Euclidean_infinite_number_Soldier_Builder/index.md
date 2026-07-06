@@ -1,0 +1,95 @@
+
+---
+title: "[GRATUIT] Cults3d > TabletopMando > Euclidean_infinite_number_Soldier_Builder [non dl]"
+date: "2022-06-11T01:48:38Z"
+toc: true
+image: "thumbs_-_euclidean-infinite-number-soldier-builder_-_Images_1.avif"
+tags:
+- "TabletopMando"
+- "15mm"
+- "28mm"
+- "15mm 28mm"
+- "HUMAINS"
+- "15mm HUMAINS"
+- "28mm HUMAINS"
+- "15mm 28mm HUMAINS"
+- "Humains-divers-pour-kitbash"
+- "15mm Humains-divers-pour-kitbash"
+- "28mm Humains-divers-pour-kitbash"
+- "15mm 28mm Humains-divers-pour-kitbash"
+- "HUMAINS Humains-divers-pour-kitbash"
+- "15mm HUMAINS Humains-divers-pour-kitbash"
+- "28mm HUMAINS Humains-divers-pour-kitbash"
+- "NONDL"
+- "15mm NONDL"
+- "28mm NONDL"
+- "15mm 28mm NONDL"
+- "HUMAINS NONDL"
+- "15mm HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "Humains-divers-pour-kitbash NONDL"
+- "15mm Humains-divers-pour-kitbash NONDL"
+- "28mm Humains-divers-pour-kitbash NONDL"
+- "HUMAINS Humains-divers-pour-kitbash NONDL"
+- "NONSUP"
+- "15mm NONSUP"
+- "28mm NONSUP"
+- "15mm 28mm NONSUP"
+- "HUMAINS NONSUP"
+- "15mm HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "Humains-divers-pour-kitbash NONSUP"
+- "15mm Humains-divers-pour-kitbash NONSUP"
+- "28mm Humains-divers-pour-kitbash NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "Humains-divers-pour-kitbash NONDL NONSUP"
+
+---
+
+![](<thumbs_-_euclidean-infinite-number-soldier-builder_-_Images_1.avif> "thumbs_-_euclidean-infinite-number-soldier-builder_-_Images_1.avif")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/game/euclidean-infinite-number-soldier-builder](https://cults3d.com/en/3d-model/game/euclidean-infinite-number-soldier-builder)
+
+Id objet : euclidean-infinite-number-soldier-builder
+
+Prix : 0.0 euros
+
+Collections :
+
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash
+
+
+Collections pour tags :
+
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash NONDL NONSUP
+
+
+Description :
+
+~~~
+Hey everyone, 
+
+here is an unrigged, unposed version of my marine builder.
+I only modeled out about half of it from scratch. Included are bits from the following below including hands, pouches, bolters, helmet and powerpack.
+
+As always please share your remixes of these models. These are shared for free with the community to make some cool models to add diversity in your army's poses. 
+
+There are two different versions of lower legs on this model as well as multiple hand options. Make sure you hide the ones you dont plan on using. 
+
+Big Thanks to
+BREXIT
+LOGGYK
+KARNAGE KING
+CORNIVIUS
+MCANGRY
+~~~
+
+
+
+

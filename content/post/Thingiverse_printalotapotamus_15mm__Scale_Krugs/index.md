@@ -1,0 +1,95 @@
+
+---
+title: "[GRATUIT] Thingiverse > printalotapotamus > 15mm__Scale_Krugs [non dl]"
+date: "2017-06-18T04:48:06+00:00"
+toc: true
+image: "thumbs_-_2391081_-_Images_1.avif"
+tags:
+- "printalotapotamus"
+- "15mm"
+- "28mm"
+- "15mm 28mm"
+- "SFDIV"
+- "15mm SFDIV"
+- "28mm SFDIV"
+- "15mm 28mm SFDIV"
+- "Aliens-divers"
+- "15mm Aliens-divers"
+- "28mm Aliens-divers"
+- "15mm 28mm Aliens-divers"
+- "SFDIV Aliens-divers"
+- "15mm SFDIV Aliens-divers"
+- "28mm SFDIV Aliens-divers"
+- "NONDL"
+- "15mm NONDL"
+- "28mm NONDL"
+- "15mm 28mm NONDL"
+- "SFDIV NONDL"
+- "15mm SFDIV NONDL"
+- "28mm SFDIV NONDL"
+- "Aliens-divers NONDL"
+- "15mm Aliens-divers NONDL"
+- "28mm Aliens-divers NONDL"
+- "SFDIV Aliens-divers NONDL"
+- "NONSUP"
+- "15mm NONSUP"
+- "28mm NONSUP"
+- "15mm 28mm NONSUP"
+- "SFDIV NONSUP"
+- "15mm SFDIV NONSUP"
+- "28mm SFDIV NONSUP"
+- "Aliens-divers NONSUP"
+- "15mm Aliens-divers NONSUP"
+- "28mm Aliens-divers NONSUP"
+- "SFDIV Aliens-divers NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "SFDIV NONDL NONSUP"
+- "Aliens-divers NONDL NONSUP"
+
+---
+
+![](<thumbs_-_2391081_-_Images_1.avif> "thumbs_-_2391081_-_Images_1.avif")
+
+  ![](<thumbs_-_2391081_-_Makes_1.avif> "thumbs_-_2391081_-_Makes_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:2391081](https://www.thingiverse.com/thing:2391081)
+
+Id objet : 2391081
+
+Prix : 0 euros
+
+Collections :
+
+- 15mm 28mm SFDIV Aliens-divers
+
+
+Collections pour tags :
+
+- 15mm 28mm SFDIV Aliens-divers NONDL NONSUP
+
+
+Description :
+
+~~~
+A remix of this thing: https://www.thingiverse.com/thing:1951901
+
+Created for playing the war game Gruntz. I am planning on running a scenario involving aliens attacking a colony of settlers.
+
+Changes include:
+
+* mirrored the model so there are two different krugs instead of a bunch of the exact same one.
+* added integral 25mm base to the design which makes build plate adhesion a lot easier.
+* built in supports for the under body and mandibles which don't need to be removed. Shouldn't be visible when on the game table.
+
+Another ez print from the Printalotapotamus for wargaming fun. Enjoy!
+
+If you like the work I'm doing and would like to contribute, you can do so at [my Patreon page](https://www.patreon.com/smokalotapotamus).
+~~~
+
+
+
+

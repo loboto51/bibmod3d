@@ -1,0 +1,62 @@
+
+---
+title: "[GRATUIT] Thingiverse > MGL89DK > Orks___Kroolboy_Battleship [dl]"
+date: "2019-01-15T13:19:31+00:00"
+toc: true
+image: "thumbs_-_3357726_-_Images_1.avif"
+tags:
+- "MGL89DK"
+- "bfg"
+- "ORKS"
+- "bfg ORKS"
+- "Flotte"
+- "bfg Flotte"
+- "ORKS Flotte"
+- "bfg ORKS Flotte"
+- "NONSUP"
+- "bfg NONSUP"
+- "ORKS NONSUP"
+- "bfg ORKS NONSUP"
+- "Flotte NONSUP"
+- "bfg Flotte NONSUP"
+- "ORKS Flotte NONSUP"
+
+---
+
+![](<thumbs_-_3357726_-_Images_1.avif> "thumbs_-_3357726_-_Images_1.avif")
+
+  ![](<thumbs_-_3357726_-_ImagesSTL_1.avif> "thumbs_-_3357726_-_ImagesSTL_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:3357726](https://www.thingiverse.com/thing:3357726)
+
+Id objet : 3357726
+
+Prix : 0 euros
+
+Collections :
+
+- bfg ORKS Flotte
+
+
+Collections pour tags :
+
+- bfg ORKS Flotte  NONSUP
+
+
+Description :
+
+~~~
+My own take on a possible proxy for BFG, is not made to be an complete copy. The model have not been cut, or test printed. 
+
+The model may be changede in the future.
+
+
+
+This thing was made with Tinkercad.
+~~~
+
+
+
+

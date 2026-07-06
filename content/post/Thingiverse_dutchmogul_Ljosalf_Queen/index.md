@@ -1,0 +1,87 @@
+
+---
+title: "[GRATUIT] Thingiverse > dutchmogul > Ljosalf_Queen [non dl]"
+date: "2020-04-08T18:47:04+00:00"
+toc: true
+image: "thumbs_-_4270811_-_Images_1.avif"
+tags:
+- "dutchmogul"
+- "15mm"
+- "28mm"
+- "15mm 28mm"
+- "SFDIV"
+- "15mm SFDIV"
+- "28mm SFDIV"
+- "15mm 28mm SFDIV"
+- "Aliens-divers"
+- "15mm Aliens-divers"
+- "28mm Aliens-divers"
+- "15mm 28mm Aliens-divers"
+- "SFDIV Aliens-divers"
+- "15mm SFDIV Aliens-divers"
+- "28mm SFDIV Aliens-divers"
+- "NONDL"
+- "15mm NONDL"
+- "28mm NONDL"
+- "15mm 28mm NONDL"
+- "SFDIV NONDL"
+- "15mm SFDIV NONDL"
+- "28mm SFDIV NONDL"
+- "Aliens-divers NONDL"
+- "15mm Aliens-divers NONDL"
+- "28mm Aliens-divers NONDL"
+- "SFDIV Aliens-divers NONDL"
+- "NONSUP"
+- "15mm NONSUP"
+- "28mm NONSUP"
+- "15mm 28mm NONSUP"
+- "SFDIV NONSUP"
+- "15mm SFDIV NONSUP"
+- "28mm SFDIV NONSUP"
+- "Aliens-divers NONSUP"
+- "15mm Aliens-divers NONSUP"
+- "28mm Aliens-divers NONSUP"
+- "SFDIV Aliens-divers NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "SFDIV NONDL NONSUP"
+- "Aliens-divers NONDL NONSUP"
+
+---
+
+![](<thumbs_-_4270811_-_Images_1.avif> "thumbs_-_4270811_-_Images_1.avif")
+
+  ![](<thumbs_-_4270811_-_Makes_1.avif> "thumbs_-_4270811_-_Makes_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4270811](https://www.thingiverse.com/thing:4270811)
+
+Id objet : 4270811
+
+Prix : 0 euros
+
+Collections :
+
+- 15mm 28mm SFDIV Aliens-divers
+
+
+Collections pour tags :
+
+- 15mm 28mm SFDIV Aliens-divers NONDL NONSUP
+
+
+Description :
+
+~~~
+Day 24: Ljosalf Queen. The ljosalfar (light elves) live in the high realm of Alfheim. Opposite to the dokkalfar (dark elves) in many ways, the ljosalfar are an aloof and otherworldly people whose cheerful optimism can border on naivete. Every ljosalfar has an identical twin among the dokkalfar, their fates intertwined by an invisible thread woven by the Norns. Also, our [Nine Worlds campaign is live on Kickstarter!](https://www.kickstarter.com/projects/292543184/nine-worlds) [](https://www.youtube.com/watch?v=xPmxmm-Zt6Q)
+
+This model is scaled for standard miniature gaming (compatible with Games Workshop, Reaper, CMON, Hero Forge, and other major ranges), and prints support free. (Also something to note- the alfar of the Nine Worlds are a little taller than humans.) This is part of our [Nine Worlds collection](https://www.thingiverse.com/dutchmogul/collections/nine-worlds) (more info there).
+
+For those of you thinking about [supporting us on Patreon](https://www.patreon.com/illgottengames), our patrons get special weekly model releases, access to new storefront releases and our entire back catalog, plus licensing options to sell printed versions of our designs.
+~~~
+
+
+
+

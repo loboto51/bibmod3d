@@ -1,0 +1,86 @@
+
+---
+title: "[GRATUIT] Thingiverse > Landon73_LeesedRenfort > Culista_Assassin [non dl]"
+date: "2019-11-27T14:41:10+00:00"
+toc: true
+image: "thumbs_-_4005024_-_Images_1.avif"
+tags:
+- "Landon73_LeesedRenfort"
+- "28mm"
+- "IMP"
+- "28mm IMP"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "IMP HUMAINS"
+- "28mm IMP HUMAINS"
+- "Assassins"
+- "28mm Assassins"
+- "IMP Assassins"
+- "28mm IMP Assassins"
+- "HUMAINS Assassins"
+- "28mm HUMAINS Assassins"
+- "IMP HUMAINS Assassins"
+- "NONDL"
+- "28mm NONDL"
+- "IMP NONDL"
+- "28mm IMP NONDL"
+- "HUMAINS NONDL"
+- "28mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "Assassins NONDL"
+- "28mm Assassins NONDL"
+- "IMP Assassins NONDL"
+- "HUMAINS Assassins NONDL"
+- "NONSUP"
+- "28mm NONSUP"
+- "IMP NONSUP"
+- "28mm IMP NONSUP"
+- "HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "Assassins NONSUP"
+- "28mm Assassins NONSUP"
+- "IMP Assassins NONSUP"
+- "HUMAINS Assassins NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
+- "Assassins NONDL NONSUP"
+
+---
+
+![](<thumbs_-_4005024_-_Images_1.avif> "thumbs_-_4005024_-_Images_1.avif")
+
+  ![](<thumbs_-_4005024_-_Makes_1.avif> "thumbs_-_4005024_-_Makes_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4005024](https://www.thingiverse.com/thing:4005024)
+
+Id objet : 4005024
+
+Prix : 0 euros
+
+Collections :
+
+- 28mm IMP HUMAINS Assassins
+
+
+Collections pour tags :
+
+- 28mm IMP HUMAINS Assassins NONDL NONSUP
+
+
+Description :
+
+~~~
+The last of my assassins was a real pain to repair the mesh and make her printable.  A special thanks to TheEvilOne for donating the head for her. https://www.thingiverse.com/ThatEvilOne/about
+and a special shout out to all the Russian hackers who provided the base for this pretty lady. 
+
+Check out my other models at https://www.cgtrader.com/leesedrenfort
+~~~
+
+
+
+

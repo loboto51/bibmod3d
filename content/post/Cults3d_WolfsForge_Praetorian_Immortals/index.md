@@ -1,0 +1,178 @@
+
+---
+title: "[GRATUIT] Cults3d > WolfsForge > Praetorian_Immortals [dl]"
+date: "2023-12-12T13:20:32Z"
+toc: true
+image: "thumbs_-_praetorian-immortals_-_Images_1.avif"
+tags:
+- "WolfsForge"
+- "15mm"
+- "28mm"
+- "15mm 28mm"
+- "HUMAINS"
+- "15mm HUMAINS"
+- "28mm HUMAINS"
+- "15mm 28mm HUMAINS"
+- "Humains-divers-pour-kitbash"
+- "15mm Humains-divers-pour-kitbash"
+- "28mm Humains-divers-pour-kitbash"
+- "15mm 28mm Humains-divers-pour-kitbash"
+- "HUMAINS Humains-divers-pour-kitbash"
+- "15mm HUMAINS Humains-divers-pour-kitbash"
+- "28mm HUMAINS Humains-divers-pour-kitbash"
+- "NONSUP"
+- "15mm NONSUP"
+- "28mm NONSUP"
+- "15mm 28mm NONSUP"
+- "HUMAINS NONSUP"
+- "15mm HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "Humains-divers-pour-kitbash NONSUP"
+- "15mm Humains-divers-pour-kitbash NONSUP"
+- "28mm Humains-divers-pour-kitbash NONSUP"
+- "HUMAINS Humains-divers-pour-kitbash NONSUP"
+- "15mm"
+- "28mm"
+- "15mm 28mm"
+- "IMP"
+- "15mm IMP"
+- "28mm IMP"
+- "15mm 28mm IMP"
+- "HUMAINS"
+- "15mm HUMAINS"
+- "28mm HUMAINS"
+- "15mm 28mm HUMAINS"
+- "IMP HUMAINS"
+- "15mm IMP HUMAINS"
+- "28mm IMP HUMAINS"
+- "Necromunda-gangs"
+- "15mm Necromunda-gangs"
+- "28mm Necromunda-gangs"
+- "15mm 28mm Necromunda-gangs"
+- "IMP Necromunda-gangs"
+- "15mm IMP Necromunda-gangs"
+- "28mm IMP Necromunda-gangs"
+- "HUMAINS Necromunda-gangs"
+- "15mm HUMAINS Necromunda-gangs"
+- "28mm HUMAINS Necromunda-gangs"
+- "IMP HUMAINS Necromunda-gangs"
+- "40k-gangs"
+- "15mm 40k-gangs"
+- "28mm 40k-gangs"
+- "15mm 28mm 40k-gangs"
+- "IMP 40k-gangs"
+- "15mm IMP 40k-gangs"
+- "28mm IMP 40k-gangs"
+- "HUMAINS 40k-gangs"
+- "15mm HUMAINS 40k-gangs"
+- "28mm HUMAINS 40k-gangs"
+- "IMP HUMAINS 40k-gangs"
+- "Necromunda-gangs 40k-gangs"
+- "15mm Necromunda-gangs 40k-gangs"
+- "28mm Necromunda-gangs 40k-gangs"
+- "IMP Necromunda-gangs 40k-gangs"
+- "HUMAINS Necromunda-gangs 40k-gangs"
+- "NONSUP"
+- "15mm NONSUP"
+- "28mm NONSUP"
+- "15mm 28mm NONSUP"
+- "IMP NONSUP"
+- "15mm IMP NONSUP"
+- "28mm IMP NONSUP"
+- "HUMAINS NONSUP"
+- "15mm HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "Necromunda-gangs NONSUP"
+- "15mm Necromunda-gangs NONSUP"
+- "28mm Necromunda-gangs NONSUP"
+- "IMP Necromunda-gangs NONSUP"
+- "HUMAINS Necromunda-gangs NONSUP"
+- "40k-gangs NONSUP"
+- "15mm 40k-gangs NONSUP"
+- "28mm 40k-gangs NONSUP"
+- "IMP 40k-gangs NONSUP"
+- "HUMAINS 40k-gangs NONSUP"
+- "Necromunda-gangs 40k-gangs NONSUP"
+- "28mm"
+- "IMP"
+- "28mm IMP"
+- "AM"
+- "28mm AM"
+- "IMP AM"
+- "28mm IMP AM"
+- "HUMAINS"
+- "28mm HUMAINS"
+- "IMP HUMAINS"
+- "28mm IMP HUMAINS"
+- "AM HUMAINS"
+- "28mm AM HUMAINS"
+- "IMP AM HUMAINS"
+- "Technopretres-et-serviteurs"
+- "28mm Technopretres-et-serviteurs"
+- "IMP Technopretres-et-serviteurs"
+- "28mm IMP Technopretres-et-serviteurs"
+- "AM Technopretres-et-serviteurs"
+- "28mm AM Technopretres-et-serviteurs"
+- "IMP AM Technopretres-et-serviteurs"
+- "HUMAINS Technopretres-et-serviteurs"
+- "28mm HUMAINS Technopretres-et-serviteurs"
+- "IMP HUMAINS Technopretres-et-serviteurs"
+- "AM HUMAINS Technopretres-et-serviteurs"
+- "NONSUP"
+- "28mm NONSUP"
+- "IMP NONSUP"
+- "28mm IMP NONSUP"
+- "AM NONSUP"
+- "28mm AM NONSUP"
+- "IMP AM NONSUP"
+- "HUMAINS NONSUP"
+- "28mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "AM HUMAINS NONSUP"
+- "Technopretres-et-serviteurs NONSUP"
+- "28mm Technopretres-et-serviteurs NONSUP"
+- "IMP Technopretres-et-serviteurs NONSUP"
+- "AM Technopretres-et-serviteurs NONSUP"
+- "HUMAINS Technopretres-et-serviteurs NONSUP"
+
+---
+
+![](<thumbs_-_praetorian-immortals_-_Images_1.avif> "thumbs_-_praetorian-immortals_-_Images_1.avif")
+
+  ![](<thumbs_-_praetorian-immortals_-_ImagesSTL_1.avif> "thumbs_-_praetorian-immortals_-_ImagesSTL_1.avif")
+
+  ![](<thumbs_-_praetorian-immortals_-_Makes_1.avif> "thumbs_-_praetorian-immortals_-_Makes_1.avif")
+
+  
+
+Source : [https://cults3d.com/en/3d-model/game/praetorian-immortals](https://cults3d.com/en/3d-model/game/praetorian-immortals)
+
+Id objet : praetorian-immortals
+
+Prix : 0.0 euros
+
+Collections :
+
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs
+- 28mm IMP AM HUMAINS Technopretres-et-serviteurs
+
+
+Collections pour tags :
+
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash  NONSUP
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs  NONSUP
+- 28mm IMP AM HUMAINS Technopretres-et-serviteurs  NONSUP
+
+
+Description :
+
+~~~
+5 characters; 
+7 weapons: JetGun, PlasmaGun, HeatGun, Flamer, Machinegun, Radiator, Grenade Launcher
+~~~
+
+
+
+

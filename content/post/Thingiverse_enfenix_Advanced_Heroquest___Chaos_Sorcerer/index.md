@@ -1,0 +1,83 @@
+
+---
+title: "[GRATUIT] Thingiverse > enfenix > Advanced_Heroquest___Chaos_Sorcerer [non dl]"
+date: "2020-02-14T14:26:34+00:00"
+toc: true
+image: "thumbs_-_4162820_-_Images_1.avif"
+tags:
+- "enfenix"
+- "28mm"
+- "CHAOS"
+- "28mm CHAOS"
+- "WFB"
+- "28mm WFB"
+- "CHAOS WFB"
+- "28mm CHAOS WFB"
+- "NONDL"
+- "28mm NONDL"
+- "CHAOS NONDL"
+- "28mm CHAOS NONDL"
+- "WFB NONDL"
+- "28mm WFB NONDL"
+- "CHAOS WFB NONDL"
+- "NONSUP"
+- "28mm NONSUP"
+- "CHAOS NONSUP"
+- "28mm CHAOS NONSUP"
+- "WFB NONSUP"
+- "28mm WFB NONSUP"
+- "CHAOS WFB NONSUP"
+- "NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "CHAOS NONDL NONSUP"
+- "WFB NONDL NONSUP"
+
+---
+
+![](<thumbs_-_4162820_-_Images_1.avif> "thumbs_-_4162820_-_Images_1.avif")
+
+  ![](<thumbs_-_4162820_-_Makes_1.avif> "thumbs_-_4162820_-_Makes_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:4162820](https://www.thingiverse.com/thing:4162820)
+
+Id objet : 4162820
+
+Prix : 0 euros
+
+Collections :
+
+- 28mm CHAOS WFB
+
+
+Collections pour tags :
+
+- 28mm CHAOS WFB NONDL NONSUP
+
+
+Description :
+
+~~~
+Advanced Heroquest Token replacer.
+
+
+
+<b>Patreon: https://www.patreon.com/enfenix</b>
+
+---
+General information
+
+My miniatures are designed to work out of the box with original 28mm Heroquest miniatures.
+I always add a version with Heroquest base and one without a base. The weapons and the base are only combined (if possible).
+Personally, I now prefer 32mm miniatures. I usually scale them to 112% -115% directly in the slicer.
+
+I am happy about every shared make, especially the painted ones.
+By the way i love espresso, so don't hesitate to leave a tip if you like =D
+
+If you are inexperienced with slicer setting, I recommend this one for Ender Printer: http://www.fatdragongames.com/fdgfiles/?p=4934
+~~~
+
+
+
+
