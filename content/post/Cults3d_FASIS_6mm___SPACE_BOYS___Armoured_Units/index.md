@@ -113,6 +113,8 @@ tags:
 
   ![](<thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.avif> "thumbs_-_6mm-space-boys-armoured-units_-_ImagesSTL_1.avif")
 
+  ![](<thumbs_-_6mm-space-boys-armoured-units_-_Makes_1.avif> "thumbs_-_6mm-space-boys-armoured-units_-_Makes_1.avif")
+
   
 
 Source : [https://cults3d.com/en/3d-model/game/6mm-space-boys-armoured-units](https://cults3d.com/en/3d-model/game/6mm-space-boys-armoured-units)
