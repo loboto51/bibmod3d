@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Artic_Potato > Extra_parts_for_Lucifer_Cavalier [non dl]"
+title: "[GRATUIT] Thingiverse > Artic_Potato > Extra_parts_for_Lucifer_Cavalier [dl]"
 date: "2023-04-15T05:37:16+00:00"
 toc: true
 image: "thumbs_-_5971454_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "chevaliers IMP NONDL"
-- "Admech-chevaliers NONDL"
-- "epic Admech-chevaliers NONDL"
-- "chevaliers Admech-chevaliers NONDL"
-- "IMP Admech-chevaliers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Admech-chevaliers NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_5971454_-_Images_1.avif> "thumbs_-_5971454_-_Images_1.avif")
+
+  ![](<thumbs_-_5971454_-_ImagesSTL_1.avif> "thumbs_-_5971454_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-chevaliers NONDL NONSUP
+- epic chevaliers IMP Admech-chevaliers  NONSUP
 
 
 Description :

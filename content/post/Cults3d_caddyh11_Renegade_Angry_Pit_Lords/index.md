@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > caddyh11 > Renegade_Angry_Pit_Lords [non dl]"
+title: "[GRATUIT] Cults3d > caddyh11 > Renegade_Angry_Pit_Lords [dl]"
 date: "2025-04-15T18:23:08Z"
 toc: true
 image: "thumbs_-_renegade-angry-pit-lords_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "epic Chaos-princes-demons KHORNE"
 - "infanterie Chaos-princes-demons KHORNE"
 - "CHAOS Chaos-princes-demons KHORNE"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "CHAOS NONDL"
-- "epic CHAOS NONDL"
-- "infanterie CHAOS NONDL"
-- "Chaos-princes-demons NONDL"
-- "epic Chaos-princes-demons NONDL"
-- "infanterie Chaos-princes-demons NONDL"
-- "CHAOS Chaos-princes-demons NONDL"
-- "KHORNE NONDL"
-- "epic KHORNE NONDL"
-- "infanterie KHORNE NONDL"
-- "CHAOS KHORNE NONDL"
-- "Chaos-princes-demons KHORNE NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "infanterie KHORNE NONSUP"
 - "CHAOS KHORNE NONSUP"
 - "Chaos-princes-demons KHORNE NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "Chaos-princes-demons NONDL NONSUP"
-- "KHORNE NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_renegade-angry-pit-lords_-_Images_1.avif> "thumbs_-_renegade-angry-pit-lords_-_Images_1.avif")
+
+  ![](<thumbs_-_renegade-angry-pit-lords_-_ImagesSTL_1.avif> "thumbs_-_renegade-angry-pit-lords_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie CHAOS Chaos-princes-demons KHORNE NONDL NONSUP
+- epic infanterie CHAOS Chaos-princes-demons KHORNE  NONSUP
 
 
 Description :

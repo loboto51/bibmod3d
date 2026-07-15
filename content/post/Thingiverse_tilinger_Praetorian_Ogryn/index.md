@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > tilinger > Praetorian_Ogryn [non dl]"
+title: "[GRATUIT] Thingiverse > tilinger > Praetorian_Ogryn [dl]"
 date: "2026-07-05T20:59:57+00:00"
 toc: true
 image: "thumbs_-_7379431_-_Images_1.avif"
@@ -13,13 +13,6 @@ tags:
 - "28mm Ogryns"
 - "IMP Ogryns"
 - "28mm IMP Ogryns"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "Ogryns NONDL"
-- "28mm Ogryns NONDL"
-- "IMP Ogryns NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -27,14 +20,12 @@ tags:
 - "Ogryns NONSUP"
 - "28mm Ogryns NONSUP"
 - "IMP Ogryns NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Ogryns NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7379431_-_Images_1.avif> "thumbs_-_7379431_-_Images_1.avif")
+
+  ![](<thumbs_-_7379431_-_ImagesSTL_1.avif> "thumbs_-_7379431_-_ImagesSTL_1.avif")
 
   
 
@@ -51,7 +42,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP Ogryns NONDL NONSUP
+- 28mm IMP Ogryns  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > albertorius > Small_scale_Hydra_of_Battle [non dl]"
+title: "[GRATUIT] Cults3d > albertorius > Small_scale_Hydra_of_Battle [dl]"
 date: "2023-10-04T07:05:28Z"
 toc: true
 image: "thumbs_-_small-scale-hydra-of-battle_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "warmaster"
 - "ELFES-NOIRS"
 - "warmaster ELFES-NOIRS"
-- "NONDL"
-- "warmaster NONDL"
-- "ELFES-NOIRS NONDL"
-- "warmaster ELFES-NOIRS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "ELFES-NOIRS NONSUP"
 - "warmaster ELFES-NOIRS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "ELFES-NOIRS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_small-scale-hydra-of-battle_-_Images_1.avif> "thumbs_-_small-scale-hydra-of-battle_-_Images_1.avif")
+
+  ![](<thumbs_-_small-scale-hydra-of-battle_-_ImagesSTL_1.avif> "thumbs_-_small-scale-hydra-of-battle_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster ELFES-NOIRS NONDL NONSUP
+- warmaster ELFES-NOIRS  NONSUP
 
 
 Description :
