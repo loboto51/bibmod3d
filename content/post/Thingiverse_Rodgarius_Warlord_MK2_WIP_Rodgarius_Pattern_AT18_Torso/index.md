@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Rodgarius > Warlord_MK2_WIP_Rodgarius_Pattern_AT18_Torso [non dl]"
+title: "[GRATUIT] Thingiverse > Rodgarius > Warlord_MK2_WIP_Rodgarius_Pattern_AT18_Torso [dl]"
 date: "2021-03-19T07:32:28+00:00"
 toc: true
 image: "thumbs_-_4799031_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "IMP Admech-titans-warlords"
 - "epic IMP Admech-titans-warlords"
 - "titans IMP Admech-titans-warlords"
-- "NONDL"
-- "epic NONDL"
-- "titans NONDL"
-- "epic titans NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "titans IMP NONDL"
-- "Admech-titans-warlords NONDL"
-- "epic Admech-titans-warlords NONDL"
-- "titans Admech-titans-warlords NONDL"
-- "IMP Admech-titans-warlords NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Admech-titans-warlords NONSUP"
 - "titans Admech-titans-warlords NONSUP"
 - "IMP Admech-titans-warlords NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "titans NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Admech-titans-warlords NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4799031_-_Images_1.avif> "thumbs_-_4799031_-_Images_1.avif")
+
+  ![](<thumbs_-_4799031_-_ImagesSTL_1.avif> "thumbs_-_4799031_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans IMP Admech-titans-warlords NONDL NONSUP
+- epic titans IMP Admech-titans-warlords  NONSUP
 
 
 Description :
