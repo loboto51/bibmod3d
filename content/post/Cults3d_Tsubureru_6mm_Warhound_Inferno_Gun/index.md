@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > da_sub00 > AT18_Warhound_Replacement_Exhaust_Bit__A15 [non dl]"
-date: "2020-09-21T08:46:36Z"
+title: "[GRATUIT] Cults3d > Tsubureru > 6mm_Warhound_Inferno_Gun [non dl]"
+date: "2022-11-21T19:11:15Z"
 toc: true
-image: "thumbs_-_at18-warhound-replacement-exhaust-bit-a15_-_Images_1.avif"
+image: "thumbs_-_6mm-warhound-inferno-gun_-_Images_1.avif"
 tags:
-- "da_sub00"
+- "Tsubureru"
 - "epic"
 - "titans"
 - "epic titans"
@@ -50,15 +50,15 @@ tags:
 
 ---
 
-![](<thumbs_-_at18-warhound-replacement-exhaust-bit-a15_-_Images_1.avif> "thumbs_-_at18-warhound-replacement-exhaust-bit-a15_-_Images_1.avif")
+![](<thumbs_-_6mm-warhound-inferno-gun_-_Images_1.avif> "thumbs_-_6mm-warhound-inferno-gun_-_Images_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/at18-warhound-replacement-exhaust-bit-a15](https://cults3d.com/en/3d-model/game/at18-warhound-replacement-exhaust-bit-a15)
+Source : [https://cults3d.com/en/3d-model/game/6mm-warhound-inferno-gun](https://cults3d.com/en/3d-model/game/6mm-warhound-inferno-gun)
 
-Id objet : at18-warhound-replacement-exhaust-bit-a15
+Id objet : 6mm-warhound-inferno-gun
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
@@ -73,11 +73,7 @@ Collections pour tags :
 Description :
 
 ~~~
-So do you ever have those days where you clip a part off the sprue and it shoots across the room never to be found again? It's Easy enough to do.
-
-So for anyone else who lost Part #A15 of the AT18 Warhound Plastic Kit I give you a resin printer friendly replacement made with a cut out polygon and some resized 40k scale exhausts. I left the base plate slightly thick so you don't have any issues with the whole thing splintering apart while taking it off the supports.
-
-Printed out fine on my Photon.
+Inferno Gun to be used for Warhound Titans in Epic
 ~~~
 
 

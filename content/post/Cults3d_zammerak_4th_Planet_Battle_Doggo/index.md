@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > da_sub00 > AT18_Warhound_Replacement_Elbow_Bit__A18 [non dl]"
-date: "2020-10-27T22:26:39Z"
+title: "[GRATUIT] Cults3d > zammerak > 4th_Planet_Battle_Doggo [non dl]"
+date: "2021-02-17T08:32:20Z"
 toc: true
-image: "thumbs_-_at18-warhound-replacement-elbow-bit-a18_-_Images_1.avif"
+image: "thumbs_-_4th-planet-battle-doggo-zammerak_-_Images_1.avif"
 tags:
-- "da_sub00"
+- "zammerak"
 - "epic"
 - "titans"
 - "epic titans"
@@ -50,15 +50,17 @@ tags:
 
 ---
 
-![](<thumbs_-_at18-warhound-replacement-elbow-bit-a18_-_Images_1.avif> "thumbs_-_at18-warhound-replacement-elbow-bit-a18_-_Images_1.avif")
+![](<thumbs_-_4th-planet-battle-doggo-zammerak_-_Images_1.avif> "thumbs_-_4th-planet-battle-doggo-zammerak_-_Images_1.avif")
+
+  ![](<thumbs_-_4th-planet-battle-doggo-zammerak_-_Makes_1.avif> "thumbs_-_4th-planet-battle-doggo-zammerak_-_Makes_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/at18-warhound-replacement-elbow-bit-a18](https://cults3d.com/en/3d-model/game/at18-warhound-replacement-elbow-bit-a18)
+Source : [https://cults3d.com/en/3d-model/game/4th-planet-battle-doggo-zammerak](https://cults3d.com/en/3d-model/game/4th-planet-battle-doggo-zammerak)
 
-Id objet : at18-warhound-replacement-elbow-bit-a18
+Id objet : 4th-planet-battle-doggo-zammerak
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
@@ -73,11 +75,11 @@ Collections pour tags :
 Description :
 
 ~~~
-So while assembling another AT18 Warhound I lost the little elbow bit that connects the weapons to the shoulder. On the up side my loss is everyone's gain.
+This is a repair and rescale of Jimsbeanz doggo that was remixed from SebTheis.  All of the missing parts have been found and the scale has been repaired, no need to change the scale. 
 
-So for anyone else who lost Part #A18 of the AT18 Warhound Plastic Kit I give you a resin printer friendly replacement that was knocked together in CAD. I even included a second option with a 3mm hole pre cut for magnets.
+Heretic version coming soon!
 
-Printed out fine on my Photon.
+Let me know if anything is missing or a file has any errors or issues.
 ~~~
 
 
