@@ -6,20 +6,20 @@ toc: true
 image: "thumbs_-_krugg-seer_-_Images_1.avif"
 tags:
 - "backrankminiatures"
-- "autres-echelles"
-- "Figurines-et-statuettes"
-- "autres-echelles Figurines-et-statuettes"
+- "28mm"
+- "MageKnight"
+- "28mm MageKnight"
 - "NONDL"
-- "autres-echelles NONDL"
-- "Figurines-et-statuettes NONDL"
-- "autres-echelles Figurines-et-statuettes NONDL"
+- "28mm NONDL"
+- "MageKnight NONDL"
+- "28mm MageKnight NONDL"
 - "NONSUP"
-- "autres-echelles NONSUP"
-- "Figurines-et-statuettes NONSUP"
-- "autres-echelles Figurines-et-statuettes NONSUP"
+- "28mm NONSUP"
+- "MageKnight NONSUP"
+- "28mm MageKnight NONSUP"
 - "NONDL NONSUP"
-- "autres-echelles NONDL NONSUP"
-- "Figurines-et-statuettes NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "MageKnight NONDL NONSUP"
 
 ---
 
@@ -35,12 +35,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- autres-echelles Figurines-et-statuettes
+- 28mm MageKnight
 
 
 Collections pour tags :
 
-- autres-echelles Figurines-et-statuettes NONDL NONSUP
+- 28mm MageKnight NONDL NONSUP
 
 
 Description :

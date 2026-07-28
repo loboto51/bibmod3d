@@ -13,13 +13,13 @@ tags:
 - "epic VM"
 - "infanterie VM"
 - "epic infanterie VM"
-- "Eldars-Gardes-Fantômes"
-- "epic Eldars-Gardes-Fantômes"
-- "infanterie Eldars-Gardes-Fantômes"
-- "epic infanterie Eldars-Gardes-Fantômes"
-- "VM Eldars-Gardes-Fantômes"
-- "epic VM Eldars-Gardes-Fantômes"
-- "infanterie VM Eldars-Gardes-Fantômes"
+- "Eldars-Gardes-Fantomes"
+- "epic Eldars-Gardes-Fantomes"
+- "infanterie Eldars-Gardes-Fantomes"
+- "epic infanterie Eldars-Gardes-Fantomes"
+- "VM Eldars-Gardes-Fantomes"
+- "epic VM Eldars-Gardes-Fantomes"
+- "infanterie VM Eldars-Gardes-Fantomes"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -27,10 +27,10 @@ tags:
 - "VM SUP"
 - "epic VM SUP"
 - "infanterie VM SUP"
-- "Eldars-Gardes-Fantômes SUP"
-- "epic Eldars-Gardes-Fantômes SUP"
-- "infanterie Eldars-Gardes-Fantômes SUP"
-- "VM Eldars-Gardes-Fantômes SUP"
+- "Eldars-Gardes-Fantomes SUP"
+- "epic Eldars-Gardes-Fantomes SUP"
+- "infanterie Eldars-Gardes-Fantomes SUP"
+- "VM Eldars-Gardes-Fantomes SUP"
 
 ---
 
@@ -48,12 +48,12 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie VM Eldars-Gardes-Fantômes
+- epic infanterie VM Eldars-Gardes-Fantomes
 
 
 Collections pour tags :
 
-- epic infanterie VM Eldars-Gardes-Fantômes  SUP
+- epic infanterie VM Eldars-Gardes-Fantomes  SUP
 
 
 Description :

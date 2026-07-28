@@ -38,13 +38,13 @@ tags:
 - "epic VM"
 - "titans VM"
 - "epic titans VM"
-- "Eldars-titans-fantômes"
-- "epic Eldars-titans-fantômes"
-- "titans Eldars-titans-fantômes"
-- "epic titans Eldars-titans-fantômes"
-- "VM Eldars-titans-fantômes"
-- "epic VM Eldars-titans-fantômes"
-- "titans VM Eldars-titans-fantômes"
+- "Eldars-titans-fantomes"
+- "epic Eldars-titans-fantomes"
+- "titans Eldars-titans-fantomes"
+- "epic titans Eldars-titans-fantomes"
+- "VM Eldars-titans-fantomes"
+- "epic VM Eldars-titans-fantomes"
+- "titans VM Eldars-titans-fantomes"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -52,10 +52,10 @@ tags:
 - "VM NONSUP"
 - "epic VM NONSUP"
 - "titans VM NONSUP"
-- "Eldars-titans-fantômes NONSUP"
-- "epic Eldars-titans-fantômes NONSUP"
-- "titans Eldars-titans-fantômes NONSUP"
-- "VM Eldars-titans-fantômes NONSUP"
+- "Eldars-titans-fantomes NONSUP"
+- "epic Eldars-titans-fantomes NONSUP"
+- "titans Eldars-titans-fantomes NONSUP"
+- "VM Eldars-titans-fantomes NONSUP"
 
 ---
 
@@ -74,13 +74,13 @@ Prix : 0.0 euros
 Collections :
 
 - epic titans VM Eldars-revenants
-- epic titans VM Eldars-titans-fantômes
+- epic titans VM Eldars-titans-fantomes
 
 
 Collections pour tags :
 
 - epic titans VM Eldars-revenants  NONSUP
-- epic titans VM Eldars-titans-fantômes  NONSUP
+- epic titans VM Eldars-titans-fantomes  NONSUP
 
 
 Description :
