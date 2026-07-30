@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > backrankminiatures > Horned_Hatchetkrugg___War_Hatchetkrugg [non dl]"
+title: "[GRATUIT] Cults3d > backrankminiatures > Horned_Hatchetkrugg___War_Hatchetkrugg [dl]"
 date: "2026-07-06T18:31:42Z"
 toc: true
 image: "thumbs_-_horned-hatchetkrugg-war-hatchetkrugg_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "MageKnight"
 - "28mm MageKnight"
-- "NONDL"
-- "28mm NONDL"
-- "MageKnight NONDL"
-- "28mm MageKnight NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "MageKnight NONSUP"
 - "28mm MageKnight NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "MageKnight NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_horned-hatchetkrugg-war-hatchetkrugg_-_Images_1.avif> "thumbs_-_horned-hatchetkrugg-war-hatchetkrugg_-_Images_1.avif")
+
+  ![](<thumbs_-_horned-hatchetkrugg-war-hatchetkrugg_-_ImagesSTL_1.avif> "thumbs_-_horned-hatchetkrugg-war-hatchetkrugg_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm MageKnight NONDL NONSUP
+- 28mm MageKnight  NONSUP
 
 
 Description :
