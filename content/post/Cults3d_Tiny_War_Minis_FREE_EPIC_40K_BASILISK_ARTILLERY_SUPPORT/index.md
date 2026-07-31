@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Tiny_War_Minis > FREE_EPIC_40K_BASILISK_ARTILLERY_SUPPORT [non dl]"
+title: "[GRATUIT] Cults3d > Tiny_War_Minis > FREE_EPIC_40K_BASILISK_ARTILLERY_SUPPORT [dl]"
 date: "2023-07-18T05:09:22Z"
 toc: true
 image: "thumbs_-_free-epic-40k-basilisk-artillery-support_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "epic Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes"
 - "vehicules Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes"
 - "GI Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "vehicules GI NONDL"
-- "Imp-chars-artillerie NONDL"
-- "epic Imp-chars-artillerie NONDL"
-- "vehicules Imp-chars-artillerie NONDL"
-- "GI Imp-chars-artillerie NONDL"
-- "Imp-canons-basilisks-medusas-bombardes NONDL"
-- "epic Imp-canons-basilisks-medusas-bombardes NONDL"
-- "vehicules Imp-canons-basilisks-medusas-bombardes NONDL"
-- "GI Imp-canons-basilisks-medusas-bombardes NONDL"
-- "Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "vehicules Imp-canons-basilisks-medusas-bombardes NONSUP"
 - "GI Imp-canons-basilisks-medusas-bombardes NONSUP"
 - "Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "Imp-chars-artillerie NONDL NONSUP"
-- "Imp-canons-basilisks-medusas-bombardes NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_free-epic-40k-basilisk-artillery-support_-_Images_1.avif> "thumbs_-_free-epic-40k-basilisk-artillery-support_-_Images_1.avif")
+
+  ![](<thumbs_-_free-epic-40k-basilisk-artillery-support_-_ImagesSTL_1.avif> "thumbs_-_free-epic-40k-basilisk-artillery-support_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_free-epic-40k-basilisk-artillery-support_-_Makes_1.avif> "thumbs_-_free-epic-40k-basilisk-artillery-support_-_Makes_1.avif")
 
@@ -91,7 +71,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules GI Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes NONDL NONSUP
+- epic vehicules GI Imp-chars-artillerie Imp-canons-basilisks-medusas-bombardes  NONSUP
 
 
 Description :
