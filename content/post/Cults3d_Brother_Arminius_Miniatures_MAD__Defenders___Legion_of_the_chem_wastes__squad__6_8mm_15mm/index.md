@@ -6,6 +6,69 @@ toc: true
 image: "thumbs_-_mad-defenders-legion-of-the-chem-wastes-squad-6-8mm-15mm-patreon_-_Images_1.avif"
 tags:
 - "Brother_Arminius_Miniatures"
+- "15mm"
+- "IMP"
+- "15mm IMP"
+- "ARBITES"
+- "15mm ARBITES"
+- "IMP ARBITES"
+- "15mm IMP ARBITES"
+- "GI"
+- "15mm GI"
+- "IMP GI"
+- "15mm IMP GI"
+- "ARBITES GI"
+- "15mm ARBITES GI"
+- "IMP ARBITES GI"
+- "HUMAINS"
+- "15mm HUMAINS"
+- "IMP HUMAINS"
+- "15mm IMP HUMAINS"
+- "ARBITES HUMAINS"
+- "15mm ARBITES HUMAINS"
+- "IMP ARBITES HUMAINS"
+- "GI HUMAINS"
+- "15mm GI HUMAINS"
+- "IMP GI HUMAINS"
+- "ARBITES GI HUMAINS"
+- "NONDL"
+- "15mm NONDL"
+- "IMP NONDL"
+- "15mm IMP NONDL"
+- "ARBITES NONDL"
+- "15mm ARBITES NONDL"
+- "IMP ARBITES NONDL"
+- "GI NONDL"
+- "15mm GI NONDL"
+- "IMP GI NONDL"
+- "ARBITES GI NONDL"
+- "HUMAINS NONDL"
+- "15mm HUMAINS NONDL"
+- "IMP HUMAINS NONDL"
+- "ARBITES HUMAINS NONDL"
+- "GI HUMAINS NONDL"
+- "NONSUP"
+- "15mm NONSUP"
+- "IMP NONSUP"
+- "15mm IMP NONSUP"
+- "ARBITES NONSUP"
+- "15mm ARBITES NONSUP"
+- "IMP ARBITES NONSUP"
+- "GI NONSUP"
+- "15mm GI NONSUP"
+- "IMP GI NONSUP"
+- "ARBITES GI NONSUP"
+- "HUMAINS NONSUP"
+- "15mm HUMAINS NONSUP"
+- "IMP HUMAINS NONSUP"
+- "ARBITES HUMAINS NONSUP"
+- "GI HUMAINS NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "ARBITES NONDL NONSUP"
+- "GI NONDL NONSUP"
+- "HUMAINS NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -149,12 +212,14 @@ Prix : 5 euros
 
 Collections :
 
+- 15mm IMP ARBITES GI HUMAINS
 - epic infanterie GI Humains-qg GI-LEGACIER
 - epic infanterie GI Humains-tactiques GI-LEGACIER
 
 
 Collections pour tags :
 
+- 15mm IMP ARBITES GI HUMAINS NONDL NONSUP
 - epic infanterie GI Humains-qg GI-LEGACIER NONDL NONSUP
 - epic infanterie GI Humains-tactiques GI-LEGACIER NONDL NONSUP
 
