@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Grotsmasha > Lucius_Pattern_Arcastus [dl]"
+title: "[GRATUIT] Thingiverse > Grotsmasha > Lucius_Pattern_Arcastus [non dl]"
 date: "2021-09-10T02:57:36+00:00"
 toc: true
 image: "thumbs_-_4961648_-_Images_1.avif"
@@ -20,6 +20,17 @@ tags:
 - "IMP Admech-chevaliers"
 - "epic IMP Admech-chevaliers"
 - "chevaliers IMP Admech-chevaliers"
+- "NONDL"
+- "epic NONDL"
+- "chevaliers NONDL"
+- "epic chevaliers NONDL"
+- "IMP NONDL"
+- "epic IMP NONDL"
+- "chevaliers IMP NONDL"
+- "Admech-chevaliers NONDL"
+- "epic Admech-chevaliers NONDL"
+- "chevaliers Admech-chevaliers NONDL"
+- "IMP Admech-chevaliers NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -31,12 +42,15 @@ tags:
 - "epic Admech-chevaliers NONSUP"
 - "chevaliers Admech-chevaliers NONSUP"
 - "IMP Admech-chevaliers NONSUP"
+- "NONDL NONSUP"
+- "epic NONDL NONSUP"
+- "chevaliers NONDL NONSUP"
+- "IMP NONDL NONSUP"
+- "Admech-chevaliers NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4961648_-_Images_1.avif> "thumbs_-_4961648_-_Images_1.avif")
-
-  ![](<thumbs_-_4961648_-_ImagesSTL_1.avif> "thumbs_-_4961648_-_ImagesSTL_1.avif")
 
   
 
@@ -53,7 +67,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-chevaliers  NONSUP
+- epic chevaliers IMP Admech-chevaliers NONDL NONSUP
 
 
 Description :

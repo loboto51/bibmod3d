@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > TinkerbotX > Game_of_Thrones_Giant [non dl]"
 date: "2019-05-03T20:31:54+00:00"
 toc: true
-image: ""
+image: "thumbs_-_3605814_-_Images_1.avif"
 tags:
 - "TinkerbotX"
 - "warmaster"
@@ -50,7 +50,9 @@ tags:
 
 ---
 
+![](<thumbs_-_3605814_-_Images_1.avif> "thumbs_-_3605814_-_Images_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:3605814](https://www.thingiverse.com/thing:3605814)
 

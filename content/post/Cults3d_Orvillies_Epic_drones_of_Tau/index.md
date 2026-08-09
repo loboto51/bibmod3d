@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Orvillies > Epic_drones_of_Tau [non dl]"
+title: "[GRATUIT] Cults3d > Orvillies > Epic_drones_of_Tau [dl]"
 date: "2026-02-27T22:00:18Z"
 toc: true
 image: "thumbs_-_epic-tau-drones_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TAU Drones"
 - "epic TAU Drones"
 - "infanterie TAU Drones"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TAU NONDL"
-- "epic TAU NONDL"
-- "infanterie TAU NONDL"
-- "Drones NONDL"
-- "epic Drones NONDL"
-- "infanterie Drones NONDL"
-- "TAU Drones NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Drones NONSUP"
 - "infanterie Drones NONSUP"
 - "TAU Drones NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "Drones NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-tau-drones_-_Images_1.avif> "thumbs_-_epic-tau-drones_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-tau-drones_-_ImagesSTL_1.avif> "thumbs_-_epic-tau-drones_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TAU Drones NONDL NONSUP
+- epic infanterie TAU Drones  NONSUP
 
 
 Description :

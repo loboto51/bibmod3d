@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > Yasashii > Aurumvorax___Tabletop_Miniature [non dl]"
 date: "2021-09-08T08:16:08+00:00"
 toc: true
-image: ""
+image: "thumbs_-_4960186_-_Images_1.avif"
 tags:
 - "Yasashii"
 - "warmaster"
@@ -34,7 +34,9 @@ tags:
 
 ---
 
+![](<thumbs_-_4960186_-_Images_1.avif> "thumbs_-_4960186_-_Images_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:4960186](https://www.thingiverse.com/thing:4960186)
 

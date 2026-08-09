@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > BenArch > Imperial_halberdiers [non dl]"
 date: "2020-03-10T22:43:13+00:00"
 toc: true
-image: ""
+image: "thumbs_-_4214417_-_Images_1.avif"
 tags:
 - "BenArch"
 - "warmaster"
@@ -34,7 +34,9 @@ tags:
 
 ---
 
+![](<thumbs_-_4214417_-_Images_1.avif> "thumbs_-_4214417_-_Images_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:4214417](https://www.thingiverse.com/thing:4214417)
 

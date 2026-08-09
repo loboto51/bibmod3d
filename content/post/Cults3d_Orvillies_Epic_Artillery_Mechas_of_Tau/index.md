@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Orvillies > Epic_Artillery_Mechas_of_Tau [non dl]"
+title: "[GRATUIT] Cults3d > Orvillies > Epic_Artillery_Mechas_of_Tau [dl]"
 date: "2026-05-09T09:58:05Z"
 toc: true
 image: "thumbs_-_epic-tau-broadside-battlesuits-orvillies_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TAU Armures"
 - "epic TAU Armures"
 - "infanterie TAU Armures"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TAU NONDL"
-- "epic TAU NONDL"
-- "infanterie TAU NONDL"
-- "Armures NONDL"
-- "epic Armures NONDL"
-- "infanterie Armures NONDL"
-- "TAU Armures NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Armures NONSUP"
 - "infanterie Armures NONSUP"
 - "TAU Armures NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "Armures NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-tau-broadside-battlesuits-orvillies_-_Images_1.avif> "thumbs_-_epic-tau-broadside-battlesuits-orvillies_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-tau-broadside-battlesuits-orvillies_-_ImagesSTL_1.avif> "thumbs_-_epic-tau-broadside-battlesuits-orvillies_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TAU Armures NONDL NONSUP
+- epic infanterie TAU Armures  NONSUP
 
 
 Description :

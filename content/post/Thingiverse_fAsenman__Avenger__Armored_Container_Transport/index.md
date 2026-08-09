@@ -3,7 +3,7 @@
 title: "[GRATUIT] Thingiverse > fAsenman > _Avenger__Armored_Container_Transport [non dl]"
 date: "2019-11-28T12:09:23+00:00"
 toc: true
-image: ""
+image: "thumbs_-_4006985_-_Images_1.avif"
 tags:
 - "fAsenman"
 - "epic"
@@ -50,7 +50,9 @@ tags:
 
 ---
 
+![](<thumbs_-_4006985_-_Images_1.avif> "thumbs_-_4006985_-_Images_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:4006985](https://www.thingiverse.com/thing:4006985)
 
