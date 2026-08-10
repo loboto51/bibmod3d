@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Ilhadiel > Medieval_infantry_miniatures__modular__32mm_ [non dl]"
+title: "[GRATUIT] Thingiverse > Ilhadiel > Medieval_infantry_miniatures__modular__32mm_ [dl]"
 date: "2022-06-08T11:21:10+00:00"
 toc: true
 image: "thumbs_-_5405890_-_Images_1.avif"
@@ -20,37 +20,23 @@ tags:
 - "HUMAINS Medievaux"
 - "28mm HUMAINS Medievaux"
 - "ELFES HUMAINS Medievaux"
-- "NONDL"
-- "28mm NONDL"
-- "ELFES NONDL"
-- "28mm ELFES NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "ELFES HUMAINS NONDL"
-- "Medievaux NONDL"
-- "28mm Medievaux NONDL"
-- "ELFES Medievaux NONDL"
-- "HUMAINS Medievaux NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "ELFES NONSUP"
-- "28mm ELFES NONSUP"
-- "HUMAINS NONSUP"
-- "28mm HUMAINS NONSUP"
-- "ELFES HUMAINS NONSUP"
-- "Medievaux NONSUP"
-- "28mm Medievaux NONSUP"
-- "ELFES Medievaux NONSUP"
-- "HUMAINS Medievaux NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "ELFES NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "Medievaux NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "ELFES SUP"
+- "28mm ELFES SUP"
+- "HUMAINS SUP"
+- "28mm HUMAINS SUP"
+- "ELFES HUMAINS SUP"
+- "Medievaux SUP"
+- "28mm Medievaux SUP"
+- "ELFES Medievaux SUP"
+- "HUMAINS Medievaux SUP"
 
 ---
 
 ![](<thumbs_-_5405890_-_Images_1.avif> "thumbs_-_5405890_-_Images_1.avif")
+
+  ![](<thumbs_-_5405890_-_ImagesSTL_1.avif> "thumbs_-_5405890_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ELFES HUMAINS Medievaux NONDL NONSUP
+- 28mm ELFES HUMAINS Medievaux  SUP
 
 
 Description :
@@ -83,6 +69,12 @@ If you like my work, and you would like to support me, and get all my previous d
 
 Feel free to check in my Discord: https://discord.gg/qa6afueK
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Medieval_infantry_miniatures__modular__32mm__-_5405890_-_part_1_of_6_zip_unpack_files_infantry_2_chitubox_.jpg
+ImagesSTL_-_Medieval_infantry_miniatures__modular__32mm__-_5405890_-_part_1_of_6_zip_unpack_files_infantry_chitubox_.jpg
 
 
 

@@ -1,0 +1,46 @@
+
+---
+title: "[GRATUIT] Thingiverse > tilinger > Warmaster_Vampire_Counts_Ethereal_Hosts [dl]"
+date: "2025-10-12T07:54:30+00:00"
+toc: true
+image: "thumbs_-_7168924_-_Images_1.avif"
+tags:
+- "tilinger"
+
+---
+
+![](<thumbs_-_7168924_-_Images_1.avif> "thumbs_-_7168924_-_Images_1.avif")
+
+  ![](<thumbs_-_7168924_-_ImagesSTL_1.avif> "thumbs_-_7168924_-_ImagesSTL_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:7168924](https://www.thingiverse.com/thing:7168924)
+
+Id objet : 7168924
+
+Prix : 0 euros
+
+Collections :
+
+
+
+Collections pour tags :
+
+
+
+Description :
+
+~~~
+Four strips of 10mm undead spirits for Warmaster.
+Yes, that ghost is intentionnaly passing through the gravestone. He is ethereal.
+
+The generated Meshy model:
+https://www.meshy.ai/3d-models/Spectral-Apparition-v2-0199be7e-dfb9-70ea-bde1-68cbeff8c918
+
+I also generated two with MakerWorld, but I can't seem to find any way to link them here.
+~~~
+
+
+
+

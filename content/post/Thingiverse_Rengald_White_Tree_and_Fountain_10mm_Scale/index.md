@@ -1,0 +1,43 @@
+
+---
+title: "[GRATUIT] Thingiverse > Rengald > White_Tree_and_Fountain_10mm_Scale [non dl]"
+date: "2025-02-13T17:43:32+00:00"
+toc: true
+image: "thumbs_-_6948167_-_Images_1.avif"
+tags:
+- "Rengald"
+
+---
+
+![](<thumbs_-_6948167_-_Images_1.avif> "thumbs_-_6948167_-_Images_1.avif")
+
+  
+
+Source : [https://www.thingiverse.com/thing:6948167](https://www.thingiverse.com/thing:6948167)
+
+Id objet : 6948167
+
+Prix : 0 euros
+
+Collections :
+
+
+
+Collections pour tags :
+
+
+
+Description :
+
+~~~
+White Tree of Gondor and Courtyard Fountain of Minas Tirith 10mm Scale
+
+This is a model designed for use with the Lord of the Rings Battle Strategy Game. This model is in 10 mm (epic) scale not the typical 28mm scale.
+This model was designed in conjuncture with my Osgiliath Ruins: https://www.thingiverse.com/thing:6942986
+
+This model has not been test printed yet.
+~~~
+
+
+
+

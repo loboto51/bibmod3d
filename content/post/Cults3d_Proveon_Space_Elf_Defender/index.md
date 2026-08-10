@@ -6,6 +6,31 @@ toc: true
 image: "thumbs_-_space-elf-defender-proveon_-_Images_1.avif"
 tags:
 - "Proveon"
+- "15mm"
+- "ELDARS"
+- "15mm ELDARS"
+- "VM"
+- "15mm VM"
+- "ELDARS VM"
+- "15mm ELDARS VM"
+- "EN"
+- "15mm EN"
+- "ELDARS EN"
+- "15mm ELDARS EN"
+- "VM EN"
+- "15mm VM EN"
+- "ELDARS VM EN"
+- "NONSUP"
+- "15mm NONSUP"
+- "ELDARS NONSUP"
+- "15mm ELDARS NONSUP"
+- "VM NONSUP"
+- "15mm VM NONSUP"
+- "ELDARS VM NONSUP"
+- "EN NONSUP"
+- "15mm EN NONSUP"
+- "ELDARS EN NONSUP"
+- "VM EN NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -48,11 +73,13 @@ Prix : 0 euros
 
 Collections :
 
+- 15mm ELDARS VM EN
 - epic infanterie VM Eldars-tactiques
 
 
 Collections pour tags :
 
+- 15mm ELDARS VM EN  NONSUP
 - epic infanterie VM Eldars-tactiques  NONSUP
 
 
