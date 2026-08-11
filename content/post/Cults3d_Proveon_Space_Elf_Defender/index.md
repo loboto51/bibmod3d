@@ -20,6 +20,17 @@ tags:
 - "VM EN"
 - "15mm VM EN"
 - "ELDARS VM EN"
+- "ARL"
+- "15mm ARL"
+- "ELDARS ARL"
+- "15mm ELDARS ARL"
+- "VM ARL"
+- "15mm VM ARL"
+- "ELDARS VM ARL"
+- "EN ARL"
+- "15mm EN ARL"
+- "ELDARS EN ARL"
+- "VM EN ARL"
 - "NONSUP"
 - "15mm NONSUP"
 - "ELDARS NONSUP"
@@ -31,6 +42,11 @@ tags:
 - "15mm EN NONSUP"
 - "ELDARS EN NONSUP"
 - "VM EN NONSUP"
+- "ARL NONSUP"
+- "15mm ARL NONSUP"
+- "ELDARS ARL NONSUP"
+- "VM ARL NONSUP"
+- "EN ARL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -73,13 +89,13 @@ Prix : 0 euros
 
 Collections :
 
-- 15mm ELDARS VM EN
+- 15mm ELDARS VM EN ARL
 - epic infanterie VM Eldars-tactiques
 
 
 Collections pour tags :
 
-- 15mm ELDARS VM EN  NONSUP
+- 15mm ELDARS VM EN ARL  NONSUP
 - epic infanterie VM Eldars-tactiques  NONSUP
 
 

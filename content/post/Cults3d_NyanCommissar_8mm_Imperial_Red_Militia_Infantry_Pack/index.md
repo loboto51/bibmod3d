@@ -210,14 +210,14 @@ Prix : 0 euros
 
 Collections :
 
-- epic infanterie GI Canons GI-VALHALLA 
+- epic infanterie GI Canons GI-VALHALLA
 - epic infanterie GI Humains-qg GI-VALHALLA
 - epic infanterie GI Humains-tactiques GI-VALHALLA
 
 
 Collections pour tags :
 
-- epic infanterie GI Canons GI-VALHALLA  NONDL NONSUP
+- epic infanterie GI Canons GI-VALHALLA NONDL NONSUP
 - epic infanterie GI Humains-qg GI-VALHALLA NONDL NONSUP
 - epic infanterie GI Humains-tactiques GI-VALHALLA NONDL NONSUP
 

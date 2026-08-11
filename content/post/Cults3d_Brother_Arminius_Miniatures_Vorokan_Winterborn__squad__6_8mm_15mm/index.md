@@ -211,14 +211,14 @@ Prix : 5.0 euros
 Collections :
 
 - 15mm IMP ARBITES GI HUMAINS
-- epic infanterie GI Canons GI-VALHALLA 
+- epic infanterie GI Canons GI-VALHALLA
 - epic infanterie GI Humains-tactiques GI-VALHALLA
 
 
 Collections pour tags :
 
 - 15mm IMP ARBITES GI HUMAINS NONDL NONSUP
-- epic infanterie GI Canons GI-VALHALLA  NONDL NONSUP
+- epic infanterie GI Canons GI-VALHALLA NONDL NONSUP
 - epic infanterie GI Humains-tactiques GI-VALHALLA NONDL NONSUP
 
 

@@ -78,13 +78,13 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm TYRANIDES 
+- 28mm TYRANIDES
 - epic volants TYRANIDES Tyranides-harridans
 
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES NONDL NONSUP
 - epic volants TYRANIDES Tyranides-harridans NONDL NONSUP
 
 

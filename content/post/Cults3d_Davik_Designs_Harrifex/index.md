@@ -35,12 +35,12 @@ Prix : 0 euros
 
 Collections :
 
-- 28mm TYRANIDES 
+- 28mm TYRANIDES
 
 
 Collections pour tags :
 
-- 28mm TYRANIDES  NONDL NONSUP
+- 28mm TYRANIDES NONDL NONSUP
 
 
 Description :
