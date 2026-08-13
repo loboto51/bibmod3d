@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Microcosm89 > Cyborg_Phreaks [non dl]"
+title: "[GRATUIT] Thingiverse > Microcosm89 > Cyborg_Phreaks [dl]"
 date: "2026-08-03T09:36:41+00:00"
 toc: true
 image: "thumbs_-_7391120_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "28mm HUMAINS Technopretres-et-serviteurs"
 - "IMP HUMAINS Technopretres-et-serviteurs"
 - "AM HUMAINS Technopretres-et-serviteurs"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "AM NONDL"
-- "28mm AM NONDL"
-- "IMP AM NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "AM HUMAINS NONDL"
-- "Technopretres-et-serviteurs NONDL"
-- "28mm Technopretres-et-serviteurs NONDL"
-- "IMP Technopretres-et-serviteurs NONDL"
-- "AM Technopretres-et-serviteurs NONDL"
-- "HUMAINS Technopretres-et-serviteurs NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "IMP Technopretres-et-serviteurs NONSUP"
 - "AM Technopretres-et-serviteurs NONSUP"
 - "HUMAINS Technopretres-et-serviteurs NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "AM NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "Technopretres-et-serviteurs NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7391120_-_Images_1.avif> "thumbs_-_7391120_-_Images_1.avif")
+
+  ![](<thumbs_-_7391120_-_ImagesSTL_1.avif> "thumbs_-_7391120_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP AM HUMAINS Technopretres-et-serviteurs NONDL NONSUP
+- 28mm IMP AM HUMAINS Technopretres-et-serviteurs  NONSUP
 
 
 Description :

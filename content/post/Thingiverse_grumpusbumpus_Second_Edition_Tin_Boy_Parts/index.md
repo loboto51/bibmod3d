@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > grumpusbumpus > Second_Edition_Tin_Boy_Parts [non dl]"
+title: "[GRATUIT] Thingiverse > grumpusbumpus > Second_Edition_Tin_Boy_Parts [dl]"
 date: "2020-11-17T18:50:51+00:00"
 toc: true
 image: "thumbs_-_4656842_-_Images_1.avif"
@@ -47,28 +47,6 @@ tags:
 - "chevaliers ORKS Bits"
 - "titans ORKS Bits"
 - "vehicules ORKS Bits"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "titans NONDL"
-- "epic titans NONDL"
-- "chevaliers titans NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "chevaliers vehicules NONDL"
-- "titans vehicules NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "chevaliers ORKS NONDL"
-- "titans ORKS NONDL"
-- "vehicules ORKS NONDL"
-- "Bits NONDL"
-- "epic Bits NONDL"
-- "chevaliers Bits NONDL"
-- "titans Bits NONDL"
-- "vehicules Bits NONDL"
-- "ORKS Bits NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -91,17 +69,12 @@ tags:
 - "titans Bits NONSUP"
 - "vehicules Bits NONSUP"
 - "ORKS Bits NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "titans NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Bits NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4656842_-_Images_1.avif> "thumbs_-_4656842_-_Images_1.avif")
+
+  ![](<thumbs_-_4656842_-_ImagesSTL_1.avif> "thumbs_-_4656842_-_ImagesSTL_1.avif")
 
   
 
@@ -118,7 +91,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers titans vehicules ORKS Bits NONDL NONSUP
+- epic chevaliers titans vehicules ORKS Bits  NONSUP
 
 
 Description :
