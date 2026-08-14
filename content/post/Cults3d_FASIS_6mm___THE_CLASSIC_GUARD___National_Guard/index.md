@@ -375,6 +375,8 @@ tags:
 
   ![](<thumbs_-_6mm-the-classic-guard-national-guard_-_ImagesSTL_1.avif> "thumbs_-_6mm-the-classic-guard-national-guard_-_ImagesSTL_1.avif")
 
+  ![](<thumbs_-_6mm-the-classic-guard-national-guard_-_Makes_1.avif> "thumbs_-_6mm-the-classic-guard-national-guard_-_Makes_1.avif")
+
   
 
 Source : [https://cults3d.com/en/3d-model/game/6mm-the-classic-guard-national-guard](https://cults3d.com/en/3d-model/game/6mm-the-classic-guard-national-guard)
