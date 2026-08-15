@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Carnifex__Reposed_ [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Carnifex__Reposed_ [dl]"
 date: "2026-08-11T17:27:01Z"
 toc: true
 image: "thumbs_-_epic-tyranid-carnifex-reposed_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "epic Biochars-divers Tyranides-carnifex"
 - "marcheurs Biochars-divers Tyranides-carnifex"
 - "TYRANIDES Biochars-divers Tyranides-carnifex"
-- "NONDL"
-- "epic NONDL"
-- "marcheurs NONDL"
-- "epic marcheurs NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "marcheurs TYRANIDES NONDL"
-- "Biochars-divers NONDL"
-- "epic Biochars-divers NONDL"
-- "marcheurs Biochars-divers NONDL"
-- "TYRANIDES Biochars-divers NONDL"
-- "Tyranides-carnifex NONDL"
-- "epic Tyranides-carnifex NONDL"
-- "marcheurs Tyranides-carnifex NONDL"
-- "TYRANIDES Tyranides-carnifex NONDL"
-- "Biochars-divers Tyranides-carnifex NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "marcheurs NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "marcheurs Tyranides-carnifex NONSUP"
 - "TYRANIDES Tyranides-carnifex NONSUP"
 - "Biochars-divers Tyranides-carnifex NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "marcheurs NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Biochars-divers NONDL NONSUP"
-- "Tyranides-carnifex NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-tyranid-carnifex-reposed_-_Images_1.avif> "thumbs_-_epic-tyranid-carnifex-reposed_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-tyranid-carnifex-reposed_-_ImagesSTL_1.avif> "thumbs_-_epic-tyranid-carnifex-reposed_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- epic marcheurs TYRANIDES Biochars-divers Tyranides-carnifex NONDL NONSUP
+- epic marcheurs TYRANIDES Biochars-divers Tyranides-carnifex  NONSUP
 
 
 Description :

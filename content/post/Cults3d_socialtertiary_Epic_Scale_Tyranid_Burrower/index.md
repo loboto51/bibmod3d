@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Burrower [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Burrower [dl]"
 date: "2026-08-12T13:47:28Z"
 toc: true
 image: "thumbs_-_epic-scale-tyranid-burrower_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Tyranides-Rôdeurs"
 - "epic TYRANIDES Tyranides-Rôdeurs"
 - "infanterie TYRANIDES Tyranides-Rôdeurs"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "infanterie TYRANIDES NONDL"
-- "Tyranides-Rôdeurs NONDL"
-- "epic Tyranides-Rôdeurs NONDL"
-- "infanterie Tyranides-Rôdeurs NONDL"
-- "TYRANIDES Tyranides-Rôdeurs NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tyranides-Rôdeurs NONSUP"
 - "infanterie Tyranides-Rôdeurs NONSUP"
 - "TYRANIDES Tyranides-Rôdeurs NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Tyranides-Rôdeurs NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-tyranid-burrower_-_Images_1.avif> "thumbs_-_epic-scale-tyranid-burrower_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-tyranid-burrower_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-tyranid-burrower_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Tyranides-Rôdeurs NONDL NONSUP
+- epic infanterie TYRANIDES Tyranides-Rôdeurs  NONSUP
 
 
 Description :

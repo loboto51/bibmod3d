@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_Iron_Circle [non dl]"
+title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_Iron_Circle [dl]"
 date: "2021-04-13T08:16:20Z"
 toc: true
 image: "thumbs_-_8mm-epic-heresy-iron-circle_-_Images_1.avif"
@@ -69,35 +69,6 @@ tags:
 - "28mm ORKS Robots-vehicules-civils"
 - "AM ORKS Robots-vehicules-civils"
 - "SFDIV ORKS Robots-vehicules-civils"
-- "NONDL"
-- "epic NONDL"
-- "15mm NONDL"
-- "epic 15mm NONDL"
-- "28mm NONDL"
-- "epic 28mm NONDL"
-- "15mm 28mm NONDL"
-- "AM NONDL"
-- "epic AM NONDL"
-- "15mm AM NONDL"
-- "28mm AM NONDL"
-- "SFDIV NONDL"
-- "epic SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "AM SFDIV NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "15mm ORKS NONDL"
-- "28mm ORKS NONDL"
-- "AM ORKS NONDL"
-- "SFDIV ORKS NONDL"
-- "Robots-vehicules-civils NONDL"
-- "epic Robots-vehicules-civils NONDL"
-- "15mm Robots-vehicules-civils NONDL"
-- "28mm Robots-vehicules-civils NONDL"
-- "AM Robots-vehicules-civils NONDL"
-- "SFDIV Robots-vehicules-civils NONDL"
-- "ORKS Robots-vehicules-civils NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "15mm NONSUP"
@@ -127,14 +98,6 @@ tags:
 - "AM Robots-vehicules-civils NONSUP"
 - "SFDIV Robots-vehicules-civils NONSUP"
 - "ORKS Robots-vehicules-civils NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "AM NONDL NONSUP"
-- "SFDIV NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Robots-vehicules-civils NONDL NONSUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -160,22 +123,6 @@ tags:
 - "epic Sm-terminators SMC-IW"
 - "infanterie Sm-terminators SMC-IW"
 - "SMC Sm-terminators SMC-IW"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "infanterie SMC NONDL"
-- "Sm-terminators NONDL"
-- "epic Sm-terminators NONDL"
-- "infanterie Sm-terminators NONDL"
-- "SMC Sm-terminators NONDL"
-- "SMC-IW NONDL"
-- "epic SMC-IW NONDL"
-- "infanterie SMC-IW NONDL"
-- "SMC SMC-IW NONDL"
-- "Sm-terminators SMC-IW NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -192,16 +139,12 @@ tags:
 - "infanterie SMC-IW NONSUP"
 - "SMC SMC-IW NONSUP"
 - "Sm-terminators SMC-IW NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "Sm-terminators NONDL NONSUP"
-- "SMC-IW NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_8mm-epic-heresy-iron-circle_-_Images_1.avif> "thumbs_-_8mm-epic-heresy-iron-circle_-_Images_1.avif")
+
+  ![](<thumbs_-_8mm-epic-heresy-iron-circle_-_ImagesSTL_1.avif> "thumbs_-_8mm-epic-heresy-iron-circle_-_ImagesSTL_1.avif")
 
   
 
@@ -219,8 +162,8 @@ Collections :
 
 Collections pour tags :
 
-- epic 15mm 28mm AM SFDIV ORKS Robots-vehicules-civils NONDL NONSUP
-- epic infanterie SMC Sm-terminators SMC-IW NONDL NONSUP
+- epic 15mm 28mm AM SFDIV ORKS Robots-vehicules-civils  NONSUP
+- epic infanterie SMC Sm-terminators SMC-IW  NONSUP
 
 
 Description :

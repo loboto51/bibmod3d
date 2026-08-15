@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Bats [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Bats [dl]"
 date: "2026-08-12T15:15:48Z"
 toc: true
 image: "thumbs_-_epic-scale-tyranid-bats_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Tyranides-Gargouilles"
 - "epic TYRANIDES Tyranides-Gargouilles"
 - "infanterie TYRANIDES Tyranides-Gargouilles"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "infanterie TYRANIDES NONDL"
-- "Tyranides-Gargouilles NONDL"
-- "epic Tyranides-Gargouilles NONDL"
-- "infanterie Tyranides-Gargouilles NONDL"
-- "TYRANIDES Tyranides-Gargouilles NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tyranides-Gargouilles NONSUP"
 - "infanterie Tyranides-Gargouilles NONSUP"
 - "TYRANIDES Tyranides-Gargouilles NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Tyranides-Gargouilles NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-tyranid-bats_-_Images_1.avif> "thumbs_-_epic-scale-tyranid-bats_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-tyranid-bats_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-tyranid-bats_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Tyranides-Gargouilles NONDL NONSUP
+- epic infanterie TYRANIDES Tyranides-Gargouilles  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Hierophant__Reposed___Fixed_ [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Hierophant__Reposed___Fixed_ [dl]"
 date: "2026-08-12T13:20:58Z"
 toc: true
 image: "thumbs_-_epic-tyranid-hierophant-reposed_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Tyranides-hierophants"
 - "epic TYRANIDES Tyranides-hierophants"
 - "titans TYRANIDES Tyranides-hierophants"
-- "NONDL"
-- "epic NONDL"
-- "titans NONDL"
-- "epic titans NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "titans TYRANIDES NONDL"
-- "Tyranides-hierophants NONDL"
-- "epic Tyranides-hierophants NONDL"
-- "titans Tyranides-hierophants NONDL"
-- "TYRANIDES Tyranides-hierophants NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tyranides-hierophants NONSUP"
 - "titans Tyranides-hierophants NONSUP"
 - "TYRANIDES Tyranides-hierophants NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "titans NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Tyranides-hierophants NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-tyranid-hierophant-reposed_-_Images_1.avif> "thumbs_-_epic-tyranid-hierophant-reposed_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-tyranid-hierophant-reposed_-_ImagesSTL_1.avif> "thumbs_-_epic-tyranid-hierophant-reposed_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans TYRANIDES Tyranides-hierophants NONDL NONSUP
+- epic titans TYRANIDES Tyranides-hierophants  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_The_Tormentor [non dl]"
+title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_The_Tormentor [dl]"
 date: "2021-04-13T08:20:03Z"
 toc: true
 image: "thumbs_-_8mm-epic-heresy-the-tormentor_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "GI Baneblades-canon-long"
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "superlourds GI NONDL"
-- "Baneblades-canon-long NONDL"
-- "epic Baneblades-canon-long NONDL"
-- "superlourds Baneblades-canon-long NONDL"
-- "GI Baneblades-canon-long NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Baneblades-canon-long NONSUP"
 - "superlourds Baneblades-canon-long NONSUP"
 - "GI Baneblades-canon-long NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "Baneblades-canon-long NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_8mm-epic-heresy-the-tormentor_-_Images_1.avif> "thumbs_-_8mm-epic-heresy-the-tormentor_-_Images_1.avif")
+
+  ![](<thumbs_-_8mm-epic-heresy-the-tormentor_-_ImagesSTL_1.avif> "thumbs_-_8mm-epic-heresy-the-tormentor_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-long NONDL NONSUP
+- epic superlourds GI Baneblades-canon-long  NONSUP
 
 
 Description :

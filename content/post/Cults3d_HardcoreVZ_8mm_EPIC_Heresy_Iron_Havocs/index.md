@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_Iron_Havocs [non dl]"
+title: "[GRATUIT] Cults3d > HardcoreVZ > 8mm_EPIC_Heresy_Iron_Havocs [dl]"
 date: "2021-04-13T08:17:00Z"
 toc: true
 image: "thumbs_-_8mm-epic-heresy-iron-havocs_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "epic Sm-tactiques SMC-IW"
 - "infanterie Sm-tactiques SMC-IW"
 - "SMC Sm-tactiques SMC-IW"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "SMC NONDL"
-- "epic SMC NONDL"
-- "infanterie SMC NONDL"
-- "Sm-tactiques NONDL"
-- "epic Sm-tactiques NONDL"
-- "infanterie Sm-tactiques NONDL"
-- "SMC Sm-tactiques NONDL"
-- "SMC-IW NONDL"
-- "epic SMC-IW NONDL"
-- "infanterie SMC-IW NONDL"
-- "SMC SMC-IW NONDL"
-- "Sm-tactiques SMC-IW NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "infanterie SMC-IW NONSUP"
 - "SMC SMC-IW NONSUP"
 - "Sm-tactiques SMC-IW NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "SMC NONDL NONSUP"
-- "Sm-tactiques NONDL NONSUP"
-- "SMC-IW NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_8mm-epic-heresy-iron-havocs_-_Images_1.avif> "thumbs_-_8mm-epic-heresy-iron-havocs_-_Images_1.avif")
+
+  ![](<thumbs_-_8mm-epic-heresy-iron-havocs_-_ImagesSTL_1.avif> "thumbs_-_8mm-epic-heresy-iron-havocs_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMC Sm-tactiques SMC-IW NONDL NONSUP
+- epic infanterie SMC Sm-tactiques SMC-IW  NONSUP
 
 
 Description :

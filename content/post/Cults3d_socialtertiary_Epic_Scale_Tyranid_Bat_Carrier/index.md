@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Bat_Carrier [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Bat_Carrier [dl]"
 date: "2026-08-12T14:02:53Z"
 toc: true
 image: "thumbs_-_epic-scale-tyranid-bat-carrier_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Tyranides-harridans"
 - "epic TYRANIDES Tyranides-harridans"
 - "volants TYRANIDES Tyranides-harridans"
-- "NONDL"
-- "epic NONDL"
-- "volants NONDL"
-- "epic volants NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "volants TYRANIDES NONDL"
-- "Tyranides-harridans NONDL"
-- "epic Tyranides-harridans NONDL"
-- "volants Tyranides-harridans NONDL"
-- "TYRANIDES Tyranides-harridans NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "volants NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tyranides-harridans NONSUP"
 - "volants Tyranides-harridans NONSUP"
 - "TYRANIDES Tyranides-harridans NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "volants NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Tyranides-harridans NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-tyranid-bat-carrier_-_Images_1.avif> "thumbs_-_epic-scale-tyranid-bat-carrier_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-tyranid-bat-carrier_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-tyranid-bat-carrier_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic volants TYRANIDES Tyranides-harridans NONDL NONSUP
+- epic volants TYRANIDES Tyranides-harridans  NONSUP
 
 
 Description :

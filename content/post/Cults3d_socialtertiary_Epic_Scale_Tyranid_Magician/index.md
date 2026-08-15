@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Magician [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Magician [dl]"
 date: "2026-08-12T13:42:44Z"
 toc: true
 image: "thumbs_-_epic-scale-tyranid-magician_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Tyranides-zoanthropes"
 - "epic TYRANIDES Tyranides-zoanthropes"
 - "infanterie TYRANIDES Tyranides-zoanthropes"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "infanterie TYRANIDES NONDL"
-- "Tyranides-zoanthropes NONDL"
-- "epic Tyranides-zoanthropes NONDL"
-- "infanterie Tyranides-zoanthropes NONDL"
-- "TYRANIDES Tyranides-zoanthropes NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tyranides-zoanthropes NONSUP"
 - "infanterie Tyranides-zoanthropes NONSUP"
 - "TYRANIDES Tyranides-zoanthropes NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Tyranides-zoanthropes NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-tyranid-magician_-_Images_1.avif> "thumbs_-_epic-scale-tyranid-magician_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-tyranid-magician_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-tyranid-magician_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Tyranides-zoanthropes NONDL NONSUP
+- epic infanterie TYRANIDES Tyranides-zoanthropes  NONSUP
 
 
 Description :
