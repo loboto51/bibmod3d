@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > KarnageKing > Gaslands_bikers [dl]"
-date: "2019-05-13T21:47:06+00:00"
+title: "[GRATUIT] Thingiverse > sirslamb > Space_denim_miner [non dl]"
+date: "2020-07-19T19:32:40+00:00"
 toc: true
-image: "thumbs_-_3628552_-_Images_1.avif"
+image: "thumbs_-_4545985_-_Images_1.avif"
 tags:
-- "KarnageKing"
+- "sirslamb"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -31,6 +31,22 @@ tags:
 - "15mm Bits Builders"
 - "28mm Bits Builders"
 - "Motos-diverses-pour-kitbash Bits Builders"
+- "NONDL"
+- "15mm NONDL"
+- "28mm NONDL"
+- "15mm 28mm NONDL"
+- "Motos-diverses-pour-kitbash NONDL"
+- "15mm Motos-diverses-pour-kitbash NONDL"
+- "28mm Motos-diverses-pour-kitbash NONDL"
+- "Bits NONDL"
+- "15mm Bits NONDL"
+- "28mm Bits NONDL"
+- "Motos-diverses-pour-kitbash Bits NONDL"
+- "Builders NONDL"
+- "15mm Builders NONDL"
+- "28mm Builders NONDL"
+- "Motos-diverses-pour-kitbash Builders NONDL"
+- "Bits Builders NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -47,20 +63,22 @@ tags:
 - "28mm Builders NONSUP"
 - "Motos-diverses-pour-kitbash Builders NONSUP"
 - "Bits Builders NONSUP"
+- "NONDL NONSUP"
+- "15mm NONDL NONSUP"
+- "28mm NONDL NONSUP"
+- "Motos-diverses-pour-kitbash NONDL NONSUP"
+- "Bits NONDL NONSUP"
+- "Builders NONDL NONSUP"
 
 ---
 
-![](<thumbs_-_3628552_-_Images_1.avif> "thumbs_-_3628552_-_Images_1.avif")
-
-  ![](<thumbs_-_3628552_-_ImagesSTL_1.avif> "thumbs_-_3628552_-_ImagesSTL_1.avif")
-
-  ![](<thumbs_-_3628552_-_Makes_1.avif> "thumbs_-_3628552_-_Makes_1.avif")
+![](<thumbs_-_4545985_-_Images_1.avif> "thumbs_-_4545985_-_Images_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:3628552](https://www.thingiverse.com/thing:3628552)
+Source : [https://www.thingiverse.com/thing:4545985](https://www.thingiverse.com/thing:4545985)
 
-Id objet : 3628552
+Id objet : 4545985
 
 Prix : 0 euros
 
@@ -71,13 +89,17 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm Motos-diverses-pour-kitbash Bits Builders  NONSUP
+- 15mm 28mm Motos-diverses-pour-kitbash Bits Builders NONDL NONSUP
 
 
 Description :
 
 ~~~
-Assembled some bikers for gaslands using models. These should already be scaled around 15mm-18mm.
+Space miner taking his chopper out for a ride.
+
+Parts should be selectable in most 3d editors.
+
+Hands are from this: https://www.thingiverse.com/thing:4413438
 ~~~
 
 

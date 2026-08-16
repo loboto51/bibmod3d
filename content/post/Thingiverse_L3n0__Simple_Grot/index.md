@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > L3n0 > Red_Grot [non dl]"
-date: "2022-08-17T22:39:26+00:00"
+title: "[GRATUIT] Thingiverse > L3n0 > _Simple_Grot [non dl]"
+date: "2024-09-01T02:37:10+00:00"
 toc: true
-image: "thumbs_-_5461240_-_Images_1.avif"
+image: "thumbs_-_6750546_-_Images_1.avif"
 tags:
 - "L3n0"
 - "28mm"
@@ -72,13 +72,13 @@ tags:
 
 ---
 
-![](<thumbs_-_5461240_-_Images_1.avif> "thumbs_-_5461240_-_Images_1.avif")
+![](<thumbs_-_6750546_-_Images_1.avif> "thumbs_-_6750546_-_Images_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:5461240](https://www.thingiverse.com/thing:5461240)
+Source : [https://www.thingiverse.com/thing:6750546](https://www.thingiverse.com/thing:6750546)
 
-Id objet : 5461240
+Id objet : 6750546
 
 Prix : 0 euros
 
@@ -95,7 +95,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Remix
+Remix copy paste.
 ~~~
 
 
