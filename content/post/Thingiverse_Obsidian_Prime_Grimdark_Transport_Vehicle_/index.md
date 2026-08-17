@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Obsidian_Prime > Grimdark_Transport_Vehicle_ [non dl]"
+title: "[GRATUIT] Thingiverse > Obsidian_Prime > Grimdark_Transport_Vehicle_ [dl]"
 date: "2026-08-01T22:07:53+00:00"
 toc: true
 image: "thumbs_-_7390591_-_Images_1.avif"
@@ -69,35 +69,6 @@ tags:
 - "28mm ORKS Robots-vehicules-civils"
 - "AM ORKS Robots-vehicules-civils"
 - "SFDIV ORKS Robots-vehicules-civils"
-- "NONDL"
-- "epic NONDL"
-- "15mm NONDL"
-- "epic 15mm NONDL"
-- "28mm NONDL"
-- "epic 28mm NONDL"
-- "15mm 28mm NONDL"
-- "AM NONDL"
-- "epic AM NONDL"
-- "15mm AM NONDL"
-- "28mm AM NONDL"
-- "SFDIV NONDL"
-- "epic SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "AM SFDIV NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "15mm ORKS NONDL"
-- "28mm ORKS NONDL"
-- "AM ORKS NONDL"
-- "SFDIV ORKS NONDL"
-- "Robots-vehicules-civils NONDL"
-- "epic Robots-vehicules-civils NONDL"
-- "15mm Robots-vehicules-civils NONDL"
-- "28mm Robots-vehicules-civils NONDL"
-- "AM Robots-vehicules-civils NONDL"
-- "SFDIV Robots-vehicules-civils NONDL"
-- "ORKS Robots-vehicules-civils NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "15mm NONSUP"
@@ -127,18 +98,12 @@ tags:
 - "AM Robots-vehicules-civils NONSUP"
 - "SFDIV Robots-vehicules-civils NONSUP"
 - "ORKS Robots-vehicules-civils NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "AM NONDL NONSUP"
-- "SFDIV NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Robots-vehicules-civils NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7390591_-_Images_1.avif> "thumbs_-_7390591_-_Images_1.avif")
+
+  ![](<thumbs_-_7390591_-_ImagesSTL_1.avif> "thumbs_-_7390591_-_ImagesSTL_1.avif")
 
   
 
@@ -155,7 +120,7 @@ Collections :
 
 Collections pour tags :
 
-- epic 15mm 28mm AM SFDIV ORKS Robots-vehicules-civils NONDL NONSUP
+- epic 15mm 28mm AM SFDIV ORKS Robots-vehicules-civils  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > assaultsloth > Ron_Jawas__armored_boar_heads [non dl]"
+title: "[GRATUIT] Cults3d > assaultsloth > Ron_Jawas__armored_boar_heads [dl]"
 date: "2024-05-27T23:16:43Z"
 toc: true
 image: "thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.avif"
@@ -20,33 +20,17 @@ tags:
 - "ORKS Orks-cavalerie"
 - "epic ORKS Orks-cavalerie"
 - "infanterie ORKS Orks-cavalerie"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "infanterie ORKS NONDL"
-- "Orks-cavalerie NONDL"
-- "epic Orks-cavalerie NONDL"
-- "infanterie Orks-cavalerie NONDL"
-- "ORKS Orks-cavalerie NONDL"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "ORKS NONSUP"
-- "epic ORKS NONSUP"
-- "infanterie ORKS NONSUP"
-- "Orks-cavalerie NONSUP"
-- "epic Orks-cavalerie NONSUP"
-- "infanterie Orks-cavalerie NONSUP"
-- "ORKS Orks-cavalerie NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Orks-cavalerie NONDL NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "ORKS SUP"
+- "epic ORKS SUP"
+- "infanterie ORKS SUP"
+- "Orks-cavalerie SUP"
+- "epic Orks-cavalerie SUP"
+- "infanterie Orks-cavalerie SUP"
+- "ORKS Orks-cavalerie SUP"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -72,48 +56,28 @@ tags:
 - "epic Orks-cavalerie Orks-qg"
 - "infanterie Orks-cavalerie Orks-qg"
 - "ORKS Orks-cavalerie Orks-qg"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "infanterie ORKS NONDL"
-- "Orks-cavalerie NONDL"
-- "epic Orks-cavalerie NONDL"
-- "infanterie Orks-cavalerie NONDL"
-- "ORKS Orks-cavalerie NONDL"
-- "Orks-qg NONDL"
-- "epic Orks-qg NONDL"
-- "infanterie Orks-qg NONDL"
-- "ORKS Orks-qg NONDL"
-- "Orks-cavalerie Orks-qg NONDL"
-- "NONSUP"
-- "epic NONSUP"
-- "infanterie NONSUP"
-- "epic infanterie NONSUP"
-- "ORKS NONSUP"
-- "epic ORKS NONSUP"
-- "infanterie ORKS NONSUP"
-- "Orks-cavalerie NONSUP"
-- "epic Orks-cavalerie NONSUP"
-- "infanterie Orks-cavalerie NONSUP"
-- "ORKS Orks-cavalerie NONSUP"
-- "Orks-qg NONSUP"
-- "epic Orks-qg NONSUP"
-- "infanterie Orks-qg NONSUP"
-- "ORKS Orks-qg NONSUP"
-- "Orks-cavalerie Orks-qg NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Orks-cavalerie NONDL NONSUP"
-- "Orks-qg NONDL NONSUP"
+- "SUP"
+- "epic SUP"
+- "infanterie SUP"
+- "epic infanterie SUP"
+- "ORKS SUP"
+- "epic ORKS SUP"
+- "infanterie ORKS SUP"
+- "Orks-cavalerie SUP"
+- "epic Orks-cavalerie SUP"
+- "infanterie Orks-cavalerie SUP"
+- "ORKS Orks-cavalerie SUP"
+- "Orks-qg SUP"
+- "epic Orks-qg SUP"
+- "infanterie Orks-qg SUP"
+- "ORKS Orks-qg SUP"
+- "Orks-cavalerie Orks-qg SUP"
 
 ---
 
 ![](<thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.avif> "thumbs_-_ron-jawas-armored-boar-heads_-_Images_1.avif")
+
+  ![](<thumbs_-_ron-jawas-armored-boar-heads_-_ImagesSTL_1.avif> "thumbs_-_ron-jawas-armored-boar-heads_-_ImagesSTL_1.avif")
 
   
 
@@ -131,8 +95,8 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie ORKS Orks-cavalerie NONDL NONSUP
-- epic infanterie ORKS Orks-cavalerie Orks-qg NONDL NONSUP
+- epic infanterie ORKS Orks-cavalerie  SUP
+- epic infanterie ORKS Orks-cavalerie Orks-qg  SUP
 
 
 Description :
@@ -144,6 +108,48 @@ The surgery to attach my new heads turned out to be more complicated than I had 
 
 Enjoy!
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_braidwrap_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_braidwrap_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate1_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate1_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate2_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate2_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate3_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate3_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate4_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate4_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate5_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate5_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate6_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate6_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate7_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_plate7_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_ring_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_ring_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_skull1_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_skull1_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_skull2_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_skull2_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft1_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft1_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft2_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft2_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft3_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft3_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft4_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft4_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft5_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_crimehider_tuft5_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead1_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead1_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead2_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead2_unsupported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead3_supported_stl_.jpg
+ImagesSTL_-_ron-jawas-armored-boar-heads20240527-1-sbnbj6_zip_unpack_assaultsloth_ron-jawas-armored-boar-heads_pighead3_unsupported_stl_.jpg
 
 
 

@@ -1,74 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > TDoesEpic > Epic_Ork_Bulkhead_Bitz [non dl]"
-date: "2024-05-08T13:38:12Z"
+title: "[GRATUIT] Cults3d_supprimes > Biohazard_Design_Dudes > Custom_group_of_5_Grot_Tanks___FREE_ [non dl]"
+date: "2025-02-09T03:23:26Z"
 toc: true
-image: "thumbs_-_epic-ork-bulkhead-bitz_-_Images_1.avif"
+image: "thumbs_-_custom-group-of-5-grot-tanks-free_-_Images_1.avif"
 tags:
-- "TDoesEpic"
-- "28mm"
-- "ORKS"
-- "28mm ORKS"
-- "Gretchins"
-- "28mm Gretchins"
-- "ORKS Gretchins"
-- "28mm ORKS Gretchins"
-- "Diggas"
-- "28mm Diggas"
-- "ORKS Diggas"
-- "28mm ORKS Diggas"
-- "Gretchins Diggas"
-- "28mm Gretchins Diggas"
-- "ORKS Gretchins Diggas"
-- "Gorkamorka"
-- "28mm Gorkamorka"
-- "ORKS Gorkamorka"
-- "28mm ORKS Gorkamorka"
-- "Gretchins Gorkamorka"
-- "28mm Gretchins Gorkamorka"
-- "ORKS Gretchins Gorkamorka"
-- "Diggas Gorkamorka"
-- "28mm Diggas Gorkamorka"
-- "ORKS Diggas Gorkamorka"
-- "Gretchins Diggas Gorkamorka"
-- "NONDL"
-- "28mm NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
-- "Gretchins NONDL"
-- "28mm Gretchins NONDL"
-- "ORKS Gretchins NONDL"
-- "Diggas NONDL"
-- "28mm Diggas NONDL"
-- "ORKS Diggas NONDL"
-- "Gretchins Diggas NONDL"
-- "Gorkamorka NONDL"
-- "28mm Gorkamorka NONDL"
-- "ORKS Gorkamorka NONDL"
-- "Gretchins Gorkamorka NONDL"
-- "Diggas Gorkamorka NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "ORKS NONSUP"
-- "28mm ORKS NONSUP"
-- "Gretchins NONSUP"
-- "28mm Gretchins NONSUP"
-- "ORKS Gretchins NONSUP"
-- "Diggas NONSUP"
-- "28mm Diggas NONSUP"
-- "ORKS Diggas NONSUP"
-- "Gretchins Diggas NONSUP"
-- "Gorkamorka NONSUP"
-- "28mm Gorkamorka NONSUP"
-- "ORKS Gorkamorka NONSUP"
-- "Gretchins Gorkamorka NONSUP"
-- "Diggas Gorkamorka NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Gretchins NONDL NONSUP"
-- "Diggas NONDL NONSUP"
-- "Gorkamorka NONDL NONSUP"
+- "Biohazard_Design_Dudes"
 - "epic"
 - "chevaliers"
 - "epic chevaliers"
@@ -164,32 +101,36 @@ tags:
 
 ---
 
-![](<thumbs_-_epic-ork-bulkhead-bitz_-_Images_1.avif> "thumbs_-_epic-ork-bulkhead-bitz_-_Images_1.avif")
+![](<thumbs_-_custom-group-of-5-grot-tanks-free_-_Images_1.avif> "thumbs_-_custom-group-of-5-grot-tanks-free_-_Images_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/epic-ork-bulkhead-bitz](https://cults3d.com/en/3d-model/game/epic-ork-bulkhead-bitz)
+Source : [https://cults3d.com/en/3d-model/game/custom-group-of-5-grot-tanks-free](https://cults3d.com/en/3d-model/game/custom-group-of-5-grot-tanks-free)
 
-Id objet : epic-ork-bulkhead-bitz
+Id objet : custom-group-of-5-grot-tanks-free
 
-Prix : 0 euros
+Prix : 0.0 euros
 
 Collections :
 
-- 28mm ORKS Gretchins Diggas Gorkamorka
 - epic chevaliers titans vehicules ORKS Bits
 
 
 Collections pour tags :
 
-- 28mm ORKS Gretchins Diggas Gorkamorka NONDL NONSUP
 - epic chevaliers titans vehicules ORKS Bits NONDL NONSUP
 
 
 Description :
 
 ~~~
-A quick pile of old designs I did to spruce up 6mm/8mm Ork vehicles and buildings. Feel free to remix and use.
+Made these little guys up from scratch, hope you like them as much as I did creating, printing and painting all of them.
+
+Use these little guys as the ultimate "KiIl Team" .
+
+----------------------------------------------------------------------------------
+
+Putting this up as Open Price, feel free to pay zero for it but know that I'll put any tips to good use on new equipment to make cooler stuff in the future, thanks!
 ~~~
 
 
