@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > jazzmantis > 10mm_Wasteland_townsfolk___male_civvies_ [non dl]"
+title: "[GRATUIT] Thingiverse > jazzmantis > 10mm_Wasteland_townsfolk___male_civvies_ [dl]"
 date: "2020-12-17T23:35:57+00:00"
 toc: true
 image: "thumbs_-_4688840_-_Images_1.avif"
@@ -47,28 +47,6 @@ tags:
 - "28mm Bits Builders"
 - "HUMAINS Bits Builders"
 - "Humains-divers-pour-kitbash Bits Builders"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "HUMAINS NONDL"
-- "15mm HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "Humains-divers-pour-kitbash NONDL"
-- "15mm Humains-divers-pour-kitbash NONDL"
-- "28mm Humains-divers-pour-kitbash NONDL"
-- "HUMAINS Humains-divers-pour-kitbash NONDL"
-- "Bits NONDL"
-- "15mm Bits NONDL"
-- "28mm Bits NONDL"
-- "HUMAINS Bits NONDL"
-- "Humains-divers-pour-kitbash Bits NONDL"
-- "Builders NONDL"
-- "15mm Builders NONDL"
-- "28mm Builders NONDL"
-- "HUMAINS Builders NONDL"
-- "Humains-divers-pour-kitbash Builders NONDL"
-- "Bits Builders NONDL"
 - "NONSUP"
 - "15mm NONSUP"
 - "28mm NONSUP"
@@ -91,17 +69,12 @@ tags:
 - "HUMAINS Builders NONSUP"
 - "Humains-divers-pour-kitbash Builders NONSUP"
 - "Bits Builders NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "Humains-divers-pour-kitbash NONDL NONSUP"
-- "Bits NONDL NONSUP"
-- "Builders NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_4688840_-_Images_1.avif> "thumbs_-_4688840_-_Images_1.avif")
+
+  ![](<thumbs_-_4688840_-_ImagesSTL_1.avif> "thumbs_-_4688840_-_ImagesSTL_1.avif")
 
   
 
@@ -118,7 +91,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders NONDL NONSUP
+- 15mm 28mm HUMAINS Humains-divers-pour-kitbash Bits Builders  NONSUP
 
 
 Description :

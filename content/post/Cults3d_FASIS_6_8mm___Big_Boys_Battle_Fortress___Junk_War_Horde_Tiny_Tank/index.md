@@ -1,6 +1,6 @@
 
 ---
-title: "[PAYANT] Cults3d > FASIS > 6_8mm___Big_Boys_Battle_Fortress___Junk_War_Horde_Tiny_Tank [non dl]"
+title: "[PAYANT] Cults3d > FASIS > 6_8mm___Big_Boys_Battle_Fortress___Junk_War_Horde_Tiny_Tank [dl]"
 date: "2026-01-27T10:51:19Z"
 toc: true
 image: "thumbs_-_6-8mm-big-boys-battle-fortress-junk-war-horde-tiny-tank_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "ORKS Orks-forteresses"
 - "epic ORKS Orks-forteresses"
 - "superlourds ORKS Orks-forteresses"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "superlourds ORKS NONDL"
-- "Orks-forteresses NONDL"
-- "epic Orks-forteresses NONDL"
-- "superlourds Orks-forteresses NONDL"
-- "ORKS Orks-forteresses NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Orks-forteresses NONSUP"
 - "superlourds Orks-forteresses NONSUP"
 - "ORKS Orks-forteresses NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "Orks-forteresses NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_6-8mm-big-boys-battle-fortress-junk-war-horde-tiny-tank_-_Images_1.avif> "thumbs_-_6-8mm-big-boys-battle-fortress-junk-war-horde-tiny-tank_-_Images_1.avif")
+
+  ![](<thumbs_-_6-8mm-big-boys-battle-fortress-junk-war-horde-tiny-tank_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-big-boys-battle-fortress-junk-war-horde-tiny-tank_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds ORKS Orks-forteresses NONDL NONSUP
+- epic superlourds ORKS Orks-forteresses  NONSUP
 
 
 Description :
