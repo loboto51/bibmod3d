@@ -1,6 +1,6 @@
 
 ---
-title: "[PAYANT] Cults3d > FASIS > 6_8mm___Small_Dudes_Tank_Destroyers___National_Guard [non dl]"
+title: "[PAYANT] Cults3d > FASIS > 6_8mm___Small_Dudes_Tank_Destroyers___National_Guard [dl]"
 date: "2026-03-24T11:45:02Z"
 toc: true
 image: "thumbs_-_6-8mm-small-dudes-tank-destroyers-national-guard_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "GI Baneblades-canon-court-arrière"
 - "epic GI Baneblades-canon-court-arrière"
 - "superlourds GI Baneblades-canon-court-arrière"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "superlourds GI NONDL"
-- "Baneblades-canon-court-arrière NONDL"
-- "epic Baneblades-canon-court-arrière NONDL"
-- "superlourds Baneblades-canon-court-arrière NONDL"
-- "GI Baneblades-canon-court-arrière NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -42,11 +31,6 @@ tags:
 - "epic Baneblades-canon-court-arrière NONSUP"
 - "superlourds Baneblades-canon-court-arrière NONSUP"
 - "GI Baneblades-canon-court-arrière NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "Baneblades-canon-court-arrière NONDL NONSUP"
 - "epic"
 - "superlourds"
 - "epic superlourds"
@@ -61,17 +45,6 @@ tags:
 - "GI Baneblades-canon-long"
 - "epic GI Baneblades-canon-long"
 - "superlourds GI Baneblades-canon-long"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "superlourds GI NONDL"
-- "Baneblades-canon-long NONDL"
-- "epic Baneblades-canon-long NONDL"
-- "superlourds Baneblades-canon-long NONDL"
-- "GI Baneblades-canon-long NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -83,15 +56,12 @@ tags:
 - "epic Baneblades-canon-long NONSUP"
 - "superlourds Baneblades-canon-long NONSUP"
 - "GI Baneblades-canon-long NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "Baneblades-canon-long NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_6-8mm-small-dudes-tank-destroyers-national-guard_-_Images_1.avif> "thumbs_-_6-8mm-small-dudes-tank-destroyers-national-guard_-_Images_1.avif")
+
+  ![](<thumbs_-_6-8mm-small-dudes-tank-destroyers-national-guard_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-small-dudes-tank-destroyers-national-guard_-_ImagesSTL_1.avif")
 
   
 
@@ -109,8 +79,8 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades-canon-court-arrière NONDL NONSUP
-- epic superlourds GI Baneblades-canon-long NONDL NONSUP
+- epic superlourds GI Baneblades-canon-court-arrière  NONSUP
+- epic superlourds GI Baneblades-canon-long  NONSUP
 
 
 Description :
