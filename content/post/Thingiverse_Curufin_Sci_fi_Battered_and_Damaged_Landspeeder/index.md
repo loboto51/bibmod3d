@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Malleus011 > Banzai_Remote_Mk11_Hexfoot [non dl]"
-date: "2021-05-17T20:59:14+00:00"
+title: "[GRATUIT] Thingiverse > Curufin > Sci_fi_Battered_and_Damaged_Landspeeder [non dl]"
+date: "2018-09-14T14:11:08+00:00"
 toc: true
-image: "thumbs_-_4861876_-_Images_1.avif"
+image: "thumbs_-_3100037_-_Images_1.avif"
 tags:
-- "Malleus011"
+- "Curufin"
 - "epic"
 - "15mm"
 - "epic 15mm"
@@ -138,13 +138,15 @@ tags:
 
 ---
 
-![](<thumbs_-_4861876_-_Images_1.avif> "thumbs_-_4861876_-_Images_1.avif")
+![](<thumbs_-_3100037_-_Images_1.avif> "thumbs_-_3100037_-_Images_1.avif")
+
+  ![](<thumbs_-_3100037_-_Makes_1.avif> "thumbs_-_3100037_-_Makes_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:4861876](https://www.thingiverse.com/thing:4861876)
+Source : [https://www.thingiverse.com/thing:3100037](https://www.thingiverse.com/thing:3100037)
 
-Id objet : 4861876
+Id objet : 3100037
 
 Prix : 0 euros
 
@@ -161,7 +163,13 @@ Collections pour tags :
 Description :
 
 ~~~
-The Mk 11 Hexfoot is available in a bewildering variety of models, functions, and chassis!  Three legs!  Four legs!  Hexfoots that grab, pinch, and squeeze!  Ones with huge cannons!  There's a Hexfoot for every user.
+Here are Battered and Damaged versions of the RGC-16 Landspeeder for your sci-fi tabletop wargames and RPGs. It is roughly scaled for 28mm minis, but you can scale it up to 112% for Legion tables.
+
+I cut a small strip of clear plastic from a blister package to create the windshield.
+
+I designed this from the ground up by looking at the pictures and then I filled in the blanks with my own ideas. The original IP is controlled by Lucasfilm/Disney and they reserve the right to take it down or use the files however they see fit. This model and file set cannot be sold anywhere.
+
+Enjoy!
 ~~~
 
 

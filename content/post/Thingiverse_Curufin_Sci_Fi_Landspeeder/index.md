@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Malleus011 > BHI_Cuttermech_Industrial_Mech [non dl]"
-date: "2024-04-21T22:46:48+00:00"
+title: "[GRATUIT] Thingiverse > Curufin > Sci_Fi_Landspeeder [non dl]"
+date: "2018-08-29T21:27:34+00:00"
 toc: true
-image: "thumbs_-_6589602_-_Images_1.avif"
+image: "thumbs_-_3074336_-_Images_1.avif"
 tags:
-- "Malleus011"
+- "Curufin"
 - "epic"
 - "15mm"
 - "epic 15mm"
@@ -138,13 +138,15 @@ tags:
 
 ---
 
-![](<thumbs_-_6589602_-_Images_1.avif> "thumbs_-_6589602_-_Images_1.avif")
+![](<thumbs_-_3074336_-_Images_1.avif> "thumbs_-_3074336_-_Images_1.avif")
+
+  ![](<thumbs_-_3074336_-_Makes_1.avif> "thumbs_-_3074336_-_Makes_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:6589602](https://www.thingiverse.com/thing:6589602)
+Source : [https://www.thingiverse.com/thing:3074336](https://www.thingiverse.com/thing:3074336)
 
-Id objet : 6589602
+Id objet : 3074336
 
 Prix : 0 euros
 
@@ -161,9 +163,14 @@ Collections pour tags :
 Description :
 
 ~~~
-Built from the ubiquitous BHI 'Workermech' chassis, the  Cuttermech is a simple industrial mech for your complex industrial needs.  Modeled in 6mm scale.  The Cuttermech is modeled in walking, working, and shutdown poses.
+Here is a RGC-16 Landspeeder for you sci-fi tabletop games.  It is roughly scaled for 28mm minis, but you can scale it up to 112% for Legion tables.
 
-Also rendered out the individual bits and attachments - with some work you could print your own poses or assemble a variant BHI industrial mech!
+I cut a small strip of clear plastic from a blister package to create the windshield.  
+
+I designed this from the ground up by looking at the pictures and then I filled in the blanks with my own ideas. The original IP is controlled by Lucasfilm/Disney and they reserve the right to take it down or use the files however they see fit. This model and file set cannot be sold anywhere.
+
+Enjoy!
+
 ~~~
 
 

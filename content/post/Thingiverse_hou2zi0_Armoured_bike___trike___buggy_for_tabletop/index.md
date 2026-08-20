@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Malleus011 > Banzai_Remote_Mk15_Panzerknacker [non dl]"
-date: "2021-05-17T21:08:15+00:00"
+title: "[GRATUIT] Thingiverse > hou2zi0 > Armoured_bike___trike___buggy_for_tabletop [non dl]"
+date: "2020-10-28T21:47:49+00:00"
 toc: true
-image: "thumbs_-_4861885_-_Images_1.avif"
+image: "thumbs_-_4637006_-_Images_1.avif"
 tags:
-- "Malleus011"
+- "hou2zi0"
 - "epic"
 - "15mm"
 - "epic 15mm"
@@ -138,13 +138,15 @@ tags:
 
 ---
 
-![](<thumbs_-_4861885_-_Images_1.avif> "thumbs_-_4861885_-_Images_1.avif")
+![](<thumbs_-_4637006_-_Images_1.avif> "thumbs_-_4637006_-_Images_1.avif")
+
+  ![](<thumbs_-_4637006_-_Makes_1.avif> "thumbs_-_4637006_-_Makes_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:4861885](https://www.thingiverse.com/thing:4861885)
+Source : [https://www.thingiverse.com/thing:4637006](https://www.thingiverse.com/thing:4637006)
 
-Id objet : 4861885
+Id objet : 4637006
 
 Prix : 0 euros
 
@@ -161,9 +163,11 @@ Collections pour tags :
 Description :
 
 ~~~
-Who needs big when you've got boom!  The Panzerknacker does just that - it knackers panzers!  Get yours today.  
+Tried to create a armoured bike / trike / buggy for gaslands to get more Blender experience. 
+I reused  ecureuilx's wheels cause I wasnt't able to make them myself. 
+Layed on its back, as seen in the screenshot, the bike should print fine. It's is however a work in progress. 
 
-Modeled in 28/32mm scale, but don't let me tell you what to do.
+Added an improved version of the bike with exhaust slits at the back and a gatling gun turret.
 ~~~
 
 
