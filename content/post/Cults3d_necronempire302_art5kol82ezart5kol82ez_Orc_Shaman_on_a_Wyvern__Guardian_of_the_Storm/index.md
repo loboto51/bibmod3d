@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > necronempire302_art5kol82ezart5kol82ez > Orc_Shaman_on_a_Wyvern__Guardian_of_the_Storm [non dl]"
+title: "[GRATUIT] Cults3d > necronempire302_art5kol82ezart5kol82ez > Orc_Shaman_on_a_Wyvern__Guardian_of_the_Storm [dl]"
 date: "2026-08-18T05:23:46Z"
 toc: true
 image: "thumbs_-_orc-schamane-auf-wyvern-hueter-des-sturms_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "28mm GOBELINS Gretchins"
 - "ORCS GOBELINS Gretchins"
 - "ORKS GOBELINS Gretchins"
-- "NONDL"
-- "28mm NONDL"
-- "ORCS NONDL"
-- "28mm ORCS NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
-- "ORCS ORKS NONDL"
-- "GOBELINS NONDL"
-- "28mm GOBELINS NONDL"
-- "ORCS GOBELINS NONDL"
-- "ORKS GOBELINS NONDL"
-- "Gretchins NONDL"
-- "28mm Gretchins NONDL"
-- "ORCS Gretchins NONDL"
-- "ORKS Gretchins NONDL"
-- "GOBELINS Gretchins NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "ORCS NONSUP"
@@ -63,16 +47,12 @@ tags:
 - "ORCS Gretchins NONSUP"
 - "ORKS Gretchins NONSUP"
 - "GOBELINS Gretchins NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "ORCS NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "GOBELINS NONDL NONSUP"
-- "Gretchins NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_orc-schamane-auf-wyvern-hueter-des-sturms_-_Images_1.avif> "thumbs_-_orc-schamane-auf-wyvern-hueter-des-sturms_-_Images_1.avif")
+
+  ![](<thumbs_-_orc-schamane-auf-wyvern-hueter-des-sturms_-_ImagesSTL_1.avif> "thumbs_-_orc-schamane-auf-wyvern-hueter-des-sturms_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ORCS ORKS GOBELINS Gretchins NONDL NONSUP
+- 28mm ORCS ORKS GOBELINS Gretchins  NONSUP
 
 
 Description :

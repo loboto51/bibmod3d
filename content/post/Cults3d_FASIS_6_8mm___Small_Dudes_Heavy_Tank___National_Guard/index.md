@@ -1,6 +1,6 @@
 
 ---
-title: "[PAYANT] Cults3d > FASIS > 6_8mm___Small_Dudes_Heavy_Tank___National_Guard [non dl]"
+title: "[PAYANT] Cults3d > FASIS > 6_8mm___Small_Dudes_Heavy_Tank___National_Guard [dl]"
 date: "2026-03-24T11:40:03Z"
 toc: true
 image: "thumbs_-_6-8mm-small-dudes-heavy-tank-national-guard_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "GI Baneblades"
 - "epic GI Baneblades"
 - "superlourds GI Baneblades"
-- "NONDL"
-- "epic NONDL"
-- "superlourds NONDL"
-- "epic superlourds NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "superlourds GI NONDL"
-- "Baneblades NONDL"
-- "epic Baneblades NONDL"
-- "superlourds Baneblades NONDL"
-- "GI Baneblades NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "superlourds NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Baneblades NONSUP"
 - "superlourds Baneblades NONSUP"
 - "GI Baneblades NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "superlourds NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "Baneblades NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_6-8mm-small-dudes-heavy-tank-national-guard_-_Images_1.avif> "thumbs_-_6-8mm-small-dudes-heavy-tank-national-guard_-_Images_1.avif")
+
+  ![](<thumbs_-_6-8mm-small-dudes-heavy-tank-national-guard_-_ImagesSTL_1.avif> "thumbs_-_6-8mm-small-dudes-heavy-tank-national-guard_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic superlourds GI Baneblades NONDL NONSUP
+- epic superlourds GI Baneblades  NONSUP
 
 
 Description :
