@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Microcosm89 > Tyrant_Guards [non dl]"
-date: "2025-07-20T20:34:22+00:00"
+title: "[GRATUIT] Thingiverse_supprimes > Microcosm89 > Mawloc_Trygon [non dl]"
+date: "2025-07-20T20:36:07+00:00"
 toc: true
-image: "thumbs_-_7078746_-_Images_1.avif"
+image: "thumbs_-_7077518_-_Images_1.avif"
 tags:
 - "Microcosm89"
 - "epic"
@@ -184,13 +184,13 @@ tags:
 
 ---
 
-![](<thumbs_-_7078746_-_Images_1.avif> "thumbs_-_7078746_-_Images_1.avif")
+![](<thumbs_-_7077518_-_Images_1.avif> "thumbs_-_7077518_-_Images_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:7078746](https://www.thingiverse.com/thing:7078746)
+Source : [https://www.thingiverse.com/thing:7077518](https://www.thingiverse.com/thing:7077518)
 
-Id objet : 7078746
+Id objet : 7077518
 
 Prix : 0 euros
 
@@ -207,7 +207,7 @@ Collections pour tags :
 Description :
 
 ~~~
-tyrant guards
+Mawloc/Trygon.
 ~~~
 
 

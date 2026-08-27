@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d > j4roid > Space_flying_snek_bug [non dl]"
-date: "2021-05-30T14:10:00Z"
+title: "[GRATUIT] Thingiverse_supprimes > Microcosm89 > Tyrant_Guards [non dl]"
+date: "2025-07-20T20:34:22+00:00"
 toc: true
-image: "thumbs_-_space-flying-snek-bug_-_Images_1.avif"
+image: "thumbs_-_7078746_-_Images_1.avif"
 tags:
-- "j4roid"
+- "Microcosm89"
 - "epic"
 - "infanterie"
 - "epic infanterie"
@@ -184,13 +184,13 @@ tags:
 
 ---
 
-![](<thumbs_-_space-flying-snek-bug_-_Images_1.avif> "thumbs_-_space-flying-snek-bug_-_Images_1.avif")
+![](<thumbs_-_7078746_-_Images_1.avif> "thumbs_-_7078746_-_Images_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/game/space-flying-snek-bug](https://cults3d.com/en/3d-model/game/space-flying-snek-bug)
+Source : [https://www.thingiverse.com/thing:7078746](https://www.thingiverse.com/thing:7078746)
 
-Id objet : space-flying-snek-bug
+Id objet : 7078746
 
 Prix : 0 euros
 
@@ -207,14 +207,7 @@ Collections pour tags :
 Description :
 
 ~~~
-My attempt on harridian model. 
-I used this model for a base https://cults3d.com/en/3d-model/art/harrifex and made it to match current forge world models. 
-
-Model is optimised for 3d prints, wings might be hard to print so dont forget about the supports. 
-
-If the model is to big for your printer just scale it down in cura, lorewise harridian come in all different sizes.
-
-tip. 1: the support part of the base is separated so you can print it with transparent filament
+tyrant guards
 ~~~
 
 
