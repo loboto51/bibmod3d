@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Wib > Retro_Deathdroid [non dl]"
+title: "[GRATUIT] Cults3d > Wib > Retro_Deathdroid [dl]"
 date: "2026-08-23T17:38:37Z"
 toc: true
 image: "thumbs_-_retro-deathdroid_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "Warzone"
 - "28mm Warzone"
-- "NONDL"
-- "28mm NONDL"
-- "Warzone NONDL"
-- "28mm Warzone NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "Warzone NONSUP"
 - "28mm Warzone NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "Warzone NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_retro-deathdroid_-_Images_1.avif> "thumbs_-_retro-deathdroid_-_Images_1.avif")
+
+  ![](<thumbs_-_retro-deathdroid_-_ImagesSTL_1.avif> "thumbs_-_retro-deathdroid_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm Warzone NONDL NONSUP
+- 28mm Warzone  NONSUP
 
 
 Description :

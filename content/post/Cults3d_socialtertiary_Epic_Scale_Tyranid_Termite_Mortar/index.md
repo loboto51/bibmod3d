@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Termite_Mortar [non dl]"
+title: "[GRATUIT] Cults3d > socialtertiary > Epic_Scale_Tyranid_Termite_Mortar [dl]"
 date: "2026-08-25T22:57:16Z"
 toc: true
 image: "thumbs_-_epic-scale-tyranid-termite-mortar_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TYRANIDES Artillerie-legere-Biovores-etc"
 - "epic TYRANIDES Artillerie-legere-Biovores-etc"
 - "infanterie TYRANIDES Artillerie-legere-Biovores-etc"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "TYRANIDES NONDL"
-- "epic TYRANIDES NONDL"
-- "infanterie TYRANIDES NONDL"
-- "Artillerie-legere-Biovores-etc NONDL"
-- "epic Artillerie-legere-Biovores-etc NONDL"
-- "infanterie Artillerie-legere-Biovores-etc NONDL"
-- "TYRANIDES Artillerie-legere-Biovores-etc NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Artillerie-legere-Biovores-etc NONSUP"
 - "infanterie Artillerie-legere-Biovores-etc NONSUP"
 - "TYRANIDES Artillerie-legere-Biovores-etc NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
-- "Artillerie-legere-Biovores-etc NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-scale-tyranid-termite-mortar_-_Images_1.avif> "thumbs_-_epic-scale-tyranid-termite-mortar_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-scale-tyranid-termite-mortar_-_ImagesSTL_1.avif> "thumbs_-_epic-scale-tyranid-termite-mortar_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie TYRANIDES Artillerie-legere-Biovores-etc NONDL NONSUP
+- epic infanterie TYRANIDES Artillerie-legere-Biovores-etc  NONSUP
 
 
 Description :
