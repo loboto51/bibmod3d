@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > Curufin > 28mm_Treaded_Droid [non dl]"
-date: "2019-01-21T14:38:09+00:00"
+title: "[GRATUIT] Thingiverse_supprimes > Curufin > Sci_fi_Cargo_Sled [non dl]"
+date: "2017-07-09T14:01:48+00:00"
 toc: true
-image: "thumbs_-_3371352_-_Images_1.avif"
+image: "thumbs_-_2426239_-_Images_1.avif"
 tags:
 - "Curufin"
 - "epic"
@@ -138,15 +138,15 @@ tags:
 
 ---
 
-![](<thumbs_-_3371352_-_Images_1.avif> "thumbs_-_3371352_-_Images_1.avif")
+![](<thumbs_-_2426239_-_Images_1.avif> "thumbs_-_2426239_-_Images_1.avif")
 
-  ![](<thumbs_-_3371352_-_Makes_1.avif> "thumbs_-_3371352_-_Makes_1.avif")
+  ![](<thumbs_-_2426239_-_Makes_1.avif> "thumbs_-_2426239_-_Makes_1.avif")
 
   
 
-Source : [https://www.thingiverse.com/thing:3371352](https://www.thingiverse.com/thing:3371352)
+Source : [https://www.thingiverse.com/thing:2426239](https://www.thingiverse.com/thing:2426239)
 
-Id objet : 3371352
+Id objet : 2426239
 
 Prix : 0 euros
 
@@ -163,9 +163,9 @@ Collections pour tags :
 Description :
 
 ~~~
-Here are two 28mm Treaded Droids for use with your Tabletop games.  
+The Cargo Sled is hopefully just my first model for use with Sci-fi tabletop games.  It is fully scaleable to make whatever size Cargo Sled you want.  
 
-I designed this from the ground up by looking at the pictures and then I filled in the blanks with my own ideas. The original IP is controlled by Lucasfilm/Disney and they reserve the right to take it down or use the files however they see fit. This model and file set cannot be sold anywhere.
+I used a little bit of paper clip wire to create the handle bars.
 
 Enjoy!
 ~~~
