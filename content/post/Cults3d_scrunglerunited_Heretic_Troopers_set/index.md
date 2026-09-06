@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > scrunglerunited > Heretic_Troopers_set [non dl]"
+title: "[GRATUIT] Cults3d > scrunglerunited > Heretic_Troopers_set [dl]"
 date: "2026-07-13T04:18:11Z"
 toc: true
 image: "thumbs_-_heretic-troopers-set_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "autres-echelles"
 - "Figurines-et-statuettes"
 - "autres-echelles Figurines-et-statuettes"
-- "NONDL"
-- "autres-echelles NONDL"
-- "Figurines-et-statuettes NONDL"
-- "autres-echelles Figurines-et-statuettes NONDL"
 - "NONSUP"
 - "autres-echelles NONSUP"
 - "Figurines-et-statuettes NONSUP"
 - "autres-echelles Figurines-et-statuettes NONSUP"
-- "NONDL NONSUP"
-- "autres-echelles NONDL NONSUP"
-- "Figurines-et-statuettes NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_heretic-troopers-set_-_Images_1.avif> "thumbs_-_heretic-troopers-set_-_Images_1.avif")
+
+  ![](<thumbs_-_heretic-troopers-set_-_ImagesSTL_1.avif> "thumbs_-_heretic-troopers-set_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- autres-echelles Figurines-et-statuettes NONDL NONSUP
+- autres-echelles Figurines-et-statuettes  NONSUP
 
 
 Description :
