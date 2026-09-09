@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > CRAFT4PLAY > BRUTAL_SAVAGE_LORD___Epic_8mm_Scale [non dl]"
+title: "[GRATUIT] Cults3d > CRAFT4PLAY > BRUTAL_SAVAGE_LORD___Epic_8mm_Scale [dl]"
 date: "2026-09-06T12:40:11Z"
 toc: true
 image: "thumbs_-_brutal-savage-lord-epic-8mm-scale_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "ORKS Orks-qg"
 - "epic ORKS Orks-qg"
 - "infanterie ORKS Orks-qg"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "ORKS NONDL"
-- "epic ORKS NONDL"
-- "infanterie ORKS NONDL"
-- "Orks-qg NONDL"
-- "epic Orks-qg NONDL"
-- "infanterie Orks-qg NONDL"
-- "ORKS Orks-qg NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Orks-qg SUP"
 - "infanterie Orks-qg SUP"
 - "ORKS Orks-qg SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "ORKS NONDL SUP"
-- "Orks-qg NONDL SUP"
 
 ---
 
 ![](<thumbs_-_brutal-savage-lord-epic-8mm-scale_-_Images_1.avif> "thumbs_-_brutal-savage-lord-epic-8mm-scale_-_Images_1.avif")
+
+  ![](<thumbs_-_brutal-savage-lord-epic-8mm-scale_-_ImagesSTL_1.avif> "thumbs_-_brutal-savage-lord-epic-8mm-scale_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie ORKS Orks-qg NONDL SUP
+- epic infanterie ORKS Orks-qg  SUP
 
 
 Description :
@@ -90,7 +76,11 @@ includes:
 Justification du tag SUP :
 
 The files are 8mm scale and pre-supported.
-
+ImagesSTL_-_BRUTAL_SAVAGE_LORD_zip_unpack_BRUTAL_SAVAGE_LORD_SUP_BANNER_BEARERS_BLANK_SUP_stl_.jpg
+ImagesSTL_-_BRUTAL_SAVAGE_LORD_zip_unpack_BRUTAL_SAVAGE_LORD_SUP_BODYGUARD_SUP_stl_.jpg
+ImagesSTL_-_BRUTAL_SAVAGE_LORD_zip_unpack_BRUTAL_SAVAGE_LORD_SUP_RECTANGULAR_BASE_stl_.jpg
+ImagesSTL_-_BRUTAL_SAVAGE_LORD_zip_unpack_BRUTAL_SAVAGE_LORD_SUP_ROUND_BASE_stl_.jpg
+ImagesSTL_-_BRUTAL_SAVAGE_LORD_zip_unpack_BRUTAL_SAVAGE_LORD_SUP_SAVAGE_LORD_SUP_stl_.jpg
 
 
 
