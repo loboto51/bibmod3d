@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > VarisculptStudio > Wyrdboy_s_Lightning_Rod_Squig__25mm_Base____40k_Ork_Psychic_Grounding_Squig [non dl]"
+title: "[GRATUIT] Cults3d_supprimes > VarisculptStudio > Wyrdboy_s_Lightning_Rod_Squig__25mm_Base____40k_Ork_Psychic_Grounding_Squig [non dl]"
 date: "2026-08-25T15:29:04Z"
 toc: true
 image: "thumbs_-_wyrdboy-s-lightning-rod-squig-25mm-base-40k-ork-psychic-grounding-squig_-_Images_1.avif"
