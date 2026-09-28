@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > speacock > galactic_crusaders_Boarding_Armour_Troops_remastered_Volkite_Culverin_ [non dl]"
+title: "[GRATUIT] Cults3d > speacock > galactic_crusaders_Boarding_Armour_Troops_remastered_Volkite_Culverin_ [dl]"
 date: "2024-01-02T05:09:36Z"
 toc: true
 image: "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "SM30K Sm-tactiques"
 - "epic SM30K Sm-tactiques"
 - "infanterie SM30K Sm-tactiques"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "SM30K NONDL"
-- "epic SM30K NONDL"
-- "infanterie SM30K NONDL"
-- "Sm-tactiques NONDL"
-- "epic Sm-tactiques NONDL"
-- "infanterie Sm-tactiques NONDL"
-- "SM30K Sm-tactiques NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "infanterie NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Sm-tactiques NONSUP"
 - "infanterie Sm-tactiques NONSUP"
 - "SM30K Sm-tactiques NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "infanterie NONDL NONSUP"
-- "SM30K NONDL NONSUP"
-- "Sm-tactiques NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_Images_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_Images_1.avif")
+
+  ![](<thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_ImagesSTL_1.avif> "thumbs_-_galactic-crusaders-boarding-armour-troops-remastered-volkite-culverin_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SM30K Sm-tactiques NONDL NONSUP
+- epic infanterie SM30K Sm-tactiques  NONSUP
 
 
 Description :

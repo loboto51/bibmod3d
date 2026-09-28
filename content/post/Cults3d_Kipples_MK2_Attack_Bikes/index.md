@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Kipples > MK2_Attack_Bikes [non dl]"
+title: "[GRATUIT] Cults3d > Kipples > MK2_Attack_Bikes [dl]"
 date: "2024-07-31T13:58:28Z"
 toc: true
 image: "thumbs_-_mk2-attack-bikes_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "SMI Sm-motos"
 - "epic SMI Sm-motos"
 - "infanterie SMI Sm-motos"
-- "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "SMI NONDL"
-- "epic SMI NONDL"
-- "infanterie SMI NONDL"
-- "Sm-motos NONDL"
-- "epic Sm-motos NONDL"
-- "infanterie Sm-motos NONDL"
-- "SMI Sm-motos NONDL"
 - "SUP"
 - "epic SUP"
 - "infanterie SUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Sm-motos SUP"
 - "infanterie Sm-motos SUP"
 - "SMI Sm-motos SUP"
-- "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "SMI NONDL SUP"
-- "Sm-motos NONDL SUP"
 
 ---
 
 ![](<thumbs_-_mk2-attack-bikes_-_Images_1.avif> "thumbs_-_mk2-attack-bikes_-_Images_1.avif")
+
+  ![](<thumbs_-_mk2-attack-bikes_-_ImagesSTL_1.avif> "thumbs_-_mk2-attack-bikes_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic infanterie SMI Sm-motos NONDL SUP
+- epic infanterie SMI Sm-motos  SUP
 
 
 Description :
@@ -94,7 +80,14 @@ https://cults3d.com/en/3d-model/art/galactic-crusaders-bike-6-8mm
 Justification du tag SUP :
 
 As with the other bikes, just some basic MK2 jobbies made using JimmyZimms excellent Blender Builder. I've included the stl files, the supported stl files and also the supported lychee files to help with re-scaling. They've printed fine for me but let me know if you have any problems, obviously. 
-
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack___MACOSX___SUPP_bike_attack_mk2_autocannon_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack___MACOSX___SUPP_bike_attack_mk2_hvy-bolter_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack___MACOSX___SUPP_bike_attack_mk2_hvy-flamer_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack___MACOSX___SUPP_bike_attack_mk2_multimelta_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack_SUPP_bike_attack_mk2_autocannon_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack_SUPP_bike_attack_mk2_hvy-bolter_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack_SUPP_bike_attack_mk2_hvy-flamer_bolters_lys_.jpg
+ImagesSTL_-_kipples_bike_attack_mk2_files_zip_unpack_SUPP_bike_attack_mk2_lychee_zip_unpack_SUPP_bike_attack_mk2_multimelta_bolters_lys_.jpg
 
 
 

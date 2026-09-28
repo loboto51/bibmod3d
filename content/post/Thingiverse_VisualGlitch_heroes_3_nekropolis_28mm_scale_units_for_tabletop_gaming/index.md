@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Thingiverse > VisualGlitch > heroes_3_nekropolis_28mm_scale_units_for_tabletop_gaming [non dl]"
+title: "[GRATUIT] Thingiverse > VisualGlitch > heroes_3_nekropolis_28mm_scale_units_for_tabletop_gaming [dl]"
 date: "2026-02-10T18:41:19+00:00"
 toc: true
 image: "thumbs_-_7292179_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "warmaster"
 - "MORTS-VIVANTS"
 - "warmaster MORTS-VIVANTS"
-- "NONDL"
-- "warmaster NONDL"
-- "MORTS-VIVANTS NONDL"
-- "warmaster MORTS-VIVANTS NONDL"
 - "NONSUP"
 - "warmaster NONSUP"
 - "MORTS-VIVANTS NONSUP"
 - "warmaster MORTS-VIVANTS NONSUP"
-- "NONDL NONSUP"
-- "warmaster NONDL NONSUP"
-- "MORTS-VIVANTS NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_7292179_-_Images_1.avif> "thumbs_-_7292179_-_Images_1.avif")
+
+  ![](<thumbs_-_7292179_-_ImagesSTL_1.avif> "thumbs_-_7292179_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- warmaster MORTS-VIVANTS NONDL NONSUP
+- warmaster MORTS-VIVANTS  NONSUP
 
 
 Description :
