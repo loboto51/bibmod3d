@@ -1,11 +1,11 @@
 
 ---
-title: "[GRATUIT] Cults3d_supprimes > PrintForFun > Ayris [non dl]"
-date: "2021-11-02T16:00:21Z"
+title: "[GRATUIT] Thingiverse > TOTOleHero > Remixed_High_Elf_Shield_with_heraldry [non dl]"
+date: "2021-04-15T06:38:33+00:00"
 toc: true
-image: "thumbs_-_ayris_-_Images_1.avif"
+image: "thumbs_-_4828569_-_Images_1.avif"
 tags:
-- "PrintForFun"
+- "TOTOleHero"
 - "28mm"
 - "ELFES"
 - "28mm ELFES"
@@ -50,13 +50,13 @@ tags:
 
 ---
 
-![](<thumbs_-_ayris_-_Images_1.avif> "thumbs_-_ayris_-_Images_1.avif")
+![](<thumbs_-_4828569_-_Images_1.avif> "thumbs_-_4828569_-_Images_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/art/ayris](https://cults3d.com/en/3d-model/art/ayris)
+Source : [https://www.thingiverse.com/thing:4828569](https://www.thingiverse.com/thing:4828569)
 
-Id objet : ayris
+Id objet : 4828569
 
 Prix : 0 euros
 
@@ -73,7 +73,8 @@ Collections pour tags :
 Description :
 
 ~~~
-2 model 40mm and 54mm
+Remixed version of the High Elf Shield by Luamper to add add some heraldry.
+
 ~~~
 
 
