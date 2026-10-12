@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Golodius > Lemnos_pattern_Imperial_frigate [non dl]"
+title: "[GRATUIT] Cults3d > Golodius > Lemnos_pattern_Imperial_frigate [dl]"
 date: "2024-11-20T12:04:00Z"
 toc: true
 image: "thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_Images_1.avif"
@@ -13,13 +13,6 @@ tags:
 - "bfg Flotte"
 - "IMP Flotte"
 - "bfg IMP Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "IMP NONDL"
-- "bfg IMP NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -27,14 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_Images_1.avif> "thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_Images_1.avif")
+
+  ![](<thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_ImagesSTL_1.avif> "thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_Makes_1.avif> "thumbs_-_lemnos-pattern-imperial-frigate-golodius-2_-_Makes_1.avif")
 
@@ -53,7 +44,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg IMP Flotte NONDL NONSUP
+- bfg IMP Flotte  NONSUP
 
 
 Description :
