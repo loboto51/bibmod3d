@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Golodius > BFG_Doomfire_bomber_ordnance_marker [non dl]"
+title: "[GRATUIT] Cults3d > Golodius > BFG_Doomfire_bomber_ordnance_marker [dl]"
 date: "2024-09-26T13:53:05Z"
 toc: true
 image: "thumbs_-_bfg-doomfire-bomber-ordnance-marker_-_Images_1.avif"
@@ -13,13 +13,6 @@ tags:
 - "bfg Flotte"
 - "IMP Flotte"
 - "bfg IMP Flotte"
-- "NONDL"
-- "bfg NONDL"
-- "IMP NONDL"
-- "bfg IMP NONDL"
-- "Flotte NONDL"
-- "bfg Flotte NONDL"
-- "IMP Flotte NONDL"
 - "NONSUP"
 - "bfg NONSUP"
 - "IMP NONSUP"
@@ -27,14 +20,12 @@ tags:
 - "Flotte NONSUP"
 - "bfg Flotte NONSUP"
 - "IMP Flotte NONSUP"
-- "NONDL NONSUP"
-- "bfg NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Flotte NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_bfg-doomfire-bomber-ordnance-marker_-_Images_1.avif> "thumbs_-_bfg-doomfire-bomber-ordnance-marker_-_Images_1.avif")
+
+  ![](<thumbs_-_bfg-doomfire-bomber-ordnance-marker_-_ImagesSTL_1.avif> "thumbs_-_bfg-doomfire-bomber-ordnance-marker_-_ImagesSTL_1.avif")
 
   
 
@@ -51,7 +42,7 @@ Collections :
 
 Collections pour tags :
 
-- bfg IMP Flotte NONDL NONSUP
+- bfg IMP Flotte  NONSUP
 
 
 Description :

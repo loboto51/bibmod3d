@@ -1,6 +1,6 @@
 
 ---
-title: "[BON-MARCHE] Cults3d > Skeaze > Fungal_Alien_Scrappers [non dl]"
+title: "[BON-MARCHE] Cults3d > Skeaze > Fungal_Alien_Scrappers [dl]"
 date: "2025-11-01T00:01:46Z"
 toc: true
 image: "thumbs_-_fungal-alien-scrappers_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -42,15 +31,12 @@ tags:
 - "15mm Aliens-divers SUP"
 - "28mm Aliens-divers SUP"
 - "SFDIV Aliens-divers SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "Aliens-divers NONDL SUP"
 
 ---
 
 ![](<thumbs_-_fungal-alien-scrappers_-_Images_1.avif> "thumbs_-_fungal-alien-scrappers_-_Images_1.avif")
+
+  ![](<thumbs_-_fungal-alien-scrappers_-_ImagesSTL_1.avif> "thumbs_-_fungal-alien-scrappers_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm SFDIV Aliens-divers NONDL SUP
+- 15mm 28mm SFDIV Aliens-divers  SUP
 
 
 Description :
@@ -88,7 +74,16 @@ Justification du tag SUP :
 
 Number 01 has been slightly tweaked had some non-manifold geometry fixed. A pre-supported version of 02 is also included (which wasn't in the original).
 They are 15mm scale by default. Pre-supported versions in 15mm are included! I'm experimenting with FDM friendly pre-supported versions, but those aren't done yet.
-
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien01_rifle_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien02_mace_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien03_PlasmaPistol_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien04_rifle_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien05_Ax_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien06_Flamethrower_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien07_rifle_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien08_Grenade_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien09_chainsword_stl_.jpg
+ImagesSTL_-_fungal-alien-scrappers20251101-1-7ha08b_zip_unpack_Skeaze_fungal-alien-scrappers_ResinSupported_zip_unpack_ResinSupported__Fungalien10_sassyrifle_stl_.jpg
 
 
 

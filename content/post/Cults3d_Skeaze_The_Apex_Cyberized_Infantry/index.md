@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Skeaze > The_Apex_Cyberized_Infantry [non dl]"
+title: "[GRATUIT] Cults3d > Skeaze > The_Apex_Cyberized_Infantry [dl]"
 date: "2025-05-10T15:36:13Z"
 toc: true
 image: "thumbs_-_the-apex-cyberized-infantry_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "HUMAINS Sf-tous-types-humains"
 - "15mm HUMAINS Sf-tous-types-humains"
 - "SFDIV HUMAINS Sf-tous-types-humains"
-- "NONDL"
-- "15mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "HUMAINS NONDL"
-- "15mm HUMAINS NONDL"
-- "SFDIV HUMAINS NONDL"
-- "Sf-tous-types-humains NONDL"
-- "15mm Sf-tous-types-humains NONDL"
-- "SFDIV Sf-tous-types-humains NONDL"
-- "HUMAINS Sf-tous-types-humains NONDL"
 - "SUP"
 - "15mm SUP"
 - "SFDIV SUP"
@@ -42,15 +31,12 @@ tags:
 - "15mm Sf-tous-types-humains SUP"
 - "SFDIV Sf-tous-types-humains SUP"
 - "HUMAINS Sf-tous-types-humains SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "HUMAINS NONDL SUP"
-- "Sf-tous-types-humains NONDL SUP"
 
 ---
 
 ![](<thumbs_-_the-apex-cyberized-infantry_-_Images_1.avif> "thumbs_-_the-apex-cyberized-infantry_-_Images_1.avif")
+
+  ![](<thumbs_-_the-apex-cyberized-infantry_-_ImagesSTL_1.avif> "thumbs_-_the-apex-cyberized-infantry_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm SFDIV HUMAINS Sf-tous-types-humains NONDL SUP
+- 15mm SFDIV HUMAINS Sf-tous-types-humains  SUP
 
 
 Description :
@@ -91,7 +77,13 @@ Justification du tag SUP :
 
 This set contains 7 models in 15/18mm/1:100 scale.* All models are Pre-supported!**
 **I test print all my pre-supported files. I tend to go with more supports to be safe. I'd recommend using the hot-water technique to ensure easy support removal.
-
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_ApexCyberInjectorRifle_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberCarbineHonourClaw_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberCompactSmoulder_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberGlintCarbine01_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberGlintCarbine02_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberGlintCarbine03_stl_.jpg
+ImagesSTL_-_the-apex-cyberized-infantry20250510-1-ifmbxn_zip_unpack_Skeaze_the-apex-cyberized-infantry_Supported_zip_unpack_Supported_Supp_CyberInjectorHonourClaw_stl_.jpg
 
 
 

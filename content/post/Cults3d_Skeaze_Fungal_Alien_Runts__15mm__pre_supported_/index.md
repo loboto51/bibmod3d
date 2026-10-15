@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Skeaze > Fungal_Alien_Runts__15mm__pre_supported_ [non dl]"
+title: "[GRATUIT] Cults3d > Skeaze > Fungal_Alien_Runts__15mm__pre_supported_ [dl]"
 date: "2026-05-24T23:11:57Z"
 toc: true
 image: "thumbs_-_fungal-alien-runts-15mm-pre-supported_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -42,15 +31,12 @@ tags:
 - "15mm Aliens-divers SUP"
 - "28mm Aliens-divers SUP"
 - "SFDIV Aliens-divers SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "Aliens-divers NONDL SUP"
 
 ---
 
 ![](<thumbs_-_fungal-alien-runts-15mm-pre-supported_-_Images_1.avif> "thumbs_-_fungal-alien-runts-15mm-pre-supported_-_Images_1.avif")
+
+  ![](<thumbs_-_fungal-alien-runts-15mm-pre-supported_-_ImagesSTL_1.avif> "thumbs_-_fungal-alien-runts-15mm-pre-supported_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm SFDIV Aliens-divers NONDL SUP
+- 15mm 28mm SFDIV Aliens-divers  SUP
 
 
 Description :
@@ -83,7 +69,18 @@ I have test printed them, and pre-supported files are included!
 Justification du tag SUP :
 
 I have test printed them, and pre-supported files are included!
-
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt01_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt02_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt03_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt04_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt05_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_PreSupported_zip_unpack_PreSupported_Runt06_presup_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt01_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt02_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt03_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt04_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt05_stl_.jpg
+ImagesSTL_-_fungal-alien-runts-15mm-pre-supported20260524-1-wii1p2_zip_unpack_Skeaze_fungal-alien-runts-15mm-pre-supported_Runt06_stl_.jpg
 
 
 
