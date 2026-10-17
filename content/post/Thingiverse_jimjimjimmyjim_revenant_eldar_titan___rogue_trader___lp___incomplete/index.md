@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Thingiverse > jimjimjimmyjim > revenant_eldar_titan___rogue_trader___lp___incomplete [non dl]"
+title: "[GRATUIT] Thingiverse > jimjimjimmyjim > revenant_eldar_titan___rogue_trader___lp___incomplete [dl]"
 date: "2020-01-19T12:09:18+00:00"
 toc: true
-image: ""
+image: "thumbs_-_4113005_-_ImagesSTL_1.avif"
 tags:
 - "jimjimjimmyjim"
 - "epic"
@@ -20,17 +20,6 @@ tags:
 - "VM Eldars-revenants"
 - "epic VM Eldars-revenants"
 - "titans VM Eldars-revenants"
-- "NONDL"
-- "epic NONDL"
-- "titans NONDL"
-- "epic titans NONDL"
-- "VM NONDL"
-- "epic VM NONDL"
-- "titans VM NONDL"
-- "Eldars-revenants NONDL"
-- "epic Eldars-revenants NONDL"
-- "titans Eldars-revenants NONDL"
-- "VM Eldars-revenants NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "titans NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Eldars-revenants NONSUP"
 - "titans Eldars-revenants NONSUP"
 - "VM Eldars-revenants NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "titans NONDL NONSUP"
-- "VM NONDL NONSUP"
-- "Eldars-revenants NONDL NONSUP"
 
 ---
 
+![](<thumbs_-_4113005_-_ImagesSTL_1.avif> "thumbs_-_4113005_-_ImagesSTL_1.avif")
 
+  
 
 Source : [https://www.thingiverse.com/thing:4113005](https://www.thingiverse.com/thing:4113005)
 
@@ -65,7 +51,7 @@ Collections :
 
 Collections pour tags :
 
-- epic titans VM Eldars-revenants NONDL NONSUP
+- epic titans VM Eldars-revenants  NONSUP
 
 
 Description :

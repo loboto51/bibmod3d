@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Posh_Tim > Naughty_Suzans [non dl]"
+title: "[GRATUIT] Cults3d > Posh_Tim > Naughty_Suzans [dl]"
 date: "2023-01-03T19:56:38Z"
 toc: true
 image: "thumbs_-_naughty-suzans_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "15mm"
 - "SMI"
 - "15mm SMI"
-- "NONDL"
-- "15mm NONDL"
-- "SMI NONDL"
-- "15mm SMI NONDL"
-- "NONSUP"
-- "15mm NONSUP"
-- "SMI NONSUP"
-- "15mm SMI NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "SMI NONDL NONSUP"
+- "SUP"
+- "15mm SUP"
+- "SMI SUP"
+- "15mm SMI SUP"
 
 ---
 
 ![](<thumbs_-_naughty-suzans_-_Images_1.avif> "thumbs_-_naughty-suzans_-_Images_1.avif")
+
+  ![](<thumbs_-_naughty-suzans_-_ImagesSTL_1.avif> "thumbs_-_naughty-suzans_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 15mm SMI NONDL NONSUP
+- 15mm SMI  SUP
 
 
 Description :
@@ -56,6 +51,15 @@ KillMeForPrizes, Moonjammy, Ziddan, LoggyK, Aquilon, Harrowtale and Pass150787
 Go check out their stuff!
 (If I have missed any accreditations please let me know!)
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Naughty_Suzans_by_Posh-Tim_zip_unpack_Naughty_Suzans_by_Posh-Tim_Supported_Invictarus_Suzerain_1_stl_.jpg
+ImagesSTL_-_Naughty_Suzans_by_Posh-Tim_zip_unpack_Naughty_Suzans_by_Posh-Tim_Supported_Invictarus_Suzerain_2_stl_.jpg
+ImagesSTL_-_Naughty_Suzans_by_Posh-Tim_zip_unpack_Naughty_Suzans_by_Posh-Tim_Supported_Invictarus_Suzerain_3_stl_.jpg
+ImagesSTL_-_Naughty_Suzans_by_Posh-Tim_zip_unpack_Naughty_Suzans_by_Posh-Tim_Supported_Invictarus_Suzerain_Hammer_1_stl_.jpg
+ImagesSTL_-_Naughty_Suzans_by_Posh-Tim_zip_unpack_Naughty_Suzans_by_Posh-Tim_Supported_Invictarus_Suzerain_Hammer_2_stl_.jpg
 
 
 

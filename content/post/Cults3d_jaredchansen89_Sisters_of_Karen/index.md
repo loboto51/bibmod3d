@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > jaredchansen89 > Sisters_of_Karen [non dl]"
+title: "[GRATUIT] Cults3d > jaredchansen89 > Sisters_of_Karen [dl]"
 date: "2022-12-30T03:35:32Z"
 toc: true
 image: "thumbs_-_sisters-of-karen_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "CHAOS SOB"
 - "28mm CHAOS SOB"
 - "40K CHAOS SOB"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "40K CHAOS NONDL"
-- "SOB NONDL"
-- "28mm SOB NONDL"
-- "40K SOB NONDL"
-- "CHAOS SOB NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "40K NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "28mm SOB NONSUP"
 - "40K SOB NONSUP"
 - "CHAOS SOB NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "SOB NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_sisters-of-karen_-_Images_1.avif> "thumbs_-_sisters-of-karen_-_Images_1.avif")
+
+  ![](<thumbs_-_sisters-of-karen_-_ImagesSTL_1.avif> "thumbs_-_sisters-of-karen_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm 40K CHAOS SOB NONDL NONSUP
+- 28mm 40K CHAOS SOB  NONSUP
 
 
 Description :

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Neotericminiatures > Greater_Good___New_Expansion__Warden_Heads [non dl]"
+title: "[GRATUIT] Cults3d > Neotericminiatures > Greater_Good___New_Expansion__Warden_Heads [dl]"
 date: "2024-10-18T20:43:45Z"
 toc: true
 image: "thumbs_-_greater-good-new-expansion-warden-heads_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "TAU"
 - "28mm TAU"
-- "NONDL"
-- "28mm NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "TAU NONSUP"
-- "28mm TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TAU NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "TAU SUP"
+- "28mm TAU SUP"
 
 ---
 
 ![](<thumbs_-_greater-good-new-expansion-warden-heads_-_Images_1.avif> "thumbs_-_greater-good-new-expansion-warden-heads_-_Images_1.avif")
+
+  ![](<thumbs_-_greater-good-new-expansion-warden-heads_-_ImagesSTL_1.avif> "thumbs_-_greater-good-new-expansion-warden-heads_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TAU NONDL NONSUP
+- 28mm TAU  SUP
 
 
 Description :
@@ -48,6 +43,13 @@ Description :
 ~~~
 A free selection of the heads for the warden suits. Great for kitbashing.
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_Free_warden_heads_zip_unpack_Free_warden_heads_Supported_LYS_Type_1__repaired__lys_.jpg
+ImagesSTL_-_Free_warden_heads_zip_unpack_Free_warden_heads_Supported_LYS_Type_2__repaired__lys_.jpg
+ImagesSTL_-_Free_warden_heads_zip_unpack_Free_warden_heads_Supported_LYS_Type_3__repaired__lys_.jpg
 
 
 
