@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > jaredchansen89 > Sinners_of_Battle__excess_ed__ [non dl]"
+title: "[GRATUIT] Cults3d > jaredchansen89 > Sinners_of_Battle__excess_ed__ [dl]"
 date: "2024-01-29T09:32:00Z"
 toc: true
 image: "thumbs_-_sinners-of-battle-excess-ed_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "CHAOS SOB"
 - "28mm CHAOS SOB"
 - "40K CHAOS SOB"
-- "NONDL"
-- "28mm NONDL"
-- "40K NONDL"
-- "28mm 40K NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "40K CHAOS NONDL"
-- "SOB NONDL"
-- "28mm SOB NONDL"
-- "40K SOB NONDL"
-- "CHAOS SOB NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "40K NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "28mm SOB NONSUP"
 - "40K SOB NONSUP"
 - "CHAOS SOB NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "40K NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "SOB NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_sinners-of-battle-excess-ed_-_Images_1.avif> "thumbs_-_sinners-of-battle-excess-ed_-_Images_1.avif")
+
+  ![](<thumbs_-_sinners-of-battle-excess-ed_-_ImagesSTL_1.avif> "thumbs_-_sinners-of-battle-excess-ed_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_sinners-of-battle-excess-ed_-_Makes_1.avif> "thumbs_-_sinners-of-battle-excess-ed_-_Makes_1.avif")
 
@@ -69,7 +55,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm 40K CHAOS SOB NONDL NONSUP
+- 28mm 40K CHAOS SOB  NONSUP
 
 
 Description :

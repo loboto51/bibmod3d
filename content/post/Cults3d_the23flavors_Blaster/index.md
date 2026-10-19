@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > the23flavors > Blaster [non dl]"
+title: "[GRATUIT] Cults3d > the23flavors > Blaster [dl]"
 date: "2020-11-27T15:50:03Z"
 toc: true
 image: "thumbs_-_blaster-the23flavors_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "TAU"
 - "28mm TAU"
-- "NONDL"
-- "28mm NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TAU NONSUP"
 - "28mm TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TAU NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_blaster-the23flavors_-_Images_1.avif> "thumbs_-_blaster-the23flavors_-_Images_1.avif")
+
+  ![](<thumbs_-_blaster-the23flavors_-_ImagesSTL_1.avif> "thumbs_-_blaster-the23flavors_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_blaster-the23flavors_-_Makes_1.avif> "thumbs_-_blaster-the23flavors_-_Makes_1.avif")
 
@@ -42,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TAU NONDL NONSUP
+- 28mm TAU  NONSUP
 
 
 Description :

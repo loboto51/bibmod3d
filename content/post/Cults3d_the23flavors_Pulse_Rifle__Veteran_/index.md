@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > the23flavors > Pulse_Rifle__Veteran_ [non dl]"
+title: "[GRATUIT] Cults3d > the23flavors > Pulse_Rifle__Veteran_ [dl]"
 date: "2020-11-27T14:45:39Z"
 toc: true
 image: "thumbs_-_pulse-rifle-veteran_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "TAU"
 - "28mm TAU"
-- "NONDL"
-- "28mm NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TAU NONSUP"
 - "28mm TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TAU NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_pulse-rifle-veteran_-_Images_1.avif> "thumbs_-_pulse-rifle-veteran_-_Images_1.avif")
+
+  ![](<thumbs_-_pulse-rifle-veteran_-_ImagesSTL_1.avif> "thumbs_-_pulse-rifle-veteran_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TAU NONDL NONSUP
+- 28mm TAU  NONSUP
 
 
 Description :

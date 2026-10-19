@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > jaredchansen89 > Ork_weapons [non dl]"
+title: "[GRATUIT] Cults3d > jaredchansen89 > Ork_weapons [dl]"
 date: "2022-12-08T22:18:08Z"
 toc: true
 image: "thumbs_-_ork-weapons_-_Images_1.avif"
@@ -69,35 +69,6 @@ tags:
 - "HUMAINS Bits Builders"
 - "ORKS Bits Builders"
 - "40k-armes-diverses Bits Builders"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
-- "IMP ORKS NONDL"
-- "HUMAINS ORKS NONDL"
-- "40k-armes-diverses NONDL"
-- "28mm 40k-armes-diverses NONDL"
-- "IMP 40k-armes-diverses NONDL"
-- "HUMAINS 40k-armes-diverses NONDL"
-- "ORKS 40k-armes-diverses NONDL"
-- "Bits NONDL"
-- "28mm Bits NONDL"
-- "IMP Bits NONDL"
-- "HUMAINS Bits NONDL"
-- "ORKS Bits NONDL"
-- "40k-armes-diverses Bits NONDL"
-- "Builders NONDL"
-- "28mm Builders NONDL"
-- "IMP Builders NONDL"
-- "HUMAINS Builders NONDL"
-- "ORKS Builders NONDL"
-- "40k-armes-diverses Builders NONDL"
-- "Bits Builders NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "IMP NONSUP"
@@ -127,18 +98,12 @@ tags:
 - "ORKS Builders NONSUP"
 - "40k-armes-diverses Builders NONSUP"
 - "Bits Builders NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
-- "ORKS NONDL NONSUP"
-- "40k-armes-diverses NONDL NONSUP"
-- "Bits NONDL NONSUP"
-- "Builders NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_ork-weapons_-_Images_1.avif> "thumbs_-_ork-weapons_-_Images_1.avif")
+
+  ![](<thumbs_-_ork-weapons_-_ImagesSTL_1.avif> "thumbs_-_ork-weapons_-_ImagesSTL_1.avif")
 
   
 
@@ -155,7 +120,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders NONDL NONSUP
+- 28mm IMP HUMAINS ORKS 40k-armes-diverses Bits Builders  NONSUP
 
 
 Description :

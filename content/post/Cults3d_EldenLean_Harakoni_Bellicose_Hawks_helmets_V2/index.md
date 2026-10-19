@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > EldenLean > Harakoni_Bellicose_Hawks_helmets_V2 [non dl]"
+title: "[GRATUIT] Cults3d > EldenLean > Harakoni_Bellicose_Hawks_helmets_V2 [dl]"
 date: "2026-08-24T18:07:51Z"
 toc: true
 image: "thumbs_-_harakoni-bellicose-hawks-helmets-v2_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "28mm GI HUMAINS"
 - "IMP GI HUMAINS"
 - "ARBITES GI HUMAINS"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "ARBITES NONDL"
-- "28mm ARBITES NONDL"
-- "IMP ARBITES NONDL"
-- "GI NONDL"
-- "28mm GI NONDL"
-- "IMP GI NONDL"
-- "ARBITES GI NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "ARBITES HUMAINS NONDL"
-- "GI HUMAINS NONDL"
 - "SUP"
 - "28mm SUP"
 - "IMP SUP"
@@ -63,16 +47,12 @@ tags:
 - "IMP HUMAINS SUP"
 - "ARBITES HUMAINS SUP"
 - "GI HUMAINS SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "IMP NONDL SUP"
-- "ARBITES NONDL SUP"
-- "GI NONDL SUP"
-- "HUMAINS NONDL SUP"
 
 ---
 
 ![](<thumbs_-_harakoni-bellicose-hawks-helmets-v2_-_Images_1.avif> "thumbs_-_harakoni-bellicose-hawks-helmets-v2_-_Images_1.avif")
+
+  ![](<thumbs_-_harakoni-bellicose-hawks-helmets-v2_-_ImagesSTL_1.avif> "thumbs_-_harakoni-bellicose-hawks-helmets-v2_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP ARBITES GI HUMAINS NONDL SUP
+- 28mm IMP ARBITES GI HUMAINS  SUP
 
 
 Description :

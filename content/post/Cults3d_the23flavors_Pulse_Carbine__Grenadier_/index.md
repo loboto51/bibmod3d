@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > the23flavors > Pulse_Carbine__Grenadier_ [non dl]"
+title: "[GRATUIT] Cults3d > the23flavors > Pulse_Carbine__Grenadier_ [dl]"
 date: "2020-11-27T14:51:08Z"
 toc: true
 image: "thumbs_-_pulse-carbine-grenadier_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "TAU"
 - "28mm TAU"
-- "NONDL"
-- "28mm NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TAU NONSUP"
 - "28mm TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TAU NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_pulse-carbine-grenadier_-_Images_1.avif> "thumbs_-_pulse-carbine-grenadier_-_Images_1.avif")
+
+  ![](<thumbs_-_pulse-carbine-grenadier_-_ImagesSTL_1.avif> "thumbs_-_pulse-carbine-grenadier_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_pulse-carbine-grenadier_-_Makes_1.avif> "thumbs_-_pulse-carbine-grenadier_-_Makes_1.avif")
 
@@ -42,7 +37,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TAU NONDL NONSUP
+- 28mm TAU  NONSUP
 
 
 Description :

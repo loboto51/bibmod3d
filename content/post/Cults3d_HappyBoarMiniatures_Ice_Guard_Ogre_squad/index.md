@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > HappyBoarMiniatures > Ice_Guard_Ogre_squad [non dl]"
+title: "[GRATUIT] Cults3d > HappyBoarMiniatures > Ice_Guard_Ogre_squad [dl]"
 date: "2026-08-23T20:27:32Z"
 toc: true
 image: "thumbs_-_ice-guard-ogre-squad_-_Images_1.avif"
@@ -31,48 +31,28 @@ tags:
 - "28mm GI HUMAINS"
 - "IMP GI HUMAINS"
 - "ARBITES GI HUMAINS"
-- "NONDL"
-- "28mm NONDL"
-- "IMP NONDL"
-- "28mm IMP NONDL"
-- "ARBITES NONDL"
-- "28mm ARBITES NONDL"
-- "IMP ARBITES NONDL"
-- "GI NONDL"
-- "28mm GI NONDL"
-- "IMP GI NONDL"
-- "ARBITES GI NONDL"
-- "HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "ARBITES HUMAINS NONDL"
-- "GI HUMAINS NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "IMP NONSUP"
-- "28mm IMP NONSUP"
-- "ARBITES NONSUP"
-- "28mm ARBITES NONSUP"
-- "IMP ARBITES NONSUP"
-- "GI NONSUP"
-- "28mm GI NONSUP"
-- "IMP GI NONSUP"
-- "ARBITES GI NONSUP"
-- "HUMAINS NONSUP"
-- "28mm HUMAINS NONSUP"
-- "IMP HUMAINS NONSUP"
-- "ARBITES HUMAINS NONSUP"
-- "GI HUMAINS NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "ARBITES NONDL NONSUP"
-- "GI NONDL NONSUP"
-- "HUMAINS NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "IMP SUP"
+- "28mm IMP SUP"
+- "ARBITES SUP"
+- "28mm ARBITES SUP"
+- "IMP ARBITES SUP"
+- "GI SUP"
+- "28mm GI SUP"
+- "IMP GI SUP"
+- "ARBITES GI SUP"
+- "HUMAINS SUP"
+- "28mm HUMAINS SUP"
+- "IMP HUMAINS SUP"
+- "ARBITES HUMAINS SUP"
+- "GI HUMAINS SUP"
 
 ---
 
 ![](<thumbs_-_ice-guard-ogre-squad_-_Images_1.avif> "thumbs_-_ice-guard-ogre-squad_-_Images_1.avif")
+
+  ![](<thumbs_-_ice-guard-ogre-squad_-_ImagesSTL_1.avif> "thumbs_-_ice-guard-ogre-squad_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm IMP ARBITES GI HUMAINS NONDL NONSUP
+- 28mm IMP ARBITES GI HUMAINS  SUP
 
 
 Description :
@@ -104,6 +84,13 @@ We are going to add ogre builder in future with detachable hands and swappable h
 
 And armored ogres will be avilable in future as well
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_ice-guard-ogre-squad20260823-1-mv9x6d_zip_unpack_HappyBoarMiniatures_ice-guard-ogre-squad_Ogre_1_Supported_stl_.jpg
+ImagesSTL_-_ice-guard-ogre-squad20260823-1-mv9x6d_zip_unpack_HappyBoarMiniatures_ice-guard-ogre-squad_Ogre_2_supported_stl_.jpg
+ImagesSTL_-_ice-guard-ogre-squad20260823-1-mv9x6d_zip_unpack_HappyBoarMiniatures_ice-guard-ogre-squad_Ogre_3_supported_stl_.jpg
 
 
 

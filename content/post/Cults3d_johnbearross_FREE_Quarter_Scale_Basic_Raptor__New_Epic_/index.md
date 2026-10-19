@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > johnbearross > FREE_Quarter_Scale_Basic_Raptor__New_Epic_ [non dl]"
+title: "[GRATUIT] Cults3d > johnbearross > FREE_Quarter_Scale_Basic_Raptor__New_Epic_ [dl]"
 date: "2025-10-07T05:53:51Z"
 toc: true
 image: "thumbs_-_free-quarter-scale-basic-raptor-new-epic_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "IMP Admech-armigères"
 - "epic IMP Admech-armigères"
 - "chevaliers IMP Admech-armigères"
-- "NONDL"
-- "epic NONDL"
-- "chevaliers NONDL"
-- "epic chevaliers NONDL"
-- "IMP NONDL"
-- "epic IMP NONDL"
-- "chevaliers IMP NONDL"
-- "Admech-armigères NONDL"
-- "epic Admech-armigères NONDL"
-- "chevaliers Admech-armigères NONDL"
-- "IMP Admech-armigères NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "chevaliers NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Admech-armigères NONSUP"
 - "chevaliers Admech-armigères NONSUP"
 - "IMP Admech-armigères NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "chevaliers NONDL NONSUP"
-- "IMP NONDL NONSUP"
-- "Admech-armigères NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_free-quarter-scale-basic-raptor-new-epic_-_Images_1.avif> "thumbs_-_free-quarter-scale-basic-raptor-new-epic_-_Images_1.avif")
+
+  ![](<thumbs_-_free-quarter-scale-basic-raptor-new-epic_-_ImagesSTL_1.avif> "thumbs_-_free-quarter-scale-basic-raptor-new-epic_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic chevaliers IMP Admech-armigères NONDL NONSUP
+- epic chevaliers IMP Admech-armigères  NONSUP
 
 
 Description :

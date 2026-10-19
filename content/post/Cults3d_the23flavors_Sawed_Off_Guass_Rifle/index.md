@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > the23flavors > Sawed_Off_Guass_Rifle [non dl]"
+title: "[GRATUIT] Cults3d > the23flavors > Sawed_Off_Guass_Rifle [dl]"
 date: "2020-11-27T16:01:54Z"
 toc: true
 image: "thumbs_-_sawed-off-guass-rifle_-_Images_1.avif"
@@ -9,21 +9,16 @@ tags:
 - "28mm"
 - "TAU"
 - "28mm TAU"
-- "NONDL"
-- "28mm NONDL"
-- "TAU NONDL"
-- "28mm TAU NONDL"
 - "NONSUP"
 - "28mm NONSUP"
 - "TAU NONSUP"
 - "28mm TAU NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TAU NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_sawed-off-guass-rifle_-_Images_1.avif> "thumbs_-_sawed-off-guass-rifle_-_Images_1.avif")
+
+  ![](<thumbs_-_sawed-off-guass-rifle_-_ImagesSTL_1.avif> "thumbs_-_sawed-off-guass-rifle_-_ImagesSTL_1.avif")
 
   
 
@@ -40,7 +35,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm TAU NONDL NONSUP
+- 28mm TAU  NONSUP
 
 
 Description :
