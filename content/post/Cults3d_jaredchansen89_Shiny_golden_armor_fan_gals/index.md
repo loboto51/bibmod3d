@@ -9,28 +9,28 @@ tags:
 - "28mm"
 - "40K"
 - "28mm 40K"
-- "CHAOS"
-- "28mm CHAOS"
-- "40K CHAOS"
-- "28mm 40K CHAOS"
+- "CUSTODES"
+- "28mm CUSTODES"
+- "40K CUSTODES"
+- "28mm 40K CUSTODES"
 - "SOB"
 - "28mm SOB"
 - "40K SOB"
 - "28mm 40K SOB"
-- "CHAOS SOB"
-- "28mm CHAOS SOB"
-- "40K CHAOS SOB"
+- "CUSTODES SOB"
+- "28mm CUSTODES SOB"
+- "40K CUSTODES SOB"
 - "NONSUP"
 - "28mm NONSUP"
 - "40K NONSUP"
 - "28mm 40K NONSUP"
-- "CHAOS NONSUP"
-- "28mm CHAOS NONSUP"
-- "40K CHAOS NONSUP"
+- "CUSTODES NONSUP"
+- "28mm CUSTODES NONSUP"
+- "40K CUSTODES NONSUP"
 - "SOB NONSUP"
 - "28mm SOB NONSUP"
 - "40K SOB NONSUP"
-- "CHAOS SOB NONSUP"
+- "CUSTODES SOB NONSUP"
 
 ---
 
@@ -48,12 +48,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- 28mm 40K CHAOS SOB
+- 28mm 40K CUSTODES SOB
 
 
 Collections pour tags :
 
-- 28mm 40K CHAOS SOB  NONSUP
+- 28mm 40K CUSTODES SOB  NONSUP
 
 
 Description :
