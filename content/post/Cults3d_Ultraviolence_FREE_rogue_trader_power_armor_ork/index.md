@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > FREE_rogue_trader_power_armor_ork [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > FREE_rogue_trader_power_armor_ork [dl]"
 date: "2024-01-04T18:37:48Z"
 toc: true
 image: "thumbs_-_free-rogue-trader-power-armor-ork_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "28mm GOBELINS Gretchins"
 - "ORCS GOBELINS Gretchins"
 - "ORKS GOBELINS Gretchins"
-- "NONDL"
-- "28mm NONDL"
-- "ORCS NONDL"
-- "28mm ORCS NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
-- "ORCS ORKS NONDL"
-- "GOBELINS NONDL"
-- "28mm GOBELINS NONDL"
-- "ORCS GOBELINS NONDL"
-- "ORKS GOBELINS NONDL"
-- "Gretchins NONDL"
-- "28mm Gretchins NONDL"
-- "ORCS Gretchins NONDL"
-- "ORKS Gretchins NONDL"
-- "GOBELINS Gretchins NONDL"
 - "SUP"
 - "28mm SUP"
 - "ORCS SUP"
@@ -63,16 +47,12 @@ tags:
 - "ORCS Gretchins SUP"
 - "ORKS Gretchins SUP"
 - "GOBELINS Gretchins SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "ORCS NONDL SUP"
-- "ORKS NONDL SUP"
-- "GOBELINS NONDL SUP"
-- "Gretchins NONDL SUP"
 
 ---
 
 ![](<thumbs_-_free-rogue-trader-power-armor-ork_-_Images_1.avif> "thumbs_-_free-rogue-trader-power-armor-ork_-_Images_1.avif")
+
+  ![](<thumbs_-_free-rogue-trader-power-armor-ork_-_ImagesSTL_1.avif> "thumbs_-_free-rogue-trader-power-armor-ork_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_free-rogue-trader-power-armor-ork_-_Makes_1.avif> "thumbs_-_free-rogue-trader-power-armor-ork_-_Makes_1.avif")
 
@@ -91,7 +71,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ORCS ORKS GOBELINS Gretchins NONDL SUP
+- 28mm ORCS ORKS GOBELINS Gretchins  SUP
 
 
 Description :
@@ -109,7 +89,10 @@ patreon.com/user?u=33218847
 Justification du tag SUP :
 
 Model comes as a whole, multipart and supported.
-
+ImagesSTL_-_free-rogue-trader-power-armor-ork20240209-59-t5he98_zip_unpack_Ultraviolence_free-rogue-trader-power-armor-ork_pa_ork_01_body_supported_v04_stl_.jpg
+ImagesSTL_-_free-rogue-trader-power-armor-ork20240209-59-t5he98_zip_unpack_Ultraviolence_free-rogue-trader-power-armor-ork_pa_ork_01_fist_supported_v03_stl_.jpg
+ImagesSTL_-_free-rogue-trader-power-armor-ork20240209-59-t5he98_zip_unpack_Ultraviolence_free-rogue-trader-power-armor-ork_pa_ork_01_gun_supported_v03_stl_.jpg
+ImagesSTL_-_free-rogue-trader-power-armor-ork20240209-59-t5he98_zip_unpack_Ultraviolence_free-rogue-trader-power-armor-ork_pa_ork_01_head_supported_v03_stl_.jpg
 
 
 

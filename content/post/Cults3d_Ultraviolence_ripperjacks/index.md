@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > ripperjacks [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > ripperjacks [dl]"
 date: "2025-05-30T10:33:26Z"
 toc: true
 image: "thumbs_-_ripperjacks_-_Images_1.avif"
@@ -47,28 +47,6 @@ tags:
 - "28mm Necromunda-gangs 40k-gangs"
 - "IMP Necromunda-gangs 40k-gangs"
 - "HUMAINS Necromunda-gangs 40k-gangs"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "IMP NONDL"
-- "15mm IMP NONDL"
-- "28mm IMP NONDL"
-- "HUMAINS NONDL"
-- "15mm HUMAINS NONDL"
-- "28mm HUMAINS NONDL"
-- "IMP HUMAINS NONDL"
-- "Necromunda-gangs NONDL"
-- "15mm Necromunda-gangs NONDL"
-- "28mm Necromunda-gangs NONDL"
-- "IMP Necromunda-gangs NONDL"
-- "HUMAINS Necromunda-gangs NONDL"
-- "40k-gangs NONDL"
-- "15mm 40k-gangs NONDL"
-- "28mm 40k-gangs NONDL"
-- "IMP 40k-gangs NONDL"
-- "HUMAINS 40k-gangs NONDL"
-- "Necromunda-gangs 40k-gangs NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -91,13 +69,6 @@ tags:
 - "IMP 40k-gangs SUP"
 - "HUMAINS 40k-gangs SUP"
 - "Necromunda-gangs 40k-gangs SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "IMP NONDL SUP"
-- "HUMAINS NONDL SUP"
-- "Necromunda-gangs NONDL SUP"
-- "40k-gangs NONDL SUP"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -112,17 +83,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -134,15 +94,12 @@ tags:
 - "15mm Aliens-divers SUP"
 - "28mm Aliens-divers SUP"
 - "SFDIV Aliens-divers SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "Aliens-divers NONDL SUP"
 
 ---
 
 ![](<thumbs_-_ripperjacks_-_Images_1.avif> "thumbs_-_ripperjacks_-_Images_1.avif")
+
+  ![](<thumbs_-_ripperjacks_-_ImagesSTL_1.avif> "thumbs_-_ripperjacks_-_ImagesSTL_1.avif")
 
   
 
@@ -160,8 +117,8 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs NONDL SUP
-- 15mm 28mm SFDIV Aliens-divers NONDL SUP
+- 15mm 28mm IMP HUMAINS Necromunda-gangs 40k-gangs  SUP
+- 15mm 28mm SFDIV Aliens-divers  SUP
 
 
 Description :
@@ -181,7 +138,9 @@ https://www.instagram.com/ultraviolence.miniatures/
 Justification du tag SUP :
 
 3 models, SLA pre supported
-
+ImagesSTL_-_ripperjacks20250530-1-4bzyqe_zip_unpack_Ultraviolence_ripperjacks_ripperjack_a_supported_v02_stl_.jpg
+ImagesSTL_-_ripperjacks20250530-1-4bzyqe_zip_unpack_Ultraviolence_ripperjacks_ripperjack_b_supported_v02_stl_.jpg
+ImagesSTL_-_ripperjacks20250530-1-4bzyqe_zip_unpack_Ultraviolence_ripperjacks_ripperjack_c_supported_v02_stl_.jpg
 
 
 

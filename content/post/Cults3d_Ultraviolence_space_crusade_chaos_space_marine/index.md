@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > space_crusade_chaos_space_marine [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > space_crusade_chaos_space_marine [dl]"
 date: "2024-05-02T19:13:49Z"
 toc: true
 image: "thumbs_-_space-crusade-chaos-space-marine_-_Images_1.avif"
@@ -13,28 +13,19 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "SMC NONDL"
-- "28mm SMC NONDL"
-- "CHAOS SMC NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "CHAOS NONSUP"
-- "28mm CHAOS NONSUP"
-- "SMC NONSUP"
-- "28mm SMC NONSUP"
-- "CHAOS SMC NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "SMC NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "CHAOS SUP"
+- "28mm CHAOS SUP"
+- "SMC SUP"
+- "28mm SMC SUP"
+- "CHAOS SMC SUP"
 
 ---
 
 ![](<thumbs_-_space-crusade-chaos-space-marine_-_Images_1.avif> "thumbs_-_space-crusade-chaos-space-marine_-_Images_1.avif")
+
+  ![](<thumbs_-_space-crusade-chaos-space-marine_-_ImagesSTL_1.avif> "thumbs_-_space-crusade-chaos-space-marine_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_space-crusade-chaos-space-marine_-_Makes_1.avif> "thumbs_-_space-crusade-chaos-space-marine_-_Makes_1.avif")
 
@@ -53,7 +44,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm CHAOS SMC NONDL NONSUP
+- 28mm CHAOS SMC  SUP
 
 
 Description :
@@ -64,6 +55,16 @@ Multipart model with magnet sockets.
 If you like my work, you can support me on patreon:
 patreon.com/user?u=33218847
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_backpack_01_supported_v02_stl_.jpg
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_body_pose_01_supported_v02_stl_.jpg
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_bolter_01_supported_v03_stl_.jpg
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_helmet_01_supported_v02_stl_.jpg
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_shoulderpad_left_01_supported_v01_stl_.jpg
+ImagesSTL_-_space-crusade-chaos-space-marine20240812-1-kwcntb_zip_unpack_Ultraviolence_space-crusade-chaos-space-marine_sc_csm_shoulderpad_right_01_supported_v01_stl_.jpg
 
 
 

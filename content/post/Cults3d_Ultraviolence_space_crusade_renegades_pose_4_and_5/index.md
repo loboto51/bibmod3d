@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > space_crusade_renegades_pose_4_and_5 [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > space_crusade_renegades_pose_4_and_5 [dl]"
 date: "2025-02-28T19:35:32Z"
 toc: true
 image: "thumbs_-_space-crusade-renegades-pose-4-and-5_-_Images_1.avif"
@@ -13,28 +13,19 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "SMC NONDL"
-- "28mm SMC NONDL"
-- "CHAOS SMC NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "CHAOS NONSUP"
-- "28mm CHAOS NONSUP"
-- "SMC NONSUP"
-- "28mm SMC NONSUP"
-- "CHAOS SMC NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "CHAOS NONDL NONSUP"
-- "SMC NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "CHAOS SUP"
+- "28mm CHAOS SUP"
+- "SMC SUP"
+- "28mm SMC SUP"
+- "CHAOS SMC SUP"
 
 ---
 
 ![](<thumbs_-_space-crusade-renegades-pose-4-and-5_-_Images_1.avif> "thumbs_-_space-crusade-renegades-pose-4-and-5_-_Images_1.avif")
+
+  ![](<thumbs_-_space-crusade-renegades-pose-4-and-5_-_ImagesSTL_1.avif> "thumbs_-_space-crusade-renegades-pose-4-and-5_-_ImagesSTL_1.avif")
 
   
 
@@ -51,7 +42,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm CHAOS SMC NONDL NONSUP
+- 28mm CHAOS SMC  SUP
 
 
 Description :
@@ -65,6 +56,12 @@ patreon.com/user?u=33218847
 or check my ig for news
 https://www.instagram.com/ultraviolence.miniatures/
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_space-crusade-renegades-pose-4-and-520250228-1-cxdg4u_zip_unpack_Ultraviolence_space-crusade-renegades-pose-4-and-5_sc_csm_body_pose_04_supported_v01_stl_.jpg
+ImagesSTL_-_space-crusade-renegades-pose-4-and-520250228-1-cxdg4u_zip_unpack_Ultraviolence_space-crusade-renegades-pose-4-and-5_sc_csm_body_pose_05_supported_v01_stl_.jpg
 
 
 

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > Ymgarl_leech [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > Ymgarl_leech [dl]"
 date: "2024-11-29T08:34:58Z"
 toc: true
 image: "thumbs_-_ymgarl-leech_-_Images_1.avif"
@@ -98,43 +98,6 @@ tags:
 - "CHAOS Bits Builders"
 - "SMC Bits Builders"
 - "Monstres-divers-pour-kitbash Bits Builders"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "HOMMES-BETES NONDL"
-- "15mm HOMMES-BETES NONDL"
-- "28mm HOMMES-BETES NONDL"
-- "CHAOS NONDL"
-- "15mm CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "HOMMES-BETES CHAOS NONDL"
-- "SMC NONDL"
-- "15mm SMC NONDL"
-- "28mm SMC NONDL"
-- "HOMMES-BETES SMC NONDL"
-- "CHAOS SMC NONDL"
-- "Monstres-divers-pour-kitbash NONDL"
-- "15mm Monstres-divers-pour-kitbash NONDL"
-- "28mm Monstres-divers-pour-kitbash NONDL"
-- "HOMMES-BETES Monstres-divers-pour-kitbash NONDL"
-- "CHAOS Monstres-divers-pour-kitbash NONDL"
-- "SMC Monstres-divers-pour-kitbash NONDL"
-- "Bits NONDL"
-- "15mm Bits NONDL"
-- "28mm Bits NONDL"
-- "HOMMES-BETES Bits NONDL"
-- "CHAOS Bits NONDL"
-- "SMC Bits NONDL"
-- "Monstres-divers-pour-kitbash Bits NONDL"
-- "Builders NONDL"
-- "15mm Builders NONDL"
-- "28mm Builders NONDL"
-- "HOMMES-BETES Builders NONDL"
-- "CHAOS Builders NONDL"
-- "SMC Builders NONDL"
-- "Monstres-divers-pour-kitbash Builders NONDL"
-- "Bits Builders NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -172,15 +135,6 @@ tags:
 - "SMC Builders SUP"
 - "Monstres-divers-pour-kitbash Builders SUP"
 - "Bits Builders SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "HOMMES-BETES NONDL SUP"
-- "CHAOS NONDL SUP"
-- "SMC NONDL SUP"
-- "Monstres-divers-pour-kitbash NONDL SUP"
-- "Bits NONDL SUP"
-- "Builders NONDL SUP"
 - "15mm"
 - "28mm"
 - "15mm 28mm"
@@ -195,17 +149,6 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
 - "SUP"
 - "15mm SUP"
 - "28mm SUP"
@@ -217,29 +160,19 @@ tags:
 - "15mm Aliens-divers SUP"
 - "28mm Aliens-divers SUP"
 - "SFDIV Aliens-divers SUP"
-- "NONDL SUP"
-- "15mm NONDL SUP"
-- "28mm NONDL SUP"
-- "SFDIV NONDL SUP"
-- "Aliens-divers NONDL SUP"
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
 - "SUP"
 - "28mm SUP"
 - "TYRANIDES SUP"
 - "28mm TYRANIDES SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "TYRANIDES NONDL SUP"
 
 ---
 
 ![](<thumbs_-_ymgarl-leech_-_Images_1.avif> "thumbs_-_ymgarl-leech_-_Images_1.avif")
+
+  ![](<thumbs_-_ymgarl-leech_-_ImagesSTL_1.avif> "thumbs_-_ymgarl-leech_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_ymgarl-leech_-_Makes_1.avif> "thumbs_-_ymgarl-leech_-_Makes_1.avif")
 
@@ -260,9 +193,9 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm HOMMES-BETES CHAOS SMC Monstres-divers-pour-kitbash Bits Builders NONDL SUP
-- 15mm 28mm SFDIV Aliens-divers NONDL SUP
-- 28mm TYRANIDES NONDL SUP
+- 15mm 28mm HOMMES-BETES CHAOS SMC Monstres-divers-pour-kitbash Bits Builders  SUP
+- 15mm 28mm SFDIV Aliens-divers  SUP
+- 28mm TYRANIDES  SUP
 
 
 Description :
@@ -282,7 +215,7 @@ https://www.instagram.com/ultraviolence.miniatures/
 Justification du tag SUP :
 
 single model, sla presupported
-
+ImagesSTL_-_ymgarl-leech20241129-1-awp6r3_zip_unpack_Ultraviolence_ymgarl-leech_ymgarl_gs_pose01_supported_v01_stl_.jpg
 
 
 

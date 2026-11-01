@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > tyranid_spiders [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > tyranid_spiders [dl]"
 date: "2024-11-07T08:09:10Z"
 toc: true
 image: "thumbs_-_tyranid-spiders_-_Images_1.avif"
@@ -20,51 +20,30 @@ tags:
 - "SFDIV Aliens-divers"
 - "15mm SFDIV Aliens-divers"
 - "28mm SFDIV Aliens-divers"
-- "NONDL"
-- "15mm NONDL"
-- "28mm NONDL"
-- "15mm 28mm NONDL"
-- "SFDIV NONDL"
-- "15mm SFDIV NONDL"
-- "28mm SFDIV NONDL"
-- "Aliens-divers NONDL"
-- "15mm Aliens-divers NONDL"
-- "28mm Aliens-divers NONDL"
-- "SFDIV Aliens-divers NONDL"
-- "NONSUP"
-- "15mm NONSUP"
-- "28mm NONSUP"
-- "15mm 28mm NONSUP"
-- "SFDIV NONSUP"
-- "15mm SFDIV NONSUP"
-- "28mm SFDIV NONSUP"
-- "Aliens-divers NONSUP"
-- "15mm Aliens-divers NONSUP"
-- "28mm Aliens-divers NONSUP"
-- "SFDIV Aliens-divers NONSUP"
-- "NONDL NONSUP"
-- "15mm NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "SFDIV NONDL NONSUP"
-- "Aliens-divers NONDL NONSUP"
+- "SUP"
+- "15mm SUP"
+- "28mm SUP"
+- "15mm 28mm SUP"
+- "SFDIV SUP"
+- "15mm SFDIV SUP"
+- "28mm SFDIV SUP"
+- "Aliens-divers SUP"
+- "15mm Aliens-divers SUP"
+- "28mm Aliens-divers SUP"
+- "SFDIV Aliens-divers SUP"
 - "28mm"
 - "TYRANIDES"
 - "28mm TYRANIDES"
-- "NONDL"
-- "28mm NONDL"
-- "TYRANIDES NONDL"
-- "28mm TYRANIDES NONDL"
-- "NONSUP"
-- "28mm NONSUP"
-- "TYRANIDES NONSUP"
-- "28mm TYRANIDES NONSUP"
-- "NONDL NONSUP"
-- "28mm NONDL NONSUP"
-- "TYRANIDES NONDL NONSUP"
+- "SUP"
+- "28mm SUP"
+- "TYRANIDES SUP"
+- "28mm TYRANIDES SUP"
 
 ---
 
 ![](<thumbs_-_tyranid-spiders_-_Images_1.avif> "thumbs_-_tyranid-spiders_-_Images_1.avif")
+
+  ![](<thumbs_-_tyranid-spiders_-_ImagesSTL_1.avif> "thumbs_-_tyranid-spiders_-_ImagesSTL_1.avif")
 
   
 
@@ -82,8 +61,8 @@ Collections :
 
 Collections pour tags :
 
-- 15mm 28mm SFDIV Aliens-divers NONDL NONSUP
-- 28mm TYRANIDES NONDL NONSUP
+- 15mm 28mm SFDIV Aliens-divers  SUP
+- 28mm TYRANIDES  SUP
 
 
 Description :
@@ -94,6 +73,13 @@ My take on tyranid spiders from advanced space crusade.
 If you enjoy my work, please consider supporting me on Patreon.
 https://www.patreon.com/user?u=33218847
 ~~~
+
+Justification du tag SUP :
+
+
+ImagesSTL_-_tyranid-spiders20241107-1-jk8c1a_zip_unpack_Ultraviolence_tyranid-spiders_tyranid_spider_a_supported_v01_stl_.jpg
+ImagesSTL_-_tyranid-spiders20241107-1-jk8c1a_zip_unpack_Ultraviolence_tyranid-spiders_tyranid_spider_b_supported_v01_stl_.jpg
+ImagesSTL_-_tyranid-spiders20241107-1-jk8c1a_zip_unpack_Ultraviolence_tyranid-spiders_tyranid_spider_c_supported_v02_stl_.jpg
 
 
 

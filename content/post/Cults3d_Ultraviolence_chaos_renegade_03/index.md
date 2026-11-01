@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > chaos_renegade_03 [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > chaos_renegade_03 [dl]"
 date: "2024-09-03T15:25:28Z"
 toc: true
 image: "thumbs_-_chaos-renegade-03-ultraviolence_-_Images_1.avif"
@@ -13,13 +13,6 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "SMC NONDL"
-- "28mm SMC NONDL"
-- "CHAOS SMC NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
@@ -27,14 +20,12 @@ tags:
 - "SMC SUP"
 - "28mm SMC SUP"
 - "CHAOS SMC SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "CHAOS NONDL SUP"
-- "SMC NONDL SUP"
 
 ---
 
 ![](<thumbs_-_chaos-renegade-03-ultraviolence_-_Images_1.avif> "thumbs_-_chaos-renegade-03-ultraviolence_-_Images_1.avif")
+
+  ![](<thumbs_-_chaos-renegade-03-ultraviolence_-_ImagesSTL_1.avif> "thumbs_-_chaos-renegade-03-ultraviolence_-_ImagesSTL_1.avif")
 
   ![](<thumbs_-_chaos-renegade-03-ultraviolence_-_Makes_1.avif> "thumbs_-_chaos-renegade-03-ultraviolence_-_Makes_1.avif")
 
@@ -53,7 +44,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm CHAOS SMC NONDL SUP
+- 28mm CHAOS SMC  SUP
 
 
 Description :
@@ -71,7 +62,10 @@ patreon.com/user?u=33218847
 Justification du tag SUP :
 
 Model comes in whole, multipart and supported files.
-
+ImagesSTL_-_chaos-renegade-03-ultraviolence20240907-1-3swy8l_zip_unpack_Ultraviolence_chaos-renegade-03-ultraviolence_chaos_renegade_backpack_supported_v05_stl_.jpg
+ImagesSTL_-_chaos-renegade-03-ultraviolence20240907-1-3swy8l_zip_unpack_Ultraviolence_chaos-renegade-03-ultraviolence_chaos_rene_pose_02_body_supported_v01_stl_.jpg
+ImagesSTL_-_chaos-renegade-03-ultraviolence20240907-1-3swy8l_zip_unpack_Ultraviolence_chaos-renegade-03-ultraviolence_sc_csm_bolter_02_supported_v01_stl_.jpg
+ImagesSTL_-_chaos-renegade-03-ultraviolence20240907-1-3swy8l_zip_unpack_Ultraviolence_chaos-renegade-03-ultraviolence_sc_csm_bolter_03_supported_v01_stl_.jpg
 
 
 

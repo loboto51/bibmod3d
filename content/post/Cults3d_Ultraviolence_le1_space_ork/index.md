@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > le1_space_ork [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > le1_space_ork [dl]"
 date: "2025-11-07T14:32:20Z"
 toc: true
 image: "thumbs_-_le1-space-ork_-_Images_1.avif"
@@ -31,22 +31,6 @@ tags:
 - "28mm Diggas Gorkamorka"
 - "ORKS Diggas Gorkamorka"
 - "Gretchins Diggas Gorkamorka"
-- "NONDL"
-- "28mm NONDL"
-- "ORKS NONDL"
-- "28mm ORKS NONDL"
-- "Gretchins NONDL"
-- "28mm Gretchins NONDL"
-- "ORKS Gretchins NONDL"
-- "Diggas NONDL"
-- "28mm Diggas NONDL"
-- "ORKS Diggas NONDL"
-- "Gretchins Diggas NONDL"
-- "Gorkamorka NONDL"
-- "28mm Gorkamorka NONDL"
-- "ORKS Gorkamorka NONDL"
-- "Gretchins Gorkamorka NONDL"
-- "Diggas Gorkamorka NONDL"
 - "SUP"
 - "28mm SUP"
 - "ORKS SUP"
@@ -63,16 +47,12 @@ tags:
 - "ORKS Gorkamorka SUP"
 - "Gretchins Gorkamorka SUP"
 - "Diggas Gorkamorka SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "ORKS NONDL SUP"
-- "Gretchins NONDL SUP"
-- "Diggas NONDL SUP"
-- "Gorkamorka NONDL SUP"
 
 ---
 
 ![](<thumbs_-_le1-space-ork_-_Images_1.avif> "thumbs_-_le1-space-ork_-_Images_1.avif")
+
+  ![](<thumbs_-_le1-space-ork_-_ImagesSTL_1.avif> "thumbs_-_le1-space-ork_-_ImagesSTL_1.avif")
 
   
 
@@ -89,7 +69,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm ORKS Gretchins Diggas Gorkamorka NONDL SUP
+- 28mm ORKS Gretchins Diggas Gorkamorka  SUP
 
 
 Description :
@@ -112,7 +92,7 @@ UV
 Justification du tag SUP :
 
 Free 32mm miniature, presupported for sla printing.
-
+ImagesSTL_-_le1-space-ork20251107-1-csmxk0_zip_unpack_Ultraviolence_le1-space-ork_rt_ork_pose_06_supported_v01_stl_.jpg
 
 
 

@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > Ultraviolence > chaos_renegade_pose_07 [non dl]"
+title: "[GRATUIT] Cults3d > Ultraviolence > chaos_renegade_pose_07 [dl]"
 date: "2026-02-27T13:06:13Z"
 toc: true
 image: "thumbs_-_chaos-renegade-pose-07_-_Images_1.avif"
@@ -13,13 +13,6 @@ tags:
 - "28mm SMC"
 - "CHAOS SMC"
 - "28mm CHAOS SMC"
-- "NONDL"
-- "28mm NONDL"
-- "CHAOS NONDL"
-- "28mm CHAOS NONDL"
-- "SMC NONDL"
-- "28mm SMC NONDL"
-- "CHAOS SMC NONDL"
 - "SUP"
 - "28mm SUP"
 - "CHAOS SUP"
@@ -27,14 +20,12 @@ tags:
 - "SMC SUP"
 - "28mm SMC SUP"
 - "CHAOS SMC SUP"
-- "NONDL SUP"
-- "28mm NONDL SUP"
-- "CHAOS NONDL SUP"
-- "SMC NONDL SUP"
 
 ---
 
 ![](<thumbs_-_chaos-renegade-pose-07_-_Images_1.avif> "thumbs_-_chaos-renegade-pose-07_-_Images_1.avif")
+
+  ![](<thumbs_-_chaos-renegade-pose-07_-_ImagesSTL_1.avif> "thumbs_-_chaos-renegade-pose-07_-_ImagesSTL_1.avif")
 
   
 
@@ -51,7 +42,7 @@ Collections :
 
 Collections pour tags :
 
-- 28mm CHAOS SMC NONDL SUP
+- 28mm CHAOS SMC  SUP
 
 
 Description :
@@ -69,7 +60,9 @@ backpack in older releases
 Justification du tag SUP :
 
 sla supported
-
+ImagesSTL_-_chaos-renegade-pose-0720260227-1-8hgycv_zip_unpack_Ultraviolence_chaos-renegade-pose-07_chaos_rene_07_body_supported_v01_stl_.jpg
+ImagesSTL_-_chaos-renegade-pose-0720260227-1-8hgycv_zip_unpack_Ultraviolence_chaos-renegade-pose-07_chaos_rene_07_bolter_supported_v01_stl_.jpg
+ImagesSTL_-_chaos-renegade-pose-0720260227-1-8hgycv_zip_unpack_Ultraviolence_chaos-renegade-pose-07_chaos_rene_07_chainsword_supported_v01_stl_.jpg
 
 
 
