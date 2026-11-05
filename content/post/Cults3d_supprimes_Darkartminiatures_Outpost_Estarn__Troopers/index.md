@@ -1,6 +1,6 @@
 
 ---
-title: "[PAYANT] Cults3d > Darkartminiatures > Outpost_Estarn__Troopers [non dl]"
+title: "[PAYANT] Cults3d_supprimes > Darkartminiatures > Outpost_Estarn__Troopers [non dl]"
 date: "2024-07-29T14:39:29Z"
 toc: true
 image: "thumbs_-_outpost-estarn-troopers_-_Images_1.avif"

@@ -6,47 +6,20 @@ toc: true
 image: "thumbs_-_space-beastmen-lord_-_Images_1.avif"
 tags:
 - "lafigminiatures"
-- "epic"
-- "infanterie"
-- "epic infanterie"
-- "GI"
-- "epic GI"
-- "infanterie GI"
-- "epic infanterie GI"
-- "Hommes-betes"
-- "epic Hommes-betes"
-- "infanterie Hommes-betes"
-- "epic infanterie Hommes-betes"
-- "GI Hommes-betes"
-- "epic GI Hommes-betes"
-- "infanterie GI Hommes-betes"
+- "15mm"
+- "HOMMES-BETES"
+- "15mm HOMMES-BETES"
 - "NONDL"
-- "epic NONDL"
-- "infanterie NONDL"
-- "epic infanterie NONDL"
-- "GI NONDL"
-- "epic GI NONDL"
-- "infanterie GI NONDL"
-- "Hommes-betes NONDL"
-- "epic Hommes-betes NONDL"
-- "infanterie Hommes-betes NONDL"
-- "GI Hommes-betes NONDL"
+- "15mm NONDL"
+- "HOMMES-BETES NONDL"
+- "15mm HOMMES-BETES NONDL"
 - "SUP"
-- "epic SUP"
-- "infanterie SUP"
-- "epic infanterie SUP"
-- "GI SUP"
-- "epic GI SUP"
-- "infanterie GI SUP"
-- "Hommes-betes SUP"
-- "epic Hommes-betes SUP"
-- "infanterie Hommes-betes SUP"
-- "GI Hommes-betes SUP"
+- "15mm SUP"
+- "HOMMES-BETES SUP"
+- "15mm HOMMES-BETES SUP"
 - "NONDL SUP"
-- "epic NONDL SUP"
-- "infanterie NONDL SUP"
-- "GI NONDL SUP"
-- "Hommes-betes NONDL SUP"
+- "15mm NONDL SUP"
+- "HOMMES-BETES NONDL SUP"
 
 ---
 
@@ -62,12 +35,12 @@ Prix : 0.0 euros
 
 Collections :
 
-- epic infanterie GI Hommes-betes
+- 15mm HOMMES-BETES
 
 
 Collections pour tags :
 
-- epic infanterie GI Hommes-betes NONDL SUP
+- 15mm HOMMES-BETES NONDL SUP
 
 
 Description :
