@@ -1,6 +1,6 @@
 
 ---
-title: "[GRATUIT] Cults3d > plainoldandrew > Epic_Fusionhead_Turret [non dl]"
+title: "[GRATUIT] Cults3d > plainoldandrew > Epic_Fusionhead_Turret [dl]"
 date: "2026-11-05T23:29:42Z"
 toc: true
 image: "thumbs_-_epic-fusionhead-turret_-_Images_1.avif"
@@ -20,17 +20,6 @@ tags:
 - "TAU Tau-chars"
 - "epic TAU Tau-chars"
 - "vehicules TAU Tau-chars"
-- "NONDL"
-- "epic NONDL"
-- "vehicules NONDL"
-- "epic vehicules NONDL"
-- "TAU NONDL"
-- "epic TAU NONDL"
-- "vehicules TAU NONDL"
-- "Tau-chars NONDL"
-- "epic Tau-chars NONDL"
-- "vehicules Tau-chars NONDL"
-- "TAU Tau-chars NONDL"
 - "NONSUP"
 - "epic NONSUP"
 - "vehicules NONSUP"
@@ -42,15 +31,12 @@ tags:
 - "epic Tau-chars NONSUP"
 - "vehicules Tau-chars NONSUP"
 - "TAU Tau-chars NONSUP"
-- "NONDL NONSUP"
-- "epic NONDL NONSUP"
-- "vehicules NONDL NONSUP"
-- "TAU NONDL NONSUP"
-- "Tau-chars NONDL NONSUP"
 
 ---
 
 ![](<thumbs_-_epic-fusionhead-turret_-_Images_1.avif> "thumbs_-_epic-fusionhead-turret_-_Images_1.avif")
+
+  ![](<thumbs_-_epic-fusionhead-turret_-_ImagesSTL_1.avif> "thumbs_-_epic-fusionhead-turret_-_ImagesSTL_1.avif")
 
   
 
@@ -67,7 +53,7 @@ Collections :
 
 Collections pour tags :
 
-- epic vehicules TAU Tau-chars NONDL NONSUP
+- epic vehicules TAU Tau-chars  NONSUP
 
 
 Description :
