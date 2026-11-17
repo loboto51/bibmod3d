@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > dogmeat > Alternative_melta_cannon [dl]"
-date: "2021-04-20T00:13:51Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > dogmeat > Alternative_upper_arm [dl]"
+date: "2021-04-20T00:20:23Z"
 toc: true
-image: "thumbs_-_alternative-melta-cannon_-_Images_1.avif"
+image: "thumbs_-_alternative-upper-arm_-_Images_1.avif"
 tags:
 - "dogmeat"
 - "epic"
@@ -34,15 +34,15 @@ tags:
 
 ---
 
-![](<thumbs_-_alternative-melta-cannon_-_Images_1.avif> "thumbs_-_alternative-melta-cannon_-_Images_1.avif")
+![](<thumbs_-_alternative-upper-arm_-_Images_1.avif> "thumbs_-_alternative-upper-arm_-_Images_1.avif")
 
-  ![](<thumbs_-_alternative-melta-cannon_-_ImagesSTL_1.avif> "thumbs_-_alternative-melta-cannon_-_ImagesSTL_1.avif")
+  ![](<thumbs_-_alternative-upper-arm_-_ImagesSTL_1.avif> "thumbs_-_alternative-upper-arm_-_ImagesSTL_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/tool/alternative-melta-cannon](https://cults3d.com/en/3d-model/tool/alternative-melta-cannon)
+Source : [https://cults3d.com/en/3d-model/tool/alternative-upper-arm](https://cults3d.com/en/3d-model/tool/alternative-upper-arm)
 
-Id objet : alternative-melta-cannon
+Id objet : alternative-upper-arm
 
 Prix : 0 euros
 
@@ -59,7 +59,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Alternative melta cannon for Adeptus Titanicus reaver titan
+Alternative opper arm for Adeptus Titanicus reaver titan, fully poseable and with hole 5x1 mm magnet on the top end
 ~~~
 
 

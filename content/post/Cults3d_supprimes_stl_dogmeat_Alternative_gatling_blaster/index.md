@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > dogmeat > Alternative_upper_arm [dl]"
-date: "2021-04-20T00:20:23Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > dogmeat > Alternative_gatling_blaster [dl]"
+date: "2021-04-20T00:20:49Z"
 toc: true
-image: "thumbs_-_alternative-upper-arm_-_Images_1.avif"
+image: "thumbs_-_alternative-gatling-blaster_-_Images_1.avif"
 tags:
 - "dogmeat"
 - "epic"
@@ -34,15 +34,15 @@ tags:
 
 ---
 
-![](<thumbs_-_alternative-upper-arm_-_Images_1.avif> "thumbs_-_alternative-upper-arm_-_Images_1.avif")
+![](<thumbs_-_alternative-gatling-blaster_-_Images_1.avif> "thumbs_-_alternative-gatling-blaster_-_Images_1.avif")
 
-  ![](<thumbs_-_alternative-upper-arm_-_ImagesSTL_1.avif> "thumbs_-_alternative-upper-arm_-_ImagesSTL_1.avif")
+  ![](<thumbs_-_alternative-gatling-blaster_-_ImagesSTL_1.avif> "thumbs_-_alternative-gatling-blaster_-_ImagesSTL_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/tool/alternative-upper-arm](https://cults3d.com/en/3d-model/tool/alternative-upper-arm)
+Source : [https://cults3d.com/en/3d-model/tool/alternative-gatling-blaster](https://cults3d.com/en/3d-model/tool/alternative-gatling-blaster)
 
-Id objet : alternative-upper-arm
+Id objet : alternative-gatling-blaster
 
 Prix : 0 euros
 
@@ -59,7 +59,9 @@ Collections pour tags :
 Description :
 
 ~~~
-Alternative opper arm for Adeptus Titanicus reaver titan, fully poseable and with hole 5x1 mm magnet on the top end
+Alternative Gatling blaster for the Adeptus Titanicus reaver titan
+
+NOTE: that the body has a left/right facing, so jus flip it as you wish before printing
 ~~~
 
 

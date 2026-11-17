@@ -1,9 +1,9 @@
 
 ---
-title: "[GRATUIT] Cults3d > dogmeat > Alternative_gatling_blaster [dl]"
-date: "2021-04-20T00:20:49Z"
+title: "[GRATUIT] Cults3d_supprimes_stl > dogmeat > Alternative_melta_cannon [dl]"
+date: "2021-04-20T00:13:51Z"
 toc: true
-image: "thumbs_-_alternative-gatling-blaster_-_Images_1.avif"
+image: "thumbs_-_alternative-melta-cannon_-_Images_1.avif"
 tags:
 - "dogmeat"
 - "epic"
@@ -34,15 +34,15 @@ tags:
 
 ---
 
-![](<thumbs_-_alternative-gatling-blaster_-_Images_1.avif> "thumbs_-_alternative-gatling-blaster_-_Images_1.avif")
+![](<thumbs_-_alternative-melta-cannon_-_Images_1.avif> "thumbs_-_alternative-melta-cannon_-_Images_1.avif")
 
-  ![](<thumbs_-_alternative-gatling-blaster_-_ImagesSTL_1.avif> "thumbs_-_alternative-gatling-blaster_-_ImagesSTL_1.avif")
+  ![](<thumbs_-_alternative-melta-cannon_-_ImagesSTL_1.avif> "thumbs_-_alternative-melta-cannon_-_ImagesSTL_1.avif")
 
   
 
-Source : [https://cults3d.com/en/3d-model/tool/alternative-gatling-blaster](https://cults3d.com/en/3d-model/tool/alternative-gatling-blaster)
+Source : [https://cults3d.com/en/3d-model/tool/alternative-melta-cannon](https://cults3d.com/en/3d-model/tool/alternative-melta-cannon)
 
-Id objet : alternative-gatling-blaster
+Id objet : alternative-melta-cannon
 
 Prix : 0 euros
 
@@ -59,9 +59,7 @@ Collections pour tags :
 Description :
 
 ~~~
-Alternative Gatling blaster for the Adeptus Titanicus reaver titan
-
-NOTE: that the body has a left/right facing, so jus flip it as you wish before printing
+Alternative melta cannon for Adeptus Titanicus reaver titan
 ~~~
 
 
